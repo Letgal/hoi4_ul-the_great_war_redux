@@ -1,0 +1,3 @@
+﻿l_english:
+ TRIGGER_HAS_NOT_IDEA_TANK_MANUFACTURER: "Нема конструктора бронетехніки $IDEA|H$"
+ TRIGGER_HAS_IDEA_TANK_MANUFACTURER: "Є конструктор бронетехніки $IDEA|H$"

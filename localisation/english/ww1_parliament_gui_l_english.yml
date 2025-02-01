@@ -1,0 +1,31 @@
+﻿l_english:
+
+ # Decisions
+  parliament_gui_decision_category:0 "Національні Збори"
+  parliament_gui_decision_category_desc:0 ""
+
+ # Scripted GUI
+  parliament_gui_title:0 "Мережевий Парламент"
+  semicircle_parliament_gui_title:0 "Le parlement"
+  parliament_main_icon_tt:0 "[GetParliamentSeatName] - [GetParliamentPartyName]"
+  parliament_seat_text:0 "Крісло [?temp_seat|Y0]"
+  parliament_member_text:0 "[GetParliamentPartyName] - [?parliament_seat_array^parliament_member_index] Крісел"
+
+
+  FRA_parliament_title:0 "Національні Збори"
+  FRA_parliament_desc:0 "Національні Збори є центральним органом Французької Третьої Республіки. Втрата більшості в цій установі завадила б нам ухвалювати політичні, економічні та навіть військові рішення."
+  FRA_parliament_desc2:0 "Ми контролюємо [?democrat_alliance|Y0] Крісел ([?democrat_alliance_percent] %)"
+
+  party_1_text:0 "§RSFIO§!"
+  party_2_text:0 "§OIndependent Socialists§!"
+  party_3_text:0 "§8Демократично-республіканський альянс§!"
+  party_4_text:0 "§Крадикально-соціалістична партія§!"
+  party_5_text:0 "§1Незалежні радикали§!"
+  party_6_text:0 "§BRepublican Federation§!"
+  party_7_text:0 "§WConservatives§!"
+  party_8_text:0 "§Залежні республіканці§!"
+  party_9_text:0 "§gПопулярна ліберальна дія§!"
+  party_10_text:0 "§LНаціоналісти§!"
+  party_11_text:0 "§WVacant§!"
+  error:0 "§HVive la France§!"
+

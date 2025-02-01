@@ -1,0 +1,250 @@
+﻿l_english:
+### ПОСИЛЕННЯ ###
+ custom_diff_strong_rus: "Посилити Росію"
+ custom_diff_strong_auh: "Посилити Австро-Угорщину"
+ custom_diff_strong_tur: "Посилити Османів"
+ custom_diff_strong_ser: "Посилити Сербію"
+ custom_diff_strong_bul: "Посилити Болгарію"
+ custom_diff_strong_bel: "Посилити Бельгію"
+ custom_diff_strong_hol: "Посилити Голландію"
+ custom_diff_strong_swe: "Посилити Швецію"
+ custom_diff_strong_can: "Посилити Канаду"
+ custom_diff_strong_ast: "Посилити Австралію"
+ custom_diff_strong_qin: "Посилити Цін"
+ custom_diff_strong_kor: "Посилити Корею"
+ custom_diff_strong_bra: "Посилити Бразилію"
+ custom_diff_strong_lib: "Посилити Ліберію"
+ custom_diff_strong_gre: "Посилити Грецію"
+
+#GAME SETUP
+ #Superevent
+ RULE_SUPEREVENT:0 "Супер Події"
+ UKRULE_OPTION_DEFAULT_SUPEREVENT_DESC:0 "Супер події будуть включені."
+ RULE_OPTION_SUPEREVENT_DISABLED:0 "Вимкнути Супер Події"
+ RULE_OPTION_SUPEREVENT_DISABLED_DESC:0 "Супер події будуть вимкнені."
+
+ #Fragmentation
+ ITA_FRAGMENTATION_STATUS:0 "@ITA Статус фрагментації Італії"
+ RULE_OPTION_ITA_FRAGMENTED:0 "Італія роздроблена"
+ RULE_OPTION_ITA_FRAGMENTED_DESC:0 "Кордони Італії будуть перемальовані в кордони до Рісорджіменто."
+ RULE_OPTION_ITA_KR:0 "Спадщина Вельткріга"
+ RULE_OPTION_ITA_KR_DESC:0 "Кордони Італії будуть перемальовані у щось знайоме."
+ AUH_FRAGMENTATION_STATUS:0 "@AUS Австро-Угорщина роздроблена"
+ UA_OPTION_AUH_FRAGMENTED:0 "Етнічні кордони"
+ RULE_OPTION_AUH_FRAGMENTED_DESC:0 "Кордони Австро-Угорщини будуть перемальовані за етнічною ознакою."
+
+ #Ultimatum
+ ULTIMATUM_ON_AGADIR:0 "Ультиматум Агадіру"
+ RULE_OPTION_DEFAULT_ULTIMATUM_ON_AGADIR_DESC:0 "ІІ слідуватиме, щоб імітувати історичні події в їх умовах."
+ RULE_OPTION_WAR_ON_AGADIR:0 "Війна з Агадиром"
+ RULE_OPTION_WAR_ON_AGADIR_DESC:0 "Велика Війна вибухне в Агадірі."
+ ULTIMATUM_ON_ALBANIA:0 "Ультиматум Албанії"
+ RULE_OPTION_DEFAULT_ULTIMATUM_ON_ALBANIA_DESC:0 "ІІ слідуватиме, щоб імітувати історичні події в їх умовах."
+ RULE_OPTION_WAR_ON_ALBANIA:0 "Війна з Албанією"
+ RULE_OPTION_WAR_ON_ALBANIA_DESC:0 "Велика Війна вибухне в Албанії."
+
+ #Fate of Franz Fedinand
+ FATE_OF_FRANZ_FERDINAND:0 "Доля Франца Фердинанда"
+ RULE_OPTION_DEFAULT_FRANZ_FERDINAND_DESC:0 "Доля Франца Фердинанда вирішуватиметься вибором у грі."
+ RULE_OPTION_FRANZ_FERDINAND_SURVIVES:0 "Франц Фердинанд Виживає"
+ RULE_OPTION_FRANZ_FERDINAND_SURVIVES_DESC:0 "Франц Фердинанд виживе незалежно від вибору у грі."
+ RULE_OPTION_FRANZ_FERDINAND_DIES:0 "Франц Фердинанд Вмирає"
+ RULE_OPTION_FRANZ_FERDINAND_DIES_DESC:0 "Франц Фердинанд помре незалежно від вибору в грі, якщо Сербія не існує або не є маріонеткою."
+
+ #Fate of Pyotr Stolypin
+ FATE_OF_STOLYPIN:0 "Доля Петра Столипіна"
+ RULE_OPTION_DEFAULT_STOLYPIN_DESC:0 "Доля Столипіна буде випадковою, якщо історичні фокуси не будуть взяті."
+ RULE_OPTION_STOLYPIN_SURVIVES:0 "Столипін Виживає"
+ RULE_OPTION_STOLYPIN_SURVIVES_DESC:0 "Столипін переживе змову з метою вбивства."
+ UA_OPTION_STOLYPIN_DIES:0 "Столипін Вмирає"
+ UKRULE_OPTION_STOLYPIN_DIES_DESC:0 "Столипін буде вбитий."
+
+ #Fate of Theodore Roosevelt
+ FATE_OF_ROOSEVELT:0 "Доля Теодора Рузвелта"
+ RULE_OPTION_DEFAULT_ROOSEVELT_DESC:0 "Доля Рузвелта буде випадковою, якщо історична увага не буде взята."
+ RULE_OPTION_ROOSEVELT_SURVIVES:0 "Рузвелт Виживає"
+ RULE_OPTION_ROOSEVELT_SURVIVES_DESC:0 "Рузвелт переживе замах на вбивство."
+ UA_OPTION_ROOSEVELT_DIES:0 "Рузвелт Вмирає"
+ UKRULE_OPTION_ROOSEVELT_DIES_DESC:0 "Рузвелт буде вбитий."
+
+ #Fate of Tsar
+ FATE_OF_TSAR:0 "Доля царя"
+ RULE_OPTION_DEFAULT_TSAR_FATE_DESC:0 "Більшовики стратять царя та його родину."
+ RULE_OPTION_TSAR_IN_BRITAIN:0 "Цар рятується втечею"
+ RULE_OPTION_TSAR_IN_BRITAIN_DESC:0 "Цар біжить до Британії."
+ UA_OPTION_TSAR_RETURNED:0 "Цар повернуто"
+ RULE_OPTION_TSAR_RETURNED_DESC:0 "Цар буде врятований і повернений до влади білогвардійцями."
+
+ #Russian Flag
+ RULE_RUSSIAN_FLAG:0 "Російський Прапор"
+ RULE_OPTION_DEFAULT_RUSSIAN_FLAG:0 "£ww1_game_rule_flag_RUS Історичний Прапор"
+ RULE_OPTION_DEFAULT_RUSSIAN_FLAG_DESC:0 "§Y"Історичний"§! використовуватиметься триколірний прапор."
+ RULE_OPTION_AHISTORICAL_RUSSIAN_FLAG:0 "Антіїісторичний прапор"
+ RULE_OPTION_AHISTORICAL_RUSSIAN_FLAG_DESC:0 "§Y"Єдність царя з народом"§!прапор буде використовуватися.."
+ RULE_OPTION_IMPERIAL_RUSSIAN_FLAG:0 "Імперський прапор"
+ RULE_OPTION_IMPERIAL_RUSSIAN_FLAG_DESC:0 "§Y"Імперський"§! прапор буде використовуватись."
+
+ #Kaiserreich Flag
+ RULE_KAISERREICH_FLAG:0 "Прапор Кайзеррейха"
+ RULE_OPTION_DEFAULT_KAISERREICH_FLAG:0 "£ww1_game_rule_flag_GER_kaiserreich Імперський військовий прапор"
+ RULE_OPTION_DEFAULT_KAISERREICH_FLAG_DESC:0 "§Y"Імперський"§! використовуватиметься військовий прапор."
+ RULE_OPTION_HISTORICAL_KAISERREICH_FLAG:0 "Історичний прапор"
+ RULE_OPTION_HISTORICAL_KAISERREICH_FLAG_DESC:0 "§Y"Історичний"§! використовуватиметься триколірний прапор."
+
+#AI BEHAVIOR
+ RULE_OPTION_PROTO_FASCIST:0 "Протофашистський режим"
+ UA_OPTION_JUNTA:0 "Військова хунта"
+ RULE_OPTION_SOCIALIST:0 "Соціалізм"
+ RULE_OPTION_SYNDICALIST:0 "Синдикалізм"
+ UA_OPTION_CP:0 "Центральні держави"
+ UA_OPTION_ENTENTE:0 "Entente"
+ RULE_OPTION_AUTOCRATIC:0 "Автократія"
+ RULE_OPTION_ISLAMIST:0 "Ісламізм"
+ RULE_OPTION_DEMOCRATIC_SOCDEM:0 "Демократичний - СоцДем"
+
+ #Austria-Hungary
+ AUH_AI_BEHAVIOR:0 "@AUH Австро-Угорщина"
+ RULE_OPTION_HISTORICAL_AUH_AI_DESC:0 "Австро-угорський штучний інтелект спробує максимально повторити історичний ланцюжок подій."
+ UA_OPTION_FEDERALISM_AUH:0 "Верейнігте Штаатен"
+ RULE_OPTION_FEDERALISM_AUH_AI_DESC:0 "Австро-угорський ІІ спробує автономізуватися, пройшовши відповідним шляхом у дереві фокусів."
+
+ #Belgium
+ BEL_AI_BEHAVIOR:0 "@BEL Бельгія"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_BEL_AI_DESC:0 "Бельгійський ІІ спробує максимально точно простежити історичний ланцюжок подій."
+ RULE_OPTION_DEMOCRATIC_LIBERAL_BEL_AI_DESC:0 "Бельгійський ІІ спробує стати лібералом та інтегрувати Конго, вибравши відповідний шлях у національному дереві фокусів."
+ UKRULE_OPTION_NEUTRALITY_MONARCHIST_BEL_AI_DESC:0 "Бельгійський ІІ спробує встановити абсолютистський режим, пройшовши відповідний шлях у національному дереві фокусів."
+ RULE_OPTION_DEMOCRATIC_SOCDEM_BEL_AI_DESC:0 "Бельгійський ІІ спробує стати соціал-демократичним та вільним Конго, вибравши відповідний шлях у національному дереві фокусів."
+ RULE_OPTION_SOCIALIST_BEL_AI_DESC:0 "Бельгійський ІІ спробує стати соціалістом і скасувати монархію, вибравши відповідний шлях у дереві національних фокусів."
+
+ #Brazil
+ BRA_AI_BEHAVIOR:0 "@BRA Бразилія"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_BRA_AI_DESC:0 "Бразильський штучний інтелект намагатиметься максимально точно повторити історичний ланцюжок подій."
+ RULE_FASCIST_BRA_AI_DESC:0 "Бразильський ІІ спробує встановити флоріанську військову диктатуру."
+ RULE_OPTION_NEUTRALITY_MONARCHIST_BRA_AI_DESC:0 "Бразильський ІІ спробує відновити Імперію Бразилії, пройшовши відповідним шляхом у дереві національних фокусів."
+ RULE_DEMOCRATIC_ALTERNATE_BRA_AI_DESC:0 "Бразильський ІІ спробує реформувати республіку, пройшовши відповідним шляхом у дереві фокусів."
+ RULE_OPTION_MAXIMALIST:0 "Максималізм"
+ RULE_MAXIMALIST_BRA_AI_DESC:0 "Болгарський ІІ спробує повторити ланцюжок подій, необхідних для приходу максималістів до влади."
+ RULE_SYNDICALIST_BRA_AI_DESC:0 "Болгарський ІІ спробує повторити ланцюжок подій, необхідних для приходу синдикалістів до влади."
+
+ #Britain
+ RULE_OPTION_WW1_DEMOCRATIC_ENG_AI_DESC:0 "Британський ІІ намагатиметься залишатися ліберальним і брати участь у континентальних справах, слідуючи відповідним шляхом у дереві національних фокусів."
+ UA_OPTION_FABIAN_ASCENDANCY:0 "Fabian Ascendancy"
+ RULE_OPTION_FABIAN_ASCENDANCY_ENG_AI_DESC:0 "Британський ІІ спробує об'єднати соціалізм і створити Британську Республіку, пройшовши шляхом одкровення у дереві національного фокусів."
+ RULE_OPTION_PAX_BRITANNICA:0 "Пакс Британника - Випадкова"
+ RULE_OPTION_PAX_BRITANNICA_AI_DESC:0 "Британський ІІ спробує продовжити Pax Britannica, пройшовши відповідним шляхом у дереві національних пріоритетів, але їх подальша політична ситуація буде випадковою."
+ RULE_OPTION_ROYAL_PREROGATIVE:0 "Королівська прерогатива"
+ RULE_OPTION_ROYAL_PREROGATIVE_ENG_AI_DESC:0 "Британський ІІ спробує продовжити Pax Britannica і виконати королівську прерогативу, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ RULE_OPTION_LORD_PROTECTOR:0 "Лорд-захисник"
+ RULE_OPTION_LORD_PROTECTOR_ENG_AI_DESC:0 "Британський штучний інтелект спробує привести Герберта Кітченера до влади як лорда-протектора, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ RULE_OPTION_ALL_THE_KINGS_MEN:0 "Всі люди короля - Випадкові"
+ RULE_OPTION_ALL_THE_KINGS_MEN_AI_DESC:0 "Британський ІІ випадково вибере нового монарха після невдалої республіканської революції, пройшовши відповідним шляхом у дереві національного фокусу."
+ RULE_OPTION_ALL_THE_KINGS_MEN_EDWARD:0 "Всі люди короля: Законний король"
+ RULE_OPTION_ALL_THE_KINGS_MEN_EDWARD_ENG_AI_DESC:0 "Британський ІІ спробує привести Едуарда VIII до влади після невдалої республіканської революції, пройшовши відповідним шляхом у дереві національного фокусу."
+ RULE_OPTION_ALL_THE_KINGS_MEN_VICTORIA:0 "Всі люди короля: Повернення Вікторії"
+ RULE_OPTION_ALL_THE_KINGS_MEN_VICTORIA_ENG_AI_DESC:0 "Британський ІІ спробує привести принцесу Вікторію до влади після невдалої республіканської революції, пройшовши відповідним шляхом у дереві національного фокусу."
+ RULE_OPTION_ALL_THE_KINGS_MEN_AUWI:0 "Всі люди короля: Підстановковий знак"
+ RULE_OPTION_ALL_THE_KINGS_MEN_AUWI_ENG_AI_DESC:0 "Британський ІІ спробує привести принца Гогенцоллерна до влади після невдалої республіканської революції, пройшовши відповідним шляхом у дереві національного фокусу."
+
+ #Bulgaria
+ RULE_OPTION_HISTORICAL_BUL_AI_DESC:0 "Болгарський ІІ намагатиметься максимально повторити історичний ланцюжок подій."
+ RULE_OPTION_BORIS_III:0 "Правління Бориса III"
+ RULE_OPTION_BORIS_III_AI_DESC:0 "Болгарський ІІ спробує рано привести Бориса III до влади і зберегти нейтралітет під час Великої війни, пройшовши відповідний шлях у дереві національних фокусів."
+ RULE_OPTION_LIBERALIST_BUL:0 "Лібералізм"
+ RULE_OPTION_LIBERALIST_BUL_AI_DESC:0 "Болгарський ІІ спробує привести лібералів до влади і приєднатися до Центральних держав під час Великої війни, пройшовши відповідний шлях у дереві національних фокусів."
+ RULE_OPTION_AGRARIANIST_BUL:0 "Аграрії"
+ RULE_OPTION_AGRARIANIST_BUL_AI_DESC:0 "Болгарський ІІ спробує рано привести аграріїв до влади і приєднатися до Антанти під час Великої війни, пройшовши відповідний шлях у дереві національних фокусів."
+ RULE_OPTION_SOCILAIST_BUL_AI_DESC:0 "Болгарський ІІ спробує привести до влади вузьких соціалістів, пройшовши відповідним шляхом у дереві національних фокусів."
+ RULE_OPTION_FASCIST_BUL_AI_DESC:0 "Болгарський ІІ спробує рано привести реакціонерів до влади і приєднатися до Центральних держав під час Великої війни, пройшовши відповідний шлях у дереві фокусів."
+ RULE_OPTION_RADOMIR_REPUBLIC:0 "Республіка Радомир"
+ RULE_OPTION_RADOMIR_REPUBLIC_BUL_AI_DESC:0 "Болгарський ІІ спробує простежити ланцюжок подій, необхідних для створення Республіки Радомир."
+
+ #Німеччина
+ RULE_OPTION_HISTORICAL_GER_AI_DESC:0 "Німецька ІІ спробує максимально простежити історичний ланцюжок подій."
+ RULE_OPTION_CONTAIN_THE_KAISER:0 "Стримувати Кайзера"
+ RULE_OPTION_CONTAIN_THE_KAISER_GER_AI_DESC:0 "Німецький ІІ спробує стримати кайзера та турта в Азії, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ RULE_OPTION_BACKSTAB:0 "Удар у спину"
+ RULE_OPTION_BACKSTAB_GER_AI_DESC:0 "Німецька ІІ спробує розірвати союз з Австро-Угорщиною і вирушити до Азії, пройшовши відповідний шлях у дереві національних пріоритетів."
+
+ # France
+ RULE_OPTION_SOCIALIST_FRA_AI_DESC:0 "Французький ІІ спробує об'єднати ліві партії під керівництвом Жана Жореса для створення соціалістичних держав, пройшовши відповідним шляхом."
+ RULE_OPTION_DEMOCRATIC_ALTERNATE_FRA_AI_DESC:0 "Французький ІІ спробує зосередитися на інтервенціонізмі, пройшовши відповідним шляхом у національному дереві фокусів."
+ RULE_OPTION_FASCIST_FRA:0 "Націонал-синдикалізм"
+ RULE_OPTION_FASCIST_FRA_AI_DESC:0 "Французький ІІ спробує впровадити протофашистську націонал-синдикалістську систему, пройшовши відповідним шляхом у дереві національних фокусів."
+ #Italy
+ RULE_OPTION_HISTORICAL_ITA_AI_DESC:0 "Італійська ІІ спробує максимально простежити історичний ланцюжок подій."
+ RULE_OPTION_CP_ITA_AI_DESC:0 "Італійська ІІ спробує приєднатися до Центральних держав, пройшовши відповідним шляхом у дереві національних пріоритетів."
+
+ #Netherlands
+ RULE_OPTION_HISTORICAL_HOL_AI_DESC:0 "Голландський ІІ спробує максимально простежити історичний ланцюжок подій."
+ RULE_OPTION_BATAVIAN_REPUBLIC:0 "Батавська Республіка"
+ RULE_OPTION_BATAVIAN_REPUBLIC_HOL_AI_DESC:0 "Голландський ІІ спробує створити Батавську Республіку, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ RULE_OPTION_SYNDICALIST_HOL_AI_DESC:0 "Голландський ІІ спробує привести синдикалістів до влади, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ RULE_OPTION_NEUTRALITY_MONARCHIST_HOL_AI_DESC:0 "Голландський ІІ спробує розширити повноваження монарха і об'єднати Бенілюкс, пройшовши відповідним шляхом у дереві національних пріоритетів."
+
+ #Ottoman
+ OTO_AI_BEHAVIOR:0 "@TUR Османи"
+ RULE_OPTION_HISTORICAL_TRIUMVIRATE:0 "Історичний тріумвірат"
+ RULE_OPTION_HISTORICAL_TRIUMVIRATE_TUR_DESC:0 "ІІ Османської Імперії спробує максимально повторити історичний ланцюжок подій."
+ RULE_OPTION_UNITED_AND_READY:0 "Об'єднані та готові"
+ RULE_OPTION_UNITED_AND_READY_TUR_DESC:0 "Османський ІІ спробує очистити політизованих офіцерів, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ RULE_OPTION_AUTOCRATIC_TUR_DESC:0 "Османський ІІ спробує стати автократичним, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ RULE_OPTION_DEMOCRATIC_SEVKET:0 "Демократично - Іттіхадістський"
+ RULE_OPTION_DEMOCRATIC_SEVKET_TUR_DESC:0 "Османський ІІ спробує реформувати імперію, вибравши відповідний шлях у національному дереві фокусів."
+ RULE_OPTION_DEMOCRATIC_LIBERAL_TUR_DESC:0 "сманський ІІ спробує лібералізувати та децентралізувати імперію, вибравши відповідний шлях у національному дереві фокусів."
+ RULE_OPTION_ITTIHADIST_RANDOM_TUR:0 "Іттіхадіст - Випадковий"
+ RULE_OPTION_ITTIHADIST_RANDOM_TUR_AI_DESC:0 "Османський ІІ спробує зробити набіг на Піднесену Порту, пройшовши відповідним шляхом у дереві національного фокусу. Але там подальші дії будуть випадковими."
+ RULE_OPTION_ANTI_IMPERIALIST_TUR:0 "Антиімперіалізм"
+ RULE_OPTION_ANTI_IMPERIALIST_TUR_DESC:0 "Османський ІІ спробує протистояти імперіалістичним державам Європи, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ RULE_OPTION_TURAN_ENVERIST:0 "Туранізм"
+ RULE_OPTION_TURAN_ENVERIST_DESC:0 "ІІ Османської Імперії спробує сформувати туранізм, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ RULE_OPTION_ISLAMIST_TUR_DESC:0 "ІІ Османської Імперії спробує сформувати ісламізм, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ RULE_OPTION_SOCIALIST_TUR_DESC:0 "ІІ Османської Імперії спробує сформувати соціалізм, пройшовши відповідним шляхом у дереві національних пріоритетів"
+
+ #Russia
+ RUS_AI_BEHAVIOR:0 "@RUS Росія"
+ RULE_OPTION_HISTORICAL_RUS_AI_DESC:0 "Російський ІІ спробує максимально простежити історичний ланцюжок подій."
+ RULE_OPTION_KAISER_RUS:0 "Зближення з кайзером"
+ RULE_OPTION_KAISER_RUS_AI_DESC:0 "Російський ІІ спробує залишити Антанту і зосередитися на східних претензіях, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ RULE_OPTION_TSAR_RUS:0 "Абсолютизм"
+ RULE_OPTION_TSAR_RUS_AI_DESC:0 "Російський ІІ спробує протистояти думі і відновити абсолютне правління царя, пройшовши відповідним шляхом у дереві національного фокусу."
+ RULE_OPTION_DEMOCRATIC_RUS:0 "Демократична Республіка"
+ RULE_OPTION_DEMOCRATIC_RUS_AI_DESC:0 "Російський ІІ спробує провести революціонерів у думу і створити Російську Республіку, пройшовши відповідним шляхом у дереві національних пріоритетів."
+ UA_OPTION_SOVIET_REPUBLIC:0 "Радянська Республіка"
+ RULE_OPTION_SOVIET_REPUBLIC_AI_DESC:0 "Російський ІІ спробує провести революціонерів у Думу і створити Радянську Республіку, пройшовши відповідним шляхом у дереві національних фокусів."
+ RULE_OPTION_SOVIET_EMPIRE:0 "Радянська Імперія"
+ RULE_OPTION_SOVIET_EMPIRE_AI_DESC:0 "Російський ІІ спробує провести революціонерів у Думу і створити Радянську імперію, пройшовши відповідним шляхом у національному фокусному дереві."
+ #Russian Revolution
+ RUSSIAN_REVOLUTION_PATH:0 "@RUS Російська революція"
+ RULE_OPTION_TSAR_MIKHAIL_CROWNED:0 "Михайло II короновано"
+ RULE_OPTION_TSAR_MIKHAIL_CROWNED_DESC:0 "У разі Російської революції Микола II зречеться престолу на користь свого брата Михайла. Михайла II."
+ RULE_OPTION_KORNILOV_IN_POWER:0 "Справа Корнілова увінчалася успіхом"
+ RULE_OPTION_KORNILOV_IN_POWER_DESC:0 "Під загрозою більшовиків Корнілову вдасться повалити тимчасовий уряд, щоб врятувати республіку."
+ RULE_OPTION_KERENSKY_DICTATORSHIP:0 "Диктатор Керенський"
+ RULE_OPTION_KERENSKY_DICTATORSHIP_DESC:0 "Під загрозою більшовиків і Корнілова Дума надасть Керенському диктаторські повноваження."
+
+ #Canada
+ CAN_ai_behavior:0 "@CAN Канада"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_CANADA_DESC:0 "Канадський штучний інтелект спробує максимально простежити історичний ланцюжок подій."
+ RULE_OPTION_BRITISH_COMPROMISE:0 "Британський компроміс"
+ RULE_OPTION_BRITISH_COMPROMISE_DESC:0 "Канадський ІІ спробує стати вільним, залишаючись при цьому дружнім Сполученому Королівству, пройшовши відповідний шлях у дереві національних пріоритетів."
+ UA_OPTION_REPUBLICAN:0 "Республіканський"
+ RULE_OPTION_REPUBLICAN_DESC:0 "Канадський ІІ спробує стати вільним, проводячи політику дружби зі Сполученими Штатами, пройшовши відповідний шлях у дереві національних пріоритетів."
+ RULE_OPTION_MONARCHIST_CAN_DESC:0 "Канадський ІІ спробує стати вільним, одночасно формуючи власну монархію, пройшовши відповідним шляхом у дереві національних пріоритетів."
+
+ #Sweden
+ SWE_AI_BEHAVIOR:0 "@SWE Швеція"
+ RULE_OPTION_HISTORICAL_SWE_DESC:0 "Шведський ІІ спробує максимально точно дотримуватися історичного ланцюжка подій."
+ RULE_OPTION_CP_SWE_AI_DESC:0 "Шведський ІІ спробує приєднатися до Центральних держав, вибравши відповідний шлях у національному дереві фокусів."
+ RULE_OPTION_ENTENTE_SWE_DESC:0 "Шведський ІІ спробує приєднатися до Антанти, пройшовши відповідним шляхом у національному дереві фокусів."
+ UA_OPTION_MONARCHIST_SWE:0 "Королівська диктатура"
+ RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "Шведський ІІ спробує встановити королівську диктатуру, вибравши відповідний шлях у національному дереві фокусів."
+ RULE_OPTION_FASCIST_SWE:0 "Особиста диктатура"
+ RULE_OPTION_FASCIST_SWE_AI_DESC:0 "Шведський ІІ спробує встановити особисту лютеранську диктатуру, вибравши відповідний шлях у національному дереві фокусів."
+ RULE_OPTION_SYNDICALIST_SWE_AI_DESC:0 "Шведський ІІ спробує стати синдикалістом, вибравши відповідний шлях у національному дереві фокусів."
+
+ #China
+ CHI_WW1_AI_BEHAVIOR:0 "@CHI Китайська Республіка"
+ RULE_OPTION_DEMOCRATIC_CHI_AI_DESC:0 "Китайський ІІ спробує привести Тунменхой до влади і протистояти пекінській кліці, вибравши відповідний шлях у національному дереві фокусів."
+ ### Faction Rules ###
+ RULE_KICK_FROM_FACTION_ALLOWED_TOOLTIP:0 "Правило гри:0 §YЛідер фракції може виключити будь-яку країну з фракції після Великої війни.§!"
+ RULE_ASSUME_LEADERSHIP_ALLOWED_TOOLTIP:0 "Правило гри:0 §YКраїни можуть взяти на себе керівництво фракціями, якщо вони відповідають критеріям після Великої війни.§!"

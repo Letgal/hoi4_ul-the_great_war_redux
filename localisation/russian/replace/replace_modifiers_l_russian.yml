@@ -1,0 +1,10 @@
+﻿l_russian:
+ communism_drift:0 "Щоденна підтримка соціалізму"
+ fascism_drift:0 "Щоденна підтримка протофашизму"
+  neutrality_drift:0 "Щоденна підтримка авторитаризму"
+ communism_acceptance:0 "Прийняття соціалістичної дипломатії"
+ fascism_acceptance:0 "Прийняття протофашистської дипломатії"
+ neutrality_acceptance:0 "Прийняття авторитарної дипломатії" 
+ cat_mobile_warfare_cost_factor:0 "Доктрина маневреної переваги"
+ cat_mass_assault_cost_factor:0 "Культ наступальної доктрини"
+ tank_manufacturer_cost_factor:1 "Конструктор броні"
