@@ -44,6 +44,7 @@
 + `ship_modules`
 + `tgwr_achievements`
 + `ww1_equipment`
++ `ww1_modifiers`
 + `ww1_scripted_triggers`
 + `ww1_traits`
 
@@ -54,7 +55,6 @@
 + `ww1_diplomacy`
 + `ww1_factions`
 + `ww1_game_rules`
-+ `ww1_modifiers`
 + `ww1_parliament_gui`
 + `ww1_research`
 + `ww1_unit_medals`
