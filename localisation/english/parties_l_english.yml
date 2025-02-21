@@ -1408,6 +1408,8 @@
  #GEO_neutrality_party:0 "Erovnuli Sabcho"
  #GEO_neutrality_party_long:0 "Sakartvelos Erovnuli Sabcho"
 
+ GEO_TSCN_committee_party:0 "OZaKom"
+ GEO_TSCN_committee_party_long:0 "Osobyi Zakavkazskii Komitet"
  #GEO_TSCN_commissariat_party:0 "Zakavkazskiy Komissariat"
  #GEO_TSCN_neutrality_party:0 "Zakavkazskiy Sejm"
 
@@ -1467,10 +1469,12 @@
  #DON_communism_party:0 "Donskoy kazachiy VRK"
 
  #VIN_fascism_party:0 "Thien Dia Hoi"
- #VIN_democratic_party:0 "VNQPH"
- #VIN_democratic_party_long:0 "Viet Nam Quang Phuc Hoi"
+ VIN_democratic_party:0 "Duy Tân Hôi"
+ VIN_democratic_party_long:0 "Duy Tân Hôi"
  #VIN_neutrality_party:0 "Nhà Nguyên"
  #VIN_colonial_party:0 "Administration Coloniale"
+ #VIN_quang_phuc_hoi_long:0 "Viet Nam Quang Phuc Hoi"
+ #VIN_quang_phuc_hoi:0 "VNQPH"
 
  FRA_front_populaire_long:0 "Front Populaire"
  FRA_front_populaire:0 "Front Populaire"
@@ -2999,8 +3003,8 @@
  DON_communism_party:0 "Більшовики"
 
  VIN_fascism_party:0 "Великий Штат Мінг"
- VIN_democratic_party:0 "ВКФХ"
- VIN_democratic_party_long:0 "В'єтнам Куанг Фук Хой"
+ VIN_quang_phuc_hoi:0 "ВКФХ"
+ VIN_quang_phuc_hoi_long:0 "В'єтнам Куанг Фук Хой"
  VIN_neutrality_party:0 "Лоялісти Дуй Тана"
  VIN_colonial_party:0 "Колоніальна Адміністрація"
 

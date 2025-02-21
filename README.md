@@ -6,7 +6,7 @@
 Локалізація доступна до завантаження в [Майстерні *Steam*](https://steamcommunity.com/workshop/filedetails/?id=2880535545).
 
 ## Завершені файли
-+ `countries`
++ ~~`countries`~~
 + `state_names`
 + ~~`wolferos`~~
 + `ww1_focus_filter_tag`

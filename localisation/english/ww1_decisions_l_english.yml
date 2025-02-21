@@ -49,7 +49,7 @@
  RUS_support_in_civil_war_desc:0 "З поразкою §Y[OTT.GetFlag]Османської імперії§! ми нарешті забезпечили морський шлях до антибільшовицьких сил на Південному. \n\nПоставки §Yguns§!, §Yartillery§! і §Ymore§ тепер у нашій розпорядженні \ n\nДоступні поставки: [?SRA_available_shipments|+0]\n\nДоступні поставки будуть збільшені на §Ytwo§ кожного місяця."
 
  FRA_support_in_polish_war:0 "Втручання у польську радянську війну"
- FRA_support_in_polish_war_desc:0 "З поразкою §Y[GER.GetFlag][GER.getName]§! ми нарешті можемо підтримати антибільшовицькі сили в Східній Європі.\n\nПоставки §Yguns§!, §Yartillery§! та § Ymore§ тепер у нашому розпорядженні \n\nДоступні поставки: [?SRA_available_shipments|+0]\n\nДоступні поставки будуть збільшені на §Ytwo§ кожного місяця."
+ FRA_support_in_polish_war_desc:0 "З поразкою §Y[GER.GetNameWithFlag]§! ми нарешті можемо підтримати антибільшовицькі сили в Східній Європі.\n\nПоставки §Yguns§!, §Yartillery§! та § Ymore§ тепер у нашому розпорядженні \n\nДоступні поставки: [?SRA_available_shipments|+0]\n\nДоступні поставки будуть збільшені на §Ytwo§ кожного місяця."
  ENT_receive_two_shipments_tt:0 "§G+2§! Доступні відправлення"
  SRA_shipments_timer:0 "Поповнення доставки"
 
@@ -102,6 +102,9 @@
  2000_infantry_equipment_1_blocked:0 "£rifle_texticon §R2000§!"
  100_artillery_equipment_1:0 "£artillery_texticon §H100§!"
  100_artillery_equipment_1_blocked:0 "£artillery_texticon §R100§!"
+
+ 250_infantry_equipment_1: "£rifle_texticon §H250§!"
+ 250_infantry_equipment_1_blocked: "£rifle_texticon §R250§!"
 
  1000_infantry_equipment_1:0 "£rifle_texticon §H1000§!"
  1000_infantry_equipment_1_blocked:0 "£rifle_texticon §R1000§!"
@@ -281,9 +284,6 @@
  BAY_reunite_germany_desc:0 "Німецький народ знову об'єднався під червоним прапором! Нарешті німецька революція 1848 року завершена нашими твердими руками!"
  GER_prussia_reunite_germany:0 "Три ура Німеччини!"
  GER_prussia_reunite_germany_desc:0 "Батьківщина під нашим контролем і готова знову об'єднатися як єдина німецька нація!"
- prussian_blue:0 "Брусинець"
- treaty_of_berlin:0 "Берлінський договір підписано"
- reunite_germany_tt:0 "Усі спадкоємці Німеччини, крім [RHN.GetName], були підкорені або анексовані §Y[ROOT.GetNameWithFlag]§!."
  GER_prussian_russian_withdrawal:0 "Вихід Антанти через німецьку окупацію"
  prussian_withdrawal:0 "Антанта вийшла з-під німецької окупації"
  GER_ludendorff_offensive:0 "Наступ Людендорфа"
@@ -295,7 +295,7 @@
  GER_prussian_support_radicalism_desc:0 "Через складну проблему в країні люди підтримують екстремістську ідеологію."
  GER_prussian_appoint_hitler:0 "Марш на Берлін"
  GER_prussian_appoint_hitler_desc:0 "Національно-соціалістичний рух Адольфа Гітлера набирає популярність. Вони хочуть відродити німецький народ із глибини поразки. Хто класифікує їх як ультралівих, а хтось як ультраправих через їхні крайні та невідомі ідеї, але, можливо, вони можуть знову зробити Німеччину великою. \nІ з невеликою допомогою вони прийдуть до влади без крові."
- GER_landsturm_deployment:0 "\nДозволити розгортання дивізії §Y"Landsturm"§! у складі §Y9 піхоти§! та §Yроти підтримувати§!."
+ GER_landsturm_deployment:0 "\nВідкриє новий шаблон дивізії — §Y"Landsturm"§! у складі §Y9 ополчення§! та §Yроти підтримувати§!."
  back_in_30_days:0 "\nЦе §Yрішення§! з'явиться знову через §Y30 днів§!."
  back_in_45_days:0 "\nЦе §Yрішення§! з'явиться знову через §Y45 днів§!."
  back_in_60_days:0 "\nЦе §Yрішення§! з'явиться знову через §Y60 днів§!."
@@ -382,10 +382,13 @@
  LIE_approach_switzerland:0 "Наближення до Швейцарії"
 
  FRA_parliament_dissolved:0 "Парламент розпущено"
+ FRA_parliament_dissolved_tt:0 "§RThe parliament will be suspended§!. Deputies will not be allowed to vote et debate until we allow them to."
+ FRA_you_reformed_the_high_command_and_have_high_popularity:0 "Our popular support and the loyalty of the army allow us takeover the coalition and form a new §tEmergency Government§!.\n\n"
+
  FRA_1910_legislative_elections_done:0 "Вибори до законодавчих органів 1910 року завершено"
  FRA_1914_legislative_elections_done:0 "Вибори до законодавчих органів 1914 року завершено"
  FRA_1918_legislative_elections_done:0 "Вибори до законодавчих органів 1918 року завершено"
- FRA_1910_disposition:0 "Вибори до парламенту 1910 року"
+ FRA_1910_disposition:0 "Вибори до парламенту [date.getYear] року"
  FRA_1910_disposition_desc:0 "Національна асамблея формується протягом 4 років. Незабаром відбудуться вибори, які переопределят розподіл місць."
  FRA_jaures_speech_desc:0 "§YJean Jaurès§! організовує великий соціалістичний мітинг напередодні виборів, забезпечуючи більшу підтримку з боку людей для крайніх лівих партій. \n\n§RSFIO§! прийнято §Y50§! додаткові місця."
  FRA_aristide_briand_rally:0 "Ралі Арістіда Бріана"
@@ -396,8 +399,8 @@
  FRA_royalist_demonstration_in_versailles_desc:0 "§YLéon Daudet§! Збере прихильників монархії та розпочато масовий процес у Версалі.\n\n§gНародна ліберальна акція§! Виповніть §Y50§! Додаткові місця"
  Jacques_piou_citation:0 ""Le peuple a besoin d'une figure d'autorité supérieure, gardienne de la nation, gardée par la nation. C'est un ouvrage mérité par les Français, offert par Dieu.“"
 
- FRA_1914_disposition:0 "1914 Disposition"
- FRA_1918_disposition:0 "1918 Disposition"
+ FRA_1914_disposition:0 "[date.getYear] Disposition"
+ FRA_1918_disposition:0 "[date.getYear] Disposition"
  FRA_hold_verdun:0 "Верден не потрапляє в руки німців."
  FRA_defense_of_france:0 "Битва за Францію"
  FRA_battle_of_verdun:0 "Утримувати Верден"
@@ -504,8 +507,11 @@
 
  fight_phan_xich_long_loyalists_in_indochina:0 "Бійся з лоялістами Фан Січа Лонг"
 
+ VIN_gather_guns:0 "Gather Guns"
+ VIN_train_militia:0 "Train Militia"
+
  AUS_republic_flag: "Є [AUS.getFlag] §YРеспублікою Австрія§!"
- BUL_AUH_could_support_us:0 "([AUH.getFlag]) §Y[AUH.getName]§! отримає пропозицію щодо економічної та військової співпраці, §Rщо дозволить їм підтримати наші вимоги§!.\n\n"
+ BUL_AUH_could_support_us:0 "([AUS.getFlag]) §Y[AUS.getName]§! отримає пропозицію щодо економічної та військової співпраці, §Rщо дозволить їм підтримати наші вимоги§!.\n\n"
  BUL_weapon_order:0 "Світовий ринок зброї"
  BUL_order_guns_from_france:0 "Замовляйте зброю з Франції"
  BUL_buy_british_uniforms:0 "Купити британську форму"
@@ -514,7 +520,7 @@
  BUL_order_planes_from_germany:0 "Замовляйте літаки з Німеччини"
  BUL_finance_local_brigades:0 "Фінансування місцевих бригад"
  AUH_investment_in_BUL:0 "Інвестиції в Болгарії"
- AUH_investment_in_BUL_desc:0 "Рівень залежності Болгарії від [AUH.getName] становить §R[?BUL_vassalisation]§! \n\n Чим вища залежність, тим більше переваг отримає Австрія. \n\n [BUL.getAdjective] MALUSES [BUL.getFlag] \n §R0-2§ -> Нічого \n §R3-6§! §R7-10§! §R-2§! n \n\n [AUH.getAdjective] БОНУСИ [AUH.getFlag] \n §G0-2§! -> Нічого \n §G3-6§! §G7-10§! §G+2§! n"
+ AUH_investment_in_BUL_desc:0 "Рівень залежності Болгарії від [AUS.getName] становить §R[?BUL_vassalisation]§! \n\n Чим вища залежність, тим більше переваг отримає Австрія. \n\n [BUL.getAdjective] MALUSES [BUL.getFlag] \n §R0-2§ -> Нічого \n §R3-6§! §R7-10§! §R-2§! n \n\n [AUS.getAdjective] БОНУСИ [AUS.getFlag] \n §G0-2§! -> Нічого \n §G3-6§! §G7-10§! §G+2§! n"
 
  FRA_french_intervention_in_china:0 "Французьке втручання в Китай"
  FRA_leave_CHI:0 "Таймер французького втручання"
@@ -526,13 +532,13 @@
  BUL_nationalize_foreign_industry:0 "Націоналізація іноземної промисловості"
  BUL_Complicate_investment_bureaucracy:0 "Складна інвестиційна бюрократія"
  BUL_counter_investments:0 "Зустрічні інвестиції"
- BUL_vassalisation_augmentation:0 "Залежність [BUL.getFlag]§YBulgarian§! від [AUH.getFlag]§R[AUH.getName]§! збільшиться на §R1 Point§!."
- BUL_vassalisation_diminution:0 "Залежність [BUL.getFlag]§YBulgarian§! від [AUH.getFlag]§R[AUH.getName]§! зменшиться на §G1 Point§!."
- BUL_vassalisation_diminution_3:0 "Залежність [BUL.getFlag]§YBulgarian§! від [AUH.getFlag]§R[AUH.getName]§! зменшиться на §G3 Points§!."
+ BUL_vassalisation_augmentation:0 "Залежність [BUL.getFlag]§YБолгарії§! від §R[AUS.GetNameWithFlag]§! збільшиться на §R1 Point§!."
+ BUL_vassalisation_diminution:0 "Залежність [BUL.getFlag]§YБолгарії§! від §R[AUS.GetNameWithFlag]§! зменшиться на §G1 Point§!."
+ BUL_vassalisation_diminution_3:0 "Залежність [BUL.getFlag]§YБолгарії§! від §R[AUS.GetNameWithFlag]§! зменшиться на §G3 Points§!."
 
  AUH_civil_investments_in_BUL:0 "Громадські інвестиції в стару країну"
  AUH_interests_in_bulgaria:0 "Інтереси в Болгарії"
- BUL_AUH_interests_in_bulgaria:0 "[AUH.getAdjective] інтереси"
+ BUL_AUH_interests_in_bulgaria:0 "[AUS.getAdjective] інтереси"
  AUH_invest_in_bulgarian_railways:0 "Інвестуйте в Болгарську залізницю"
  AUH_develop_local_shipyards:0 "Розвивайте місцеві верфі"
  AUH_active_lobbying:0 "Активне лобіювання"
@@ -668,9 +674,9 @@
  AUH_greater_austria_category:0 "Велика Австрія"
  AUH_greater_austria_category_desc:0 "Наша імперія — це країна багатьох народів, таких як німці, угорці, чехи, хорвати, слов’яни, поляки, українці, словаки, румуни та італійці. Свого часу ми об’єднали їх під однією назвою Австрійська імперія, а зараз ми згрупували їх під двома назвами, Австро-Угорщина, однак, щоб наша країна процвітала в епохи, що постійно змінюється, і божевілля націоналізму, ми повинні визнати багатонаціональність і зробити її своєю ідентичністю."
  AUH_assimilate_czech:0 "Асимілювати Богемію"
- AUH_assimilate_czech_desc:0 "Королівство Богемія, частина Цисрейтанії, якою керує Австрійська імперія, є ключовим пунктом імперської економіки. Богемія була з нами ще з часів Священної Римської імперії. Ось чому ми тісно пов’язані, і їхня роль дуже важлива в багатоетнічній імперії."
+ AUH_assimilate_czech_desc:0 "Королівство Богемія, частина Цизлайтанії, якою керує Австрійська імперія, є ключовим пунктом імперської економіки. Богемія була з нами ще з часів Священної Римської імперії. Ось чому ми тісно пов’язані, і їхня роль дуже важлива в багатоетнічній імперії."
  AUH_assimilate_galicia:0 "Галицька автономія"
- AUH_assimilate_galicia_desc:0 "Королівство Галиція-Родомерія, частина Цісрейтанії, що перебувала під владою Австрійської імперії, і Герцогство Буковина розташовані на північно-східному кордоні імперії та складаються переважно з поляків і українців. Поляки на заході - це доброзичливі й відносно заможні, тоді як українці на сході — це переважно незаможні селяни і Незадоволені нашим правлінням, відокремлення регіонів, де вони мають більшість, і надання автономії зменшить конфлікт і призведе до інтеграції в багатонаціональну імперію."
+ AUH_assimilate_galicia_desc:0 "Королівство Галиція-Лодомерія, частина Цизлайтанії, що перебувала під владою Австрійської імперії, і Герцогство Буковина розташовані на північно-східному кордоні імперії та складаються переважно з поляків і українців. Поляки на заході - це доброзичливі й відносно заможні, тоді як українці на сході — це переважно незаможні селяни і Незадоволені нашим правлінням, відокремлення регіонів, де вони мають більшість, і надання автономії зменшить конфлікт і призведе до інтеграції в багатонаціональну імперію."
  AUH_assimilate_hungary:0 "Транслейтанська автономія"
  AUH_assimilate_hungary_desc:0 "Королівство Угорщина є центральним регіоном Австрійської імперії, що займає більшу частину земель корони Святого Стефана. Королівство Угорщина є особистою унією Габсбургів, і угорці спочатку повстали проти імперії в революції 1848 року, але вони добре почуваються після Ausgleich, який підняв їх до Проте східна частина Угорського королівства населена великою кількістю румунів, тоді як південна частина заселена хорватами, які хочуть більшої автономії або, скоріше, незалежності."
  AUH_assimilate_illyria:0 "Іллірійська автономія"
@@ -683,7 +689,7 @@
  AUH_assimilate_italians_desc:0 "Колись Італія була в межах Священної Римської імперії, але протягом століть вона повільно вийшла з-під впливу та нарешті досягла власного об’єднання. Вони продовжують жадати італійських територій у нашій імперії. Але тепер, якби італійці були також розглядаючись як рівні в нашій імперії, вони воліли б насолоджуватися стабільністю в нашій процвітаючій імперії, ніж бути об’єднаними."
  AUH_proclaim_usga:0 "Створення Сполучених Штатів Великої Австрії"
  AUH_proclaim_usga_desc:0 "Це момент, коли мрія Франца Фердинанда збувається. Хай живе Österreichisches Kaiserreich, і хай живе Königreich Ungarn, Königreich Böhmen, Königreich Illyrien, Königreich Italien, Königreich Westgalizien, Königreich Ostgalizien, GroßFürstentum Siebenbürgen, Herzogtum Krain і Herzogtum Slowakei!"
- assimilated_to_austria:0 "Асимілювався з [AUH.GetName]"
+ assimilated_to_austria:0 "Асимілювався з [AUS.GetName]"
  AUH_sue_for_peace_GER:0 "Надіслати умови умовної капітуляції [GER.GetNameDef]"
  AUH_SER_pig_war:0 "Свиняча війна"
  AUH_SER_pig_war_desc:0 "Відносини між Австро-Угорською імперією та Сербією були жахливими після провалу комерційних угод між двома країнами. Замість того, щоб наблизитися до свого історичного партнера, Сербія увійшла до митного союзу зі Сполученим Королівством, Відтоді Австро-Угорщина припинила будь-яку торгівлю з Сербією."
@@ -696,21 +702,21 @@
  SLO_pacified:0 "Словаччина була умиротворена"
  SLO_focus_this_region:0 "\n§YЦей регіон§! стане мішенню [SLO.getFlag] §RSсловацьких активістів!"
  SLO_is_under_focus:0 "Цей регіон є націленим для [SLO.getFlag] словацьких відвідувачів"
- SLO_temporary_pacified:0 "[AUH.getFlag] Скасувати будь-яку операцію активіста в [SLO.getFlag] §YSlovakia§!"
+ SLO_temporary_pacified:0 "[AUS.getFlag] Скасувати будь-яку операцію активіста в [SLO.getFlag] §YSlovakia§!"
  SLO_stop_intervention:0 "Зупинити операцію [SLO.getFlag] словацьких активістів"
  can_limit_activism:0 "Можна зупинити активізм"
  triple_alliance_opinion:0 "Посилення Потрійного Альянсу"
  triple_alliance_opinion.t:0 "Посилення Потрійного Альянсу"
- AUH_SLO_will_be_pacified:0 "§Y[SLO.getFlag] Словаччина§! буде умиротворено. Усі ворожі дії будуть остаточно припинені.\n"
- AUH_ITA_will_be_pacified:0 "§Y[ITA.getFlag] Італійський Тіроль§! буде умиротворено. Усі ворожі дії буде остаточно припинено.\n"
- AUH_BOS_will_be_pacified:0 "§Y[BOS.getFlag] Боснія§! буде умиротворено. Усі ворожі дії будуть остаточно припинені.\n"
+ AUH_SLO_will_be_pacified:0 "§Y[SLO.getFlag] Словаччину§! буде умиротворено. Усі ворожі дії будуть припинені.\n"
+ AUH_ITA_will_be_pacified:0 "§Y[ITA.getFlag] Італійський Тіроль§! буде умиротворено. Усі ворожі дії буде припинено.\n"
+ AUH_BOS_will_be_pacified:0 "§Y[BOS.getFlag] Боснію§! буде умиротворено. Усі ворожі дії будуть припинені.\n"
  AUH_sue_for_peace_HUN:0 "Визнати незалежність Угорщини"
 
 
  AUH_core_romania:0 "§Y[TRA.getFlag] Трансільванія§! буде повністю інтегрованою частиною §Y[HUN.getFlag] Угорської імперії§!."
  AUH_core_slovakia:0 "\nУсі дії терористів у §Y[SLO.getFlag] Словаччина§! будуть припинені."
  AUH_core_croatia:0 "§Y[CRO.getFlag] Хорватія§! буде повністю інтегрованою частиною §Y[HUN.getFlag] Угорської імперії§!."
- AUH_core_galicia:0 "§Y[GAL.getFlag] Галичина§! буде повністю інтегрованою частиною §Y[AUH.getFlag] Австро-Угорської імперії§!."
+ AUH_core_galicia:0 "§Y[GAL.getFlag] Галичина§! буде повністю інтегрованою частиною §Y[AUS.getFlag] Австро-Угорської імперії§!."
  AUH_spawn_2_guards_divisions_to_presporok:0 "\n§Y2 дивізії§! у складі §Y6 піхотних підрозділів§! та §YАртилерійської підтримки§! буде розгорнуто до §YПрешпорок§!."
  AUH_spawn_3_guards_divisions_to_zagreb:0 "§Y3 дивізії§! у складі §Y6 піхотних підрозділів§! будуть розгорнуті в §YЗагреб§!."
  AUH_spawn_2_guards_divisions_to_cluj:0 "§Y2 дивізії§! у складі §Y6 піхотних підрозділів§! будуть розгорнуті в §YCluj§!."
@@ -748,11 +754,11 @@
  AUH_has_invested_in_mavag:0 "Інвестував у MÁVAG"
  AUH_deploy_deploy_jagdkommandos:0 "\n§Y2 дивізії§! у складі §Y9 гірських підрозділів§! та §YАртилерійської підтримки§! буде розгорнуто до §YВідня§!."
  POL_deploy_polish_legion:0 "Розгорнути польський легіон"
- GRE_entente_wont_help_venizelos:0 "Країни, які перебувають у фракції з §Y[FRA.getFlag][FRA.getName]§! і §Y[ENG.getFlag][ENG.getName]§! не допоможуть §CEleftherios Kyriákou Venizélos§! у випадку §RCivil Війна§!»
+ GRE_entente_wont_help_venizelos:0 "Країни, які перебувають у фракції з §Y[FRA.GetNameWithFlag]§! і §Y[ENG.GetNameWithFlag]§! не допоможуть §CEleftherios Kyriákou Venizélos§! у випадку §RCivil Війна§!»
  gre_cp_aid:0 "Допомога центральних держав"
  civil_war_has_been_triggered:0 "Відбулася громадянська війна"
 
- AUH_you_should_first_beat_hungarian:0 "\n\n§RУгорці будуть категорично проти такого заходу, заперечення Ausgleich 1867!§! \nСпочатку ви повинні розгромити§Y угорську опозицію!§!"
+ AUH_you_should_first_beat_hungarian:0 "\n\n§YУгорці§! будуть §Rкатегорично проти такого заходу, який порушує обіцянку Аусґлайху 1867 року\nСпочатку вам слід розгромити §Yугорську опозицію§!"
  AUH_federation_needs_preparation:0 "\n\n§RЯкщо до конгресу не буде змінено політику щодо меншин, це може мати негативні наслідки!§!"
 
  AUH_unlock_polish_legions:0 "\n\n§Y2 дивізії§! у складі §Y12 піхотних підрозділів§! і §YАртилерія/розвідувальна підтримка§! будуть розгорнуті в §YКраків§! і §YLemberg§!."
@@ -778,7 +784,7 @@
  AUH_reform_for_one_year:0 "\n\n§YВійсько буде реформовано§!, §Rдаючи малуси на цілий рік§!. Після цього року ми отримаємо такий §YНаціональний дух§! :\n\n"
  AUH_unlock_decision_allowing_war_support_gain:0 "Розблоковує кілька §Yрішень§! дозволяючи §Ywar збільшити підтримку§!"
  AUH_mobilization_campaign:0 "Мобілізаційна кампанія"
- AUH_this_will_destroy_the_central_powers_faction:0 "§RЦей фокус знищить фракцію центральних сил !§!"
+ AUH_this_will_destroy_the_central_powers_faction:0 "§RЦей фокус знищить фракцію центральних сил.§!"
  AUH_countries_in_europe_could_intervene_in_favor_of_italy:0 "\nКраїни §YEurope§! можуть втрутитися на користь [ITA.getFlag]§YItaly§!\n\n"
  AUH_decision_mitteleuropa_guarantee:0 "Honor Doppelte Allianz"
  AUH_decision_mitteleuropa_guarantee_desc:0 "Наші брати під загрозою! Тільки ми повинні врятувати їх. Ми офіційно оголосимо, що ми шануємо Подвійний союз і піднімаємо імперський гнів на ворогів німців."
@@ -792,7 +798,7 @@
  AUH_unlock_military_focuses:0 "§YРозблокувати дерево військових фокусів§!"
  AUH_elections:0 "Вибори"
 
- collapse_of_austria_hungary_HUN:0 "§Y[HUN.getFlag][HUN.getName]§! проголошено незалежність"
+ collapse_of_austria_hungary_HUN:0 "§Y[HUN.GetNameWithFlag]§! проголошено незалежність"
  AUH_garison_pecs:0 "Гарізон Печ"
  AUH_garison_pecs_desc:0 "Угорська армія, яка перебуває в Угорщині, бере участь у грабіжництві проти місцевого населення. Ми повинні втрутитися, відправивши лояльних солдат, щоб покласти край цим зловживанням."
  AUH_garison_sejoecseg:0 "Garison Sejoecseg"
@@ -822,45 +828,45 @@
 
  GER_AUH_FRA_puppet_poland:0 "§Y[POL.getFlag]Польща§! буде звільнена як маріонетка §Y[GER.getFlag][GER.getAdjective]§!."
 
- GER_AUH_FRA_puppet_baltics:0 "§Y[UBD.getFlag][UBD.getName]§! буде звільнено як маріонетка §Y[GER.getFlag][GER.getAdjective]§!."
+ GER_AUH_FRA_puppet_baltics:0 "§Y[UBD.GetNameWithFlag]§! буде звільнено як маріонетка §Y[GER.getFlag][GER.getAdjective]§!."
 
- GER_AUH_FRA_annex_baltics:0 "§Y[GER.getFlag][GER.getName]§! буде додавати всі §Y[LIT.getFlag][LIT.getName]§!."
+ GER_AUH_FRA_annex_baltics:0 "§Y[GER.GetNameWithFlag]§! буде додавати всі §Y[LIT.getFlag][LIT.getName]§!."
 
- GER_AUH_FRA_annex_madagascar:0 "§Y[GER.getFlag][GER.getName]§! приєднає §Yострів Мадагаскар§!."
+ GER_AUH_FRA_annex_madagascar:0 "§Y[GER.GetNameWithFlag]§! приєднає §Yострів Мадагаскар§!."
 
- GER_AUH_FRA_ukraine_for_russia:0 "§Y[GAL.getFlag]Східна Галичина§! буде передано до §Y[RUS.getFlag][RUS.getName]§!."
+ GER_AUH_FRA_ukraine_for_russia:0 "§Y[GAL.getFlag]Східна Галичина§! буде передано до §Y[RUS.GetNameWithFlag]§!."
 
- FRA_AUH_negociation_free_serbia_and_sea:0 "- §Y[SER.getFlag][SER.getName]§! буде звільнено, залишиться незалежним і отримає вихід до моря."
- FRA_AUH_negociation_alsace_lorraine:0 "- §Y[FRA.getFlag][FRA.getName]§! отримає регіон Ельзас-Лотарингія."
+ FRA_AUH_negociation_free_serbia_and_sea:0 "- §Y[SER.GetNameWithFlag]§! буде звільнено, залишиться незалежним і отримає вихід до моря."
+ FRA_AUH_negociation_alsace_lorraine:0 "- §Y[FRA.GetNameWithFlag]§! отримає регіон Ельзас-Лотарингія."
 
- FRA_AUH_negociation_alsace_lorraine_b2:0 "- §Y[AUH.getFlag][AUH.getName]§! підтримуватиме §Y[FRA.getFlag][FRA.getAdjective]§! претензії щодо регіону Ельзас-Лотарингія."
+ FRA_AUH_negociation_alsace_lorraine_b2:0 "- §Y[AUS.GetNameWithFlag]§! підтримуватиме §Y[FRA.getFlag][FRA.getAdjective]§! претензії щодо регіону Ельзас-Лотарингія."
 
- FRA_AUH_negociation_free_belgium:0 "- §Y[BEL.getFlag][BEL.getName]§! буде звільнено та залишиться незалежним."
- AUH_GER_FRA_deal_for_peace_on_alsace_lorraine:0 "Держава §YElsass-Lothringen§! буде передана §Y[FRA.getFlag][FRA.getName]§!, але §YAntente§! відмовиться від §Y[RUS.getFlag][RUS.getName] §!."
- AUH_GER_FRA_deal_for_peace_on_alsace_lorraine_AUH_part:0 "§Y[AUH.getFlag][AUH.getName]§! втратить будь-яку претензію на §Y[POL.getFlag][POL.getName]§!."
+ FRA_AUH_negociation_free_belgium:0 "- §Y[BEL.GetNameWithFlag]§! буде звільнено та залишиться незалежним."
+ AUH_GER_FRA_deal_for_peace_on_alsace_lorraine:0 "Область §YЕльзас-Лотаринґія§! буде передана §Y[FRA.GetNameWithFlag]§!, але §YАнтанта§! покине §Y[RUS.GetNameWithFlag] §!."
+ AUH_GER_FRA_deal_for_peace_on_alsace_lorraine_AUH_part:0 "§Y[AUS.GetNameWithFlag]§! втратить будь-яку претензію на §Y[POL.GetNameWithFlag]§!."
 
- GER_AUH_FRA_alsace_for_galicia:0 "Щат §YElsass-Lothringen§! буде передано до §Y[FRA.getFlag][FRA.getName]§!, але §Y[AUH.getFlag][AUH.getName]§! передасть §Y[ GAL.getFlag]Західна Галичина§! §Y[POL.getFlag]Польща§!
- GER_AUH_FRA_galicia_deal_resume:0 "§Y[AUH.getFlag][AUH.getName]§! передасть §Y[GAL.getFlag]Західну Галичину§! до §Y[POL.getFlag]Польщі§!."
- GER_AUH_FRA_briey_for_mulhouse:0 "Стан §YElsass-Lothringen§! буде спільно використовуватися між §Y[FRA.getFlag][FRA.getName]§! і §Y[GER.getFlag][GER.getNameDef]§!."
+ GER_AUH_FRA_alsace_for_galicia:0 "Область §YЕльзас-Лотаринґія§! буде передано до §Y[FRA.getFlag][FRA.getName]§!, але §Y[AUS.GetNameWithFlag]§! передасть §Y[GAL.getFlag]Західну Галичину§! §Y[POL.getFlag]Польщі§!
+ GER_AUH_FRA_galicia_deal_resume:0 "§Y[AUS.GetNameWithFlag]§! передасть §Y[GAL.getFlag]Західну Галичину§! §Y[POL.getFlag]Польщі§!."
+ GER_AUH_FRA_briey_for_mulhouse:0 "Область §YЕльзас-Лотаринґія§! буде спільно використовуватися між §Y[FRA.GetNameWithFlag]§! і §Y[GER.GetNameWithFlag]§!."
 
- GER_AUH_FRA_annex_partial_balkan_losers:0 "§Y[AUH.getFlag][AUH.getName]§! анексує §Y[MNT.getFlag][MNT.getName]§! і §YNovi Pazar§! штат."
- GER_AUH_FRA_annex_partial_balkan_losers_ROM:0 "§Y[AUH.getFlag][AUH.getName]§! анексує держави §YОлтенія§! і §YПівденні Карпати§!."
+ GER_AUH_FRA_annex_partial_balkan_losers:0 "§Y[AUS.GetNameWithFlag]§! анексує §Y[MNT.GetNameWithFlag]§! і область §YНовий Пазар§!."
+ GER_AUH_FRA_annex_partial_balkan_losers_ROM:0 "§Y[AUS.GetNameWithFlag]§! анексує області §YОлтенія§! і §YПівденні Карпати§!."
 
- GER_AUH_conditions:0 "§O[AUH.getFlag][GER.getflag] Умови Центральних держав такі:§!"
+ GER_AUH_conditions:0 "§O[AUS.getFlag][GER.getflag] Умови Центральних держав такі:§!"
 
- ITA_london_pact_full:0 "§Y[ITA.getFlag][ITA.getName]§! анексує штати §YTrentino§!, §YSouth Tyol§!, §YIstria§! і §YZara§!."
+ ITA_london_pact_full:0 "§Y[ITA.GetNameWithFlag]§! анексує області §YТрентіно§!, §YПівденний Тіроль§!, §YІстрія§! та §YДзара§!."
 
- ITA_london_pact_weak:0 "§Y[ITA.getFlag][ITA.getName]§! анексує штати §YTrentino§!, §YIstria§! і §YZara§!."
+ ITA_london_pact_weak:0 "§Y[ITA.GetNameWithFlag]§! анексує області §YТрентіно§!, §YІстрія§! та §YДзара§!."
 
- ITA_london_pact_very_weak:0 "§Y[ITA.getFlag][ITA.getName]§! анексує штати §YTrentino§! і §YZara§!."
+ ITA_london_pact_very_weak:0 "§Y[ITA.GetNameWithFlag]§! анексує області §YТрентіно§! та §YДзара§!."
 
  low_chance_of_succeding:0 "§Oця пропозиція, ймовірно, не буде прийнята Антантою...§!"
 
- send_to_auh:0 "Надішліть наступну умову до §Y[AUH.getFlag][AUH.getName]§! :"
+ send_to_auh:0 "Надішліть ось цю умову до §Y[AUS.GetNameWithFlag]§! :"
 
  italian_conditions_are:0 "§O§Y[ITA.getFlag][ITA.getAdjective]§! умови такі:§!"
 
- GER_AUH_FRA_dismantle_belgium:0 "§Y[BEL.getFlag][BEL.getName]§! буде федералізовано на §Y[BEL.getFlag]Валлонію§! та §Y[DEN.getFlag]Фландрію§!."
+ GER_AUH_FRA_dismantle_belgium:0 "§Y[BEL.GetNameWithFlag]§! буде федералізовано у §Y[BEL.getFlag]Валлонію§! та §Y[DEN.getFlag]Фландрію§!."
 
  GER_AUH_FRA_annex_luxemburg:0 "§Y[LUX.getFlag][LUX.getNameDef]§! буде інтегровано в §Y[GER.getFlag][GER.getNameDef]§!."
 
@@ -868,7 +874,7 @@
 
  AUH_no_negociation_with_germany:0 "Процес переговорів залишатиметься таємним, але §Y[FRA.getFlag][FRA.getNameDef]§! може відмовитися від цього питання."
 
- AUH_negociation_give_galicia_to_RUS:0 "§Y[AUH.getFlag][AUH.getName]§! передайте [GAL.getFlag]Західну Галичину до §Y[RUS.getFlag][RUS.getNameDef]§!"
+ AUH_negociation_give_galicia_to_RUS:0 "§Y[AUS.GetNameWithFlag]§! передасть [GAL.getFlag]Західну Галичину до §Y[RUS.getFlag][RUS.getNameDef]§!"
 
  FRA_1910_judiciary_law:0 "Реформа судової адміністрації"
  FRA_1910_judiciary_law_desc:0 "Немає норм, які регулюють роботу судових адміністраторів. Президент ради §YAristide Briand§! запропонував закон, який дозволяє встановлювати обмеження процедур.\n\nПроект, зокрема, дозволить регулювати певні цивільні місії , такі як управління опіки над божевільними, судова рада, ліквідація цивільних компаній, тимчасова адміністрація цивільного товариства тощо."
@@ -993,7 +999,7 @@
  FRA_constitutionalize_strike_right:0 "Конституціоналізація права на страйк"
  FRA_constitutionalize_strike_right_desc:0 "Хоча це визнається де-факто, право на страйк не інституціоналізовано у Франції...\n\n§YNapoléon§! запропонував закон про закріплення в конституції права працівників на страйк. Уповноважені профспілкові організації потрібно лише повідомити свого роботодавця за 8 днів."
 
- yourself:0 "\n(§Y[ROOT.getFlag][ROOT.getName]§!):"
+ yourself:0 "\n(§Y[ROOT.GetNameWithFlag]§!):"
 
  tt_objective:0 "\n§YЩоби виконати:§!"
 
@@ -1046,7 +1052,7 @@
  FRA_isolate_saving_banks_from_treasury:0 "Відокремити ощадні банки від казначейства"
  FRA_isolate_saving_banks_from_treasury_desc:0 "Щоб уникнути будь-якого ризику економічного колапсу, §YNapoléon§! запропонував парламенту проголосувати за закон про ізоляцію ощадних банків і Банку Франції. Таким чином, ощадні банки не матимуть особливого режиму та будуть обмежені у своїх боргових можливостях, не даючи економічному краху змінити національну економіку."
 
- FRA_avoid_economical_crash:0 "§GУ випадку глобального §Rекономічного краху§!, §Y[ROOT.getFlag][ROOT.getName]§! постраждає лише від частини негативних наслідків відповідної економічної кризи.§!"
+ FRA_avoid_economical_crash:0 "§GУ випадку глобального §Rекономічного краху§!, §Y[ROOT.GetNameWithFlag]§! постраждає лише від частини негативних наслідків відповідної економічної кризи.§!"
 
 
  FRA_unlock_HLM_focus:0 "Розблокувати фокус: §YHBM Project§!"
@@ -1093,7 +1099,7 @@
  FRA_women_rights_code_penal_update_desc:0 "§YLouis Martin§! Пропозиція намагається видалити статті 337, 338, 339 і частково 324 з кримінального кодексу. Ці статті датуються до Французької революції 1789 року, і, наприклад, просять вибачення перед чоловіком, який убив свою дружина за подружню зраду також планує врегулювати співжиття, яке в даний час карається набагато серйозніше для жінок, ніж для чоловіків."
  FRA_women_rights_code_penal_update_done:0 "Закон про подружню зраду прийнято"
 
- AUH_negotiate_with_france:0 "Вести переговори про сепаратний мир із Францією"
+ AUH_negotiate_with_france:0 "Домовитися про сепаратний мир із Францією"
  AUH_negotiate_with_france_desc:0 "Війна триває і не йде на нашу користь на заході. Франція не впала, як планували німці, і голод почав з’їдати деякі міські райони нашої імперії. Хоча російська кампанія йде добре для Німецька імперія, ми не в такому зручному становищі, можливо, ми могли б домовитися про вихід із цієї війни через почесний мир? запобігти тисячам додаткових смертей."
 
  AUH_bosnian_states:0 "Натисніть, щоб побачити [BOS.getFlag] Боснійські штати"
@@ -1102,7 +1108,7 @@
  BOS_is_under_focus:0 "Цей регіон націлений боснійськими активними відвідувачами"
  BOS_focus_this_region:0 "\n§YЦей регіон§! стане мішенню §Rбоснійських активістів!"
  BOS_destabilize_region:0 "Дестабілізувати [BOS.getFlag] Боснійський регіон"
- BOS_temporary_pacified:0 "[AUH.getFlag] Скасувати будь-яку операцію активіста в [BOS.getFlag] §YBosnia§!"
+ BOS_temporary_pacified:0 "[AUS.getFlagWithFlag] скасує будь-яку операцію активіста в [BOS.getFlag] §YBosnia§!"
  BOS_stop_intervention:0 "Зупинити операцію [BOS.getFlag] боснійських активістів"
  BOS_independist_terrorism:0 "Боснійська терористична операція"
  AUH_local_independentism:0 "Місцева незалежність"
@@ -1117,7 +1123,7 @@
  ITA_is_under_focus:0 "Цей регіон націлений італійськими активними відвідувачами"
  ITA_focus_this_region:0 "\n§YЦей регіон§! стане мішенню §RIіталійських активістів!"
  ITA_destabilize_region:0 "Дестабілізувати [ITA.getFlag] регіон Італійський Тіроль"
- ITA_temporary_pacified:0 "[AUH.getFlag] Скасувати будь-яку операцію активіста в [ITA.getFlag] §YItalian Tyrol§!"
+ ITA_temporary_pacified:0 "[AUS.getFlag] Скасувати будь-яку операцію активіста в [ITA.getFlag] §YItalian Tyrol§!"
  ITA_stop_intervention:0 "Зупинити операцію [ITA.getFlag] італійських активістів"
  ALL_intervention_in_AUH_civil_war:0 "Втручання в Австро-Угорську громадянську війну"
  AUH_civil_war:0 "Громадянська війна в Австро-Угорщині"
@@ -1533,7 +1539,7 @@
  SER_visit_novi_sad:0 "Відвідайте Новий Сад"
  SER_visit_city:0 "Відвідайте [FROM.GetCapitalVictoryPointName]"
  SER_on_tour:0 "Відвідування [SER.getFlag]§YSerbia§!"
- SER_remove_military_governor_in_state:0 "Видалити військових губернаторів у [FROM.GetName]"
+ SER_remove_military_governor_in_state:0 "Усунути військових губернаторів із посади"
  SER_clean_region_from_black_hand_influence:0 "Очистити вплив чорної руки в [FROM.getName]"
  SER_GRE_invitation:0 "Запрошення до оборонного пакту"
  SER_spark_the_uprisings:0 "Розпалюють повстання"
@@ -1560,11 +1566,11 @@
  SER_the_romanian_placehead:0 "Румунський плацдарм"
  decision_join_allies:0 "Приєднайтеся до [FROM.GetFactionName]"
  BLL_join_allies_desc:0 "[ROOT.GetFactionName] уже втягнуто в хаос великої війни. Немає сенсу більше зберігати невелику регіональну коаліцію, нам потрібно знайти союзників на міжнародній арені."
+ SER_invade_BNT:0 "Вторгнення в [FROM.getName]"
 
 
-
- ROM_support_against_auh:0 "\nЯкщо ми оголосимо війну §Y[AUH.getFlag][AUH.getName]§!, §Y[ROM.getFlag][ROM.getName]§! автоматично приєднається до нас!"
- RUS_support_against_auh:0 "\nЯкщо ми оголосимо війну §Y[AUH.getFlag][AUH.getName]§!, §Y[RUS.getFlag][RUS.getName]§! автоматично приєднається до нас!"
+ ROM_support_against_auh:0 "\nЯкщо ми оголосимо війну §Y[AUS.GetNameWithFlag]§!, §Y[ROM.GetNameWithFlag]§! автоматично приєднається до нас!"
+ RUS_support_against_auh:0 "\nЯкщо ми оголосимо війну §Y[AUS.GetNameWithFlag]§!, §Y[RUS.GetNameWithFlag]§! автоматично приєднається до нас!"
 
 
  SER_ensure_russian_support:0 "Забезпечити підтримку російською мовою"
@@ -1573,7 +1579,7 @@
 
 
 
- SER_attack_AUH_plan:0 "Щоб отримати дійсне обґрунтування для атаки на §Y[AUH.getFlag][AUH.getName]§!, ми підтримуватимемо декларацію незалежності §Y[GAL.getFlag][GAL.getAdjective]§!. §Y [RUS.getFlag][RUS.getName]§ і §Y[ROM. getFlag][ROM.getName]§! можуть підтримати наш приклад \n\n Якщо §Y[AUH.getName]§ спробує відновити §Y[GAL.getFlag][. GAL.getName]§!, це буде зараховано як §ROнаступна війна§! для §Y[AUH.getFlag] [AUH.getName]§! їх §Y[GER.getFlag][GER.getAdjective]§!
+ SER_attack_AUH_plan:0 "Щоб отримати дійсне обґрунтування для атаки на §Y[AUH.GetNameWithFlag]§!, ми підтримуватимемо декларацію незалежності §Y[GAL.getFlag][GAL.getAdjective]§!. §Y[RUS.GetNameWithFlag]§ і §Y[ROM.GetNameWithFlag]§! можуть підтримати наш приклад \n\n Якщо §Y[AUH.GetNameWithFlag]§ спробує відновити §Y[GAL.GetNameWithFlag]§!, це буде зараховано як §Rнаступальна війна§! для §Y[AUH.GetNameWithFlag]§! їхню §Y[GER.getFlag][GER.getAdjective]у§! підтримку."
 
  SER_investing_the_coup:0 "Інвестиційний переворот"
 
@@ -1586,7 +1592,7 @@
  european_crisis_mission2:0 "Галицька криза"
  AUH_franzjoseph:0 "Галицька криза"
  AUH_franzjoseph_desc:0 "Франц-Йосиф, імператор Австро-Угорщини понад сорок років, лежить на смертному одрі. Ця сумна новина надійшла, коли імператор прямував додому. Кажуть, що саморобний вибуховий пристрій спрацював поблизу головного Кажуть, що бомба була захована в кущах біля воріт, убивши імператора та двох його охоронців австрійська поліція, головним підозрюваним є маніпульований галицький сепаратист зі сходу країни, природно, приведе до кінця правління Франца Фердинанда I, природно забезпечить нове регентство.
- galician_crisis_mission_tt:0 "§Y[RUS.getFlag][RUS.getName]§! Може підтримувати §Y[GAL.getFlag][GAL.getAdjective]§! Незалежність від §Y[AUH.getFlag][AUH.getName]§! ."
+ galician_crisis_mission_tt:0 "§Y[RUS.GetNameWithFlag]§! зможе підтримувати §Y[GAL.getFlag][GAL.getAdjective]у§! незалежність від держави §Y[AUH.GetNameWithFlag]§!."
  galician_crisis_ends:0 "Галицька криза закінчилася"
 
 
@@ -1608,7 +1614,7 @@
  SER_recall_old_officers:0 "Відкликати старих офіцерів"
 
  SER_FROM_FROM:0 "Від [THIS.GetName]:"
- SER_give_equipment_for_each_friendly_majors:0 "§YEquipments§! буде додано для кожної з наступних країн, у яких §Yopinion§! щодо §YSerbia§! перевищує §G10§!: \n§Y[FRA.getFlag][FRA.GetNameDef] §!, [ENG.getFlag]§Y [ENG.GetNameDef]§!, §Y[GER.getFlag][GER.GetNameDef]§!,§Y[AUH.getFlag][AUH.GetNameDef]§!, §Y[ITA.getFlag][ITA.GetNameDef] §!, §Y[RUS.getFlag][RUS.GetNameDef]§! §Y[TUR.getFlag][TUR.GetNameDef]§!."
+ SER_give_equipment_for_each_friendly_majors:0 "§YEquipments§! буде додано для кожної з наступних країн, у яких §Yopinion§! щодо §YSerbia§! перевищує §G10§!: \n§Y[FRA.getFlag][FRA.GetNameDef] §!, [ENG.getFlag]§Y [ENG.GetNameDef]§!, §Y[GER.getFlag][GER.GetNameDef]§!,§Y[AUS.getFlag][AUS.GetNameDef]§!, §Y[ITA.getFlag][ITA.GetNameDef] §!, §Y[RUS.getFlag][RUS.GetNameDef]§! §Y[TUR.getFlag][TUR.GetNameDef]§!."
 
  SER_unlock_laws_decisions:0 "Відкриває кілька §Y"Рішень Закону"§! надаючи §GРізні бонуси§!."
  SER_law_modernization:0 "Модернізація законодавства"
@@ -1617,7 +1623,7 @@
  SER_laws:0 "Модернізація законів"
  SER_regency_choice:0 "Будуть представлені різні претенденти на трон [SER.getFlag]§YSerbia§!, один із них буде призначений §Ymonarch§!."
  SER_royal_tour:0 "Королівський тур"
- SER_royal_tour_tooltip:0 "Розблокує рішення, що дозволяють §Y[SER.GetNeutralLeader]§! відвідувати [SER.getFlag]§YSerbian§! міста, щоб підвищити свою популярність."
+ SER_royal_tour_tooltip:0 "Розблокує рішення, що дозволяють §Y[SER.GetNeutralLeader]§! відвідувати [SER.getFlag]§Yсербські§! міста, щоб §Gпідвищити§! свою популярність."
  SER_ai_behavior:0 "[SER.getFlag]Сербія"
  SER_questioning_public_opinion_about_black_hand:0 "Уряд бореться з Чорною рукою"
  SER_radical_party_will_fully_support_the_king_and_fuze:0 "§Y[SER.GetDemocraticParty]§! повністю підтримуватиме §Y[SER.GetNeutralLeader]§! і дозволить йому займатися зовнішніми справами."
@@ -1660,7 +1666,7 @@
  SER_military_academy_law:0 "Право військової академії"
  SER_monetary_reform:0 "Монетарна реформа"
  SER_reinforce_administration:0 "Посилити адміністрування"
- grand_coalition:0 "Велика коаліція править §Y[SER.getFlag][SER.getName]§!"
+ grand_coalition:0 "Велика коаліція править державою §Y[SER.GetNameWithFlag]§!"
  Ser_Bul_treaty:0 "§Y[SER.getFlag][BUL.getFlag][SER.getAdjective]-[BUL.getAdjective]§! Договір про дружбу вже підписаний"
  SER_seize_Ohrid:0 "Захопити Охрід"
  SER_promote_terzic:0 "Просувати Терзича"
@@ -8634,6 +8640,17 @@
  BEL_reform_army_decision_desc:0 "Наш уряд весь цей час відмовлявся визнати відсталість армії, запевняючи населення, що Бельгія зберігатиме нейтралітет і нам не потрібні війська. Але ми всі знаємо, що нашій армії потрібні реформи."
  BEL_batavian_white_peace:0 "Визнати поразку Батавської революції"
 
+ BEL_vandervelde_law:0 "Vandervelde Anti-Alcohol Law"
+ BEL_vandervelde_law_desc:0 "Socialist deputy §YÉmile Vandervelde§! proposed a law aimed at regulating the sale of alcoholic products and further punishing alcoholism."
+
+ BEL_8_hours_worktime:0 "8 Hours Worktime"
+ BEL_8_hours_worktime_desc:0 "Socialists are calling for working hours to be fixed at hours, which would allow many workers to reduce their working hours, or to be paid more."
+
+ BEL_extended_rights_for_unions:0 "Extended Rights for Unions"
+ BEL_extended_rights_for_unions_desc:0 "The socialist deputies proposed the expansion of the rights of trade unions, including the possibility of being trained in all types of companies. The law also provides for a reduction in the notice period for union actions and protects unionized employees against unjustified dismissals."
+
+ skip_support_right_given_focus:0 "Skip §YSupport the Young Right§! Focus."
+
  JAP_rename_markus_island:0 "Перейменувати острів Маркус на Minamitorishima"
  JAP_sue_for_peace_KOR:0 "Умовний мир для Корейської війни за незалежність"
  JAP_sue_for_peace_FNG:0 "Запропонуйте Китаю умовні умови миру"
@@ -8660,6 +8677,9 @@
  hungarian_revanchism:0 "Габсбурзький реваншизм"
  HUN_revenge_on_bruderkrieg:0 "Помста за Bruderkrieg"
  HUN_revenge_on_bruderkrieg_desc:0 "[GER.GetNameDefCap] був союзником нашої старої Австро-Угорщини, але зрадив нас, вторгся та узурпував нашу законну територію. Тепер, коли Велика війна почалася, ми повинні боротися разом з [FRA.GetNameDef] проти Німеччини імперіалізм і повернути нашу спадщину!»
+ HUN_send_equipment_to_austria: "Надіслати оснащення Австрії"
+ HUN_invade_cze: "Вторгнутися в Чехословаччину"
+ HUN_invade_cze_desc: "Території, нині взяті чехами, — законно угорські. Ми не можемо залишити їх їм!"
  HUN_establish_slovak_soviet_republic:0 "Створити Словацьку Радянську Республіку"
  HUN_end_regency:0 "Покінчити з регентством"
  HUN_end_regency_desc:0 "Наша країна є королівством, але без короля. Повернення Габсбурзького монарха досі викликало опір народу."
@@ -8871,6 +8891,16 @@
  FRA_renovate_arsenal_of_saint_etienne:0 "Відновити Арсенал Сент-Етьєна"
  FRA_renovate_arsenal_of_chatellerault:0 "Відновити арсенал Шательро"
  FRA_renovate_arsenal_of_charleville:0 "Відновити Шарлевільський арсенал"
+ FRA_form_escadrille_bl1: "Утворити ексадрилью «Blériot BL1»"
+ FRA_form_escadrille_bl2: "Утворити ексадрилью «Blériot BL2»"
+ FRA_form_escadrille_bl3: "Утворити ексадрилью «Blériot BL3»"
+ FRA_form_escadrille_hf1: "Утворити ексадрилью «Henry Farman HF1»"
+ FRA_form_escadrille_hf2: "Утворити ексадрилью «Henry Farman HF2»"
+ FRA_form_escadrille_mf1: "Утворити ексадрилью «Maurice Farman MF1»"
+ FRA_form_escadrille_mf2: "Утворити ексадрилью «Maurice Farman MF2»"
+ FRA_form_escadrille_mf5: "Утворити ексадрилью «Maurice Farman MF5»"
+ FRA_form_escadrille_d4: "Утворити ексадрилью «Deperdussin D4»"
+ and_more_decisions: "Та декілька інших рішень..."
 
  FRA_citroen_factory_converted:0 "Після війни цей §YВійськовий завод§! буде перетворено на §YЦивільний завод§!."
 
@@ -8881,7 +8911,7 @@
  ALB_rural_chaos_desc:0 "Землевласники та радикальні мусульмани об'єднали зусилля, щоб перешкодити законному уряду виконувати національні закони."
  ALB_dutch_gendarmerie_tt:0 "Розгорніть дивізію в §YVlorë§! з 3 піхотними батальйонами. §RЦю дивізію буде розформовано, якщо станеться великий конфлікт.§!"
  ALB_discontent_muslims:0 "§RЦей вибір розлютить мусульманське населення!§!"
- ALB_getting_TUR_support:0 "Якщо §Y[TUR.getFlag] [TUR.getName]§! погодиться допомогти нам, ми зможемо підготувати державний переворот, спрямований на приведення до влади проосманського уряду."
+ ALB_getting_TUR_support:0 "Якщо §Y[TUR.GetNameWithFlag]§! погодиться допомогти нам, ми зможемо підготувати державний переворот, спрямований на приведення до влади проосманського уряду."
  ALB_join_allies:0 "Приєднатися"
 
  FRA_guesdists_get_soreleans:0 "Залучити сорелянців"
@@ -9003,8 +9033,8 @@
 
  BUL_BW2_outcome_timer:0 "Результат болгарського втручання"
  BUL_BW2_outcome_timer_desc:0 "Війна не може тривати вічно, якщо ми не переможемо Балканську Лігу достатньо швидко, нам доведеться піти на компроміс щодо претензій Македонії."
- kis_secondbalkanwar_victory:0 "§Y[BUL.getFlag][BUL.getName]§! виграв Другу Балканську війну"
- kis_secondbalkanwar_lose:0 "§Y[BUL.getFlag][BUL.getName]§! програв Другу Балканську війну"
+ kis_secondbalkanwar_victory:0 "§Y[BUL.GetNameWithFlag]§! виграла Другу Балканську війну"
+ kis_secondbalkanwar_lose:0 "§Y[BUL.GetNameWithFlag]§! програла Другу Балканську війну"
 
  GEO_take_sochi:0 "Інтегрувати Сочі"
  caucasus_ethnicities:0 "Кавказькі національності"
@@ -9178,6 +9208,20 @@
  NWA_raise_reserve_regiments: "Збільшити резервні полки"
 
  FRA_IND_shared_tree:0 "§YЦе дерево§! спільно використовується між §Y[FRA.getFlag]Франція§! та §Y[IND.getFlag]Індокитай§!."
+ IND_gather_guns: "Зібрати рушниці"
+ IND_prepare_equipment: "Підготувати оснащення"
+ IND_train_partisans: "Тренувати партизанів"
+ IND_destabilize_tonkin: "Дестабілізувати Тонкін"
+ IND_destabilize_laos: "Дестабілізувати Лаос"
+ IND_expand_resistance_network: "Вплинути на мережу опору в області [FROM.getName]"
+ IND_increase_resistance_by_1: "\nЗбільшить рівень опору на §Y1§!."
+ IND_reduce_resistance_by_1: "\nЗменшить рівень опору на §Y1§!."
+ FROM_name: "Ціль — [FROM.getName]"
+ THIS_name: "Ціль — [THIS.getName]"
+ IND_get_equipment_auto:0 "Expansion of the Nationalist Movement"
+ long_jiguang_intervention:0 "§YLong Jiguang§! Intervention"
+ IND_end_of_nationalist_resistance:0 "Nationalist Movement §Y\"Quang Phuc Hôi\"§! Ends."
+ unlock_focus_return_to_japan:0 "Unlock National Focus: §YReturn to Japan§!"
 
  RUS_remove_aland_dmz: "Ремілітаризувати Аландські острови"
  FRA_move_capital_in_bordeaux:0 "Перенести капітал у Бордо"
@@ -9264,8 +9308,8 @@
  agadir_crisis_end:0 "Можливість втрутитися закінчиться."
  GER_agadir_crisis_opportunity:0 "Таймер можливостей для кризи в Агадірі"
  agadir_crisis_name_wargoal:0 "Криза в Агадірі"
- agadir_crisis_french_claim:0 "§Y[FRA.getFlag][FRA.getName]§! хоче нав'язати протекторат Марокко"
- agadir_crisis_german_claim:0 "§Y[GER.getFlag][GER.getName]§! проти цього рішення"
+ agadir_crisis_french_claim:0 "§Y[FRA.GetNameWithFlag]§! хоче нав'язати протекторат Марокко"
+ agadir_crisis_german_claim:0 "§Y[GER.GetNameWithFlag]§! проти цього рішення"
  agadir_crisis_alert:0 "Попередження про кризу в Агадірі"
  diplomatic_crisis_CLOSE:0 "Закрити"
  agadir_crisis_alert_tt:0 "§RКриза в Агадірі§! починається проти §Y[FRA.getFlag][FRA.getAdjective]§! претензій та §Y[GER.getFlag][GER.getAdjective]§! Інвестиції в §YМарокко§!"
@@ -9281,21 +9325,21 @@
  france_is_winning:0 "Статус переговорів: на користь [FRA.getName]"
  germany_is_winning:0 "Статус переговорів: на користь [GER.getName]"
  serbia_is_winning:0 "Статус переговорів: на користь [SER.getName]"
- austria_is_winning:0 "Статус переговорів: на користь [AUH.getName]"
+ austria_is_winning:0 "Статус переговорів: на користь [AUS.getName]"
  countryNameDef:0 "§Y[THIS.getFlag][THIS.getNameDef]§!"
  kriza_balanced:0 "Збалансований результат"
 
  july_crisis_name_wargoal:0 "Липнева криза"
- july_crisis_austrian_claim:0 "§Y[AUH.getFlag][AUH.getName]§! вимагає від Сербії компенсації за вбивство ерцгерцога"
- july_crisis_serbian_claim:0 "§Y[SER.getFlag][SER.getName]§! виступати проти цього рішення"
+ july_crisis_austrian_claim:0 "§Y[AUS.GetNameWithFlag]§! вимагає від Сербії компенсації за вбивство ерцгерцога"
+ july_crisis_serbian_claim:0 "§Y[SER.GetNameWithFlag]§! виступати проти цього рішення"
  july_crisis_alert:0 "Попередження про липневу кризу"
- july_crisis_alert_tt:0 "§RЛипнева криза§! розпочинається, проти §Y[AUH.getFlag][AUH.getAdjective]§! претензій щодо репарацій до §Y[SER.getFlag][SER.getName]§!."
+ july_crisis_alert_tt:0 "§RЛипнева криза§! розпочинається, проти §Y[AUH.getFlag][AUS.getAdjective]их§! претензій щодо репарацій до §Y[SER.GetNameWithFlag]§!."
 
  FRA_vote_will_fail:0 "§RГолосування, ймовірно, буде невдалим.§!"
  FRA_vote_will_pass:0 "§GГолосування пройде !§!"
  FRA_vote_will_pass_by_majority:0 "§cМи не можемо змусити закон прийняти, але цей закон схвалено більшістю, §!§Gвони проголосують за нього!§!"
  FRA_effect_if_law_pass:0 "\n§YЕфект, якщо голосування пройде:§!"
- FRA_effect_if_law_fail:0 "\n§REEffect, якщо голосування не вдається:§!"
+ FRA_effect_if_law_fail:0 "\n§RЕфект, якщо голосування не вдасться:§!"
  FRA_effect_if_mission_completed:0 "\n§GEефект, якщо місію виконано :§!"
  FRA_effect_if_mission_failed:0 "\n§РЕфект, якщо місія не виконана :§!"
 
@@ -9312,6 +9356,16 @@
 
  to_complete_mission:0 "§YЩоб виконати місію:§!"
 
+ FRA_scout_planes_5: "[?num_deployed_planes_with_type@scout_plane_equipment]/5 §Yлітаків-розвідників§! у полі (або [?num_equipment@scout_plane_equipment]/5 в запасах)"
+ FRA_fighters_2000: "[?num_deployed_planes_with_type@fighter_equipment]/2000 §Yвинищувачів§! у полі (або [?num_equipment@fighter_equipment]/2000 в запасах)"
+ FRA_bombers_500: "[?num_deployed_planes_with_type@tac_bomber_equipment]/500 §Yбомбардувальників§! у полі (або [?num_equipment@tac_bomber_equipment]/500 в запаса)"
+ FRA_we_have_enough_fighters: "Ми маємо достатньо §Yвинищувачів§!, тому не отримаємо жодний штраф навіть якщо провалимо завдання."
+ FRA_we_have_enough_bombers: "Ми маємо достатньо §Yбомбардувальників§!, тому не отримаємо жодний штраф навіть якщо провалимо завдання."
+
+ FRA_duval_plan_tt: "§RМи мусимо скористатися цими заводами, щоби виробити великі ВПС.§!" # (&?)
+ FRA_duval_plan:0 "Duval Plan"
+ FRA_duval_plan_desc:0 "In order to achieve victory in the air, France must produce a staggering amount of material, enough to be able to bomb the Rhine. General Marie Charles Duval is convinced that air superiority will guarantee our victory."
+
  FRA_french_war_industry_seller:0 "§LЩоб зберегти нашу військову промисловість, ми повинні зробити її прибутковою, продаючи частину нашої продукції іноземним торговим партнерам.§!"
 
  FRA_is_buying_60_renault_tanks:0 "Французькі легкі танки надходять"
@@ -9320,7 +9374,7 @@
  FRA_fufill_renault_contract_60_tanks:0 "Виконати контракт Renault"
  FRA_fufill_renault_contract_60_tanks_desc:0 "Ми обіцяли поставку 60 легких танків. Компанія Renault відповідає за підготовку або виробництво замовлених машин."
 
- has_ongoing_contract_with_FRA:0 "Має діючий контракт із §Y[FRA.getFlag][FRA.GetName]§!"
+ has_ongoing_contract_with_FRA:0 "Має діючий контракт із §Y[FRA.GetNameWithFlag]§!"
  ongoing_contract_demand:0 "Вже запитую контракт"
 
  FRA_is_refunding_60_tanks_plus_extra:0 "Відшкодування контракту на танки"
@@ -9356,6 +9410,15 @@
  FRA_collective_labor_agreement_desc:0 "Закон про колективні договори, запропонований членом парламенту §YLouis Bubreuilh§! пропонує створення угод для кожного сектора промисловості.\n\nУгоди дозволяють встановлювати конкретні статуси щодо винагороди, умов праці чи кваліфікації. Основні Професійними галузями зацікавлених є металісти UIMM, фермери, шахтарі, обробники та незалежні виробники."
  FRA_communist_want_more_reforms:0 "§tHardline SFIO§! хочуть реформ"
 
+ FRA_hostile_motion_de_censure:0 "Hostile Motion de Censure"
+ FRA_hostile_motion_de_censure_desc:0 "Our government is a minority and the other components of parliament have managed to form a solid majority against which we are no match. They plan to pass a motion of censure, which would bring down our government."
+
+ FRA_delay_legislatives_elections:0 "Delay Legislative Elections"
+ FRA_delay_legislatives_elections_desc:0 "The war affecting the country does not allow elections to be organized in good conditions. Postponing the votes will allow us to keep our seats without taking the risk of losing our control of the assembly."
+ FRA_elections_delayed_for_one_year:0 "§tLegislative Elections§! will be reported to next year."
+ FRA_canceled_legislative_elections:0 "Legislative Elections are Delayed"
+ FRA_activate_parliament:0 "The §YParliament§! will be restored and election will occur."
+
  FRA_protection_of_the_strike_right:0 "Захист права на страйк"
  FRA_protection_of_the_strike_right_desc:0 "Закон, запропонований депутатом §Yleon Jouhaux§! захищає право на страйк, захищаючи страйкарів. Серед нових прав, наданих парламентським проектом, ми знаходимо неможливість для боса подати до суду на своїх працівників, якщо вони займають будівлю, або скорочення повідомлень про страйк для профспілкових організацій."
 
@@ -9380,11 +9443,27 @@
  FRA_use_carnet_B:0 "Використовувати Carnet B"
  FRA_use_carnet_B_desc:0 "Carnet B — це файл масового спостереження, створений §Yгенералом Буланже§! у 1886 році, призначений для боротьби з іноземними агентами та антимілітаристами у випадку великого європейського конфлікту. Незважаючи на те, що його інформували та підтримували, послідовні ліві уряди Картель відмовився від його застосування. Активація такої процедури забезпечила б стабільність республіки в разі війни."
 
+ FRA_extended_citizenship_for_colonial_volunteers:0 "Extended Citizenship for Colonial Volunteers"
+ FRA_extended_citizenship_for_colonial_volunteers_desc:0 "More volunteers will join the army if we promise them access to indigenous citizenship granting them social benefits and representations, in particular the possibility of working for the public administration or the possibility of receiving public pension funds."
+
  FRA_leaving_the_coalition_desc:0 "A parliamentary group with too low loyalty may leave the coalition. It is necessary to find solutions aimed at increasing the loyalty of this faction, in particular by passing laws, completing focuses and selecting decisions that are favorable to them."
 
  FRA_join_the_coalition_desc:0 "Now that we have gained the trust of this parliamentary group, we can ask them to join our coalition so that they can guide our policy and assist us in voting on laws."
  FRA_it_join_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will join our §YCoalition§!, making us gain [?parliament_seat_array^v2|Y0]§G seats.§!"
 
+ FRA_invest_in_CGE:0 "Invest in CGE"
+ FRA_invest_in_CGE_desc:0 "Chairman of the Board of Directors §YPaul Doumer§! proposed an expansion of the company's research funds in the field of electrical infrastructure. This would amount to allowing direct competition to large foreign companies like [GER.getFlag]Siemens and [USA.getFlag]General Electrics."
+
+ FRA_expand_makeevka_exploitation:0 "Expand Makeevka Exploitation"
+ FRA_expand_makeevka_exploitation_desc:0 "The §YRussian Mining and Metallurgical Union§! founded at the end of 1910 exploits the coal mines of Ukraine, precisely in the region of [227.getName]. Additional investments could energize the region, while also currying favor with [227.OWNER.getName].\n\nIn addition to the initial establishment of nearly 8,000,000 francs, several contributions of millions of francs are planned."
+
+ FRA_promotion_to_young_socialist_officiers:0 "Promotion of Young Socialist Officiers"
+ FRA_promotion_to_young_socialist_officiers_desc:0 "By using the profile sheets written by the left-wing Masonic lodges, we can provoke the promotion of socialist officers in priority over other republican components. In addition to filling the gap created by the resignation of old guard generals, we can ensure the loyalty of the armed forces."
+ FRA_socialist_high_command:0 "The French general staff will now be made up of §tSocialist Republicans§!, which assures us of their loyalty in the event of a major political crisis."
+ FRA_has_defiant_army: "Має національний дух §Y$FRA_defiant_army$§!"
+
+ FRA_massive_utilization_of_the_cards:0 "Massive Utilization of the Political Cards"
+ FRA_massive_utilization_of_the_cards_desc:0 "In order to control the politicization and the republican and loyal character of the French army, a set of political files have been issued to the main officers. These sheets make it possible to trace political opinions in order to limit the promotions of anti-Republican elements. This system was dedicated in 1904 following the saucepan affair, but is still in place.\n\nWe should fully reactivate the use of these sheets and increase the political criteria for promotion."
 
  FRA_sfio_are_leaving_the_coalition:0 "SFIO Loyalty is Low"
  FRA_independant_socialist_are_leaving_the_coalition:0 "Independent Socialists Loyalty is Low"
@@ -9422,5 +9501,10 @@
 
  DEN_ICE_act_of_union:0 "@DEN @ICE датсько-ісландський акт про союз"
 
- SFIO_allied:0 "Перебуває в коаліції з£parliament_party_icon|1 §RSFIO§!"
+ SFIO_allied: "Перебуває в коаліції з£parliament_party_icon|1 §RФСРІ§!"
+ radical_party_allied: "Перебуває в коаліції з£parliament_party_icon|3 §CРадикально-соціалістичною партією§!"
+ democratic_republican_alliance_allied: "Перебуває в коаліції з£parliament_party_icon|4 §8Демократичним республіканським альянсом§!"
 
+ ROM_spawn_1918_army:0 "§GMobilize an army in Moldova encompassing 200 000 soldiers.§!"
+
+ if_it_increases: "\n§RЯкщо воно зросте:§!\n\n"
