@@ -504,7 +504,7 @@
 
  fight_phan_xich_long_loyalists_in_indochina:0 "Бійся з лоялістами Фан Січа Лонг"
 
-
+ AUS_republic_flag: "Є [AUS.getFlag] §YРеспублікою Австрія§!"
  BUL_AUH_could_support_us:0 "([AUH.getFlag]) §Y[AUH.getName]§! отримає пропозицію щодо економічної та військової співпраці, §Rщо дозволить їм підтримати наші вимоги§!.\n\n"
  BUL_weapon_order:0 "Світовий ринок зброї"
  BUL_order_guns_from_france:0 "Замовляйте зброю з Франції"
@@ -953,8 +953,6 @@
 
  FRA_too_much_reform_can_break_the_coalition:0 "§RНадмірне просування реформ може призвести до виходу поміркованих з коаліції.§!"
 
- FRA_far_right_leave_coalition:0 "§LНаціоналісти§! покинуть наш §YКонсервативний Альянс§!, через що ми втратимо [?націоналістичні|Y0]§R місця.§!"
- FRA_SFIO_leave_coalition:0 "§RSFIO§! покине наш §YКонсервативний альянс§!, через що ми втратимо [?SFIO|Y0]§R місця.§!"
  FRA_independents_radicals_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] вийде з нашого §YКонсервативного альянсу§!, через що ми втратимо [?independent_radicals|Y0]§R місць.§!"
  FRA_some_independents_radicals_join_us:0 "§GSome £parliament_party_icon|[?v] [GetParliamentPartyName] покине свою партію та приєднається до нас.§!"
 
@@ -1095,7 +1093,7 @@
  FRA_women_rights_code_penal_update_desc:0 "§YLouis Martin§! Пропозиція намагається видалити статті 337, 338, 339 і частково 324 з кримінального кодексу. Ці статті датуються до Французької революції 1789 року, і, наприклад, просять вибачення перед чоловіком, який убив свою дружина за подружню зраду також планує врегулювати співжиття, яке в даний час карається набагато серйозніше для жінок, ніж для чоловіків."
  FRA_women_rights_code_penal_update_done:0 "Закон про подружню зраду прийнято"
 
- AUH_negotiate_with_france:0 "вести переговори про сепаратний мир із Францією"
+ AUH_negotiate_with_france:0 "Вести переговори про сепаратний мир із Францією"
  AUH_negotiate_with_france_desc:0 "Війна триває і не йде на нашу користь на заході. Франція не впала, як планували німці, і голод почав з’їдати деякі міські райони нашої імперії. Хоча російська кампанія йде добре для Німецька імперія, ми не в такому зручному становищі, можливо, ми могли б домовитися про вихід із цієї війни через почесний мир? запобігти тисячам додаткових смертей."
 
  AUH_bosnian_states:0 "Натисніть, щоб побачити [BOS.getFlag] Боснійські штати"
@@ -1323,6 +1321,7 @@
  SOV_soviet_latvia:0 "Радянська Латвія"
  SOV_soviet_estonia:0 "Радянська Естонія"
  SOV_soviet_amur:0 "Створити Амурську СР"
+ SOV_soviet_odessa: "Заснувати Одеську СР"
  SOV_soviet_stavrapol:0 "Створити Ставрапольську СР"
  SOV_soviet_terek:0 "Створити Терек СР"
  SOV_soviet_black_sea:0 "Створити Чорноморську СР"
@@ -8693,6 +8692,7 @@
  POL_occupy_grodno:0 "Окупуйте Гродно"
  POL_occupy_wilno:0 "Окупуйте Вільно"
  POL_occupy_wilno_desc:0 "Оскільки ми зіпсували війну з Литвою, нам потрібна спеціальна військова операція типу "фальшивий прапор."»
+ POL_occupy_suwalki: "Окупувати Сувалки"
  POL_sue_for_peace_SOV:0 "Запропонуйте Радянам умови капітуляції"
  POL_sue_for_peace_SOV_desc:0 "Поки не пізно, настав час миру. Територіальні поступки набагато кращі, ніж бути маріонетковою державою."
  POL_sue_for_peace_UKR:0 "Запропонувати українцям умови капітуляції»
@@ -9344,7 +9344,7 @@
  radical_party_loyalty:0 "[?radical_party_loyalty|0%%]"
 
  FRA_front_populaire_explanation:0 "Ви повинні зберегти стабільність коаліції. Якщо один із її компонентів має менше ніж §Y20%§! stability£stability_icon£, §Rкоаліція розвалиться!§!"
- FRA_front_populaire_mechanics:0 "Активуйте категорію рішень §CFront Populaire§!. Використовуйте її, щоб перевірити стабільність коаліції та лояльність кожного її компонента."
+ FRA_front_populaire_mechanics:0 "Будуть активовані рішення §CFront Populaire§!. Використовуйте її, щоби гарантувати стабільність коаліції та лояльність кожного її компонента."
 
  FRA_three_hardline_sfio_law_to_pass:0 "[?SFIO_law_passed|+0]/§Y3§! §tHardline SFIO§! Закони прийняті"
 
@@ -9379,6 +9379,46 @@
 
  FRA_use_carnet_B:0 "Використовувати Carnet B"
  FRA_use_carnet_B_desc:0 "Carnet B — це файл масового спостереження, створений §Yгенералом Буланже§! у 1886 році, призначений для боротьби з іноземними агентами та антимілітаристами у випадку великого європейського конфлікту. Незважаючи на те, що його інформували та підтримували, послідовні ліві уряди Картель відмовився від його застосування. Активація такої процедури забезпечила б стабільність республіки в разі війни."
+
+ FRA_leaving_the_coalition_desc:0 "A parliamentary group with too low loyalty may leave the coalition. It is necessary to find solutions aimed at increasing the loyalty of this faction, in particular by passing laws, completing focuses and selecting decisions that are favorable to them."
+
+ FRA_join_the_coalition_desc:0 "Now that we have gained the trust of this parliamentary group, we can ask them to join our coalition so that they can guide our policy and assist us in voting on laws."
+ FRA_it_join_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will join our §YCoalition§!, making us gain [?parliament_seat_array^v2|Y0]§G seats.§!"
+
+
+ FRA_sfio_are_leaving_the_coalition:0 "SFIO Loyalty is Low"
+ FRA_independant_socialist_are_leaving_the_coalition:0 "Independent Socialists Loyalty is Low"
+ FRA_democratic_alliance_are_leaving_the_coalition:0 "Democratic Republican Alliance Loyalty is Low"
+ FRA_radical_party_are_leaving_the_coalition:0 "Radical Party Loyalty is Low"
+ FRA_independent_radicals_are_leaving_the_coalition:0 "Independent Radicals Loyalty is Low"
+ FRA_republican_federation_are_leaving_the_coalition:0 "Republican Federation Loyalty is Low"
+ FRA_conservatives_are_leaving_the_coalition:0 "Conservatives Loyalty is Low"
+ FRA_independent_republicans_are_leaving_the_coalition:0 "Independent Republicans Loyalty is Low"
+ FRA_popular_liberal_action_are_leaving_the_coalition:0 "Popular Liberal Action Loyalty is Low"
+ FRA_far_right_are_leaving_the_coalition:0 "Nationalists Loyalty is Low"
+
+ independent_socialist_allied:0 "£parliament_party_icon|2 Independent Socialists Allied"
+ FRA_sfio_ally:0 "Ally £parliament_party_icon|1 §RSFIO§!"
+ FRA_independent_socialists_ally:0 "Ally £parliament_party_icon|2 §OIndependent Socialists§!"
+ FRA_radical_party_ally:0 "Ally £parliament_party_icon|3 §CRadical Party§!"
+ FRA_democratic_alliance_ally:0 "Ally £parliament_party_icon|4 §8Democratic Republican Alliance§!"
+ FRA_independent_radicals_ally:0 "Ally £parliament_party_icon|5 §1Independent Radicals§!"
+ FRA_republican_federation_ally:0 "Ally £parliament_party_icon|6 §2Republican Federation§!"
+ FRA_conservatives_ally:0 "Ally £parliament_party_icon|7 §3Conservatives§!"
+ FRA_independent_republicans_ally:0 "Ally £parliament_party_icon|8 §0Independent republicans§!"
+ FRA_popular_liberal_action_ally:0 "Ally £parliament_party_icon|9 §gPopular Liberal Action§!"
+ FRA_far_right_ally:0 "Ally £parliament_party_icon|10 §LNationalists§!"
+
+ FRA_SFIO_leave_coalition: "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §YКоаліцію§!, через що ми втратимо [?SFIO|Y0] §Rмісць§!."
+ FRA_independent_socialists_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?independent_socialist|Y0]§R seats.§!"
+ FRA_democratic_republican_alliance_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?democratic_republican_alliance|Y0]§R seats.§!"
+ FRA_radical_party_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?radical_party|Y0]§R seats.§!"
+ FRA_independent_radicals_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?independent_radicals|Y0]§R seats.§!"
+ FRA_republican_federation_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?republicain_federation|Y0]§R seats.§!"
+ FRA_conservatives_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?conservatives|Y0]§R seats.§!"
+ FRA_independent_republicans_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?independent_republicans|Y0]§R seats.§!"
+ FRA_popular_liberal_action_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?popular_liberal_action|Y0]§R seats.§!"
+ FRA_far_right_leave_coalition: "£parliament_party_icon|[?v] §LНаціоналісти§! покинуть нашу §YКоаліцію§!, через що ми втратимо [?nationalist|Y0] §Rмісць§!."
 
  DEN_ICE_act_of_union:0 "@DEN @ICE датсько-ісландський акт про союз"
 

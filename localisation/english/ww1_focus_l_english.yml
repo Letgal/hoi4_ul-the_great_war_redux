@@ -4191,7 +4191,7 @@
 
 
  AUH_federalist_reform:0 "Федералістична реформа"
- AUH_federalist_reform_desc:0 "Кайзер Карл виявив зацікавленість у розробці нової конституції для створення Австро-Угорщини як федерації. Великий конгрес відбудеться у Відні, і делегати з усієї імперії зустрінуться."
+ AUH_federalist_reform_desc:0 "Кайзер виявив зацікавленість у розробці нової конституції для створення Австро-Угорщини як федерації. Великий конгрес відбудеться у Відні, і делегати з усієї імперії зустрінуться."
  AUH_federalist_reform_tt:0 "Запуск серії подій, що призвели до розробки проекту нової конституції, спрямованої на встановлення §Y[AUH.getFlag][AUH.getName]§! як §YФедерації§!\n\n"
 
  AUH_the_great_vienna_congress_tooltip2:0 "\n\n§RSДеякі країни, ймовірно, скористаються подією, щоб видати §YReclamations§!.§!"
@@ -6620,7 +6620,7 @@
  FRA_ww1_ally_the_republican_alliance:0 "Союз республіканців"
  FRA_ww1_ally_the_republican_alliance_desc:0 "SFIO та кілька незалежних, які приєдналися до нас, є надто обмеженою опозиційною силою. Ми повинні прийняти умови альянсу республіканського альянсу та сформувати народне об’єднання лівих."
 
- FRA_ww1_socialist_mentality:0 "Радикалізація Картелю гошів»
+ FRA_ww1_socialist_mentality:0 "Консолідувати Картель гошів"
  FRA_ww1_socialist_mentality_desc:0 "Наше спільне утворення з демократичним альянсом є знахідкою, воно дозволяє нам маніпулювати виборцями за допомогою політичних маневрів. Проявивши харизму та авторитет для справи, ми могли б взяти гору над лідерами Демократичної партії та змусити злиття лівий блок у СФІО."
 
  FRA_ww1_worker_cooperatives:0 "Спонсор робочих кооперативів"
@@ -6982,8 +6982,8 @@
  FRA_get_republicain_federation_seats:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] представляє [?republicain_federation|Y0] місць."
 
  FRA_get_socialists_seats:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] представляє [?SFIO|Y0] місць."
- FRA_ally_democratic_republican_alliance:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] приєднається до нашого §YСоціалістичного альянсу§!, що дозволить нам отримати [?democratic_republican_alliance|Y0]§Y місць.§!"
  FRA_ally_radicals:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] приєднається до нашого §YСоціалістичного альянсу§!, що дозволить нам отримати [?radical_party|Y0]§Y місць.§!"
+ FRA_ally_democratic_republican_alliance:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] приєднається до нашого §YСоціалістичного альянсу§!, що дозволить нам отримати [?democratic_republican_alliance|Y0]§Y місць.§!"
 
  FRA_anticipated_elections_tt:0 "§YНові парламентські вибори§! будуть організовані через §Y2 тижні§!. Вони дозволять нам точніше відобразити популярність нашої партії."
 
@@ -7066,9 +7066,9 @@
  FRA_ww1_cartel_des_droites:0 "Картель прав"
  FRA_ww1_cartel_des_droites_desc:0 "Об’єднання французьких правих — це реальність, яка дозволяє нам бути більш амбітними, коли йдеться про вплив, який ми можемо мати на національну політику. Тісно співпрацюючи, консервативні групи та Республіканська федерація могли б об’єднатися, щоб стати найбільшою групою в національні збори."
 
- FRA_fuze_the_fronts:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] і £parliament_party_icon|2 §OНезалежні соціалісти§! приєднаються до £parliament_party_icon|1 §RSFIO§!."
- FRA_mention_de_censure:0 "§YФранцузький уряд§! буде усунено з посади §Ясамблеєю§!."
- FRA_mention_de_censure_socialist:0 "\n§Радикал-соціалістичний§! уряд буде сформовано."
+ FRA_fuze_the_fronts:0 "£parliament_party_icon|2 §OНезалежні соціалісти§! приєднаються до £parliament_party_icon|1 §RSFIO§!."
+ FRA_mention_de_censure:0 "§YФранцузький уряд§! буде усунено з посади §Yасамблеєю§!."
+ FRA_mention_de_censure_socialist:0 "\n§OРадикал-соціалістичний§! уряд буде сформовано."
  FRA_150_seats:0 "Контроль 150 місць"
  FRA_200_seats:0 "Контроль 200 місць"
  FRA_250_seats:0 "Контроль 250 місць"
@@ -7289,7 +7289,7 @@
  FRA_form_schneider_tank_brigade:0 "Цей §Yфранцузький§! броньований підрозділ буде створено з §Y80% укомплектованості§!."
  FRA_entente_dissolved_during_civil_war:0 "\nНаша фракція, §Y[FRA.getFactionName]§!, буде розпущена під час громадянської війни!"
  FRA_ban_socialism:0 "Соціалізм буде заборонено §YКожне місце в SFIO займе наша політична фракція.§!"
- FRA_ban_fascism:0 "Протофашистів буде заборонено §YКожне місце націоналістів займе наша політична фракція.§!"
+ FRA_ban_fascism:0 "Протофашистів буде заборонено. §YКожне місце націоналістів приєднається до партії§! £parliament_party_icon|[?v] [GetParliamentPartyName]"
 
  FRA_ban_socialism_parties:0 "§YСоціалізм буде заборонено.§! £parliament_party_icon|[?v] [GetParliamentPartyName] і £parliament_party_icon|2 §OНезалежні соціалісти§! Партії будуть розпущені."
 
@@ -9309,7 +9309,7 @@
  BEL_private_school_subventions:0 "Субвенції приватної школи"
  BEL_private_school_subventions_desc:0 "Щоб підтримати світську, безкоштовну школу без політичних зв'язків, прем'єр-міністр запропонував встановити спеціальні субсидії, спрямовані на створення нових приватних шкіл."
 
- BEL_first_broqueville_goverenment:0 "Перший уряд Броквіля"
+ BEL_first_broqueville_governement:0 "Перший уряд Броквіля"
  BEL_first_broqueville_governement_desc:0 "Після відставки попереднього уряду. Новий прем'єр-міністр повинен призначити своїх співробітників з благословення короля."
 
  BEL_workers_retirement_pensions:0 "Робочі пенсії"

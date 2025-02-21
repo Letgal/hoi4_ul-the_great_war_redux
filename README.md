@@ -36,6 +36,7 @@
 + `ww1_adjacency_rules`
 + `ww1_autonomy`
 + `ww1_buildings`
++ `ww1_parliament_gui` (старий переклад видалено)
 
 ## Файл оновлено, старий переклад збережено
 + `bookmarks`
@@ -56,7 +57,6 @@
 + `ww1_diplomacy`
 + `ww1_factions`
 + `ww1_game_rules`
-+ `ww1_parliament_gui`
 + `ww1_research`
 + `ww1_unit_medals`
 + `ww1_units`
