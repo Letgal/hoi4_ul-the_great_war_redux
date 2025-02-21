@@ -8,8 +8,9 @@
 ## Завершені файли
 + `countries`
 + `state_names`
-+ `wolferos`
++ ~~`wolferos`~~
 + `ww1_focus_filter_tag`
++ `ww1_frontend`
 
 ### Папка `replace`
 + `replace_air`
