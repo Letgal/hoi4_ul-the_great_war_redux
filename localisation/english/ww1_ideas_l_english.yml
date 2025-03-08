@@ -1535,6 +1535,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  FRA_ruhr_occupation_desc:0 "Окупація та утримання Руру є досить обтяжливим завданням для уряду. Але принаймні ми можемо отримати репарації корисними копалинами з Руру"
  FRA_ruhr_occupation2:0 "Окупація Руру"
  FRA_ruhr_occupation2_desc:0 "Окупація Руру стикається з громадянською непокорою місцевого населення, що ускладнює роботу адміністрації та жандармерії."
+ FRA_idea_modernization_of_the_battlefleet:0 "Modernization of the Battlefleet"
  FRA_disorganised_partisans:0 "Дезорганізовані партизани"
  FRA_idea_offensive_cult:0 "Наступальний культ"
  FRA_idea_offensive_cult_desc:0 "Ми, французи, чекали реваншу за франко-прусську війну. Тільки негайне просування на території Німеччини принесе абсолютну перемогу [ROOT.GetNameDef]. Vive la France!"
@@ -1548,6 +1549,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  FRA_carnet_B: "Carnet B"
  FRA_carnet_B_desc:0 "Carnet B — це файл масового спостереження, створений §Yгенералом Буланже§! у 1886 році, призначений для боротьби з іноземними агентами та антимілітаристами у випадку великого європейського конфлікту."
 
+ FRA_excessive_marine_nationale_budget:0 "Excessive Marine Nationale Budget"
+ FRA_excessive_marine_nationale_budget_desc:0 "The French government has financed a forced modernization plan for its war fleet, which generates very significant costs which penalize the other branches of the army."
  sncf: "SNCF"
  rhone_poulenc: "Rhône-Poulenc"
  lorraine_dietrich: "Lorraine-Dietrich"
@@ -1562,6 +1565,10 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  VIN_bleeding_us_dry_desc:0 "Колоніальна адміністрація надзвичайно ефективно витягує з Індокитаю якомога більше. Хоча невеликі реформи були зроблені тут, чи там, зрештою, все, що ми для жителів матері, — це величезне корито для грошей встромити його брудні, жадібні лапи"
  VIN_dysfunctional_government:0 "Дисфункціональний уряд"
  VIN_dysfunctional_government_desc:0 "Урядом Індокитаю керують неймовірно погано, з автономною військовою адміністрацією та занедбаною цивільною адміністрацією. Корпорації шаленіють, а корупція поширена"
+
+ IND_low_nationalist_agitation_modifier: "Низьке збудження націоналістів"
+ IND_medium_nationalist_agitation_modifier: "Середнє збудження націоналістів"
+ IND_high_nationalist_agitation_modifier: "Високе збудження націоналістів"
 
  VIN_union_of_protectorates: "Союз протекторатів"
  VIN_union_of_protectorates_desc:0 "Союз Індокитаю об'єднує територію Кохінхіні та набір протекторів, накопичених між 1883 і 1907 роками. Адміністрація 6 штатів, які входять до цієї федерації, є складною, зокрема через різні культури та відданість місцевих жителів."
@@ -2455,6 +2462,9 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  USA_idea_indian_revolt:0 "Індіанське повстання"
  USA_idea_reactionism_era:0 "Ера реакціонізму"
  USA_idea_progressivism_era:0 "Ера прогресивізму"
+ USA_cant_increase_concription_or_change_army:1 "§RCannot increase conscription law.\nCannot train units, disband units, or edit unit templates.§!"
+ USA_idea_neglected_military_budget:0 "Neglected Military Budget"
+ USA_idea_neglected_military_budget_desc:0 "The isolationist diplomacy of the United States has prioritized the expansion of the civilian economy to the detriment of defense budgets, particularly that of the Army. The American army has accumulated a certain delay in the design of modern weapons such as machine guns or military aviation."
  USA_idea_union_activism:0 "Профспілковий активізм"
  USA_idea_union_activism_desc:0 "Незважаючи на впровадження прогресивного вдосконалення соціальної політики, страйки та соціалістична кампанія профспілок продовжуються відбуватися. І це відбувається у формі культурного явища"
  USA_idea_wild_west_era:0 "Спадщина Дикого Заходу"
@@ -2925,7 +2935,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  RIF_idea_breeze_of_freedom_desc:0 "Холодні дні спекотної осені. Аль-Хосейма і Тар'єст, Бахаа Айт-Тузан. Танжер і Тетуан, о квітко Ашона. Від Сходу до Заходу це країна Ріф. Ріф - наша Батьківщина! Ріф наша Батьківщина!"
 
  #Luxembourg
- LUX_minor_army:0 "Мала армія"
+ LUX_london_treaty:0 "Treaty of London"
+ LUX_london_treaty_desc:0 "Under the Treaty of London of 1867, Luxembourg is considered a neutral state and is not allowed to have an army. The local police force is the only military force the country has, making it a defenseless nation."
  LUX_occupation:0 "Окупація"
  LUX_occupation_desc:0 "На політику [ROOT.GetNameDefCap] сильно вплинула німецька окупація штату."
  LUX_occupation_tt:0 "\n§Y[ROOT.GetFlag]Люксембург буде вирішено державами-переможцями:\nякщо [GER.GetFlag]Німеччина переможе, §R[ROOT.GetFlag]Люксембург буде анексовано§!;\nif [ FRA.GetFlag] Франція перемогла, вона підніметься їм §Rвирішити, чи буде вона залишатися незалежною§!.§!"
@@ -3230,6 +3241,17 @@ FRA_colonial_conscription: "Колоніальний призов"
 
 
  MOR_guerilla_warfare: "Партизанська війна"
+ MOR_economical_crisis:0 "Economical Crisis"
+ MOR_economical_crisis_desc:0 "The Moroccan economy is on the verge of bankruptcy since the departure of Sultan Abdelaziz for the benefit of his brother Abdelhafid, the lack of control of the territory and the sluggishness of foreign investments have plunged the country into a deep budgetary crisis."
+
+ MOR_decentralized_tribal_state:0 "Decentralized Tribal State"
+ MOR_decentralized_tribal_state_desc:0 "Morocco is a rural and decentralized state. Most government seats are given to warlords representing more or less independent tribes, fighting for their own interests."
+
+ MOR_low_makhzen_authority:0 "Low Makhzen Authority"
+ MOR_low_makhzen_authority_desc:0 "The Makhzen represents the court of the Sultan and his courtiers. Once influential, it lost authority following the economic, political and social crises the country was going through."
+
+ MOR_mid_makhzen_authority:0 "Mitigated Makhzen Authority"
+ MOR_mid_makhzen_authority_desc:0 "The Makhzen represents the court of the Sultan and his courtiers. Once influential, it lost authority following the economic, political and social crises the country was going through."
 
  #Malaysia
  MAL_federation: "Федеративні штати"
@@ -3270,7 +3292,14 @@ FRA_colonial_conscription: "Колоніальний призов"
  TRP_civil_war: "Громадянська війна"
  TRP_civil_war_desc:0 "Структура влади республіки, нестабільна з самого початку, була повністю зруйнована, і різні частини республіки поринули в громадянську війну"
 
- IND_low_nationalist_agitation_modifier: "Низьке збудження націоналістів"
- IND_medium_nationalist_agitation_modifier: "Середнє збудження націоналістів"
- IND_high_nationalist_agitation_modifier: "Високе збудження націоналістів"
- IND_test2_modifier: "test2"
+### БЕЛЬГІЯ ###
+ BEL_belgian_resistance_modifier: "Бельгійський опір"
+ BEL_belgian_resistance_modifier_desc:0 "The popularity of King Albert and the publication of underground newspapers stimulated resistance in Belgium."
+ BEL_belgian_resistance_modifier_idea: "$BEL_belgian_resistance_modifier$"
+ BEL_belgian_resistance_modifier_idea_desc: "$BEL_belgian_resistance_modifier_desc$"
+
+### МАРОККО ###
+ MOR_reformed_tertib:0 "Reformed Tertib"
+ MOR_union_des_mines_marocaines:0 "Union des mines Marocaines"
+ MOR_mannesmann:0 "Mannesmann"
+ MOR_mannesmann_desc:0 "Mannesmann Souss Landgeselischaft"

@@ -163,8 +163,8 @@
  dependent_air_corp_desc:0 "Повітряний вимір війни стає все більш життєво важливим. Створюючи Незалежний авіаційний корпус, ми гарантуємо, що наші авіаційні сили отримають увагу, ресурси та інновації, необхідні для досягнення успіху."
  state_of_the_country_army:0 "Стан армії [ROOT.getAdjective]"
  state_of_the_country_army_desc:0 "Сила [ROOT.GetName] вимірюється міццю її армії. Давайте оцінимо стан наших сил, визначимо сфери сили, на яких потрібно розвиватися, і слабкі сторони, які потрібно усунути, забезпечуючи грізну та стійку армію."
- capital_manoeuvers:0 "Маневри [ROOT.Capital.getName]"
- capital_manoeuvers_desc:0 "Столиця — це не лише політичне серце нашої нації; це також життєво важливий військовий центр. Проведення регулярних маневрів у [ROOT.Capital.getName] та навколо нього гарантує, що наші війська будуть чіткими, скоординованими та готовими до будь-яких викликів "
+ capital_manoeuvers: "Маневри в місті [ROOT.Capital.GetCapitalVictoryPointName]"
+ capital_manoeuvers_desc:0 "Столиця — це не лише політичне серце нашої нації; це також життєво важливий військовий центр. Проведення регулярних маневрів у місті [ROOT.Capital.GetCapitalVictoryPointName] та навколо нього гарантує, що наші війська будуть чіткими, скоординованими та готовими до будь-яких викликів "
  fortification_effort:0 "Зусилля укріплення"
  fortification_effort_desc:0 "У ці непевні часи ми повинні вжити заходів для зміцнення нашої країни. Інвестування в оборонні споруди та підготовку захистить наші землі та людей від будь-яких загроз."
  airplanes_research:0 "Дослідження літаків"
@@ -3538,6 +3538,7 @@
  SER_economic_preparations_desc:0 "Нам потрібно підготувати нашу економіку до майбутньої війни. Ми повинні переконатися, що у нас є достатньо ресурсів для ведення війни."
  SER_coalition_collapse:0 "Розпад коаліції"
  SER_coalition_collapse_desc:0 "Коаліційний кабінет впав. Боротьба між радикальними партіями стала нестерпною для їхніх членів, і вони вирішили припинити цей експеримент, особливо враховуючи заспокоєння ситуації в регіоні. Тепер ми повинні сформувати однорідний уряд, і ми маємо для цього ідеальну людину."
+ SER_coalition_collapse_tt:0 "When the §YGrand Coalition§! collapses in late §YFebruary 1911§!, this focus will automatically be completed" # (!)
  SER_milovanovic_cabinet:0 "Кабінет Міловановича"
  SER_milovanovic_cabinet_desc:0 "У цей час кризи молодого політика, якого чекає блискуче майбутнє, пана Мілована Міловановича, було обрано очолити однорідний радикальний уряд."
  SER_balkan_strategy:0 "Балканська стратегія"
@@ -3682,7 +3683,8 @@
  SER_fund_Zastava_Arms:0 "Фонд зброї Zastava"
  SER_fund_Zastava_Arms_desc:0 "На додаток до високих темпів виробництва, наша військова промисловість має бути інноваційною. Ми повинні фінансувати Zastava та просити їх підготувати наші майбутні моделі гвинтівок."
  indisputable_ruler:0 "\"§YНезаперечний§! §YПравитель§!\""
- grand_coalition_collapse:0 "Велика коаліція §Rрозвалилася§!"
+ has_idea_grand_coalition: "Має національний дух §Y$SER_idea_grand_coalition$§!"
+ NOT_has_idea_grand_coalition: "Не має національний дух §Y$SER_idea_grand_coalition$§!"
  elections_1912: "Вибори 1912 року завершилися"
  elections_1914: "Вибори 1914 року завершилися"
  SER_army_debate:0 "Воєнізоване питання"
@@ -3748,7 +3750,7 @@
  SER_Corfu_declaration:0 "Декларація Корфу"
  SER_greek_ammo:0 "Грецька амуніція"
  SER_invite_Greece:0 "Запросити Грецію"
- SER_an_united_front:0 "Об'єднаний фронт"
+ SER_a_united_front:0 "Об'єднаний фронт"
  SER_attache_to_montenegro:0 "Аташе в Чорногорії"
  SER_attache_to_montenegro_desc:0 "Відважні чорногорці мають
  SER_army_promotions:0 "Армійські акції"
@@ -3759,7 +3761,7 @@
  SER_restore_the_fifth_sector:0 "Відновити сектор 5"
  SER_reach_out_bosnian_resistance:0 "Зверніться до боснійського опору"
  SER_fortify_the_rivers:0 "Зміцнити річки"
- SER_solun_process_tt:0 "Ми розпочнемо серію показових процесів проти Чорної Руки та інших змовників. Цей крок допоможе §Rbehead§! §bBlack Hand§! і позбудеться змовників загалом!"
+ SER_solun_process_tt:0 "Ми розпочнемо серію §Yпоказових процесів§! проти §YЧорної Руки§! та інших змовників.\nЦей крок допоможе §Rобезголовити§! §YЧорну Руку§! та позбудеться змовників загалом.\n"
  SER_not_cancer_warning: "Якщо після виконання цього фокусу §Yстабільність§! буде нижча від §Y60%§!, розпочнеться §Rгромаднська війна§!!" # (&)
 
  ITA_istituto_nazionale_delle_assicurazioni:0 "Nazionale Istituto delle Assicurazioni"
@@ -5969,6 +5971,7 @@
  debt_less_than_4425:0 "Значення фактора фабрик споживчих товарів на §YOtoman Public Debt Administration§! менше, ніж фактор фабрик споживчих товарів: §Y45,0%§!" #Наш борг менше §Y4,425 тисяч лір§!
  debt_more_than_0:0 "Значення фактора фабрик споживчих товарів на §YOtoman Public Debt Administration§! більше, ніж фактор фабрик споживчих товарів: §Y0,0%§!"
  TUR_OPDA_trigger_tooltip:0 "Не розпустив §Управління державного боргу Османської імперії§!."
+ TUR_OPDA_trigger_tooltip_NOT: "§YАдміністрацію османського державного боргу§! не розпущено"
  TUR_OPDA_trigger_tooltip_2:0 "Розпустив §YOtoman Public Borg Administration§!."
  TUR_OPDA_trigger_tooltip_dissolved:0 "Розпущено §Управління державним боргом Османської імперії§!."
  TUR_well_dissolve_opda:0 "Ми розпустимо §Управління державного боргу Османської імперії§!."
@@ -7239,17 +7242,35 @@
  FRA_law_of_exile_retired:0 "Скасувати закон про вигнання"
  FRA_law_of_exile_retired_desc:0 "§LЗакон про вигнання не дозволяє іноземним монархам повертатися до Франції. Це закон, який має на меті лише зруйнувати Францію та позбавити націю її колишньої слави. Це неможливо, і закон має бути повністю скасований.\ n\nЦе дозволить будинкам §YBonaparte§!, §YBourbon§! §YOrléans§ повернутися на територію Франції та брати участь у політиці.§!"
 
- FRA_ww1_naval_experience:0 "Військово-морський досвід"
+ FRA_ww1_naval_estimates:0 "Naval Estimates"
+ FRA_ww1_naval_estimates_desc:0 "The race for the Dreagnought demonstrated the weak French production capacities, particularly in the design of heavy ships. We must increase our budget to finance the modernization of our navy."
+
+ FRA_4_coubet_class_25_percent:0 "Design and add §Y4 Courbet Class Battleships§! on the §YProduction Line§!. Theses Ships are §Y25% completed§!."
+ FRA_ww1_launch_the_courbet_class:0 "Launch the Courbet Class"
+ FRA_ww1_launch_the_courbet_class_desc:0 "In order to compete with the large German and British battleships, we must launch the production of several warships equipped with guns of at least 300mm. The 305mm/45 Model 1910 guns are modern and will make up for our shortcomings in terms of firepower."
+
+ FRA_super_lyon_project:0 "Design and add a §YSuper-Battleship§! on the §YProduction Line§!. This ship is §Y25% completed§!."
+ FRA_ww1_super_lyon_class:0 "Project Super-Lyon"
+ FRA_ww1_super_lyon_class_desc:0 "The General Staff (EMG) of the French Navy has proposed the construction of a 40,000-ton battleship equipped with 12 heavy 450mm cannons. This project would make it possible to definitively catch up with the caliber of the French Navy, and even get a little ahead."
+
+ FRA_ww1_modernisation_of_the_battlefleet: "Осучаснення бойового флоту"
+ FRA_ww1_modernisation_of_the_battlefleet_desc:0 "Many navy ships are obsolete and need to be scrapped, but it is possible to renovate most of them by investing in a few shipyards."
+
+ FRA_ww1_naval_experience: "Спадщина jeune école"
  FRA_ww1_naval_experience_desc:0 "Військово-морська історія Франції є однією з найбагатших у світі та однією з найдосконаліших. Наші важкі кораблі перевершують за якістю більшість своїх супротивників, якщо ми переможемо могутній королівський флот. Ми повинні скористатися нашим минулого досвіду для розробки сучасних доктрин."
 
- FRA_ww1_doctrine_effort:0 "Доктринна робота"
- FRA_ww1_doctrine_effort_desc:0 "Ми повинні зосередити наші зусилля на підготовці нових бойових планів, які включають наші підводні човни та новітні моделі лінкорів."
+ FRA_ww1_doctrine_effort:0 "Anglo-French Naval Agreement"
+ FRA_ww1_doctrine_effort_desc:0 "As allies, the British and the French must cooperate in the defense of the English Channel and the Mediterranean. Mastery of the sea facing the Empire of Austria-Hungary, including the new threats posed by the “aero-submarine” struggle, are essential."
 
  FRA_ww1_prepare_dardanelles_front:0 "Підготуйте фронт Дарданелли"
  FRA_ww1_prepare_dardanelles_front_desc:0 "Дарданелли є стратегічною позицією, що з’єднує Середземне та Чорне моря. Взяття під контроль цього регіону дало б нам доступ до Босфору, а потім доступ до Криму. На жаль, цю позицію утримує [347.OWNER. GetAdjective]s Щоб форсувати прохід, ми повинні навчити війська, здатні висадка на території противника."
 
- FRA_ww1_submarines_experiments:0 "Експерименти з підводними човнами"
+ FRA_ww1_submarines_experiments: "Клас «Brumaire»"
  FRA_ww1_submarines_experiments_desc:0 "Підводні човни представляють майбутнє морського бою. Ці пристрої непомітні, недорогі та можуть долати великі відстані для нанесення стратегічних ударів. Досконалість наших поточних моделей і ключ до нашого панування на торгових шляхах."
+ FRA_16_brumaire_submarines:0 "Design and add §Y16 Brumaire Class Submarines§! on the §YProduction Line§!. 4 are §Y25% completed§!."
+
+ FRA_ww1_conseil_de_guerre_naval: "Conseil de guerre naval"
+ FRA_ww1_conseil_de_guerre_naval_desc:0 "The naval war council is a naval war headquarters intended for the protection of the French coasts and the command of operations in the Mediterranean Sea, although it was set up from the start of the war, we must assign it specific missions."
 
  FRA_ww1_heavy_submarine_project:0 "Проект важких підводних човнів"
  FRA_ww1_heavy_submarine_project_desc:0 "У нас є ресурси, щоб експериментувати з новим типом змішаної машини. Це буде великий підводний човен, на якому будуть розміщені 203-мм гармати."
@@ -7862,6 +7883,17 @@
  FRA_disband_large_part_of_army_socialist:0 "§RРозформувати великі частини французької армії§!, але замінити ці втрати на §Y48 партизанських бригад§!.\n"
  FRA_form_the_popular_army:0 "Сформуйте народну армію"
  FRA_form_the_popular_army_desc:0 "Армійська фракційність є глибокою проблемою. Найпростішим рішенням є розформувати армію в її нинішньому вигляді та замінити її ополченням, лояльним до партії. Цей метод призову дозволить легко зібрати великі сили самооборони ."
+
+ FRA_second_modernization_phase: "Друга фаза осучаснення"
+ FRA_second_modernization_phase_desc:0 "Although the Great War was over, the naval staff remained aware of France's delay in designing capital ships. Although the navy's budget is now very low, there are still some means to replace the oldest battleships."
+
+ FRA_lay_down_normandie_class:0 "Lay Down the Normandie Class"
+ FRA_lay_down_normandie_class_desc:0 "The Normandy class was canceled because of the Great War. With hostilities over, we can resume construction of these ambitious battleships."
+ FRA_4_normandie_class_50_percent:0 "Design and add §Y4 Normandie Class Battleships§! on the §YProduction Line§!. Theses Ships are §Y50% completed§!."
+
+ FRA_1_bearn_class_75_percent:0 "Design and add §Y1 Bearn Class Carrier§! on the §YProduction Line§!. This Ship is §Y75% completed§!."
+ FRA_bearn_conversion:0 "Bean Conversion"
+ FRA_bearn_conversion_desc:0 "Dreadnought-type battleships are obsolete and are destined to disappear. Rather than struggling to build new ones, we could convert a battleship hull into an aircraft carrier, which is much more promising."
 
 
  FRA_init_in_deep_reforms:0 "Ініціювати глибокі реформи"
@@ -9391,6 +9423,16 @@
  BEL_universal_male_suffrage:0 "Загальне виборче право для чоловіків"
  BEL_universal_male_suffrage_desc:0 "Множинне виборче право було запроваджено в 1894 році і дозволяє певним громадянам голосувати кілька разів залежно від їхнього багатства та професійного становища. Після поразки католицької партії стало можливим розпочати велику соціальну реформу, спрямовану на заміну множинного виборчого права загальним виборче право."
 
+ BEL_dame_blanche_network: "Мережа опору «Dame blanche»"
+ BEL_dame_blanche_network_desc:0 "The resistance in Belgium is organized around Walthère Dewé who was able to bring together several hundred sleeper agents in the country. We need to use the information he offers to build a spy network."
+
+ BEL_la_libre_belgique: "La libre Belgique"
+ BEL_la_libre_belgique_desc:0 "Numerous resistance movements arose throughout the country, whether by ignoring German orders or participating in the creation of underground newspapers. The newspaper \"La Libre Belgique\" is the best known, followed by others which fuel the patriotic flame in the country."
+ BEL_add_in_state_controlled_by_germany:0 "Add the following §YState Modifier§! in all §Y[BEL.getFlag]Belgian§! states controlled by either §R[GER.getFlag]Germany§! or §R[FRA.getFlag]France§!:\n\n"
+
+ BEL_spiritual_nationalism: "Духовний націоналізм"
+ BEL_spiritual_nationalism_desc:0 "The support of priests is total in this war, the churches hide equipment, fugitives and transmit patriotic messages to citizens. They also maintain the unity of the Belgian people around common values, actively fighting Flemish separatism."
+
  BEL_renforce_article_68:0 "Забезпечити виконання статті 68"
  BEL_renforce_article_68_desc:0 "Взявши контроль над збройними силами, король Альберт негайно зайняв центральну посаду в командуванні, використовуючи статтю 68 конституції, щоб одноосібно керувати армійськими рішеннями. "Король командує військами на суші та на морі, оголошує війну, укладає договори про мир, союз і торгівлю""
 
@@ -10654,6 +10696,9 @@
  TUN_french_military_supplies:0 "Французьке військове постачання"
  TUN_french_military_supplies_desc:0 "Постачання гарнізонів Тунісу вимагає постійних зусиль, які можуть бути забезпечені лише створенням виробничого ланцюга на материковій частині Франції, продукція якого потім транспортуватиметься до Африки."
 
+ FRA_french_military_supplies:0 "Французьке військове постачання"
+ FRA_french_military_supplies_desc:0 "Постачання гарнізонів Марокко вимагає постійних зусиль, які можуть бути забезпечені лише створенням виробничого ланцюга на материковій частині Франції, продукція якого потім транспортуватиметься до Африки."
+
  TUN_contact_the_left_cartel:0 "Зв'яжіться з лівим картелем"
  TUN_contact_the_left_cartel_desc:0 "Радикальні соціалістичні ліві сили підтримують ідею деколонізації Північної Африки. Такий проект відповідає очікуванням туніських демократів, які бажають взяти під контроль свою власну долю. Туніська справа повинна дійти до вух парламентарів SFIO, так чи інакше інший."
 
@@ -11215,3 +11260,111 @@
  inner_politics_tree_shortcut:0 "Внутрішня політика"
  colonial_tree_shortcut:0 "Колонії"
  wartime_tree_shortcut:0 "Велика війна"
+
+ MOR_french_loan:0 "French Loan"
+ MOR_french_loan_desc:0 "It is impossible to establish a stable budget without additional funds. France has shown itself open to authorizing us a loan of several hundred million francs to revive our economy. Due to the proximity of our governments, we should not receive refusals."
+
+ MOR_second_tertib_reform:0 "Second Tertib Reform"
+ MOR_second_tertib_reform_desc:0 "Sultan Moulay Aziz attempted to reform the tax system by proposing a more egalitarian tax, but also heavier than the previous one. We will only be able to relaunch such a bold reform if we have reestablished our authority in the country."
+ 
+ MOR_invest_in_meknes:0 "Invest in Meknès"
+ MOR_invest_in_meknes_desc:0 "In order to relieve congestion in Casablanca, we can finance the construction of new urban centers around the city, thereby stimulating the growth of the entire region."
+
+ MOR_casablanca_port_expansion:0 "Casablanca Port Expansion"
+ MOR_casablanca_port_expansion_desc:0 "Access to the ports of Agadir and Tangier is disrupted by attacks on convoys and the poor cooperation of local Caïds, forcing us to concentrate our economic activity in the center of the country. This opportunity allows us to consolidate the quality of Casablanca as a commercial port."
+
+ MOR_excavation_concession_question:0 "Excavation Concession Question"
+ MOR_excavation_concession_question_desc:0 "Moroccan soil is rich in resources, all we have to do is locate and exploit them. French and German companies have offered to prospect, all we have to do is define our approach."
+ MOR_french_excavation_mission:0 "§Y[FRA.getFlag]French§! excavation mission"
+ MOR_german_excavation_mission:0 "§Y[GER.getFlag]German§! excavation mission"
+
+ MOR_sponsor_mining_unions:0 "Sponsor Mining Unions"
+ MOR_sponsor_mining_unions_desc:0 "This union is an international group which includes French, English, Belgian and German metallurgical firms, established to serve as a counterweight to the pretensions of the Mannesmann brothers' companies. This group operates in the Sub but with much more modest means, we must encourage their implementation."
+
+ MOR_support_mannesmann_implementation:0 "Support Mannesmann Implementation"
+ MOR_support_mannesmann_implementation_desc:0 "This German industrial company is the best established in the Sous, and therefore the most able to industrialize and invest in the region."
+
+ MOR_sousse_mines:0 "Sousse Mines"
+ MOR_sousse_mines_desc:0 "The south of Morocco is overflowing with Phosphates, it may even be the largest source in the world. The establishment of foreign companies in the region could be profitable for us and would generate the country's first heavy industry."
+
+ MOR_model_factories:0 "Model Factories"
+ MOR_model_factories_desc:0 "The acquisition of import equipment and the trust placed in us by the partners based in Casablanca allows us to invest in model factories inspired by European models. This is a boon to launch our heavy industry."
+
+ MOR_import_steel_work_machines:0 "Import Steel Work Machines"
+ MOR_import_steel_work_machines_desc:0 "We cannot produce resources without modern equipment. We can import European equipment to launch serious production and start exporting to the world market."
+
+ MOR_german_equipment_contract:0 "German Equipment Contract"
+ MOR_german_equipment_contract_desc:0 "We do not have any local production of firearms, at most old musket armories. We have to buy our weapons from abroad, and Germany is interested in equipping us, certainly in order to gain influence in the country."
+
+ MOR_french_equipment_contract:0 "French Equipment Contract"
+ MOR_french_equipment_contract_desc:0 "France is very influential in the Moroccan economy and will certainly be able to sign an arms contract, this will strengthen their influence and allow us to rebuild our army."
+
+ MOR_centralization_reform:0 "Centralization Reform"
+ MOR_centralization_reform_desc:0 "The Sultan plans to launch a major tax reform with the appointment of El Madani Galoui to control of rural administration. The Galoui clan and the Mokri clan are loyal supporters of the regime, more than the Caïds in office were."
+ MOR_might_upset_caids:0 "§RThis might upset autonomous Caïds§!"
+
+ MOR_cooperate_with_french:0 "Cooperate with France"
+ MOR_cooperate_with_french_desc:0 "We were unable to reform the country, and we were forced to submit to the French. Although we are still an autonomous entity on paper, it will not be long before we are integrated into the French empire."
+
+ MOR_appoint_loyal_caids:0 "Appoint Loyal Caïds"
+ MOR_appoint_loyal_caids_desc:0 "Several Caïds from southern Morocco and the countryside are not loyal to the Sultan and do not pay taxes. Worse: they tax and pillage merchant caravans, making the development of the country impossible. We must replace these infidel elements to place allies close to the Makhzen."
+
+ MOR_nzala_regulation:0 "Nzala Regulation"
+ MOR_nzala_regulation_desc:0 "In the Souss Extrême, in the south of Morocco, trade routes are subject to illegal taxes called "Nzala" demanded by renegade Caïds. We must regulate this passage tax to make it fairer and more acceptable to caravans, while ensuring that the state takes a share."
+
+ MOR_pacify_countryside:0 "Pacify Countryside"
+ MOR_pacify_countryside_desc:0 "The only way to modernize Morocco and avoid complete colonial supervision is to unify it by force. When we are ready, we will be able to launch a vast military operation in the south and east of the country in order to subdue the tribute chiefs and restore order throughout the sultanate."
+ MOR_prepare_for_pacify_countryside:0 "§RHostiles Caïds will likely rebel together, we should be prepared for an open war.§!"
+
+ FRA_ww1_treaty_of_fes:0 "Treaty of Fès"
+ FRA_ww1_treaty_of_fes_desc:0 "The diplomat Eugène Regnault's mission is to convince [MOR.getLeader] to sign the protectorate of Morocco. Currently considered a protected state, and not a subject, France does not yet have full control over the country. The signing of an official document will make it possible to subject the entire country to French authority."
+ tt_will_be_auto_completed:0 "§LThis focus will be auto-completed when needed.§!"
+
+ MOR_strenghten_makhzen_control:0 "Strenghten Makhzen Control"
+ MOR_strenghten_makhzen_control_desc:0 "In order to guarantee the authority of the Sultan's court, the state must reshuffle it by replacing the less useful and loyal viziers and members with others, more competent and servile. This step is of great importance and a prelude to any state reform."
+
+ MOR_past_the_asif_oulghas:0 "Past the Asif Oulghas"
+ MOR_past_the_asif_oulghas_desc:0 "We will not be able to convince the Caïds to swear true loyalty to us, so we will subdue them by force by preparing a major offensive, which we will keep secret in collaboration with our loyal Caïds."
+
+ MOR_call_izayan_troops:0 "Call Izayan Troops"
+ MOR_call_izayan_troops_desc:0 "Based the Atlas Mountains, the Izayan tribe is made up of powerful elite warriors who could be useful to us in reconquering contested areas... If we manage to convince them to help us."
+ MOR_authorized_nzala:0 "Authorized Nzala"
+ LBA_intensified_guerrila:0 "Intensified Guerrila"
+
+ MOR_new_army_reform:0 "New Army Reform"
+ MOR_new_army_reform_desc:0 "An in-depth reform is necessary to build a real professional army in Morocco, and thus obtain control of the entire territory, even in the anti-Atlas. To do this, we must implement a new tax, but also ask for help from foreign advisors capable of training our officers."
+ army_reform_tt:0 "§REven if this reform risks not being appreciated by the conservative caïds of the south, it is imperative to any modernization of the state.§!"
+ if_the_reform_pass:0 "§YEffect if the reform pass:§!\n\n"
+ MOR_army_reform_canceled:0 "Army reform canceled"
+ MOR_spawn_4_moutaineers_in_middle_atlas:0 "Deploy §Y1 Division§! composed with §Y4 Moutaineers Regiments§! in §YMiddle-Atlas§!"
+ MOR_spawn_3_regiments_in_meknes:0 "Deploy §Y3 Division§! composed with §Y3 Infantry Regiments§! in §YCasablanca and Meknès§!"
+
+ MOR_casablanca_levees:0 "Casablanca Levées"
+ MOR_casablanca_levees_desc:0 "Many pashas, viziers and Caïds were established on the coast, between Agadir and Casablanca. This rich region and a significant pool of soldiers that we can mobilize from their lords to pacify the south of the country."
+
+ MOR_high_sous_arbitrage:0 "High-Sous Arbitrage"
+ MOR_high_sous_arbitrage_desc:0 "The pasha of Marrakech, Thami Aglaou, is in open war against his Caïds Haïda and Mouaïs. We must mediate this internal conflict to ensure the stability of the region."
+ MOR_taieb_el_goundafi_pasha:0 "Is named §YPasha§!"
+ MOR_thami_aglaou_pasha:0 "His authority has been reaffirmed in Marrakech"
+
+ MOR_french_support:0 "French Support"
+ MOR_french_support_desc:0 "France is a privileged partner which has already participated in the army reform of 1911. We can trust them to continue our partnership and train our soldiers in Western combat methods."
+
+ MOR_german_advisors:0 "German Advisors"
+ MOR_german_advisors_desc:0 "In order to diversify our strategies and ensure the sustainability of our independence, we can request the help of German advisors to train our soldiers and review our strategies."
+
+ MOR_concilliation_with_hostiles_caids:0 "Concilliation with Hostiles Caïds"
+ MOR_concilliation_with_hostiles_caids_desc:0 "To stand up to the imperialist and colonial forces of Europe, we must stand united and avoid killing each other over trivial reforms. [MOR.getLeader] understands this, and its objective is now to bring Moroccans together around a common cause."
+ MOR_neutral_stance_tt:0 "§LThis path will make us neutral for years, we wont be able to be part of any conflict.§!"
+
+ MOR_meet_sidi_mohamed_tazeroualt:0 "Meet Sidi Mohamed of Tazeroualt"
+ MOR_meet_sidi_mohamed_tazeroualt_desc:0 "Like many other Caïds of Souss Extrême, Sidi Mohamed du Tazeroualt refused to pay the new tax for the army, accusing the sultan of being in cahoots with the Europeans. [MOR.getLeader] must go to the meeting in person in the south of the country, in order to seal a reconciliation agreement throughout the country."
+
+ MOR_isolationist_stance:0 "Isolationist Stance"
+ MOR_isolationist_stance_desc:0 "We cannot invest in business outside Morocco. The country must rebuild and stabilize to regain its former glory. If we do not respect this objective imposed by the bosses of the south, no reconciliation will be possible."
+
+ MOR_autonomy_to_far_east_sous:0 "Autonomy to Far-East Sous"
+ MOR_autonomy_to_far_east_sous_desc:0 "The south of the country, dominated by the Atlas Mountains, is difficult to access, which left local tributes in almost total autonomy for several centuries. We could legitimize our power by recognizing their autonomy to a certain degree."
+
+ MOR_makhzen_third_reformation:0 "Makhzen Third Reformation"
+ MOR_makhzen_third_reformation_desc:0 "The courageous reforms of [MOR.getLeader] have helped stabilize Morocco, both financially and politically. Several Caïds who were hostile to the central authority can now cooperate with the government and join the Makhzen."

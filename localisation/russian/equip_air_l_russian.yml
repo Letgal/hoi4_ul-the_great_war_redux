@@ -17,7 +17,7 @@
  strat_bomber: "Важкий бомбардувальник"
  #strat_bomber_equipment_desc:0 "Heavy Bombers attack enemy buildings and infrastructure, starving them of precious industry."
  transport_plane: "Транспортний літак"
- #transport_plane_equipment_desc:0 "Delivers paratroopers to their destination."
+ transport_plane_equipment_desc:0 "Transports passengers and air cargo." # (!)
  fighter_equipment: "Винищувач"
  cv_fighter_equipment: "Палубний винищувач"
  cv_fighter_equipment_short: "Палуб. винищувач"
@@ -74,7 +74,7 @@
  tac_bomber_equipment_3_short: "Легкий бомбард-ник III"
  #tac_bomber_equipment_3_desc:0 "Heavier designs of tactical bombers can extend range, payload and speed while maintaining the planes' capacity to perform a wide variety of missions."
  transport_plane_equipment: "Транспортний літак"
- transport_plane_equipment_1: "Транспортний літак I"
+ transport_plane_equipment_1: "Транспортний літак"
  transport_plane_equipment_1_short: "Транспортник"
  #transport_plane_equipment_1_desc:0 "§LPlanes used to transport troops on paradrop missions.§!"
  nav_bomber_equipment: "Морський бомбардувальник"
@@ -122,8 +122,6 @@
  nav_bomber_equipment_desc:0 "Морські бомбардувальники призначені для нальотів на ворожі кораблі."
  tac_bomber_equipment_desc:0 "Тактичні бомбардувальники невеликі та швидкі; вони здатні допомагати наземним силам і знищувати ворожі споруди."
  strat_bomber_equipment_desc:0 "Стратегічні бомбардувальники атакують ворожі споруди та інфраструктуру, позбавляючи їх дорогоцінної промисловості."
- transport_plane_equipment_desc:0 "Доставляє десантників до місця призначення".
- strat_bomber_equipment:0 "Стратегічний бомбардувальник"
  scout_plane_equipment_desc:0 "Літак, розроблений спеціально для фоторозвідки. Покладається насамперед на швидкість і невидимість, щоб вижити, і програє в будь-якій боротьбі".
 
  fighter_equipment_0_desc:0 "У той час як винищувальна авіація зазнала багато змін під час Великої війни, і відтоді конструкція біплана стає застарілою. Ми повинні почати переводити цивільні технологічні досягнення у військове застосування."

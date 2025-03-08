@@ -1,6 +1,6 @@
 name = "The Great War Redux: Українська локалізація (GitHub)"
 picture = "thumbnail.png"
-version = "0.13.20"
+version = "0.13.21"
 tags = {
 	"Translation"
 	"1.15"

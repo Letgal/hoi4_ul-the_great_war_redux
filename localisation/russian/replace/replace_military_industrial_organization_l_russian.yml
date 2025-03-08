@@ -1,3 +1,7 @@
 ﻿l_russian:
  INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TANK: "Бронетехніка"
  INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_PLANE: "Літальні апарати"
+ mio_cat_eq_only_tactical_bomber: "Легкий бомбардувальник"
+ mio_cat_eq_only_strategic_bomber: "Важкий бомбардувальник"
+ generic_cas_aircraft_organization: "Конструктор штурмової авіації" # ідентично до ванілли
+ generic_mio_initial_trait_cas_aircraft_designer: "Дизайнер штурмової авіації" # ідентично до ванілли
