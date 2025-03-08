@@ -18,3 +18,5 @@
  KYTHIRA_STRAIT_FAKE: "$KYTHIRA_STRAIT$"
  NEVA_ESTUARY:0 "Neva Estuary"
  DOVER_STRAIT:0 "Strait of Dover"
+ NORTH_SEA_CANAL:0 "North Sea Canal"
+ VLIE_SEAWAY:0 "Vliestroom"
