@@ -1,14 +1,9 @@
 ﻿l_russian:
 ### ПОСИЛЕННЯ ТА ПОСЛАБЛЕННЯ ###
- custom_diff_strong_ger: "@GER Посилити Німеччину"
  custom_diff_strong_aus: "@AUS Посилити Австрію"
  custom_diff_strong_hun: "@HUN Посилити Угорщину"
  custom_diff_strong_bos: "@BOS Посилити Боснію та Герцеґовину"
- custom_diff_strong_ita: "@ITA Посилити Італію"
- custom_diff_strong_fra: "@FRA Посилити Францію"
- custom_diff_strong_eng: "@ENG Посилити Британію"
  custom_diff_strong_rus: "@RUS Посилити Росію"
- custom_diff_strong_usa: "@USA Посилити США"
  custom_diff_strong_tur: "@TUR Посилити Османів"
  custom_diff_strong_ser: "@SER Посилити Сербію"
  custom_diff_strong_bul: "@BUL Посилити Болгарію"
@@ -18,9 +13,7 @@
  custom_diff_strong_swe: "@SWE Посилити Швецію"
  custom_diff_strong_can: "@CAN Посилити Канаду"
  custom_diff_strong_ast: "@AST Посилити Австралію"
- custom_diff_strong_jap: "@JAP Посилити Японію"
  custom_diff_strong_qin: "@QIN Посилити Цін"
- custom_diff_strong_chi: "@CHI Посилити Китай"
  custom_diff_strong_kor: "@KOR Посилити Корею"
  custom_diff_strong_bra: "@BRA Посилити Бразилію"
  custom_diff_strong_lib: "@LIB Посилити Ліберію"
@@ -283,6 +276,25 @@
  #China
  CHI_WW1_AI_BEHAVIOR:0 "@CHI Китайська Республіка"
  RULE_OPTION_DEMOCRATIC_CHI_AI_DESC:0 "Китайський ІІ спробує привести Тунменхой до влади і протистояти пекінській кліці, вибравши відповідний шлях у національному дереві фокусів."
+
+ # Індокитай
+  IND_AI_BEHAVIOR: "@IND Індокитайський союз"
+  RULE_OPTION_HISTORICAL_IND_AI: "@IND Історичний шлях"
+  RULE_OPTION_HISTORICAL_IND_AI_DESC:0 "The Indochinese AI will appoint Vollenhoven and stay loyal to France by going down the relevant path in the national focus tree." # (!)
+  RULE_OPTION_IND_COOPERATIVE_EMPIRE: "@VIN Імперія у співробітництві"
+  RULE_OPTION_IND_COOPERATIVE_EMPIRE_IND_AI_DESC:0 "The Indochinese AI will allow Nguyen Phuc Buu Dao to reign as emperor-governor, he will stay loyal to France by going down the relevant path in the national focus tree." # (!)
+  RULE_OPTION_IND_VIETNAMESE_REVOLUTION: "@VIN В'єтнамська революція"
+  RULE_OPTION_IND_VIETNAMESE_REVOLUTION_AI_DESC:0 "The Indochinese AI will allow Phan Bôi Châu to form a succesful revolt by going down the relevant path in the national focus tree." # (!)
+
+ # Марокко
+  MOR_AI_BEHAVIOR: "@MOR Марокко"
+  RULE_OPTION_HISTORICAL_MOR_AI: "@MOR Історичний шлях"
+  RULE_OPTION_HISTORICAL_MOR_AI_DESC:0 "Morocco will fail its modernization reforms, leading to a rebellion of its subjects, then a French intervention by going down the relevant path in the national focus tree." # (!)
+  RULE_OPTION_MOR_SUCCESSFUL_ARMY_REFORM: "@MOR Успішні реформи (агресивно)"
+  RULE_OPTION_MOR_SUCCESSFUL_ARMY_REFORM_AI_DESC:0 "Morocco will succeed in its modernization reforms, thus avoiding the Agadir crisis and French supervision. To do this, Morocco will start a military operation by going down the relevant path in the national focus tree." # (!)
+  RULE_OPTION_MOR_SUCCESSFUL_ARMY_REFORM_PASSIVE: "@MOR Успішні реформи (пасивно)"
+  RULE_OPTION_MOR_SUCCESSFUL_ARMY_REFORM_PASSIVE_AI_DESC:0 "Morocco will succeed in its modernization reforms, thus avoiding the Agadir crisis and French supervision. To do this, Morocco will reconcile with the rebel Caids and become neutral by going down the relevant path in the national focus tree." # (!)
+
  ### Faction Rules ###
  RULE_KICK_FROM_FACTION_ALLOWED_TOOLTIP:0 "Правило гри:0 §YЛідер фракції може виключити будь-яку країну з фракції після Великої війни.§!"
  RULE_ASSUME_LEADERSHIP_ALLOWED_TOOLTIP:0 "Правило гри:0 §YКраїни можуть взяти на себе керівництво фракціями, якщо вони відповідають критеріям після Великої війни.§!"

@@ -1,6 +1,6 @@
 ﻿l_english:
- agree_effect_tooltip:0 "\n§YЯкщо інша країна погоджується, діє нижче:§!\n"
- disagree_effect_tooltip:0 "\n§YЯкщо інша країна не погоджується, діє нижче:§!\n"
+ agree_effect_tooltip:0 "Якщо інша країна §Gпогоджується§!:§!\n"
+ disagree_effect_tooltip:0 "Якщо інша країна §Rне погоджується§!:§!\n"
  empty_focus:0 "Дерево фокусів недоступне"
 
  open_the_political_sphere:0 "Відкрити політичну сферу [ROOT.getAdjective]"
@@ -69,7 +69,7 @@
  german_smallarms:0 "Німецька стрілецька зброя"
  german_smallarms_desc:0 "Стрілецька зброя Німеччини є однією з найкращих у світі. Ми повинні якомога швидше укласти угоду з їхнім урядом і компаніями про її придбання."
  german_industrial_aid:0 "Німецька промислова допомога"
- german_industrial_aid_desc:0 "З галузями промисловості вздовж Рейну та в Сілезії, наші галузі повинні зробити примітку на своїй сторінці та працювати над наслідуванням цього. Працюючи з цими компаніями, ми можемо."
+ german_industrial_aid_desc:0 "З галузями промисловості вздовж Рейну та в Сілезії, нашим індустріям слід зробити замітку від них і працювати над наслідуванням цього. Працюючи з цими компаніями, ми можемо."
  german_military_mission:0 "Німецька військова місія"
  german_military_mission_desc:0 "Запрошення німецьких військових радників дасть нам цінну інформацію та досвід. Ця співпраця зміцнить наш військовий потенціал і підвищить нашу оборонну готовність."
  austrian_military_aid:0 "Військова допомога Австрії"
@@ -1655,12 +1655,11 @@
  GER_place_under_the_sun:0 "Наше місце під сонцем"
  GER_place_under_the_sun_desc:0 "Настав час розширити нашу колоніальну імперію. Німеччина займе своє законне місце під Сонцем і знищить усіх, хто стане на її шляху."
  GER_befriend_holland:0 "Подружитися з Голландією"
+ GER_befriend_holland_desc:0 "Голландці не обов’язково повинні бути нашими ворогами. Вони можуть бути цінним членом нашого Альянсу та відігравати вирішальну роль у виконанні плану Шліффена."
  GER_threaten_holland:0 "Погрожувати Голландії"
  GER_threaten_holland_desc:0 "Голландці підкоряться нашій волі, або вони будуть усунені."
- GER_befriend_holland_desc:0 "Голландці не обов’язково повинні бути нашими ворогами. Вони можуть бути цінним членом нашого Альянсу та відігравати вирішальну роль у виконанні плану Шліффена."
  GER_war_with_france_ww1:0 "Війна з Францією"
  GER_war_with_france_ww1_desc:0 "Французи утримують колоніальну гегемонію в Африці та стоять на шляху величі Німеччини. З ними потрібно мати справу."
- GER_coalition_split_desc:0 ""
  GER_military_mission_in_turkey:0 "Військова місія в Туреччині"
  GER_military_mission_in_turkey_desc:0 "Надіславши військових лідерів до Туреччини, ми можемо маніпулювати турецькими військовими, а також, певною мірою, урядом, щоб стати на нашу сторону."
  GER_befriend_bulgaria:0 "Подружитися з Болгарією"
@@ -1737,7 +1736,7 @@
  GER_sphere_of_influence:0 "Сфера впливу"
  GER_sphere_of_influence_desc:0 "Дозволяє нам звільнити Східні Штати як протекторати."
  GER_scandinavian_focus:0 "Скандинавський фокус"
- GER_scandinavian_focus_desc:0 " "
+ GER_scandinavian_focus_desc:0 "Ми звернемося до Скандинавії, щоби ще більше зміцнити наш вплив у регіоні."
  GER_OHL_authority:0 "Орган OHL"
  GER_benelux_focus:0 "Бенілюкс Фокус"
  GER_oberster_kriegsherr:0 "Oberster Kriegsherr"
@@ -1747,8 +1746,8 @@
  GER_german_austrian_joint_staff:0 "Німецько-австрійський спільний штаб"
  GER_german_austrian_joint_staff_desc:0 "Австрійські війська перебувають у жалюгідному стані. Ми надішлемо їм генералів, щоб покращити їхні сили, і водночас ми зможемо маніпулювати їхніми операціями."
  GER_western_expansion:0 "Західна експансія"
- GER_benelux_focus_desc:0 "Претензії до Бельгії."
- GER_western_expansion_desc:0 "Претензії на Францію."
+ GER_benelux_focus_desc:0 "Ми наполяжемо на своїх вимогах до Бельгії."
+ GER_western_expansion_desc:0 "Ми висунемо претензії до Франції."
  GER_pressure_on_dennmark:0 "Тиск на Данію"
  GER_focus_on_true_enemy:0 "Зосередитися на справжньому ворогу"
  GER_focus_on_true_enemy_tt:0 "Активація плану §YSchlieffen§! дасть бонус до §Gattack§! проти Франції.\n\n"
@@ -1756,7 +1755,7 @@
  GER_invansion_in_finland_desc:0 "Захистіть Фінляндію! Не дайте більшовикам захопити її."
  GER_pressure_on_scandinavia:0 "Тиск на Скандинавію"
  GER_eastern_expansion:0 "Східна експансія"
- GER_eastern_expansion_desc:0 "Претензії на Польщу."
+ GER_eastern_expansion_desc:0 "Ми закріпимо наші бажані претензії до Польщі."
  GER_puppet_kingdoms:0 "Маріонеткові монархії"
  GER_puppet_kingdoms_desc:0 "Маріонеткові монархії можуть бути встановлені в Польщі та в Балтійському регіоні, і ними правитиме німецький монарх."
  GER_partition_of_persia:0 "Поділ Персії"
@@ -1856,6 +1855,7 @@
  GER_rote_garde:0 "Rote Garde"
  GER_rote_front:0 "Rote Front!"
  GER_establish_finnish_monarchy:0 "Встановити фінську монархію"
+ GER_establish_finnish_monarchy_desc:0 "Нам потрібно створити фінську монархію як буферну державу, щоб ефективніше зберігати контроль і вплив у Скандинавії."
  GER_expand_staff_desc:0 "Військові доктрини."
  GER_colonial_legion:0 "Колоніальний легіон"
  GER_colonial_legion_tt:0 "Колонії отримають ідею §YColonial Legion§! яка щотижня надає робочу силу.\n\n"
@@ -1962,7 +1962,7 @@
  GER_strategic_bombing_campaign:0 "Кампанія стратегічних бомбардувань"
  GER_superiority_of_aces:0 "Перевага тузів"
  GER_aviation_cult:0 "Культ авіації"
- GER_aviation_cult_desc:0 ""
+ GER_aviation_cult_desc:0 "Німецьке суспільство зачароване можливістю пілотувати небо; ми скористаємося цим і розширимо наші повітряні можливості, поки це досі популярно."
  GER_army_inovations:0 "Армійські інновації"
  GER_army_inovations_desc:0 "Німецька армія вже є найкращою у світі, але у нас завжди є куди вдосконалюватися. Включивши в наші ряди передові сталеві військові машини, ми можемо ще більше посилити наше військове домінування."
  GER_focus_on_light_aviation:0 "Зосередження на легкій авіації"
@@ -1984,10 +1984,10 @@
  GER_recognize_hungarian_sovereignty_desc:0 "Угорці зламали Ausgleich і отримали свободу. Ось що ми можемо святкувати!"
  GER_focus_on_artillery:0 "Зосередитися на артилерії"
  GER_focus_on_artillery_desc:0 "Артилерія величезна, грізна та повільна, але може розсіяти ворогів із великою силою. У сучасній війні замість лише груп піхотинців переможе армія, підтримана артилерією."
- GER_claim_madagaskar:0 "Вимагати Мадагаскар"
- GER_claim_madagaskar_desc:0 ""
- GER_claim_mozambique:0 "Вимагати Мозамбік"
- GER_claim_mozambique_desc:0 ""
+ GER_claim_madagaskar:0 "Претензія на Мадаґаскар"
+ GER_claim_madagaskar_desc:0 "Мадаґаскар по праву має бути частиною німецької сфери впливу, тому ми обґрунтуємо свої претензії на нього."
+ GER_claim_mozambique:0 "Претензія на Мозамбік"
+ GER_claim_mozambique_desc:0 "Щоб у майбутньому Міттельафрика повністю перебувала під нашим впливом, ми мусимо обґрунтувати наші претензії на Мозамбік."
 
  GER_Vaterlandische_industrialisierung:0 "Vaterlandische Industrialisierung"
  GER_Vaterlandische_industrialisierung_desc:0 "Німеччина відома як індустріальна могутність Європи, і щоб зберегти цю позицію, нам потрібно продовжувати розширювати промисловість нашої країни."
@@ -2093,13 +2093,13 @@
  GRE_expand_metallurgic_industries_desc:0 "Завдяки нашій співпраці з іноземними гірничодобувними компаніями ми успішно набули досвіду, щоб продовжити розширення нашої металургійної промисловості. Незабаром Еллада зможе використовувати всю потужність своїх невикористаних природних ресурсів."
  GRE_focus_on_agrarianism:0 "Фокус на аграрності"
  GRE_focus_on_agrarianism_desc:0 "Оскільки економіка все ще відновлюється, нам потрібно буде обережно підійти до економічного розширення. Багато хто пропонував нам зосередитися на аграрності, основі нашої економіки, замість того, щоб брати подальші позики для поспішної індустріалізації та знову впадати в борги. "
- GRE_focus_on_agrarianism_tt:0 "Замініть §Y$GRE_agrarian_society_dynamic_modifier$§! на §Y$GRE_farmer_focused_culture_dynamic_modifier$§! \nЕфективна зміна:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3%§! \n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+5%§! \n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+5%§! \n$modifier_production_speed_factory_factor$: §G+5%§!\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§! \n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2%§!\n\n"
+ GRE_focus_on_agrarianism_tt:0 "§Y$GRE_agrarian_society_dynamic_modifier$§! буде замінено на §Y$GRE_farmer_focused_culture_dynamic_modifier$§!\nЕфект від змін:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3.00%§! \n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+5.00%§! \n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+5.00%§! \n$modifier_production_speed_factory_factor$: §G+5.00%§!\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§! \n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.0%§!\n\n"
  GRE_balanced_approach:0 "Збалансований підхід"
  GRE_balanced_approach_desc:0 "Можна знайти золоту середину між аграрністю та важкою індустріалізацією. Хоча переваги можуть бути меншими для обох сторін, помірковане зосередження на обох аспектах нашої економіки, швидше за все, виявиться здоровішим у довгостроковій перспективі."
- GRE_balanced_approach_tt:0 "Замініть §Y$GRE_agrarian_society_dynamic_modifier$§! на §Y$GRE_balanced_approach_dynamic_modifier$§! \nЕфективна зміна:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3%§! \n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+5%§! \n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+5%§! \n$modifier_production_speed_factory_factor$: §G+10%§!\n$modifier_production_speed_industrial_complex_factor$: §G+10%§! \n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+2%§!\n\n"
+ GRE_balanced_approach_tt:0 "§Y$GRE_agrarian_society_dynamic_modifier$§! буде замінено на §Y$GRE_balanced_approach_dynamic_modifier$§!\nЕфект від змін:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3.00%§! \n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+5.00%§! \n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+5.00%§! \n$modifier_production_speed_factory_factor$: §G+10.00%§!\n$modifier_production_speed_industrial_complex_factor$: §G+10.00%§! \n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+2%§!\n\n"
  GRE_focus_on_heavy_industrialization:0 "Зосередження на важкій індустріалізації"
  GRE_focus_on_heavy_industrialization_desc:0 "Важка промисловість є основною опорою економічної могутності Великих держав. Ми не можемо дозволити, щоб ми обмежилися лише аграрністю. Цього разу, однак, ми будемо дуже обережні, щоб накопичити занадто багато боргів під час цього процесу індустріалізації."
- GRE_focus_on_heavy_industrialization_tt:0 "Замініть §Y$GRE_agrarian_society_dynamic_modifier$§! на §Y$GRE_industrializing_society_dynamic_modifier$§! \nЕфективна зміна:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§! \n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+10%§! \n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+10%§! \n$modifier_production_speed_arms_factory_factor$: §G+20%§!\n$MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR$: §G+15%§!\n\n"
+ GRE_focus_on_heavy_industrialization_tt:0 "§Y$GRE_agrarian_society_dynamic_modifier$§! буде замінено на §Y$GRE_industrializing_society_dynamic_modifier$§!\nЕфект від змін:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§! \n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+10.00%§! \n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+10.00%§! \n$modifier_production_speed_arms_factory_factor$: §G+20.00%§!\n$MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR$: §G+15.00%§!\n\n"
  GRE_support_the_greek_farmer:0 "Підтримайте грецького фермера"
  GRE_support_the_greek_farmer_desc:0 "Грецькі фермери отримають повну підтримку уряду. Сприятливе оподаткування, регулювання та субсидії повинні сприяти стимулюванню нашого сільськогосподарського експорту. Ми станемо житницею Балкан!"
  GRE_develop_textile_industries:0 "Розвивати текстильну промисловість"
@@ -2818,7 +2818,7 @@
  BUL_lone_victor_desc:0 ""
  BUL_buy_weapons:0 "Закон про свободу зброї"
  BUL_buy_weapons_desc:0 "Наша промисловість надто слабка, щоб самостійно фінансувати війну проти османів, ми повинні знайти інший спосіб отримати обладнання. Ми можемо звернутися до великих держав, щоб придбати обладнання для підготовки до боротьби проти османів."
- BUL_seek_rapprochement_with_auh:0 "Зближення з [AUH.getName]"
+ BUL_seek_rapprochement_with_auh:0 "Зближення з [AUS.getName]"
  BUL_seek_rapprochement_with_auh_desc:0 "Ми повинні покращити наші зв’язки з Австрійською Угорщиною, оскільки вони можуть бути великою силою для підтримки наших претензій на балканах. Ми запропонуємо їм економічну та військову співпрацю для підтримки наших претензій."
 
  bulgaria_focus:0 "Болгарське фокусне дерево"
@@ -3610,7 +3610,7 @@
  SER_alliance_with_black_hand:0 "Альянс з Чорною Рукою"
  SER_invite_the_socdems:0 "Запросити Socdems"
  SER_moderate_path:0 "Помірний план"
- SER_decisions_against_democracy:0 "§Y[SER.getFlag][SER.getName]§! бореться з радикалами"
+ SER_decisions_against_democracy:0 "§Y[SER.GetNameWithFlag]§! бореться з радикалами"
  SER_undermine_radicals_figures:0 "Підірвати фігурки радикалів"
  SER_dismantle_radicals_lobbies:0 "Лінкувати лобі радикалів"
  SER_king_speech_in_beograd:0 "[SER.GetNeutralLeader] Промова в Белграді"
@@ -3683,7 +3683,8 @@
  SER_fund_Zastava_Arms_desc:0 "На додаток до високих темпів виробництва, наша військова промисловість має бути інноваційною. Ми повинні фінансувати Zastava та просити їх підготувати наші майбутні моделі гвинтівок."
  indisputable_ruler:0 "\"§YНезаперечний§! §YПравитель§!\""
  grand_coalition_collapse:0 "Велика коаліція §Rрозвалилася§!"
- selections_1912:0 "Вибори 1912 року завершено"
+ elections_1912: "Вибори 1912 року завершилися"
+ elections_1914: "Вибори 1914 року завершилися"
  SER_army_debate:0 "Воєнізоване питання"
  SER_army_debate_desc:0 "Таємні товариства та воєнізовані групи існують не лише в армії, а й у кожній гілці влади. Питання, що з ними робити, залишається незрозумілим.
  SER_army_modernization:0 "Модернізація армії"
@@ -3759,6 +3760,7 @@
  SER_reach_out_bosnian_resistance:0 "Зверніться до боснійського опору"
  SER_fortify_the_rivers:0 "Зміцнити річки"
  SER_solun_process_tt:0 "Ми розпочнемо серію показових процесів проти Чорної Руки та інших змовників. Цей крок допоможе §Rbehead§! §bBlack Hand§! і позбудеться змовників загалом!"
+ SER_not_cancer_warning: "Якщо після виконання цього фокусу §Yстабільність§! буде нижча від §Y60%§!, розпочнеться §Rгромаднська війна§!!" # (&)
 
  ITA_istituto_nazionale_delle_assicurazioni:0 "Nazionale Istituto delle Assicurazioni"
  ITA_istituto_nazionale_delle_assicurazioni_desc:0 "Наш міністр сільського господарства запропонував цікаву ідею, згідно з якою ми націоналізуємо страхову галузь, щоб максимізувати виробництво. Ми повинні здійснити його плани."
@@ -3846,7 +3848,7 @@
  ITA_italian_spahis_desc:0 ""
  ITA_mountain_artillery:0 "Гірська артилерія"
  ITA_mountain_artillery_desc:0 ""
- ITA_bersaglieri_tt:0 "Додає два велосипедні батальйони до §YReggimento Bersaglieri§! і робить його доступним для редагування."
+ ITA_bersaglieri_tt:0 "Додає велосипедний батальйон до §YReggimento Bersaglieri§! і робить його доступним для редагування."
  ITA_savari:0 "Саварі"
  ITA_savari_desc:0 ""
  ITA_savari_effect:0 "Вмикає §YSavari§!\n§HCavalry\n Desert§!\n Атака: §G+5%§!\n Рух: §G+5%§!\n§HCamelry\n Desert§!\ n Атака: §G+5%§!\n Рух: §G+5%§!"
@@ -3967,8 +3969,8 @@
  italian_libya_developed:0 "Італійська Лівія розвинена."
 
 
- is_AUH_tt:0 "Це [AUH.getFlag]§YАвстро-Угорщина§!."
- is_AUH_tt_NOT:0 "Не є [AUH.getFlag]§YAustro-Hungary§!."
+ is_AUH_tt:0 "Це [AUS.getFlag]§YАвстро-Угорщина§!."
+ is_AUH_tt_NOT:0 "Не є [AUS.getFlag]§YAustro-Hungary§!."
  AUH_curb_activism:0 "§YРозблокувати декілька рішень§! Обмеження §Rактивності меншин§!"
  AUH_stabilize_the_empire:0 "Зберегти Ausgleich"
  AUH_stabilize_the_empire_desc:0 "З 1867 року Австрія та Угорщина являють собою єдине ціле, одну з найбільших держав у світі. Ми повинні мобілізувати зусилля для стабілізації імперії та уникати внутрішніх розбратів."
@@ -4087,13 +4089,13 @@
  AUH_armored_cars:0 "Páncélozott Autó"
  AUH_armored_cars_desc:0 "Важливість підтримки механізованої піхоти стає центральною темою сучасної стратегії. Щоб отримати кращу здатність до прориву, нам потрібно будувати нові броньовані машини, швидші та міцніші."
 
- AUH_wunderwaffen:0 "" Wunderwaffen »"
+ AUH_wunderwaffen: "«Wunderwaffen»"
  AUH_wunderwaffen_desc:0 "Подовження конфлікту змушує нас прагнути до інновацій. Нашим дослідникам не бракує ідей, особливо в авіації, танках і високочастотному зв’язку."
 
  AUH_polish_legion:0 "Польські легіони"
  AUH_polish_legion_desc:0 "Прагнення Польщі до незалежності повинні бути використані для зміцнення наших збройних сил на Східному фронті. За погодженням з польськими активістами незалежності польські легіони будуть сформовані як військові підрозділи, що складатимуться з польських добровольців, щоб воювати разом з австро-угорською армією. для нас легіони є важливим військовим ресурсом, а водночас інструментом залучення поляків до боротьби проти спільного ворога – Росії."
 
- AUH_purification_of_the_empire:0 "Lieb' Vaterland Magst Ruhig Sein!"
+ AUH_purification_of_the_empire: "Lieb' Vaterland, magst ruhig sein!"
  AUH_purification_of_the_empire_desc:0 "Незважаючи на десятиліття інтеграції, шалений спротив певних груп населення імперії показує нам, що співжиття неможливе. Ми змушені вживати рішучих заходів, щоб забезпечити виживання імперії. Ми не монстри, ми діємо для блага нашого народу."
 
  AUH_act_of_protection:0 "Акт захисту"
@@ -4174,7 +4176,7 @@
  AUH_crush_hungarian_opposition_desc:0 "Тепер, коли угорці вважаються рівними з німецькими австрійцями, була створена робоча група для усунення тих, хто закликає до незалежності Угорщини. Ці негідники та дурні підривають великі реформи, проведені кайзером, щоб закріпити їхні права в законі, і, якщо це необхідно ці виродки втратять життя."
  AUH_start_a_mission_permetting_a_trialis_constitution:0 "Почати спеціальну місію, що дозволяє створити §Yнову конституцію§! включно з §Y[CRO.getFlag]Хорватією як основною складовою частиною Імперії§!."
  AUH_the_status_of_croatia:0 "Маніфест про статус Хорватії"
- AUH_the_status_of_croatia_desc:0 "[AUH.GetNeutralLeader] виявив інтерес до додавання третьої складової до імперії, Хорватії. Угорці виступають проти цього, але якщо ми розгромимо їхню опозицію, ми зможемо реформувати нашу Імперію з дуалізму на триалізм."
+ AUH_the_status_of_croatia_desc:0 "[AUS.GetNeutralLeader] виявив інтерес до додавання третьої складової до імперії, Хорватії. Угорці виступають проти цього, але якщо ми розгромимо їхню опозицію, ми зможемо реформувати нашу Імперію з дуалізму на триалізм."
  AUH_focus_will_be_completed_once_F48P_is_elected_in_hungary:0 "Цей фокус буде завершено, коли партія §YF48P§! виграє парламентські вибори в [HUN.getFlag]§YHungary§!."
 
  AUH_redl_reforms:0 "Реформи контррозвідки Редла"
@@ -4191,8 +4193,8 @@
 
 
  AUH_federalist_reform:0 "Федералістична реформа"
- AUH_federalist_reform_desc:0 "Кайзер виявив зацікавленість у розробці нової конституції для створення Австро-Угорщини як федерації. Великий конгрес відбудеться у Відні, і делегати з усієї імперії зустрінуться."
- AUH_federalist_reform_tt:0 "Запуск серії подій, що призвели до розробки проекту нової конституції, спрямованої на встановлення §Y[AUH.getFlag][AUH.getName]§! як §YФедерації§!\n\n"
+ AUH_federalist_reform_desc:0 "Кайзер виявив зацікавленість у розробці нової конституції для створення Об'єднані держави Великої Австрії. Великий конгрес відбудеться у Відні, і делегати з усієї імперії зустрінуться."
+ AUH_federalist_reform_tt:0 "Запустить серію подій, що призведуть до розробки нової конституції, спрямованої на становлення §Y[AUS.getNameWithFlag]§! §Yфедерацією§!.\n\n"
 
  AUH_the_great_vienna_congress_tooltip2:0 "\n\n§RSДеякі країни, ймовірно, скористаються подією, щоб видати §YReclamations§!.§!"
 
@@ -4442,7 +4444,7 @@
  AUH_renegotiate_1879_treaty_desc:0 "Положення та умови того, що створило подвійний альянс чверть століття тому, застаріли та більше не відповідають потребам нашої великої імперії. Забезпечивши, що ми продовжуватимемо альянс із Німеччиною, можливо, ми зможемо забезпечити краща угода для нас самих."
  AUH_seek_peace:0 "Звернення до миру"
  AUH_seek_peace_desc:0 "Більше ніяких кривавих воєн! На відміну від свого попередника, Імператор більше не бачить необхідності жертвувати заради війни, а тим більше заради безглуздих і порожніх справ. Ставши свідком страждань своїх солдатів і народу, Імператор тепер прагне жити ощадливим життям і укласти чесний мир зі своїми ворогами."
- AUH_allow_autonomy:0 "Обіцяйте автономії"
+ AUH_allow_autonomy: "Пообіцяти створення автономій"
  AUH_allow_autonomy_desc:0 "Імператор визнає, що найважливішою та критичною проблемою в Імперії є стан расової та етнічної напруженості. Якщо Імперія хоче вижити в наступну епоху, вона повинна реформувати режим у багатоетнічну державу, яка охоплює права підданих Імперії, незалежно від того, як зараз чи ніколи, і шляху назад немає."
 
  hungarian_focus:0 "Угорське фокусне дерево"
@@ -4901,7 +4903,7 @@
  TUR_isolate_greece_desc:0 "Греція була традиційним союзником Великобританії в Середземному морі. Але через їхні внутрішні розколи ми можемо використати цю можливість і замінити їх як нового британського союзника."
  TUR_isolate_greece_tt:0 "Кожна країна, яка є спільною з нами, буде менш схильна до створення альянсу з §Y[GRE.GetName]§!."
  TUR_claim_bosnia:0 "Вимагати Боснію"
- TUR_claim_bosnia_desc:0 "Боснія була під нашим контролем до десяти років. Тепер, коли [AUH.GetAdjective] воює з Антантою, ми можемо знову претендувати на неї."
+ TUR_claim_bosnia_desc:0 "Боснія була під нашим контролем до десяти років. Тепер, коли [AUS.GetNameWithFlag] воює з Антантою, ми можемо знову претендувати на неї."
  TUR_contribution_for_bailout:0 "Внесок для допомоги"
  TUR_contribution_for_bailout_desc:0 "Антанта очікує від нас більшого внеску у війну. Якщо вони хочуть більше нашої допомоги, вони повинні за це заплатити."
  if_they_accept_for_each_tt:0 "§YЕфекти для кожної країни, яка приймає:§!"
@@ -5675,7 +5677,7 @@
  TUR_privatize_railway_companies_desc:0 "Залізнична галузь у нашій імперії процвітає. Проте погане управління сектором іноді робить його нерентабельним. Замість державної власності ми можемо приватизувати ці залізниці та передати ними приватні компанії."
  TUR_welcome_western_investments:0 "Вітаємо західні інвестиції"
  TUR_welcome_western_investments_desc:0 "Підтримка дружніх стосунків із Заходом важлива не лише для пошуку альянсів, але й для вкрай необхідних західних інвестицій для нашої індустріалізації. Ми повинні напряму просити західні держави про інвестиції."
- TUR_welcome_western_investments_tt:0 "Додає дві §YЦивільні фабрики§! для кожної з наступних країн, у яких §Yopinion§! §Y[TUR.GetName]§! більше або дорівнює §G75§!: \n§ Y[GER.GetNameDef]§!, §Y[ENG.GetNameDef]§!, §Y[FRA.GetNameDef]§!, §Y[AUH.GetNameDef]§! і §Y[RUS.GetNameDef]§!."
+ TUR_welcome_western_investments_tt:0 "Додає дві §YЦивільні фабрики§! для кожної з наступних країн, у яких §Yopinion§! §Y[TUR.GetName]§! більше або дорівнює §G75§!: \n§ Y[GER.GetNameDef]§!, §Y[ENG.GetNameDef]§!, §Y[FRA.GetNameDef]§!, §Y[AUS.GetNameDef]§! і §Y[RUS.GetNameDef]§!."
  TUR_privatize_universities:0 "Приватизувати університети"
  TUR_privatize_universities_desc:0 "Більшість нашого населення неписьменна і не має наміру це змінювати. Примушування людей до шкіл і навчання призведе лише до заворушень і незадоволення. Все, що нам потрібно, це невелика кількість еліти, яка знає, що може дозволити собі освіту."
  TUR_flow_of_the_capital:0 "Потік капіталу"
@@ -5704,7 +5706,7 @@
  TUR_support_domestic_weapon_industry:0 "Підтримка вітчизняної збройової промисловості"
  TUR_support_domestic_weapon_industry_desc:0 "Нам не потрібні іноземці, щоб пхати свій ніс у ваш бізнес, щоб модернізувати. Ми створимо ваші власні розробки!"
  TUR_import_foreign_advisors_tt:0 "Вартість §Модернізації YArmy§! буде зменшено з £army_experience §Y30§! до £army_experience §Y10§!."
- TUR_new_weapon_contracts_tt:0 "Може прийняти рішення §YКупити піхотне спорядження§! щодо обладнання §Y[FRA.GetAdjective]§!.\nРозблоковує рішення щодо придбання §Y[GER.GetAdjective]§! та §Y[ENG.GetAdjective] §! §Yпідтримка обладнання§!.\nЗможе прийняти §Y[GetAdjective]§ рішення про покупку §Y[GetAdjective]§! GetAdjective]§! §Yмоторизований транспорт§!."
+ TUR_new_weapon_contracts_tt:0 "Will be able to take §YPurchase Infantry Equipment§! decision for §Y[FRA.GetAdjective]§! equipment.\nUnlocks decisions to purchase §Y[GER.GetAdjective]§! and §Y[ENG.GetAdjective]§! §Ysupport equipments§!.\nWill be able to take §YPurchase Field Artillery§! decision for §Y[GER.GetAdjective]§! and §Y[AUS.GetAdjective]§! equipment.\nUnlocks decisions to purchase §Y[GER.GetAdjective]§! and §Y[ENG.GetAdjective]§! §Ymotorized transport§!." # (!)
  TUR_import_dependency_tt:0 "§YПіхотне спорядження§! отримане від §YПридбати піхотне спорядження§! буде збільшено з §Y3000§! до §Y5000§!.\n§YДопоміжне обладнання§! отримане від §YПридбати допоміжне обладнання§! рішення будуть збільшені зросла з §Y350§! §Y500§!.\n§YКупівля польової артилерії§! буде збільшена з §Y250§! буде збільшено з §Y100§! §Y150§!.\n§YМоторизоване обладнання§! Рішення про придбання моторизованого транспорту будуть збільшені з §Y250§!."
  TUR_import_dependency_tt2:0 "§YForeign Armour§! і §YMaterial Designers§! більше не змінюватимуть §YOtoman Public Debt Administration§! Значення фактора Consumer Goods Factories.\n"
  2_spaces_on_the_focustree:0 "\n\n"
@@ -6635,6 +6637,7 @@
  FRA_ww1_ban_far_right_leagues:0 "Заборонити ультраправі ліги"
  FRA_ww1_ban_far_right_leagues_desc:0 "Мілітаристські націоналістичні групи загрожують стабільності наших інституцій, підтримуючи декадентську та дегуманізовану аристократію. Крім того, що вони пропагують неприйнятне насильство, ці групи не пропонують майбутнього для Республіки, а отже, не заслуговують на те, щоб бути дозволеними в парламенті."
 
+ FRA_fascism_banned: "Фашизм заборонено"
  FRA_ww1_attract_moderate_support:0 "Залучити помірну підтримку"
  FRA_ww1_attract_moderate_support_desc:0 "Демократичний соціалістичний альянс, який ми створюємо, має охопити кожного депутата та сенатора, сповненого ідеалів рівності та справедливості. Боротьба робітників є об’єднавчою боротьбою, яка дозволяє накопичити достатню кількість симпатій народу, щоб вважатися прийнятною крайністю."
 
@@ -6692,10 +6695,10 @@
  FRA_ww1_ministerial_reform:0 "Міністерські зміни"
  FRA_ww1_ministerial_reform_desc:0 "Частиною проблеми лідерства у Франції є неузгодженість її політичного блоку. Профспілки, що змішують правих і лівих, безсилля президента та різноманітні інші фактори ускладнюють керівництво Республікою. Ми повинні почати з серії закони, що послаблюють повноваження міністрів на користь інших міністрів."
 
- FRA_ww1_government_reform:0 "Державна реформа"
- FRA_ww1_government_reform_desc:0 "Щось мені підказує, що ми трохи випереджаємо? Це не має значення, давайте глибоко реформуємо державну систему, збільшивши розмір міністерських повноважень, оприлюднивши закон про боротьбу з корупцією та різноманітні проекти інклюзії для робітничих класів."
+ FRA_ww1_government_reform: "Поступка лібералам"
+ FRA_ww1_government_reform_desc:0 "In order to obtain a grand alliance on the left, we must make concessions within government and include centrist and socialist figures in some semblance of cohesion. This period of transition constitutes the basis for a new political beginning." # (!)
 
- FRA_ww1_political_coherence:0 "Політична узгодженість"
+ FRA_ww1_political_coherence: "«Уселіва» радикальна програма"
  FRA_ww1_political_coherence_desc:0 "Зменшення політичної ваги Франції вимагає оптимізації управління нашою економікою. Міністр Арістід Бріан протягом кількох термінів демонстрував свою участь в управлінні французькою промисловою експансією. Давайте запропонуємо йому місце вибору у новій адміністрації."
 
  FRA_ww1_improve_the_railways:0 "Покращити залізниці"
@@ -6709,7 +6712,11 @@
 
 
  FRA_ww1_social_democrat_bloc_united:0 "Об'єднаний соціал-демократичний блок"
- FRA_ww1_social_democrat_bloc_united_desc:0 "Реформи завершено, після стількох зусиль на Францію більше не впливає нестабільна бюрократія Третьої Республіки!"
+ FRA_ww1_social_democrat_bloc_united_desc:0 "The reform of the government to include moderate socialists is complete, it has allowed the establishment of a stable coalition capable of operating in the long term. Some private arrangements must still be made so that parliamentarians do not come into conflict, particularly over the sharing of constituencies where they are running." # (!)
+ FRA_paul_doumer_integration:0 "Paul Doumer Integration in AD" # (!)
+
+ FRA_from_guesdes_to_combes: "Від Ґеда до Комба"
+ FRA_from_guesdes_to_combes_desc:0 "The union of the left must include its entire spectrum, including the unionist, communist and anarchist extreme left. This effort will allow us to reform a true left-wing cartel, an incompressible popular union." # (!)
 
  FRA_ww1_establish_france_equatoriale:0 "Сформуйте \"Екваторіальна Франція\""
  FRA_ww1_establish_france_equatoriale_desc:0 "Екваторіальну Африку було створено в січні 1910 року. Незважаючи ні на що, конкретне створення цієї нової адміністрації все ще перебуває в зародковому стані та вимагає державних інвестицій для будівництва офіційних будівель, резиденцій адміністраторів і доріг."
@@ -6796,6 +6803,15 @@
 
  FRA_ww1_loi_trois_ans:0 "Loi Trois Ans"
  FRA_ww1_loi_trois_ans_desc:0 "Військова напруженість у Європі, спричинена центральними державами, змушує нас довоєнної мобілізації нашої молоді у формі мінімального трирічного призову в армію."
+
+ FRA_doumer_integration_in_AD:0 "Doumer Integration in ARD" # (!)
+ FRA_doumer_integration_in_AD_desc:0 "After his defeat in the 1906 presidential elections, former deputy Paul Doumer initiated a journey through the political desert. During this long period, he moved into finance and became a talented industrial investor. We could welcome him into the democratic republican alliance, he could assist us in the country's liberal reforms." # (!)
+
+ FRA_comite_de_guerre: "Comité de guerre"
+ FRA_comite_de_guerre_desc:0 "Taking inspiration from the British War Cabinet, we can create our own war committee. It deals with army personnel, armaments, health services and commissariat. Taking inspiration from the British War Cabinet, we can create our own war committee. It deals with army personnel, armaments, health services and stewardship. Its members are the ministers of war, finance, health and the president." # (!)
+
+ FRA_bonus_if_doumer_is_here:0 "If §YPaul Doumer§! is appointed, give the following bonus:\n" # (!)
+ FRA_bonus_if_poincare_is_president:0 "If §YRaymond Poincaré§! is president or prime minister, give the following bonus:\n" # (!)
 
  FRA_ww1_first_moroccan_campaign:0 "Перша марокканська кампанія"
  FRA_ww1_first_moroccan_campaign_desc:0 "Протекторат, встановлений у Марокко, все ще крихкий, у сільській місцевості створено сильний опір, і марокканські сили мають бути сформовані в дивізії під контролем генерала-резидента."
@@ -6930,6 +6946,15 @@
  FRA_ww1_french_air_force:0 "Перша конференція з аеронавігації"
  FRA_ww1_french_air_force_desc:0 "Франція є піонером в авіації, ми вже маємо кілька функціональних прототипів розвідників і декілька цепелінів. Тим не менше, ці літальні апарати, здається, мають великий потенціал, який слід використати."
 
+ FRA_aeronotique_militaire: "Aéronautique militaire"
+ FRA_aeronotique_militaire_desc:0 "The competitions at the Reims airfield allowed us to evaluate which were the best aircraft to equip our army with reconnaissance vehicles. We can use this experience to acquire our first squadrons." # (!)
+
+ FRA_aerial_bombardment_experiments:0 "Aerial Bombardment Experiments" # (!)
+ FRA_aerial_bombardment_experiments_desc:0 "The military conducted its first tests of using aircraft to drop explosive payloads from the air. These experiments, carried out with planes like the Blériot XI, aimed to assess the precision and effectiveness of this new offensive approach." # (!)
+
+ FRA_fund_pilot_schools:0 "Fund Pilot Schools" # (!)
+ FRA_fund_pilot_schools_desc:0 "The training of new pilots is an essential step in building a real air component. Schools can be opened on the grounds of Chartres and Avord to begin their apprenticeship." # (!)
+
  FRA_ww1_old_school:0 "Стара школа"
  FRA_ww1_old_school_desc:0 "Наслідуючи німецьку модель, тобто велику армію дирижаблів, ми забезпечуємо певні зручності. Досить відтворити плани ворога та вдосконалити певні концепції, щоб отримати найкращі характеристики."
 
@@ -6938,6 +6963,9 @@
 
  FRA_ww1_air_fortress:0 "Повітряні фортеці"
  FRA_ww1_air_fortress_desc:0 "Змагання на найпотужніший джаггернаут триває проти Boches, давайте будувати ще більші дирижаблі! Щоб досягти таких шедеврів, потрібно буде транспортувати велику кількість боєприпасів, а також значну раму."
+
+ FRA_SPAD_mass_production:0 "SPAD Mass Production" # (!)
+ FRA_SPAD_mass_production_desc:0 "In order to compete with German industry, France must mass produce inexpensive and reliable aircraft on a standardized line. We do not have the resources to carry out a zeppelin campaign, emphasizing our efforts on a light and numerous air force." # (!)
 
  FRA_ww1_zeppelin_focus:0 "Шпигунські дирижаблі"
  FRA_ww1_zeppelin_focus_desc:0 "Оптимізація рульового механізму Spiess Rigid Airship є хорошим кроком до жанрової досконалості. Є й інші цікаві моменти, збільшення розміру кают або надійність пристрою. Робота над цими елементами здається важливою для досягнення технологічної переваги в полі."
@@ -6948,8 +6976,17 @@
  FRA_ww1_close_air_support:0 "Близький фокус повітряної підтримки"
  FRA_ww1_close_air_support_desc:0 "Зі збільшенням потужності двигунів біпланів стало можливим перевозити більш важкі вантажі. Ця гнучкість дозволяє зберігати кілька бомб, навіть великокаліберні кулемети для наземних військ."
 
- FRA_ww1_fund_nieuport:0 "Fund Nieuport Air Company"
+ FRA_ww1_fund_nieuport: "Підтримати компанію «Nieuport»"
  FRA_ww1_fund_nieuport_desc:0 "Компанія Nieuport є піонером у французькій авіаційній промисловості. Фінансування компанії також фінансуватиме повітряну війну проти Німеччини."
+
+ FRA_support_astra_torres: "Проспонсорувати Astra-Torres"
+ FRA_support_astra_torres_desc:0 "The funds allocated to the construction of new airships are too low to compete with Germany. We need to increase funding to design new zeppelin-inspired airships." # (!)
+
+ FRA_dae_factories: "Заводи «Daé»"
+ FRA_dae_factories_desc:0 "In order to form the first \"Daé\" air division, we must mobilize civilian aviation factories to the war effort and mass produce models of modern fighters and bombers." # (!)
+
+ FRA_combined_arms_grouping:0 "Combined Arms Grouping" # (!)
+ FRA_combined_arms_grouping_desc:0 "The experiments carried out on the Farman and Blériot aircraft demonstrated the capital importance that aviation could have for all branches of the army. Contrary to what the old school polytechnicians thought, planes promise to revolutionize the entire battlefield, and not just artillery." # (!)
 
  FRA_ww1_protector_of_the_weakests:0 "Захисник найслабших"
  FRA_ww1_protector_of_the_weakests_desc:0 "Франція є країною революційної демократії, свободи та справедливості. Це справедливий обов’язок нашої нації захищати слабких і гарантувати, що вогонь справедливості та демократії не буде змитий наростаючими хвилями автократії ."
@@ -7105,7 +7142,7 @@
  FRA_ww1_form_peasant_council:0 "Створити селянську раду"
  FRA_ww1_form_peasant_council_desc:0 "Національна асамблея складається з бюрократів, які відсторонені від реалій, з якими стикається наше населення. Президент [FRA.getLeader] повинен мати можливість обрати законне представництво французького народу, вибравши представництва робітників і селян від комуністична партія."
 
- FRA_kick_moderates:0 "Кік модерує"
+ FRA_kick_moderates: "Підірвати позиції поміркованих"
  FRA_kick_moderates_desc:0 "Менш радикальні елементи партії мають бути ізольовані та дякувати. Позиція Франції не може бути позицією держави без армії, без позиції та без простору для маневру."
  FRA_reformists_purged:0 "Реформістів вигнано"
 
@@ -7350,8 +7387,14 @@
  FRA_ww1_support_movie_industry:0 "Підтримка кіноіндустрії"
  FRA_ww1_support_movie_industry_desc:0 "З початку століття швидкий розвиток кінематографа запропонував Франції нові економічні та культурні можливості. Виробництво нових фільмів, таких як "Фантомас» або "Подорож родини Буррішон», демонструє французький геній."
 
- FRA_ww1_continue_the_centralism_program:0 "Продовжити централістську програму"
+ FRA_ww1_continue_the_centralism_program: "Продовжити централістську програму"
  FRA_ww1_continue_the_centralism_program_desc:0 "З початку 19-го століття промисловість завжди спрямовувалася на централізацію виробництва в кількох великих міських центрах, відмовляючись від сільської місцевості та менших територій. Ця концентрована індустріалізація довела себе, пропонуючи нам експоненціальне зростання, і тому повинна продовження."
+
+ FRA_ww1_decentralist_program: "Просунути децентралістську програму"
+ FRA_ww1_decentralist_program_desc:0 "The centralist program ruined the balance of traditional regions and forced mass migration to the Paris area. This quagmire impoverishes rural areas and causes glaring inequalities. Promoting a decentralist program will make it possible to harmonize the attractiveness of our departments." # (!)
+
+ FRA_ww1_expansion_of_regional_capitals: "Розширення регіональних містечок"
+ FRA_ww1_expansion_of_regional_capitals_desc:0 "In order to relieve congestion in the capital, the state must invest massively in rural regions where regional capitals are located. These new industries should bring about a harmonious rebalancing of the territory's wealth. This about-face in the industrialization program risks not pleasing the Parisian economy." # (!)
 
  FRA_ww1_growing_automobile_market:0 "Зростаючий автомобільний ринок"
  FRA_ww1_growing_automobile_market_desc:0 "Інноваційні компанії, такі як Panhard або Berliet, виробляють численні моделі все більш ефективних і доступних цивільних транспортних засобів. Закриття останнього гіпомобільного комплекту в 1913 році є ще одним доказом сильного захоплення автомобілями."
@@ -7658,7 +7701,7 @@
 
  FRA_paris_to_amiens:0 " (§YParis§! до §YAmiens§!)"
  FRA_paris_to_nancy:0 " (§YParis§! до §YNancy§!)"
- FRA_focus_alliance:0 "\nВони будуть §Yбільш схильні§! бути нашими §Союзниками§! !"
+ FRA_focus_alliance:0 "\nВони будуть §Yбільш схильні§! стати нашим §Cсоюзником§!."
 
  FRA_ww1_electrify_railways:0 "Електрифікувати залізниці"
  FRA_ww1_electrify_railways_desc:0 "Програма електрифікації залізниці є початковим запитом армії. Німеччина електрифікувала свої потяги змінним струмом, тому ми можемо електрифікувати наші постійним струмом, щоб зробити дві мережі несумісними. Фактично, вони не зможуть використовувати наша мережа."
@@ -8696,7 +8739,7 @@
  BRA_abc_conference_desc:0 "Зі зростанням напруженості між США та Мексикою під час Мексиканської революції. Нам потрібно уникати будь-якої можливої війни, яка може вилитися з цього."
 
  BRA_oligarchy_support_tt:0 "Запобігає §YГромадянській війні§! але буде шкідливим у довгостроковій перспективі."
- BRA_oligarchy_civil_war_tt:0 "§RЯкщо §YСтабільність§! §Ріст нижче §Y60%§R без §YПідтримки олігархії§! §R під час завершення цього фокусу почнеться громадянська війна!§!§!§!§!§! "
+ BRA_oligarchy_civil_war_tt: "Якщо після виконання цього фокусу §Yстабільність§! буде нижча від §Y60%§! без §Cпідтримки олігархії§!, розпочнеться §Rгромаднська війна§!."
  BRA_pact_of_ouro_fino_tt:0 "Гарантує, що §YVenceslau Brás§! виграє вибори."
  BRA_industrialisation_strikes_tt:0 "§YІндустріалізація§! без надання прав працівникам призведе до §Rстрайків.§!"
  BRA_empires_united_tooltip_tt:0 "§Y[BRA.GetNameDefCap]§! і §Y[POR.GetNameDef]§! тепер будуть відомі як §YLuso-Бразильська імперія§!."
@@ -9309,6 +9352,12 @@
  BEL_private_school_subventions:0 "Субвенції приватної школи"
  BEL_private_school_subventions_desc:0 "Щоб підтримати світську, безкоштовну школу без політичних зв'язків, прем'єр-міністр запропонував встановити спеціальні субсидії, спрямовані на створення нових приватних шкіл."
 
+ BEL_socialist_reforms: "Соціалістичні реформи"
+ BEL_socialist_reforms_desc:0 "The relative cooperation that we maintain with the POB allows us to continue our reforms and propose new bold projects for Belgium." # (!)
+
+ BEL_state_sponsored_old_age_pensions: "Державна пенсія за віком"
+ BEL_state_sponsored_old_age_pensions_desc:0 "Several deputies and liberals, notably Charles de Broqueville himself, are determined to launch social reforms including retirement pensions. This socialist project would allow hundreds of thousands of Belgians to benefit from a pension, while they are currently forced to join private funds, receiving on average only 12 francs per day." # (!)
+
  BEL_first_broqueville_governement:0 "Перший уряд Броквіля"
  BEL_first_broqueville_governement_desc:0 "Після відставки попереднього уряду. Новий прем'єр-міністр повинен призначити своїх співробітників з благословення короля."
 
@@ -9431,6 +9480,8 @@
 
  BEL_army_reform:0 "Реформа армії"
  BEL_army_reform_desc:0 "Після завершення всіх попередніх реформ уряд може наказати генеральному штабу здійснити структурні ніші, а також інші набагато важливіші зміни."
+
+ BEL_social_reforms:0 "Social State Reforms" # (!) (? — тобто?)
 
  BEL_BCK_works:0 "BCK працює"
  BEL_BCK_works_desc:0 "Société Générale de Belgique заснувала Bas Congo au Katanga Railway Company (BCK) у 1906 році, щоб з’єднати Катангу з рештою країни. Зараз лише Родезія пов’язана з мідними шахтами, що сприяє експорту на користь Будівництво залізниць далі на північ полегшить транспортування корисних копалин до Лепольдвіля."
@@ -9671,7 +9722,6 @@
  BEL_woodchoppers_of_the_orne_desc:0 "Фламандським націоналістам не можна довіряти. Навіть якщо вони патріоти, а не сепаратисти, вони живуть принаймні німецькою ідеологією. Ми відправимо їх до Нормандії провести війну, вирубуючи дерева!»
  BEL_support_Frontbeweging:0 "Підтримати Frontbeweging"
  BEL_support_Frontbeweging_desc:0 "Фламандські солдати у Frontbeweging лише вимагають більших громадянських свобод і права більше використовувати голландську мову в уряді та освіті. Що в цьому поганого?"
-
 
  #Швеція
  sweden_focus:0 "Шведське фокусне дерево"
@@ -9978,11 +10028,11 @@
  AUH_has_invested_in_manfred_weiss_steel_and_metal_works:0 "Інвестував у металургійний завод Manfred Weiss Steel and Metal Works"
  AUH_has_invested_in_orion_electronics:0 "Інвестував в Orion Electronics"
  AUH_fruits_of_open_door:0 "Плоди відкритих дверей"
- AUH_corruption_for_factories:0 "Розблокуйте §YDecision§! дозволяючи промисловцям впливати на політику для фінансування приватних проектів. \n\n§RGнадання великого впливу промисловцям зіпсує нашу політику!§!"
- AUH_corruption_augmentation:0 "§Y[AUH.getFlag][AUH.getAdjective]§! Корупція збільшиться на §R1 бал§!."
- AUH_corruption_augmentation_4:0 "§Y[AUH.getFlag][AUH.getAdjective]§! Корупція збільшиться на §R4 Point§!."
- AUH_corruption_reduction:0 "§Y[AUH.getFlag][AUH.getAdjective]§! Корупція зменшиться на §G1 Point§!."
- AUH_corruption_reduction_4:0 "§Y[AUH.getFlag][AUH.getAdjective]§! Корупція зменшиться на §G4 Point§!."
+ AUH_corruption_for_factories:0 "Розблокує §Yрішення§!, які дозволять промисловцям впливати на політику в обмін фінансування приватних проєктів.\n\nНадання великого впливу промисловцям збільшить §Rкорупцію§!."
+ AUH_corruption_augmentation: "Корупція §Rзросте§! на §Y1§! бал."
+ AUH_corruption_augmentation_4: "Корупція §Rзросте§! на §Y4§! бали."
+ AUH_corruption_reduction: "Корупція §Gспаде§! на §Y1§! бал."
+ AUH_corruption_reduction_4: "Корупція §Gспаде§! на §Y4§! бали."
  AUH_corruption_can_be_negative:0 "(Корупція може бути негативною)."
 
  AUH_civil_investments:0 "Громадські інвестиції"
@@ -9990,7 +10040,7 @@
  AUH_corruption_variable_tooltip:0 "$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: §Y[?AUH_corruption_var|Y0%]§!"
  AUH_OSB_variable_tooltip:0 "$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: §Y[?AUH_OSB_var|Y0%]§!"
  AUH_corruption:0 "Корупція"
- AUH_corruption_desc:0 "Уряд [AUH.getLeader] накопичив борги, пов’язані з комерційними контрактами, укладеними за останні кілька років. Ця ситуація дає великий вплив промисловим лобі, які діють у власних інтересах."
+ AUH_corruption_desc:0 "Уряд [AUS.getLeader] накопичив борги, пов’язані з комерційними контрактами, укладеними за останні кілька років. Ця ситуація дає великий вплив промисловим лобі, які діють у власних інтересах."
  AUH_improve_arms_production:0 "Покращити виробництво зброї"
  AUH_force_rural_expansion:0 "Примусове розширення сільської місцевості"
  AUH_active_lobbying_against_corruption:0 "Активне лобіювання проти корупції"
@@ -10015,7 +10065,7 @@
  has_invested_in_vulcan:0 "Інвестував у Vulcan Werke AG"
  AUH_german_ties:0 "Німецькі зв'язки"
  AUH_german_ties_desc:0 "Це цілком логічно продовжувати наш давній альянс з Німеччиною. Їхня промислова могутність нам дуже допоможе."
- AUH_new_lobbying_decisions:0 "Розблокуйте §YНові рішення§!, щоб мати справу з промисловими проектами"
+ AUH_new_lobbying_decisions:0 "Розблокує §YНові рішення§!, щоб доручати нові проекти §Cпромисловцям§!."
  AUH_economic_liberisation:0 "Економічна лібералізація"
  AUH_economic_liberisation_desc:0 ""
  AUH_propose_arms_factory_construction:0 "Запропонувати будівництво збройового заводу"
@@ -10896,6 +10946,70 @@
 
  VIN_reorganize_road_network:0 "Реорганізувати мережу доріг"
  VIN_reorganize_road_network_desc:0 "Щоб відновити дороги Індокитаю, необхідно створити дороги за рахунок загального бюджету Індокитаю та інших у "регіональному» режимі."
+
+ # (!)
+ IND_playing_as_separatists:0 "Is playing as §LVietnamese separatists§!"
+ VIT_is_doing_something:0 "We are already doing something"
+ QIN_first_second_up:0 "§Y[QIN.getFlag][QIN.getName]§! is collapsing"
+ QIN_flag_first_xinhai:0 "§Y[CHI.getFlag]Xinhai Revolution§! Occured"
+
+ IND_translate_sun_yat_sen_writing:0 "Translate Sun Yat-Sen Writing"
+ IND_translate_sun_yat_sen_writing_desc:0 "Recent events in China, marked by the fall of the Qing dynasty in 1911 and the establishment of the Republic under Sun Yat-sen, are resonating strongly in French Indochina."
+
+ IND_agitate_yao_and_hmong_minorities:0 "Agitate Yao and Hmong Minorities"
+ IND_agitate_yao_and_hmong_minorities_desc:0 "The minorities of northern Tonkin are mistreated by the French authorities and live in absolute poverty. We can rally them to our cause and recruit them into our resistance network."
+
+ IND_bases_in_guangxi:0 "Base in Guangxi"
+ IND_bases_in_guangxi_desc:0 "The Chinese Kuomintang supports our campaigns to liberate Vietnam. Their kindness allows us to settle in Guangxi without resistance, while obtaining logistical support to continue our operations."
+
+ IND_actions_in_laos:0 "Actions in Laos"
+ IND_actions_in_laos_desc:0 "We have secured enough equipment and support to expand our operations into Laos, where we can convince other local minorities to act for their national cause."
+
+ IND_raise_fonds_in_honkong:0 "Raise Fonds in Honk Kong"
+ IND_raise_fonds_in_honkong_desc:0 "By going to Hong Kong, we can negotiate support from nationalist exiles and Chinese nationalist groups endorsing our plan for independence from Vietnam. By promising them respect for the three points, but also by opting for a democratic program, we will release funds intended for the purchase of equipment."
+
+ IND_installation_in_china:0 "Installation in China"
+ IND_installation_in_china_desc:0 "China's revolutionary framework is ideal for expanding our operations in the region, we must continue to establish ourselves."
+ IND_continous_flow_of_weapons:0 "We will gradually receive weapons without having to make any §YDecisions§!.\n\n§RThere is a risk that the Chinese authorities will mistake us for a Chinese rebel faction and arrest us.§!"
+
+ IND_quand_phuc_hoi:0 "Quang Phuc Hôi"
+ IND_quand_phuc_hoi_desc:0 "Viet Nam Quang Phuc Hôi follows the three principles of the people: democracy, nationalism and justice. Inspired by Chinese revolutions, it replaces Duy Tân Hôi to modernize and trigger a new dynamic."
+
+ IND_ask_japanese_support:0 "Ask Japanese Support"
+ IND_ask_japanese_support_desc:0 "Japan initially supported our initiatives when we stayed on their territory. We were forced to leave it after a request from the French government to the Japanese government. We could ask them for new, more discreet support."
+
+ IND_oppose_phan_chau_trinh:0 "Oppose Phan Chau Trinh"
+ IND_oppose_phan_chau_trinh_desc:0 "The pacifist and sometimes even collaborative vision of Phan Chau Trinh is not compatible with our movement. We must radicalize our branch of action and remove any association with reformists."
+
+ IND_ally_phan_chau_trinh:0 "Ally Phan Chau Trinh"
+ IND_ally_phan_chau_trinh_desc:0 "We cannot rely on external support for our autonomy, nor can we rely on a struggle against a great power. The most reliable way to emancipate yourself and launch a long, slow work of democratic reform within the protectorate."
+
+ IND_base_in_philipines:0 "Base in Philippines"
+ IND_base_in_philipines_desc:0 "We cannot stay in §YChina§! due to the instability of the civil war. We can return to the Philippines which is more stable. However, we risk being discovered and sent back to France."
+ IND_PHI_hideout:0 "This is a safer hideout compared to China, but we wont get as much support as we want.\n\n§R§Y[PHI.getFlag][PHI.getAdjective]§! authorities could report us to France if we do not accept their demands.§!"
+
+ IND_ask_german_support:0 "Ask German Support"
+ IND_ask_german_support_desc:0 "The German Empire has an interest in helping us break away from France. With their logistical help and great power influence, we will achieve essential international recognition."
+
+ IND_deal_with_siam:0 "Deal with Siam"
+ IND_deal_with_siam_desc:0 "The Kingdom of Siam lost part of its territory due to French interventions in the region. Since then, they have sought to find the western regions of Cambodia and the entirety of Xaignabouli. We could form a secret alliance with them to gain their support on their borders in exchange for the transfer of these territories."
+ IND_spawn_in_cambdoge_and_xianbouli:0 "If the §tVietnamese Revolt§! occurs, some §YPartisans§! will spawn in §Y[822.getName]§! and §Y[819.getName]§! even if we have no resistance network there.\n\nIf the revol succeed, we will transfert theses states to §Y[SIA.getFlag][SIA.getName]§!."
+ IND_level_2_resistance:0 "Have at least a §YMedium Resistance§! network"
+
+ IND_breaktrough_china:0 "Breaktrough China"
+ IND_breaktrough_china_desc:0 "We are ready to launch a major armed insurrection within the entire Indochina for the liberation of its components from the French yoke, we will awaken our resistance cells and penetrate Indochinese territory from China directly into Tonkin and Laos."
+
+ JAP_support_separatism:0 "§Y[JAP.getFlag][JAP.getName]§! Support Separatism"
+
+ IND_return_to_japan:0 "Return to Japan"
+ IND_return_to_japan_desc:0 "With the renewed support of the Japanese government, we can resettle on the archipelago without fear of being attacked by a Chinese warlord, or of being found by the French authorities. However, we will have to remain relatively discreet until the big evening..."
+ IND_JAP_safe_hideout:0 "§Y[JAP.getFlag]Japan§! is a safe hideout as long as we are not showing ourself too much.\n\n§RIf Indochina has an intelligence agency, they could discover Japan's complicity and lessen their support for us.§!"
+
+ IND_create_hideout_in_yunnan:0 "Create Hideout in Yunnan"
+ IND_create_hideout_in_yunnan_desc:0 "We cannot organize ourselves on Vietnamese territory due to the increase in French garrisons since 1908. However, the agitation in China offers us the possibility of settling permanently on the border."
+ VIT_hideout_in_yunnan:0 "§YUnlock Decisions§! to start operations in §YTonkin§!."
+ VIT_hideout_in_guangxi:0 "§YUnlock new Decisions§! to operate in §YIndochina§!. We will now be able to expand our influence in the country and increase §tlocal resistance§! movements."
+ # (#!)
 
  major_nations:0 "(§YОсновні країни§!) :"
 
