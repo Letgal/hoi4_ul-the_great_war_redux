@@ -15409,3 +15409,348 @@ ww1_liechtenstein.8.t:0 "Проголошено державу-наступни�
 ww1_liechtenstein.8.d:0 "Після невдалого путчу Бека на початку цього місяця фракція німецького фрайкорпусу, рятуючись від наслідків німецької революції, організувала державний переворот проти ландтагу Ліхтенштейну. Побоюючись, що Вільгельм Бек розпочне чергове демократичне поглинання, Фрайкорпс штурмував ландтаг під час сесії, примушуючи як призначених, так і виборних посадових осіб підписати петицію, яка оголошує [LIE.GetLeader] законним наступником Священного римського престолу та висуває претензії на всі колишні території Імперії Тим часом [LIE.GetLeader] залишився здебільшого мовчання про його новий "імператорський» статус, а повідомлення свідчать про те, що так званий "імператор» дуже збентежений усією ситуацією."
 ww1_liechtenstein.8.a:0 "Безглуздо."
 
+### Northwestern Army ###
+ ww1_nwa.1.t:0 "Formation of Anti-Bolshevik army in the North"
+ ww1_nwa.1.d:0 "After the Bolsheviks couped the Russian government and a bit later after the treaty of Brest-Litovsk, a group of reactionary officers from Petrograd and some from our POW camps requested us to help them form an anti-Bolshevik army in the north and aid their attack to capture Petrograd. Now when the fighting in the western front has stopped and we have a lot of spare equipment and young men who are willing to volunteer to fight we can now properly aid them. Aiding them would also grant us a great chance to establish a friendly government in Petrograd and expand our influence in Russia."
+ ww1_nwa.1.a:0 "Good luck soldiers!"
+ ww1_nwa.1.b:0 "Forwards to Petrograd!(Play as [NWA.GetFlag]Northern Corps)"
+
+ ww1_nwa.2.t:0 "Alexandr Rodzyanko arrives to [13.GetCapitalVictoryPointName]"
+ ww1_nwa.2.d:0 "Alexandr Rodzyanko a cavalry officer and an Olympic rider who tried unsuccessfully establish connections with the Entente has arriced to [13.GetCapitalVictoryPointName] earlier today. Alongside Rodzyanko arrived another cavalry officer, Alexey Palen."
+ ww1_nwa.2.a:0 "Welcome"
+ ww1_nwa.2_tt:0 "§YAlexey Palen§!([NWA.GetFlag]) Joins §Y[NWA.GetNameDef]§!"
+
+ ww1_nwa.3.t:0 "A cavalry detachment defects to the whites"
+ ww1_nwa.3.d:0 "After we recently put an order to arrest Stanisław Bułak-Bałachowicz, the commander of 1. Lugan Partisan cavalry regiment he and most of his men have decided to defect and have offered their services to the German supported whites. Stanisław Bułak-Bałachowicz who has a Polish-Belorussian background joined our ranks along with his brother after the disbandment of the Ataman Punin's detachment. After joining the Red-Army Bułak-Bałachowicz and his detachment helped put down a peasant uprising with terrible cruelty. After hearing about those actions hatred towards him and his actions have risen among our local commanders which led to the decision to arrest him. "
+ ww1_nwa.3.a:0 "Traitor!"
+ ww1_nwa3_tt:0 "Stanisław Bułak-Bałachowicz and his Cavalry detachment will join the Northern Corps"
+
+ ww1_nwa.4.t:0 "[NWA.GetNameDef] offers their services to us"
+ ww1_nwa.4.d:0 "Recently after the Germans started to withdraw their troops from the areas they took control of in the treaty of Brest-Litovsk, the Bolsheviks have started to advance to those territories. A small white army called [NWA.getNameDef] which took control of Pskov and it's surroundings after the Germans withdrew wasn't prepared enought and couldn't resist the Red Army. After losing Pskov they have retreated to our territory and offered their services for us atleast for now."
+ ww1_nwa.4.a:0 "Welcome comrades!"
+
+ ww1_nwa.5.t:0 "Kolchak appoints Nikolai Yudenich as the commander-in-chief of northwestern Russia"
+ ww1_nwa.5.d:0 "Alexander Kolchak, the so called supreme ruler of Russia has appointed Nikolai Yudenich as the commander-in-chief of all Russian armed forces operating against the bolsheviks in the Baltic Sea and in northwestern Russia. Nikolai Yudenich is a capable general with good reputation and he can also bring some aid and funds to our forces which we are really in need of."
+ ww1_nwa.5.a:0 "Why wouldn't we want such a good general to lead our forces?"
+ ww1_nwa.5.b:0 "No thanks, [NWA.GetLeader] is capable enough to lead our army"
+
+ ww1_nwa.6.t:0 "[NWA.getLeader] asks for help"
+ ww1_nwa.6.d:0 "[NWA.getLeader], the leader of [NWA.GetNameDef] has asked for some assistance in their campaign against the Red Army in Northwestern Russia. Giving them aid could help us by forcing [SOV.GetNameDef] to move more troops against them but on the other hand it could also weaken us because after all we are sending our equipment away."
+ ww1_nwa.6.a:0 "We should send some of our spare equipment to them."
+ ww1_nwa.6.b:0 "We aren't really in a position to help them"
+
+ ww1_nwa.7.t:0 "Peipsi flotilla defects to our enemy"
+ ww1_nwa.7.d:0 "Formed in september of 1915 in case of a further retreat of the 6th army the Peipsi Floatilla is a small naval detachment operating in the lake Peipsi. By the Beginning of 1917 the floatilla consisted of five steamships armed with guns of caliber less than 75 mm. After the arrest of the former commandr rear admiral Nikolai Nikolaevich Kolomeytsev and the Bolshevik revolution Dmitry Dmitrievich Nelidov was appointed as the leader of the floatilla. Recently Nelidov has decided to defect to the German side. He managed to convince half of his flotilla consisting of the ships Dolphin, Narodnik and President and their crews to defect with him."
+ ww1_nwa.7.a:0 "Those traitors should be shot"
+
+ ww1_nwa.8.t:0 "Petrograd captured"
+ ww1_nwa.8.d:0 "Few weeks ago when we started our operation we hoped that we would be able to capture Petrograd. Now this dream has came true and the capital of the now former Russian Empire has finally fallen to our troops. While this is a great victory to us and the whole white moment we are sure that the Bolsheviks won't give up. Because of that we have to start thinking our next move for which we have to realistic options either prepare to defend along the western bank of Volkhov river or to continue the offensive either to South towards  Moscow through Tver or to the North to reach the Arctic sea."
+ ww1_nwa.8.a:0 "We are now one step closer to the final victory!"
+
+ ww1_nwa.9.t:0 "Our offensive has been defeated"
+ ww1_nwa.9.d:0 "45 days ago we started our offensive towards Petrograd. We had been preparing for the offensive for a long time, but unfortunately we were unable to meet the goals of our offensive as Petrograd is still under Bolshevik control. Even though we weren't successful this doesn't mean an end to us as luckily our army wasn't completely destroyed sowe can still continue our war, but first we have to retreat and then reorganise and prepare our army so that we can try again once more."
+ ww1_nwa.9.a:0 "Was all this work and suffering for nothing?"
+
+ ww1_nwa.10.t:0 "Petrograd lost"
+ ww1_nwa.10.d:0 "Petrograd the birthplace of the revolution has been lost to [NWA.getNameDef]. This is a major defeat for the Red Army and a major blow for our morale. Regardless of that we still have to continue fighting so that the flame of the revolution can't be extinguished."
+ ww1_nwa.10.a:0 "Prepare a counterattack immediately!"
+
+ ww1_nwa.11.t:0 "Successful defence near Petrograd"
+ ww1_nwa.11.d:0 "45 days ago [NWA.GetNameDef] started their offensive towards Petrograd at first our troops were caught offguard by their offensive but after that our troops fiercely defended every meter and inflicted heaavy casualties to the invaders. After about 25 days the offensive lost most of it's momentum and thus slowed down "
+ ww1_nwa.11.a:0 "Glory to the mighty Red Army!"
+
+ ww1_nwa.12.t:0 "Demands from Frank G. Marsh"
+ ww1_nwa.12.d:0 "Frank G. Marsh the assistant of Lieutenant general Hubert Gough the Chief of the Allied Military Mission to the Baltic sent earlier today a demand to [NWA.GetLeader]. The demand orders us to start gathering possible people to form a government which would be temporarily in charge of the Northwestern Areas of Russia excluding the Baltic states. In his letter Marsh says that if the government isn't established within 20 days the Entente will stop their aid to our army."
+ ww1_nwa.12.a:0 "We have to weigh our options carefully"
+ ww1_nwa12_tt:0 "§RIf the Entente pulls out their assistance Estonia and Latvia will also most likely stop supporting us.§!"
+
+ ww1_nwa.13.t:0 "Question of Finnish Independance"
+ ww1_nwa.13.d:0 "Finland is one and propably the most powerful of the Baltic states which broke away from the Russian rule after the revoultions. We have to decide our approach towards their independence because the Bolsheviks have already approved it and if we don't do so they most likely won't help us and instead stay neutral."
+ ww1_nwa.13.a:0 "Of course, we need their support."
+ ww1_nwa.13.b:0 "No they were and still are part of Russia."
+
+ ww1_nwa.14.t:0 "Question of Latvian and Lithuanian Independance"
+ ww1_nwa.14.a:0 "Of course, we need their support."
+ ww1_nwa.14.b:0 "Only Latvia deserves to be recognised"
+ ww1_nwa.14.c:0 "Only Lithuania deserves to be recognised"
+ ww1_nwa.14.d:0 "After we recognised the independence of Estonia some Latvian and Lithuanian politicians have asked us to do the same and for exchange they have promised to consider helping our cause. Now the time to finally decide our position regarding their independeces has came."
+ ww1_nwa.14.e:0 "No they were and still are part of Russia."
+
+ ww1_nwa.15.t:0 "[NWA.GetNameDef] recognises our independence."
+ ww1_nwa.15.d:0 "After a recent meeting of the leading members of [NWA.GetNameDef] [NWA.getLeader] the leader of [NWA.GetNameDef] has announced that he will recognise the independence of our country. Even though [NWA.GetNameDef] has recognised our independence not many other members of the Russian white movement are willing to recoginse it. But maybe now when one of them has done others will follow."
+ ww1_nwa.15.a:0 "Thanks, I guess?"
+
+ ww1_nwa.16.t:0 "[NWA.GetNameDef] doesn't recognise our independence."
+ ww1_nwa.16.d:0 "After a recent meeting of the leading members of [NWA.GetNameDef] [NWA.getLeader] the leader of [NWA.GetNameDef] has announced that he will not recognise the independence of our country."
+ ww1_nwa.16.a:0 "Why would we care when they're not even a legitimate govenrment."
+
+ ww1_nwa.17.t:0 "White Army in Pskov"
+ ww1_nwa.17.d:0 "Now when [GER.GetNameDef] has surrendered, the small Russian army we aided near Pskov has to survive without our help because according to the armistice we have to withdraw our forces even from the Eastern territories we gained in Brest-Litovsk."
+ ww1_nwa.17.a:0 "Good luck soldiers!"
+ ww1_nwa.17.b:0 "Death to Bolshevik scum! (Play as [NWA.GetFlag]Northern Corps)"
+
+ ww1_nwa.18.t:0 "Alexandr Rodzyanko appointed as commander of Northern Corps"
+ ww1_nwa.18.d:0 "Now when our offensive to Petrograd has finally begun General Johan Laidoner, the commander-in-chief of Estonian army has appointed Alexandr Rodzyanko as the leader of [NWA.GetNameDef], because Anton Dzerožinski wasn't ready to publicly recoginse the Estonian independence."
+ ww1_nwa.18.a:0 "In your service General!"
+
+ ww1_nwa.19.t:0 "Heinrich von Neff dismissed"
+ ww1_nwa.19.d:0 "Heinrich von Neff the commander of [NWA.getdef] has been dismissed by the leaders of the [EST.getAdjective] army for favoring Germans too much. Following the dismissal von Neff has been replaced by colonel Anton Fedorovich Dzerožinski."
+ ww1_nwa.19.a:0 "What now?"
+
+### South Russian Army ###
+ ww1_sra.32.t:0 "[FROM.getName] Asks for Help"
+ ww1_sra.32.d:0 "SRA asks us for help in the Russian Civil War. Should we help them?"
+ ww1_sra.32.a:0 "Of course!"
+ ww1_sra.32.b:0 "No"
+
+
+ ww1_sra.33.t:0 "[FROM.getName] Accepted"
+ ww1_sra.33.d:0 "[FROM.getName] has agreed to consider the idea of sending us equipment."
+ ww1_sra.33.a:0 "Good."
+
+ ww1_sra.34.t:0 "[FROM.getName] Refused"
+ ww1_sra.34.d:0 "[FROM.getName] refused to help us in any way."
+ ww1_sra.34.a:0 "Oh no..."
+
+ diplomatic_crisis_ALERT_TITLE:0 "A Political Crisis Begins!"
+ diplomatic_crisis_ALERT_DESC:0 "..."
+
+### МАРОККО ###
+ ww1_morocco.8.t:0 "Germany Demands Compensation"
+ ww1_morocco.8.d.forcongo:0 "After a tumultuous period of back and forth between us and the German Empire, Kaiser Wilhelm's demands have been received by our foreign minister. They outline that as compensation for the French annexation of Morocco, we must cede the French Congo to German colonial administration. This demand is not unreasonable, and we should prepare ourselves to accept them, to guarantee European peace even if the press continues to criticise our negotiations. However, should we refuse these demands, we need to mobilise ourselves and inform our allies.."
+
+ ww1_morocco.8.d.forsouthmorocco:0 "After a tumultuous period of back and forth between us and the German Empire, Kaiser Wilhelm's demands have been received by our foreign minister. They outline that as compensation for the French annexation of Morocco, we must cede southern Morocco to German Administration. This demand is not unreasonable, and we should prepare ourselves to accept them, to guarantee European peace even if the press continues to criticise our negotiations. However, should we refuse these demands, we need to mobilise ourselves and inform our allies."
+
+ ww1_morocco.8.d.forfreemorocco:0 "After a tumultuous period of back and forth between us and the German Empire, Kaiser Wilhelm's demands have been received by our foreign minister. They outline that as compensation for the French annexation of Morocco, we must cede release the protectorate of Morocco and leave the country. This demand is not unreasonable, and we should prepare ourselves to accept them, to guarantee European peace even if the press continues to criticise our negotiations. However, should we refuse these demands, we need to mobilise ourselves and inform our allies."
+
+ ww1_morocco.8.a:0 "Accept the demands in full"
+ ww1_morocco.8.b:0 "Suggest a compromise"
+ ww1_morocco.8.c:0 "Germany is in no position to demand anything!"
+ ww1_morocco.8.e:0 "They can have Southern Morocco"
+ ww1_morocco.8.f:0 "We must leave Morocco"
+
+ ww1_morocco.23.t:0 "Crisis brews in Morocco "
+ ww1_morocco.23.d:0 "Earlier this week French colonial forces received a plea for aid from the besieged Moroccan Sultan, French forces were more than obliged and soon the rebels that had laid siege to Fes in an attempt to depose the Sultan, had been scattered. It’s reported fighting is still occurring in the rural areas near Marrakech.\nHowever, the international community now fears what the German response to this shall be, with France moving to annex the region under the pretext of protecting European peoples, it is likely that the Kaiser will react with force and attempt to assert his own gains in Morocco. No response has been made public yet from Spain, Germany or the UK but it is without much doubt that this will spark a crisis. "
+ ww1_morocco.23.a:0 "No one can stop us"
+ ww1_morocco.23.b:0 "And the Algeciras conference?"
+ ww1_morocco.23.c:0 "Europe watches and waits "
+ ww1_morocco.23.e:0 "So, the French wish to test our commitment..."
+ ww1_morocco.23.f:0 "An excellent opportunity for the Spanish colonial empire!"
+
+ GER_decisions_agadir:0 "§YUnlocks Decisions to escalate the Morrocan crisis§!"
+
+
+ ww1_morocco.24.t:0 "Germany backs down"
+ ww1_morocco.24.d:0 "After France had moved in to annex the Sultanate of Morocco, the German empire had stationed the SMS Berlin in Agadir as a tactic to try and force concessions from the French. However, this caused disarray in Germany as the stock market plummeted by 30% and the Reichsbank lost a fifth of its gold reserves. In a dramatic response to try and stop Germany from being forced off the gold standard, the Kaiser's government has decided to back down and remove the SMS Berlin from Agadir.\n\nThis comes as a major embarrassment to the German nation, and someone in the German government is sure to be blamed, but for the French, this has been a lucky victory. Now that Germany has had to back down, they will be forced to negotiate with the French to resolve this crisis."
+ ww1_morocco.24.a:0 "Germany wouldn't dare demand much, right?"
+ ww1_morocco.24.b:0 "Perhaps we should show our support to the French..."
+
+ ww1_morocco.25.t:0 "A speech in Mansion House"
+
+ ww1_morocco.25.d.forcongo:0 "Earlier this week two things have come to the prime minister's attention, firstly, Germany has sent demands to France as a reaction to the crisis in Agadir which our foreign minister, Edward Grey, has informed him that they largely consist of German gains in the French Congo. The second matter, also related to the Agadir crisis, is a request from the Chancellor of the Exchequer David Lloyd George - he wants to announce in a speech at Mansion House in London, to members of parliament, that our position in Agadir is one that would be of one that would support France. Whilst this would not be said directly, Lloyd George would use the fact that Germany could gain a naval port in the Atlantic should they make further demands to frighten parliament to support France.\n\nHowever, parliament would still be divided between strict neutrality, and support of the French - there have even been efforts by Edward Grey to flatter Germany due to a large minority in parliament believing that France, as the aggressor, should not receive our support. "
+
+ ww1_morocco.25.d.forsouthmorocco:0 "Earlier this week two things have come to the prime minister's attention, firstly, Germany has sent demands to France as a reaction to the crisis in Agadir which our foreign minister, Edward Grey, has informed him that they largely consist of taking control of southern Morocco. The second matter, also related to the Agadir crisis, is a request from the Chancellor of the Exchequer David Lloyd George - he wants to announce in a speech at Mansion House in London, to members of parliament, that our position in Agadir is one that would be of one that would support France. Whilst this would not be said directly, Lloyd George would use the fact that Germany could gain a naval port in the Atlantic should they make further demands to frighten parliament to support France.\n\nHowever, parliament would still be divided between strict neutrality, and support of the French - there have even been efforts by Edward Grey to flatter Germany due to a large minority in parliament believing that France, as the aggressor, should not receive our support. "
+
+ ww1_morocco.25.d.forfreemorocco:0 "Earlier this week two things have come to the prime minister's attention, firstly, Germany has sent demands to France as a reaction to the crisis in Agadir which our foreign minister, Edward Grey, has informed him that they largely consist of releasing Morocco from any form of protectorate. The second matter, also related to the Agadir crisis, is a request from the Chancellor of the Exchequer David Lloyd George - he wants to announce in a speech at Mansion House in London, to members of parliament, that our position in Agadir is one that would be of one that would support France. Whilst this would not be said directly, Lloyd George would use the fact that Germany could gain a naval port in the Atlantic should they make further demands to frighten parliament to support France.\n\nHowever, parliament would still be divided between strict neutrality, and support of the French - there have even been efforts by Edward Grey to flatter Germany due to a large minority in parliament believing that France, as the aggressor, should not receive our support. "
+ ww1_morocco.25.a:0 "Allow David Lloyd George to make a speech at Mansion House "
+ ww1_morocco.25.b:0 "The PM follows a policy of neutrality "
+
+ ww1_morocco.26.t:0 "Negotiations with France "
+ ww1_morocco.26.d:0 "After the removal of the SMS Berlin from Agadir due to the financial crash our position in the Moroccan crisis has evolved to be an embarrassing one. In order to restore our prestige, the Kaiser is insistent that we open negotiations with the French in order to gain colonial concessions from them as per the initial invitation from the French foreign minister Joseph Caillaux.\n\nHowever, before we extend an offer to the French it should be first decided what our actual aims are - most of the foreign and colonial offices agree that we should rescind any claims in Morocco in exchange for the French Congo, however, we could push for control of southern Morocco, reparations from the French or perhaps we can convince the French to return Morocco to its pre-crisis state. "
+ ww1_morocco.26.a:0 "We must secure the French Congo"
+ ww1_morocco.26.b:0 "Demand southern Morocco "
+ ww1_morocco.26.c:0 "The French must leave Morocco"
+ ww1_morocco.26.e:0 "We should settle for reparations..."
+ ww1_morocco.26.f:0 "We should leave before we embarrass ourselves further..."
+
+
+ ww1_morocco.27.t:0 "A crisis averted "
+ ww1_morocco.27.d:0 "Much to the confusion of many diplomats, the German Empire has not reacted to the events in Morocco, seemingly avoiding a colonial crisis. The crisis in Agadir was sure to signify that war in Europe was inevitable, but with this radical change in policy from Germany, perhaps Europe may see peace yet? Alas, the United Kingdom criticised the French for their antagonistic policy, highlighting the UK's lack of commitment to their agreements to the Entente...\n\n "
+ ww1_morocco.27.a:0 "Peace in Europe"
+
+ ww1_morocco.28.t:0 "Germany Occupy Southern Morocco"
+ ww1_morocco.28.d:0 "Germany now occupy southern Morocco, lowering the tension in the region with a mutual agreement."
+ ww1_morocco.28.a:0 "Good"
+
+ ww1_morocco.29.t:0 "Rebellion Defeated"
+ ww1_morocco.29.d:0 "The army managed to stop a large part of the insurgent forces. The few remaining opponents are isolated and entrenched partisans in the Fez region, where we will have to intervene more in depth to obtain a total victory. Nevertheless, Morocco has been generally pacified and the establishment of a protectorate now seems possible."
+ ww1_morocco.29.a:0 "Good"
+
+ ww1_morocco.30.t:0 "France Remain Defiant"
+ ww1_morocco.30.d:0 "France has not responded to our legitimate requests. War seems inevitable and avoiding it would be seen as a huge act of weakness on our part."
+ ww1_morocco.30.a:0 "Then its war"
+
+ ww1_morocco.31.t:0 "France Defeated"
+ ww1_morocco.31.d:0 "French forces have called for a ceasefire, recognizing that the war in North Africa is not working to their advantage. Indeed, the Moroccan army entered Algeria and the great French colonial power was ridiculed. From now on, we can ask for generous compensation in exchange for this long-awaited peace."
+ ww1_morocco.31.a:0 "They might compensate us greatly."
+
+ ww1_morocco.32.t:0 "France Leave Morocco"
+ ww1_morocco.32.d:0 "French forces have called for a ceasefire, recognizing that the war in North Africa is not working to their advantage. Our fierce resistance forced the government of [FRA.GetLeader] to recognize our self-determination and thus decided to leave Morocco permanently."
+ ww1_morocco.32.a:0 "We survived!"
+
+ ww1_morocco.33.t:0 "France Defeated in Morocco"
+ ww1_morocco.33.d:0 "The French military intervention in Morocco did not bear these fruits. Sultan Yusef, having requested help from Paris to put down rebellions around Fez, was unable to rally his people, provoking a large uprising that the French themselves were unable to put down. Despite a special military operation with ample resources, France was unable to defeat rebellious Morocco."
+ ww1_morocco.33.a:0 "Grhhh..."
+ ww1_morocco.33.b:0 "We didnt even had to intervene!"
+ ww1_morocco.33.c:0 "What a shame for France."
+ ww1_morocco.33.e:0 "Is France THAT weak ?"
+ ww1_morocco.33.f:0 "We should be careful with our colonies in Morocco..."
+
+ MOR_reclaim_lands:0 "Reclaims [ROOT.getAdjective] Lands to [FROM.getName]"
+ ww1_morocco.34.t:0 "Morocco Reclaims our Colonies"
+ ww1_morocco.34.d:0 "Morocco, recently freed from all French influence, turned to us asking for the restitution of the colonies that we installed on their territory. Accepting such a proposal would be a clear loss of prestige, but knowing that a notable power like France did not obtain victory questions Morocco's abilities to fight large colonial empires."
+ ww1_morocco.34.a:0 "We should accept..."
+ ww1_morocco.34.b:0 "We wont step down!"
+
+ ww1_morocco.35.t:0 "[FROM.getName] Refuses"
+ ww1_morocco.35.d:0 "The [FROM.get Adjective] government has not been receptive to our demands, underestimating our ability to fight to recover our lands."
+ ww1_morocco.35.a:0 "Noted."
+
+ ww1_morocco.36.t:0 "[FROM.getName] Accepts!"
+ ww1_morocco.36.d:0 "The [FROM.get Adjective] government has been receptive to our requests. The local authorities have already started the administrative handover and our international prestige has been restored!"
+ ww1_morocco.36.a:0 "Noted."
+
+ ww1_morocco.38.t:0 "[FROM.getName] Asks for a Loan"
+ ww1_morocco.38.d:0 "Plunged into a deep economic crisis, Morocco has officially sent us a request for debt support. The sultanate is no longer able to pay the IFC, nor to invest in the country, which paralyzes their economy. Our interests in Morocco push us to accept such a request, because it will allow us to increase our influence on the country."
+ ww1_morocco.38.a:0 "Give them 100 millions francs"
+ ww1_morocco.38.b:0 "Weakening Morocco is our real objective"
+
+ ww1_morocco.39.t:0 "[FROM.getAdjective] Governement Accepted!"
+ ww1_morocco.39.d:0 "The minister [FROM.getLeader] agreed to grant us a loan of 100 million gold francs in exchange for the concession of our customs service, which was a predictable request from the [FROM.getAdjective] authorities."
+ ww1_morocco.39.a:0 "Its better than nothing"
+
+ ww1_morocco.40.t:0 "[FROM.getAdjective] Governement Refused!"
+ ww1_morocco.40.d:0 "Despite sending talented negotiators, France refused to grant us a loan or any aid. Not only were we humiliated by asking them to take over our debt, but we also got nothing."
+ ww1_morocco.40.a:0 "Damn..."
+
+ ww1_morocco.41.t:0 "\"Darija\" Tertib"
+ ww1_morocco.41.d:0 "The tertib is a form of tax intended to replace the Islamic taxes Zakkat and Achour. These ancient tributes date from the Middle Ages and had a sacred character consistent with Islam. It was therefore only with the support of the Caids and the entire Makhzen that the Sultan was able to carry out such a reform.\n\n This tertib is more egalitarian and removes the local caids from his perception. It is a kind of tax on the arable land, livestock and fruit trees of each household which eliminates the canonical taxes that the subject populations agree to pay to the Sultan."
+ ww1_morocco.41.a:0 "The best for everyone"
+
+ ww1_morocco.42.t:0 "Famine Hits Countryside"
+ ww1_morocco.42.d:0 "A great famine affects the Sahel due to poor harvests. This ordeal also affects our most rural regions, which risks further weakening our position."
+ ww1_morocco.42.a:0 "We cant do anything about it..."
+
+ ww1_morocco.43.t:0 "Excavation Concession Question"
+ ww1_morocco.43.d:0 "Morocco is not in a position to launch a prospecting mission with the current economic crisis. If we want to exploit our soil, we must turn to foreign players. Initial surveys indicate that the French and Germans are interested in carrying out research missions, in exchange for industrial exploitation rights. We could accept both partners, or only accept one, at the risk of slowing down our economy even further."
+ ww1_morocco.43.a:0 "Accept both missions"
+ ww1_morocco.43.b:0 "Accept French mission"
+ ww1_morocco.43.c:0 "Accept German mission"
+
+ ww1_morocco.44.t:0 "Fierce Opposition to Centralization Reform"
+ ww1_morocco.44.d:0 "The major tax reform ordered by [MOR.getLeader] and led by the El Mokri and Glaoui families has caused the exacerbation of tensions across the country, more particularly in the surrounding areas of Fez and Meknes. Already outraged by the excesses but also the failure of the military reform introduced by the Sultan in 1910, the Amazigh and Arab tribes of these two regions take a dim view of the exactions and abuses inflicted on them by Thami El Glaoui during the collection of taxes.\n\nThe situation becomes all the more untenable as the exactions committed by Glaoui's agents take on alarming proportions, not even sparing the tribes which were once exempted from paying taxes due to their status as suppliers of soldiers to the sultan's army, as was the case with the Cherarda tribe."
+ ww1_morocco.44.a:0 "Let them strike!"
+ ww1_morocco.44.b:0 "Suspend the reform"
+
+ ww1_morocco.45.t:0 "Financing the Reform"
+ ww1_morocco.45.d:0 "The military reform proposed by [MOR.getLeader] requires significant funds that must be drawn from somewhere. We could make an amendment to the budget, but it will damage our economy. Otherwise, we can overtax the Caïds, which will have little impact on our budgetary balance."
+ ww1_morocco.45.a:0 "Tax the Caïds"
+ ww1_morocco.45.b:0 "Amend the Budget"
+
+ ww1_morocco.46.t:0 "Caïds Opposes the new Taxes"
+ ww1_morocco.46.d:0 "The new tax implemented as part of the military reform project does not please the rural regions of the Anti-Atlas and Sousse in general. The local Caïds refuse to enter the country and show great distrust towards the authority of the Sultan. This lack of funds prevents the reform from being financed and therefore from being applied. Armed prospectors were sent with the support of the Glaoua family."
+ ww1_morocco.46.a:0 "We need money!"
+
+
+ ww1_morocco.50.t:0 "Izayan Loyalty Question"
+ ww1_morocco.50.d:0 "Middle Atlas Moutains are populated by several tributes of feared fighters. The latter all applied a transit tax to goods and enjoyed a great deal of autonomy before the [MOR.getLeader] reforms. Today, a large part of them, including the Mohas, Hemmous and the Izayans, are waging a hidden war against the central authority. They refuse to pay taxes and hide in the mountains, attacking convoys.\n\nTo reestablish the loyalty of these clans, Caïd Thami Aglaou of Marrakech was sent to talk to find out the demands of the local tributes.\n\nThe conditions for renewing their allegiance are simple: The authorization to levy a Nzala tax despite the recent regulation, but also the sacralization of their autonomy in the region. We could accept and enjoy their support, or simply stabilize the situation so that they do not rebel against our authority."
+ ww1_morocco.50.a:0 "Grant them what they want"
+ ww1_morocco.50.b:0 "We dont need them, maintain cordial relations"
+
+ ww1_morocco.51.t:0 "Call to Chaouia Caïds"
+ ww1_morocco.51.d:0 "The rich and fertile region of Chaouia, close to Casablanca, has always been a coveted place of power. Our reform of the army, the regained influence of the Makhzen and the French interventions from 1907 to 1909 helped ensure the loyalty of these powerful Caids. In short, we had no trouble mobilizing them, even if they were seriously lacking in equipment..."
+ ww1_morocco.51.a:0 "They will serve us well!"
+
+ ww1_morocco.52.t:0 "High-Sous Arbitrage"
+ ww1_morocco.52.d:0 "Since the spring of 1910, the Marrakech region has been plunged into a conflict of influence and loyalty which threatens the stability of the entire Souss. Pasha Thami Aglaou fails to control his local lords, powerful Caids from the Haida and Mouais tribes. This situation causes the cessation of the collection of taxes, attacks on convoys and a constant defiance of the central authority.\n\nThis resistance to Pasha is not unfounded, the insurgent tribes were motivated by Taïeb el Goundafi, a pretender to the title of Pasha, under the pretext that Thami Aglaou would benefit his tribe, the Igliouas, to the detriment of local order, which would be a case of corruption proven.\n\nThe Aglaou family has always been loyal to the central authority, but we could give el Goundafi a chance by taking his testimony and that of the insurgents as the strict truth."
+ ww1_morocco.52.a:0 "Reaffirm Aglaous's authority"
+ ww1_morocco.52.b:0 "Appoint Taïeb el Goundafi as pacha of Marrakech"
+
+ ww1_morocco.53.t:0 "Self-Determination in Extreme-Sous and Atlas"
+ ww1_morocco.53.d:0 "The south of the country, dominated by the Atlas Mountains, is difficult to access, which left local tributes in almost total autonomy for several centuries. The unification of Morocco was completed in 1882 with the annexation of the autonomous territory of Sidi Hachim by Moulay Hassan I. Since then, the influence of central power has declined, in particular because of the economic crisis and the internal battle for control of the Sultanate.\n\nThis delicate situation has revived local independence, particularly in the Sub-Extreme, with memories of the prosperous kingdom of Tazeroualt returning to local discourse. In order to calm things down, we could grant relative autonomy in these regions, also in the High Atlas. Otherwise, we could authorize Sidi Mohamed to take control of the historic region of Tazeroualt in order to rebuild a kingdom there that would be submissive and faithful to us."
+ ww1_morocco.53.a:0 "Give them increased autonomy"
+ ww1_morocco.53.b:0 "Let's trust Sidi Mohamed"
+
+ ww1_morocco.54.t:0 "Jihad Sultan"
+ ww1_morocco.54.d:0 "During a meeting of Viziers and Caïds, the Sultan [MOR.getLeader] reaffirmed his desire not to fall under the control of the French, he thus outlined a plan aimed at stabilizing the country and making it neutral from any external influence. The speech is nuanced, it does not completely exclude foreign investments, but intends to limit and condition them. The country's policy would therefore be more pragmatic, in particular thanks to the economic development of the southern regions.\n\nThis intervention, coupled with the relatively well-prepared reform on the army, gives hope to the administrators of the Sous and the Atlas, who hope to receive funding and recognition of their autonomy."
+ ww1_morocco.54.a:0 "We will reform the country"
+
+ ww1_morocco.55.t:0 "Treaty of Fès"
+ ww1_morocco.55.d:0 "The Sultan [MOR.getLeader] signed a protectorate agreement with France, subjugating Morocco which lost much of its sovereignty. This treaty follows a series of social, economic and military crises that the Cherifian empire was unable to confront with the constant assistance of France.\n\nDejected and submissive, Morocco has since then only enjoyed a facade of independence, which is definitively erased by the signing of this agreement."
+ ww1_morocco.55.a:0 "A new french colony"
+ ww1_morocco.55.b:0 "Finaly"
+ ww1_morocco.55.c:0 "Concerning"
+
+ ww1_morocco.56.t:0 "[MOR.getLeader] Abdicates"
+ ww1_morocco.56.d:0 "[MOR.getLeader] announced that he would abdicate his title of Sultan, torn by remorse and the weight of the dissolution of Morocco's independence under his reign. After a series of failed reforms and total Francophile subjugation, the Sultan admitted his incompetence, threatening suicide if he was not allowed to leave the throne.\n\nThe line of succession is very clear, his successor is his brother: Moulay Youssef."
+ ww1_morocco.56.a:0 "Please, dont kill yourself"
+ ww1_morocco.56.b:0 "You should kill yourself"
+
+ ww1_morocco.57.t:0 "Ahmed al-Hiba Rebellion"
+ ww1_morocco.57.d:0 "The signing of the Treaty of Fez was a significant subject of revolt within Morocco. The loss of sovereignty of the Sultan, himself who considered himself anti-French, was perceived as a great betrayal among the tribes. In the south, many clans rose up by mutual agreement, bringing together the peoples of Tiznit, Tafraout, Taroudant, the anti Atlas, the Atlas... In short, the south of the entire country.\n\nThis improbable coalition is led by several influential warlords like Si Madani or Addi Ou Ahmed. These troops are working to overthrow the sultan [MOR.getLeader] and replace him with Ahmed al-Hiba, a Moorish religious leader recognized as Sultan by the tributes allied in Marrakech.\n\nThis situation is difficult, it is a real reconquest operation that will have to be carried out in the mountains and Sousse."
+ ww1_morocco.57.a:0 "Send the tirailleurs!"
+ MOR_rebels_declare_war:0 "§R§YMoroccan Rebels§! are attacking from the south of Morocco§!"
+
+ ww1_morocco.58.t:0 "Agitation in Southern Morocco"
+ ww1_morocco.58.d:0 "A clear agitation of the tributes of Sousse, Atlas and anti-Atlas was noticed in the country, following the signing of the Treaty of Fez. It appears that the clans are increasing their activity and may launch an operation to overthrow the protectorate."
+ ww1_morocco.58.a:0 "We need troops in Morocco"
+ MOR_rebels_declare_war_soon:0 "§R§YMoroccan Rebels§! may attack from the south of Morocco, you should gather §Y[FRA.getFlag][FRA.getAdjective] troops§! there!§!"
+ tt_cant_join_faction:0 "§RCannot join factions§!"
+
+ ww1_morocco.59.t:0 "War in Europe"
+ ww1_morocco.59.d:0 "The war that France is waging in Europe has provoked the call of Moroccan riflemen. Consequently, we are de facto involved in the ongoing conflict and must provide assistance to France."
+ ww1_morocco.59.a:0 "Its war, then"
+
+### ВІРМЕНІЯ ###
+ ww1_armenia.1.t:0 "Armenian Resistance in Zangezur Mountains"
+ ww1_armenia.1.d:0 "The Dashnak-dominated Armenian National Council declared the independence of Armenia and signed the Treaty of Batum, by which Armenia gave up its rights to Western Armenia. But an Armenian general, Andranik Ozanian refused to accept the existence of [ARM.GetNameDef] because it included only a small part of the area many Armenians hoped to make independent. Andranik, independently from [ARM.GetNameDef], went to Zangezur against the Azerbaijani and Turkish armies, and started to help to keep it within Armenia."
+ ww1_armenia.1.a:0 "Annoyance..."
+ ww1_armenia.3.t:0 "Treaty of Alexandropol"
+ ww1_armenia.3.d:0 "Armenia is no longer able to focus on the war effort against our might. We can take former-Ottoman lands in peace, but also we can proceed to annex them at all."
+ ww1_armenia.3.a:0 "Let's focus on the west."
+ ww1_armenia.3.b:0 "Did you say "Armenian"?"
+ treaty_of_alexandropol:0 "Treaty of Alexandropol has been signed"
+ treaty_of_alexandropol_failed:0 "Turkish Nationalists has rejected the Armenian sue for peace"
+ ww1_armenia.4.t:0 "Armenian [GetMonth] Uprising"
+ ww1_armenia.4.d:0 "In response to our guiding rule based on [ROOT.GetRulingIdeology], reactionaries in Armenia staged an uprising. The garrison troops crushed the uprising, but some of them fled to the mountains and declared an independent Armenian government called the Republic of Mountainous Armenia."
+ ww1_armenia.4.a:0 "Mountainous?"
+
+# MONACO
+ ww1_monaco.1.t:0 "New Constitution"
+ ww1_monaco.1.d:0 "Monaco was torn apart by the revolution that began in March 1910. Faced with serious problems, with no agricultural land or factories and high unemployment, the people took to the streets in protest, with delegates demanding a constitution and a parliament, and threatening to overthrow the monarchy and establish a republic if they were not granted.\nEventually the Prince gave in to the demands and Monaco became a constitutional monarchy."
+
+# SENUSSIA
+ ww1_libya.1.t:0 "Ahmed Sharif Abdicates"
+ ww1_libya.1.d:0 "Weakened by his defeat, Ahmed Sharif as-Senussi concedes the leadership of the Senussi order to his young cousin Mohammed Idris, who is open to the negotiations with the imperialists."
+ ww1_libya.1.a:0 "Inshallah."
+ LBA_modus_vivendi_of_acroma:0 "Modus vivendi of Acroma"
+ ww1_libya.2.t:0 "Tripolitanian Civil War"
+ ww1_libya.2.d:0 "The death of Ramadan Asswehly, one of the Walis of [TRP.GetNameDef], sparked a civil war. The unstable republic is crumbling..."
+ ww1_libya.2.a:0 "It's time to expand colony."
+ ww1_libya.3.t:0 "Autonomous Cyrenaica?"
+ ww1_libya.3.d:0 "In the Great War, we fought a war with the Senussiya to secure Cyrenaica, but it didn't end well. They're practically ruling the Cyrenaica province, so we might as well just offer it to them to become our autonomous protectorate, giving [LBA.GetLeader] the title of the Emir of Cyrenaica."
+ ww1_libya.3.a:0 "Suggest him that one."
+ ww1_libya.3.b:0 "No need."
+ ww1_libya.4.t:0 "Autonomous Emirate?"
+ ww1_libya.4.d:0 "The Italian government had failed to conquer us to expand the colony in Cyrenaica, but now they instead offered us the position of Emir of Cyrenaica and to become the de facto autonomous ruler of the Cyrenaica province. We may have won the battles so far, but in the long run this may be the better option..."
+ ww1_libya.4.a:0 "Alright, sounds fair."
+ ww1_libya.4.b:0 "Can't trust 'em."
+ accord_of_alrajma:0 "Accord of al-Rajma"
+
+### БУТАН ###
+ ww1_bhutan.1.t:0 "Ugyen Wangchuck Died!"
+ ww1_bhutan.1.d:0 "King Ugyen died at Thinley Rabten Palace in Wangdue Phodrang in the lap of his eldest son. Before his demise he sent large donations to the Central Monastic Body in Punakha and asked his remains to be cremated at the Kurjey Lhakhang in Bumthang."
+ ww1_bhutan.1.a:0 "Jigme Wangchuk is the new Dragon King!"
+
+### ТИБЕТ ###
+ ww1_tibet.1.t:0 "The Dalai Lama Adopts a New Flag"
+ ww1_tibet.1.d:0 "The Dalai Lama decided he wanted a Tibetan national flag made, and designed it himself and all army regiments were ordered to carry the new flag."
+ ww1_tibet.1.a:0 "Snow Lion Flag."
+ ww1_tibet.2.t:0 "13th Dalai Lama Died!"
+ ww1_tibet.2.d:0 "The 13th Dalai Lama propprophesized before dying: Very soon in this land deceptive acts may occur from without and within. At that time, if we do not dare to protect our territory, our spiritual personalities including the Victorious Father and Son may be exterminated without trace, the property and authority of our Lakangs and monks may be taken away. Moreover, our political system, developed by the Three Great Dharma Kings will vanish without anything remaining. The property of all people, high and low, will be seized and the people forced to become slaves. All living beings will have to endure endless days of suffering and will be stricken with fear. Such a time will come."
+ ww1_tibet.2.a:0 "We will await your reincarnation!"
+
+### САН-МАРІНО ###
+ ww1_san_marino.1.t:0 "Assension of Giuliano Gozi!"
+ ww1_san_marino.1.d:0 "San Marino had been close to a civil war in, with Socialist red forces on one side, and Christian Democratic white forces on the opposite side together with the Conservatives. The situation was so explosive that the government introduced a six-month censorship, and called a carabinieri garrison to restore order, while Fascist brigades from Italy entered San Marino without invitation. The old Council was forcibly disbanded by Italy, and a snap election was consequently called. Fascist threats obtained their goal: the Socialist Party did not take part to the election and a sole, centre-right list called Patriotic Bloc ran undisputed. The Bloc was obviously dominated by the Sammarinese Fascist Party, which obtained the majority of seats together with their puppets Volunteers of War. The turnout was very low, with leftist electors boycotting the vote.\nTwenty-nine year old Giuliano Gozi became the first Fascist Captain Regent. The party political program was to dismantle all democratic reforms of the Meeting of 1906, and to emulate the Italian regime."
+ ww1_san_marino.1.a:0 "End of democratic tradition..."
