@@ -1,110 +1,187 @@
 ﻿l_english:
-  SE_TEST_T:0 "))))"
-  SE_TEST_D:0 "\nБрат.\n- Ахмет Самет"
-  SE_TEST_A:0 "((((("
-  
-  SE_WAR_OF_THE_WORLDS_T:0 "Війна Світів"
+  SE_TEST_T: "))))"
+  SE_TEST_D: "\nBruh.\n(Ahmet Samet)"
+  SE_TEST_A: "((((("
+
+  SE_WAR_OF_THE_WORLDS_T: "Війна світів"
   SE_WAR_OF_THE_WORLDS_D:0 "\n\n\n'Це не війна, це ніколи не було війною, як і війна між людиною та мурахами.'\n- Артилерист"
   SE_WAR_OF_THE_WORLDS_A:0 "Шанси були мільйон до одного..."
-  
-  SE_BATTLE_OF_VERDUN_T:0 "Битва при Вердені"
-  SE_BATTLE_OF_VERDUN_D:0 "\n\n "Верден - символ і вершина Великої Війни. Можливо, це єдине ім'я, яке переживе забуття століть."\n- Гай Петрончіні"
-  SE_BATTLE_OF_VERDUN_A:0 "Вони не пройдуть!"
-  
-  SE_great_war_T:0 "Велика війна"
-  SE_great_war_D:0 "Tuba mirum spargens sonum,\nPer sepulchra regionum,\nCoget omnes ante thronum.\n\nMors stupebit et natura,\nCum resurget creatura,\nJudicanti responsura."
-  SE_great_war_A:0 "Війна, що покладе край усім війнам"
 
-  SE_great_depression_T:0 "Велика депресія"
+  SE_BATTLE_OF_VERDUN_T: "Верденська битва"
+  SE_BATTLE_OF_VERDUN_D:0 "\n\n"Верден - символ і вершина Великої Війни. Можливо, це єдине ім'я, яке переживе забуття століть."\n- Гай Петрончіні"
+  SE_BATTLE_OF_VERDUN_A: "Вони не пройдуть!"
+
+  SE_great_war_T: "Велика війна"
+  SE_great_war_D:0 "Tuba mirum spargens sonum,\nPer sepulchra regionum,\nCoget omnes ante thronum.\n\nMors stupebit et natura,\nCum resurget creatura,\nJudicanti responsura."
+  SE_great_war_A: "Війна, що покладе кінець усім війнам."
+
+  SE_great_depression_T: "Велика депресія"
   SE_great_depression_D:0 "\n\n'Банк - це щось більше, ніж люди, кажу я вам. Це монстр. Люди створили його, але вони не можуть його контролювати.'\n- Джон Стейнбек"
   SE_great_depression_A:0 "Єдине, чого ми повинні боятися, - це сам страх."
-  
+  #Arab
+  SE_arab_revolt_T: "Велика арабська революція"
+  SE_arab_revolt_D:0 "\n"I do not care if the presidency were in the hands of a Syrian, and Iraqi, a Najdi or whoever. The goal is that the people of this nation become independent and united."\n- Sharif Hussien"
+  SE_arab_revolt_A: "Ўатані хабібі, аль-ўатан аль-акбар."
+  #Greece
+  SE_gre_schism_T: "Фессалоніцька держава" # (&?)
+  SE_gre_schism_D:0 "\n"Greece expects you not merely to die for her, for that is little, indeed; she expects you to conquer. That is why each one of you, even in dying, should be possessed by one thought alone - how to conserve your strength to the last so that those who survive may conquer."\n- Elefthérios Venizélos"
+  SE_gre_schism_A: "Зíто о Ефнáрхіс!"
+
+  SE_burning_of_smyrna_T: "Різанина у Смірні"
+  SE_burning_of_smyrna_D:0 "\n\n"At last we've uprooted the Greeks..."\n- Mustafa Kemal Pasha"
+  SE_burning_of_smyrna_A: "І Смíрні мáна кéгете..."
+
+  SE_balkan_war_1_T: "Балканська війна"
+  SE_balkan_war_1_D:0 "\n"One day the great European War will come out of some damned foolish thing in the Balkans."\n- Otto von Bismarck"
+  SE_balkan_war_1_A: "Salonique à tout prix!"
+
+  SE_balkan_war_2_T: "Друга Балканська війна"
+  SE_balkan_war_2_D:0 "\n"We are used to thinking that the ruling circles know some special art of management, calculation and foresight, and when it turns out that reckless frivolity and self-confident stupidity reign at the top, always amazes."\n- Leon Trotsky"
+  SE_balkan_war_2_A: "Чи може Болгарія виграти самотужки?"
+
+  SE_gre_byzantium_T: "Відродження Східного Риму"
+  SE_gre_byzantium_D:0 "\n\n"Constantine built her, Constantine lost her, Constantine will take her back.""
+  SE_gre_byzantium_A: "Зíто о Афтокрáтор!"
+
+  SE_greeko_turkish_war_T: "Греко-турецька війна"
+  SE_greeko_turkish_war_D:0 "\n\"Greece is not making war against Islam, but against the anachronistic Ottoman Government, and its corrupt, ignominious, and bloody administration, with a view to expelling it from those territories where the majority of the population consists of Greeks."\n- Elefthérios Venizélos"
+  SE_greeko_turkish_war_A: "Стін Áнґіра!"
+
+  SE_balkan_fed_T: "Балкани об'єднуються"
+  SE_balkan_fed_D:0 "\n\"There are seven and a half million South Slavs who, as a result of the victories in the Balkans, have grown bolder than ever in demanding their political rights."\n-Leon Trotsky"
+  SE_balkan_fed_A: "Зíто і Енóтіта!"
+
+
   #Britain
   SE_ENG_REPUBLIC_T:0 "Британська Республіка"
   SE_ENG_REPUBLIC_D:0 "'Кілька століть тому один король, який повстав проти простих людей того часу, втратив голову - справді втратив її. Пізніше одному з його нащадків було наказано забиратися якомога швидше. Відтоді Королі й Королеви були такими, якими вони мають бути. Вони ніколи не втручалися у звичайну політику, і Георгу V варто було б зараз тримати руку подалі від пирога.'\n- Джордж Ленсбері"
   SE_ENG_REPUBLIC_A:0 "Боже, бережи людей"
- 
+
   SE_eng_kitchener_T:0 "Кітченер відновлює порядок"
   SE_eng_kitchener_D:0 "\n'Притулившись спиною до стіни і вірячи в справедливість нашої справи, кожен з нас повинен боротися до кінця.'\n- Дуглас Гейг"
-  SE_eng_kitchener_A:0 "Ви потрібні вашому королю і країні"
+  SE_eng_kitchener_A:0 "Ви потрібні королю і країні"
 
   SE_eng_george_v_T:0 "Георг V стверджує королівську прерогативу"
-  SE_eng_george_v_D:0 "\n\n\n'Свобода народу посилює прерогативу короля, а прерогатива короля - захищати свободи народу.'\n\n- Карл I"
+  SE_eng_george_v_D:0 "\n\n'Свобода народу посилює прерогативу короля, а прерогатива короля - захищати свободи народу.'\n\n- Карл I"
   SE_eng_george_v_A:0 "З волі Його Величності"
 
   SE_eng_imperial_federation_T:0 "Створення Імперської Федерації"
   SE_eng_imperial_federation_D:0 "\n\n'Ті, хто знає тільки Англію, не знають Англії.'\n- Редьярд Кіплінг"
-  SE_eng_imperial_federation_A:0 "Імперія, над якою ніколи не заходить сонце"
-  
+  SE_eng_imperial_federation_A:0 "Над імперією не заходить сонце"
+
   SE_eng_fall_of_america_T:0 "Падіння Америки"
-  SE_eng_fall_of_america_D:0 "\n\n "Я задоволений тим, що одна активна кампанія... спалення двох-трьох їхніх міст все налагодить."\n-Джон Піткерн"
-  SE_eng_fall_of_america_A:0 "Британці прийшли."  
-  
+  SE_eng_fall_of_america_D:0 "\n\n"Я задоволений тим, що одна активна кампанія... спалення двох-трьох їхніх міст все налагодить."\n-Джон Піткерн"
+  SE_eng_fall_of_america_A:0 "Британці прийшли."
+
   #Russia
-  SE_FEBRUARY_REVOLUTION_T:0 "[GetMonth] Революція"
+  SE_FEBRUARY_REVOLUTION_T: "Революція [GetMonth]"
   SE_FEBRUARY_REVOLUTION_D:0 "\n\n\n'Навколо мене зрада, боягузтво і обман...'\n- Микола II"
-  SE_FEBRUARY_REVOLUTION_A:0 "Земля і свобода"
-  
-  SE_OCTOBER_REVOLUTION_T:0 "Більшовицький переворот"
+  SE_FEBRUARY_REVOLUTION_A: "Земля та свобода."
+
+  SE_OCTOBER_REVOLUTION_T: "Більшовицький переворот"
   SE_OCTOBER_REVOLUTION_D:0 "\n'Люди, які вихвалялися, що вони здійснили революцію, на наступний день завжди бачили, що вони й гадки не мають, що вони роблять, що зроблена революція ні в найменшій мірі не схожа на ту, яку вони хотіли б здійснити.'\n- Фрідріх Енгельс"
-  SE_OCTOBER_REVOLUTION_A:0 "Вся влада Радам"
-  
-  SE_rus_civil_war_winner_white_T:0 "Перемога Білої Армії"
+  SE_OCTOBER_REVOLUTION_A: "Вся власть советам."
+
+  SE_rus_civil_war_winner_white_T: "Перемога Білої армії"
   SE_rus_civil_war_winner_white_D:0 "\n\n\n'У свідомості чесних російських людей щастя Батьківщини не може бути придбано шляхом її розчленування.'\n- Антон Денікін"
-  SE_rus_civil_war_winner_white_A:0 "Єдина і Неподільна"
-  
-  SE_rus_civil_war_winner_red_T:0 "Перемога Червоної Армії"
+  SE_rus_civil_war_winner_white_siberia_D:0 "\n\n"There can be no defeat - there can only be temporary setbacks."\n- Aleksandr Kolchak"
+  SE_rus_civil_war_winner_white_A: "Єдині та неподільні."
+
+  SE_rus_civil_war_winner_red_T: "Перемога Червоної армії"
   SE_rus_civil_war_winner_red_D:0 "\n\n\n'Якщо ми не готові розстріляти диверсанта і білогвардійця, то що це за Революція? Нічого, крім розмов і миски каші.'\n- Володимир Ленін"
-  SE_rus_civil_war_winner_red_A:0 "Пролетарі всіх країн, об'єднуйтеся!"
-  
-  SE_rus_savinkov_revolution_T:0 "Друга російська революція"
+  SE_rus_civil_war_winner_red_A: "Пролетарі всіх країн, єднайтеся!"
+
+  SE_rus_civil_war_winner_eser_T: "Перемога есерів"
+  SE_rus_civil_war_winner_eser_D:0 "\n\n"The word “Utopia” has received a contemptuous connotation from us. This is not entirely fair."\n- Viktor Chernov"
+  SE_rus_civil_war_winner_eser_A: "Земля та свобода."
+
+  SE_rus_savinkov_revolution_T: "Друга Російська революція"
   SE_rus_savinkov_revolution_D:0 "'І коли він зняв четверту печатку, я почув голос четвертого звіра, який говорив: підіть і подивіться. Я подивився і побачив блідого коня, вершника якого звали Смерть. І Пекло пішло за ним. Їм була дана влада вбивати чверть землі, вбивати мечем, голодом, виразкою і звірами земними.'\n- Одкровення 6:7-8"
-  SE_rus_savinkov_revolution_A:0 "Свобода або смерть!"
-  
+  SE_rus_savinkov_revolution_A: "Свобода або смерть!"
+
   ######
-  SE_mex_revolution_T:0 "Мексиканська революція"
+  SE_mex_revolution_T: "Мексиканська революція"
   SE_mex_revolution_D:0 "\n'Країною має керувати той, хто справді любить свій народ і свою землю, хто розділяє багатство і прогрес. У мене є все це, тільки те, що я неосвічений.'\n- Панчо Вілья"
-  SE_mex_revolution_A:0 "Tierra Y Libertad"
+  SE_mex_revolution_A: "¡Tierra y Libertad!"
 
   #China
-  SE_chi_xinhai_revolution_T:0 "Сіньхайська революція"
+  SE_chi_xinhai_revolution_T: "Сіньхайська революція"
   SE_chi_xinhai_revolution_D:0 "\n\n\n'Якщо ідея революції має перемогти, то це повинно відбутися через політичну просвіту. Марно намагатися нав'язати її силою зброї.'\n- Сунь Ятсен"
-  SE_chi_xinhai_revolution_A:0 "Mínzú! Mínquán! Mínshēng!"
+  SE_chi_xinhai_revolution_A: "Міньцзу! Міньцюань! Міньшен!"
 
   SE_chi_warlord_era_T:0 "Епоха воєначальників"
   SE_chi_warlord_era_D:0 "\n\n\n'Країні не потрібно турбуватися про бідність і слабкість, але якщо національна мораль буде втрачена, країна, безумовно, завалиться і стане невиліковною.'\n\n- Юань Шикай"
   SE_chi_warlord_era_A:0 "Bù jìn cháng jiāng gǔn gǔn lái."
-  
-  #####
-  SE_bul_bw2_winner_T:0 "Болгарія перемогла"
-  SE_bul_bw2_winner_D:0 "\n\n\n'Давайте відкинемо наші дрібні амбіції і розбіжності і принесемо себе в жертву на вівтар нашої Вітчизни!"\n- Стефан Стамболов"
-  SE_bul_bw2_winner_A:0 "Народження гегемона."
 
   #####
-  SE_ger_nazi_T:0 "Підйом нацизму"
+  SE_bul_bw2_winner_T: "Перемога Болгарії"
+  SE_bul_bw2_winner_D:0 "\n\n\n'Давайте відкинемо наші дрібні амбіції і розбіжності і принесемо себе в жертву на вівтар нашої Вітчизни!"\n- Стефан Стамболов"
+  SE_bul_bw2_winner_A: "Народження гегемона."
+
+  #####
+  SE_ger_nazi_T: "Підйом нацизму"
   SE_ger_nazi_D:0 "\n\n'Сьогодні я знову буду пророком. Якщо міжнародним єврейським фінансистам у Європі та за її межами вдасться знову ввергнути народи у світову війну, то результатом буде не більшовизація землі, а отже перемога єврейства, а знищення єврейської раси в Європі!"\n\n- Адольф Гітлер"
-  SE_ger_nazi_A:0 "Ще одне безумство охопило нас."
+  SE_ger_nazi_A: "Нас охопило чергове божевілля."
 
   SE_ger_civil_war_T:0 "Війна за возз'єднання Німеччини"
-  SE_ger_civil_war_D:0 "\n\n "Бійтеся не стільки смерті, скільки неадекватного життя."\n- Бертольт Брехт"
-  SE_ger_civil_war_A:0 "За Німеччину!"
+  SE_ger_civil_war_D:0 "\n\n"Бійтеся не стільки смерті, скільки неадекватного життя."\n- Бертольт Брехт"
+  SE_ger_civil_war_A: "В ім'я Німеччини!"
+
+  SE_ger_victory_T: "Перемога Кайзеррайха"
+  SE_ger_victory_D:0 ""The sword is drawn, and I cannot sheathe it again without victory and honor. All of you shall and will see to it that only in honor is it returned to the scabbard. You are my guaranty that I can dictate peace to my enemies. Up and at the enemy! Down with the enemies of Brandenburg! Three cheers for our army!"\n- Wilhelm II"
+  SE_ger_victory_A: "Gott mit uns."
+
+#France
+  SE_fra_socialist_T: "Четверта Французька республіка"
+  SE_fra_socialist_D:0 "\n\n"Revolution can only exist where there is consciousness."\n- Jean Jaurès"
+  SE_fra_socialist_A: "Ах! Ça ira."
+
+  SE_fra_orleanist_T:0 "Orléanist Restoration"
+  SE_fra_orleanist_D:0 "\n""\n- "
+  SE_fra_orleanist_A:0 ""
+
+  SE_fra_bonapartist_T:0 "Bonapartist Restoration"
+  SE_fra_bonapartist_D:0 "\n\n""\n- "
+  SE_fra_bonapartist_A:0 ""
+
+  SE_fra_national_syndicalist_T:0 "Proudhonist Coup"
+  SE_fra_national_syndicalist_D:0 "\n\n"As man seeks justice in equality, so society seeks order in anarchy."\n- Pierre-Joseph Proudhon"
+  SE_fra_national_syndicalist_A: "Le Français toujours vaincra!"
+
+  SE_fra_victory_T:0 "Entente Victorious"
+  SE_fra_victory_D:0 "\n"Sacred love of the Fatherland, Lead, support our avenging arms\nLiberty, cherished liberty, fight with your defenders!\nUnder our flags may victory, hurry to your manly accents so that your expiring enemies see your triumph and our glory!"\n- La Marseillaise"
+  SE_fra_victory_A: "Vive la France!"
 
 ######## Songs
- SE_chi_xinhai_revolution:0 "Неприборканий дух"
- SE_chi_warlord_era:0 "Чашка з чистого золота"
+ SE_chi_xinhai_revolution:0 "Indomitable Spirit"
  SE_mex_revolution:0 "La Pistola Y El Corazón"
- SE_eng_republic:0 "Червоний прапор"
- SE_war_of_the_worlds:0 "Мертвий Лондон"
- SE_great_war:0 "День гніву"
- SE_eng_kitchener:0 "Ми ніколи не дозволимо впасти старому прапору"
- SE_eng_george_v:0 "Солдати короля"
- SE_eng_imperial_federation:0 "Єрусалим"
- SE_rus_february_revolution:0 "Робітнича Марсельєза"
- SE_rus_october_revolution:0 "Сміливо, товариші, в ногу!"
- SE_rus_civil_war_winner_white:0 "Слався"
- SE_rus_civil_war_winner_red:0 "О, яблучко!"
- SE_bul_bw2_winner:0 "Прощання Слов'янки"
- SE_rus_savinkov_revolution:0 "Море стогнало від люті"
- SE_eng_fall_of_america:0 "Прав, Британія!"
- SE_ger_civil_war:0 "З Нового Світу"
- SE_great_depression:0 "Брате, не міг би ти позичити мені десять центів?"
+ SE_eng_republic:0 "The Red Flag"
+ SE_war_of_the_worlds:0 "Dead London"
+ SE_great_war:0 "Dies irae"
+ SE_eng_kitchener:0 "We'll Never Let The Old Flag Fall"
+ SE_eng_george_v:0 "Soldiers of the King"
+ SE_eng_imperial_federation:0 "Jerusalem"
+ SE_rus_february_revolution:0 "Worker's Marseillaise"
+ SE_rus_october_revolution:0 "Bravely, Comrades, Let's March!"
+ SE_rus_civil_war_winner_white:0 "Slavsya"
+ SE_rus_civil_war_winner_white_siberia:0 "March of The Siberian Riflemen"
+ SE_rus_civil_war_winner_white_volunteer_army:0 "March of the Kornilov Regiment"
+ SE_rus_civil_war_winner_red:0 "Oh, Little Apple!"
+ SE_rus_civil_war_winner_eser:0 "Worker's Marseillaise"
+ SE_bul_bw2_winner:0 "Farewell of Slavianka"
+ SE_rus_savinkov_revolution:0 "The Sea Groaned in Rage"
+ SE_eng_fall_of_america:0 "Rule, Britannia!"
+ SE_ger_civil_war:0 "From the New World"
+ SE_ger_victory:0 "Pariser Einzugsmarsch"
+ SE_great_depression:0 "Brother, Can You Spare A Dime?"
+ SE_fra_socialist:0 "Ça Ira"
+ SE_fra_national_syndicalist:0 "La France Bouge"
+ SE_fra_victory:0 "Le Régiment De Sambre Et Meuse"
+ SE_gre_schism:0 "O Makedon"
+ SE_burning_of_smyrna:0 "İzmir Marşı"
+ SE_balkan_war_1:0 "Boyat Nastana"
+ SE_balkan_war_2:0 "A Song about the Serbian Savagery in Tikvesh"
+ SE_gre_byzantium:0 "Kotsari"
+ SE_greeko_turkish_war:0 "Emvatirio Smirnis"
+ SE_balkan_fed:0 "Septemberists"
+ SE_arab_revolt:0 "Bilād al-Arab Awtānī"

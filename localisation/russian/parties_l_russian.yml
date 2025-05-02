@@ -2736,12 +2736,12 @@
  BEL_army_party:0 "Збройні Сили Бельгії"
 
  SWI_fascism_party:0 "ШПА"
- SWI_fascism_party_long:0 "Швейцарська Патріотична Асоціація"
+ SWI_fascism_party_long:0 "Швайцарська Патріотична Асоціація"
  SWI_communism_party:0 "СПШ"
- SWI_communism_party_long:0 "Соціалістична Партія Швейцарії"
+ SWI_communism_party_long:0 "Соціалістична Партія Швайцарії"
  SWI_democratic_party:0 "СДП"
  SWI_democratic_party_long:0 "Вільна Демократична Партія"
- SWI_neutrality_party:0 "Швейцарські збройні сили"
+ SWI_neutrality_party:0 "Швайцарські збройні сили"
 
  RAJ_neutrality_party:0 "Індійське губернаторство"
  RAJ_neutrality_party_long:0 "Індійське губернаторство"
