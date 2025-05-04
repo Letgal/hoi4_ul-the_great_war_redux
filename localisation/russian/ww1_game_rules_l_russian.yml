@@ -296,5 +296,5 @@
   RULE_OPTION_MOR_SUCCESSFUL_ARMY_REFORM_PASSIVE_AI_DESC:0 "Morocco will succeed in its modernization reforms, thus avoiding the Agadir crisis and French supervision. To do this, Morocco will reconcile with the rebel Caids and become neutral by going down the relevant path in the national focus tree." # (!)
 
  ### Faction Rules ###
- RULE_KICK_FROM_FACTION_ALLOWED_TOOLTIP:0 "Правило гри:0 §YЛідер фракції може виключити будь-яку країну з фракції після Великої війни.§!"
- RULE_ASSUME_LEADERSHIP_ALLOWED_TOOLTIP:0 "Правило гри:0 §YКраїни можуть взяти на себе керівництво фракціями, якщо вони відповідають критеріям після Великої війни.§!"
+ RULE_KICK_FROM_FACTION_ALLOWED_TOOLTIP:0 "Правило гри:0 §YЛідер альянсу може виключити будь-яку країну з альянсу після Великої війни.§!"
+ RULE_ASSUME_LEADERSHIP_ALLOWED_TOOLTIP:0 "Правило гри:0 §YКраїни можуть взяти на себе керівництво альянсом, якщо вони відповідають критеріям, після Великої війни.§!"

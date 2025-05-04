@@ -3032,8 +3032,8 @@
 
  JBS_neutrality_party:0 "Дім Рашидів"
 
- LBA_neutrality_party:0 "Аль Санусія"
- LBA_fascism_party:0 "Аль Санусія"
+ LBA_neutrality_party:0 "Аль Сануссійя"
+ LBA_fascism_party:0 "Аль Сануссійя"
 
  VLN_communism_party:0 "Махновці"
  VLN_communism_party_long:0 "Махновський рух"

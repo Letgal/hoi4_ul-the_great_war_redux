@@ -1109,7 +1109,7 @@
  STATE_760: "Новий Пазар"
  TUR_STATE_760: "Єні Пазар"
  STATE_761: "Східна Чорногорія"
- STATE_762: "Каттовіц"
+ STATE_762: "Каттовиц"
  POL_STATE_762: "Катовиці"
  STATE_763: "Східна Пруссія"
  STATE_764: "Західний Банат"
@@ -1662,7 +1662,7 @@
  KALININ_STATE: "Калінін"
  ENGELS_STATE: "Енґельс"
  NEW_HARAR_STATE: "Новий Харер"
- TUBMAN_STATE: "Табмен" # ???
+ TUBMAN_STATE: "Табмен" # (?)
  PETROGRAD_STATE: "Петроград"
  SMUTSLAND_STATE: "Смутсленд"
  KILIMANJARO_STATE: "Кіліманджаро"
