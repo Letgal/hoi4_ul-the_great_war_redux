@@ -8,7 +8,6 @@
 ## Завершені файли
 + ~~`countries`~~
 + ~~`state_names`~~
-+ ~~`wolferos`~~
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
 
@@ -44,6 +43,7 @@
 + `equipment`
 + `parties`
 + `ship_modules`
++ `superevent`
 + `tgwr_achievements`
 + `ww1_equipment`
 + `ww1_modifiers`
@@ -51,7 +51,6 @@
 + `ww1_traits`
 
 ## Тільки старий переклад (оновити)
-+ `superevent`
 + `ww1_country_ideas`
 + `ww1_designer`
 + `ww1_diplomacy`
