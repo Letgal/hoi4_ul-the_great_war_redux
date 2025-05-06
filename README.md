@@ -7,7 +7,7 @@
 
 ## Завершені файли
 + ~~`countries`~~
-+ `state_names`
++ ~~`state_names`~~
 + ~~`wolferos`~~
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
@@ -93,6 +93,7 @@
 + `ww1_unit_limit`
 
 ### Папка `replace`
++ `replace_buildings`
 + `replace_decisions`
 + `replace_effects`
 + `replace_equipment`
