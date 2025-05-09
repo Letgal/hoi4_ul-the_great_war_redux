@@ -583,11 +583,11 @@
  SHX_neutrality_party: "Кліка Цзінь" #晉系軍閥
  SHX_fascism_party: "Кліка Цзінь" #晉系軍閥
 
- FNG_neutrality_party: "Фентянська кліка" #奉天軍閥
- FNG_fascism_party: "Фентянська кліка" #奉天軍閥
+ FNG_neutrality_party: "Фентяньська кліка" #奉天軍閥
+ FNG_fascism_party: "Фентяньська кліка" #奉天軍閥
 
- HNC_neutrality_party: "Хунанська кліка" #湖南軍閥
- HNC_fascism_party: "Хунанська кліка" #湖南軍閥
+ HNC_neutrality_party: "Хунаньська кліка" #湖南軍閥
+ HNC_fascism_party: "Хунаньська кліка" #湖南軍閥
 
  ZHE_neutrality_party: "Чжецзянська кліка" #浙江軍閥
  ZHE_fascism_party: "Чжецзянська кліка" #浙江軍閥
@@ -602,8 +602,8 @@
  ANC_fascism_party: "Аньхойська кліка" #安徽軍閥
  ANC_democratic_party:0 "Anfu Club" #安複俱絡部
 
- SCC_neutrality_party: "Сичуанська кліка" #四川軍閥
- SCC_fascism_party: "Сичуанська кліка" #四川軍閥
+ SCC_neutrality_party: "Сичуаньська кліка" #四川軍閥
+ SCC_fascism_party: "Сичуаньська кліка" #四川軍閥
 
  XKC_neutrality_party: "Сіканська кліка" #西康軍閥
  XKC_fascism_party: "Сіканська кліка" #西康軍閥
@@ -631,12 +631,12 @@
  GAN_neutrality_party: "Ґаньсуська кліка" #甘肅軍閥
  GAN_fascism_party: "Ґаньсуська кліка" #甘肅軍閥
 
- FJN_neutrality_party: "Фуцзянська кліка" #福建軍閥
- FJN_fascism_party: "Фуцзянська кліка" #福建軍閥
+ FJN_neutrality_party: "Фуцзяньська кліка" #福建軍閥
+ FJN_fascism_party: "Фуцзяньська кліка" #福建軍閥
  FJN_CPG_party:0 "Yuanmin Yuejun" #援閩粵軍
 
- JLN_neutrality_party: "Цзілінська кліка" #吉林軍閥
- JLN_fascism_party: "Цзілінська кліка" #吉林軍閥
+ JLN_neutrality_party: "Цзіліньська кліка" #吉林軍閥
+ JLN_fascism_party: "Цзіліньська кліка" #吉林軍閥
 
  TGC_neutrality_party: "Тунґаністанська кліка" #東干斯坦軍閥
  TGC_fascism_party: "Тунґаністанська кліка" #東干斯坦軍閥
@@ -1294,7 +1294,7 @@
  TIB_democratic_party:0 "Kashag"
  TIB_fascism_party:0 "Dmag Dpung Bod"
 
- YUN_neutrality_party: "Юньнанська кліка"
+ YUN_neutrality_party: "Юньнаньська кліка"
 
  #MON_communism_party:0 "MAHN"
  #MON_communism_party_long:0 "Mongol Ardīn Huwĭsgalt Nam"
