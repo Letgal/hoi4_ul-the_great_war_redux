@@ -5,7 +5,7 @@
 
  open_the_political_sphere:0 "Відкрити політичну сферу [ROOT.getAdjective]"
  open_the_political_sphere_desc:0 "Оскільки наша нація бореться з сучасністю, стає вкрай необхідно відкрити нашу політичну сферу для нових ідей і рухів. Це забезпечить більш енергійне, надійне та чуйне управління."
- conserve_political_stance:0 "Дотримуйтесь [ROOT.GetRulingPartyLong]"
+ conserve_political_stance:0 "Дотримуватися [ROOT.GetRulingParty]"
  conserve_political_stance_desc:0 "Стабільність є ключовою в ці неспокійні часи. Зміцнення нашої поточної політичної позиції забезпечить націю стійким лідерством, необхідним їй для проходження викликів і невизначеності."
  fund_the_intel_services:0 "Фінансуйте послуги розвідки"
  fund_the_intel_services_desc:0 "В епоху шпигунства та таємної дипломатії зміцнення наших розвідувальних служб є необхідністю. Адекватне фінансування гарантує, що ми не залишимося в темряві та завжди будемо на крок попереду наших супротивників."
@@ -94,7 +94,7 @@
  defending_the_nation_desc:0 "Очевидно, захист [ROOT.GetName] має вирішальне значення для нашої військової політики. Переконавшись, що наші збройні сили перебувають у стані підвищеної готовності та що наші заводи викачують необхідне, ми будемо готові до всього. "
 
  french_advisors:0 "Французькі радники"
- #змінити
+
  support_international:0 "Підтримати Інтернаціонал"
  support_international_desc:0 "Пропонування нашої підтримки Інтернаціоналу зміцнить нашу позицію в глобальному лівому русі. Таке узгодження сприятиме міжнародній солідарності та просуватиме справу соціалізму."
  support_to_industrials:0 "Розширення можливостей промисловості"
@@ -225,7 +225,7 @@
  ww1_equipment_effort_4_desc:0 "Наші інтенданти, на жаль, надіслали нам ще один список вимог. На щастя, ми наказали нашим поштмейстерам ігнорувати будь-яку подальшу пошту від них. Їхньою останньою вимогою є нове обладнання для нашого інженерного корпусу - карабіни, інструменти та інші нових вогнеметів, які будуть введені в експлуатацію в найкоротші терміни Інженерний корпус як такий міг би дати деякі нечувані переваги..."
 
  ww1_armor_effort_1:0 "Зусилля броні"
- ww1_armor_effort_1_desc:0 "Наші попередні інвестиції окупилися! Конструктори артилерії, інженери та конструктори транспортних засобів запропонували нам абсолютно новий тип транспортного засобу – важкоброньований тягач із гарматою прямого вогню. Хоча перші проекти явно не готові до бою, цей Концепція є багатообіцяючою, особливо у сфері виходу з глухого кута в Окопі на нашу користь, якщо ці кораблі зможуть протистояти кулеметному вогню, як стверджується."
+ ww1_armor_effort_1_desc:0 "Наші попередні інвестиції окупилися! Конструктори артилерії, інженери та конструктори транспортних засобів запропонували нам абсолютно новий тип транспортного засобу — важкоброньований тягач із гарматою прямого вогню. Хоча перші проекти явно не готові до бою, цей Концепція є багатообіцяючою, особливо у сфері виходу з глухого кута в Окопі на нашу користь, якщо ці кораблі зможуть протистояти кулеметному вогню, як стверджується."
 
  ww1_armor_effort_2:0 "Armor Effort II"
  ww1_armor_effort_2_desc:0 "Наші експерименти з бронею мали приголомшливий успіх! Проте ми не можемо бути задоволеними нашими поточними конструкціями. Інженери пропонують такі цікаві концепції, як поворотні гарматні вежі, спеціальні моторні відділення та люк для використання командиром, який не можна ігнорувати, якщо ми хочемо бути першими, хто втілить ці ідеї в життя, можливо, ми зможемо стати нестримними!"
@@ -268,7 +268,7 @@
  ww1_pilotformation_1_desc:0 "Наразі літаки літають поодинці на відстані один від одного та вступають у поєдинки один на один із будь-якими ворогами, з якими вони можуть зіткнутися. Проте, коли в небі стає все більше машин, стає зрозуміло, що це вже не Найбільш життєздатним способом ведення повітряного бою Деякі з наших фізиків можуть бути цінними, допомагаючи нам визначити нові формування для наших пілотів для використання."
 
  ww1_pilotformation_2:0 "Pilot Formation II"
- ww1_pilotformation_2_desc:0 "Нові формації, які ми створили, справді були для нас благом у бою. Однак забезпечення того, щоб люди дотримувалися формувань, – це зовсім інша історія. Заохочувати наших найкращих асів видавати посібник для наших пілотів з повітряної тактики та Формування гарантує, що наші пілоти продовжуватимуть робити те, що є найкращим, і, можливо, такі твори допоможуть поширювати нові прийоми та доктрини."
+ ww1_pilotformation_2_desc:0 "Нові формації, які ми створили, справді були для нас благом у бою. Однак забезпечення того, щоб люди дотримувалися формувань, — це зовсім інша історія. Заохочувати наших найкращих асів видавати посібник для наших пілотів з повітряної тактики та Формування гарантує, що наші пілоти продовжуватимуть робити те, що є найкращим, і, можливо, такі твори допоможуть поширювати нові прийоми та доктрини."
 
  ww1_aircraftprod_1:0 "Виробництво літаків"
  ww1_aircraftprod_1_desc:0 "Хоча інженери лояльно створювали для нас літаки, просто настав час представити заводам цю концепцію. Запровадження масового виробництва літаків допоможе нам наповнити небо дружніми кораблями, і, що більш важливо, допоможе нам позбавити наших Вороги такої ж переваги. Можливо, хтось із цих фабричних інженерів може мати хороші ідеї щодо конструкції літаків..."
@@ -459,6 +459,7 @@
  uk_iw_focus:0 "Фокусне дерево наслідків британської революції"
  ENG_cant_ally_france:0 "Франція не є узгодженим союзником"
  is_britain_a_monarchy_tt:0 "Британія є §Yмонархією§!."
+ is_britain_a_monarchy_tt_NOT: "Британія не є §Yмонархією§!"
  ENG_room_40:0 "Кімната 40"
  ENG_room_40_tt:0 "§YРозділ криптоаналізу "Кімната 40» допоможе перехопити секретні повідомлення противника.§!\n\n"
  ENG_room_40_desc:0 "Використовуючи силу інтелекту та секретності, Кімната 40 служить нервовим центром наших криптографічних зусиль. Наше прагнення до досконалості у зламі кодів дасть безцінну розвідувальну інформацію, що зміцнить нашу національну безпеку."
@@ -929,7 +930,7 @@
  CHI_continue_qing_new_reforms_desc:0 "З розгромом республіканців ми можемо завершити наші реформи та легітимізувати династію."
  CHI_stand_with_tongmenghui:0 "Стати разом з Тунменхой"
  CHI_stand_with_tongmenghui_desc:0 "За революцію!"
- CHI_establish_provisional_gov:0 "Створити тимчасовИй уряд"
+ CHI_establish_provisional_gov:0 "Створити тимчасовий уряд"
  CHI_establish_provisional_gov_desc:0 "Революція відбувається без єдиного керівництва в кожній провінції. Перемога революції вимагає створення та керівництва єдиним політичним утворенням. Пан Сунь Ятсен, який закликає до республіканської революції за кордоном протягом останні кілька років, був би відповідним лідером."
  CHI_establish_provisional_gov_tt:0 "Юань Шикай буде засмучений, і нам потрібно буде знайти інший компроміс."
  CHI_tongmenghui_cabinet:0 "Кабінет Тунменхой"
@@ -1280,13 +1281,13 @@
  CHI_individual_diplomacy:0 "Індивідуальна дипломатія"
  CHI_individual_diplomacy_desc:0 "Завдяки Нанкіну, Пекіну чи будь-якому іншому уряду ми зіпсували дипломатичні відносини з іноземцями. Навіть ми щось місцеве, ми покажемо їм, що можемо створити щось на зразок незалежної дипломатії."
  CHI_seek_french_support:0 "Зверніться до французької підтримки"
- CHI_seek_french_support_desc:0 ""
+ CHI_seek_french_support_desc:0 "The French have great assets that are critical to our ability to function properly as a country; we should seize the opportunity to get their aid." # (!)
  CHI_seek_british_support:0 "Шукати британську підтримку"
- CHI_seek_british_support_desc:0 ""
+ CHI_seek_british_support_desc:0 "British resources can be vital towards our overall restoration as a country; let's yearn for their support over the matters we are currently facing at hand." # (!)
  CHI_seek_german_support:0 "Зверніться до німецької підтримки"
- CHI_seek_german_support_desc:0 ""
+ CHI_seek_german_support_desc:0 "Germany's military has an overabundance of supplies that enable our military to thwart future issues at hand." # (!)
  CHI_seek_russian_support:0 "Зверніться до російської підтримки"
- CHI_seek_russian_support_desc:0 ""
+ CHI_seek_russian_support_desc:0 "Russian, while being a fellow giant in terms of size, should be willing to cooperate with us on this matter; we should use this to better our advantages." # (!)
  CHI_land_reform_warlord:0 "Земельна реформа"
  CHI_land_reform_warlord_desc:0 "Деякі селяни продовжують використовувати неефективні та відсталі методи у своїх заняттях. Крім того, деякі землевласники недостатньо використовують свою власність. Комплексний набір реформ має це виправити."
  CHI_offensive_posture:0 "Наступальна поза"
@@ -1340,6 +1341,8 @@
  CHI_continue_constitutional_reforms:0 "Продовжити конституційні реформи"
  CHI_accept_twenties_demand:0 "Прийняти двадцять одну вимогу"
  CHI_accept_twenties_demand_desc:0 "Забудьте про гідність, це про гру влади."
+ CHI_annex_zhili:0 "Assert Dominance over Beiyang Cliques" # (!)
+ CHI_annex_zhili_desc:0 "We've defeated the rebels and warlords of the south, but there are those within the central government who are trying to hold us back and attack us at every turn. It's time to show them who's in charge." # (!)
 
  ANC_focus_beiyang_hegemony:0 "Гегемонія Бейяну"
  ANC_focus_beiyang_hegemony_desc:0 ""
@@ -1650,10 +1653,11 @@
  FNG_focus_finish_unloyal_warlords:0 "Покінчити з нелояльними воєначальниками"
  FNG_focus_finish_unloyal_warlords_desc:0 ""Увесь Китай тепер належить нам.""
 
- GER_moroccan_crisis:0 "Зосереджено на Африці"
- GER_moroccan_crisis_desc:0 "Франція бажає розширити свою колоніальну імперію далі в Марокко. Ми повинні публічно продемонструвати свою силу та вимагати, щоб Франція віддала нам частину їхньої новопридбаної території."
- GER_place_under_the_sun:0 "Наше місце під сонцем"
- GER_place_under_the_sun_desc:0 "Настав час розширити нашу колоніальну імперію. Німеччина займе своє законне місце під Сонцем і знищить усіх, хто стане на її шляху."
+ GER_moroccan_crisis: "Звернути увагу на Африку"
+ GER_moroccan_crisis_desc:0 "France wishes to expand their colonial empire further into Morocco. We must demonstrate our resolve and demand that Paris grants us concessions in the region as compensation." # (!)
+ GER_moroccan_crisis_tt: "Буде здобуто претензію на протекцію @MOR §YМарокко§!."
+ GER_place_under_the_sun: "Наше місце під сонцем"
+ GER_place_under_the_sun_desc:0 "It is time to expand our colonial empire. We shall take our rightful place in the sun, and deal decisively with anyone who obstructs our path." # (!)
  GER_befriend_holland:0 "Подружитися з Голландією"
  GER_befriend_holland_desc:0 "Голландці не обов’язково повинні бути нашими ворогами. Вони можуть бути цінним членом нашого Альянсу та відігравати вирішальну роль у виконанні плану Шліффена."
  GER_threaten_holland:0 "Погрожувати Голландії"
@@ -1704,7 +1708,7 @@
  GER_kaiserreich_desc:0 "Ми вийшли переможцями у Велткрігу! Настав час зміцнити владу нашого кайзера, створити світ під домінуванням Німеччини!"
  GER_contain_kaiser:0 "Містити Кайзера"
  GER_contain_kaiser_desc:0 "Кайзер правив людьми досить довго. Настав час покінчити з корумпованою системою, коли одна особа керує мільйонами, і поставити людей керувати урядом."
- GER_turn_to_asia:0 "Повернутися до Азії"
+ GER_turn_to_asia: "Звернути погляд на Азію"
  GER_turn_to_asia_desc:0 "У той час як Африка майже повністю колонізована жадібними західними імперіалістами, які не бажають поступитися ані дюймом території, Азія величезна і має багато можливостей для імперіалізму."
  GER_tokyo_pact:0 "Токійсько-Берлінський пакт"
  GER_tokyo_pact_desc:0 "У нас спільна боротьба з Японією: британці. Якщо ми пообіцяли їм деякі британські колонії в Азії, японці, можливо, захочуть приєднатися до нас."
@@ -1857,10 +1861,11 @@
  GER_establish_finnish_monarchy:0 "Встановити фінську монархію"
  GER_establish_finnish_monarchy_desc:0 "Нам потрібно створити фінську монархію як буферну державу, щоб ефективніше зберігати контроль і вплив у Скандинавії."
  GER_expand_staff_desc:0 "Військові доктрини."
- GER_colonial_legion:0 "Колоніальний легіон"
- GER_colonial_legion_tt:0 "Колонії отримають ідею §YColonial Legion§! яка щотижня надає робочу силу.\n\n"
+ GER_colonial_legion: "Koloniallegion"
+ GER_colonial_legion_tt:0 "Колонії отримають ідею §YKoloniallegion§! яка щотижня надає робочу силу.\n\n"
  GER_fokker_aeroplanbau:0 "Fokker Aeroplanbau GmbH"
  GER_investing_in_cameroon:0 "Інвестиції в Камерун"
+ GER_investing_in_cameroon_desc:0 "Kamerun's industry is underdeveloped. We must invest in its infrastructure and economy to revitalize the colony and strengthen our presence in Africa." # (!)
  GER_persian_campaign:0 "Перська кампанія"
  GER_persian_campaign_desc:0 "Запропонуйте субсидії для Персії в обмін на визнання німецької переваги."
  GER_pearl_of_the_british_crown:0 "Перлина британської корони"
@@ -1875,13 +1880,14 @@
  GER_way_to_india:0 "Шлях до Індії"
  GER_way_to_india_desc:0 "До Індії через Мадагаскар."
  GER_atlantic_class:0 "Атлантичний клас"
- GER_atlantic_class_desc:0 " "
+ GER_atlantic_class_desc:0 "Potential adversaries in the Atlantic are constantly improving their naval capabilities. We must counter this threat by developing a new generation of advanced warships to maintain our naval strength and project power across the ocean." # (!)
  GER_destabilize_raj:0 "Індуссько-німецька змова"
- GER_destabilize_raj_desc:0 "Зосередьтеся на послабленні британських колоній. Індія та Афганістан повинні рано чи пізно проголосити свою незалежність."
+ GER_destabilize_raj_desc:0 "We must concentrate on weakening the British colonies. Supporting independence movements in India and Aghanistan will undermine London's authority and divert their resources." # (!)
  GER_chinese_intervention:0 "Китайська інтервенція"
- GER_chinese_intervention_desc:0 "Китайці чітко показали, що вони не можуть керувати собою, ми допоможемо їм у цьому."
+ GER_chinese_intervention_desc:0 "The Qing have clearly shown their inability to govern effectively. We shall intervene to protect our interests and perhaps help them manage their affairs... under our guidance." # (!)
  GER_hindenburg_line:0 "Лінія Гінденбурга"
  GER_protector_of_europe:0 "Захисник Європи"
+ GER_protector_of_europe_desc:0 "In these tense times, the smaller nations of Europe look to us for security. We shall extend our protection by guaranteeing the independence of the Low Countries, Denmark, and Switzerland. This act will demonstrate our commitment to stability, reassure our neighbours, and solidify our position as the preeminent power safeguarding Central Europe." # (!)
  GER_rejuvenate_officer_staff:0 "Омолодження військового персоналу"
  GER_rejuvenate_officer_staff_desc:0 "Нам потрібно омолодити Військовий штаб новими офіцерами."
  GER_secure_allied_monarchies:0 "Безпечні союзні монархії"
@@ -1901,12 +1907,15 @@
  GER_strike_entente:0 "Удар Антанти"
  GER_civil_defense:0 "Цивільна оборона"
  GER_investing_in_sudwestafrika:0 "Інвестиції в Південну Західну Африку"
+ GER_investing_in_sudwestafrika_desc:0 "Deutsch-Südwestafrika remains an important part of our colonial holdings. To solidify our control and better exploit its resources, we must invest in its industrial base and infrastructure, projecting our strength in the region." # (!)
  GER_investing_in_ostafrika:0 "Інвестиції в Остафрику"
+ GER_investing_in_ostafrika_desc:0 "Deutsch-Ostafrika is vital for our ambition to create a contiguous Mittelafrika by linking it with Kamerun. We must develop its infrastructure and economic potential to strengthen our imperial presence and facilitate future expansion." # (!)
  GER_way_to_rhodesia:0 "Шлях до Родезії"
  GER_way_through_rhodesia:0 "Шлях через Родезію"
- GER_way_through_rhodesia_desc:0 ""
+ GER_way_through_rhodesia_desc:0 "Securing passage through British Rhodesia is vital to connect our African colonies and project power across the continent. We must establish a reliable route, by diplomacy or by force." # (!)
  GER_partisan_warfare:0 "Партизанська війна"
  GER_colonial_docks:0 "Колоніальні доки"
+ GER_colonial_docks_desc:0 "To further cement our ability to supply our colonies and make them able to have a better form of naval production in our realm, we must build dockyards to allow a more rounded-out state for them." # (!)
  GER_befriend_switzerland:0 "Подружитися зі Швайцарією"
  GER_ensure_neutrality_of_romania:0 "Забезпечити нейтралітет Румунії"
  GER_its_time_for_lenin_to_die:0 "Леніну пора померти!"
@@ -2012,24 +2021,24 @@
  GER_increase_machinegun_production:0 "Збільшити виробництво кулеметів"
  GER_increase_machinegun_production_desc:0 "Ми повинні збільшити виробництво кулеметів, оскільки вони будуть вирішальними для нашої армії. Ми будемо інвестувати у виробництво кулеметів виробництва DWM і Theodor Bergmann."
  GER_finance_rheinmetall:0 "Фінанси Rheinmetall"
- GER_finance_rheinmetall_desc:0 "Rheinmetall є виробником зброї в нашій країні, особливо артилерійських конструкцій. Ми повинні фінансувати їх, оскільки артилерія буде важливішою, ніж будь-коли."
+ GER_finance_rheinmetall_desc:0 "The Rheinische Metallwaaren- und Maschinenfabrik has established itself as a premier manufacturer of artillery and ammunition. Increased funding will allow them to develop new weapons systems crucial for modern warfare." # (!)
  GER_the_long_expected_war:0 "Довгоочікувана війна"
  GER_kriegsrohstofffabteilung:0 "Kriegsrohstofffabteilung"
  GER_ost_plan:0 "План Ост"
  GER_ost_plan_desc:0 "Схід нашої країни не настільки індустріалізований, як Рейн на заході. Ми повинні скласти план інвестицій у регіон, щоб розширити промисловість у цьому регіоні, який має великий потенціал."
  GER_industrialize_prussia:0 "Індустріалізація Пруссії"
  GER_industrialize_prussia_desc:0 "У Пруссії є багато можливостей для промислового розширення в багатьох містах. З нашими планами інвестицій на сході, ці інвестиції мають бути використані для індустріалізації регіону."
- GER_improve_eastern_supplies:0 "Покращити східні постачання"
- GER_improve_eastern_supplies_desc:0 "На сході на кордоні з Росією мало інфраструктури. Якщо ми колись збираємося вступити у війну з Росією, ми повинні мати достатні запаси для боротьби з нею, тому ми розвиватимемо інфраструктуру та центри постачання на нашому кордоні регіони."
+ GER_improve_eastern_supplies: "Поліпшити інфраструктуру на сході"
+ GER_improve_eastern_supplies_desc:0 "Our eastern frontier lacks the infrastructure necessary for rapid military deployment. We must construct railways and supply depots to ensure effective military operations against potential Russian aggression." # (!)
  GER_berlin_heavy_industries:0 "Berlin Heavy Industries"
- GER_berlin_heavy_industries_desc:0 "Берлін — дуже велике місто, яке є серцем нашої країни, тому, оскільки місто росте, ми повинні продовжувати інвестиції. Ми повинні інвестувати у важку промисловість, яка значною мірою сприятиме нашій економіці."
- GER_protect_russian_front:0 "Захистити російський фронт"
- GER_protect_russian_front_desc:0 "Російський кордон майже порожній, і Росія зі своєю великою армією могла б легко наступати проти нас. Фронт має бути укріплений, щоб захистити схід."
+ GER_berlin_heavy_industries_desc:0 "As the Reich's capital grows, so too must its industrial capacity. Berlin's expansion into heavy industry will provide a powerful economic engine at the heart of our nation." # (!)
+ GER_protect_russian_front: "Убезпечити східний фронтир"
+ GER_protect_russian_front_desc:0 "The vast Russian Empire poses a significant threat to our eastern provinces. We must construct a network of fortifications to protect against potential Russian advances." # (!)
  GER_baltic_ports:0 "Балтійські порти"
- GER_baltic_ports_desc:0 "На сході є багато портових міст уздовж Балтійського моря, які будуть дуже корисними для транспортування вантажів. Ми повинні інвестувати в ці порти, щоб розширити їхні транспортні можливості та виробництво військових кораблів."
+ GER_baltic_ports_desc:0 "The expansion of our Baltic shipbuilding capabilities is vital for our naval ambitions. By developing new dockyards along our northern coast, we can strengthen our position in the Ostsee while increasing our capacity to construct both military and merchant vessels." # (!)
  GER_militarization_of_prussia:0 "Мілітаризація Пруссії"
  GER_militarization_of_prussia_desc:0 "З наближенням війни в Європі виникає потреба у більшому військовому виробництві та мобілізації. У Пруссії ми розпочнемо мілітаризацію промисловості, щоб бути готовими до наступної війни!"
- GER_local_investments:0 "Місцеві інвестиції"
+ generic_local_investments:0 "Місцеві інвестиції"
 
 
 
@@ -2272,6 +2281,8 @@
  FRA_grand_couronnee_defensive_line:0 "Оборонна лінія Великого Куронне"
  FRA_michel_defensive_plan:0 "План Мішеля"
  FRA_joffre_offensive_plan:0 "План Жоффра"
+ FRA_voie_sacree: "Voie sacrée"
+ FRA_voie_sacree_desc:0 "The Sacred Way is a series of roads maintained at great expense by the French army to ensure the supply of the front for a huge number of French and foreign soldiers." # (!)
  FRA_ww1_mineral_wealth:0 "Розробка корисних копалин"
  FRA_ww1_mineral_wealth_desc:0 "Марокко має багатий ґрунт, який не розробляється. Інвестиції з нашого боку забезпечать високу прибутковість і відкриють Марокко для міжнародної торгівлі."
  GRE_support_to_entente:0 "Місцева підтримка Антанти"
@@ -3139,7 +3150,7 @@
  SOV_design_bureau:0 "Конструкторське бюро"
  SOV_design_bureau_desc:0 ""
  SOV_artillery_god_of_war:0 "Артилерія - це Бог війни!"
- SOV_artillery_god_of_war_desc:0 "Як показано у Великій війні, артилерія зараз є одним із найважливіших засобів у сучасній епосі війни. Ми повинні переконатися, що ми досягаємо останніх досягнень у цій галузі та розгромимо наших ворогів під снарядами!\n \n Артилерія – бог війни!"
+ SOV_artillery_god_of_war_desc:0 "Як показано у Великій війні, артилерія зараз є одним із найважливіших засобів у сучасній епосі війни. Ми повинні переконатися, що ми досягаємо останніх досягнень у цій галузі та розгромимо наших ворогів під снарядами!\n \n Артилерія — бог війни!"
  SOV_artillery_war_tt:0 "\nДодає §YПідтримку Артилерії§! до §YКрасної Гвардії§!"
  SOV_soviet_tanks:0 "Радянські танки"
  SOV_soviet_tanks_desc:0 ""
@@ -3839,7 +3850,7 @@
  ITA_askari_troops:0 "Війська Аскарі"
  ITA_askari_troops_desc:0 "Утримувати наші колонії під контролем означає адаптуватися до наших колоній. Буде сформовано новий Корпус верблюдів, щоб ми могли краще охороняти та захищати наші колонії."
  ITA_logistic_improvements:0 "Покращення логістики"
- ITA_logistic_improvements_desc:0 "Навіть римляни знали, що не варто перенапружувати свої лінії постачання. Що можуть зробити 100 000 чоловік, якщо вони застрягли в Альпах, чекаючи боєприпасів. Добре забезпечена армія – це хороша армія. Нові інновації в радіотехнологіях покращать координацію кращого постачання, тоді як розвідувальні війська зможуть розвідати найкращий спосіб дістатися від А до Б без перерозтягнення."
+ ITA_logistic_improvements_desc:0 "Навіть римляни знали, що не варто перенапружувати свої лінії постачання. Що можуть зробити 100 000 чоловік, якщо вони застрягли в Альпах, чекаючи боєприпасів. Добре забезпечена армія — це хороша армія. Нові інновації в радіотехнологіях покращать координацію кращого постачання, тоді як розвідувальні війська зможуть розвідати найкращий спосіб дістатися від А до Б без перерозтягнення."
  ITA_expand_alpini:0 "Розгорнути Альпіні"
  ITA_expand_alpini_desc:0 "Альпіні є найелітнішою частиною наших збройних сил і, безперечно, найважливішою. Потрібні подальші інновації та навчання, якщо ми хочемо зберегти елітність наших військ."
  ITA_expand_alpini_tt:0 "Додає артилерійський і кілька альпіністських батальйонів до §YReggimento Alpini§! і §YReggimento Alpini Rinforzato§! і робить їх доступними для редагування."
@@ -3882,6 +3893,7 @@
  ITA_Ansaldo:0 "Ансальдо"
  ITA_Ansaldo_desc:0 ""
 
+ RAJ_revive_the_screw_guns_effect: "£tech_mod Додати технологію: $mountain_gun$."
 
  ITA_royal_army:0 "Regio Esercito"
  ITA_colonial_corp:0 "Модернізація колоніального корпусу"
@@ -3912,7 +3924,7 @@
  ITA_friend_with_entente:0 "Зближення з Антантою"
  ITA_friend_with_germany:0 "Зближення з Німеччиною"
  ITA_protect_albania:0 "Захисти Албанію"
- ITA_claim_on_austria:0 "Марш повз Альпи"
+ ITA_claim_on_austria: "Перейти Альпи"
  ITA_join_central_power:0 "Альянс з Німеччиною"
  ITA_join_entente:0 "Affrontare l'aquila austriaca"
  ITA_italian_patriotism:0 "Італійський патріотизм"
@@ -4096,7 +4108,7 @@
  AUH_wunderwaffen_desc:0 "Подовження конфлікту змушує нас прагнути до інновацій. Нашим дослідникам не бракує ідей, особливо в авіації, танках і високочастотному зв’язку."
 
  AUH_polish_legion:0 "Польські легіони"
- AUH_polish_legion_desc:0 "Прагнення Польщі до незалежності повинні бути використані для зміцнення наших збройних сил на Східному фронті. За погодженням з польськими активістами незалежності польські легіони будуть сформовані як військові підрозділи, що складатимуться з польських добровольців, щоб воювати разом з австро-угорською армією. для нас легіони є важливим військовим ресурсом, а водночас інструментом залучення поляків до боротьби проти спільного ворога – Росії."
+ AUH_polish_legion_desc:0 "Прагнення Польщі до незалежності повинні бути використані для зміцнення наших збройних сил на Східному фронті. За погодженням з польськими активістами незалежності польські легіони будуть сформовані як військові підрозділи, що складатимуться з польських добровольців, щоб воювати разом з австро-угорською армією. для нас легіони є важливим військовим ресурсом, а водночас інструментом залучення поляків до боротьби проти спільного ворога — Росії."
 
  AUH_purification_of_the_empire: "Lieb' Vaterland, magst ruhig sein!"
  AUH_purification_of_the_empire_desc:0 "Незважаючи на десятиліття інтеграції, шалений спротив певних груп населення імперії показує нам, що співжиття неможливе. Ми змушені вживати рішучих заходів, щоб забезпечити виживання імперії. Ми не монстри, ми діємо для блага нашого народу."
@@ -4167,7 +4179,7 @@
  AUH_the_great_vienna_congress:0 "Великий Віденський конгрес"
  AUH_the_great_vienna_congress_tooltip:0 "У §YВідні§! відбудеться §YВеликий конгрес§!, який збере представників [HUN.getFlag]§YКоролівства Угорщини§!, [AUS.getFlag]§YІмперії Австрії§!, [CZE.getFlag]§YCzechia§!, [GAL.getFlag]§YGalicia§!, [CRO.getFlag]§YCroatia§! і [BOS.getFlag]§YBosnia-Herzegovina§!
 
- AUH_franz_ferdinand_i_is_ruler:0 "Цей фокус буде завершено, коли §YKarl§! або §YFerdiand§! буде названо §YEmperor§!."
+ AUH_franz_ferdinands_ruler:0 "Цей фокус буде завершено, коли §YКарл§! або §YФердінанд§! буде названий §Yімператором§!."
  AUH_conrad_von_hotzendorf_is_ruler:0 "Цей фокус буде завершено, коли §YКонрад фон Хоцендорф§! буде §Yпризначено екстреним лідером§!."
  AUH_bend_budapest_knee:0 "Magyar Király"
  AUH_bend_budapest_knee_desc:0 "Оскільки кайзер Франц Йосиф більше не керує, той, хто займе австрійський трон, повинен зайняти угорський, було добре. Ми підготуємо коронацію після поспіху, щоб передати новому кайзеру корону Святого Стефана."
@@ -4197,7 +4209,7 @@
 
  AUH_federalist_reform:0 "Федералістична реформа"
  AUH_federalist_reform_desc:0 "Кайзер виявив зацікавленість у розробці нової конституції для створення Об'єднані держави Великої Австрії. Великий конгрес відбудеться у Відні, і делегати з усієї імперії зустрінуться."
- AUH_federalist_reform_tt:0 "Запустить серію подій, що призведуть до розробки нової конституції, спрямованої на становлення §Y[AUS.getNameWithFlag]§! §Yфедерацією§!.\n\n"
+ AUH_federalist_reform_tt:0 "Запустить серію подій, що призведуть до утворення §Y@AUS Сполучених Штатів Великої Австрії§!.\n\n"
 
  AUH_the_great_vienna_congress_tooltip2:0 "\n\n§RSДеякі країни, ймовірно, скористаються подією, щоб видати §YReclamations§!.§!"
 
@@ -4767,7 +4779,7 @@
  TUR_question_of_the_civil_code:0 "Питання Цивільного кодексу"
  TUR_question_of_the_civil_code_desc:0 "У рамках наших реформ ми повинні переглянути цивільний кодекс. Цивільний кодекс надзвичайно важливий, оскільки він сформує імперію та те, як ми хочемо, щоб вона виглядала."
  TUR_permit_minority_parties:0 "Дозволити партії меншин"
- TUR_permit_minority_parties_desc:0 "Партії меншин давно придушені авторитарним режимом İttihatists. Згідно з нашим ліберальним планом, ми дозволимо партіям меншин та іншим меншинам брати участь у виборах і політиці, і навіть сприятимемо цьому."
+ TUR_permit_minority_parties_desc:0 "Партії меншин уже давно придушуються авторитарним режимом іттіхатистів. Згідно з нашим ліберальним планом, ми дозволимо партіям меншин та іншим меншинам брати участь у виборах і політиці, і навіть сприятимемо цьому."
  TUR_status_of_autonomy:0 "Статус автономії"
  TUR_status_of_autonomy_desc:0 "ІТФ та інші уряди до нас намагалися врятувати імперію, створивши централізовану та єдину націю. Треба бути дурнем, щоб не визнати шкоди, яку таке мислення завдало нашій багатоетнічній імперії. Щоб врятувати залишки нашої імперії, ми повинні децентралізувати націю."
  TUR_encourage_privatization:0 "Стимулюйте приватизацію"
@@ -4781,7 +4793,7 @@
  TUR_handling_inner_party_factionalism:0 "Подолання внутрішньопартійної фракційності"
  TUR_handling_inner_party_factionalism_desc:0 "Хоча ми відновили демократію та все ще перебуваємо при владі, внутрішньопартійна фракційність розриває нашу партію. Дві основні фракції, Хізб-і Седід і Хізб-і Тераккі, борються за вплив в уряді та навіть іноді створюючи опозицію, яка є набагато ефективнішою, ніж інші партії, потрібно знайти баланс між цими двома фракціями."
  TUR_continue_westernization:0 "Продовжити вестернізацію"
- TUR_continue_westernization_desc:0 "Як і попередні губернатори після молодотурецької революції, ми повинні продовжувати зусилля з модернізації, оскільки відсутність модернізації, ймовірно, призведе нас до загибелі."
+ TUR_continue_westernization_desc:0 "Як і попередні губернатори після молодотурецької революції, ми повинні продовжувати зусилля з модернізації, оскільки відсутність модернізації, ймовірно, призведе до нашої загибелі."
  TUR_secular_education:0 "Світська освіта"
  TUR_secular_education_desc:0 "Часи змінюються, ми теж. Лише запровадивши сучасну світську освіту, ми можемо наздогнати сучасні стандарти."
  TUR_bolster_industrial_programs:0 "Промислові програми Bolster"
@@ -4797,9 +4809,9 @@
  TUR_empower_the_special_organization_desc1:0 "Спеціальна організація завжди була основою нашої держави. Вони можуть робити те, чого не може зробити наша армія, наприклад, репресувати нелояльні елементи з нашої держави. Ми повинні використовувати цю воєнізовану організацію якомога повніше."
  TUR_empower_the_special_organization_desc2:0 "Спеціальна організація, також відома як Teşkilât-ı Mahsusa, спричинила більше проблем, ніж вона варта. Особливо в останні роки вона почала діяти незалежно від уряду та отримувати накази від İttihatists. Нам краще реорганізувати організацію в щось менш парамілітаристське."
  TUR_disband_the_hamidiye:0 "Розпустити Hamidiye"
- TUR_disband_the_hamidiye_desc:0 "Заснований Абдулхамідом II, Hamidiye протягом усього свого існування переслідував меншини у Східній Анатолії. Загони, сформовані нерегулярними кавалеристами, здійснюють набіги на села меншин і викликають жах серед християнських меншин. Ми не можемо дозволити цьому стану страху тривати довше. "
+ TUR_disband_the_hamidiye_desc:0 "Заснований Абдулхамідом II, Hamidiye протягом усього свого існування переслідував меншини у Східній Анатолії. Загони, сформовані нерегулярними кавалеристами, здійснюють набіги на села меншин і викликають жах серед християн. Ми не можемо дозволити цьому стану страху тривати довше. "
  TUR_reorganize_the_hamidiye:0 "Реорганізувати Hamidiye"
- TUR_reorganize_the_hamidiye_desc:0 "Спочатку створена з наміром патрулювати російський кордон, Hamidiye невдовзі використовувалася як інструмент переслідування християнських меншин у Східній Анатолії. Хоча сама організація лояльна до нашого уряду, наш контроль над ними все ще не є повним. Ми повинні реорганізувати бандитів у щось більш ефективне, що ми зможемо використовувати."
+ TUR_reorganize_the_hamidiye_desc:0 "Спочатку створена з наміром патрулювати російський кордон, Hamidiye невдовзі почав використовувалася як інструмент переслідування християнських меншин у Східній Анатолії. Хоча сама організація лояльна до нашого уряду, наш контроль над ними все ще не є повним. Ми повинні реорганізувати бандитів у щось більш ефективне, що ми зможемо використовувати."
  TUR_undermine_democracy:0 "Підірвати демократію"
  TUR_undermine_democracy_desc:0 "Демократія служить лише конфлікту всередині адміністрації. Радикальні дії, які необхідно вжити, неможливі, оскільки не всі поділяють такі ж погляди, як ми. Через це ми повинні покінчити з демократією, щоб врятувати імперію."
  TUR_vatan_ve_hurriyet_cemiyeti:0 "Vatan ve Hürriyet Cemiyeti"
@@ -4865,7 +4877,7 @@
  TUR_sale_of_cyprus_desc:0 "Кіпр є нашою законною територією. Можливо, якщо наші стосунки з ними будуть достатньо хорошими, ми, можливо, зможемо переконати їх продати нам острів."
  TUR_nicosian_agreement_reward:0 "Якщо британці приймуть:\n"
  TUR_yenikoy_accord:0 "Yeniköy Accord"
- TUR_yenikoy_accord_desc:0 "Єнікейська угода, також відома як Вірменські реформи, передасть міжнародний контроль і автономні зони двом вірменським вілаєтам, Ерзурум і Ван. Підписання цієї угоди має вплив на заспокоєння іноземців, особливо Росії."
+ TUR_yenikoy_accord_desc:0 "Єнікейська угода, також відома як Вірменські реформи, створить автономні зони у двох вірменських вілаєтах, Ерзурум і Ван, і помістить їх під міжнародний нагляд. Підписання цієї угоди має вплив на заспокоєння іноземців, особливо Росії."
  TUR_french_investments_in_syria:0 "Французькі інвестиції в Сирії"
  TUR_french_investments_in_syria_desc:0 "Франція вже давно інвестує в Сирію. З їх допомогою ми індустріалізуємо регіон."
  TUR_french_aviation_mission:0 "Місія французької авіації"
@@ -4969,7 +4981,7 @@
  TUR_prepare_for_the_siberian_winter:0 "Готуватися до сибірської зими"
  TUR_prepare_for_the_siberian_winter_desc:0 "Більшість тюркських батьківщин розташовані в холодних рівнинах і тундрах Сибіру. Щоб відновити ці землі, ми повинні тренувати наші війська відповідно до погоди."
  TUR_konstantiniyye_tokyo_accord:0 "Угода Константиніє-Токіо"
- TUR_konstantiniyye_tokyo_accord_desc:0 "Японія була центром антиєвропейської експансії та світового порядку. Тепер, коли наші обидві імперії мають намір покласти край європейському впливу, ми повинні стати союзниками в нашій спільній боротьбі проти європейського імперіалізму."
+ TUR_konstantiniyye_tokyo_accord_desc:0 "Японія була центром антиєвропейської експансії та світового порядку. Тепер, коли обидві наші імперії мають намір покласти край європейському впливу, ми повинні стати союзниками в нашій спільній боротьбі проти європейського імперіалізму."
  TUR_secure_persian_turks:0 "Безпечні перські турки"
  TUR_secure_persian_turks_desc:0 "Велика турецька імперія, яку сельджуки використовували для контролю над Персією. На жаль, турецьке правління в Персії зрештою закінчилося. Проте турецька присутність ніколи не припинялася. Ми маємо повернутися до Періси та звільнити наших братів."
  TUR_secure_persian_turks_tt:0 "Отримує військову ціль проти кожної нетюркської країни, що володіє §Яною з наших держав у Персії§!."
@@ -5145,7 +5157,7 @@
  TUR_return_the_iskan_policy:0 "Політика повернення İskân"
  TUR_return_the_iskan_policy_desc:0 "У перші роки існування нашої імперії ми запровадили політику заміни, яка дозволила нам збільшити турецьке населення на Балканах. Щоб посилити нашу владу в деяких християнських землях, ми можемо повернути цю політику та збільшити мусульманське населення на зазначених територіях. "
  TUR_adem_i_merkeziyetcilik:0 "Adem-i Merkeziyetçilik"
- TUR_adem_i_merkeziyetcilik_desc:0 "Централізаційні зусилля іттіхатів виявились неспроможними утримати країну разом, а система проса не виявилася ефективною системою для 20-го століття. Якщо ми хочемо, щоб наша імперія залишалася мирною багатоетнічною державою, ми повинні розширити можливості різних етнічних груп і використовувати їхні професії. наші розбіжності – наша сила."
+ TUR_adem_i_merkeziyetcilik_desc:0 "Централізаційні зусилля іттіхатів виявились неспроможними утримати країну разом, а система проса не виявилася ефективною системою для 20-го століття. Якщо ми хочемо, щоб наша імперія залишалася мирною багатоетнічною державою, ми повинні розширити можливості різних етнічних груп і використовувати їхні професії. наші розбіжності — наша сила."
  TUR_adem_i_merkeziyetcilik_tt:0 "Негативний вплив стабільності та підтримки війни на §YСеператистські настрої§! спричинений £ww1_flag_ARM §YВірменська меншина§!, £ww1_flag_ARB §YArab Minority§!, £ww1_game_rule_flag_GRE §YGreek Меншина§!, £ww1_game_rule_flag_YUG §YПівденнослов'янська меншина§!, £ww1_flag_ALB §YАлбанська меншина§!, £ww1_flag_KUR §YКурдська меншина§!, £ww1_flag_ASY §YАссирійська меншина§!, £ww1_flag_GEO §YГрузинська меншина§ і £ww1_flag_ROM §YРумунська меншина§ будуть нейтралізовані.\n£ww1_flag_ARM §YArabian Minority§!, £ww1_flag_ARB §YArab Minority§! £ww1_game_rule_flag_GRE §YГрецька меншина§!, £ww1_game_rule_flag_YUG §YПівденнослов'янська меншина§!, £ww1_flag_ALB §YАлбанська меншина§!, £ww1_flag_KUR §YКурдська меншина§!, £ww1_flag_ASY §YAssyrian Minority§!, £ww1_flag_GEO §YGeorgian Minority§! і £ww1_flag_ROM §YRomunian Minority§! спричинять §R-0,3%§! Посилення політичної влади§!."
  TUR_once_has_war:0 "\nОдного разу на війні:"
  TUR_modern_islamism:0 "Сучасний ісламізм"
@@ -6069,7 +6081,7 @@
  TUR_prepare_for_jihad:0 "Готуйтеся до Джихаду"
  TUR_prepare_for_jihad_desc:0 "Час готуватися до Джихаду! Ой, Аллах, Бісмілла! Аллах з нами!"
  TUR_traditionalist_society:0 "Традиціоналістичне суспільство"
- TUR_traditionalist_society_desc:0 "Мусульмани, як правило, дуже традиціоналісти, це чудово! Це лише означає, що вони більше підтримуватимуть нашу Імперію – я маю на увазі ісламський уряд!"
+ TUR_traditionalist_society_desc:0 "Мусульмани, як правило, дуже традиціоналісти, це чудово! Це лише означає, що вони більше підтримуватимуть нашу Імперію — я маю на увазі ісламський уряд!"
  TUR_strike_first:0 "Удар першим"
  TUR_strike_first_desc:0 "Єретики вже взяли від нас достатньо. Ймовірно, вони навіть більше не повернуться. Ми повинні вдарити першими."
  TUR_set_colonies_on_fire:0 "Підпалити колонії"
@@ -6630,7 +6642,7 @@
  FRA_ww1_socialist_mentality_desc:0 "Наше спільне утворення з демократичним альянсом є знахідкою, воно дозволяє нам маніпулювати виборцями за допомогою політичних маневрів. Проявивши харизму та авторитет для справи, ми могли б взяти гору над лідерами Демократичної партії та змусити злиття лівий блок у СФІО."
 
  FRA_ww1_worker_cooperatives:0 "Спонсор робочих кооперативів"
- FRA_ww1_worker_cooperatives_desc:0 "Індустріалізація Франції відбувалася навколо великих сімейних груп і компаній, що належали багатим інвесторам. Щоб допомогти у калібруванні багатства, уряд може встановити статус фінансованого державою підприємства. "Coopératives Ouvrières" – це тип бізнесу, де дохід розподіляється рівноправно між робітниками."
+ FRA_ww1_worker_cooperatives_desc:0 "Індустріалізація Франції відбувалася навколо великих сімейних груп і компаній, що належали багатим інвесторам. Щоб допомогти у калібруванні багатства, уряд може встановити статус фінансованого державою підприємства. "Coopératives Ouvrières" — це тип бізнесу, де дохід розподіляється рівноправно між робітниками."
 
  FRA_ww1_1911_congres_of_paris:0 "[Date.getYear] Паризький конгрес"
  FRA_ww1_1911_congres_of_paris_desc:0 "Конгрес є найвищим органом Французької секції Робітничого Інтернаціоналу. Роль конгресу полягає у визначенні політичної лінії партії та обранні її керівництва, яке має поле для маневру, збільшене останніми подіями і відкритість уряду [FRA.getLeader] до реформ."
@@ -6748,6 +6760,11 @@
 
  FRA_ww1_toward_algerian_self_managment:0 "До магрибського самоуправління"
  FRA_ww1_toward_algerian_self_managment_desc:0 "Алжир є сильною державою, якій слід запропонувати більшу автономію. За допомогою потужних інвестицій ми зможемо зробити цю колонію братською країною, здатною підтримати нас у наших міжнародних ініціативах. Ми також повинні звільнити Марокко та Туніс звільнити весь Магриб."
+ FRA_you_already_disbanded_algerian_army: "Ви вже видалили §YDivision Nord-Africaine§!, тож для утворення нової алжирської армії вам доведеться заплатити."
+ FRA_you_already_disbanded_african_army: "Ви вже видалили §YRegiment de Tirailleurs§!, тож для утворення нової африканської армії вам доведеться заплатити."
+
+ FRA_continue_fransication_program:0 "Continue the Francisation Program" # (!)
+ FRA_continue_fransication_program_desc:0 "Algeria is a settlement colony; our manifest destiny is to make it an inalienable part of French territory. To do this, we must intensify our efforts in the region through massive investment." # (!)
 
  FRA_ww1_take_advantage_of_colonial_resources:0 "Скористайтеся перевагами колоніальних ресурсів"
  FRA_ww1_take_advantage_of_colonial_resources_desc:0 "Ми маємо беззаперечну задушливу хватку в Африці, яку ми обов’язково повинні використати. Фінансуючи місцеву владу, ми могли б отримати кращі прибутки."
@@ -6765,10 +6782,10 @@
  FRA_ww1_support_the_bourse_du_travail_desc:0 "Біржа праці — це установа, в якій об’єднуються різні профспілки, об’єднані в народній боротьбі. У деяких великих містах, таких як Париж чи Бордо, існує кілька будівель, але інші можна побудувати. Поширення соціалістичної ідеології є ключем до перемога!"
 
  FRA_ww1_briand_law:0 "Закон Бріана"
- FRA_ww1_briand_law_desc:0 "Прем'єр-міністр під час піку кризи фермерів шампанського, Артістід Бріан, був поміркованим соціалістом, який ідеально відповідає вимогам виноградарів. За допомогою консенсусу лівого картелю закон про підтримку продуктів із захищеними найменуваннями можна прийняти, вивільнивши кошти для регіонів, уражених філоксерою."
+ FRA_ww1_briand_law_desc:0 "Прем'єр-міністр під час піку кризи фермерів шампанського, Арістід Бріан, був поміркованим соціалістом, який ідеально відповідає вимогам виноградарів. За допомогою консенсусу лівого картелю закон про підтримку продуктів із захищеними найменуваннями можна прийняти, вивільнивши кошти для регіонів, уражених філоксерою."
 
  FRA_ww1_briand_law_center_right:0 "Ло Бріана"
- FRA_ww1_briand_law_center_right_desc:0 "Прем'єр-міністр під час піку кризи фермерів шампанського Артістід Бріан є поміркованим соціалістом, який ідеально відповідає вимогам виноградарів. За допомогою консенсусу лівого картелю закон про підтримку продуктів із захищеними найменуваннями можна прийняти, вивільнивши кошти для регіонів, уражених філоксерою."
+ FRA_ww1_briand_law_center_right_desc:0 "Прем'єр-міністр під час піку кризи фермерів шампанського Арістід Бріан є поміркованим соціалістом, який ідеально відповідає вимогам виноградарів. За допомогою консенсусу лівого картелю закон про підтримку продуктів із захищеними найменуваннями можна прийняти, вивільнивши кошти для регіонів, уражених філоксерою."
 
  FRA_ww1_market_dynamism:0 "Динаміка ринку"
  FRA_ww1_market_dynamism_desc:0 "Відродження економіки виноробства є відкритими дверима для ширших інвестицій у розвиток нашої галузі. Ми можемо покращити продуктивність наших інструментів тими ж засобами."
@@ -6895,8 +6912,8 @@
  FRA_ww1_taxis_de_la_marne:0 "Taxis de la Marne"
  FRA_ww1_taxis_de_la_marne_desc:0 "Війна змушує нас радикально змінити нашу економіку. Виробництво має бути перенаправлено на збройову промисловість, щоб спорядити наших людей. Бензин має бути нормований, як і все, що може знадобитися нашій армії."
 
- FRA_ww1_emergency_measures:0 "Надзвичайні заходи"
- FRA_ww1_emergency_measures_desc:0 "Розвиток Великої війни спричинив уповільнення прямих бойових дій піхоти, які часто зводилися до тривалих фаз бомбардувань. Ми повинні запровадити більш ефективну систему досліджень та інновацій, фінансуючи наших незалежних сил у військовому секторі."
+ FRA_voie_sacree: "Voie sacrée"
+ FRA_voie_sacree_desc:0 "The war we are waging demands more resources than any other in the past. We must innovate in the maintenance and construction of new roads leading to the front, whether for horses, cars, or trains" # (!)
 
  FRA_ww1_anti_air_positions:0 "Протиповітряні позиції"
  FRA_ww1_anti_air_positions_desc:0 "Центральні держави розробили авіацію, здатну конкурувати з нашою, ми не можемо дозволити німцям панувати в небі Франції. За допомогою великокаліберних кулеметів можна знищувати ворожу авіацію на відстані більше кілометра. Озброймо наші форти і наші дивізії такими гарматами!"
@@ -6909,6 +6926,9 @@
 
  FRA_ww1_the_french_miracle:0 "Французьке диво"
  FRA_ww1_the_french_miracle_desc:0 "Є одна річ, якої ніколи не буде у Бошів, — це французька винахідливість. Наш народ здатний на неймовірні подвиги, від Карла Великого до Наполеона. Давайте докладемо всіх зусиль у єдину модель танка, швидку, з обертовою вежею та коротка швидкозарядна гармата, помістіть двигун ззаду, підніміть гусениці і зробіть це легендою."
+
+ FRA_ww1_favor_peugeot_tank: "Віддати перевагу танку Peugeot"
+ FRA_ww1_favor_peugeot_tank_desc:0 "The first experiments on the FT tanks demonstrated the weaknesses induced by their weak armour and the very relative usefulness of their turret. The Peugeot project proposes a tank that is more resistant and better adapted to trench warfare, in particular thanks to its thick cast armour." # (!)
 
  FRA_ww1_CA1_early_production:0 "Раннє виробництво CA1"
  FRA_ww1_CA1_early_production_desc:0 "Наш проект гусеничної машини завершено, настав час виробляти перші моделі. Schneider CA 1 — наш найдосконаліший прототип, здатний долати великі траншеї та протистояти сильному вогню з кулеметних гнізд."
@@ -7084,7 +7104,7 @@
  FRA_ww1_support_arenberg_mines:0 "Підтримайте Arenberg Mines"
  FRA_ww1_support_arenberg_mines_desc:0 "Огюст Луї Альберік д'Аренберг близький до Жака Піу, друга з моменту створення "Ralliement des catholiques de France", який володіє Compagnie des mines d'Anzin на півночі Франції. Велика регіональна промисловість, це може отримати додаткове фінансування для збільшення видобутку вугілля."
 
- FRA_SFIO_and_radicals_will_oppose_this:0 "\n£parliament_party_icon|[?v] [GetParliamentPartyName] і £parliament_party_icon|2 §OНезалежні соціалісти§! будуть рішуче проти ухвалення цього закону. Навіть якщо вони не матимуть більшості в §Yпарламенті§! і в §Ісенат§!, вони ризикують спровокувати повстанську ситуацію!§!"
+ FRA_SFIO_and_radicals_will_oppose_this:0 "\n£parliament_party_icon|[?v] [GetParliamentPartyName] і £parliament_party_icon|2 §OНезалежні соціалісти§! будуть рішуче проти ухвалення цього закону. Навіть якщо вони не матимуть більшості в §Yпарламенті§! і в §Ісенат§!, вони ризикують спровокувати §Rповстанську ситуацію!§!"
 
  FRA_ww1_revise_1905_law:0 "Переглянути закон 1905 року"
  FRA_ww1_revise_1905_law_desc:0 "Закон 1905 року відокремив церкву від держави та зробив Францію секулярною нацією. Цей закон був помилкою, він позбавив людей спільної культури та моральних цінностей, які становили престиж нашої цивілізації. завдяки численній підтримці, яку ми зараз маємо в парламенті, ми знаємо, що значна частина французького населення релігійна і буде з нами в цій життєво важливій реформі."
@@ -7101,8 +7121,8 @@
  FRA_ww1_antagonize_sfio:0 "Протистояти SFIO"
  FRA_ww1_antagonize_sfio_desc:0 "Популярність радикальних лівих рухів значно зросла за останні 15 років. SFIO обіцяє емансипацію робітників, що призведе лише до знищення держави. Їхні антиармійські, антидержавні та анти- капіталістична програма повинна бути викрита."
 
- FRA_ww1_sponsor_pla_af_fusion:0 "Спонсор PLA-AF Fusion"
- FRA_ww1_sponsor_pla_af_fusion_desc:0 "Дві головні монархічні партії протистоять питанням, пов’язаним з функціонуванням держави. Через несхвалення Папою народних ліберальних дій має відбутися злиття в межах французької акції, щоб об’єднати прихильників у більш потужну партія."
+ FRA_ww1_sponsor_pla_af_fusion:0 "Спонсорувати злиття PLA-AF"
+ FRA_ww1_sponsor_pla_af_fusion_desc:0 "Дві головні монархічні партії протистоять питанням, пов’язаним з функціонуванням держави. Через несхвалення Папою Action Liberale Populaire має відбутися злиття в межах Action Francaise, щоб об’єднати прихильників у більш потужну партія."
 
  FRA_ww1_cartel_des_droites:0 "Картель прав"
  FRA_ww1_cartel_des_droites_desc:0 "Об’єднання французьких правих — це реальність, яка дозволяє нам бути більш амбітними, коли йдеться про вплив, який ми можемо мати на національну політику. Тісно співпрацюючи, консервативні групи та Республіканська федерація могли б об’єднатися, щоб стати найбільшою групою в національні збори."
@@ -7391,8 +7411,11 @@
  FRA_ww1_break_the_german_lines:0 "Розірвати німецькі лінії"
  FRA_ww1_break_the_german_lines_desc:0 "Окопна війна робить будь-який штурм неможливим через наявність укріплень і барикад. Щоб підірвати німецькі укріплення, ми могли б сконструювати нову і важчу модель танків, здатних знищувати позиції противника."
 
- FRA_ww1_char2c:0 "The Char 2C"
+ FRA_ww1_char2c: "Char 2C"
  FRA_ww1_char2c_desc:0 "Щоб протистояти нещодавно розробленим німецьким танкам і підвищити ефективність руйнування фортець, французьке верховне командування запропонувало розробку спеціальної програми надважкого танка. Це буде дуже важка версія Renault FT. матиме 75-міліметрову гармату, понад 30-міліметрову броню і дві вежі, одна з яких кулеметна."
+
+ FRA_ww1_char_b: "Char B"
+ FRA_ww1_char_b_desc:0 "General Jean Estienne proposed the development of a 22-ton medium tank armed with a 47 mm cannon in casemate and two machine guns in a turret. This new design refers to the experience accumulated during the early part of the war, particularly with the Schneider and Peugeot tank models, which were vulnerable due to their lack of a turret." # (!)
 
  FRA_ww1_develop_morocco:0 "Розвивайте Марокко"
  FRA_ww1_develop_morocco_desc:0 "Марокко — це територія, яка залишилася недорозвиненою нашою колоніальною адміністрацією. Покінчивши з протекторатом, ми можемо дати старт місцевій економіці та отримати прибутковий прибуток лише за два роки."
@@ -7507,6 +7530,7 @@
  FRA_ww1_allied_mission_in_poland:0 "Союзна місія в Польщі"
  FRA_ww1_allied_mission_in_poland_desc:0 "Польща стикається з потужним супротивником, і її необхідно підтримати. Її незалежність може залежати від нашої політичної сміливості, щоб передати їм наш досвід."
  FRA_interwar_polish_alliance:0 "Польський Альянс"
+ FRA_interwar_polish_alliance_desc:0 "With the collapse of the Russian Empire, new allies are needed to in case Germany becomes a threat again. who better than our longtime Polish allies?" # (!)
  FRA_interwar_washington_treaty:0 "Підписати Вашингтонський договір"
  FRA_interwar_washington_treaty_desc:0 "Щоб обмежити гонку морських озброєнь, Сполучені Штати запропонували провести конференцію для укладення договору про обмеження тоннажу лінійних кораблів, крейсерів і авіаносців."
  FRA_interwar_hydroelectric_energy:0 "Гідроелектроенергетика"
@@ -7620,7 +7644,7 @@
  FRA_modernize_armored_corps_desc:0 "Бронетанкові сили відіграли важливу роль у перемозі Франції. Важливо підтримувати великі механізовані та моторизовані сили, здатні знищити будь-яке укріплення супротивника, досягнувши при цьому надзвичайної мобільності."
 
  FRA_challenge_albion:0 "Виклик Альбіону"
- FRA_challenge_albion_desc:0 "Хоча французький флот є одним із найпотужніших у світі, він залишається слабшим за королівський флот. Держава повинна надати додаткові кошти флоту, спрямованому на зміцнення його можливостей і розширення".
+ FRA_challenge_albion_desc:0 "Хоча французький флот є одним із найпотужніших у світі, він залишається слабшим за Королівські ВМС. Держава повинна надати додаткові кошти флоту, спрямованому на зміцнення його можливостей і розширення".
 
  FRA_napoleon_class:0 "Клас Наполеона"
  FRA_napoleon_class_desc:0 "Поєднання морських і повітряних сил забезпечить Франції унікальну перевагу в майбутніх війнах. Величезний авіаносець із зображенням імператора збільшить наші можливості проектування."
@@ -7643,7 +7667,8 @@
 
  FRA_interwar_rural_investments:0 "Сільські інвестиції"
  FRA_interwar_rural_investments_desc:0 "Профіцит бюджету, спричинений виплатою німецьких репарацій, дає змогу оживити нашу сільську економіку та відродити нашу важку промисловість."
- FRA_ww1_memel_occupation:0 "Вийти з Мемеленду?"
+ FRA_ww1_memel_occupation:0 "Вийти з Мемеля?"
+ FRA_ww1_memel_occupation_desc:0 "There is much uncertainty on on which country the city of Memel will join. Our occupation will end eventually, and so it's time to decide the city's fate." # (!)
  FRA_ww1_redirect_industry_to_agriculture:0 "Переадресувати промисловість на сільське господарство"
  FRA_remove_factories_sup_0:0 "Видалити §R2§! §YCivilian Factories§! на §Yeach Metropolitan State§!."
  FRA_ww1_invest_in_citroen:0 "Інвестуйте в Citroën"
@@ -7691,7 +7716,7 @@
  FRA_interwar_arrest_communist_figures:0 "Арештовувати комуністичних діячів"
  FRA_interwar_arrest_communist_figures_desc:0 "Як це часто трапляється, радикальні соціалісти демонструють свою опозицію до політики уряду. Ми повинні просто заблокувати провідних діячів крайніх лівих."
 
- FRA_interwar_raises_taxes:0 "Підвищує податки"
+ FRA_interwar_raises_taxes:0 "Підвищити податки"
  FRA_interwar_raises_taxes_desc:0 "Для стійкого усунення ризику відновлення інфляції ми повинні збільшити державні доходи та стабілізувати нашу валюту. Навіть якщо цей захід дуже непопулярний, ми повинні мати мужність вжити рішучих заходів."
 
  FRA_interwar_arrest_monarchist_figures:0 "Арештувати монархічних діячів"
@@ -7713,7 +7738,7 @@
  FRA_interwar_woo_spain_desc:0 "Іспанія опинилася у складній економічній ситуації після своєї поразки проти Сполучених Штатів під час останніх колоніальних битв. Проте потенціал цієї колишньої великої держави залишається великим. Франція могла б допомогти Іспанії в кількох економічних проектах і зробити її хороший союзник."
 
  FRA_ww1_greece_friend:0 "Підтримайте Венізелоса в Греції"
- FRA_ww1_greece_friend_desc:0 "Хоча грецький король підтримує Центральні держави, прем’єр-міністр і найпопулярніша людина в країні, прем’єр-міністр Венізелос, однозначно прихильний до Антанти, головним чином через його цілеспрямоване бажання здійснити план Мегалі. Якщо ми офіційно підтримувати його – і, можливо, також кількома неофіційними способами – ми можемо посилити його владу в регіоні."
+ FRA_ww1_greece_friend_desc:0 "Хоча грецький король підтримує Центральні держави, прем’єр-міністр і найпопулярніша людина в країні, прем’єр-міністр Венізелос, однозначно прихильний до Антанти, головним чином через його цілеспрямоване бажання здійснити план Мегалі. Якщо ми офіційно підтримувати його — і, можливо, також кількома неофіційними способами — ми можемо посилити його владу в регіоні."
 
  FRA_ww1_allied_bases:0 "Бази союзників у Греції"
  FRA_ww1_allied_bases_desc:0 "Відкриття магазину в Салоніках, тепер, коли ми маємо підтримку в цьому районі, стане підмогою для наших планів нападу на Османську імперію. Все, що нам потрібно зробити, це переконатися, що вони в хорошій формі, а болгари і османи швидко вилетять!"
@@ -7775,7 +7800,7 @@
  NFA_above_all_the_losses:0 "Понад усі втрати"
  NFA_above_all_the_losses_desc:0 "Громадянська війна закінчилася. Наразі."
  NFA_the_monarchy_restored:0 "Відновлення монархії"
- NFA_the_monarchy_restored_desc:0 ""
+ NFA_the_monarchy_restored_desc:0 "The Republic failed to protect France in its darkest hour. Its time we look to the Bourbons to save the eldest daughter of the Church." # (!)
  NFA_a_true_democracy:0 "Справжня демократія"
  NFA_a_true_democracy_desc:0 ""
  NFA_the_great_exile:0 "Велике вигнання"
@@ -8103,6 +8128,8 @@
  JAP_korean_revolt:0 "Корейське повстання"
  JAP_korean_revolt_desc:0 "Корейці почали повстання! Навіть з Маньчжурії озброєна група під назвою Корейська армія незалежності перетнула кордон і атакувала наші колоніальні війська. Через 14 днів наші війська будуть мобілізовані.\n\nВійна — це пекло."
  USA_USVI_desc:0 ""
+ JAP_ww1_korean_infrastructure: "Розширити Чьосенську урядову залізницю"
+ JAP_ww1_korean_infrastructure_desc:0 "Building more railroads on the Chōsen Peninsula would facilitate the movement of goods and people to the mainland." # (!)
 
  netherlands_focus:0 "Голландське фокусне дерево"
  HOL_dutch_neutrality:0 "Нідерландський нейтралітет"
@@ -8365,7 +8392,7 @@
  USA_migration_quotas_desc:0 "Наш обов’язок — захистити робочі місця американців. Настав час зупинити неконтрольований потік біженців."
  USA_migration_quotas_tt:0 "Запровадити соціальне страхування або почати сегрегацію, щоб уникнути конфлікту з діаспорами.\n\n"
  USA_labor_desegregation:0 "Десегрегація праці"
- USA_labor_desegregation_desc:0 "Чорне чи біле – різниця не має значення, якщо все залежить від ефективності виробництва та людського таланту."
+ USA_labor_desegregation_desc:0 "Чорне чи біле — різниця не має значення, якщо все залежить від ефективності виробництва та людського таланту."
  USA_labor_desegregation_tt:0 "Якщо десегрегацію провести до того, як до влади прийдуть соціалісти, реакціонери дестабілізують суспільство.\n\n"
  USA_army_desegregation:0 "Десегрегація армії"
  USA_army_desegregation_desc:0 "Працюйте разом. Боріться разом."
@@ -8417,7 +8444,8 @@
  USA_arms_tax:0 "Закон про національну оборону"
  USA_dont_tread_on_me:0 "Не наступайте на мене"
  USA_dont_tread_on_me_desc:0 "Зачекайте, як працюватимуть суди ancap?"
- USA_international_conference_of_american_states:0 "Міжнародна конференція американських держав"
+ USA_international_conference_of_american_states: "Конференція держав Америки"
+ USA_international_conference_of_american_states_desc: "Міжнародна конференція держав Америки."
  USA_protect_the_caribbean:0 "Захистіть Карибський басейн"
  USA_protect_the_caribbean_desc:0 "Інтервенція на Гаїті."
  USA_limited_support_of_mexican_revolution_tt:0 "Мексика повинна мати ідеологію [USA.GetName], щоб отримати нашу допомогу.\n\n"
@@ -8631,7 +8659,7 @@
  BRA_federal_army:0 "Федеральна армія"
  BRA_federal_army_desc:0 ""
  BRA_join_germany:0 "Приєднатися до Німеччини"
- BRA_join_germany_desc:0 ""
+ BRA_join_germany_desc:0 "Diplomatic relations with France have remained frosty ever since the invasion of Amapa in 1895, and the Young Turk clique of officers have made." # (!)
  BRA_claim_french_guiana:0 "Вимагати Французьку Гвіану"
  BRA_claim_french_guiana_desc:0 "Кордон Бразилії та Французької Гвіани завжди був спірним, що призвело до так званого питання Амапи. У 1895 році в акті відвертої агресії французи вторглися в провінцію Амапа. Хоча це вторгнення було відбито, Гвіана по праву є Бразильський."
  BRA_punish_the_revolters:0 "Покарати заколотників"
@@ -8643,15 +8671,15 @@
  BRA_pact_of_ouro_fino:0 "Пакт Оуро Фіно"
  BRA_pact_of_ouro_fino_desc:0 "Губернатори Сан-Паулу і Мінасу вирішили укласти альянс, головною метою якого є збереження президента, який би гарантував інтереси олігархів цих двох штатів."
  BRA_public_education_program:0 "Програма громадської освіти"
- BRA_public_education_program_desc:0 ""
+ BRA_public_education_program_desc:0 "A modern state needs a literate people. How can the nation be expected to grow if most of the population cant even read?" # (!)
  BRA_rethink_the_republic:0 "Переосмислити республіку"
- BRA_rethink_the_republic_desc:0 "Незважаючи на те, що Руй Барбоза вважається іконою бразильського республіканізму, він розчарувався політичною системою, яку він допоміг запровадити. Можливо, співпраця з монархічними рухами виправить це."
+ BRA_rethink_the_republic_desc:0 "Незважаючи на те, що Руй Барбоза вважається іконою бразильського республіканізму, він розчарувався політичною системою, яку він допоміг запровадити. Можливо, співпраця з монархістськими рухами виправить це."
  BRA_invite_prince_luis:0 "Запросити принца Луїса"
- BRA_invite_prince_luis_desc:0 "З відмовою свого брата від престолу Луїс нарешті міг ефективно співпрацювати з бразильським монархічним рухом, чітко зайнявши свою позицію спадкоємця престолу. їхніх прихильників, а в 1909 р. він представив політичний маніфест браз монархістів."
+ BRA_invite_prince_luis_desc:0 "З відмовою свого брата від престолу Луїс нарешті міг ефективно співпрацювати з бразильським монархістським рухом, чітко зайнявши свою позицію спадкоємця престолу. їхніх прихильників, а в 1909 р. він представив політичний маніфест браз монархістів."
  BRA_openly_support_the_monarchist_movement:0 "Відкрито підтримайте монархічний рух"
  BRA_openly_support_the_monarchist_movement_desc:0 "While restoring the monarchy through force of arms failed miserably, perhaps it can suceed electorally, by confronting the rubber barons and exploiting the failures of the republican government."
  BRA_social_reforms:0 "Соціальні реформи"
- BRA_social_reforms_desc:0 ""
+ BRA_social_reforms_desc:0 "The birth of the republic didnt bring the social and economic change many had hoped for, instead resulting in the country falling under tyrants and selfish oligarchs. We must continue the work Emperor Pedro II's daughter Isabel began in 1888." # (!)
  BRA_contain_the_rubber_barons:0 "Стримувати гумових баронів"
  BRA_contain_the_rubber_barons_desc:0 "Гумовий бум і пов’язана з ним потреба у великій робочій силі має значний негативний вплив на корінне населення Бразилії. Рабство та систематична жорстокість широко поширені. Це потрібно зупинити."
  BRA_never_another_encilhamento:0 "Ніколи більше Encilhamento"
@@ -8659,7 +8687,7 @@
  BRA_federalism:0 "Федералізм"
  BRA_federalism_desc:0 "Федеративна держава із гарантованими політичними свободами — це найкращий спосіб керування такою країною, як Бразилія."
  BRA_obligatory_military_service:0 "Обов'язкова військова служба"
- BRA_obligatory_military_service_desc:0 ""
+ BRA_obligatory_military_service_desc:0 "Conscription will help break down the power of oligarchs, decrease unemployment and strengthen the central government's authority." # (!)
  BRA_oligarchy_support:0 "Здобути підтримку олігархії"
  BRA_oligarchy_support_desc:0 "Після скасування монархії в 1889 році місцеві олігархи отримали велику владу, і, очевидно, вони не хотіли б її втрачати. Нам доведеться співпрацювати з ними, щоб врятувати нашу країну від громадянської війни."
  BRA_destroy_the_oligarchy:0 "Знищити олігархію"
@@ -8673,13 +8701,13 @@
  BRA_end_the_border_dispute:0 "Закінчити прикордонну суперечку"
  BRA_end_the_border_dispute_desc:0 "Прикордонний спір між урядами Парани та Санта-Катаріни має бути завершено."
  BRA_social_legislations:0 "Соціальне законодавство"
- BRA_social_legislations_desc:0 "Монархія, що підтримується соціальним законодавством, яке може створити кращі умови для бразильських робітників."
+ BRA_social_legislations_desc:0 "Монархія, що підтримується соціальним законодавством, може створити кращі умови для бразильських робітників."
  BRA_gewehr_98_pattern_rifles:0 "Гвинтівки моделі Gewehr 98"
  BRA_gewehr_98_pattern_rifles_desc:0 "Наша гвинтівка Mauser моделі 1894 сильно застаріла. Тому її слід замінити на затворну гвинтівку Gewehr 98."
  BRA_vickers_artillery:0 "Артилерія Віккерса"
- BRA_vickers_artillery_desc:0 ""
+ BRA_vickers_artillery_desc:0 "Vickers is one of the best arms companies in the world. We shall buy their much vaunted artillery." # (!)
  BRA_the_young_turks:0 "Молоді турки"
- BRA_the_young_turks_desc:0 "Молоді турки — це назва, за якою стали відомі бразильські офіцери, які пройшли військову підготовку в Німеччині."
+ BRA_the_young_turks_desc:0 "The Young Turks was the designation by which Brazilian officers who received military training in Germany became known. Perhaps it's time we listened to their advice and reorganie the army on the Prussian model, as our neighbours have done." # (!)
  BRA_communications_units:0 "Одини зв'язку"
  BRA_communications_units_desc:0 ""
  BRA_army_reform:0 "Реформа армії"
@@ -8689,21 +8717,21 @@
  BRA_jungle_battalions:0 "Батальйони джунглів"
  BRA_jungle_battalions_desc:0 ""
  BRA_lessons_of_contestado_war:0 "Уроки війни Contestado"
- BRA_lessons_of_contestado_war_desc:0 "Ми повинні використати наш досвід у війні Contesatado для нашої вигоди."
+ BRA_lessons_of_contestado_war_desc:0 "Ми повинні використати наш досвід у війні Contestado для нашої вигоди."
  BRA_first_military_aviator:0 "Перший військовий авіатор"
  BRA_first_military_aviator_desc:0 "Рікардо Кірк був першим офіцером бразильської армії, який навчився пілотувати літаки. Він закінчив École d´Aviation d´Étampes 22 жовтня 1912 року. Коли він повернувся до Бразилії, він був одним із засновників Бразильської авіації Аероклуб, куди його призначили технічним директором."
  BRA_santos_dumonts_inventions:0 "Винаходи Сантоса-Дюмона"
  BRA_santos_dumonts_inventions_desc:0 ""
  BRA_balloons_and_dirigibles:0 "Повітряні кулі та дирижаблі"
  BRA_balloons_and_dirigibles_desc:0 ""
- BRA_heavier_than_air_craft:0 "Літаки важчі за повітря"
+ BRA_heavier_than_air_craft:0 "Літаки, важчі за повітря"
  BRA_heavier_than_air_craft_desc:0 ""
  BRA_cruiser_effort:0 "Крейсерське зусилля"
  BRA_cruiser_effort_desc:0 ""
  BRA_submarine_effort:0 "Зусилля підводного човна"
  BRA_submarine_effort_desc:0 ""
  BRA_the_most_powerful_battleship_in_the_world:0 "Найпотужніший лінкор у світі"
- BRA_the_most_powerful_battleship_in_the_world_desc:0 ""
+ BRA_the_most_powerful_battleship_in_the_world_desc:0 "With the dreadnought race reaching South America the time has come to build a new warship that will make our rivals cower in fear." # (!)
  BRA_destroyer_effort:0 "Зусилля руйнівника"
  BRA_destroyer_effort_desc:0 ""
  BRA_national_cruiser_production:0 "Національне виробництво крейсерів"
@@ -8719,7 +8747,7 @@
  BRA_unite_the_empire:0 "Об'єднайте імперії"
  BRA_unite_the_empire_desc:0 "Після відновлення бразильського та португальського престолів ми повинні здійснити об’єднання наших країн, цього разу під владою Бразилії. \nМи подамо пропозицію португальському уряду, чітко давши зрозуміти, що якщо вони цього не зроблять підпише добровільно, ми будемо змушені тиснути на це питання іншими засобами..."
  BRA_professional_army:0 "Професійна армія"
- BRA_professional_army_desc:0 ""
+ BRA_professional_army_desc:0 "The current system of state militias has demonstrated to be inadequate. Only professional soldiers can restore order." # (!)
  BRA_recover_cisplatina:0 "Повернути цисплатину"
  BRA_recover_cisplatina_desc:0 "Договір у Монтевідео був помилкою. Провінція Цисплатіна повинна бути частиною Бразилії."
  BRA_rebuild_the_imperial_navy:0 "Відновити Імперський флот"
@@ -8909,11 +8937,13 @@
  CAN_france_demands_desc:0 "Французи не мають жодного бізнесу в Північній Америці. Ця земля належить Канаді та її людям."
  CAN_1812:0 "Альтернативний 1812"
  CAN_1812_desc:0 "Роками США діяли як досконала нація з досконалою системою. Це брехня, вони залякують і пригнічують своїх сусідів. Ми покажемо їм канадську силу, канадську кров і американську смерть. Ще одна пекуча воля станеться, і цього разу це будуть справжні канадці."
- CAN_integrate_midwest:0 "Інтегрувати Середній Захід"
- CAN_integrate_midwest_desc:0 "Середній Захід стане Канадою, як це завжди мало бути."
+ CAN_integrate_midwest: "Відтворити Закон про Квебек" # (&)
+ CAN_integrate_midwest_desc:0 "With the signing of the Quebec Act in 1774, the British gave us plenty of territory in the now-called 'Midwest' of the United States. We can reclaim it." # (!)
  CAN_integration:0 "Інтегрувати Нову Англію"
  CAN_integration_desc:0 "Yankeedom вже в основному канадський, чому б просто не надати йому офіційний статус."
- CAN_reintegrate_columbia:0 "Реінтегрувати Колумбію"
+ CAN_integrate_upper_midwest: "Інтегрувати верхній Серединний Захід"
+ CAN_integrate_upper_midwest_desc: ""
+ CAN_reintegrate_columbia: "Знову округ Колумбія" # (&)
  CAN_reintegrate_columbia_desc:0 "Тихоокеанське узбережжя Британської Колумбії було розділено. Ми возз’єднаємо цю територію з колишньою територією Америки."
  CAN_american_puppet:0 "Американський протекторат"
  CAN_american_puppet_desc:0 "Щоб забезпечити рівновагу в Північній Америці, ми повинні дозволити американцям керувати собою з обмеженою владою. Буде створено американський протекторат."
@@ -9013,19 +9043,20 @@
  CAN_immigrants_desc:0 "Канада величезна, і в ній є місце для більшої кількості працівників. Заохочуйте імміграцію зі сходу."
  CAN_airforce:0 "Королівські ВПС Канади"
  CAN_airforce_desc:0 "За допомогою Британії ми можемо розвинути власні ВПС для імперії."
- CAN_gun_scandal:0 "Несправність гвинтівки Росса"
- CAN_gun_scandal_desc:0 "Гвинтівка Росса зазнала величезної невдачі для Канади та наших солдатів. Ми повинні вивести цю гвинтівку з експлуатації."
- CAN_british_rifles:0 "Британський Лі-Енфілд"
- CAN_british_rifles_desc:0 "Ми повинні попросити у Британії ліцензію на гвинтівку Лі Енфілда. Це допоможе Канаді у військових зусиллях."
+ CAN_gun_scandal: "Використати британський Lee-Enfield"
+ CAN_gun_scandal_desc:0 "The Canadian-made Ross Rifle has presented itself as a failure on the battlefield. We need to adress the situation. We should use our overlord's gun; the Lee-Enfield. This will help Canada in the war Effort." # (!)
+ CAN_ross_rifle_controversy:0 "The §YRoss Rifle Controversy§! has happened" # (!)
+ CAN_british_rifles: "Кулемет Гуота"
+ CAN_british_rifles_desc:0 "The frontlines are in desperate need of moving. A new machine gun model would help." # (!)
  CAN_siberia:0 "Сибірський експедиційний корпус Канади"
  CAN_siberia_desc:0 "Білому руху потрібні союзники. Ми повинні допомогти їм усунути комуністичну загрозу раз і назавжди. Надішліть наші найбільш підготовлені північні дивізії."
- CAN_consc_crisis:0 "Призовна криза"
- CAN_consc_crisis_desc:0 "Франко-канадські націоналісти вважають, що війна в Європі є чужою війною, і вони не воюватимуть. Бураса також виступає проти призову. Як ми продовжуватимемо війну?"
+ CAN_consc_crisis: "Закон про військову службу"
+ CAN_consc_crisis_desc:0 "We need more manpower to help our allies in Europe. Let's implement a law to make more people eligible for conscription." # (!)
  CAN_commit:0 "Взяти участь у війні"
  CAN_commit_desc:0 "Канада має взяти на себе зобов’язання вести війну зброєю, ресурсами та людьми. Запровадити призов."
  CAN_bourassa:0 "Компроміс Бураси"
  CAN_bourassa_desc:0 "Як канадці, ми повинні триматися разом і слухати один одного. Проголосуйте та послабте закони про військовий обов'язок."
- CAN_riots:0 "Квебекські заворушення"
+ CAN_riots:0 "Розправитися з Квебекськими заворушеннями"
  CAN_riots_desc:0 "Квебекці вирішили підняти бунт заради війни, у якій ми всі боремося. Введіть закони про військову повинність."
  CAN_impose:0 "Накладений військовий обов'язок"
  CAN_impose_desc:0 "Квебекці нічого не можуть зробити щодо призову. Це для загального блага."
@@ -9035,7 +9066,15 @@
  CAN_industrialized_new_desc:0 "Канада є єдиною та готовою з індустріалізованим економічним серцем. Ми більше не маємо розбитої економіки."
  CAN_storm_troopers:0 "Штурмовики"
  CAN_storm_troopers_desc:0 "Поле бою сформувало нового солдата. Нас поважають як британські, так і німецькі солдати. Народився канадський штурмовик."
-
+ CAN_restrict_immigration:0 "Immigration Act"
+ CAN_restrict_immigration_desc:0 "The Immigration Act is needed to limit the flow of immigration into the Canadian country."
+ CAN_fight_for_fishing_rights_in_the_atlantic:0 "Fight for Atlantic Fishing Rights"
+ CAN_fight_for_fishing_rights_in_the_atlantic_desc:0 "The Americans hold some 'liberties' in our bays for fishing purposes. It is time to finally revoke this and limit their liberties."
+ CAN_fund_paper_mills: "Профінансувати паперові фабрики"
+ CAN_fund_paper_mills_desc: ""
+ CAN_if_they_accept: "£decision_icon_small §YЕфекти в разі згоди:§!"
+ CAN_unlock_riot: "§GВідмикає§! §Yнаціональний фокус§! §Y$CAN_gun_scandal$§!."
+ CAN_unlock_scandal: "§GВідмикає§! §Yнаціональний фокус§! §Y$CAN_riots$§!."
  1_CAN_tt: "Створює §YКарибський протекторат§!"
  2_CAN_tt: "Гарантії §YПівнічної та Південної Америки§!"
 
@@ -9527,7 +9566,7 @@
  BEL_social_reforms:0 "Social State Reforms" # (!) (? — тобто?)
 
  BEL_BCK_works:0 "BCK працює"
- BEL_BCK_works_desc:0 "Société Générale de Belgique заснувала Bas Congo au Katanga Railway Company (BCK) у 1906 році, щоб з’єднати Катангу з рештою країни. Зараз лише Родезія пов’язана з мідними шахтами, що сприяє експорту на користь Будівництво залізниць далі на північ полегшить транспортування корисних копалин до Лепольдвіля."
+ BEL_BCK_works_desc:0 "Société Générale de Belgique заснувала Bas Congo au Katanga Railway Company (BCK) у 1906 році, щоб з’єднати Катангу з рештою країни. Зараз лише Родезія пов’язана з мідними шахтами, що сприяє експорту на користь Будівництво залізниць далі на північ полегшить транспортування корисних копалин до Леопольдвіля."
 
  BEL_copper_production:0 "Виробництво сталі та міді UMHK"
  BEL_copper_production_desc:0 "Haut Katanga Mining Union — 5-та за величиною компанія з виробництва міді у світі. Її розширення тривало з моменту створення в 1906 році."
@@ -9599,7 +9638,7 @@
  BEL_the_united_netherlands:0 "Об'єднані Нідерланди"
  BEL_the_united_netherlands_desc:0 "Об'єднаним Нідерландам повернуто стару славу!"
  BEL_federalise_the_empire:0 "Федералізація"
- BEL_federalise_the_empire_desc:0 "Є третій шлях – ми офіційно оформимо федералізацію Бельгії, Люксембургу та Нідерландів. Ми Бенілюкс – рівні, а не вороги!"
+ BEL_federalise_the_empire_desc:0 "Є третій шлях — ми офіційно оформимо федералізацію Бельгії, Люксембургу та Нідерландів. Ми Бенілюкс — рівні, а не вороги!"
  BEL_progressive_royalism:0 "Прогресивний роялізм"
  BEL_progressive_royalism_desc:0 "Під Гімансом королівський уряд буде ліберальним і прогресивним. Ми знаємо, як це дивно, але це воля Його Величності, і так буде виконано!"
  BEL_neutrality_no_matter_what:0 "Нейтралітет - незважаючи ні на що!"
@@ -9671,7 +9710,7 @@
  BEL_congolese_army:0 "Створіть конголезьку армію"
  BEL_congolese_army_desc:0 "Готуючись до більшої автономії пізніше в 20 столітті, ми створимо унікальну конголезьку армію."
  BEL_integrate_congo:0 "Інтегрувати Конго"
- BEL_integrate_congo_desc:0 "Ми повинні юридично визнати Конго основною частиною Бельгії – і пожинати плоди!"
+ BEL_integrate_congo_desc:0 "Ми повинні юридично визнати Конго основною частиною Бельгії — і пожинати плоди!"
  BEL_state_pacifism:0 "Державний пацифізм"
  BEL_state_pacifism_desc:0 "Ми не хочемо війни! Бельгійці не хочуть війни! Ми встановимо державний пацифізм!"
  BEL_focus_on_welfare:0 "Зосередження на добробуті"
@@ -9769,7 +9808,7 @@
  #Швеція
  sweden_focus:0 "Шведське фокусне дерево"
  SWE_recovering_from_strike:0 "Відновлення після загального страйку"
- SWE_recovering_from_strike_desc:0 "Загальний страйк 1909 року став повною катастрофою для профспілок, які зараз стикаються з масовим відтоком членів. Однак це не так добре, як може здаватись – центральна організація анархо-синдикалістів Sveriges Arbetares зараз переживає різке зростання популярності."
+ SWE_recovering_from_strike_desc:0 "Загальний страйк 1909 року став повною катастрофою для профспілок, які зараз стикаються з масовим відтоком членів. Однак це не так добре, як може здаватись — центральна організація анархо-синдикалістів Sveriges Arbetares зараз переживає різке зростання популярності."
  SWE_support_the_landsorganisationen:0 "Підтримайте Landsorganisationen"
  SWE_support_the_landsorganisationen_desc:0 "Як би це не було неприємно, ми повинні підтримувати основні профспілки, щоб запобігти появі радикальних синдикалістів."
  SWE_support_saf:0 "Підтримайте SAF"
@@ -9969,7 +10008,7 @@
  LIB_german_arms_shipments:0 "Поставки німецької зброї"
  LIB_german_arms_shipments_desc:0 "Давайте придбаємо зброю в німців, щоб далі розвивати прикордонні сили."
  LIB_conscript_tribesmen:0 "Призвані одноплемінники"
- LIB_conscript_tribesmen_desc:0 "Ми повинні почати використовувати племінних людей, у системі, не зовсім схожій на німецьку систему Аскарі."
+ LIB_conscript_tribesmen_desc:0 "Ми повинні почати використовувати племінних людей у системі, не зовсім схожій на німецьку систему Аскарі."
  LIB_german_attache:0 "Запросити німецького аташе"
  LIB_german_attache_desc:0 "Ми повинні запросити кадри німецьких офіцерів, щоб допомогти нам розвинути нашу армію."
  LIB_expand_pan_africanism:0 "Розширити пан-африканізм"
@@ -10062,10 +10101,11 @@
  LIB_research_effort_desc:0 "Якщо ми хочемо конкурувати з державами, які домінують в Африці, ми повинні інвестувати далі в наші дослідження."
  LIB_king_for_our_people:0 "Король для нашого народу?"
  LIB_king_for_our_people_desc:0 "Хоча ми могли б просто оголосити Барклая довічним президентом і взяти на себе повний контроль, інший варіант відкритий. Проголосивши монархію, Барклай може стати імператором за лаштунками, і ми зможемо отримати всі переваги."
-   lib_industrialisation_bad_tt:0 "§RШлях швидкої індустріалізації значно дестабілізує країну!§!"
+ lib_industrialisation_bad_tt:0 "§RШлях швидкої індустріалізації значно дестабілізує країну!§!"
  lib_civil_war_divisions_tt:0 "§CCcivil War є чудовим приводом для створення нових ополчень...§!"
+
  AUH_true_personality_amidst_the_inanity2:0 "Справжня особистість серед безглуздя"
- AUH_true_personality_amidst_the_inanity2_desc:0 ""
+ AUH_true_personality_amidst_the_inanity2_desc:0 "Amidst the shallow personalities of the new Emperor's cabinet, only one has shown talent in governing; the Emperor himself." # (!)
  manfred_weiss_steel_and_metal_works:0 "Завод Манфреда Вайса"
  manfred_weiss_steel_and_metal_works_desc:0 " Металургійний завод Манфреда Вайсса є однією з найбільших компаній в імперії. Нам знадобиться їх підтримка заради індустріалізації та військової експансії."
  AUH_has_invested_in_manfred_weiss_steel_and_metal_works:0 "Інвестував у металургійний завод Manfred Weiss Steel and Metal Works"
@@ -10101,7 +10141,7 @@
 
  AUH_lobby_decision_is_halved:0 "§YАктивне лобіювання проти корупції§! Вартість і тривалість рішення §YЗменшені наполовину§!"
  AUH_research_grants:0 "Гранти на дослідження"
- AUH_research_grants_desc:0 ""
+ AUH_research_grants_desc:0 "Giving funds to universities for various fields could prove useful longterm, and potentially help us on the battlefield..." # (!)
  AUH_new_markets:0 "Нові ринки"
  AUH_new_markets_desc:0 ""
  has_invested_in_fokker:0 "Інвестував у Fokker"
@@ -10235,68 +10275,118 @@
  KUW_Jabir_dead:0 "$KUW_jabir_alsabah$ помер"
  KUW_Salim_dead:0 "$KUW_salim_alsabah$ помер"
 
- #Мускат
- MSC_foreign_affairs: "Кінець Великої війни"
- MSC_stick_with_England: "Ойркс і лев"
- MSC_deal_with_imamate: "Угода з імаматом"
- MSC_treaty_of_seeb: "Зібський договір"
+### МАСКАТ ###
+ MSC_end_of_the_great_war: "Кінець Великої війни"
+ MSC_end_of_the_great_war_desc:0 "The great war that engulfed the World is finally over. Though the war is officially over, our problems are not. As the war is over, we can focus our attention on dealing with internal issues and the future of our nation." # (!)
+ MSC_the_oyrx_and_the_lion: "Орикс і лев"
+ MSC_the_oyrx_and_the_lion_desc:0 "The [ROOT.GetAdjective] contact with Britain has started ever since the British got a hold in the Arabian Gulf. Ever since then, we've been nominally under their sphere of influence. As this secures our rule over our own autonomy, preserving the status quo under British protection is our best option." # (!)
+ MSC_deal_with_imamate: "Розквитатися з імаматом"
+ MSC_deal_with_imamate_desc:0 "While we retain control over the coastal regions, the Imams in the hinterlands keep opposing our rule, being disgruntled with the growign British influence. While their opposition still remains political, who knows what will happen if they're left unchecked." # (!)
+ MSC_treaty_of_seeb: "Себський договір"
+ MSC_treaty_of_seeb_desc:0 "As tensions are increasing in the hinterlands, we need to find a solution to placate the Imams and stopping them from an outright rebellion. With British assistance, we can compose a treaty in which the Imams in the hinterlands will have vast autonomy in their affairs while we continue our rule on the coast." # (!)
  MSC_invest_in_anglo_persian_company: "Англо-перська нафтова компанія"
- MSC_gun_purchase: "Купівля зброї"
- MSC_declare_independence: "Геть колонізаторів"
- MSC_Imperial_ambitions: "Відновити Оманську імперію"
- MSC_demand_somalia: "Вимагати Сомалі"
- MSC_buy_zanzibar: "Купівля Занзібару"
- MSC_Internal_affairs: "Справи Султанату"
- MSC_Tribal_support: "Безпечна підтримка племен"
- MSC_expand_muscat: "Розгорнути Muscat"
- MSC_modernize: "Прийняти британські реформи"
+ MSC_invest_in_anglo_persian_company_desc:0 "Anglo-Persian Oil Company has been drilling in [PER.GetName], increasing oil production in the region for a cost. Perhaps we can arrange a deal of our own to expand oil drilling in our territory." # (!)
+ MSC_arms_purchases: "Закупівлі зброї"
+ MSC_arms_purchases_desc:0 "Our ambitions are high, our resources are scarce. We can't possibly deploy a competent fighting force with the amount of equioments we have. Luckily, we can just purchase some from those who have some to spare." # (!)
+ MSC_down_with_the_colonizers: "Геть колонізаторів"
+ MSC_down_with_the_colonizers_desc:0 "Our once great empire dominating the Arabian Gulf and East African coast; is now stuck, forced into being content with being under foreign protection. This is not our worthy place in the world. We must break free from our chains and move towards restoring our domain." # (!)
+ MSC_restore_omani_empire: "Відновити Оманську імперію"
+ MSC_restore_omani_empire_desc:0 "Our country is a nation that has a long and proud past. We're no mere subjects of colonialists, but people destined to be rulers on our own. Looking to the past, we can be inspired of the great empire that we used to rule over. The great empire we can base our new one off of." # (!)
+ MSC_demand_somalia: "Вимогти Сомалі"
+ MSC_demand_somalia_desc:0 "Somalia, and most of East Africa, was once under our sphere if not our direct control. As our legacy still lies fresh on these lands, we can use our past claims as a justification to demand the return of these lands." # (!)
+ MSC_purchase_zanzibar: "Придбати Занзібар"
+ MSC_purchase_zanzibar_desc:0 "Zanzibar has long used to be under our rule. Yet European imperialists unjustly fetched this outpost in East Africa from our hands. As we've reclaimed our full independence, and set out to make our name worthy of our past legacies, perhaps we can start by purchasing this land at a decent price." # (!)
+ MSC_matters_of_the_sultanate: "Справи султанату"
+ MSC_matters_of_the_sultanate_desc:0 "Althtough our rule is undisputed, it's far from challanged. As our country struggles with internal problems, domestic opposition bites its time to find an opportunity to depose us. We must be quick and decisive in dealing with our matters." # (!)
+ MSC_secure_tribal_support: "Забезпечити підтримку племен"
+ MSC_secure_tribal_support_desc:0 "While we retain control over the capital, most of our designated territory is beyond our reach. To maintain control, we need to secure the support of the various tribes." # (!)
+ MSC_expand_muscat: "Розширити місто [ROOT.Capital.GetCapitalVictoryPointName]"
+ MSC_expand_muscat_desc:0 "Our capital, [ROOT.Capital.GetCapitalVictoryPointName], must be the shining example of what our nation has become. We must expand the city's districts and continue its urbanisation." # (!)
+ MSC_accept_british_reforms: "Прийняти британські реформи"
+ MSC_accept_british_reforms_desc:0 "It is true that our nation is stuck up in the past in terms of several policy areas. In order to adapt to the modern era, we must look outwards, perhaps the British, to model our reforms after." # (!)
  MSC_abolish_slavery: "Скасувати рабство"
- MSC_renovate_palace: "Відновити палац Аль-Алам"
- MSC_limited_land_reorganization: "Обмежені коригування"
- MSC_invite_arab_advisors: "Whabbi and Cairene Advisors"
- MSC_Imamate: "Імамат Оману"
+ MSC_abolish_slavery_desc:0 "It's a shameful fact that our state still participated slavery. Even though we've seen many pressure from other povers to abolish it, we never came to do so. Perhaps it is now that we must take this historical step and see every men free under the sun." # (!)
+ MSC_renovate_al_alam_palace: "Оновити палац аль-Алам"
+ MSC_renovate_al_alam_palace_desc:0 "Al Alam Palace is where our Sultan resides. As this man represents the power and the glory of our nation, his reputation must meet international standards. This includes the very palace he accommodates his foreign guests in." # (!)
+ MSC_limited_adjustments: "Обмежені підлаштування"
+ MSC_limited_adjustments_desc:0 "While the world is changing, our society does not. It would be ignorant to assume our society would just keep up with the face changing pace of the world. If we're gonna implement some reforms, they must be slow and cautious to not trigger any opposition." # (!)
+ MSC_whabbi_and_cairene_advisors:0 "Whabbi and Cairene Advisors" # (!)
+ MSC_whabbi_and_cairene_advisors_desc:0 "While the Western world is the driving powers of the world, the Arab countries surely arent left with the crumbs. Two big and promising Arab powers, the Saudis and the Egyptians, shall aid us with their advisors." # (!)
 
- #Перська затока
- persian_gulf_focus:0 "Фокусне дерево Перської затоки"
- GULF_economy_focus: "Встановити контроль над економікою"
- GULF_Prospect_oil: "Проспект нафти"
- GULF_national_railroads: "Прокласти сучасні рейки"
- GULF_Modern_economy: "Сучасна економіка"
- GULF_build_heavy_industry: "Індустріалізація [ROOT.Capital.GetCapitalVictoryPointName]"
- GULF_foreign_investments: "Британські інвестиції"
- GULF_improve_life_qualities: "Безкоштовні клініки"
- GULF_economic_boom: "[ROOT.GetAdjective] Чудо"
- GULF_modernize_Islamic_School: "[Get_GULF_modernize_Islamic_School_name]"
- GULF_modernize_Islamic_School_name: "Модернізація ісламської школи"
- MSC_modernize_Zawawi_School: "Модернізуйте Al Zawawi"
- QAT_modernize_Katateeb: "Модернізувати локальний Katateeb"
- BHR_modernize_Khalifia_School: "Знайдено Al Hedaya Al Khalifia"
- GULF_agricultural_economy: "Економіка сільського господарства"
- GULF_Stick_agriculture_fishing: "[Get_GULF_Stick_agriculture_fishing_name]"
- GULF_Stick_agriculture_fishing_name: "Дотримуйтесь рибальства та фермерства"
- GULF_Stick_agriculture: "Дотримуйтесь фермерства"
- GULF_more_fish: "Більше риби"
- GULF_reorganize_land: "Реорганізувати землю"
- GULF_pearl_tax: "Податок на перлини"
- GULF_import_foreign_tractors: "Імпорт іноземних тракторів"
+### ПЕРСЬКА ЗАТОКА ###
+ persian_gulf_focus: "Дерево фокусів Перської затоки"
+ GULF_establish_control_over_the_economy:0 "Establish Control Over the Economy" # (!)
+ GULF_establish_control_over_the_economy_desc:0 "Our country remains highly rural and far from industrialized. If we let things develop on their own, it will take quite a time for us to urbanize. We should establish control over the economy and lead this push ourselves." # (!)
+ GULF_prospect_oil:0 "Prospect for Oil" # (!)
+ GULF_prospect_oil_desc:0 "To our luck, our lands have untapped oil reserves laying down under. Blessed with the recent technological advancements, we can start extracting some of them." # (!)
+ GULF_lay_modern_railways:0 "Lay Modern Rails" # (!)
+ GULF_lay_modern_railways_desc:0 "Our nation has mostly been left out from the industrial revolution and the railways came with it. As we start replacing rural roads with modern railways, we will increase our development." # (!)
+ GULF_a_modern_economy:0 "A Modern Economy" # (!)
+ GULF_a_modern_economy_desc:0 "Our country lacks industry wise compared to other contemporary powers. We must invest heavily into our economy to uplift it to the modern standards." # (!)
+ GULF_industrialize_capital:0 "Industralize [ROOT.Capital.GetCapitalVictoryPointName]" # (!)
+ GULF_industrialize_capital_desc:0 "Our industrialization campaign must start from the city that the political power lays on. As we industrialize our capital, the spoils of urbanization will directly affect us." # (!)
+ GULF_british_investments:0 "British Investments" # (!)
+ GULF_british_investments_desc:0 "Britain is a power making her power felt across the region. Thanks to our strategic location, we can convince them to invest in our nation." # (!)
+ GULF_free_clinics:0 "Free Clinics" # (!)
+ GULF_free_clinics_desc:0 "As the rulers of this land, we have responsibilities towards our citizens. We must open free clinics up to modern standards to tackle mortality and diseases." # (!)
+ GULF_country_miracle:0 "[ROOT.GetAdjective] Miracle" # (!)
+ GULF_country_miracle_desc:0 "After our long efforts to industrialize and modernize our economy, we've finally reached our goals. From this point onwards, we will enjoy the spoils of our economic growth." # (!)
+ GULF_modernize_islamic_school: "[GULF_modernize_islamic_school]"
+ GULF_modernize_islamic_school_name:0 "Modernize Islamic School" # (!)
+ GULF_modernize_islamic_school_desc: "[GULF_modernize_islamic_school_desc]"
+ GULF_modernize_islamic_school_name_desc:0 "Current religion driven schools barely go beyond just teaching our kids the Quran. If we want to catch up to the West in terms of science, we must modernize these schools." # (!)
+ MSC_modernize_al_zawawi:0 "Modernize Al Zawawi" # (!)
+ MSC_modernize_al_zawawi_desc:0 "Centres of modern education in our country scarce. In order to spread modern education in our country, we must cooperate with the Al Zawawi family and establish an institution of higher education." # (!)
+ QAT_modernize_local_katateeb:0 "Modernize Local Katateeb" # (!)
+ QAT_modernize_local_katateeb_desc:0 "Indeed there are countless of Katateeb schools spread across our country. Yet these places barely go beyond just teaching the Quran. We must modernize Katateebs and ensure they provide modern education." # (!)
+ BHR_found_al_hedaya_al_khalifa:0 "Found Al Hedaya Al Khalifia" # (!)
+ BHR_found_al_hedaya_al_khalifa_desc:0 "Indeed there are countless of Katateeb schools spread across our country. Yet these places barely go beyond just teaching the Quran. By opening our first public school in our country, we can kickstart modern education." # (!)
+ GULF_agricultural_economy:0 "Agricultural Economy" # (!)
+ GULF_agricultural_economy_desc:0 "Instead of accepting the exploitative tactics of modern economic, we must protect our people from the infidelity of the of the modern economic. Instead, we'll continue keeping our economy agriculture based." # (!)
+ GULF_stick_agriculture_fishing: "[GULF_stick_agriculture_fishing]"
+ GULF_stick_to_fishing_and_farming:0 "Stick to Fishing and Farming" # (!)
+ GULF_stick_to_farming:0 "Stick to Farming" # (!)
+ GULF_stick_agriculture_fishing_desc: "[GULF_stick_agriculture_fishing_desc]"
+ GULF_stick_to_fishing_and_farming_desc:0 "For centuries, our ancestors have been living in these lands, earning their lives by fishing and farming. We do not know such concepts of "factory" or "oil". All we care about is to continue the very lifestyle our ancestors once lived." # (!)
+ GULF_stick_to_farming_desc:0 "For centuries, our ancestors have been living in these lands, earning their lives by farming. We do not know such concepts of "factory" or "oil". All we care about is to continue the very lifestyle our ancestors once lived." # (!)
+ GULF_better_fishing_farming_tactics: "[GULF_better_fishing_farming_tactics]"
+ GULF_better_fishing_tactics:0 "Better Fishing Tactics" # (!)
+ GULF_better_farming_tactics:0 "Better Farming Tactics" # (!)
+ GULF_better_fishing_farming_tactics_desc: "[GULF_better_fishing_farming_tactics_desc]"
+ GULF_better_fishing_tactics_desc:0 "We will not only adopt the ways of our ancestors, we will improve upon them. By improving our fishing techniques, we can catch more fishes." # (!)
+ GULF_better_farming_tactics_desc:0 "We will not only adopt the ways of our ancestors, we will improve upon them. By improving our farming techniques, we can yield bigger harvests." # (!)
+ GULF_land_reorganization:0 "Land Reorganization" # (!)
+ GULF_land_reorganization_desc:0 "Land usage in our country is not the most effective. We can redraw some lines, put some laws and make sure the limited land we have is used effectively." # (!)
+ GULF_pearl_tax:0 "Pearl Tax" # (!)
+ GULF_pearl_tax_desc:0 "Our great grandfathers have always been occupied with the pearl trade. As pearl trade still reigns popular, taxing it will surely bring some much needed revenue." # (!)
+ GULF_import_foreign_tractors:0 "Import Foreign Tractors" # (!)
+ GULF_import_foreign_tractors_desc:0 "Though we've embraced a rural lifestyle highly relying on agriculture, we surely can use technology to increase our yields. By importing modern agriculture equipment, we can increase our harvests." # (!)
  GULF_army_focus: "[Get_GULF_army_focus_name]"
- GULF_army_focus_name: "Армія Емірі"
- MSC_army_focus: "Султанська армія"
- OMA_army_focus: "Імамат армія"
- ARB_army_focus: "Армія шейха"
- GULF_Our_ships: "[Get_GULF_Our_ships_name]"
- GULF_Our_ships_name: "Кораблі Еміра"
- MSC_Our_ships: "Кораблі султана"
- OMA_Our_ships: "Кораблі Імама"
- ARB_Our_ships: "Кораблі шейха"
- GULF_trade_ships: "Розширити торговельний флот"
- GULF_arms_factory: "Фабрика зброї"
- GULF_ottoman_artillery: "Таємна османська угода"
- GULF_War_plans: "Плани війни"
- GULF_Military_Airfield: "Військовий аеродром"
- GULF_war_ships: "Попросіть британський есмінець"
- GULF_naval_plan: "Про всяк випадок"
- GULF_army_reform_complete: "Завершити реформу армії"
+ GULF_army_focus_name:0 "Emiri Army" # (!)
+ MSC_army_focus:0 "Sultanic Army" # (!)
+ OMA_army_focus:0 "Imamate Army" # (!)
+ ARB_army_focus:0 "Sheikh's Army" # (!)
+ GULF_army_focus_desc:0 "We're in the midst of a grand regional struggle. In order to hold some leverage over our neighbors and foreign powers, we need to be capable of defending ourselves. For that, we must start building an army starting from today." # (!)
+ GULF_our_ships: "[Get_GULF_our_ships_name]"
+ GULF_our_ships_name:0 "Emir's Ships" # (!)
+ MSC_our_ships:0 "Sultan's Ships" # (!)
+ OMA_our_ships:0 "Imam's Ships" # (!)
+ ARB_our_ships:0 "Sheikh's Ships" # (!)
+ GULF_our_ships_desc:0 "Having a land force is not enough on its own. We also need to protect our shores. We must invest into the construction of a fleet before the enemy come knocking on our door." # (!)
+ GULF_expand_the_merchant_fleet:0 "Expand the Merchant Fleet" # (!)
+ GULF_expand_the_merchant_fleet_desc:0 "Trade is as important as warfare itself. By expanding our merchant fleet, we will be able to increase our reach through the gulf to the outer world." # (!)
+ GULF_weapons_factory:0 "Weapons Factory" # (!)
+ GULF_weapons_factory_desc:0 "Our allignment with the British puts us in a favorable place for military industrialization. With their help, we can start opening our first couple of weapons factories." # (!)
+ GULF_secret_ottoman_deal:0 "Secret [TUR.GetAdjective] Deal" # (!)
+ GULF_secret_ottoman_deal_desc:0 "While we're officially under the British sphere, we must be ready to protect ourselves our overlords too. By signing a secret artillery deal with [TUR.GetNameDef], we will prepare ourselves for the worst case scenario." # (!)
+ GULF_war_plans:0 "War Plans" # (!)
+ GULF_war_plans_desc:0 "A war cant be won with ineffective tactics. By studying the battlefield, we can draw our own plans for future wars we might face." # (!)
+ GULF_military_airfield:0 "Military Airfield" # (!)
+ GULF_military_airfield_desc:0 "Aviation is the future of warfare. With help from the British, we'll construct airports to harbour aircrafts." # (!)
+ GULF_ask_for_british_destroyers:0 "Ask for British Destroyers" # (!)
+ GULF_ask_for_british_destroyers_desc:0 "As Britain is the predominant naval power of the World, they possess a grand fleet with definitely have some old ships to spare. By asking nicely, perhaps they can donate an old ship or two to our small teeny tiny country." # (!)
+ GULF_just_in_case:0 "Just in Case" # (!)
+ GULF_just_in_case_desc:0 "Indeed we are planing on securing our nation through diplomacy. Yet in case our enemies come knocking at our door with their fancy ships, we need a plan ready just in case. Through improving our naval tactics and fortifying our shores, we can be ready for outside invasions." # (!)
 
  #південноросійськаармія
  SRA_ice_march:0 "Крижаний марш"
@@ -10498,7 +10588,7 @@
  WHI_hello_to_brother_democracy:0 "Привіт Brother-Democracy"
  WHI_hello_to_brother_democracy_desc:0 ""
  WHI_approach_the_samurai:0 "Підійти до самурая"
- WHI_approach_the_samurai_desc:0 ""
+ WHI_approach_the_samurai_desc:0 "Despite our distaste for the Japanese, we have no choice but to work with them if we hope to hold onto the Far East." # (!)
  WHI_deal_with_germany:0 "Угода з Німеччиною"
  WHI_deal_with_germany_desc:0 "Взаємодія з Німеччиною за принципом "ворог мого ворога — мій друг» відкриває канал для стратегічної співпраці та ресурсів, потенційно схиляючи терези на нашу користь."
  WHI_ask_for_humanitarian_aid:0 "Попросити гуманітарну допомогу"
@@ -10566,8 +10656,7 @@
 
  toptani_coup_1913:0 "Відбувся переворот Топтані 1913 року"
 
- #туніс, лол
-
+### ТУНІС ###
  TUN_demarcate_tunisian_lybian_border:0 "Демаркація тунісько-лівійського кордону"
  TUN_demarcate_tunisian_lybian_border_desc:0 "Кордон між Тунісом і Лівією наразі обговорюється і має призвести до встановлення чіткого кордону в прикордонній зоні довжиною понад 460 км."
 
@@ -10614,7 +10703,7 @@
  TUN_restore_the_CFI:0 "Відновити CFI"
  TUN_restore_the_CFI_desc:0 "Міжнародна фінансова комісія керувала нашим боргом до французького втручання. Ця організація може стати новим гарантом нашої стабільності, зберігаючи нашу незалежність. Вона не буде таким щедрим кредитором, як Франція, але забезпечить певну стабільність і дозвольте нам продовжувати наші реформи."
 
- TUN_reach_germans:0 "Достукатися до німців"
+ TUN_reach_germans: "Зв'язатися з Німеччиною"
  TUN_reach_germans_desc:0 "Німецька імперія є найбільшою державою на європейському континенті та природним ворогом Франції. Ймовірно, вони зацікавлені в підтримці нас у нашій боротьбі за незалежність."
 
  TUN_mobilize_the_sheiks:0 "Мобілізувати шейхів"
@@ -10709,6 +10798,15 @@
  cancel_focus:0 "§YСкасувати фокус:§!"
  skip_focus:0 "§YПропустити фокус:§!"
 
+ FRA_caid_and_pachas_tutelage:0 "Caïds and Pachas Tutelage" # (!)
+ FRA_caid_and_pachas_tutelage_desc:0 "To restore order in the provinces, Lieutenant General Lyautey decided to create a branch dedicated to the administration of the Caïds and Pashas of Morocco. Several local establishments would be placed in strategic cities to monitor the loyalty and contributions of the Sultan's servants." # (!)
+
+ FRA_franco_arab_schools: "Франко-арабські школи"
+ FRA_franco_arab_schools_desc:0 "As in Algeria and Tunisia, the Moroccan education system must be modernized to offer bourgeois youth a European education. This reform aims to create a new, educated, and innovative Moroccan elite." # (!)
+
+ FRA_support_habous:0 "Support Habous" # (!)
+ FRA_support_habous_desc:0 "To preserve Morocco's stability, particular emphasis must be placed on respecting traditions and Islam. The protectorate must provide guarantees for the authority of the habous, powerful local religious leaders." # (!)
+
  #Північно-Західна армія
  NWA_with_german_support: "Військова допомога з Німеччини"
  NWA_with_german_support_desc: "Німці погодилися надати нам зброю, щоб допомогти взяти Петроград. В обмін німці очікують, що ми створимо пронімецький уряд у Петрограді після того, як ми його захопимо."
@@ -10786,13 +10884,13 @@
  NWA_no_together_with_other_white_forces_desc: "Ті самозванці в Сибіру та на Доні схожі на більшовиків, оскільки жоден із них не вартий мантії Славної Росії. Через це ми є єдиними справжніми спадкоємцями Російської імперії, а тому ми зобов’язані відновити Росію її колишню славу."
  NWA_mobilize_people: "Мобілізувати людей"
  NWA_mobilize_people_desc: "Боротьба проти більшовиків потребує повної мобілізації нашого народу. Кожен чоловік і жінка повинні бути готові зробити свій внесок у нашу справу, чи то в прямих боях, чи то на підтримку."
- NWA_keep_volunteer: "Зберегти концепцію добровольчої армії"
+ NWA_keep_volunteer: "Зберегти добровольчу армію"
  NWA_keep_volunteer_desc: "Серце нашого опору лежить у дусі волонтерства. Зберігаючи структуру Добровольчої армії, ми спираємося на патріотизм і відданість наших людей, створюючи грізну силу, віддану справі білих і звільненню Росії від Більшовицький контроль."
  NWA_repair_baltic_fleet: "Повернути кораблі класу Gangut"
  NWA_repair_baltic_fleet_desc: "Усі кораблі класу Гангут, окрім Петропавловська, були зупинені більшовиками до того, як ми взяли Петроград, але тепер, коли ми контролюємо Петроград, ми можемо їх відновити. Незважаючи на те, що їх ремонт займе чимало часу, все одно це буде варте того через довгий час бігти."
  NWA_repair_baltic_fleet_tt: "Три пошкоджені лінкори класу YGangut§!, які ми захопили під час взяття Петрогарда, буде переміщено на Балтійську верф для ремонту"
- NWA_improve_officer_corps: "Вирішіть проблеми в офіцерському корпусі"
- NWA_improve_officer_corps_desc: "З моменту заснування нашої армії в офіцерському корпусі виникло багато проблем, наприклад призначення офіцерів батальйонного рівня керувати полками. Іншою проблемою в офіцерському корпусі є небажання працювати разом. Ми повинні вирішити проблеми всередині офіцера корпусу, якщо ми хочемо, щоб наша армія працювала належним чином."
+ NWA_improve_officer_corps: "Вирішити проблеми в офіцерському корпусі"
+ NWA_improve_officer_corps_desc: "З моменту заснування нашої армії в офіцерському корпусі виникло багато проблем, наприклад призначення офіцерів батальйонного рівня керувати полками. Іншою проблемою в офіцерському корпусі є небажання працювати разом. Ми повинні вирішити проблеми всередині офіцера корпусу, якщо ми хочемо, щоб наша армія функціонувала."
  NWA_restart_putilov_production: "Перезапустити виробництво броньованих автомобілів"
  NWA_restart_putilov_production_desc: "До страйків, які поклали початок першій революції, Путіловський завод виробляв броньовані автомобілі разом із іншою продукцією. Тепер, коли ми знову контролюємо завод, ми можемо продовжити виробництво броньованих автомобілів, щоб отримати перевагу над більшовиками."
  #NWA day tooltips
@@ -10803,7 +10901,7 @@
  ALB_the_emergence:0 "Поява"
  ALB_the_emergence_desc:0 "Ми нарешті вільна нація після цілої ери іноземного правління. Ми повинні почати створювати нашу націю."
  ALB_declaration_of_independence:0 "Декларація незалежності"
- ALB_declaration_of_independence_desc:0 "Як вільна нація, ми повинні проголосити нашу незалежність і вивести нас на світову арену. Незалежна Албанія."
+ ALB_declaration_of_independence_desc:0 "Як вільна нація, ми повинні проголосити нашу незалежність і самоствердитися на світовій арені."
  ALB_organize_armed_forces:0 "Організувати збройні сили"
  ALB_organize_armed_forces_desc:0 "Наші збройні сили — це лише зграя ополчення. Якщо ми хочемо пережити майбутні випробування, нам потрібно створити правильну армію."
  ALB_establish_public_services:0 "Створити державні служби"
@@ -10817,10 +10915,10 @@
  ALB_trieste_congress:0 "Трієстський конгрес"
  ALB_trieste_congress_desc:0 "Для просування наших національних інтересів і підвищення легітимності нашого уряду ми призначимо представників на майбутній Всеалбанський конгрес Трієста за підтримки Австрії. Однією з головних тем також будуть вибори монарха, враховуючи, як монархія, особливо з важливою королівською особою, принесе нам більше легітимності та приведе когось, визнаного, щоб представляти нас у мирських справах."
  ALB_our_arch_enemy:0 "Наш головний ворог"
- ALB_our_arch_enemy_desc:0 "Королівство Сербія все ще окупує наші основні землі без дозволу. Великі держави здебільшого нічого не роблять, за помітним винятком Австро-Угорщини, яка вже змусила сербський уряд відійти від нашого берега. Проте вони все ще окупують нашу внутрішню територію, а також райони зі значною албанською більшістю. Хоча ми не в змозі протистояти сербам і чорногорцям, ми можемо скористатися підтримкою Австрії наші інтереси піклуватися про це разом із підтримкою нашого населення в можливих повстаннях проти сербського тиранічного правління вже пропонують нам спробу повстання."
+ ALB_our_arch_enemy_desc:0 "Королівство Сербія все ще окупує наші основні землі без дозволу. Великі держави здебільшого нічого не роблять, за помітним винятком Австро-Угорщини, яка вже змусила сербський уряд відійти від наших берегів. Проте вони все ще окупують нашу внутрішню територію, а також райони зі значною албанською більшістю. Хоча ми не в змозі протистояти сербам і чорногорцям, ми можемо скористатися підтримкою Австрії наші інтереси піклуватися про це разом із підтримкою нашого населення в можливих повстаннях проти сербського тиранічного правління вже пропонують нам спробу повстання."
  ALB_an_old_option:0 "Старий варіант"
  ALB_an_old_option_desc:0 "Хоча ми здобули незалежність, ми здебільшого не боролися за це. Переважна більшість нашого населення була б задоволена перебуванням під османським сюзеренітетом, під захистом османського султана та ісламського халіфа Можливо, нам слід прислухатися до їхніх криків і підтримати їх Союз і Прогрес, і вони пообіцяли свою підтримку в наших планах, однак ми повинні знати, що наші міжнародні захисники не сприймуть цей крок легковажно, наші сусіди та наша легітимність, безсумнівно, постраждають, навіть якщо план вдасться, зважаючи на те, як ми живемо. охоче повертаючись під їхній великий палець."
- ALB_prepare_ottoman_coup:0 "Підготуйте Османський переворот"
+ ALB_prepare_ottoman_coup:0 "Підготувати проосманський переворот"
  ALB_prepare_ottoman_coup_desc:0 "Оскільки більшість нашого мусульманського населення підтримує цю ініціативу, а також османські обіцянки доброзичливого правління, автономії та підтримки наших ірдентистських вимог, ми готові розпочати підготовку до самоперевороту Ісмаїла Кемалі. Однак ми повинні бути обережними, якщо Сербія чи Міжнародна контрольна комісія з’ясують, що ми намагаємося зробити, наслідки наших дій можуть бути невблаганний."
  ALB_nationalist_agitation_in_kosmet:0 "Націоналістична агітація"
  ALB_nationalist_agitation_in_kosmet_desc:0 "У нещодавно завойованій Сербією провінції Косово є велика кількість албанців, які незадоволені сербським тиранічним правлінням. Можливо, ми можемо переконати їх перевести свої слова на дії. Будь-які дії були б бажаними, будь-який убитий сербський солдат, цивільний, адміністратор, вчитель, хто завгодно, відповість за нашу справу."
@@ -11063,182 +11161,6 @@
 
  nationalist_leave_coalition:0 "§LНаціоналісти§! залишають нашу §YКоаліцію§!, через що ми втрачаємо §R[?temp_nationalists] місця§!."
 
- # Саудівська Аравія
- SAU_Convene_Shura: "Скликати Шура Меджліс"
- SAU_Convene_Shura_desc: "Настав час скликати раду радників, щоб консолідувати владу в Саудівській Аравії. Ця важлива асамблея покращить наше управління, уніфікує наші стратегії та забезпечить узгодження з довгостроковими цілями королівства. Об’єднавши наших найбільш надійних радників, ми можемо вирішувати нагальні проблеми, зміцнювати наш вплив і реалізувати політику більш ефективно швидко реагувати на виклики та забезпечити процвітаюче майбутнє Саудівської Аравії."
- SAU_expand_ikhwan_militias: "Розширити племінні ополчення"
- SAU_expand_ikhwan_militias_desc: "Кілька племен осідають і формують власні ополчення. Одна група називає себе Іхван. Хоча вони ще не дуже добре організовані, вони готові ставати сильнішими. Тому ми повинні підтримати їх і надати їм наш прапор."
- SAU_conscript_tribes: "Призвані одноплемінники"
- SAU_conscript_tribes_desc: "У регіоні є багато племен, і нам потрібно залучити їх для боротьби за державу Саудівська Аравія. Їх підтримка має вирішальне значення для зміцнення наших сил і забезпечення нашого панування. Інтегруючи ці племена в наші ряди, ми можемо побудувати єдину фронту та збільшувати наші можливості."
- SAU_camelry: "Підрозділи верблюдів"
- SAU_camelry_desc: "Верблюди служили арабам протягом століть і є ідеальним засобом пересування у величезних пустелях Неджд. Їх недаремно називають "кораблями пустелі." Ці витривалі тварини унікально пристосовані до суворих умов пустелі, забезпечення надійної мобільності та життєзабезпечення в умовах, коли інші види транспорту не зможуть працювати."
- SAU_Bedouin_Tactics: "Тактика бедуїнів"
- SAU_Bedouin_Tactics_desc: "Мандрівні бедуїни, які поколіннями жили в цих пустелях, використовують унікальну тактику, щоб вижити. Вони орієнтуються за зірками, зберігають воду, подорожуючи в прохолодну частину дня, і використовують природний притулок і ресурси, які надає ландшафт. Тихе знання пустелі дозволяє їм процвітати в середовищі, яке є негостинним для більшості. "
- SAU_Bedouin_logistics: "Бедуїнська логістика"
- SAU_Bedouin_logistics_desc: "Логістика бедуїнів настільки ж вражаюча; вони перевозять основні запаси, такі як сушені продукти та воду, у переносних легких контейнерах, а також створюють тимчасові табори, які можна швидко зібрати та розібрати. Це поєднання знань, стратегії та ефективного управління ресурсами дозволяє їм процвітати в середовищі, непривітному для більшості."
- SAU_confiscate_otoman_weapones: "Конфіскувати османську зброю"
- SAU_confiscate_ottoman_weapones_desc: "Багато османських патрулів і гарнізонів перетинають кордон Неджду. Ми повинні здійснити на них рейд і захопити їхнє обладнання. Ці рейди завадять їхнім операціям і дадуть нам цінні ресурси для зміцнення наших сил. Націлившись на ці патрулі та гарнізони, ми можемо послабити їх присутності в регіоні та посилення нашої стратегічної переваги, крім того, захоплення їхніх поставок збільшувати наші власні можливості, роблячи наші сили більш грізними в боротьбі, що триває."
- SAU_Ihsaa_naval_base: "Військово-морська база Даммам"
- SAU_Ihsaa_naval_base_desc: "Тепер, коли ми завоювали Ісаа та його теплі порти, ми можемо розпочати планування військово-морського флоту Саудівської Аравії, починаючи з будівництва військово-морської бази в Даммамі. Створення цієї військово-морської бази стане наріжним каменем нашої морської стратегії, що дозволить нам спроектувати силу та захистити наші інтереси вздовж берегової лінії, маючи доступ до портів Ісаа, ми можемо розвинути флот, який забезпечує захист наших вод, сприяє торгівлі та посилює наш регіональний вплив. Ця ініціатива не тільки зміцнить наш військовий потенціал, але й сприятиме економічному зростанню та стабільності в регіоні."
- SAU_Darin_Airfield: "Захопити аеродром Дарін"
- SAU_Darin_Airfield_desc: "Британці побудували невеликий аеродром і покинули його на острові Тарут, поруч із містом Дарін. Ми повинні захопити та використати його. Взявши під контроль цей аеродром, ми отримаємо стратегічний актив, що покращить наші повітряні можливості і розширення нашого охоплення в регіоні."
- SAU_intergrate_ikhwan_to_military: "Військова централізація"
- SAU_intergrate_ikhwan_to_military_desc: "Саудівська держава повинна модернізувати та централізувати свою армію замість того, щоб покладатися на ополчення та племена. Цей перехід має вирішальне значення для посилення нашої обороноздатності та забезпечення національної безпеки. Централізувавши армію, ми можемо оптимізувати командні структури, покращити координацію та запровадити стандартизовані протоколи навчання та обладнання"
- SAU_Purchase_German_Guns: "Купити німецьку зброю"
- SAU_Purchase_German_Guns_desc: "Німці виробляють найкращу та найефективнішу зброю у світі, тому ми повинні запросити її для власного використання. Придбання німецької зброї значно зміцнило б наші військові можливості, озброївши наші сили передовими технологіями та підвищивши нашу оперативну ефективність. "
- SAU_recruit_city_militias: "Набір міського ополчення"
- SAU_recruit_city_militias_desc: "Багато міст і поселень мають власні ополченці для їх захисту. Ми могли б залучити їх до армії та замінити їх сучасною поліцією. Цей перехід покращить безпеку, правоохоронну практику та забезпечить захист громад."
- SAU_Arab_Horsemanship: "Арабська верхова їзда"
- SAU_Arab_Horsemanship_desc: "В арабській історії коні також були такими ж важливими, як і верблюди. Хоча вони не можуть витримати пустелю без їжі, як верблюди, вони безцінні в битвах. Їхня спритність, швидкість і сила роблять їх важливими активами на полі бою, уможливлюючи швидкі маневри і ефективні кавалерійські атаки. Незважаючи на те, що вони відрізняються від верблюдів, коні історично відігравали вирішальну роль роль у військовій тактиці та стратегії, сприяючи арабській військовій доблесті протягом історії."
- SAU_study_mobile_warfare: "Вивчіть британську техніку"
- SAU_study_mobile_warfare_desc: "Сьогодні мобільна війна стає все більш популярною. Часи піхоти та кавалерії незабаром можуть бути затьмарені домінуванням броньованих автомобілів у майбутніх війнах. Їхня металева конструкція надає їм стійкість до спеки пустелі, на відміну від людей і тварин. Ці транспортні засоби пропонують мобільність, вогнева міць і захист, що робить їх ключовими в сучасній армії стратегії."
- SAU_copy_ottoman_army_command: "Копіювати османське командування"
- SAU_copy_ottoman_army_command_desc: "Османська імперія є гегемоном Близького Сходу та найсильнішою країною тут, головним чином завдяки своїй модернізованій зброї, яка черпає натхнення з європейських військових. Ця стратегічна модернізація підвищила їх військову майстерність, дозволяючи їм утримувати домінування в регіоні Взявши на озброєння європейську військову техніку та технології, османи розширили свої оперативні можливості від логістики до тактики."
- SAU_build_arms_factory: "Побудувати збройовий завод"
- SAU_build_arms_factory_desc: "замість того, щоб імпортувати зброю, ми повинні почати виробляти власну зброю, щоб досягти самозабезпеченості. Створення вітчизняної збройової промисловості не лише зміцнить нашу обороноздатність, але й стимулюватиме економічне зростання та технологічний прогрес. Інвестуючи у місцеве виробництво зброї, ми може створити робочі місця, накопичити досвід і зменшити залежність від іноземних постачальників."
- SAU_Jihad: "Державний джихад"
- SAU_Jihad_desc: "Джихад, що означає боротьбу, являє собою чисту форму боротьби для захисту своєї батьківщини, дому, сім’ї та себе від гнобителів і агресорів. Джихад може набувати різних форм, включаючи фізичну боротьбу, захист або надання ресурсів, таких як гроші, їжа, або обладнання, держава повинна включити джихад у свою зовнішню політику, інтегруючи принципи джихаду її обов’язок захищати своїх громадян і суверенітет, а також сприяти справедливості та захищати від зовнішніх загроз."
- SAU_renovate_Riyadh_forts: "Відновити форти Ер-Ріяда"
- SAU_renovate_Riyadh_forts_desc: "Форти та оборонні системи в місті Ер-Ріяд застаріли, майже на п’ять десятиліть відстають від сучасних стандартів. Нам необхідно відремонтувати їх, щоб перенести їх у 20-е століття та забезпечити захист уряду та його громадян. засоби захисту посилять наші можливості безпеки, використовуючи сучасні технології та стратегічну інфраструктуру для захисту від сучасних загроз."
- SAU_invest_in_city_merchants: "Підтримка міських торговців"
- SAU_invest_in_city_merchants_desc: "Міські торговці, ймовірно, є одними з найбагатших угруповань у країні. Тому вкрай важливо, щоб ми заручилися їхньою підтримкою. Щоб досягти цього, ми маємо запропонувати їм свою підтримку та зменшити державний контроль над їхньою діяльністю. Таким чином, ми може забезпечити їхню прихильність, що, у свою чергу, зміцнить державу та її економіку."
- SAU_establish_millet_system: "Система проса"
- SAU_establish_millet_system_desc: "Система Міллет, яка застосовувалася в Османській імперії, забезпечувала кожну релігійну групу та секту власним конфесійним судом. Ці суди дотримувалися конкретних законів відповідної релігії чи секти, таких як шаріат для мусульман, канонічне право для Християни та Галаха для євреїв. Ця система дозволяла різним релігійним громадам керувати своїми власними правовими питаннями традиції та вірування."
- SAU_arable_land_development: "Розвиток орних земель"
- SAU_arable_land_development_desc: "Замість того, щоб покладатися на імпорт харчових продуктів, більш стійким підходом було б освоєння орних земель у Перській затоці, Червоному морі, Ісаа, Катіф і пасовищах у Неджді. Ці регіони мають значний сільськогосподарський потенціал. імпортованих сучасних технологій, ми можемо покращити сільськогосподарський сектор нашої економіки. Ця стратегічна ініціатива зменшить ризик дефіциту продовольства через дипломатичні проблеми чи низькі запаси їжі, забезпечуючи більшу продовольчу безпеку для нашої нації."
- SAU_develop_infrastructure: "Розвиток інфраструктури"
- SAU_develop_infrastructure_desc: "Вкрай важливо, щоб ми почали інвестувати в інфраструктуру, прокладаючи дороги, встановлюючи покажчики та впроваджуючи каналізаційні та водопровідні системи. Ці важливі розробки необхідні для того, щоб наша країна наздогнала світові стандарти. Навіть османські арабські землі досягли цього прогресу протягом року десять років тому, підкреслюючи нагальність модернізації нашої інфраструктури."
- SAU_establish_modern_schools: "Сучасні школи"
- SAU_establish_modern_schools_desc: "Хоча Кататіб є цінним для навчання базовій грамотності та релігійним знанням, можливо, більше не буде достатньо для комплексного освітнього підходу. Хоча вони передають навички читання, письма та священного Корану, широта знань у сучасному світі виходить далеко за межі цих предметів.\nВажливо включати різноманітні дисципліни, такі як математика, література та інші науки, щоб забезпечити дітям всебічну освіту."
- SAU_Ihsaa_merchant_fleet: "Торгівля в Перській затоці"
- SAU_Ihsaa_merchant_fleet_desc: "Араби Перської затоки, що охоплюють від Басри та Кувейту до мирного Оману та Арабестану, вели торгівлю з Індією та Китаєм протягом століть, приносячи екзотичні товари та значні багатства до регіону. Участь у цій торгівлі є на користь держави Використовуючи наше стратегічне розташування та історичні торговельні зв’язки, ми можемо встановлювати економічні партнерства, купувати екзотичні товари та приносити дохід до казни."
- SAU_settle_tribes: "Поселити племена"
- SAU_settle_tribes_desc: "Багато племен у нашому регіоні живуть за рахунок торгівлі та сільського господарства в пустелі, віддаючи перевагу кочовому способу життя, а не осіданню. Однак для розвитку вкрай важливо заохочувати поселення племен. Заселяючи міські центри, це стимулюватиме економічне зростання, покращення соціальних послуг та інфраструктури. Інтеграція племен ближче до міських центрів сприяє кращому управлінню, сприяючи стабільності в усьому світі нація."
- SAU_aquire_modern_equipment: "Отримайте сучасні інструменти"
- SAU_aquire_modern_equipment_desc: "Сучасні проблеми вимагають сучасних рішень. Отримавши інструменти та техніку для будівництва та сільського господарства, імпортовані з Європи чи Азії, ми можемо підняти економіку. Ці сучасні інновації підвищують продуктивність і покращують ефективність розвитку міст і сільського господарства. Інвестиції в інфраструктуру та сільське господарство технології сприятимуть не тільки економічному зростанню, а й позиціонують нашу країну на регіональній арені."
- #SAU_modern_taxes: "Сучасна система оподаткування"
- SAU_modern_taxes_desc: "Закят, хоч і важливий для добробуту, може бути недостатнім як єдиний економічний двигун сучасної держави, що розвивається. Історичні приклади, такі як Османська імперія та Єгипет, демонструють, що економічний розвиток вимагає диверсифікованого підходу, включаючи різні форми оподаткування. Запровадження податків власності, будівель, підприємств і торгівлі може забезпечити стабільні джерела доходу."
- SAU_outlaw_slavery: "Рабство поза законом"
- SAU_outlaw_slavery_desc: "Іслам справді наголошує на гуманному поводженні з рабами та виступає за їх остаточне звільнення. Справжня прихильність ісламським вченням вимагає, щоб з рабами поводилися з гідністю, їм забезпечували достатнє існування та надавали їм права, які забезпечують справедливе ставлення та гуманні умови. В ісламській практиці, Раби повинні бути інтегровані в домогосподарства, обідаючи за тим самим столом, що й їхні господарі, і їм надається свобода працювати, коли вони хочуть."
- SAU_protect_caravan_merchants: "Захистити торговців караванами"
- SAU_protect_caravan_merchants_desc: "Замість того, щоб підтримувати міських торговців і торговців Перської затоки, ми могли б віддати пріоритет підтримці караванів, що проходять через наші домени. Вводячи податки, забезпечуючи захист і активно торгуючи з цими караванами — незалежно від того, прямують вони до Мекки, Ємену чи Османської імперії або з них територія — ми можемо заробити на цінних товарах, які вони транспортують. Цей підхід мінімізує потребу в залученні у трудомісткій торговій діяльності в портах чи містах."
- SAU_import_mesopotamia_food: "Імпорт їжі з Басри"
- SAU_import_mesopotamia_food_desc: "Розвиток сталого сільського господарства потребуватиме часу. Тим часом покладаючись на імпорт сільськогосподарської продукції з Басри, ми можемо допомогти задовольнити наші потреби в продовольстві. Ця стратегія дозволяє нам віддавати пріоритет довгостроковому розвитку сільського господарства, одночасно забезпечуючи продовольчу безпеку через надійний імпорт. З часом, як наш вітчизняний сільськогосподарський сектор зрілий, ми можемо поступово зменшити залежність від зовнішніх джерел і досягти більшої самозабезпеченості продовольством."
- SAU_northern_raids: "Рейд на північ"
- SAU_northern_raids_desc: "Неприємні племена на півночі, які підтримуються османами, виявилися досить неприємними. Один із потенційних підходів може включати в себе напади на них, щоб захопити їхні запаси."
- SAU_increase_slavery: "Рабство, яке охороняється державою"
- SAU_increase_slavery_desc: "Незважаючи на чітку позицію ісламу проти рабства, є ті, хто вважає його вигідним варіантом через доступність дешевої робочої сили для таких робіт, як будівництво та сільське господарство, де працівникам не платять. Однак, хоча може здатися, що ця практика суперечить Етичні принципи, яких дотримуються ісламські суспільства, є економічно вигідними."
- SAU_gather_support: "Зберіть племінну підтримку"
- SAU_gather_support_desc: "Щоб боротися з північними племенами, ми можемо заручитися підтримкою інших племен, розташованих у Неджді, таких як Мутайр, Утайба та Давасір, серед інших. Ці племена є побожними мусульманами та переважно лояльними до саудівської династії. використовуючи їхню лояльність і релігійну відданість, ми можемо створити єдиний фронт для вирішення викликів створений північними племенами, забезпечуючи більш ефективну та згуртовану стратегію підтримки стабільності та безпеки в регіоні."
- SAU_crackdown_on_christians: "Репресії проти християн"
- SAU_crackdown_on_christians_desc: "Незважаючи на те, що християни є людьми Писання та потребують захисту, християни все ще вважаються політеїстами, що нестерпно для Абдулазіза. Тому ми повинні запропонувати їм можливість навернутись або піти. Цей підхід узгоджується з непохитною позицією Абдулазіза щодо монотеїзму, а також надання чіткого вибору християнському населенню. Це має на меті підтримувати релігійну чистоту в саудівських володіннях і забезпечити це Принципи Абдулазіза дотримуються."
- SAU_support_katateeb: "Підтримати Katateeb"
- SAU_support_katateeb_desc: "Кататіб був невід’ємною частиною ісламських суспільств протягом століть, навчаючи багатьох читати та писати. Навіщо замінювати їх незнайомими методами? Натомість ми повинні підтримувати кататіб, надаючи більше книг і зобов’язуючи кожного записувати своїх дітей до них."
- SAU_south_trade: "Торгівля між Оманом і Єменом"
- SAU_south_trade_desc: "Незважаючи на те, що єменці та оманці вважаються віровідступниками, їхня цілісна торгівля приносила нам користь протягом століть. Релігійні відмінності не повинні перешкоджати цінним бізнес-можливостям. Підтримка та розвиток торговельних відносин з ними забезпечує економічну стабільність і процвітання."
- SAU_reform_zakat: "Реформувати закят"
- SAU_reform_zakat_desc: "Закят і джизія не застаріли в цю сучасну епоху; за допомогою кількох реформ у їх зборі та розподілі вони можуть бути ефективнішими, ніж будь-коли. Ці традиційні форми оподаткування пропонують більш співчутливий підхід порівняно з сучасними податковими системами, які часто не вистачає гнучкості та милосердя, модернізувавши адміністрування закят і джизья, ми можемо забезпечити, щоб вони відповідали сучасним економічним потребам, зберігаючи свої. етичні основи."
- SAU_establish_mabahith: "Встановити Мабахіт"
- SAU_establish_mabahith_desc: "Кожному правителю та нації потрібні власні "люди в чорному», щоб захищати державні інтереси та здійснювати шпигунство як за ворогами, так і за союзниками. Розвідувальні агентства, такі як Mabahith (або розвідувальні агентства англійською), мають вирішальне значення для досягнення цього. органи функціонують подібно до царської охорони, яка відігравала ключову роль у підтримці безпеки та стійкість російського престолу."
- SAU_Dynasty_Politics: "Політика династії"
- SAU_Dynasty_Politics_desc: "Після повстання Араїф багато членів династії Саудівської Аравії зацікавилися державною політикою. Всередині династії існує розбіжність: одні члени хочуть зберегти традиційні способи життя, тоді як інші виступають за реформи та модернізацію. дебати відображають ширші питання щодо майбутнього напрямку нації, врівноважуючи повагу до культурної спадщини з необхідністю прогресу та Керування цією динамікою матиме вирішальне значення для керівництва держави, оскільки вони прагнуть об’єднати націю та відповідати на виклики сучасного світу."
- SAU_Reform: "Реформувати державу"
- SAU_Reform_desc: "Саудівська держава історично сприймалася як відстала, фундаменталістська та певною мірою терористична, яку часто зневажали та протистояли її сусіди, як малі, так і великі. Усередині країни ситуація також проблематична, оскільки держава спирається на застарілі знання та практику з 18 століття Саудівська Аравія повинна перетворитися на маяк сучасності серед племен і півострова Араби, сприймаючи досягнення та інновації 20-го століття, впроваджуючи сучасні технології, прогресивну політику та комплексні освітні реформи, Саудівська Аравія може позиціонувати себе як провідну державу в регіоні, сприяючи розвитку, стабільності та процвітанню свого народу."
- SAU_get_rid_of_ikhwan: "Позбутися Іхвана"
- SAU_get_rid_of_ikwhan: "Іквани служать Його Величності з 1902 року. Однак вони не можуть зрівнятися з османськими військами. Настав час реорганізувати цю групу фанатиків у належну силу."
- SAU_pacify_tribes: "Заспокоїти племена"
- SAU_modern_army: "Сучасна армія"
- SAU_cooperate_with_shias: "Шиїтська співпраця"
- SAU_develop_hasa: "Розробити Ihsa'a"
- SAU_legal_code: "Написати юридичний кодекс"
- SAU_establish_ministry_of_finanace: "Міністерство фінансів"
- SAU_invite_western_advisors: "Західні радники"
- SAU_Central_Powers_Consulate: "Зв'язки Берлін-Стамбул"
- SAU_modern_bureaucracy: "Сучасна бюрократія"
- SAU_modernize_trade_routes: "Сучасні торгові шляхи"
- SAU_Autocracy: "Підтримувати автократію"
- SAU_harbor_hejazi_defectors: "Перебіжчики гавані Хеджазі"
- SAU_bayt_al_mal: "Бейт Аль Мал"
- SAU_conscript_more_ikhwan: "Призваний більше Іхван"
- SAU_city_tax: "Контроль міських фондів"
- SAU_protect_caravan_routes: "Захистити старі маршрути"
- SAU_appease_the_tribes: "Заспокоїти племена"
- SAU_grow_riyadh: "Виростити Ер-Ріяд"
- SAU_sharia_law_only: "Шаріатська держава"
- SAU_welcome_british_agents: "Ласкаво просимо британським агентам"
- SAU_welcome_british_agents_desc: "Залучення до допомоги британців не тільки дасть нам перевагу проти інших племен, але допоможе нам у нашій боротьбі проти Високої Порти."
- SAU_crackdown_on_urbanists: "Репресії проти міст"
- SAU_crackdown_on_shias: "Придушення шиїтів"
- SAU_Ikhwan_Politics: "Салафістська держава"
- SAU_establish_imamate: "Встановити імамат"
- SAU_keep_al_saud: "Зберегти Аль Сауд"
- SAU_empower_the_tribes: "Розширення можливостей племен"
- SAU_institute_jihad: "Інститут Джихад"
- SAU_Impose_Sharia: "Запровадити салафітський шаріат"
- SAU_repeal_reforms: "Скасувати реформи"
- SAU_impose_tribute_on_pilgrams: "Накласти данину Пілграму"
- SAU_cut_off_british_ties: "Розірвати британські зв'язки"
- SAU_cut_off_british_ties_desc: "Зрозуміло, що так звана допомога, надана нам англійцями, була спробою підкорити нас. Ми не повинні міняти одного іноземного господаря на іншого."
- SAU_Treaty_of_Darin: "Наслідки Даріну"
- SAU_Treaty_of_Darin_desc: "Нещодавно ми підписали договір з Великобританією, в якому вперше були чітко проведені належні кордони з британськими колоніями в регіоні. Корисність договору є дискусійною. Тому у нас є два вибори: дотримуватися договору або розірвати його. "
- SAU_Arabian_Confedration: "Шукай арабської єдності"
- SAU_Arabian_Confedration_desc: ""
- SAU_ally_more_tribes: "Союзницькі племена"
- SAU_ally_more_tribes_desc: ""
- SAU_bury_the_hatchet: "Закопай сокиру"
- SAU_bury_the_hatchet_desc: ""
- SAU_peace_with_otomans: "Османська співпраця"
- SAU_peace_with_Ottomans_desc: "Хоч у нас є серйозні проблеми з османським султаном, він усе ще є халіфом і кращим за британців."
- SAU_repeal_darin: "Скасувати Дарин"
- SAU_repeal_darin_desc: "Даринський договір, у якому ми обіцяли не нападати на британські володіння в Перській затоці в обмін на визнання, є нічим іншим, як спробою обмежити нашу експансію. Лондон має бути вигнаний з Аравії!"
- SAU_ask_for_baghdadi_donations: "Пожертвування Багдаді"
- SAU_ask_for_baghdadi_donations_desc: ""
- SAU_confederation_of_arabia: "Конфедерація Аравії"
- SAU_confederation_of_arabia_desc: ""
- SAU_Attack_Rashidis: "Перетнути кордон"
- SAU_Attack_Rashidis_desc: ""
- SAU_repeal_anti_shia_laws: "Послаблення щодо шиїтів"
- SAU_repeal_anti_shia_laws_desc: ""
- SAU_ikhwan_cooperation: "Оформити Ikhwan"
- SAU_ikhwan_cooperation_desc: ""
- SAU_young_commanders: "Підвищення юніорів"
- SAU_young_commanders_desc: ""
- SAU_permenant_british_agent: "Британські радники"
- SAU_permenant_british_agent_desc: ""
- SAU_build_defence_towers: "Захисна вежа"
- SAU_build_defence_towers_desc: ""
- SAU_support_arab_revolt: "Підтримайте арабське повстання"
- SAU_support_arab_revolt_desc: ""
- SAU_wahhabism_state_sect: "Ваххабітська держава"
- SAU_wahabbism_state_sect_desc: ""
- SAU_denounce_arab_revolt: "Засудити Хашимітів"
- SAU_denounce_arab_revolt_desc: ""
- SAU_question_of_neutrality: "Нейтралітет чи війна"
- SAU_question_of_neutrality_desc: ""
- SAU_conquest_of_hejaz: "Завоювання Хіджазу"
- SAU_conquest_of_hejaz_desc: "Великі та священні землі Хіджаз і Тіхама нарешті перейшли під владу дому Саудів. Тепер Абдулазіз є не лише правителем Центральної Аравії, але й скромним слугою Двох Священних Мечетей."
- SAU_search_for_oil_companies: "Іноземні нафтові компанії"
- SAU_search_for_oil_companies_desc: "Щоб забезпечити своє майбутнє та добробут своїх громадян, держава Саудівської Аравії має шукати нафту. Оскільки нафту вже виявлено в Бахрейні та Іраку, існує велика ймовірність того, що узбережжя Ісаа має нафту Ну, але потрібна допомога іноземних спеціалістів."
- SAU_holy_cities: "Священні міста"
- SAU_apologize_to_egypt: "Єгипетська допомога"
- SAU_defend_ikhwan: "Розірвати зв'язки з Єгиптом"
- SAU_renovate_mecca_area: "Відновити район Мекки"
- SAU_need_for_reform: "Потреба в реформі"
- SAU_need_for_reform_desc: "Прихильники жорсткої лінії ваххабітів повинні послабити свою позицію щодо суспільного розвитку та технологічного прогресу. Щоб побудувати сильну та впливову державу, першим кроком має бути прийняття молодших та ефективніших бюрократів."
- SAU_egyptian_advisors: "Запросити єгипетських радників"
- SAU_iraqi_advisors: "Запросити іракських радників"
- SAU_syrian_advisors: "Запросити левантійських радників"
- SAU_restrict_their_opinions: "Обмежити свободу радників"
- SAU_allow_them_freedom_of_opinion: "Заохочуйте конструктивну критику"
- SAU_sixteen_division_court: "Суд шістнадцяти департаментів"
- SAU_support_accounting_division: "Бухгалтерський відділ"
- SAU_establish_telegram_lines: "Прокласти рядки Telegram"
- SAU_resettle_tribes: "Переселити племена"
- SAU_modernize_male_education: "Модернізація чоловічої освіти"
- SAU_foreign_office: "Офіс закордонних справ"
- EGY_Mahmal_denied_entry: "Махмалу заборонено в'їзд"
- EGY_Mahmal_allowed_entry: "Дозволений вхід до Махмала"
- SAU_Oil_company_chosen: "Наша нафтова компанія була обрана"
  FRA_ww1_rally_the_piou_piou:0 "Ралі Piou-Piou"
  FRA_ww1_rally_the_piou_piou_desc:0 "Праві рухи розділені між роялістами та республіканцями. Республіканський депутат Жак Піу має великий вплив серед правих, достатній, щоб об’єднати керівництво групи консерваторів. Візьміть під контроль партію в інтересах правих крила коаліції, спрямованої на протистояння картелю лівих та об’єднавчу мету, яка зможе згуртувати нас в інші парламентські групи."
 
@@ -11307,6 +11229,29 @@
  MOR_cooperate_with_french:0 "Cooperate with France"
  MOR_cooperate_with_french_desc:0 "We were unable to reform the country, and we were forced to submit to the French. Although we are still an autonomous entity on paper, it will not be long before we are integrated into the French empire."
 
+ MOR_independant_politics:0 "Independant Politics"
+ MOR_independant_politics_desc:0 "With the successful reform of the army and the restoration of order in our countryside, we are able to focus on international diplomacy."
+ MOR_this_could_lead_to_a_political_crisis:0 "§RThis could lead to a Political Crisis!§!"
+ MOR_start_war_with_hostile_caids:0 "Has Pacified Countryside"
+
+ MOR_casablanca_occupation_question:0 "Casablanca Occupation Question"
+ MOR_casablanca_occupation_question_desc:0 "With the Moroccan countryside stabilized, French forces no longer have any interest in controlling Casablanca, and their occupation of the region must technically end. However, the forces on the ground are not cooperative, and escalation is necessary to force the French to leave."
+
+ MOR_spanish_colonies_restitution:0 "Spanish Colonies Restitution"
+ MOR_spanish_colonies_restitution_desc:0 "Much of our rightful territory has been conquered by Spain. Several cities and a large portion of the desert are under Spanish occupation. We should contact them and reclaim our land."
+
+ MOR_align_to_germany:0 "Align to Germany"
+ MOR_align_to_germany_desc:0 "To counterbalance France's influence, we can open ourselves to increased cooperation with the German Empire, which has proven itself to be a leading partner in the field of industry."
+
+ MOR_join_cp:0 "Join Central Powers"
+ MOR_join_cp_desc:0 "We have an interest in allying ourselves with Germany; this choice will preserve our independence and allow us to ensure the continuation of [MOR.getLeader's] reign."
+
+ MOR_MAN_factory:0 "MAN factory"
+ MOR_MAN_factory_desc:0 "We have the opportunity to authorize the development of a German heavy industry to exploit the resources of the Souss mines. It is also our greatest hope of launching national arms production under license, provided the Germans agree."
+
+ MOR_expansion_of_southern_mines:0 "Expansion of Southern Mines"
+ MOR_expansion_of_southern_mines_desc:0 "Without French control, we are free to open up to the rest of the European market, including the Germans, the world's leading steel producers. Their expertise should allow us to expand the Sousse mines, which should stimulate the local economy."
+
  MOR_appoint_loyal_caids:0 "Appoint Loyal Caïds"
  MOR_appoint_loyal_caids_desc:0 "Several Caïds from southern Morocco and the countryside are not loyal to the Sultan and do not pay taxes. Worse: they tax and pillage merchant caravans, making the development of the country impossible. We must replace these infidel elements to place allies close to the Makhzen."
 
@@ -11318,7 +11263,7 @@
  MOR_prepare_for_pacify_countryside:0 "§RHostiles Caïds will likely rebel together, we should be prepared for an open war.§!"
 
  FRA_ww1_treaty_of_fes:0 "Treaty of Fès"
- FRA_ww1_treaty_of_fes_desc:0 "The diplomat Eugène Regnault's mission is to convince [MOR.getLeader] to sign the protectorate of Morocco. Currently considered a protected state, and not a subject, France does not yet have full control over the country. The signing of an official document will make it possible to subject the entire country to French authority."
+ FRA_ww1_treaty_of_fes_desc:0 "The diplomat Eugène Regnault's mission is to convince [MOR.getLeader] to sign a treaty Morocco a French protectorate. Currently considered a protected state, and not a subject, France does not yet have full control over the country. The signing of an official document will make it possible to subject the entire country to French authority."
  tt_will_be_auto_completed:0 "§LThis focus will be auto-completed when needed.§!"
 
  MOR_strenghten_makhzen_control:0 "Strenghten Makhzen Control"
@@ -11369,3 +11314,36 @@
 
  MOR_makhzen_third_reformation:0 "Makhzen Third Reformation"
  MOR_makhzen_third_reformation_desc:0 "The courageous reforms of [MOR.getLeader] have helped stabilize Morocco, both financially and politically. Several Caïds who were hostile to the central authority can now cooperate with the government and join the Makhzen."
+
+ MOR_german_loan:0 "German Loan"
+ MOR_german_loan_desc:0 "To accelerate the modernization of our infrastructure, we can request a loan from our German partners, who have shown strong interest in the region. A potential investment could help us develop by relieving the country of some of its debts."
+
+ MOR_amir_al_muminin:0 "Amir al-Mu’minin"
+ MOR_amir_al_muminin_desc:0 "Embroiled in a war against imperialism, Morocco can count on the divine and holy quality of [MOR.getLeader], who has been able to modernize and unite the country in a common cause. The army, the people, and the religious elites are all united against the West, which makes them formidable."
+
+ MOR_restore_sharifian_order_in_mauritania:0 "Restore Sharifian Order in Mauritania"
+ MOR_restore_sharifian_order_in_mauritania_desc:0 "Although Morocco never had direct control over Mauritania, many tribes and villages were subjugated by the Sharifian Empire. This authority and influence that Morocco once had must return to it, and the [786.OWNER.getAdjective] colonialists must leave."
+
+ MOR_buy_warships:0 "Buy Warships"
+ MOR_buy_warships_desc:0 "We don't have the technical means to build our own fleet. However, we can purchase reserve ships from the major European powers to create an independent maritime force."
+ tt_buy_ships:0 "§YUnlock Decisions§! to buy §Cwarships§! from friendly countries."
+
+ MOR_steady_as_he_goes:0 "Steady as he Goes"
+ MOR_steady_as_he_goes_desc:0 "Under Moulay's reign, Morocco modernized and industrialized, opening new doors for investment in many areas while also establishing the country as a rising star. This balanced economic and social policy makes us an example in the Muslim world."
+
+ MOR_ksar_sghir_naval_base:0 "Ksar Sghir Naval Base"
+ MOR_ksar_sghir_naval_base_desc:0 "Located opposite Gibraltar, the village of Ksar Sghir is the ideal location to position our war fleet. In addition to building docks there, we could also build a maritime school, where foreign experts could help us train our sailors in the basics of naval warfare."
+
+ MOR_anglo_moroccan_naval_agreement:0 "Anglo-Moroccan Naval Agreement"
+ MOR_anglo_moroccan_naval_agreement_desc:0 "Morocco's strategic position can attract foreign interest, but also equitable partnerships. Great Britain would undoubtedly appreciate participating in our armament with the aim of stabilizing its interests in the region."
+
+ MOR_expansion_of_dar_al_bayda_military_school:0 "Dâr Al-Bayda Military School Expansion"
+ MOR_expansion_of_dar_al_bayda_military_school_desc:0 "The Dar Al Bayda military school in Meknes, run by Ibn Zaydan, deserves state investment in order to align it with the quality of European education."
+
+ MOR_guerrila_warfare_tradition:0 "Guerrilla Warfare Tradition"
+ MOR_guerrila_warfare_tradition_desc:0 "Morocco benefits from a long tradition of asymmetrical combat inherited from the battles of 1905 and 1907. Depriving ourselves of such experience would not be beneficial to us, especially since we have no intention of leaving our national territory to venture elsewhere."
+
+ MOR_second_army_reform:0 "Second Army Reform"
+ MOR_second_army_reform_desc:0 "Further reform is needed to bring our army up to the level of those in Europe, again with the help of foreign military advisers capable of teaching us the secrets of modern warfare."
+ MOR_european_style_army:0 "European Style Army"
+ izayan_tribes_allied:0 "Izayan Tribe Allied"

@@ -71,6 +71,8 @@
  advanced_radio_desc:0 "Подальший розвиток радіо полягає не тільки в підвищенні потужності сигналу, появі дуплексного зв'язку, а й у зменшенні габаритів станцій, що зробило їх більш мобільними."
  analytical_engine:0 "Аналітична Машина"
  analytical_engine_desc:0 "Аналітична Машина" 
+ mechanical_integrators:0 "Mechanical Integrators" # (!)
+ mechanical_integrators_desc:0 "These sophisticated mechanical devices use a ball-and-disk system to perform complex mathematical calculations. Through the careful arrangement of these mechanical elements, we can solve differential equations and integrate multiple variables simultaneously." # (!)
  electromechanical_adding_machine:0 "Електромеханічна сумарна машина"
  electromechanical_adding_machine_desc:0 "Електромеханічна підсумовувальна машина"
  differential_analyzer:0 "Диференціальний аналізатор"
@@ -90,7 +92,7 @@
  decryption_machine:0 "Дешифрувальна машина"
  decryption_machine_desc:0 "Дешифрувальна машина" 
  early_fire_control_system:0 "Система Раннього Управління Вогнем"
- early_fire_control_system_desc:0 "Ранні системи управління вогнем були створені на основі оригінальних механічних обчислювальних пристроїв. У якомусь сенсі вони були гігантськими калькуляторами для розрахунку дальності або напрямку."
+ early_fire_control_system_desc:0 "By establishing a central rangefinding station high in our ships' masts, we can better coordinate gunnery operations. These stations use optical rangefinders and basic mechanical calculators to determine target distances, with orders then relayed to the individual gun crews." # (!)
  #LAND DOCTRINE
  machine_gun_defence:0 "Кулеметна оборона"
  cavalry_support:0 "Кавалерійська підтримка"
