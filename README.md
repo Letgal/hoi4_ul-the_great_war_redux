@@ -10,6 +10,7 @@
 + ~~`state_names`~~
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
++ `ww1_war`
 
 ### Папка `replace`
 + `replace_air`
@@ -59,7 +60,6 @@
 + `ww1_research`
 + `ww1_unit_medals`
 + `ww1_units`
-+ `ww1_war`
 
 ### Папка `replace`
 + `replace_characters`
