@@ -1,8 +1,0 @@
-﻿l_russian:
- tank_designer_rocket: "$tank_designer_signal$"
- tank_designer_rocket_role_disallowed: "$tank_designer_signal_role_disallowed$"
- plane_designer_strategic_bomber: "Важкий бомбардувальник"
- plane_designer_cas: "Штурмовий літак"
- plane_designer_scout_plane: "Розвідувальний літак"
- ARMOR_DIRECTORY: "Бронетанковий модуль"
- TANK_DESIGNER_TITLE: "Конструктор бронемашин"

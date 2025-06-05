@@ -1,5 +1,0 @@
-﻿l_english:
- TRIGGER_HAS_NOT_IDEA_TANK_MANUFACTURER: "Нема конструктора бронетехніки $IDEA|H$"
- TRIGGER_HAS_IDEA_TANK_MANUFACTURER: "Є конструктор бронетехніки $IDEA|H$"
- TRIGGER_IS_PUPPET: "$COUNTRY|H$ є маріонеткою іншої країни"
- TRIGGER_IS_NOT_PUPPET: "$COUNTRY|H$ є незалежною країною"
