@@ -31,7 +31,7 @@
  LOADING_TIP_29: "«Закляття Трафалґара було зняте».\n(Кайзер Вільгельм II)"
  LOADING_TIP_30: "«Борися та літай до останньої краплі крові й останньої краплі пального, до останнього удару серця».\n(Манфред фон Рихтгофен)"
  LOADING_TIP_31: "«Я помер у пеклі».\n(Зіґфрід Сассун)"
- LOADING_TIP_32:0 "The main thing is to always have a plan; if it is not the best plan, it is at least better than no plan at all.\n- Sir John Monash"
+ LOADING_TIP_32: "«Головна річ — це завжди мати план; якщо це не найліпший план, він принаймні ліпший від його відсутності».\n(Сер Джон Монаш)" # (&?)
  LOADING_TIP_33: "«Якщо я вийду з цієї війни живий, я матиму більше удачі, аніж мізків. Я люблю літати, не вбивати».\n(Манфред фон Рихтгофен)"
  LOADING_TIP_34: "«Ніщо так не викличе симпатію американців до нас, як американська кров, пролита в полі».\n(Вінстон Черчилл, 5 вересня 1914 р.)"
  LOADING_TIP_35: "«Ну ж бо, сучі ви сини, чи хочете ви жити вічно?»\n(Деніел Делі)"
@@ -76,7 +76,7 @@
  LOADING_TIP_74: "«У воєнний час жоден солдат не вільний казати, що думає; після війни всім однаково, що думає солдат».\n(Сер Іен Гемілтон)"
  LOADING_TIP_75:0 "I'd rather be a Second Lieutenant with a DSC (Distinguished Service Cross) than a General without it.\n- George Patton"
  LOADING_TIP_76: "«Думаєш, я не повернуся?»\n(Манфред фон Рихтгофен, 21 квітня 1918 р.)"
- LOADING_TIP_77:0 "The main thing is to always have a plan; if it is not the best plan, it is at least better than no plan at all.\n- Sir John Monash"
+ LOADING_TIP_77: "«Головна річ — це завжди мати план; якщо це не найліпший план, він принаймні ліпший від його відсутності».\n(Сер Джон Монаш)" # (&?)
  LOADING_TIP_78: "«Сердешна Мексика. Так далеко від Бога і надто близько до США».\n(Порфіріо Діас)"
  LOADING_TIP_79: "«Мадеро випустив тигра. Подивімося, чи зможе він приборкати його».\n(Порфіріо Діас у вигнанні)"
  LOADING_TIP_80: "«Армії — це найбільші прибічники тиранії».\n(Панчо Вілья)"
@@ -84,10 +84,10 @@
  LOADING_TIP_82: "Віддавшися повністю до рук Німеччини, ми поставили себе в ситуацію, яка в шахах зветься «пат». Це не мат, але будь-який хід із нашого боку означатиме мат.\n(Мігай Карої, 4 липня 1914 р.)" # (&?)
  LOADING_TIP_83: "«Якщо жінки на заводах зупинять роботу на двадцять хвилин, Союзники програють війну».\n(Французький фельдмаршал Жоффр)"
  LOADING_TIP_84:0 "And the only difference that I have found between the Democratic leadership and the Republican leadership was that one of 'em was skinning you from the ankle up and the other from the ear down\n- Huey Long"
- LOADING_TIP_85:0 "It is necessary; that the interests of the African natives must be paramount, and that if, and when, their interests and the interests of the immigrant races should conflict, the former should prevail.\n- Annual Colonial Report for Kenya, 1923"
+ LOADING_TIP_85: "«Необхідно, щоб інтереси тубільців Африки стояли понад усе й якщо, та коли, їхні інтереси й інтереси іммігрантських рас увійдуть у конфлікт, гору мусять здобути перші».\n(Щорічник колоніальний звіт по Кенії, 1923 р.)"
  LOADING_TIP_86: "«Газу! Газу! Який екстаз від промахів!»\n(Вілфред Оуен)" # (&)
  LOADING_TIP_87: "«Дорога до Константинополя лежить крізь Варшаву».\n(Є. М. Трубецькой)"
- LOADING_TIP_88:0 "The shortest and safest operational route to Constantinople runs through Vienna... and Berlin.\n- Quartermaster-General Yuri Danilov"
+ LOADING_TIP_88: "«Найкоротший і найбезпечніший робочий маршрут до Константинополя пролягає крізь Відень... і Берлін».\n(Генерал-квартирмейстер Юрій Данілов)"
  LOADING_TIP_89: "«Нехай Китай спить, адже якщо він пробудиться, світ здригнеться».\n(Наполеон Бонапарт)"
  LOADING_TIP_90: "«Скажіть мені про договори! Скажіть мені про Лігу Націй! Кожна велика держава Європи присяглася зберігати Бельгію за договором. Те була Ліга Націй, але вона не вдалася».\n(Едвард Карсон)" # (&)
  LOADING_TIP_91:0 "We didn't start the fire, but when we are gone it will still burn on, and on, and on.\n- Billy Joel"
@@ -104,10 +104,10 @@
  LOADING_TIP_102: "«У будівництві країни важко знайти не практичних робітників, але ідеалістів і планувальників».\n(Сунь Ятсен)"
  LOADING_TIP_103: "«Мене пощадили в Сараєві, щоби я міг вмерти, помстившися за нього!»\n(Оскар Потіорек)"
  LOADING_TIP_104: "«Немає жодних бельгійців».\n(Жюль Дестре)"
- LOADING_TIP_105:0 "Yet, should Hungary be placed in a position when she must choose between the acceptance or refusal of this peace, then, as a matter of fact, her choice lies in the question: should she commit suicide simply in order to escape a natural death? \n- Albert Appony, 16 January 1920"
- LOADING_TIP_106:0 "They pricked his fingers with daggers and threw him to the pavement. \n- A wittness describing the death of Flavio Alfaro"
+ LOADING_TIP_105: "Проте, якщо Угорщина опиниться у становищі, в якій муситиме вибрати між прийняттям або відхиленням цього миру, тоді, власне кажучи, її вибір полягає в питанні: чи варто їй скоювати самогубство просто щоб уникнути природної смерті?»\n(Олберт Оппоні, 16 січня 1920 р.)" # (&)
+ LOADING_TIP_106: "«Вони прокололи його пальці кинджалами та кинули його на бруківку».\n(Свідок, описуючи смерть Флавіо Альфаро)"
  LOADING_TIP_107:0 "It is my duty to lay on the altar of the Fatherland the greatest and heaviest of sacrifices. \n- Tsar Ferdinand I"
- LOADING_TIP_108:0 "Bulgaria is a country where atrocities are perpetrated. \n- The Times"
- LOADING_TIP_109:0 "When I went to Bulgaria, I decided that if there were to be assassinations, I should be on the side of the assassins. \n- Tsar Ferdinand I"
- LOADING_TIP_110:0 "If ever I feel tired or depressed, I have only to look at a bunch of violets to become myself again. \n- Tsar Ferdinand I"
- LOADING_TIP_111:0 "Ferdinand is a clever man, but not to be trusted. \n- King Edward VII on Tsar Ferdinand I"
+ LOADING_TIP_108: "«Болгарія — це країна, де вчиняються звірства».\n(The Times)"
+ LOADING_TIP_109: "«Коли я пішов до Болгарії, я вирішив, що якщо вбивства будуть відбуватися, мені слід бути на боці вбивць».\n(Цар Фердінанд I)" # (&?)
+ LOADING_TIP_110: "«Якщо я колись почуваюся втомлено або пригнічено, мені треба лише поглянути на букет фіалок, щоби знову стати собою».\n(Цар Фердінанд I)" # (&?)
+ LOADING_TIP_111: "«Фердінанд — чоловік розумний, але йому не можна довіряти».\n(Король Едуард VII про царя Фердінанда I)"
