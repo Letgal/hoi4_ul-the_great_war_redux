@@ -203,9 +203,9 @@
  GER_dutch_request:0 "Запросити [HOL.GetName]"
  GER_norse_request:0 "Запросити [NOR.GetName]"
  GER_swiss_request:0 "Запросити [SWI.GetName]"
- GER_agadir_crisis:0 "Криза в Агадірі"
- agadir_crisis:0 "Криза в Агадірі"
- agadir_crisis_ends:0 "Криза в Агадірі закінчилася"
+ GER_agadir_crisis:0 "Аґадірська криза"
+ agadir_crisis:0 "Аґадірська криза"
+ agadir_crisis_ends:0 "Аґадірська криза закінчилася"
  agadir_crisis_send_demands:0 "Поступки для Агадіра"
  agadir_crisis_escolation:0 "Ескалація кризи в Агадірі"
  GER_misison_agadir_crisis:0 "Актуальність кризи"
@@ -247,8 +247,8 @@
  GER_decision_expand_mittelafrika:0 "Розширити Миттельафріку"
  GER_decision_military_advisers:0 "Військові радники"
  GER_internal_affairs: "Внутрішні справи"
- GER_elsass_lothringen_constitution:0 "Allow Elsaß-Lothringen Constitution" # (!)
- GER_elsass_lothringen_constitution_desc:0 "Elsaß-Lothringen is a Reichsland, which is an imperial land under the direct authority of the German Empire since its annexation in 1871. Governed by a Statthalter appointed by the Emperor, the region lacks the autonomy enjoyed by other federal states. Its population, largely composed of Alsatian and French speakers, has long expressed discontent with central control and the ongoing Germanization policies affecting education and public life.\n\nWith the promulgation of a new constitution, and the establishement of a regional parliament, some limited legislative powers on local matters will be provided. The territory will also gains representation in both the Bundesrat and the Reichstag, enhancing its participation in imperial affairs. While key authority remains in Berlin, this reform might marks a significant step toward integration within the federal structure and is widely seen as a move to address longstanding regional grievances." # (!)
+ GER_elsass_lothringen_constitution: "Дозволити Ельзасу-Лотринґену конституцію"
+ GER_elsass_lothringen_constitution_desc:0 "Ельзас-Лотринґен — це райхсланд, тобто імперська земля, що перебуває під безпосереднім управлінням Німецької імперії від самої її анексії у 1871 році. Регіон, яким керує призначений імператором штатгальтер, не має автономії, якою наділені інші федеральні землі. Його населення, яке в основному складається з ельзасько- та франкомовних жителів, вже давно висловлює невдоволення центральним контролем і поточною політикою ґерманізації, що впливає на освіту і суспільне життя.\n\nЗ прийняттям нової конституції та створенням регіонального парламенту, будуть надані деякі обмежені законодавчі повноваження з місцевих питань. Територія також отримає представництво в Бундесраті та Райхстазі, що посилить її участь у загальноімперських справах. Хоча ключові повноваження залишаються в Берліні, ця реформа може стати значним кроком до інтеграції в рамках федеральної структури і широко розглядається як крок, спрямований на вирішення давніх регіональних проблем."
  NFA_sue_for_peace_GER:0 "Оголосити нашу поразку та прийняти долю"
  NFA_sue_for_peace_GER_desc:0 "Франція зазнала повної поразки. Майбутнього більше немає."
  FRC_sue_for_peace_NFA:0 "Капітуляція перед імперіалістами"
@@ -361,9 +361,9 @@
  GER_hre_cat:0 "Відродити Священну Римську імперію"
  GER_hre_cat_desc:0 "Блиск нашого Кайзера не знає меж, як і кордони нашої нації. Тепер вони виросли до межі старої Священної Римської імперії, і нації на нашому шляху більше не в змозі заперечуючи проти нашої політики, кайзер постановив, що нинішня можливість має бути використана, і що нація має взяти на себе роль духовного спадкоємця Священної Римської імперії Акіла Елегіт Іовіс Омнія Вінцит!"
  GER_german_east_asia_cat:0 "Наші території у Східній Азії"
- GER_german_east_asia_cat_desc:0 "Following our victory in the Great War, a proposal has been made for the expansion of colonial enterprise in East Asia. Our colonial administrators aim to establish a vast colonial administration by incorporating numerous German-occupied territories in the region. Success in this endeavour promises enormous wealth for the Reich, however, failure risks terrible consequences, including widespread chaos and the potential collapse of our colonial authority." # (!)
+ GER_german_east_asia_cat_desc:0 "Після нашої перемоги у Великій війні було зроблено пропозицію щодо розширення колоніальної діяльності у Східній Азії. Наші колоніальні адміністратори мають на меті створити велику колоніальну адміністрацію, включивши до неї численні окуповані Німеччиною території в регіоні. Успіх у цій справі обіцяє величезні багатства для Райху, однак невдача загрожує жахливими наслідками, включаючи поширений хаос і потенційний крах нашої колоніальної влади."
  GER_instant_react_to_agadir:0 "Надіслати SMS Panther до Агадіру в Марокко"
- GER_instant_react_to_agadir_tt:0 "Це рішення корисне, коли ви зробите інший фокус, але немає часу, щоб зробити фокус §YAgadir Crisis§!. З цим ви витратите більше §Y£pol_power політичної влади§!, ніж на фокус."
+ GER_instant_react_to_agadir_tt:0 "Це рішення корисне, коли ви зробите інший фокус, але немає часу, щоб зробити фокус §Y$GER_agadir_crisis$§!. З цим ви витратите більше §Y£pol_power політичної влади§!, ніж на фокус."
 
  GER_retire_from_morocco:0 "Відступ з Марокко"
 
@@ -611,13 +611,13 @@
  fra_less_than_5_railway_gun:0 "Менше §Y5 залізничних гармат§!"
  fra_at_least_1_railwaygun:0 "Принаймні §Y1 залізнична гармата§!"
 
- FRA_salbert_fort:0 "Renovate Salbert Fort" # (!)
- FRA_salbert_fort_desc:0 "Fort du Salbert, also known as Fort Lefebvre, was built between 1874 and 1877. It was named after General François Joseph Lefebvre. It forms part of the Séré de Rivières system fortifications in the fortified region of Belfort.\n\nIts initial construction cost was 2,120,332 francs d'or. Initial manning was 460 men. Armament in 1882 was five 155 mm long guns, eight 120 mm long guns, and a variety of small mortars and small-caliber guns for close defense." # (!)
- FRA_salbert_fort_text:0 "Adds §Y2 наземні укріплення§! in §Y[864.GetName].§!" # (!)
+ FRA_salbert_fort: "Відновити форт Сальбер"
+ FRA_salbert_fort_desc:0 "Форт дю Сальбер, також відомий як Форт Лефевр, був побудований між 1874 і 1877 роками. Він був названий на честь генерала Франсуа Жозефа Лефевра. Він є частиною укріплень системи Сере де Рів'єр в укріпленому регіоні Бельфор.\n\nПочаткова вартість будівництва становила 2 120 332 франків золотом. Початкова чисельність особового складу становила 460 осіб. Озброєння у 1882 році складалося з п'яти 155-мм гармат, восьми 120-мм гармат, а також різноманітних невеликих мінометів і малокаліберних гармат для ближньої оборони."
+ FRA_salbert_fort_text: "Додає §Y2 наземні укріплення§! в області §Y[864.GetName].§!"
 
- FRA_roppe_fort:0 "Renovate Roppe Fort" # (!)
- FRA_roppe_fort_desc:0 "The Fort de Roppe is located at the summit of a hill near the town of Roppe, to the north of Belfort. It was sited to control the road to Colmar to support Fort du Salbert.\n\nThe rectangular fort initially mounted fifty artillery pieces and was garrisoned by more than 650 men. The guns were mounted in the open air on top of the ramparts and in a casemate. The armament of the fort varied considerably from year to year. In 1886 the fort mounted four 155mm long guns, five 138mm guns, nine 120mm long guns and two 220mm mortars.\n\nInitial construction cost was 1,875,917 francs d'or." # (!)
- FRA_roppe_fort_text:0 "Adds §Y1 наземне укріплення§! in §Y[864.GetName].§!" # (!)
+ FRA_roppe_fort: "Відновити форт Ропп"
+ FRA_roppe_fort_desc:0 "Форт де Ропп розташований на вершині пагорба біля містечка Ропп, на північ від Бельфора. Він був побудований для контролю дороги до Кольмара з метою підтримки форту дю Сальбер.\n\nПрямокутний форт спочатку мав п'ятдесят артилерійських знарядь і гарнізон, що налічував понад 650 чоловік. Гармати були встановлені під відкритим небом на вершині валів і в казематі. Озброєння форту значно змінювалося з року в рік. У 1886 році у форті було встановлено чотири 155-мм гармати, п'ять 138-мм гармат, дев'ять 120-мм гармат і два 220-мм міномети.\n\nПочаткова вартість будівництва становила 1 875 917 франків золотом."
+ FRA_roppe_fort_text: "Додає §Y1 наземне укріплення§! в області §Y[864.GetName].§!"
 
  FRA_socialist_france_flag:0 "Соціалістична Франція"
  FRC_valois_seize_the_power:0 "Імплантувати концепцію Валуа французькій нації"
@@ -665,15 +665,15 @@
  FRA_fsn_coup:0 "Переворот FSN"
  FRA_fsn_coup_desc:0 "Фронт національного порятунку готує переворот, щоб повалити незаконний, жалюгідний і зрадницький уряд Інтегріму та знову приєднатися до війни проти [FROM.GetNameDef]."
 
- FRA_decision_expand_FROM:0 "Expand [FROM.GetName]" # (!)
+ FRA_decision_expand_FROM:0 "Розширити [FROM.GetName]"
 
  surrender_against_balkan_alliance:0 "Запропонувати умови капітуляції Балканської ліги"
 
  AUH_franzferdinand:0 "Липнева криза"
  AUH_franzferdinand_desc:0 "Франц Фердинанд, шановний ерцгерцог Австро-Есте та наслідний принц Австро-Угорської імперії, лежить мертвий. Його благородна дружина спочиває поруч із ним. Франц Йосиф втратив ще одного спадкоємця, а також проклятим, підлим, синам сербський уряд офіційно заперечує причетність до вбивці Гаврило Принцип, звинувачуючи Чорну руку, хоча мало хто вірить у відсутність участі уряду."
  archduke_dead_serbia: "Франц Фердінанд убитий сербами"
- AUH_ultimatum_to_SER:0 "Austro-Hungarian ultimatum" # (!)
- AUH_ultimatum_to_SER_desc:0 "Austria-Hungary is preparing an ultimatum. In a few weeks they will demand an answer ... Or they will declare war." # (!)
+ AUH_ultimatum_to_SER: "Ультиматум Австро-Угорщини"
+ AUH_ultimatum_to_SER_desc: "Австро-Угорщина готує ультиматум. За кілька тижнів вони виможуть відповідь... або оголосять війну."
  european_crisis_mission:0 "Європейська криза"
  european_crisis_mission_desc:0 "Якщо європейські альянси не вирішать результат кризи дипломатичним шляхом протягом наступних тижнів, то мир буде порушено. Боже, допоможи нам!"
  european_crisis_mission_tt:0 "Австрія надішле Сербії ультиматум"
@@ -1178,9 +1178,9 @@
  frankfurt_armistice_message:0 "§YНімеччина§! та §YЦентральні держави§! перемагають. §YФранція§! та §Yїї союзники§! повинні будуть заплатити ціни, яких вимагають переможці у післявоєнному договорі."
  frankfurt_conference:0 "Франкфуртська мирна конференція"
  frankfurt_conference_desc:0 "Політики з Центральних держав обговорюють, як розділити території та колонії переможених країн і розширити їхні імперії та гегемонії."
- frankfurt_treaty_signed:0 " §YTreaty of Frankfurt§! " # (!)
- frankfurt_treaty:0 "§YTreaty of Frankfurt§! has been §Ysigned§!" # (!)
- honourable_peace:0 "§YHonourable Peace§! has been §Ysigned§!" # (!)
+ frankfurt_treaty_signed: " §YФранкфуртський договір§! "
+ frankfurt_treaty: "§YФранкфуртський договір§! було §Yпідписано§!"
+ honourable_peace: "§YПочесний мир§! було §Yпідписано§!"
  
  great_war: "§YВелика війна§!"
  get_great_war_loser: "Буде §Yпереможеним§! у §YВеликій війні§!"
@@ -8557,9 +8557,9 @@
  CAN_entente:0 "Підтвердити Entente Cordiale"
  CAN_entente_desc:0 "Об'єднані"
  CAN_newfoundland_annex:0 "Об'єднання з [FROM.GetNameDef]"
- CAN_integrating_the_frontier_cat:0 "Integrating The Frontier" # (!)
- make_northern_mantitoba_core:0 "Integrate Northern Mantitoba as a Province" # (!)
- make_ungava_core:0 "Integrate Ungava as a Province" # (!)
+ CAN_integrating_the_frontier_cat: "Інтеграція фронтиру"
+ make_northern_mantitoba_core: "Інтегрувати північну Манітобу як провінцію"
+ make_ungava_core: "Інтегрувати Унґаву як провінцію"
 
  BRA_military_interventions_category:0 "Política das Salvações"
  BRA_military_interventions_category_desc:0 "Політика Спасіння полягала у військових втручаннях з метою послаблення олігархії."
@@ -8783,7 +8783,7 @@
  UKR_sue_for_peace_GER:0 "Запропонувати Німеччині умови капітуляції"
 
  SPR_demand_spanish_morocco: "Вимогти Іспанське Марокко"
- SPR_demand_spanish_morocco_desc:0 "The Cartagena Pact of 1907 established Spanish, French, and British spheres of influence in North Africa. In exchange for Spain's support in the event of an attack by the Triple Alliance, the Entente provided us with significant material support in modernizing our navy, while also upholding our colonial integrity in nothern and southern Morocco." # (!)
+ SPR_demand_spanish_morocco_desc:0 "Картахенський пакт 1907 року встановив іспанські, французькі та британські сфери впливу в Північній Африці. В обмін на підтримку Іспанії в разі нападу Троїстого союзу Антанта надала нам значну матеріальну допомогу в модернізації нашого флоту, а також відстоює нашу колоніальну цілісність у північному та південному Марокко."
 
  rif_war_cat:0 "Герра-дель-Ріф"
  SPR_sue_for_peace_RIF:0 "Запропонувати Рифу умови капітуляції"
@@ -8973,7 +8973,7 @@
  reformists_low:0 "Підтверджено аллеманістів"
 
  FRA_french_algeria: "Алжирські департаменти"
- FRA_french_algeria_desc:0 "Northern Algeria is considered an integral part of France, not a colony. Consequently, the region is divided into three departments.\n\nWithin these territories, indigenous people are not automatically considered citizens; they must apply and cease to be Muslim. Because of these draconian conditions, only a small minority of ethnic Algerians are full citizens, approximately 200,000 people. Only these "full citizens" are politically represented, are subject to conscription, and are allowed to vote. Thus, indigenous Algerians remain considered second-class citizens and are victims of mass discrimination.\n\nHowever, this status offers Algeria special attention from France, notably national and foreign investments, as well as a population policy from Europe which guarantees it unparalleled prosperity in Africa." # (!)
+ FRA_french_algeria_desc:0 "Північний Алжир уважається невід'ємною частиною Франції, а не колонією. Відповідно, регіон розділений на три департаменти.\n\nНа цих територіях корінні жителі не вважаються громадянами автоматично; вони мусять подати заяву та перестати бути мусульманами. Через ці драконівські умови лише невелика меншість етнічних алжирців є повноправними громадянами, приблизно 200 000 осіб. Тільки ці «повноправні громадяни» мають політичне представництво, підлягають військовому обов'язку й мають право голосу. Таким чином, корінні алжирці залишаються громадянами другого сорту та є жертвами масової дискримінації.\n\nОднак цей статус забезпечує Алжиру особливу увагу з боку Франції, зокрема, національні та іноземні інвестиції, а також демографічну політику з боку Європи, яка гарантує йому безпрецедентне процвітання в Африці."
  FRA_french_algeria2: "$FRA_french_algeria$"
  FRA_french_algeria2_desc: "$FRA_french_algeria_desc$"
  FRA_french_integration:0 "Французька інтеграція"
@@ -8982,7 +8982,7 @@
  FRA_administration_coloniale:0 "Колоніальна адміністрація"
 
  FRA_decree_on_algerian_conscription: "Указ про призов алжирців"
- FRA_decree_on_algerian_conscription_desc:0 "French citizens in Algeria are subject to conscription, but non-integrated natives are not. By decree of the Minister of War, it is possible to call up a portion of Algerian natives by drawing lots for a period of at least 10 years." # (!)
+ FRA_decree_on_algerian_conscription_desc:0 "Французькі громадяни в Алжирі підлягають призову на військову службу, але неінтегровані корінні жителі не підлягають. За наказом військового міністра частина уродженців Алжиру може бути призвана шляхом жеребкування на термін не менше 10 років."
  increase_french_algeria_modifier_by_15_pop: "Змінити модифікатор області §YФранцузький Алжир§!:\n     £manpower_exiles_texticon Місцеві людські ресурси: §G+15%§!"
 
  generic_tribal_slavery:0 "Рабство племен"
@@ -9345,12 +9345,12 @@
 
  agadir_crisis_end:0 "Можливість втрутитися закінчиться."
  GER_agadir_crisis_opportunity:0 "Таймер можливостей для кризи в Агадірі"
- agadir_crisis_name_wargoal:0 "Криза в Агадірі"
+ agadir_crisis_name_wargoal:0 "Аґадірська криза"
  agadir_crisis_french_claim:0 "§Y[FRA.GetNameWithFlag]§! хоче нав'язати протекторат Марокко"
  agadir_crisis_german_claim:0 "§Y[GER.GetNameWithFlag]§! проти цього рішення"
  agadir_crisis_alert:0 "Попередження про кризу в Агадірі"
  diplomatic_crisis_CLOSE:0 "Закрити"
- agadir_crisis_alert_tt:0 "§RКриза в Агадірі§! починається проти §Y[FRA.getFlag][FRA.getAdjective]§! претензій та §Y[GER.getFlag][GER.getAdjective]§! інвестиції в §YМарокко§!"
+ agadir_crisis_alert_tt:0 "§RАґадірська криза§! починається проти §Y[FRA.getFlag][FRA.getAdjective]§! претензій та §Y[GER.getFlag][GER.getAdjective]§! інвестиції в §YМарокко§!"
  not_involved_yet:0 "Ще не задіяний"
 
  casablanca_crisis_name_wargoal: "Касабланкська криза"
@@ -9377,9 +9377,9 @@
  casablanca_crisis_french_claim: "§Y[FRA.GetNameWithFlag]§! відмовляється закінчувати окупацію Марокко"
  casablanca_crisis_moroccan_claim: "§Y[MOR.GetNameWithFlag]§! хоче вигнати французьку армію з Марокко"
 
- casablanca_crisis_alert_tt:0 "§RThe Casablanca crisis§! begins, opposing §Y[FRA.getFlag][FRA.getAdjective]§! and §Y[MOR.getFlag][MOR.getAdjective]§! Governments Toward Casablanca occupation." # (!)
+ casablanca_crisis_alert_tt: "Починається §RКасабланкська криза§!, в якій §Y[FRA.getFlag][FRA.getAdjective]ий§! і §Y[MOR.getFlag][MOR.getAdjective]ий§! уряди протистоять у питанні окупації Касабланки." # (&)
  casablanca_crisis_mission: "Касабланкська криза"
- casablanca_crisis_mission_desc:0 "France and Germany cannot agree on the status of Morocco. War threatens to break out, and they each seek allies in Europe." # (!)
+ casablanca_crisis_mission_desc: "Франція та Німеччина не можуть домовитися про статус Марокко. Загрожує спалахнути війна, і кожен із них шукає союзників у Європі."
 
  FRA_vote_will_fail:0 "§RГолосування, ймовірно, буде невдалим.§!"
  FRA_vote_will_pass:0 "§GГолосування пройде!§!"
@@ -9552,17 +9552,17 @@
  radical_party_allied: "Перебуває в коаліції з£parliament_party_icon|3 §CРадикально-соціалістичною партією§!"
  democratic_republican_alliance_allied: "Перебуває в коаліції з£parliament_party_icon|4 §8Демократичним республіканським альянсом§!"
 
- ROM_spawn_1918_army:0 "§GMobilize an army in Moldova encompassing 200 000 soldiers.§!"
+ ROM_spawn_1918_army:0 "§GМобілізувати в Молдові армію чисельністю 200 000 солдатів.§!"
 
  if_it_increases: "\n§RЯкщо воно зросте:§!\n\n"
 
- war_in_desert: "Війна у пустелі"
- war_in_desert_desc:0 "The situation on Libyan soil is not stabilized and sporadic clashes are breaking out throughout the country between local factions and colonial forces." # (!)
- libya:0 "Libya" # (!)
- attack_foreign_state:0 "Attack [FROM.getName]" # (!)
- ITA_LBA_border_war_start_tt:0 "Attack §Y[FROM.OWNER.getFlag][FROM.OWNER.getAdjective]§! positions in §Y[FROM.getName]§!.\n\n§4If the attack is  successful, we will annex the state§!." # (!)
- tt_you_have_90_days:0 "§LIf no side gain advantage in 90 days, it will end into a §gstatemate§!.§!" # (!)
- attack_mission_in_progress:0 "Battle in progress" # (!)
- LBA_take_state_452:0 "Conquest of [452.getName]" # (!)
- LBA_wait_before_attack_again:0 "Has attacked lately (Wait §Y[?LBA_wait_before_attack_again:days_left|Y0]§! days)" # (!)
- ENG_general_Peyton_expeditonary_force_in_senussi:0 "General Peyton Expeditionary Force in Senussi" # (!)
+ war_in_desert: "Війна в пустелі"
+ war_in_desert_desc:0 "Ситуація на лівійській землі не стабілізувалася й по всій країні спалахують спорадичні сутички між місцевими угрупуваннями та колоніальними військами."
+ libya: "Лівія"
+ attack_foreign_state: "Напасти на область [FROM.getName]"
+ ITA_LBA_border_war_start_tt: "Напасти на §Y[FROM.OWNER.getFlag][FROM.OWNER.getAdjective]і§! позиції в області §Y[FROM.getName]§!.\n\n§4Якщо напад вдасться, ми анексуємо область.§!"
+ tt_you_have_90_days: "§LЯкщо жодна сторона не здобуде перевагу протягом 90 днів, ситуація закінчиться §gпатом§!.§!"
+ attack_mission_in_progress: "Битва триває"
+ LBA_take_state_452: "Завоювання області [452.getName]"
+ LBA_wait_before_attack_again: "Нещодавно здійснено напад (зачекайте §Y[?LBA_wait_before_attack_again:days_left|Y0]§! дн.)"
+ ENG_general_Peyton_expeditonary_force_in_senussi: "Експедиційні сили генерала Пейтона в Сануссійї"

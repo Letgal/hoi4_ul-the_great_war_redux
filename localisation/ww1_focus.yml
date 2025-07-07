@@ -1280,14 +1280,14 @@
  CHI_fubinism_desc:0 "Хто думав, що революції зроблять Китай процвітаючим? Ви щойно зруйнували все це! Тільки маньчжурська монархія знає спосіб подбати про китайців і вибити західних імперіалістів з цього континенту..."
  CHI_individual_diplomacy:0 "Індивідуальна дипломатія"
  CHI_individual_diplomacy_desc:0 "Завдяки Нанкіну, Пекіну чи будь-якому іншому уряду ми зіпсували дипломатичні відносини з іноземцями. Навіть ми щось місцеве, ми покажемо їм, що можемо створити щось на зразок незалежної дипломатії."
- CHI_seek_french_support:0 "Зверніться до французької підтримки"
- CHI_seek_french_support_desc:0 "The French have great assets that are critical to our ability to function properly as a country; we should seize the opportunity to get their aid." # (!)
- CHI_seek_british_support:0 "Шукати британську підтримку"
- CHI_seek_british_support_desc:0 "British resources can be vital towards our overall restoration as a country; let's yearn for their support over the matters we are currently facing at hand." # (!)
- CHI_seek_german_support:0 "Зверніться до німецької підтримки"
- CHI_seek_german_support_desc:0 "Germany's military has an overabundance of supplies that enable our military to thwart future issues at hand." # (!)
- CHI_seek_russian_support:0 "Зверніться до російської підтримки"
- CHI_seek_russian_support_desc:0 "Russian, while being a fellow giant in terms of size, should be willing to cooperate with us on this matter; we should use this to better our advantages." # (!)
+ CHI_seek_french_support: "Домогтися французької підтримки"
+ CHI_seek_french_support_desc:0 "Французи володіють великими активами, які є критично важливими для нашої здатності нормально функціонувати як країна; нам слід скористатися можливістю отримати їхню допомогу."
+ CHI_seek_british_support: "Домогтися британської підтримки"
+ CHI_seek_british_support_desc:0 "Британські ресурси можуть бути життєво важливими для нашого загального відновлення як країни; то сподіваймося на їхню підтримку в питаннях, із якими ми зараз стикаємося."
+ CHI_seek_german_support: "Домогтися німецької підтримки"
+ CHI_seek_german_support_desc:0 "Німецька армія має надлишок запасів, які дозволяють нашим військовим запобігати майбутнім проблемам, що можуть виникнути в майбутньому."
+ CHI_seek_russian_support: "Домогтися російської підтримки"
+ CHI_seek_russian_support_desc:0 "Росія, будучи гігантом за розмірами, має бути готова співпрацювати з нами в цьому питанні; нам слід скористатися цим для поліпшення наших переваг."
  CHI_land_reform_warlord:0 "Земельна реформа"
  CHI_land_reform_warlord_desc:0 "Деякі селяни продовжують використовувати неефективні та відсталі методи у своїх заняттях. Крім того, деякі землевласники недостатньо використовують свою власність. Комплексний набір реформ має це виправити."
  CHI_offensive_posture:0 "Наступальна поза"
@@ -1341,8 +1341,8 @@
  CHI_continue_constitutional_reforms:0 "Продовжити конституційні реформи"
  CHI_accept_twenties_demand:0 "Прийняти двадцять одну вимогу"
  CHI_accept_twenties_demand_desc:0 "Забудьте про гідність, це про гру влади."
- CHI_annex_zhili:0 "Assert Dominance over Beiyang Cliques" # (!)
- CHI_annex_zhili_desc:0 "We've defeated the rebels and warlords of the south, but there are those within the central government who are trying to hold us back and attack us at every turn. It's time to show them who's in charge." # (!)
+ CHI_annex_zhili: "Утвердити панування над бейянськими кліками"
+ CHI_annex_zhili_desc:0 "Ми перемогли повстанців і воєначальників на півдні, але в центральному уряді є люди, котрі намагаються стримувати нас і нападають на нас на кожному кроці. Настав час показати їм, хто тут головний."
 
  ANC_focus_beiyang_hegemony:0 "Гегемонія Бейяну"
  ANC_focus_beiyang_hegemony_desc:0 ""
@@ -1654,10 +1654,10 @@
  FNG_focus_finish_unloyal_warlords_desc:0 ""Увесь Китай тепер належить нам.""
 
  GER_moroccan_crisis: "Звернути увагу на Африку"
- GER_moroccan_crisis_desc:0 "France wishes to expand their colonial empire further into Morocco. We must demonstrate our resolve and demand that Paris grants us concessions in the region as compensation." # (!)
+ GER_moroccan_crisis_desc:0 "Франція бажає розширити свою колоніальну імперію на територію Марокко. Ми мусимо продемонструвати нашу рішучість і вимогти, щоби Париж надав нам концесії в регіоні в якості компенсації."
  GER_moroccan_crisis_tt: "Буде здобуто претензію на протекцію @MOR §YМарокко§!."
  GER_place_under_the_sun: "Наше місце під сонцем"
- GER_place_under_the_sun_desc:0 "It is time to expand our colonial empire. We shall take our rightful place in the sun, and deal decisively with anyone who obstructs our path." # (!)
+ GER_place_under_the_sun_desc:0 "Настав час розширити нашу колоніальну імперію. Ми займемо своє законне місце під сонцем і рішуче розправимося з усіма, хто стане на нашому шляху."
  GER_befriend_holland:0 "Подружитися з Голландією"
  GER_befriend_holland_desc:0 "Голландці не обов’язково повинні бути нашими ворогами. Вони можуть бути цінним членом нашого Альянсу та відігравати вирішальну роль у виконанні плану Шліффена."
  GER_threaten_holland:0 "Погрожувати Голландії"
@@ -1782,6 +1782,7 @@
  GER_hindenburg_programme:0 "Програма Гінденбурга"
  GER_hindenburg_programme_desc:0 "Економіка знаходиться під контролем OHL. Дає рішення про будівництво лінії Гінденбурга."
  GER_democratization_of_army:0 "Демократизація армії"
+ GER_democratization_of_army_desc: "$GER_democratization_of_army$"
  GER_befriend_sweden_desc:0 "Якщо Швеція погодиться, вона матиме претензії щодо Фінляндії. Подальші дії в Скандинавії залежать від рішення Швеції."
  GER_pressure_on_scandinavia_desc:0 "Скандинавії доведеться підкоритися."
  GER_veteran_organisation:0 "Ветеранська організація"
@@ -1862,10 +1863,11 @@
  GER_establish_finnish_monarchy_desc:0 "Нам потрібно створити фінську монархію як буферну державу, щоб ефективніше зберігати контроль і вплив у Скандинавії."
  GER_expand_staff_desc:0 "Військові доктрини."
  GER_colonial_legion: "Koloniallegion"
- GER_colonial_legion_tt:0 "Колонії отримають ідею §YKoloniallegion§! яка щотижня надає робочу силу.\n\n"
+ GER_colonial_legion_tt:0 "Колонії отримають ідею §YKoloniallegion§!, яка щотижня надає робочу силу.\n\n"
  GER_fokker_aeroplanbau:0 "Fokker Aeroplanbau GmbH"
+ GER_fokker_aeroplanbau_desc: "$GER_fokker_aeroplanbau$"
  GER_investing_in_cameroon:0 "Інвестиції в Камерун"
- GER_investing_in_cameroon_desc:0 "Kamerun's industry is underdeveloped. We must invest in its infrastructure and economy to revitalize the colony and strengthen our presence in Africa." # (!)
+ GER_investing_in_cameroon_desc:0 "Промисловість Камеруну недостатньо розвинена. Ми мусимо інвестувати в його інфраструктуру й економіку, щоби відживити колонію та посилити нашу присутність в Африці."
  GER_persian_campaign:0 "Перська кампанія"
  GER_persian_campaign_desc:0 "Запропонуйте субсидії для Персії в обмін на визнання німецької переваги."
  GER_pearl_of_the_british_crown:0 "Перлина британської корони"
@@ -1881,13 +1883,13 @@
  GER_way_to_india_desc:0 "До Індії через Мадагаскар."
  GER_atlantic_class:0 "Атлантичний клас"
  GER_atlantic_class_desc:0 "Potential adversaries in the Atlantic are constantly improving their naval capabilities. We must counter this threat by developing a new generation of advanced warships to maintain our naval strength and project power across the ocean." # (!)
- GER_destabilize_raj:0 "Індуссько-німецька змова"
+ GER_destabilize_raj:0 "Індійсько-німецька змова"
  GER_destabilize_raj_desc:0 "We must concentrate on weakening the British colonies. Supporting independence movements in India and Aghanistan will undermine London's authority and divert their resources." # (!)
  GER_chinese_intervention:0 "Китайська інтервенція"
  GER_chinese_intervention_desc:0 "The Qing have clearly shown their inability to govern effectively. We shall intervene to protect our interests and perhaps help them manage their affairs... under our guidance." # (!)
  GER_hindenburg_line:0 "Лінія Гінденбурга"
  GER_protector_of_europe:0 "Захисник Європи"
- GER_protector_of_europe_desc:0 "In these tense times, the smaller nations of Europe look to us for security. We shall extend our protection by guaranteeing the independence of the Low Countries, Denmark, and Switzerland. This act will demonstrate our commitment to stability, reassure our neighbours, and solidify our position as the preeminent power safeguarding Central Europe." # (!)
+ GER_protector_of_europe_desc:0 "У ці напружені часи малі країни Європи сподіваються на нашу безпеку. Ми розширимо наш захист, гарантуючи незалежність Малих країн, Данії та Швайцарії. Цей акт продемонструє нашу відданість стабільності, заспокоїть наших сусідів і зміцнить нашу позицію як провідної держави, що захищає Центральну Європу."
  GER_rejuvenate_officer_staff:0 "Омолодження військового персоналу"
  GER_rejuvenate_officer_staff_desc:0 "Нам потрібно омолодити Військовий штаб новими офіцерами."
  GER_secure_allied_monarchies:0 "Безпечні союзні монархії"
@@ -1968,8 +1970,10 @@
  GER_luftstreitkrafte_desc:0 "Реорганізувати німецькі авіаційні сили."
  GER_focus_on_airships:0 "Зосередитися на дирижаблях"
  GER_zeppelin_company:0 "Luftschiffbau Zeppelin GmbH"
+ GER_zeppelin_company_desc: "$GER_zeppelin_company$"
  GER_strategic_bombing_campaign:0 "Кампанія стратегічних бомбардувань"
- GER_superiority_of_aces:0 "Перевага тузів"
+ GER_strategic_bombing_campaign_desc: "$GER_strategic_bombing_campaign$"
+ GER_superiority_of_aces:0 "Перевага асів"
  GER_aviation_cult:0 "Культ авіації"
  GER_aviation_cult_desc:0 "Німецьке суспільство зачароване можливістю пілотувати небо; ми скористаємося цим і розширимо наші повітряні можливості, поки це досі популярно."
  GER_army_inovations:0 "Армійські інновації"
@@ -6167,7 +6171,7 @@
  TUR_redrosesmarines_desc:0 "Для світової революції нам потрібні сили, які можуть поширюватися по морях. Для цього ми будемо навчати наших морських піхотинців."
  TUR_planefactories:0 "Заводи літаків"
  TUR_planefactories_desc:0 "Літаки - це майбутнє, їх масове виробництво дасть нам перевагу над нашими ворогами."
- TUR_redaces:0 "Червоні тузи"
+ TUR_redaces:0 "Червоні аси"
  TUR_redaces_desc:0 "Літаки, можливо, доступні лише для цивільного використання, але їх потенціал неймовірний. Якщо ми застосуємо цю технологію для ведення війни, не залишиться жодного ворога, який би протистояв нашій силі."
  TUR_redspearhead:0 "Червоний наконечник списа"
  TUR_redspearhead_desc:0 "Броньована машина і танки — це майбутнє війни. Що швидше ми візьмемо їх на озброєння, то більше перемог матимемо на полі бою."
