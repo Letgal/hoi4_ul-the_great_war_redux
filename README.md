@@ -4,7 +4,6 @@
 Локалізація доступна до завантаження в [Майстерні *Steam*](https://steamcommunity.com/workshop/filedetails/?id=2880535545).
 
 ## Завершені файли
-+ ~~`countries`~~
 + ~~`state_names`~~
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
@@ -29,6 +28,7 @@
 + `ww1_ideas`
 
 ## У процесі перекладу (без об'єднання)
++ `countries`
 + `countries_cosmetic`
 + `loading_tips`
 + `ww1_adjacency_rules`

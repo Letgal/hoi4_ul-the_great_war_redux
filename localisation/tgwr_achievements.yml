@@ -42,7 +42,7 @@
  chinese_core_state: "Є осердною областю держави [CHI.GetNonIdeologyName]"
  chinese_core_state_NOT: "Не є осердною областю держави [CHI.GetNonIdeologyName]"
  king_of_canals_NAME: "Цар каналів"
- king_of_canals_DESC: "Контролюйте Суецький, Панамський і Кільський канали."
+ king_of_canals_DESC: "Контролюйте Суецький, Панамський, Північноморський і Кільський канали."
  churchills_revenge_NAME: "Помста Черчилла"
  churchills_revenge_DESC: "Контролюйте всі області довкола Мармурового моря."
  prussia_of_the_balkans_ww1_NAME: "Пруссія Балкан"
