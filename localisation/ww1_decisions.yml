@@ -64,6 +64,9 @@
  send_equipment_to_SRA_artillery:0 "Надіслати артилерію до [FROM.getName]"
  send_equipment_to_SRA_tanks:0 "Надіслати танки до [FROM.getName]"
 
+ decision_cost_3_civ: "£civ_factory£ §Y3§!"
+ decision_cost_3_civ_blocked: "£civ_factory£ §R53!"
+ decision_cost_3_civ_tooltip:0 "It costs £civ_factory£ §Y3§! to take the decision"
  decision_cost_CP_5:0 "£command_power §Y5§!"
  decision_cost_CP_5_blocked:0 "£command_power §R5§!"
  decision_cost_CP_5_tooltip:0 "Прийняття рішення коштує £command_power §Y5§!"
@@ -106,6 +109,9 @@
  250_infantry_equipment_1: "£rifle_texticon §H250§!"
  250_infantry_equipment_1_blocked: "£rifle_texticon §R250§!"
 
+ 500_infantry_equipment_1: "£rifle_texticon §H500§!"
+ 500_infantry_equipment_1_blocked: "£rifle_texticon §R500§!"
+
  1000_infantry_equipment_1:0 "£rifle_texticon §H1000§!"
  1000_infantry_equipment_1_blocked:0 "£rifle_texticon §R1000§!"
 
@@ -133,6 +139,10 @@
  10_tank_equipment_blocked:0 "£fighter_texticon §R10§!"
 
  ask_help_to_someone:0 "Звернутися за допомогою до [FROM.getName]"
+
+ decision_cost_25CP_and_500_infantry_equipment: "£command_power §Y25§! £rifle_texticon §H500§!"
+ decision_cost_25CP_and_500_infantry_equipment_blocked: "£command_power §R25§! £rifle_texticon §R500§!"
+ decision_cost_25CP_and_500_infantry_equipment_tooltip:0 "It costs £command_power §Y25§! and £rifle_texticon §H500§! to take the decision"
 
  develop_brunei_deposits:0 "Дослідити нафтові родовища Серії"
  develop_brunei_deposits_2:0 "Дослідити нафтові родовища Серії"
@@ -179,7 +189,6 @@
 
  GER_great_war:0 "Велика війна"
  GER_great_war_desc:0 "Велика війна глобально змінить долю націй у всьому світі. Якщо лідер альянсу здасться, переможці мають проблеми, на яких умовах вони готові встановити мир.\n\n§GПереможний альянс отримає області з претензіями й осердні області після конференції§!"
- GER_schlieffen_plan:0 "План Шліффена"
  GER_dual_alliance:0 "Пошанувати подвійний альянс"
  GER_dual_alliance_desc:0 "Наш союз з Австро-Угорщиною означає, що ми обіцяємо підтримувати один у разі нападу з боку Росії. Ми допоможемо нашим австрійським друзям перемогти Росію."
  GER_setup_belgian_occupation_zone:0 "Налаштувати Kaiserliches Deutsches Generalgouvernement Belgien"
@@ -204,6 +213,7 @@
  GER_norse_request:0 "Запросити [NOR.GetName]"
  GER_swiss_request:0 "Запросити [SWI.GetName]"
  GER_agadir_crisis:0 "Аґадірська криза"
+ GER_agadir_crisis_desc:0 "French forces have entered Fez, under the pretext of aiding the Sultan, but we perceive this as a clear manoeuvre to assert full control over Morocco. This action violates the Algeciras Act, threatening our economic interests and international standing. We must now determine if a decisive show of force in Moroccan waters is the necessary step to safeguard our rights." # (!)
  agadir_crisis:0 "Аґадірська криза"
  agadir_crisis_ends:0 "Аґадірська криза закінчилася"
  agadir_crisis_send_demands:0 "Поступки для Агадіра"
@@ -299,15 +309,15 @@
  GER_prussian_appoint_hitler:0 "Марш на Берлін"
  GER_prussian_appoint_hitler_desc:0 "Національно-соціалістичний рух Адольфа Гітлера набирає популярність. Вони хочуть відродити німецький народ із глибини поразки. Хто класифікує їх як ультралівих, а хтось як ультраправих через їхні крайні та невідомі ідеї, але, можливо, вони можуть знову зробити Німеччину великою. \nІ з невеликою допомогою вони прийдуть до влади без крові."
  GER_landsturm_deployment:0 "\nВідкриє новий шаблон дивізії — §Y"Landsturm"§! у складі §Y9 ополчення§! та §Yроти підтримувати§!."
- back_in_30_days:0 "\nЦе §Yрішення§! з'явиться знову через §Y30 днів§!."
- back_in_45_days:0 "\nЦе §Yрішення§! з'явиться знову через §Y45 днів§!."
- back_in_60_days:0 "\nЦе §Yрішення§! з'явиться знову через §Y60 днів§!."
- back_in_180_days:0 "\nЦе §Yрішення§! повернеться через §Y180 днів§!.\n\n"
- back_in_190_days:0 "\nЦе §Yрішення§! з'явиться знову через §Y190 днів§!."
- back_in_280_days:0 "\nЦе §Yрішення§! з'явиться знову через §Y280 днів§!."
- back_in_120_days:0 "\nЦе §Yрішення§! з'явиться знову через §Y120 днів§!."
- back_in_160_days:0 "\nЦе §Yрішення§! з'явиться знову через §Y160 днів§!."
- back_in_360_days:0 "\nЦе §Yрішення§! з'явиться знову через §Y360 днів§!."
+ back_in_30_days:0 "Це §Yрішення§! з'явиться знову через §Y30 днів§!."
+ back_in_45_days:0 "Це §Yрішення§! з'явиться знову через §Y45 днів§!."
+ back_in_60_days:0 "Це §Yрішення§! з'явиться знову через §Y60 днів§!."
+ back_in_180_days:0 "Це §Yрішення§! повернеться через §Y180 днів§!.\n\n"
+ back_in_190_days:0 "Це §Yрішення§! з'явиться знову через §Y190 днів§!."
+ back_in_280_days:0 "Це §Yрішення§! з'явиться знову через §Y280 днів§!."
+ back_in_120_days:0 "Це §Yрішення§! з'явиться знову через §Y120 днів§!."
+ back_in_160_days:0 "Це §Yрішення§! з'явиться знову через §Y160 днів§!."
+ back_in_360_days:0 "Це §Yрішення§! з'явиться знову через §Y360 днів§!."
  ifc_wont_accept:0 "§R IFC не відповідає нашим вимогам, якщо наш борг перевищує 15% споживчих товарів!§!"
  GRE_ifc_event_decision:0 "Ми пропонуємо подію на основі суми вашого боргу §Grepaid.§!"
  GER_mobilization_campaign:0 "Мобілізаційна кампанія"
@@ -404,7 +414,7 @@
  FRA_1914_disposition:0 "[date.getYear] Disposition"
  FRA_1918_disposition:0 "[date.getYear] Disposition"
  FRA_hold_verdun:0 "Верден не потрапляє в руки німців."
- FRA_defense_of_france:0 "Битва за Францію"
+ FRA_defense_of_france:0 "Наступ на Францію"
  FRA_battle_of_verdun:0 "Утримувати Верден"
  FRA_not_hold_verdun:0 "Верден потрапив до рук німців."
  FRA_battle_of_nancy:0 "Утримати Нансі"
@@ -453,11 +463,11 @@
  NFA_sue_for_peace_FRC:0 "Війти з метрополії Франції"
  NFA_return_to_paris:0 "Повернення до Парижа"
 
- embargo_france:0 "Ембарго [FRA.GetName]"
- embargo_communist_nation:0 "Ембарго [FROM.GetName]"
+ embargo_france:0 "Impose an embargo on [FRA.GetName]" # (!)
+ embargo_communist_nation:0 "Impose an embargo on [FROM.GetNameDef]" # (!)
  FRA_embargo:0 "Санкціонував §YFrance§!."
  full_embargo:0 "Повне ембарго"
- puppet_embargo_too:0 "\n§Ваші піддані§! також накладуть на них ембарго.\n\n"
+ puppet_embargo_too:0 "\n§YНаші суб'єкти§! також накладуть на них ембарго.\n\n"
 
  fra_deployment_of_railway_guns:0 "§YРішення про розблокування§! Не дозволити §YСтворення залізничних гармат§! в обмін на £command_power §Y50§! і £civ_factory §Y5§! за шкірну гармату.\n\n"
 
@@ -620,12 +630,46 @@
  FRA_roppe_fort_text: "Додає §Y1 наземне укріплення§! в області §Y[864.GetName].§!"
 
  FRA_socialist_france_flag:0 "Соціалістична Франція"
+ FRC_call_communist_nations:0 "§YUnlock Decisions§! to call §YSocialist Nations§! to help us in the §YCivil War§!." # (!)
  FRC_valois_seize_the_power:0 "Імплантувати концепцію Валуа французькій нації"
  FRC_valois_seize_the_power_desc:0 "Жорж Валуа є синдикалістом, але він також дружній до монархії та не хоче, щоб [FRA.GetName] був надто лівим. Він діяв як анархо-синдикаліст, але тепер, коли він отримав достатню підтримку, він намагається виправити націонал-синдикалізм у цій країні."
  FRC_interwar_internationale_category:0 "Міжнародний"
  FRC_interwar_internationale_category_desc:0 "Усі, хто хоче свободи та рівності для робітників, солдатів і селян, повинні об’єднатися в одну міжнародну лігу, щоб винести суд над капіталістами, багатими, привілейованими та імперіалістами."
  FRC_internationale:0 "Міжнародна форма"
  FRC_interwar_invite_in_internationale:0 "Запросити [FROM.GetNameDef] до [ROOT.GetFactionName]"
+
+ FRC_deploy_partisans_in_state:0 "Activate Resistance Cell in [FROM.getName]" # (!)
+ FRC_spawn_2_partisans_units:0 "Spawn §Y2 Partisans Brigades§!."
+
+ FRC_random_investment:0 "Syndicalist Councils Investments"
+
+ FRC_support_separatism_to_get_military_support:0 "§YUnlock Decisions§! to support §YSeparatist Movements§! in France. While it could give us a strong support, it might also make them independents from France."
+
+ FRC_support_brittany_commune:0 "Support Brittany Commune"
+ FRC_support_brittany_commune_desc:0 "A part of western Brittany still opposes French centralism and is fighting for its recognition. In exchange for the formation of action brigades, we could grant them a very high level of autonomy, with recognition of an independent Breton state overseen by France within a French-speaking community of France."
+
+ FRC_support_basque_commune:0 "Support Basque Commune"
+ FRC_support_basque_commune_desc:0 "The Basque Country is the smallest, but arguably the most pro-independence, of France's states. Its mountain-dwelling ethnic population has preserved its ancient traditions, as well as its distinctive non-Latin language. They deserve our support!"
+
+ FRC_support_corsican_commune:0 "Support Corsican Commune"
+ FRC_support_corsican_commune_desc:0 "The Corsican people are isolated from the mainland and share a subtle blend of French, Corsican, and southern Italian traditions. We could offer them independence as members of our union of communes."
+ 
+ FRC_french_cold_war:0 "French Cold War?"
+ FRC_french_cold_war_desc:0 "The more the time pass, the less a decisive outcome might be possible. We must launch major offensives before moral run too low and force us to negotiate with the other government."
+
+ FRC_paid_leave:0 "Mandatory Paid Leave"
+ FRC_paid_leave_desc:0 "The Paris union council's proposal allows employees to obtain two weeks of paid leave per year, paid for by a mandatory popular contribution fund."
+
+ FRC_direct_democracy_in_towns:0 "Direct Demoracy in Towns"
+ FRC_direct_democracy_in_towns_desc:0 "Union assemblies are now mandatory for the management of towns and villages with more than 200 inhabitants. The joint council, which is composed of equal representation, must make local management decisions autonomously in order to relieve the government and regional authorities."
+
+ FRC_proletarian_art_subventions:0 "Proletarian Art Subventions"
+ FRC_proletarian_art_subventions_desc:0 "The promotion of socialist art will consolidate the regime and make French youth dream."
+
+ FRC_anti_clerical_law:0 "Anti-Clerical Law"
+ FRC_anti_clerical_law_desc:0 "The Bordeaux Trade Union Council has proposed a law aimed at neutralizing all religious references, whether in festivals, the naming of streets and cities, or in education. Strict secularism must apply at all levels of society."
+
+ FRC_attack_nationalist_france:0 "Attack Nationalist France"
 
  FRA_take_down_kapp_luttwitz:0 "Змусити [GER.GetName] виконувати Версальський договір"
  FRA_take_down_kapp_luttwitz_desc:0 "[GER.GetNameDefCap] порушили Версальський договір. Вони навіть відмовилися розпустити свою армію та намагалися відновити монарха. Ми можемо виправдати нав'язування договору переможеним країнам!"
@@ -671,7 +715,6 @@
 
  AUH_franzferdinand:0 "Липнева криза"
  AUH_franzferdinand_desc:0 "Франц Фердинанд, шановний ерцгерцог Австро-Есте та наслідний принц Австро-Угорської імперії, лежить мертвий. Його благородна дружина спочиває поруч із ним. Франц Йосиф втратив ще одного спадкоємця, а також проклятим, підлим, синам сербський уряд офіційно заперечує причетність до вбивці Гаврило Принцип, звинувачуючи Чорну руку, хоча мало хто вірить у відсутність участі уряду."
- archduke_dead_serbia: "Франц Фердінанд убитий сербами"
  AUH_ultimatum_to_SER: "Ультиматум Австро-Угорщини"
  AUH_ultimatum_to_SER_desc: "Австро-Угорщина готує ультиматум. За кілька тижнів вони виможуть відповідь... або оголосять війну."
  european_crisis_mission:0 "Європейська криза"
@@ -865,7 +908,7 @@
  AUH_GER_FRA_deal_for_peace_on_alsace_lorraine:0 "Область §YЕльзас-Лотаринґія§! буде передана §Y[FRA.GetNameWithFlag]§!, але §YАнтанта§! покине §Y[RUS.GetNameWithFlag] §!."
  AUH_GER_FRA_deal_for_peace_on_alsace_lorraine_AUH_part:0 "§Y[AUS.GetNameWithFlag]§! втратить будь-яку претензію на §Y[POL.GetNameWithFlag]§!."
 
- GER_AUH_FRA_alsace_for_galicia:0 "Область §YЕльзас-Лотаринґія§! буде передано до §Y[FRA.getFlag][FRA.getName]§!, але §Y[AUS.GetNameWithFlag]§! передасть §Y[GAL.getFlag]Західну Галичину§! §Y[POL.getFlag]Польщі§!
+ GER_AUH_FRA_alsace_lorraine_for_galicia:0 "Область §YЕльзас-Лотаринґія§! буде передано до §Y[FRA.getFlag][FRA.getName]§!, але §Y[AUS.GetNameWithFlag]§! передасть §Y[GAL.getFlag]Західну Галичину§! §Y[POL.getFlag]Польщі§!
  GER_AUH_FRA_galicia_deal_resume:0 "§Y[AUS.GetNameWithFlag]§! передасть §Y[GAL.getFlag]Західну Галичину§! §Y[POL.getFlag]Польщі§!."
  GER_AUH_FRA_briey_for_mulhouse:0 "Область §YЕльзас-Лотаринґія§! буде спільно використовуватися між §Y[FRA.GetNameWithFlag]§! і §Y[GER.GetNameWithFlag]§!."
 
@@ -1033,12 +1076,17 @@
  FRA_complete_schneider_steel_mill_implementation_in_sete_mission_tt:0 "[?22.industrial_complex_level|+0]/§Y[?22.civilian_total_after_goal]§! §YCivilian Factories§! побудовано в §Y[22.getName]§!"
  FRA_complete_schneider_steel_mill_implementation_in_sete_mission_tt_title:0 "Побудуйте §Y1 Цивільний завод§! у §Y[22.getName]§!"
 
+ FRC_build_civs_here:0 "[?THIS.industrial_complex_level|+0]/§Y[?THIS.civilian_total_after_goal]§! §YCivilian Factories§! built in §Y[THIS.getName]§!" # (!)
+ FRC_first_five_year_plan_mission:0 "First Five Year Plan"
+ FRC_first_five_year_plan_mission_desc:0 "The party's central committee called for the implementation of a large-scale industrialization program. The goal set would allow for a massive increase in production, and thus in state resources for defense, social security, and education."
+
  FRA_saint_ouen_schneider_industrial_complex:0 "Промисловий комплекс Saint-Ouen Schneider"
  FRA_saint_ouen_schneider_industrial_complex_desc:0 "Компанія Schneider et Cie може придбати компанію Farcot з метою посилення виробництва військових і цивільних двигунів. Підтримка уряду у створенні цієї майстерні є серйозною інвестицією."
  FRA_saint_ouen_schneider_industrial_complex_tt_title:0 "Побудуйте §Y1 цивільну фабрику§! у §Y[16.getName]§!"
  FRA_saint_ouen_schneider_industrial_complex_tt:0 "[?16.industrial_complex_level|+0]/§Y[?16.civilian_total_after_goal]§! §YCivilian Factories§! побудовано в §Y[16.getName]§!"
 
  military_contract_flag:0 "Вже виконує контракт на будівництво"
+ FRA_we_have_to_wait_next_elections:0 "§7If we lose our majority in the parliament, we will have to wait the §Ynext elections§!.§!" # (!)
 
  FRA_sponsored_worker_pension:0 "Спонсорована трудова пенсія"
  FRA_sponsored_worker_pension_desc:0 "§YNapoléon§! запропонував покращити пенсійну систему, поширивши її на всі визнані роботи у Франції. Пенсія фінансуватиметься трьома сторонами: державою, роботодавцем і самим пенсіонером через спеціальні податки."
@@ -1181,6 +1229,7 @@
  frankfurt_treaty_signed: " §YФранкфуртський договір§! "
  frankfurt_treaty: "§YФранкфуртський договір§! було §Yпідписано§!"
  honourable_peace: "§YПочесний мир§! було §Yпідписано§!"
+ french_civil_war: "§YГромадянська війна у Франції§! триває"
  
  great_war: "§YВелика війна§!"
  get_great_war_loser: "Буде §Yпереможеним§! у §YВеликій війні§!"
@@ -1360,6 +1409,7 @@
  SOV_soviet_estonia:0 "Радянська Естонія"
  SOV_soviet_amur:0 "Створити Амурську СР"
  SOV_soviet_odessa: "Заснувати Одеську СР"
+ SOV_reuinite_soviet_ukraine: "Возз'єднати радянську Україну"
  SOV_soviet_stavrapol:0 "Створити Ставрапольську СР"
  SOV_soviet_terek:0 "Створити Терек СР"
  SOV_soviet_black_sea:0 "Створити Чорноморську СР"
@@ -1435,6 +1485,7 @@
  ITA_seize_fiume:0 "Захопити Фіуме"
  ITA_seize_fiume_desc:0 "Рапалльський договір був провалом. Ми повинні захопити Фіуме в нашій країні."
  ITA_FRA_intervene_in_civil_war:0 "Втручання в громадянську війну в Італії"
+ ITA_intervention_in_northern_italy: "Втручання в державу [FROM.getName]" # (&)
 
  SRD_sardinia_piedmont:0 "Проголошення Сардинії-П'ємонту"
  SRD_reclaim_italy:0 "Повернути Королівство Італія"
@@ -1446,7 +1497,6 @@
  ITA_valona_timer:0 "Італійський вихід із Валони"
  ITA_return_rhodes_mission:0 "Повернення Додеканесу"
  ITA_return_rhodes_mission_desc:0 "Італія погодилася повернути Додеканес Османській імперії в Ушійському договорі. Однак через нечіткість тексту в поєднанні з можливими подальшими несприятливими подіями, несприятливими для Османів, можна дозволити тимчасову італійську адміністрацію островів."
- ITA_tyrol_timer:0 "Відступ Італії з Північного Тіролю"
  ITA_fix_roman_question:0 "Вирішіть римське питання"
  ITA_fix_roman_question_desc:0 "Визнавши Папську державу у Ватикані суверенним утворенням, ми могли б покласти край цьому малусу та римському питанню."
 
@@ -1459,8 +1509,8 @@
  GRE_occupy_cyprus_desc:0 "Населений греками з давніх часів, Кіпр вийшов з-під впливу материкової Греції, коли Візантійська імперія почала втрачати територію на користь ісламської сфери. Острів залишався під контролем Османської імперії до 19 століття, коли британці взяли адміністративний контроль над острів після турецько-російської війни, суверенітет якого зберегли османи.\nТепер, коли британці не контролюють острів і османи не наважуються претендувати на нього, ми повинні проголосити наш суверенітет над Кіпром згідно з принципом національного самовизначення."
  GRE_pro_venizelist_movement_in_athens:0 "Про венілізаторський рух в Афінах"
  GRE_almost_civil_war:0 "§RЦе може призвести до громадянської війни!§!"
- GRE_missions_to_increase_venizelists_support:0 "§YUnlock Special Missions§! Збільшення §YVenizelist Support§! у [GRE.getFlag]Греції. §gКостянтин I§! також намагатиметься залучити національну підтримку."
- GRE_missions_to_increase_royalists_support:0 "§YUnlock Special Missions§! Збільшення §YRoyalist Support§! у [GRE.getFlag]Греції. §C[GRE.getDemocraticLeader] §! також спробує зібрати національну підтримку."
+ GRE_missions_to_increase_venizelist_support:0 "\nUnlocks §YExpand Influence§! On-map Decisions, allowing to §Gexpand§! §YVenizelist Influence§! in states.\n\nOnly states that have §GTotal§! Venizelist §YInfluence§! upon the start of the Civil War will begin the conflict under §YVenizelist ownership§!.\n" # (!)
+ GRE_missions_to_increase_monarchist_support:0 "\nUnlocks §YExpand Influence§! On-map Decisions, allowing to §Gcounter§! §YVenizelist Influence§! in states.\n\nStates that do not have §RTotal§! Venizelist §YInfluence§! upon the start of the Civil War will begin the conflict under §YMonarchist ownership§!.\n" # (!)
 
  GRE_occupy_northern_epirus:0 "Окупація Північного Епіру"
  GRE_occupy_northern_epirus_desc:0 "Територія, відома грекам як Північний Епір, із значним грецьким населенням, була віднесена до новоствореної албанської держави за Флорентійським протоколом, і нам довелося відступити до нового кордону. Однак Албанія потрапила в безладний стан, який дозволяє нам взяти регіон без будь-яких труднощів."
@@ -1518,6 +1568,82 @@
  GRE_national_schism:0 "Національний розкол"
  GRE_return_capital:0 "Повернути столицю до Афін"
  GRE_return_capital_desc:0 "Тепер, коли ми відновили контроль над півостровом Аттика, настав час повернутися до Афін, давньої столиці еллінів."
+
+ GRE_expand_influence_venizelists_trigger_tt:0 "The Venizelists have less than §YTotal§! influence over the state."
+ GRE_expand_influence_monarchists_trigger_tt:0 "The Monarchists have at least §YWeak§! influence over the state."
+ GRE_expand_influence_venizelists_tt:0 "Increase Venizelist influence over the state by one step.\n\n"
+ GRE_expand_influence_monarchists_tt:0 "Reduce Monarchist influence over the state by one step.\n\n"
+ GRE_garrison_control_venizelists_none_tt:0 "§LCurrent Venizelist influence over the state:§! §RNone§!\n"
+ GRE_garrison_control_venizelists_weak_tt:0 "§LCurrent Venizelist influence over the state:§! §OWeak§!\n"
+ GRE_garrison_control_venizelists_strong_tt:0 "§LCurrent Venizelist influence over the state:§! §YStrong§!\n"
+ GRE_garrison_control_venizelists_total_tt:0 "§LCurrent Venizelist influence over the state:§! §GTotal§!\n"
+ GRE_already_expanding_influence_flag:0 "Already Expanding Garrison Influence"
+
+ GRE_expand_influence_in_the_athens_garrison:0 "Expand Influence in [898.GetName]"
+ GRE_expand_influence_in_the_sterea_ellada_garrison:0 "Expand Influence in [47.GetName]"
+ GRE_expand_influence_in_the_peloponnesos_garrison:0 "Expand Influence in [186.GetName]"
+ GRE_expand_influence_in_the_cyclades_garrison:0 "Expand Influence in [900.GetName]"
+ GRE_expand_influence_in_the_thessaly_garrison:0 "Expand Influence in [185.GetName]"
+ GRE_expand_influence_in_the_ioannina_garrison:0 "Expand Influence in [758.GetName]"
+ GRE_expand_influence_in_the_kerkyra_garrison:0 "Expand Influence in [187.GetName]"
+ GRE_expand_influence_in_the_olympos_garrison:0 "Expand Influence in [826.GetName]"
+ GRE_expand_influence_in_the_northern_epirus_garrison:0 "Expand Influence in [803.GetName]"
+ GRE_expand_influence_in_the_central_macedonia_garrison:0 "Expand Influence in [731.GetName]"
+ GRE_expand_influence_in_the_thessaloniki_garrison:0 "Expand Influence in [345.GetName]"
+ GRE_expand_influence_in_the_eastern_macedonia_garrison:0 "Expand Influence in [184.GetName]"
+ GRE_expand_influence_in_the_western_thrace_garrison:0 "Expand Influence in [757.GetName]"
+ GRE_expand_influence_in_the_meric_garrison:0 "Expand Influence in [200.GetName]"
+ GRE_expand_influence_in_the_aegean_islands_garrison:0 "Expand Influence in [790.GetName]"
+ GRE_expand_influence_in_the_ikaria_garrison:0 "Expand Influence in [975.GetName]"
+ GRE_expand_influence_in_the_samos_garrison:0 "Expand Influence in [974.GetName]"
+ GRE_expand_influence_in_the_dodecanese_garrison:0 "Expand Influence in [164.GetName]"
+ GRE_expand_influence_in_the_rodos_garrison:0 "Expand Influence in [899.GetName]"
+ GRE_expand_influence_in_the_crete_garrison:0 "Expand Influence in [182.GetName]"
+ GRE_expand_influence_in_the_cyprus_garrison:0 "Expand Influence in [183.GetName]"
+ GRE_expand_influence_in_the_eastern_thrace_garrison:0 "Expand Influence in [756.GetName]"
+ GRE_expand_influence_in_the_tekirdag_garrison:0 "Expand Influence in [341.GetName]"
+ GRE_expand_influence_in_the_galipoli_garrison:0 "Expand Influence in [860.GetName]"
+ GRE_expand_influence_in_the_catalca_garrison:0 "Expand Influence in [1018.GetName]"
+ GRE_expand_influence_in_the_konstantiniyye_garrison:0 "Expand Influence in [347.GetName]"
+ GRE_expand_influence_in_the_izmit_garrison:0 "Expand Influence in [1019.GetName]"
+ GRE_expand_influence_in_the_bandirma_garrison:0 "Expand Influence in [825.GetName]"
+ GRE_expand_influence_in_the_biga_garrison:0 "Expand Influence in [861.GetName]"
+ GRE_expand_influence_in_the_smyrna_garrison:0 "Expand Influence in [339.GetName]"
+ GRE_expand_influence_in_the_aydin_garrison:0 "Expand Influence in [824.GetName]"
+ GRE_expand_influence_in_the_mentese_garrison:0 "Expand Influence in [342.GetName]"
+
+ GRE_expand_influence_in_the_athens_garrison_mission:0 "Influence Challenged in [898.GetName]"
+ GRE_expand_influence_in_the_sterea_ellada_garrison_mission:0 "Influence Challenged in [47.GetName]"
+ GRE_expand_influence_in_the_peloponnesos_garrison_mission:0 "Influence Challenged in [186.GetName]"
+ GRE_expand_influence_in_the_cyclades_garrison_mission:0 "Influence Challenged in [900.GetName]"
+ GRE_expand_influence_in_the_thessaly_garrison_mission:0 "Influence Challenged in [185.GetName]"
+ GRE_expand_influence_in_the_ioannina_garrison_mission:0 "Influence Challenged in [758.GetName]"
+ GRE_expand_influence_in_the_kerkyra_garrison_mission:0 "Influence Challenged in [187.GetName]"
+ GRE_expand_influence_in_the_olympos_garrison_mission:0 "Influence Challenged in [826.GetName]"
+ GRE_expand_influence_in_the_northern_epirus_garrison_mission:0 "Influence Challenged in [803.GetName]"
+ GRE_expand_influence_in_the_central_macedonia_garrison_mission:0 "Influence Challenged in [731.GetName]"
+ GRE_expand_influence_in_the_thessaloniki_garrison_mission:0 "Influence Challenged in [345.GetName]"
+ GRE_expand_influence_in_the_eastern_macedonia_garrison_mission:0 "Influence Challenged in [184.GetName]"
+ GRE_expand_influence_in_the_western_thrace_garrison_mission:0 "Influence Challenged in [757.GetName]"
+ GRE_expand_influence_in_the_meric_garrison_mission:0 "Influence Challenged in [200.GetName]"
+ GRE_expand_influence_in_the_aegean_islands_garrison_mission:0 "Influence Challenged in [790.GetName]"
+ GRE_expand_influence_in_the_ikaria_garrison_mission:0 "Influence Challenged in [975.GetName]"
+ GRE_expand_influence_in_the_samos_garrison_mission:0 "Influence Challenged in [974.GetName]"
+ GRE_expand_influence_in_the_dodecanese_garrison_mission:0 "Influence Challenged in [164.GetName]"
+ GRE_expand_influence_in_the_rodos_garrison_mission:0 "Influence Challenged in [899.GetName]"
+ GRE_expand_influence_in_the_crete_garrison_mission:0 "Influence Challenged in [182.GetName]"
+ GRE_expand_influence_in_the_cyprus_garrison_mission:0 "Influence Challenged in [183.GetName]"
+ GRE_expand_influence_in_the_eastern_thrace_garrison_mission:0 "Influence Challenged in [756.GetName]"
+ GRE_expand_influence_in_the_tekirdag_garrison_mission:0 "Influence Challenged in [341.GetName]"
+ GRE_expand_influence_in_the_galipoli_garrison_mission:0 "Influence Challenged in [860.GetName]"
+ GRE_expand_influence_in_the_catalca_garrison_mission:0 "Influence Challenged in [1018.GetName]"
+ GRE_expand_influence_in_the_konstantiniyye_garrison_mission:0 "Influence Challenged in [347.GetName]"
+ GRE_expand_influence_in_the_izmit_garrison_mission:0 "Influence Challenged in [1019.GetName]"
+ GRE_expand_influence_in_the_bandirma_garrison_mission:0 "Influence Challenged in [825.GetName]"
+ GRE_expand_influence_in_the_biga_garrison_mission:0 "Influence Challenged in [861.GetName]"
+ GRE_expand_influence_in_the_smyrna_garrison_mission:0 "Influence Challenged in [339.GetName]"
+ GRE_expand_influence_in_the_aydin_garrison_mission:0 "Influence Challenged in [824.GetName]"
+ GRE_expand_influence_in_the_mentese_garrison_mission:0 "Influence Challenged in [342.GetName]"
 
  london_conference:0 "Лондонська конференція [GetYear]"
 
@@ -8443,6 +8569,8 @@
  influenza_censor_news:0 "Новини цензури про епідемію"
  influenza_develop_vaccine:0 "Розробити вакцину"
  influenza_mass_vaccination:0 "Масова вакцинація"
+ influenza_request_vaccine_share:0 "Request Vaccine" # (!)
+ influenza_close_the_border:0 "Close the Border" # (!)
  borrow_300_from_jewish_bankers:0 "Позич §Y300§! у єврейських банкірів"
  expel_the_jewry:0 "Вигнати євреїв"
  form_redania_category:0 "Форма Redania"
@@ -8469,18 +8597,22 @@
 
  flag_tsar_nicholas_abdicated:0 "Цар Микола зрікся престолу"
  great_war_france_frankfurt_flag:0 "Франкфуртське перемир'я"
- AUH_franz_ferdinand_killed: "Франц Фердінанд мертвий"
+ AUH_franz_ferdinand_killed: "Франц Фердінанд був убитий"
+ AUH_franz_ferdinand_killed_in_sarajevo: "Франц Фердінанд був убитий у Сараєві"
+ AUH_franz_joseph_killed: "Франц Йозеф був убитий"
  july_crisis_ends:0 "Відповідь на ультиматум"
  kis_serbia_refuse:0 "Сербія відмовила"
  russia_mobilized:0 "Росія мобілізує"
  serbian_ultamatium:0 "Сербія отримала ультиматум"
  dual_alliance_dec:0 "Наші союзники воюють з Росією"
  austria_axis:0 "Допомога нашим друзям проти Росії"
- hoi4tgw_SchlieffenSecurity:0 "План Шліффена введено в дію"
+ GER_schlieffen_plan_enacted:0 "План Шліффена введено в дію"
  kis_player_decided_ger_surrend:0 "Німеччина просить миру"
  spanish_flu_vaccine:0 "Має вакцину проти грипу"
  spanish_flu_vaccine_tt:0 "Вакцину розроблено"
- archduke_in_sarajevo:0 "Ерцгерцог у Сараєво"
+ spanish_flu_vaccine_tt_NOT:0 "No Vaccine is available" # (!)
+ humanitarian_aid:0 "Has offered humanitarian aid" # (!)
+ humanitarian_aid_rejection:0 "Has rejected to offer humanitarian aid" # (!)
 
  ENG_imperial_federation_coring:0 "Запровадження Імперської федерації"
  ENG_imperial_federation_coring_desc:0 "Після утворення Імперської федерації ми повинні реорганізувати та відновити стару адміністрацію, щоб запобігти будь-якій тяганині та опору."
@@ -8507,6 +8639,8 @@
  ENG_interwar_invite_in_entente:0 "Запросити [FROM.GetName] до [ROOT.GetFactionName]"
  ENG_send_knox_to_russia:0 "Відправити генерала Нокса до Росії"
  ENG_send_knox_to_russia_desc:0 "Російська армія перебуває в жахливому стані, щоб зміцнити Антанту, ми повинні надіслати аташе. Здається, генерал Альфред Нокс справляється із завданням."
+ ENG_renounce_neutrality:0 "Renounce the Neutrality" # (!)
+ ENG_renounce_neutrality_desc:0 "The world situation forces us to intervene, despite our vow to remain neutral in the event of a conflict. This announcement risks upsetting the population, but also discrediting our position; however, we cannot stand idly by." # (!)
  ENG_engage_french_civil_war:0 "Вимагайте Анжуйську імперію"
  ENG_engage_french_civil_war_desc:0 "У післявоєнному договорі Франція повернула наші старі території, але імперія Анвегін фактично мала більше територій у Франції. Ні, ми повинні були виграти Столітню війну, і ми заслуговували на трон Франції. Зараз найкращий час, щоб претендувати на справжню Анжуйську імперію, коли у Франції триває громадянська війна."
  ENG_recognize_egyptian_independence:0 "Визнати "незалежність" Єгипту"
@@ -8516,7 +8650,7 @@
  ENG_shell_crisis_desc:0 "Через політичні та економічні помилки ми маємо явну нестачу снарядів, яка коштує життів на полі бою! Це потрібно негайно виправити!"
  ENG_british_civil_war_category:0 "Громадянська війна в Британії"
  ENG_british_civil_war_category_desc:0 "Революція народжується в окопах, коли безперервна бійня Великої війни знищила волю цілого покоління. Відчай в окопах перетворився на нестримну лють, лють проти державного апарату, який пожертвував би багатьма Британські чоловіки."
- ENG_foreign_support_BRE:0 "Підтримка [BRE.GetNameDef]"
+ ENG_foreign_support_GBR:0 "Підтримка [GBR.GetNameDef]"
  ENG_foreign_support_UOB:0 "Підтримка [UOB.GetNameDef]"
  ENG_agadir_involvement:0 "Відправити лінкор до Агадіру"
  ENG_agadir_involvement_desc:0 "На думку Британії, французький уряд цілком відповідальний за спровокування Агадірської кризи. По-перше, ми вирішили спостерігати за ними здалеку, але Франція заперечила, що неприйнятно, щоб британці дозволяли німецькому впливу в Марокко, далеко від Підтримуючи Францію після англо-французького договору 1904 року, ми повинні діяти помірковано, щоб уникнути кризи війни. відправка лінкора в Агадір помірно стримає обидві країни та уникне загрози повної війни."
@@ -8527,8 +8661,6 @@
  ENG_kill_irish_for_fun:0 "Заборонити Шинн Фейн"
  ENG_kill_irish_for_fun_desc:0 "Ірландська націоналістична партія Шинн Фейн надто довго була колючкою в оці для профспілки. Вони активно порушують закон і підривають демократію, оскільки її членам заборонено займати обрані ними місця в парламенті. Ми викорінимо феніанська загроза!"
  ENG_afghanistan_war_timer:0 "Експедиція в Афганістан"
- ENG_losing_naval_supremacy_timeout:0 "Криза флоту"
- ENG_losing_naval_supremacy_timeout_desc:0 "Ми більше не маємо переваги на морі. Це означає, що ми дуже вразливі до морської блокади чи вторгнення."
  ENG_homeland_under_attack_timeout:0 "Батьківщина під ударом"
  ENG_homeland_under_attack_timeout_desc:0 "За сто років Британські острови ніколи не були захоплені ворогом. Лише досі."
  ENG_call_japan_to_invasion:0 "Вимагайте від Японії дотримуватися англо-японського альянсу"
@@ -8536,8 +8668,13 @@
  ENG_FRA_intervene_in_civil_war:0 "Втручання в громадянську війну в Британії"
  ENG_sue_for_peace_IRE:0 "Вийти з Ірландії"
  ENG_cancel_chinde_concession:0 "Скасувати британську концесію Чінде"
+ ENG_propose_arms_limitations:0 "Propose Arms Limitations" # (!)
  ENG_sue_for_peace_AFG:0 "Відмовтеся від лінії Дюранда"
  ENG_annex_kurdistan:0 "Приєднати Курдистан"
+ ENG_public_confidence_loss_tt:0 "Failing to regain §YNaval Supremacy§! will cause the public to §Rlose faith§! in the Royal Navy." # (!)
+ ENG_strength_over_germany_tt:0 "Our navy must be at least §Y30% stronger§! than the German Navy" # (!)
+ ENG_wavering_naval_supremacy:0 "Wavering Naval Supremacy" # (!)
+ ENG_wavering_naval_supremacy_desc:0 "The Kaiserliche Marine's successes have dangerously eroded our traditional dominance at sea. German warships grow bolder, and the integrity of our blockade against [GER.GetNameDef] is in serious jeopardy. This cannot be permitted to continue.\n\nWe must regain naval supremacy before public confidence collapses entirely, lest our very shores become vulnerable. The fate of the Empire may well rest on the swift and resolute action of the Royal Navy." # (!)
 
  IRE_irish_independence_war_timer:0 "Англо-ірландська війна"
  IRE_irish_civil_war_timer:0 "Громадянська війна в Ірландії"
@@ -8840,14 +8977,14 @@
 
  GRE_work_legislation:0 "Розблоковує §Yзаконодавчі рішення§!."
  GRE_land_reforms:0 "Розблоковує §Yрішення про земельну реформу§!"
- GRE_efficiency_cap_3_tt:0 "Змінити §Y[GetGreekAgrarianSocietyName]§! на:\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+3%§!\n\n"
- GRE_efficiency_growth_3_tt:0 "Змінити §Y[GetGreekAgrarianSocietyName]§! за:\n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+3%§!\n\n"
+ GRE_efficiency_cap_3_tt: "Ідею §Y[GetGreekAgrarianSocietyName]§! буде змінено:\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+3.00%§!\n\n"
+ GRE_efficiency_growth_3_tt: "Ідею §Y[GetGreekAgrarianSocietyName]§! буде змінено:\n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+3.00%§!\n\n"
  GRE_education_reform:0 "Розблоковує §YОсвітні рішення§!."
  GRE_social_reforms:0 "Відкриває §YСоціальні реформи§!."
  GRE_bureaucracy_legislation:0 "Розблоковує §YБюрократичні рішення§!."
  GRE_education_legislation:0 "Відкриває §YРішення щодо реформи освіти§!."
- GRE_has_standardized_katharevousa:0 "Стандартизував кафаревусу"
- GRE_has_standardized_dimotiki:0 "Має стандартизовані дімотікі"
+ GRE_has_standardized_katharevousa: "Стандартизовано §Yкафаревусу§!"
+ GRE_has_standardized_dimotiki: "Стандартизовано §Yдімотікію§!"
 
  GRE_decisions_for_operation_rodi:0 "Розблоковує кілька §Y"Рішень"§! надаючи §Gпідготовчі бонуси перед виконанням операції§!."
 
@@ -8942,7 +9079,9 @@
  ALB_dutch_gendarmerie_tt:0 "Розгорніть дивізію в §YVlorë§! з 3 піхотними батальйонами. §RЦю дивізію буде розформовано, якщо станеться великий конфлікт.§!"
  ALB_discontent_muslims:0 "§RЦей вибір розлютить мусульманське населення!§!"
  ALB_getting_TUR_support:0 "Якщо §Y[TUR.GetNameWithFlag]§! погодиться допомогти нам, ми зможемо підготувати державний переворот, спрямований на приведення до влади проосманського уряду."
- ALB_join_allies:0 "Приєднатися"
+
+ EPR_restore_albania:0 "Restore Civil Administration In Albania" # (!)
+ EPR_restore_albania_desc:0 "Our desire for independence is so strong that we succeeded in taking control of not only Blorë in Albania, but also Cetinje and Tirana. However, it is practically impossible for us to maintain law and order with only the Greek militia from Northern Epirus, which consists of many Albanians. Therefore, we will establish a alligned government in this region and gradually ease tensions." # (!)
 
  FRA_guesdists_get_soreleans:0 "Залучити сорелянців"
  FRA_guesdists_support_blanquism:0 "Підтримати бланкізм"
@@ -9088,7 +9227,7 @@
 
  AZR_core_caucasia:0 "Інтеграція кавказьких турків"
 
- ROM_sue_for_peace_BUL:0 "Здатися [FROM.getName]"
+ ROM_sue_for_peace_BUL:0 "Здатися [BUL.getNamedef]"
 
  #Добровольча Армія
 
@@ -9232,8 +9371,8 @@
  SIB_mobilize_volunteers_in_a_state:0 "Мобілізація волонтерів у [FROM.GetName]"
  SIB_volunteers_of_constituent_assembly:0 "Зберіть волонтерів Установчих зборів у [FROM.GetName]"
 
- MTG_naval_treaties2:0 "Вашингтонські морські договори"
- MTG_naval_treaties2_desc:0 "Щоб обмежити витрати та уникнути чергової взаємно руйнівної гонки військово-морських озброєнь, великі морські держави світу підписали низку договорів, що обмежують загальний розмір їхніх флотів і розмір кожного окремого корабля. Як підписант ці договори, ми підлягаємо певним обмеженням, але поки наші опоненти також їх дотримуються, баланс сил має бути підтримується.\n\nНа даний момент ми §Y[GetStrengthRatioBritain] [GetRelevantNavalTreatyNation]§! за потужністю великого корабля.\n\n Тоннаж підводних човнів: §Y[?tons_of_submarines] Ктонн§!\n\n Тоннаж есмінців: §Y[? tons_of_destroyers] Ктонн§!\n\n Тоннаж легких крейсерів: §Y[?tons_of_light_cruisers] Ктонн§!\n\n Тоннаж важких крейсерів: §Y[?tons_of_heavy_cruisers] Ктонн§!\n\n Тоннаж бойових крейсерів: §Y[?tons_of_battlecruisers] Ктонн§!\n\n Тоннаж лінкора: §Y[?tons_of_battleships] Ктонн§!\n\n Тоннаж авіаносця: §Y[?tons_of_carriers] Ктонн§!\n\n\nЗагальний тоннаж: §Y[?navy_tons] Ктонн §!\n\nСтоличний тоннаж становить §Y[?capital_tons] Ктонн§! на §Y[?authorized_tons]§! затверджений Версальським договором"
+ MTG_naval_treaties2: "[MTG_washington_naval_treaty_adherent_sps]"
+ MTG_naval_treaties2_desc:0 "Щоб обмежити витрати та уникнути чергової взаємно руйнівної гонки військово-морських озброєнь, великі морські держави світу підписали низку договорів, що обмежують загальний розмір їхніх флотів і розмір кожного окремого корабля. Як підписант ці договори, ми підлягаємо певним обмеженням, але поки наші опоненти також їх дотримуються, баланс сил має бути підтримується.\n\nНа даний момент ми §Y[GetStrengthRatioBritain] [GetRelevantNavalTreatyNation]§! за потужністю великого корабля.\n\n Тоннаж підводних човнів: §Y[?tons_of_submarines] Ктонн§!\n\n Тоннаж есмінців: §Y[? tons_of_destroyers] Ктонн§!\n\n Тоннаж легких крейсерів: §Y[?tons_of_light_cruisers] Ктонн§!\n\n Тоннаж важких крейсерів: §Y[?tons_of_heavy_cruisers] Ктонн§!\n\n Тоннаж бойових крейсерів: §Y[?tons_of_battlecruisers] Ктонн§!\n\n Тоннаж лінкора: §Y[?tons_of_battleships] Ктонн§!\n\n Тоннаж авіаносця: §Y[?tons_of_carriers] Ктонн§!\n\n\nЗагальний тоннаж: §Y[?navy_tons] Ктонн §!\n\nСтоличний тоннаж становить §Y[?capital_tons] Ктонн§! з §Y[?authorized_tons]§!\n(Межу встановлює [MTG_washington_naval_treaty_adherent_sp])"
 
  MTG_TGWR_above_authorized_tons:0 "Тоннаж перевищує обмеження Вашингтонського договору"
 
@@ -9354,8 +9493,11 @@
  not_involved_yet:0 "Ще не задіяний"
 
  casablanca_crisis_name_wargoal: "Касабланкська криза"
+ liman_crisis_name_wargoal:0 "Liman Crisis" # (!)
 
  default_crisis_name:0 "Криза"
+ has_crisis_tt: "§RПолітична криза§! триває"
+ has_crisis_tt_NOT: "НЕ: §RПолітична криза§! триває"
 
  aggressor_advantage_text:0 "§RСторона агресорів§! має [?global.aggressor_advantage_tt|.1%%Y$] силу проти §CDefender Side§!"
 
@@ -9367,7 +9509,13 @@
  serbia_is_winning:0 "Статус переговорів: на користь [SER.getName]"
  austria_is_winning:0 "Статус переговорів: на користь [AUS.getName]"
  countryNameDef:0 "§Y[THIS.getFlag][THIS.getNameDef]§!"
- kriza_balanced:0 "Збалансований результат"
+ crisis_balanced:0 "Збалансований результат"
+
+ casablanca_crisis_alert_tt: "Починається §RКасабланкська криза§!, в якій §Y[FRA.getFlag][FRA.getAdjective]ий§! і §Y[MOR.getFlag][MOR.getAdjective]ий§! уряди протистоять у питанні окупації Касабланки." # (&)
+ liman_crisis_alert_tt:0 "§RThe Liman von Sanders Affair§! begins, opposing §Y[RUS.getFlag][RUS.getAdjective]§! and §Y[GER.getFlag][GER.getAdjective]§! interests in bosphorus." # (!)
+ liman_crisis_alert_france_tt:0 "§RThe Liman von Sanders Affair§! begins, opposing §Y[FRA.getFlag][FRA.getAdjective]§! and §Y[GER.getFlag][GER.getAdjective]§! interests in bosphorus." # (!)
+ casablanca_crisis_mission: "Касабланкська криза"
+ casablanca_crisis_mission_desc: "Франція та Німеччина не можуть домовитися про статус Марокко. Загрожує спалахнути війна, і кожен із них шукає союзників у Європі."
 
  july_crisis_name_wargoal:0 "Липнева криза"
  july_crisis_austrian_claim:0 "§Y[AUS.GetNameWithFlag]§! вимагає від Сербії компенсації за вбивство ерцгерцога"
@@ -9377,9 +9525,41 @@
  casablanca_crisis_french_claim: "§Y[FRA.GetNameWithFlag]§! відмовляється закінчувати окупацію Марокко"
  casablanca_crisis_moroccan_claim: "§Y[MOR.GetNameWithFlag]§! хоче вигнати французьку армію з Марокко"
 
- casablanca_crisis_alert_tt: "Починається §RКасабланкська криза§!, в якій §Y[FRA.getFlag][FRA.getAdjective]ий§! і §Y[MOR.getFlag][MOR.getAdjective]ий§! уряди протистоять у питанні окупації Касабланки." # (&)
- casablanca_crisis_mission: "Касабланкська криза"
- casablanca_crisis_mission_desc: "Франція та Німеччина не можуть домовитися про статус Марокко. Загрожує спалахнути війна, і кожен із них шукає союзників у Європі."
+ liman_crisis_russian_claim:0 "§Y[RUS.GetNameWithFlag]§! wants to dismiss §Y[GER.getFlag][GER.getAdjective] Advisors§! in §Y[TUR.getFlag][TUR.getNameDef]§!"
+ liman_crisis_french_claim:0 "§Y[FRA.GetNameWithFlag]§! wants to dismiss §Y[GER.getFlag][GER.getAdjective] Advisors§! in §Y[TUR.getFlag][TUR.getNameDef]§!"
+ liman_crisis_german_claim:0 "§Y[GER.GetNameWithFlag]§! wants to reduce §Y[RUS.getFlag][RUS.getAdjective]§! influence in §YAnatolia§!."
+
+ GER_important_law_that_will_comeback:0 "\nIf this law is not passed, it will be proposed again in 60 days until it is approved by the §YReichstag§!."
+ GER_vote_strengh_tt:0 "§Y[?merged_vote_strengh|0]/[?GER_total_reichstag_seats] ([?merged_vote_percent|%%0]) Deputies§! will vote in favour of this law."
+ GER_sway_left_will_vote_20_percent:0 "§Y[?left_ratio_sway_ratio|0%]§! of §tLeft deputies§! will vote for it. (§Y[?left_vote|0] seats§!)"
+ GER_sway_center_will_vote_20_percent:0 "§Y[?center_ratio_sway_ratio|0%]§! of §gCenter deputies§! will vote for it. (§Y[?center_vote|0] seats§!)"
+ GER_sway_right_will_vote_20_percent:0 "§Y[?right_ratio_sway_ratio|0%]§! of §2Right deputies§! will vote for it. (§Y[?right_vote|0] seats§!)"
+ GER_sway_neutral_will_vote_20_percent:0 "§Y[?neutral_ratio_sway_ratio|0%]§! of §LNeutral deputies§! will vote for it. (§Y[?neutral_vote|0] seats§!)"
+ GER_sway_left_will_vote:0 "You will sway §Y20%§! of §tLeft deputies§! to support the current law"
+ GER_sway_center_will_vote:0 "You will sway §Y20%§! of §gCenter deputies§! to support the current law"
+ GER_sway_right_will_vote:0 "You will sway §Y20%§! of §2Right deputies§! to support the current law"
+ GER_sway_neutral_will_vote:0 "You will sway §Y20%§! of §LNeutral deputies§! to support the current law"
+ GER_law_pass:0 "§GThe law will pass§!"
+ GER_law_dont_pass:0 "§RThe law will not pass without swaying more deputies in the Reichstag§!"
+ GER_effect_if_it_pass:0 "\n\n§YEffects if the law passes:§!"
+ GER_vote_left_law:0 "This is considered a Leftist Law. §Y100%§! of §tLeft Deputies§!, §Y25%§! of §gCenter Deputies§! and §Y25%§! of §LNeutral Deputies§! will vote for it.\n\n"
+ GER_vote_center_law:0 "This is considered a Centrist Law. §Y100%§! of §gCenter Deputies§!, §Y15%§! of §tLeft Deputies§!,§Y15%§! of §2Right Deputies§! and §Y15%§! of §LNeutral Deputies§! will vote for it.\n\n"
+ GER_vote_coalition_law:0 "§GSince the Reichstag is United§!, §Y100%§! of §YDeputies§!  will vote for this law.\n\n"
+ GER_vote_right_law:0 "This is considered a Rightist Law. §Y100%§! of §2Right Deputies§!, §Y25%§! of §gCenter Deputies§! and §Y25%§! of §LNeutral Deputies§! will vote it.\n\n"
+ GER_vote_wartime_law:0 "This is considered a Wartime Law. §Y90%§! of §2Right Deputies§!, §Y70%§! of §gCenter/Neutral Deputies§! and §Y30%§! of §tLeft Deputies§! will vote it.\n\n"
+ GER_temp_sway_left:0 "Sway Leftist Deputies"
+ GER_temp_sway_center:0 "Sway Centrist Deputies"
+ GER_temp_sway_center_even_more:0 "Sway even more Centrist Deputies"
+ GER_temp_sway_right:0 "Sway Rightist Deputies"
+ GER_temp_sway_neutral:0 "Sway Neutral Deputies"
+ left_vote_in_progress:0 "§tLeftist§! Law is being voted"
+ center_vote_in_progress:0 "§gCentrist§! Law is being voted"
+ right_vote_in_progress:0 "§2Rightist§! Law is being voted"
+ wartime_vote_in_progress:0 "§8Wartime§! Law is being voted"
+ GER_right_sway_20_percent:0 "§2Rightist§! already swayed"
+ GER_center_sway_20_percent:0 "§gCentrist§! already swayed"
+ GER_left_sway_20_percent:0 "§tLeftist§! already swayed"
+ GER_neutral_sway_20_percent:0 "§LNeutral§! already swayed"
 
  FRA_vote_will_fail:0 "§RГолосування, ймовірно, буде невдалим.§!"
  FRA_vote_will_pass:0 "§GГолосування пройде!§!"
@@ -9475,6 +9655,7 @@
  FRA_salary_limitation_act:0 "Закон про обмеження зарплати"
  FRA_salary_limitation_act_desc:0 "Закон, запропонований §YМорісом Торезом§! визначає формулу розрахунку, яка обмежує максимальну зарплату в компанії на основі її прибутку, кількості працівників і найнижчої зарплати. Щоб продовжити це в найпростішій формі, він обмежує максимальну зарплата в 25 разів перевищує найнижчу зарплату в компанії."
 
+ DEN_ICE_act_of_union:0 "@DEN @ICE Danish-Icelandic Act of Union" # (!)
  FRA_calimites_exceptional_fundings:0 "Допомога жертвам клімату"
  FRA_calimites_exceptional_fundings_desc:0 "Законопроєкт, запропонований прем’єр-міністром §YАрістідом Бріаном§! на суму 500 000 франків, спрямований на допомогу фермерам, які постраждали від кліматичних змін. Друге виділення 1 000 000 франків також планується прийти на допомогу жертв січневої повені 1910 р.."
 
@@ -9554,15 +9735,31 @@
 
  ROM_spawn_1918_army:0 "§GМобілізувати в Молдові армію чисельністю 200 000 солдатів.§!"
 
+ #Liman Affair
+ liman_affair_category:0 "The Liman von Sanders Affair"
+ liman_affair_category_desc:0 "Germany has sent a military mission to the Ottoman state at their request, and Otto Liman von Sanders is take control of a portion of their army. To some other major European powers this is one step to far, they have officaly objected to the mission and are gathering support among other powers. It would be wise for both sides to monitor who is supporting who before deciding their policy on the matter - we can only pray this doesn't cause a live conflict.."
+ liman_affair_russian_position_0:0 "Neutral"
+ liman_affair_russian_position_1:0 "Objector"
+ liman_affair_russian_position_2:0 "Leading Objector"
+ liman_affair_russian_position_3:0 "Supporter"
+ liman_affair_french_position_0:0 "Neutral"
+ liman_affair_french_position_1:0 "Objector"
+ liman_affair_french_position_2:0 "Leading Objector"
+ liman_affair_english_position_0:0 "Neutral"
+ liman_affair_english_position_1:0 "Objector"
+ liman_affair_german_position_4:0 "Leading Supporter"
+ liman_affair_ottoman_position_3:0 "Supporter"
+
  if_it_increases: "\n§RЯкщо воно зросте:§!\n\n"
 
  war_in_desert: "Війна в пустелі"
  war_in_desert_desc:0 "Ситуація на лівійській землі не стабілізувалася й по всій країні спалахують спорадичні сутички між місцевими угрупуваннями та колоніальними військами."
- libya: "Лівія"
+ ITA_LBA_war_in_desert:0 "Senussi campaign is in progress"
  attack_foreign_state: "Напасти на область [FROM.getName]"
  ITA_LBA_border_war_start_tt: "Напасти на §Y[FROM.OWNER.getFlag][FROM.OWNER.getAdjective]і§! позиції в області §Y[FROM.getName]§!.\n\n§4Якщо напад вдасться, ми анексуємо область.§!"
  tt_you_have_90_days: "§LЯкщо жодна сторона не здобуде перевагу протягом 90 днів, ситуація закінчиться §gпатом§!.§!"
  attack_mission_in_progress: "Битва триває"
  LBA_take_state_452: "Завоювання області [452.getName]"
  LBA_wait_before_attack_again: "Нещодавно здійснено напад (зачекайте §Y[?LBA_wait_before_attack_again:days_left|Y0]§! дн.)"
+ ITA_LBA_war_in_desert_attack_in_progress: "Розпочинається напад"
  ENG_general_Peyton_expeditonary_force_in_senussi: "Експедиційні сили генерала Пейтона в Сануссійї"
