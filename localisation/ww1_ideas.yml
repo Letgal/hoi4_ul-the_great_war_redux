@@ -154,8 +154,11 @@
  echevarrieta_y_larrinaga: "Echevarrieta y Larrinaga"
  latakia_dockyard:0 "Верф Латакії"
  kaiserliche_werft_wilhelmshaven: "Kaiserliche Werft Wilhelmshaven"
+ reichsmarinewerft_wilhelmshaven: "Reichsmarinewerft Wilhelmshaven"
  vulcan_werke_ag: "AG Vulcan Stettin"
- krupp_germaniawerft: "Krupp Germaniawerft"
+ krupp_germaniawerft: "Fried. Krupp Germaniawerft"
+ ag_weser: "AG Weser"
+ varied_shipbuilding:0 "Submarine & Cruiser Designer" # (!)
  kommunara_nikolaev_shipyards:0 "Миколаївський суднобудівний завод Комунара, 61"
  chernomorsky_shipbuilding_yard:0 "Чорноморський суднобудівний завод"
  montevideo_dockyard:0 "Верф Монтевідео"
@@ -229,7 +232,6 @@
  ikarus_YUG: "Ikarus"
  challona_tank_assembly_shops:0 "Цехи зі складання танків Challona"
  steyr_daimler_puch_AUS: "Austro-Daimler"
- fosters_of_lincoln: "Fosters of Lincoln"
  rolls_royce: "Rolls-Royce"
  fiat_RSI: "FIAT"
  daimler_motoren_gesellschaft: "Daimler-Motoren-Gesellschaft"
@@ -238,7 +240,6 @@
  ejercito_argentino: "Ejército Argentino"
  ford_motors: "Ford Motors"
  australian_army_factories:0 "Заводи австралійської армії"
- vickers_armstrong_ltd: "Vickers Ltd"
  steyr: "Steyr"
  skoda_AUS: "Škoda Werke"
  fonderie_royale_de_canons: "Fonderie Royale de Canons"
@@ -249,7 +250,6 @@
  vereinigte_rottweiler_pulverfabriken: "Vereinigte Rottweiler Pulverfabriken"
  canadian_enfield_arsenal:0 "Канадський Енфілд Арсенал"
  leyland_motors_CAN: "Leyland Motors"
- vickers_armstrong: "Vickers-Armstrong"
  canadian_car_and_foundry: "Canadian Car & Foundry"
  GXC_guangdong_arsenal:0 "Гуандунський арсенал"
  GDC_guangdong_arsenal:0 "Гуандунський арсенал"
@@ -268,7 +268,7 @@
  mauser_DFR: "Mauser Werke"
  rheinmetall_DFR: "Rheinmetall"
  deutsche_waffen: "Deutsche Waffen- und Munitionsfabriken"
- theodor_bergmann: "Теодор Берґман"
+ theodor_bergmann: "Waffenfabrik Bergmann"
  volkswagen: "Volkswagen"
  santo_domingo_military_arsenal:0 "Військовий арсенал Санто-Домінго"
  ejercito_de_ecuador: "Ejercito de Ecuador"
@@ -410,8 +410,6 @@
  fl_smidt: "F.L. Smidt"
  sadolin_and_holmblad_as: "Sadolin & Holmblad A/S"
  danske_statsbaner: "Danske Statsbaner"
- krupp_DFR: "Krupp"
- siemens_DFR: "Siemens"
  corde: "CORDE"
  ideal: "IDEAL"
  anglo_ecuadorian_oilfields:0 "Англо-Еквадорські нафтові родовища"
@@ -645,6 +643,24 @@
 
  FRA_scientists_exodus:0 "Вихід вчених"
  FRA_scientists_exodus_desc:0 "Після соціалістичного перевороту аристократична та релігійна еліта покинула країну. Цей вік мізків глибоко переслідував новий режим"
+
+ FRA_socialist_education:0 "Socialist Education" # (!)
+ FRA_socialist_education_desc:0 "To counter the brain drain caused by the revolution, the government made special efforts to reform education. Despite these attempts, France no longer produces as many inventors as it once did."
+
+ FRA_popular_investment_act:0 "Popular Investment Act"
+ FRA_popular_investment_act_desc:0 "The Economic Planning Committee has launched a program to support heavy industries, aimed at simplifying production methods. These temporary permits allow factories to adapt more easily to national needs."
+
+ FRA_charte_federale_du_travail:0 "Charte Fédérale du Travail"
+ FRA_charte_federale_du_travail_desc:0 "The Federal Labor Charter requires state enterprises and regional administrations to exercise popular leadership through a free and autonomous trade union."
+
+ FRA_central_comite_dictatorship:0 "Central Comite Dictatorship"
+ FRA_central_comite_dictatorship_desc:0 "The Paris-based revolutionary committee eliminated all political plurality and dissolved regional and local councils to ensure total control over the administration."
+
+ FRA_first_five_year_plan:0 "First Five Year Plan"
+ FRA_first_five_year_plan_desc:0 "The French government has ordered a massive industrialization plan that mobilizes a large part of the national economy."
+
+ FRA_union_in_socialism:0 "Union in Socialism"
+ FRA_union_in_socialism_desc:0 "The syndicalist government greatly encouraged political plurality within the national representation. Anarchist, syndicalist, communist, and moderate movements were all authorized and held strong positions within certain local councils. This openness prevented popular protest and kept the people united behind the cause."
 
  FRA_defiant_army:0 "Зухвала армія"
  FRA_defiant_army_desc:0 "Хоча старших генералів-націоналістів залишити армію, серед лав залишається сильна опозиція. Старшини та солдати не розуміють, що Французька Республіка стала соціалістичною державою, а не повною мірою співпрацюють з урядом"
@@ -1104,6 +1120,7 @@
  TUR_german_investments_on_anatolia_on_add:0 "Почнеться місія §YНімецькі інвестиції в Анатолії§!"
  TUR_italian_investments_on_libya_on_add:0 "Почнеться місія §YІталійських інвестицій на Траблусгар§!"
  TUR_paying_war_reparations:0 "Виплата військових репарацій"
+ TUR_recieving_war_reparations:0 "Receiving War Reparations" # (!)
 
  #RUSSIA
  RUS_idea_urgent_strengthening_of_airfleet:0 "Терміново посилення авіаційного флоту"
@@ -1349,6 +1366,13 @@
  BEL_frontbeweging_support: "Frontbeweging"
  BEL_nationalist_sentiment_democrat:0 "Бельгійська єдність"
  BEL_nationalist_sentiment_democrat_desc:0 "Перед обличчям Великої війни дрібні націоналістичні та етнічні розбіжності складаються в ім'я більшої єдності Бельгії"
+ BEL_treaty_of_london:0 "Treaty of London" # (!)
+ BEL_treaty_of_london_desc:0 "Under the treaty, the European powers recognised and guaranteed the independence and neutrality of Belgium and established the full independence of the German-speaking part of Luxembourg. Article VII required Belgium to remain perpetually neutral."
+
+ NFA_structured_doctrines:0 "Structured Doctrines" # (!)
+ NFA_structured_doctrines_desc:0 "The French general staff ordered a vertical and rigid direction of the army."
+ NFA_general_staff_dictatorship:0 "General Staff Dictatorship" # (!)
+ NFA_general_staff_dictatorship_desc:0 "The French general staff ordered a vertical and rigid direction of the army, while also dictating the politics and the economy."
 
 FRA_idea_union_sacree: "Union Sacrée"
 FRA_idea_union_sacree_desc:0 "Священний союз — це альянс усіх французьких партій у парламенті. Це означає, що всі закони, запропоновані парламентом, знову затверджуються всіма парламентарями"
@@ -1379,6 +1403,23 @@ FRA_desert_equipment_desc:0 "Відповідний одяг і багаж за�
 
  FRA_isaac_natality_law:0 "Закон про народження Ісаака"
  FRA_isaac_natality_law_desc:0 "Цей закон створює спеціальний компенсаційний фонд для багатодітних сімей. Допомога надається на шкірну дитину віком до 13 років, при цьому пропонується спрощений доступ до певних адміністративних послуг із змінним статусом батьків."
+ FRA_idea_seized_aristocrat_assets:0 "Seized Aristocrats Assets" # (!)
+ FRA_uncontrolled_popular_courts:0 "Uncontrolled Popular Courts" # (!)
+ FRA_uncontrolled_popular_courts_desc:0 "Numerous wild tribunals have sprung up across the country, arbitrarily trying citizens accused of being linked to capitalist forces. These citizen initiatives are causing unacceptable excesses that the state must moderate."
+ FRA_state_controlled_popular_courts:0 "State-Controlled Popular Courts" # (!)
+ FRA_state_controlled_popular_courts_desc:0 "The socialist government controls various organizations throughout the country, which have established popular courts to try anti-proletarian supporters."
+ FRA_vindicative_left_wing:0 "Vindicative Left Wing" # (!)
+ FRA_vindicative_left_wing_desc:0 "Within the SFIO reside several anarchist and revolutionary parties whose extreme ideals prevent any construction of a solid and lasting state. In addition to their anti-statist ideals, they advocate the elimination of capitalists at all costs, calling for war throughout Europe."
+
+ FRC_bandit_warfare:0 "Bandit Warfare" # (!)
+ FRC_bandit_warfare_desc:0 "The French People's Army is composed of civilians, military personnel, and various militias, each with their own unique warfare tactics. While this chaotic strategy makes coordination difficult, it also greatly confuses the enemy."
+ FRC_centralized_command:0 "Centalized Command" # (!)
+ FRC_centralized_command_desc:0 "Unlike revolutionaries throughout Europe, the French communist command maintained a conventional battle plan, minimizing the influence of militias and paramilitary groups advocating guerrilla warfare."
+ FRC_communard_propaganda_press:0 "Communard Propaganda Press" # (!)
+ FRC_communard_propaganda_press_desc:0 "The provisional government nationalized all major national and regional presses, all of which serve socialist interests."
+ FRC_popular_recruitement_comittees:0 "Popular Recruitment Committees" # (!)
+ FRC_revolutionnary_naval_officiers:0 "Revolutionnary Naval Officiers" # (!)
+ FRC_revolutionnary_naval_officiers_desc:0 "A large proportion of the Admiralty's middle-ranking officers sided with the nationalist banner, forcing the government to promote students and volunteers to command en masse. Due to a lack of experience and training, our navy has lost much of its effectiveness."
 
 FRA_idea_gold_campaign:0 "Золота кампанія"
 FRA_idea_gold_campaign_desc:0 "Французи домовилися продати частину своїх золотих об'єктів в обмін на обіцянку відшкодування, щоб стимулювати економіку за допомогою стабільного фінансового джерела."
@@ -1485,8 +1526,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  FRA_jaures_in_danger_desc:0 "§YЖан Жорес§! може стати жертвою §Rтерористичного нападу§!\n\nЧастина населення Франції виступає проти соціальних заходів, встановлених після приходу до влади SFIO. Як представник партії та нації Жан Жорес стає привілейованою мішенню для ультраправих фанатиків"
  FRA_german_reparations:0 "Німецькі репарації"
 
- MTG_washington_naval_treaty_adherent:0 "Підписант Вашингтонського морського договору"
- MTG_washington_naval_treaty_adherent_desc:0 "Ми підписали Вашингтонський морський договір і, відповідно, маємо обмеження щодо розміру наших головних кораблів."
+ MTG_washington_naval_treaty_adherent:0 "Підписано [MTG_washington_naval_treaty_adherent_sp]"
+ MTG_washington_naval_treaty_adherent_desc:0 "Ми підписали [MTG_washington_naval_treaty_adherent_sp] і, відповідно, маємо обмеження щодо розміру наших головних кораблів."
 
  Franch_Staff:0 "Французький штаб"
  Franch_Staff_desc:0 "Під час війни начальник штабу армії очолював генеральний штаб (GQG: Grand Quartier Général). Під час Великої війни керівників французьких армій по-різному називали верховним генералом (генералісимусом) або командувачем В останні роки створення Верховної військової ради в 1917 році. призвело до того, що загальне командування очолив французький генерал Фердинанд Фош, і до середини 1918 року головнокомандувач французької армії Петен був підпорядкований Фошу.
@@ -1553,6 +1594,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  FRA_ruhr_occupation2:0 "Окупація Руру"
  FRA_ruhr_occupation2_desc:0 "Окупація Руру стикається з громадянською непокорою місцевого населення, що ускладнює роботу адміністрації та жандармерії."
  FRA_idea_modernization_of_the_battlefleet:0 "Modernization of the Battlefleet"
+ FRA_idea_sour_loser:0 "Sour Loser" # (!)
+ FRA_idea_sour_loser_desc:0 "The French people did not accept the difficult peace conditions imposed by the Germans, which deprived them of a large part of their national territory."
  FRA_disorganised_partisans:0 "Дезорганізовані партизани"
  FRA_idea_offensive_cult:0 "Наступальний культ"
  FRA_idea_offensive_cult_desc:0 "Ми, французи, чекали реваншу за франко-прусську війну. Тільки негайне просування на території Німеччини принесе абсолютну перемогу [ROOT.GetNameDef]. Vive la France!"
@@ -1621,11 +1664,6 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GER_idea_army_restrictions.tt: "§rНе можна виробляти зброю.§!"
  GER_hungarian_crisis:0 "Угорська криза"
  GER_hungarian_crisis_desc:0 "З несподіваними оголошеннями через статус війни [HUN.GetNameDef] армія [GER.GetAdjective] виявилася жахливо неготовою розпочати повномасштабне вторгнення в [FRA.GetNameDef]."
- GER_zeppelin_bombing:0 "Бомбардування цепеліна"
- GER_idea_german_exploitation:0 "Німецька експлуатація"
- GER_idea_economic_pressure:0 "Німецький економічний тиск"
- GER_idea_tokyo_pact:0 "Токійсько-Берлінський пакт"
- GER_idea_tokyo_pact_desc:0 "§!Страни, які підписали Токійсько-Берлінський пакт, повинні приєднатися§! §YНімеччині§!§! або§! §YЯпонії§! §!у разі колоніальної війни.§!"
  GER_idea_nazism:0 "Націоналістична агітація"
  GER_idea_nazism2:0 "Нацистська агітація"
  GER_idea_nazi_purge:0 "Ніч довгих ножів"
@@ -1633,20 +1671,10 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GER_idea_reparations:0 "Репарації"
  GER_idea_reparations_dawes:0 "Репарації за планом Дауеса"
  GER_idea_reparations_young:0 "Відшкодування за планом Янга"
- GER_idea_german_factories:0 "Німецькі інвестиції"
- GER_idea_german_techs:0 "Німецькі технології"
- GER_idea_sells_techs:0 "Продає німецькі технології"
- GER_idea_strait_blockade:0 "Блокада протоки"
- GER_idea_american_campaign:0 "Американська кампанія"
- GER_idea_metropolis_support:0 "Підтримка метрополії"
- GER_idea_colonial_legion: "Koloniallegion"
- GER_idea_colonial_legion_desc:0 "Our colonial forces have been reorganized into a more professional military formation, combining §gGerman leadership§! with colonial manpower." # (!)
  GER_idea_schutztruppe: "Schutztruppe"
  GER_idea_schutztruppe_desc:0 "The §gSchutztruppe§! serves as our colonial protection force, maintaining order in our overseas territories through a combination of German officers and locally recruited soldiers." # (!)
  GER_idea_colonial_exploitation:0 "Колоніальна експлуатація"
- GER_idea_abwehr_support:0 "Німецьке золото"
- GER_idea_abwehr_support_desc:0 "Революція спонсорується німецькою владою. Лідерів більшовиків багато агентів абверу і їм вдається приховувати цей факт від революціонерів."
- GER_idea_abwehr_supports_revolution:0 "Фінансує російських революціонерів"
+ GER_idea_colonial_exploitation_desc:0 "The Colonial Administration is cruelly efficient in extracting as much from here as they possibly can. Though small reforms have been made here or there, at the end of the day all we are to the Mainlanders is a vast money trough for them to stick their dirty, greedy paws into." # (!)
  GER_idea_freikorps:0 "Націоналістичний фрейкорпс"
  GER_idea_freikorps_desc:0 "Оскільки німецької армії були скорочені, німецькі солдати володіють добровольчими загонами, щоб зберегти цільність нації."
  GER_idea_kiel_mutiny:0 "Кільський заколот"
@@ -1655,7 +1683,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GER_idea_stuggle_for_power_desc:0 "Німецька республіка не є стабільною, політичні соціалісти, комуністи і навіть консерватори зараз сили ведуть криву боротьбу за встановлення власної влади"
  GER_idea_OHL: "Oberste Heeresleitung"
  GER_idea_OHL_desc:0 "The §gOberste Heeresleitung§! (Supreme Army Command) coordinates Germany's military operations with increased efficiency. Their expertise in military doctrine and planning has proven invaluable, though their influence remains properly checked by civilian authorities." # (!)
- GER_idea_OHL1: "Розширення Oberste Heeresleitung"
+ GER_idea_OHL1: "Oberste Heeresleitung"
  GER_idea_OHL1_desc:0 "The §gOberste Heeresleitung§! (Supreme Army Command) has expanded its authority, gaining additional command powers and improving military planning capabilities. However, this comes at the cost of some political friction with the civilian government, slightly reducing our political efficiency." # (!)
  GER_idea_OHL2: "Напориста Oberste Heeresleitung"
  GER_idea_OHL2_desc:0 "The §gOberste Heeresleitung§! (Supreme Army Command) now wields considerable influence over state affairs. While our military planning and command capabilities have significantly improved, the growing tension between military and civilian leadership is causing notable political disruption." # (!)
@@ -1665,61 +1693,33 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GER_idea_OHL_dictatorship_desc:0 "The §gOberste Heeresleitung§! (Supreme Army Command) has established complete military control over the state. Under §YLudendorff's§! leadership, the army now directs all aspects of governance, pushing Germany toward a more §Nauthoritarian§! system. While this grants the highest possible military benefits, it comes at the cost of severe political disruption and increasing §Nfascist§! influence." # (!)
  GER_idea_norddeutscher_bund_legacy: "Спадщина Північнонімецького союзу"
  GER_idea_norddeutscher_bund_legacy_desc:0 "The foundation of our German Empire rests upon the achievements of the §YNorth German Confederation§! (§YNorddeutscher Bund§!). Under §gBismarck's§! guidance, this confederation laid the groundwork for German unification, establishing the political and military framework that would transform §gPrussia's§! leadership into a united German nation. This legacy of strength through unity continues to shape our national character - §gGermany§!, united and indivisible, stands as the preeminent power in Europe." # (!)
- GER_idea_gross_kaiserreich: "Великий Кайзеррайх"
- GER_idea_republican_spirit:0 "Республіканський дух"
- GER_idea_republican_spirit_desc:0 "Німеччина готова жертвувати імперіалістичними амбіціями заради створення ідеального демократичного суспільства"
- GER_idea_prussian_militarism:0 "Прусський мілітаризм"
- GER_idea_prussian_militarism_desc:0 "Німецька армія пройде парадом від Берліна до ворожої столиці. Як зробили наші батьки та діди"
- GER_idea_isolation_of_adriatic_sea:0 "Ізолювання Адріатичного моря"
- GER_idea_isolation_of_adriatic_sea_desc:0 "Німеччина та Італія чинять економічний тиск, блокуючи торгові шляхи в Адріатиці. Хоче, до чого вони готуються."
  GER_idea_german_military_advisors: "Німецькі радники"
  GER_idea_german_military_advisors_desc:0 "Німецький штаб узяв на себе частину командних функцій у нашій армії."
  GER_idea_hindenburg_programme:0 "Програма Гінденбурга"
  GER_idea_hindenburg_programme_desc:0 "Under the direction of §gField Marshal von Hindenburg§! and §gGeneral Ludendorff§!, we have initiated a massive reorganization of our war economy. This ambitious program aims to double our munitions production through the complete mobilization of all available resources and labor. While this §YKriegssozialismus§! has dramatically increased our military output, the harsh working conditions and strict regulations have created significant social tensions on the home front." # (́!)
- GER_idea_militarize_youth:0 "Мілітаризація молоді"
- GER_idea_wilhelm_ii: "Кайзер Вільгельм II"
- GER_idea_wilhelm_ii_desc:0 "Ми, Вільгельм, з ласки Божої, король Пруссії, маркграф Бранденбурга, суверенний і верховний герцог Сілезії, великий герцог Нижнього Рейну і Позена, герцог Саксонії, Вестфалії і Померанії, Люнебурга і Бремена, Гольштайн, Шлезвіг і Лауенбург, бургграф Нюрнберзький, ландграф Гессенський, князь Східної Фризії, Оснабрюка та Гільдесгайма, Нассау та Фульді, граф Гогенцоллернів, лорд Франкфурта"
- GER_idea_army_reform: "Реформа армії"
- GER_idea_army_reform2: "Bundesheer"
- GER_idea_army_reform3:0 "Елітний бундескорпус"
- GER_idea_reformed_staff:0 "Реформований генеральний штаб"
- GER_idea_abwehr: "Kaiserliche Abwehr"
- GER_idea_central_powers_joint_staff:0 "Об'єднаний штаб Центральних держав"
- GER_idea_central_powers_joint_staff2:0 "Об'єднаний штаб Центральних держав"
- GER_idea_aviation_cult:0 "Культації авіації"
- GER_idea_colonial_elite:0 "Німецька колоніальна еліта"
  tokyo_pact:0 "§YНімецько-японський пакт§!"
- GER_legation_profits:0 "Прибуток легації"
- GER_legation_profits_desc:0 "Ми створили Міжнародний урядовий концерн, і ми пожинаємо плоди."
- SHL_kiel_canal_profits:0 "Прибутки каналу Кайзера Вільгельма"
- SHL_kiel_canal_profits_desc:0 "Канал Кайзера Вільгельма є життєво важливою територією для балтійської торгівлі, і ми отримуємо значні переваги."
+ #SHL_kiel_canal_profits:0 "Прибутки каналу Кайзера Вільгельма"
+ #SHL_kiel_canal_profits_desc:0 "Канал Кайзера Вільгельма є життєво важливою територією для балтійської торгівлі, і ми отримуємо значні переваги."
  GER_german_staff_planning_auh:0 "Планування німецького персоналу"
  GER_german_staff_planning_auh_desc:0 "Німецька штаб-квартира зосереджена на нашому фронті."
  GER_german_staff_planning:0 "Спільне планування"
  GER_german_staff_planning_desc:0 "Наша штаб-квартира створила кілька високопоставлених генералів у розташуванні союзної армії."
- GER_state_in_blockade:0 "Держава в блокаді"
- GER_state_in_blockade_desc:0 "Країна перебуває в блокаді ворога. Вони очікують, що повна економічна ізоляція провокує голод і підтримує наш моральний дух"
  GER_quenched_militarism:0 "Погашений мілітаризм"
  GER_quenched_militarism_desc:0 "Перемога завжди коштує, і Велткріг був несхожий на жодну війну, яку коли-небудь бачив світ. Хоч ми могли перемогти, це не повернуло наших хлопців додому. Наші сім'ї все ще той біль чітко пам'ятають і не прагне відчути це знову"
- GER_reformed_economy: "Реформована економіка"
- GER_representative_reform_idea:0 "Репрезентативна реформа"
  GER_idea_hitler_arrested: "Пивний путч провалився"
  GER_idea_hitler_arrested_desc:0 "Адольфа Гітлера заарештували за провал путчу в Мюнхенській півні. Але прихильники все ще є, і вважають його справжнім патріотом навіть у суді"
  GER_ss_idea: "Schutzstaffel"
  GER_ss_idea_desc:0 "Schutzstaffel(SS) — головна воєнізована організація Адольфа Гітлера та нацистської партії в нацистській Німеччині."
- GER_idea_colonial_exploitation_interwar: "Колоніальна експлуатація"
- GER_idea_colonial_exploitation_interwar_desc:0 "Колоніальна адміністрація ефективно витягує звідси стільки, скільки тільки може. Хоча невеликі реформи були зроблені тут чи там, зрештою, все, що ми для жителів матері, — це величезне корито для грошей встромити свої брудні, жадібні лапи"
  GER_dysfunctional_government: "Недієздатний уряд"
  GER_dysfunctional_government_desc:0 "Уряд [ROOT.GetName] неймовірно погано керований, з автономною військовою адміністрацією та занедбаною цивільною адміністрацією. Корпорації шаленіють, а корупція поширена."
  GER_roter_frontkampferbund: "Roter Frontkämpferbund"
  GER_political_commissars_idea: "Політичні комісари"
  GER_military_out_of_control:0 "Військові вийшли з-під контролю"
- GER_military_out_of_control_desc:0 "Нашим військам доведеться визнати поразку у Великій війні. Вони підтримують втрачену імперію, а не нашу республіку, і є досить консервативними. Ними неможливо керувати без переговорів з головою армійського командування Гансом фон Зеектом"
- GER_holy_order: "Священний орден"
- ger_famine:0 "Ріпкова зима"
- ger_famine_desc:0 "Єдина їжа, яку ми маємо, це хліб Гінденбург..."
- ger_famine_early:0 "Нестача їжі"
- ger_famine_early_desc:0 "Солдати та громадяни [ROOT.GetNameDef] зараз голодують через ворожу морську блокаду..."
+ GER_military_out_of_control_desc:0 "Нашим військам доведеться визнати поразку у Великій війні. Вони підтримують втрачену імперію, а не нашу республіку, і є досить консервативними. Ними неможливо керувати без переговорів з головою армійського командування."
+ GER_famine:0 "Ріпкова зима"
+ GER_famine_desc:0 "Єдина їжа, яку ми маємо, це хліб Гінденбург..."
+ GER_famine_early:0 "Нестача їжі"
+ GER_famine_early_desc:0 "Солдати та громадяни [ROOT.GetNameDef] зараз голодують через ворожу морську блокаду..."
  AUH_famine_effect:0 "Голод"
  AUH_famine_effect_desc:0 "Продовження цієї великої війни спричинює дедалі складнішу продовольчу проблему в нашій країні, яка вже деякий час відчуває нестачу продовольства. Наслідки голоду широко поширені в нашій країні, навіть вплинули на нашу армію."
  HUN_disorganized_army:0 "Розорганізована армія"
@@ -1741,20 +1741,18 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GER_idea_treaty_of_rapallo_desc:0 "Тост за нашу німецько-радянську дружбу!"
  GER_idea_kapp_illegitimate_government:0 "Нелегітимний уряд"
  GER_idea_kapp_illegitimate_government_desc:0 "Поточний правлячий уряд не визнається легітимним у всій країні. Політичні заворушення тривають, доки ми не стабілізуємо стрес"
- GER_idea_sino_german_company: "Deutsch-Asiatische Bank"
- GER_idea_sino_german_company_desc:0 "Our commercial interests in §YChina§! are represented by the powerful Deutsch-Asiatische Bank, which helps secure German economic influence throughout the Far East."
  GER_financial_crisis_of_agadir:0 "Agadir Financial Crisis"
- GER_financial_crisis_of_agadir_desc:0 "The diplomatic crisis over §YMorocco§! has severely impacted our financial markets. The threat of war with §BFrance§! and §RBritain§! has caused investors to panic, leading to a significant stock market crash and straining our economy."
+ GER_financial_crisis_of_agadir_desc:0 "The diplomatic crisis over §YMorocco§! has severely impacted our financial markets. The threat of war with §2France§! and §RBritain§! has caused investors to panic, leading to a significant stock market crash and straining our economy."
  GER_idea_default: "Економічний дефолт"
  GER_idea_default_desc:0 "The crushing burden of war reparations has forced us into financial default, bringing severe consequences for our economy and international standing."
  GER_idea_default_tt:0 "§YAll reparation payments have ceased, removing all associated modifiers from the Reparation idea.§!"
  GER_idea_hyperinflation: "Гіперінфляція"
  GER_idea_hyperinflation_desc:0 "Our economy is in chaos as the value of the §YMark§! plummets by the hour. Workers carry their wages in wheelbarrows, while citizens rush to spend their money before it becomes worthless. This economic catastrophe threatens the very stability of our society." # (!)
- GER_idea_naval_arms_race_desc:0 "§gAdmiral von Tirpitz's§! vision of a mighty High Seas Fleet continues to drive our naval expansion. Every new dreadnought laid down brings us closer to challenging §RBritish§! naval supremacy." # (!)
  GER_imperial_pride: "Deutsches Weltreich"
  GER_imperial_pride_desc:0 "Німецька імперія знаходиться на вершині світу. Її суперники та вороги впали перед революцією, здали вашу імперію або різко занепали. Усі дороги цього нового світу ведуть до Берліна — економічні, культурні та політичні серця Європи — наша країна — захистити цей новий світ всіма нашими силами, залишити наших ворогів багато"
  GER_customs_union: "Zollverein"
  GER_customs_union_desc:0 "The Zollverein, or German Customs Union, is a coalition of German states formed to manage tariffs and economic policies within their territories. It's the first instance in history in which independent states consummated a full economic union without the simultaneous creation of a political federation or union." # (!)
+ GER_structured_doctrines:0 "Structured Doctrines" # (!)
 
  OST_colonial_question: "Колоніальне питання"
  OST_colonial_question_desc:0 "Кількість живої сили, яку можна залучити нашеземельне військо, дуже обмежена. Суворі правила щодо приєднання іноземних громадян і загальне бажання з боку місцевих жителів гальмують наші спроби створити більші сили"
@@ -1909,18 +1907,20 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
 
  #MEXICO
  MEX_idea_porfiriato: "Порфіріато"
- MEX_idea_porfiriato_desc:0 "Генерал Діас встановив президентську диктатуру. Під час його правління селянство було пригноблене для індустріалізації Мексики."
+ MEX_idea_porfiriato_desc:0 "General Diaz established a Presidential Dictatorship after rising to power and fame from his military victories and involvement in the Liberal Party. Initially running on the anti-reelection idea, he then would legally amend the constitution to cement his power. Diaz bring in a period of 'Order and Progress' that civilized Mexico, making it a respectable nation on the world stage. This new era would bring industrialization, electricity and railroads to Mexico; but at a cost. Not only are the industries foreign owned, they work on the exploitation of the peasantry and natives. While the 1% lives comfortably, the rest are stuck in poverty and in the dirt. Diaz's Reign is protected by his extensive network of spies and intelligence that works on both sides of the Rio Grande. Diaz's autocratic ruling may be his undoing..." # (!)
  MEX_idea_mexican_revolution: "Мексиканська революція"
  MEX_idea_mexican_revolution_desc:0 "Селянство та демократична опозиція об'єдналися, щоб повалити уряд диктатора Діаса!"
  MEX_idea_political_violence: "Політичне насилля"
  MXM_idea_porfirista_government: "Порфірістський уряд"
  MXM_idea_election_campaigns: "Виборчі кампанії"
  MEX_idea_haciendas: "Асьєнди"
+ MEX_idea_haciendas_desc:0 "Wealthy Plantation owners hold large vastes of power over the state, funding whom they like and killing the others..." # (!)
  MEX_idea_guarded_haciendas: "Охоронені асьєнди"
  MEX_idea_incompetent_army: "Некомпетентна армія"
  MEX_idea_improved_army: "Поліпшена армія"
  MEX_idea_capable_army: "Спроможна армія"
  MEX_idea_caudillo_loyalty: "Сумнівна лояльність каудільйо"
+ MEX_idea_caudillo_loyalty_desc:0 "The Caudillo (military men) of Mexico have been fed by the corrupt system under Diaz... ideas of power and glory can tempt even the best of men." # (!)
  MEX_idea_caudillo_challenged: "Кинуто виклик каудільйо"
  MEX_idea_rebel_caudillo: "Бунтівні каудільйо"
  MEX_idea_impotent_caudillos: "Безсилі каудільйо"
@@ -1936,6 +1936,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  MEX_porfirio_attack: "Атака Порфіріо"
  MEX_mexican_civil_war: "Громадянські війни в Мексиці"
  MEX_mexican_civil_war_desc:0 "Мексика зараз перебуває в стані громадянської війни. Полум'я революції спопеляє націю дотла..."
+ MEX_resource_satellite: "Ресурсний сателіт"
 
  prohibition_accepted: "Сухий закон уведено в дію"
  prohibition_accepted_desc:0 "З ратифікацією 18-ї поправки та відповідного законодавства про виробництво, продаж або транспортування алкоголю всередині, на території або зі США тепер є незаконним. Відсутність алкоголю призведе до зниження попиту споживачів алкогольних товарів, але цей великий політичний хрестовий похід зробить майбутні політичні рішення значно більш розбіжними"
@@ -2103,8 +2104,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  ENG_hmmlr:0 "Опір"
  ENG_hmmlr_desc:0 "HMMLR, або Найвідданіший Опір Його Величності (зазвичай його назвати просто Опором) утворився в результаті придушення німецької демократії в [ENG.GetNameDef].\n\nБагато людей у ​​всій країні мають симпатії до HMMLR, від політиків до генералів, до шахтарів і фермерів §RВони будуть страйкувати при першій нагоди.§!"
  ENG_idea_naval_arms_race_desc:0 "Більше дрдноутів! Більше гармати!"
- ENG_fleet_being_challended:0 "Криза флоту"
- ENG_fleet_being_challenged_desc:0 "Ми більше не маємо переваг на морі. Це означає, що ми дуже вразливі до морської блокади чи вторгнення"
+ ENG_naval_supremacy_lost:0 "Britannia's Shield Shattered" # (!)
+ ENG_naval_supremacy_lost_desc:0 "§RRegain naval supremacy to remove this idea.§!" # (!)
  ENG_homeland_under_attack:0 "Батьківщина під ударом"
  ENG_homeland_under_attack_desc:0 "За сто років Британські острови ніколи не були захопленими ворогом. Лише досі."
  ENG_tariff_reform:0 "Тарифна реформа"
@@ -2121,6 +2122,16 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  ENG_idea_not_ready_yet_desc:0 "[ROOT.GetName] ще не готовий до участі у війні на європейському континенті."
  ENG_british_military_occupation:0 "Британська військова окупація"
  ENG_british_military_occupation_desc:0 "[ROOT.GetNameDefCap] зараз знаходиться під військовою окупацією та управлінням британськими військами."
+ ENG_economy_revision:0 "Economic Revision" # (!)
+ ENG_economy_revision_desc:0 "The British economy has been severely damaged by defeat and colonial losses. A structural revision is needed to overcome the current turmoil and achieve long-term recovery. This effort, while involving temporary hardship, aims to rebuild the collapsed economic foundation."
+ ENG_veterans_fury:0 "Veterans' Fury"
+ ENG_veterans_fury_desc:0 "Veterans who sacrificed everything for their country have received nothing in return. Their deep-seated rage against government incompetence and betrayal fuels widespread unrest, drawing support for certain ideologies."
+ ENG_order_through_coercion:0 "Order Through Coercion"
+ ENG_order_through_coercion_desc:0 "To quell domestic chaos, the government has resorted to violent suppression and authoritarian control. While this may seem to establish order in the short term, it foments greater public resentment and decreases productivity."
+ vickers_limited: "Vickers Limited"
+ william_foster: "William Foster & Co."
+ elswick_ordnance_company: "Elswick Ordnance Company"
+ armstrong_whitworth: "Armstrong Whitworth & Co."
 
  #SCOTLAND
  SCO_scotland_forever_idea: "ШОТЛАНДІЯ НАВІКИ!"
@@ -2143,9 +2154,9 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  CAN_bourassa_compromise:0 "Компроміс Бураси"
  CAN_bourassa_compromise_desc:0 "Було досягнуто компромісу щодо мінімального призову франко-канадців, що дозволяє їм воювати на боці французьких сил у Франції. Будуть навчені нові франко-канадські дивізії"
  CAN_quebec_riots:0 "Заворушення щодо призову на військову службу"
- CAN_imposed_conscription:0 "Примусова військова повинна бути"
- CAN_quebec_riots_desc:0 "Уряд Канади вирішив запровадити військову діяльність має бути незалежною від вартості."
  CAN_quebec_riots_desc:0 "Франкоканадці почали бунт через позицію канадського уряду щодо призову"
+ CAN_imposed_conscription:0 "Imposed Conscription" # (!)
+ CAN_imposed_conscription_desc:0 "The Canadian Government has decided to impose conscription no matter the costs." # (!)
  CAN_canadian_dream:0 "Канадська мрія"
  CAN_canadian_dream_desc:0 "Звичайний канадець хоче жити простим життям, де він зможе забезпечити себе та свою сім'ю. Їхні амбіції можна втілити в єдину мрію про Канаду"
  CAN_idea_patriation:0 "Патріація"
@@ -2160,7 +2171,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  CAN_safe_haven_world_desc:0 "Ми повинні захистити нашу країну від іноземних загроз, водночас забезпечуючи безпеку біженцям у розірваних військових конфліктах"
  CAN_euro_refugees:0 "Європейські біженці"
  CAN_:0 "Негайна патріація"
- CAN_idea_quebec_tension:0 "Напруга в Квебеку"
+ CAN_idea_quebec_tension:0 "Напруга з франкомовними"
  CAN_monarchism:0 "Канадський націоналізм"
  CAN_monarchism_desc:0 "Ідентичність виробляється. Канадці хочуть слави."
  CAN_monarchism2:0 "Канадський націоналізм"
@@ -2725,7 +2736,6 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GRE_farmer_focused_culture_dynamic_modifier:0 "Культура, орієнтована на фермера"
  GRE_balanced_approach_dynamic_modifier:0 "Збалансований підхід"
  GRE_industrializing_society_dynamic_modifier:0 "Індустріалізація суспільства"
- #gre_industrializing_society:0 "Політична нормальність"
  gre_shadow_of_97: "Тінь чорного '97-го"
  gre_shadow_of_97_desc:0 "Наша ганебна поразка в османсько-грецькій війні 1897 року все ще переслідує нас. Наша армія все ще така нездатна, ніби ми повернулися в 1897 рік."
  gre_victors_of_the_macedonian_struggle:0 "Переможці Македонської боротьби"
@@ -2733,9 +2743,13 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GRE_political_turmoil_dynamic_modifier_desc:0 "З часів Грецької революції 1832 року Греція не змогла встояти через нестабільну республіку, перевороти, революції та багато десятилити абсолютізму. Останнім інцидентом стала греко-турецька війна 1897 року та її подальше банкрутство, а тепер Еллада перебуває в поділі після перевороту Гуді 1909 р. Венізелісти та розділені монархісти зайшли в глухий кут, люди не знають, якою буде ситуація в Елладі в 20 століттях, і тому це спричинило велику нестабільність"
  GRE_political_normality_dynamic_modifier:0 "Політична нормальність"
  GRE_political_normality_dynamic_modifier_desc:0 "З часів Грецької революції 1832 року Греція не змогла встояти через нестабільну республіку, перевороти, революції та багато десятилити абсолютизму. Останнім інцидентом стала греко-турецька війна 1897 року та її подальше банкрутство, а тепер Еллада перебуває в поділі після перевороту Гуді 1909, венізелісти та розділені монархісти зайшли в глухий кут, але на короткий момент, здається, все під контролем"
- GRE_stability_plus_2_tt:0 "Змінити §Y[GetPoliticalTurmoilName]§! за:\n$MODIFIER_STABILITY_FACTOR$: §G+2.00%§!\n\n"
- GRE_pp_plus_2_tt:0 "Змінити §Y[GetPoliticalTurmoilName]§! шляхом:\n$MODIFIER_POLITICAL_POWER_GAIN$: §G+2%§!\n\n"
- GRE_stability_pp_plus_2_tt:0 "Змінити §Y[GetPoliticalTurmoilName]§! шляхом:\n$MODIFIER_POLITICAL_POWER_GAIN$: §G+2%§! \n$MODIFIER_STABILITY_FACTOR$: §G+2.00%§!\n\n"
+ GRE_stability_plus_2_tt: "$MODIFIER_STABILITY_FACTOR$: §G+2.00%§!\n\n"
+ GRE_pp_plus_2_tt: "$MODIFIER_POLITICAL_POWER_GAIN$: §G+2%§!\n\n"
+ GRE_stability_pp_plus_2_tt: "$MODIFIER_POLITICAL_POWER_GAIN$: §G+2%§! \n$MODIFIER_STABILITY_FACTOR$: §G+2.00%§!\n\n"
+ GRE_switch_political_turmoil: "Ідею §Y$GRE_political_turmoil_dynamic_modifier$§! буде замінено на §Y$GRE_political_normality_dynamic_modifier$§!\nЕфект від зміни:\n"
+ GRE_switch_political_turmoil_back: "Ідею §Y$GRE_political_normality_dynamic_modifier$§! буде замінено на §Y$GRE_political_turmoil_dynamic_modifier$§!\nЕфект від зміни:\n"
+ GRE_modify_political_normality: "Ідею §Y$GRE_political_normality_dynamic_modifier$§! буде змінено:\n"
+ GRE_modify_political_turmoil: "Ідею §Y$GRE_political_turmoil_dynamic_modifier$§! буде змінено:\n"
  gre_the_megali_idea: "Велика ідея"
  gre_the_megali_idea_desc:0 "Після завершення Грецької війни за незалежність у 1829 році Великі Держави надали тільки регіони Пелопоннес, Кіклади та Румелія новоствореної Грецької Республіки, причому багато етнічних греків все ще жили в межах Османської імперії. Після Революції 1843 р. Термін вперше з'явився час дебатів прем'єр-міністра Йоанніса Колеттіса, лідера французької партії, з королем Отто, який передував проголошенню конституції 1844 року. "королем Греції", а скоріше "королем еллінів" розширення течії десятиліття, з анексією Іонічних островів згідно з Лондонським договором у 1864 році та анексією Фессалії та Арті відповідно до Конвенції Константинополя у 1881 році. Надії все ще більше, і ідея Мегалі по волі стає конкретною реальністю, а не ідеолізованою концепцією"
  gre_university_of_athens: "Афінський університет"
@@ -2749,21 +2763,25 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GRE_agricultural_education_idea:0 "Аграрна освіта"
  GRE_memory_of_1821:0 "Пам'ять про 1821 рік"
  GRE_memory_of_1821_desc:0 "1821 року наш хоробрий народ протистояв османам у кривій визвольній війні. Після років боротьби ми нарешті звільнилися від впливу ісламістів. Наша незалежність не є гарантована; ми мусимо забезпечити своє майбутнє! Це не глухий кут!"
- GRE_IFC_dynamic_modifier:0 "Борг перед IFC"
- GRE_IFC_2_dynamic_modifier:0 "Борг перед IFC"
- GRE_IFC_3_dynamic_modifier:0 "Співпраця з IFC"
+ GRE_IFC_dynamic_modifier: "[GetGreekIFCName]"
+ GRE_IFC_dynamic_modifier_desc: "[GetGreekIFCName_desc]"
+ GRE_IFC_dynamic_modifier_name:0 "Debt to the I.F.C." # (!)
+ GRE_IFC_dynamic_modifier_name_desc:0 "The International Financial Commission is a six-person commission established in 1898 to enforce repayment of sovereign debt by the Kingdom of Greece to its creditors." # (!)
+ GRE_IFC_dynamic_modifier_name_alt:0 "Cooperation with the I.F.C." # (!)
+ GRE_IFC_dynamic_modifier_name_alt_desc:0 "The International Financial Commission is a six-person commission established in 1898 to enforce repayment of sovereign debt by the Kingdom of Greece to its creditors." # (!)
  GRE_has_IFC_tt:0 "Має §Y[GetGreekIFCName]§!"
  GRE_has_IFC_tt_NOT:0 "Не має §Y[GetGreekIFCName]§!"
- GRE_IFC_plus_2_tt:0 "Змінити §Y[GetGreekIFCName]§! за:\n$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: §Y+2%§!\n\n"
- GRE_IFC_plus_5_tt:0 "Змінити §Y[GetGreekIFCName]§! на:\n$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: §Y+5%§!\n\n"
- GRE_IFC_plus_10_tt:0 "Змінити §Y[GetGreekIFCName]§! на:\n$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: §Y+10%§!\n\n"
- GRE_IFC_minus_2_tt:0 "Змінити §Y[GetGreekIFCName]§! на:\n$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: §Y-2%§!\n\n"
- GRE_IFC_minus_5_tt:0 "Змінити §Y[GetGreekIFCName]§! за:\n$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: §Y-5%§!\n\n"
+ GRE_IFC_plus_5_tt: "Ідею §Y[GetGreekIFCName]§! буде змінено:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+5.0%§!\n\n"
+ GRE_IFC_plus_10_tt: "Ідею §Y[GetGreekIFCName]§! буде змінено:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+10.0%§!\n\n"
+ GRE_IFC_plus_20_tt: "Ідею §Y[GetGreekIFCName]§! буде змінено:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+20.0%§!\n\n"
+ GRE_IFC_minus_5_tt: "Ідею §Y[GetGreekIFCName]§! буде змінено:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-5.0%§!\n\n"
+ GRE_IFC_minus_10_tt: "Ідею §Y[GetGreekIFCName]§! буде змінено:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-10.0%§!\n\n"
  GRE_strikes_banned:0 "Заборонені попередження"
  gre_farmer_focused_culture:0 "Культура, орієнтована на фермера"
  gre_balanced_approach_idea:0 "Збалансований підхід"
  gre_naval_blockade:0 "Морська блокада"
  gre_gsee_idea:0 "GSEE"
+ GRE_generous_promotions: "Щедрі підвищення" # (&)
  gre_conscription_plan:0 "Розширений план призову"
  gre_french_military_mission:0 "Французька військова місія"
  gre_german_military_mission:0 "Німецька військова місія"
@@ -2807,8 +2825,6 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  LBA_traders_of_east_sahara_desc:0 "Протягом століть сенусі процвітали як охоронці торговельних шляхів, що перетинають величезні простори Східної Сахари. Використовуючи свої глибокі знання про пустелю та міцні зв'язки з місцевими племенами, орден сенусі погіршує переміщенню товарів, у тому числі сіль, фініки, золото та худоба, через суворі, інакше непрохідні Ці мережі не тільки забезпечують економічну підтримку, але й розширюють вплив Ордену на всю Північну Африку та Сахель"
  LBA_i_hate_italians:0 "Номінальний протекторат"
  LBA_i_hate_italians_desc:0 "Італія практично не має тут впливу. Крім того, відносини погіршуються"
-
- LBA_border_war_attack: "Ескалація прикордонної війни"
 
  # Dervish
  SOM_dervish_movement: "Рух дервішів"
@@ -2957,9 +2973,9 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  agricultural_economy_desc:0 "[ROOT.GetAdjectiveCap]а економіка спирається на різноманітний експорт сільськогосподарської продукції. Якщо ця аграрна економіка дозволяє експортувати сировину, годуючи людей, вона не дозволяє справжньому економічному розвитку."
  banana_republic: "Бананова республіка"
  banana_republic_desc:0 "[ROOT.GetAdjectiveCap]а економіка спирається на різноманітний експорт сільськогосподарської продукції. Якщо ця аграрна економіка дозволяє експортувати сировину, годуючи людей, це не дозволяє справжньому економічному розвитку."
- add_1_offsite_industrial_complex: "Цивільні заводи поза мапою: §G+1§!"
- add_1_offsite_arms_factory: "Військові заводи поза мапою: §G+1§!"
- add_2_offsite_arms_factory: "Військові заводи поза мапою: §G+2§!"
+ add_1_offsite_industrial_complex: "£civ_factory£ Цивільні заводи поза мапою: §G+1§!"
+ add_1_offsite_arms_factory: "£mil_factory£ Військові заводи поза мапою: §G+1§!"
+ add_2_offsite_arms_factory: "£mil_factory£ Військові заводи поза мапою: §G+2§!"
 
  #PERU
  PRU_aristocratic_republic: "Аристократична республіка"
@@ -3335,8 +3351,8 @@ FRA_colonial_conscription: "Колоніальний призов"
  MCO_monegasque_revolution_desc:0 "У березні 1910 року протестувальники, обурені браком орних земель і високим рівнем безробіття в Монако, організували делегацію, щоб вимагати від принца створити парламент і прийняти конституцію. Якщо їхні вимоги не будуть виконані, вони погрозили повалити монархію та встановити республіку"
 
  #San Marino
- SMR_roman_republic: "Республіканська революція"
- SMR_roman_republic_desc:0 "Конституція Сан-Марино, заснована на статуті 1600 року, засновує парламентський уряд на чолі з двома капітанами-регентами за традиціями стародавньої Римської республіки."
+ SMR_roman_republic: "Республіканська традиція"
+ SMR_roman_republic_desc:0 "Конституція Сан-Марино, заснована на статуті 1600 року, засновує парламентський уряд на чолі з двома капітанами-регентами, відповідно до традицій стародавньої Римської республіки."
 
  #Andorra
  ADR_co_prince: "Співрегентство"
@@ -3390,3 +3406,11 @@ FRA_colonial_conscription: "Колоніальний призов"
  KUT_senussi_fortress_desc:0 "Muhammad al-Sanussi is a member of the Sanusiyya order and is the sheikh of both Dar al-Kuti and Dar Runga. He consolidated and expanded Sanussi's authority in the region."
  KUT_legacy_of_slave_trade:0 "Legacy of the Slave Trade"
  KUT_legacy_of_slave_trade_desc:0 "The majority of the region's native inhabitants were captured by slave-traders from Sudan in the second half of the nineteenth century."
+
+### ГАМБУРҐ ###
+ HAM_1906_voter_disenfranchisement_law:0 "Voter Disenfranchisement Law of 1906" # (!)
+ HAM_1906_voter_disenfranchisement_law_desc:0 "Sparked by the electoral victory of the SPD in 1906, the subsequent state elections use a system of heavily weighted class suffrage that divides the enfranchised male population into two groups. Furthermore, landowners and the notables are also enfranchised with 40 representatives per group." # (!)
+
+### БРЕМЕН ###
+ BRE_eight_class_franchise:0 "Eight-Class Franchise" # (!)
+ BRE_eight_class_franchise_desc:0 "Many poorer residents are unable to acquire citizenship due to the registration fee and therefore have no right to vote. Thus, broad sections of the population in Bremen are not involved in the parliamentary process of political participation, not even a third of Reichstag voters are eligible to vote in the state elections." # (!)

@@ -623,7 +623,7 @@
 
  ENG_Pension_Act:0 "Закон про пенсії за віком"
  ENG_Pension_Act_desc:0 "Запроваджуючи фінансовані державою пенсії для всіх британських громадян, ми забезпечуємо підтримку та захоплення людей, що є свідченням далекоглядного лідерства Девіда Ллойд Джорджа."
- ENG_Neo_Liberalism:0 "Неолібералізм"
+ ENG_Neo_Liberalism:0 "Соціальний лібералізм"
  ENG_Neo_Liberalism_desc:0 "Наш бренд лібералізму помітно вирізняється з підходу laissez-faire минулих десятиліть. Він є прогресивним, захищає населення та втілює майбутнє політичної думки."
 
  ENG_Pro_Patria_Mori:0 "Pro Patria Mori"
@@ -798,6 +798,39 @@
  ENG_deal_with_the_lords:0 "Парламентський закон"
  ENG_deal_with_the_lords_desc:0 "Палата лордів має надто велику владу та постійно руйнує нашу здатність керувати. З нас досить! Ми приймемо парламентський акт із королівської згоди, щоб серйозно позбавити влади Сподіваюся, це зміцнить верховенство права і дозволить нам повернутися до нашої роботи: керувати країною."
  #Громадянська війна
+ ENG_aftermath_of_defeat:0 "Aftermath of Defeat" # (!)
+ ENG_aftermath_of_defeat_desc:0 "The British Empire has suffered a devastating defeat in the Great War, and its repercussions echo across the nation. Colonies are lost, the economy is in ruins, and public discontent is at an all-time high."
+ ENG_economic_ruin:0 "Economic Ruin"
+ ENG_economic_ruin_desc:0 "The loss of colonies and crippling reparations have plunged the British economy into a deep abyss. Shortages of essential goods and rampant inflation are suffocating the lives of ordinary citizens."
+ ENG_veterans_fury:0 "Veterans' Fury"
+ ENG_veterans_fury_desc:0 "The brave soldiers who fought for their country returned not to heroes' welcomes, but to a harsh reality. Unemployed and abandoned, their simmering rage becomes a volatile spark of social unrest."
+ ENG_general_strike:0 "General Strike"
+ ENG_general_strike_desc:0 "Infuriated by government incompetence and economic hardship, workers nationwide have launched a general strike. Production has ground to a halt, cities stand still, and the air crackles with revolutionary fervor."
+ ENG_white_guard_formation:0 "White Guard"
+ ENG_white_guard_formation_desc:0 "To counter the socialist threat, conservative and nationalist elements have spontaneously taken up arms. They aim to uphold the order of the realm."
+ ENG_brutality_in_the_system:0 "Brutality in the System"
+ ENG_brutality_in_the_system_desc:0 "Under the guise of maintaining order, the government has adopted increasingly oppressive policies. While this tightens their grip, it also fuels the resentment of opposition forces."
+ ENG_suppress_socialist_agitation:0 "Suppress Socialist Agitation"
+ ENG_suppress_socialist_agitation_desc:0 "Government intelligence and police forces have begun actively identifying and suppressing socialist agitators. This tactic unnerves the public and, in some cases, backfires."
+ ENG_imperial_bastion:0 "Imperial Bastion"
+ ENG_imperial_bastion_desc:0 "Amidst the collapse of the homeland's order, factions committed to preserving imperial values have rallied. They seek to reclaim past glories."
+ ENG_imperial_bastion_tt:0 "§YDeploy 6 White Guard divisions§! in case of civil war."
+ ENG_red_guard_formation:0 "Red Guard"
+ ENG_red_guard_formation_desc:0 "As revolutionary aspirations intensify, armed workers' militias, known as the Red Guard, begin to organize. They will be the vanguard in building a new society."
+ ENG_state_of_emergency:0 "State of Emergency"
+ ENG_state_of_emergency_desc:0 "With national disorder reaching its peak, the government has declared a state of emergency. Martial law is imposed, and all public activities are restricted."
+ ENG_to_the_workers:0 "To the Workers"
+ ENG_to_the_workers_desc:0 "We must directly engage with the working class, the core of the revolution, listening to their grievances and promising hope in a new society."
+ ENG_to_the_workers_tt:0 "§YSabotage 3 military factories§! in case of civil war."
+ ENG_to_the_soldiers:0 "To the Soldiers"
+ ENG_to_the_soldiers_desc:0 "By winning over disgruntled soldiers and junior officers, we can strengthen the revolution's military might and lay the groundwork for overthrowing the regime."
+ ENG_to_the_soldiers_tt:0 "§YRecieve 10% more professional army units§! in case of civil war."
+ ENG_to_the_farmers:0 "To the Farmers"
+ ENG_to_the_farmers_desc:0 "Amidst the urban chaos, we must spread the revolutionary message to the steadfast farmers. By emphasizing the importance of food supply, we can secure their support."
+ ENG_to_the_farmers_tt:0 "§YDeploy 6 Red Guard divisions§! in case of civil war."
+ ENG_to_the_moderates:0 "To the Moderates"
+ ENG_to_the_moderates_desc:0 "We must persuade the moderates who understand the necessity of revolution but hesitate at radical change. Their support will legitimize our cause."
+ ENG_to_the_moderates_tt:0 "§YPersuade few laborite personages to convert§! in case of civil war."
  ENG_Very_British_Civil_War:0 "Дуже британська громадянська війна"
  ENG_Very_British_Civil_War_desc:0 "Громадянський конфлікт знову захопив наш чесний острів! Хоча нам це боляче, ми повинні боротися з цими оманливими британцями."
  ENG_rally_the_men:0 "Ралі чоловіків"
@@ -830,6 +863,8 @@
  ENG_End_Post_War_Trauma_desc:0 "Ми повинні відновити себе, якщо хочемо перемогти."
  ENG_Foreign_Volunteers:0 "Іноземні волонтери"
  ENG_Foreign_Volunteers_desc:0 "Наші береги переповнені іноземними добровольцями, які прагнуть воювати за справжню Британію."
+ ENG_red_leadership:0 "Red Leadership" # (!)
+ ENG_red_leadership_desc:0 "Before the flames of revolution erupted, workers yearned for a true leader. Now, we must solidify its Red Leadership, the very force that guided their struggle, and set a steadfast course for the revolution. This is the establishment of a collective leadership, reflecting the will of the people, and it will serve as the cornerstone for the revolution's future."
  #абсолютно новий підрозділ торі
  ENG_balfours_folly:0 "Бальфурова дурість"
  ENG_balfours_folly_desc:0 "Не можна довіряти Артуру Бальфуру, який очолить Консервативну партію на наступних виборах. Він старий, імпотентний і загалом не популярний серед громадськості. Нам потрібна свіжа кров! Це вибори лідера."
@@ -1787,6 +1822,8 @@
  GER_pressure_on_scandinavia_desc:0 "Скандинавії доведеться підкоритися."
  GER_veteran_organisation:0 "Ветеранська організація"
  GER_veteran_organisation_desc:0 "Воєнізоване формування Frei Corps, переважно колишніх солдатів, вступає в дію. Це буде урядова організація Веймарської республіки, яка придушить повстання крайніх лівих."
+ GER_veteran_organisation_weimar: "$GER_veteran_organisation$"
+ GER_veteran_organisation_weimar_desc: "$GER_veteran_organisation_desc$"
  GER_research_bureau:0 "Дослідницьке бюро"
  GER_research_bureau_desc:0 "Ми повинні розширити наше дослідницьке бюро, протягом цієї війни було винайдено більше технологій, і ми повинні не відставати."
  GER_expand_staff:0 "Розширити штат"
@@ -1844,8 +1881,8 @@
  GER_two_kaisers_desc:0 "Вільгельм III стає фактичним лідером, оскільки його батько почесно пішов у відставку."
  GER_representative_reform:0 "Репрезентативна реформа"
  GER_representative_reform_desc:0 "Хоча ми перемогли, це були важкі та депресивні часи для всіх німців. Люди заслуговують на більше прав на політику.\n Але ви завжди можете давати обіцянки, які є лише брехнею."
- GER_schutztruppe:0 "Schutztruppe"
- GER_schutztruppe_desc:0 "Шутцтрупи були створені, щоб утримувати контроль над африканськими колоніями та придушувати повстання. Їх розширення є ключовим для їхнього захисту."
+ GER_schutztruppe:0 "Модернізація Schutztruppe"
+ GER_schutztruppe_desc:0 "The Schutztruppen were composed of European volunteer officers and non-commissioned officers, as well as German medical and veterinary officers, sent to the colonies to ensure civil and military security. Their specific training for the harsh conditions of Africa was essential to maintaining our colonial control." # (!)
  GER_ostasien:0 "Вимагати Остасієн"
  GER_ostasien_desc:0 "Наша азійська імперія!"
  GER_befriend_siam:0 "Подружитися з Сіам"
@@ -1962,15 +1999,12 @@
  GER_czech_commune_desc:0 "Чехи з'їхали з глузду. Їхній новий уряд принижує німецький народ. Ми повинні поставити їх на місце."
  GER_revenge_for_versailles:0 "Помста за Версаль"
  GER_revenge_for_versailles_desc:0 ""
- GER_mass_mobilization:0 "Масова мобілізація"
  GER_scientific_communism:0 "Науковий комунізм"
  GER_soviet_military_cooperation:0 "Радянське військове співробітництво"
  GER_soviet_military_cooperation_desc:0 "Наші брати на сході гостро потребують допомоги, тому для нас оптимальним є забезпечення їх як сильного союзника."
  GER_luftstreitkrafte:0 "Luftstreitkräfte"
  GER_luftstreitkrafte_desc:0 "Реорганізувати німецькі авіаційні сили."
  GER_focus_on_airships:0 "Зосередитися на дирижаблях"
- GER_zeppelin_company:0 "Luftschiffbau Zeppelin GmbH"
- GER_zeppelin_company_desc: "$GER_zeppelin_company$"
  GER_strategic_bombing_campaign:0 "Кампанія стратегічних бомбардувань"
  GER_strategic_bombing_campaign_desc: "$GER_strategic_bombing_campaign$"
  GER_superiority_of_aces:0 "Перевага асів"
@@ -2023,7 +2057,7 @@
  GER_invest_in_krupp:0 "Інвестуйте в Krupp"
  GER_invest_in_krupp_desc:0 "Krupp є дуже великим і важливим промисловим виробником багатьох озброєнь у Німеччині. Ми повинні інвестувати в них, оскільки вони будуть дуже важливі для постачання нашої армії, особливо артилерії."
  GER_increase_machinegun_production:0 "Збільшити виробництво кулеметів"
- GER_increase_machinegun_production_desc:0 "Ми повинні збільшити виробництво кулеметів, оскільки вони будуть вирішальними для нашої армії. Ми будемо інвестувати у виробництво кулеметів виробництва DWM і Theodor Bergmann."
+ GER_increase_machinegun_production_desc:0 "Ми повинні збільшити виробництво кулеметів, оскільки вони будуть вирішальними для нашої армії. Ми будемо інвестувати у виробництво кулеметів виробництва DWM і Waffenfabrik Bergmann."
  GER_finance_rheinmetall:0 "Фінанси Rheinmetall"
  GER_finance_rheinmetall_desc:0 "The Rheinische Metallwaaren- und Maschinenfabrik has established itself as a premier manufacturer of artillery and ammunition. Increased funding will allow them to develop new weapons systems crucial for modern warfare." # (!)
  GER_the_long_expected_war:0 "Довгоочікувана війна"
@@ -2042,9 +2076,6 @@
  GER_baltic_ports_desc:0 "The expansion of our Baltic shipbuilding capabilities is vital for our naval ambitions. By developing new dockyards along our northern coast, we can strengthen our position in the Ostsee while increasing our capacity to construct both military and merchant vessels." # (!)
  GER_militarization_of_prussia:0 "Мілітаризація Пруссії"
  GER_militarization_of_prussia_desc:0 "З наближенням війни в Європі виникає потреба у більшому військовому виробництві та мобілізації. У Пруссії ми розпочнемо мілітаризацію промисловості, щоб бути готовими до наступної війни!"
- generic_local_investments:0 "Місцеві інвестиції"
-
-
 
 
 
@@ -2094,6 +2125,7 @@
  GRE_close_foreign_customs_office_desc:0 "МФК має представництва в кожному великому порту Греції, оподатковуючи весь імпорт і експорт. Це неприйнятна домовленість, оскільки вона підриває уряд. Усі такі податки має безпосередньо здійснювати Міністерство економіки."
  GRE_cooperate_with_the_IFC:0 "Співпраця з IFC"
  GRE_cooperate_with_the_IFC_desc:0 "Найкращий спосіб вирішити борг Hellenic — це співпрацювати з нашими кредиторами. Демонструючи нашу рішучість, готовність і здатність виплачувати наш борг, можливо, ми зможемо змусити IFC запропонувати нам певні поступки щодо графіка виплат і процентну ставку за нашим боргом."
+ GRE_cooperate_with_the_IFC_tt:0 "Replace §YDebt to the I.F.C.§! with §YCooperation with the I.F.C.§!\nEffective Change:\n£factory_output_texticon  Factory Output: §G+15.00%§!\n£dockyard_output_texticon  Dockyard Output: §G+10.00%§!\n£construction_speed_milfactory_texticon  §YMilitary Factory§! construction speed: §G+15.00%§!\n£construction_speed_civfactory_texticon  §YCivilian Factory§! construction speed: §G+15.00%§!\n£consumer_goods_texticon  Consumer Goods Factories factor: §Y-10.0%§!\n\n" # (!)
  GRE_absorb_the_IFC:0 "Поглинути IFC"
  GRE_absorb_the_IFC_desc:0 "МФК підпорядковуватиметься волі грецького народу. Ми не можемо дозволити лихварям мати такий вплив на нашу країну. Будуть вжиті заходи для повільної інтеграції та поглинання МФК, помістивши її безпосередньо під юрисдикцію Міністерство економіки, що дозволяє нам призначати своїх членів у комітет."
  GRE_economic_recovery:0 "Економічне відновлення"
@@ -2157,7 +2189,7 @@
  GRE_convene_a_revisionary_assembly_desc:0 "Ревізійна асамблея має бути скликана, щоб змінити застарілу та неефективну Конституцію 1864 року. Скликання ревізійної асамблеї означає можливість виконати наші обіцяні скромні реформи шляхом ухвалення нової конституції."
  GRE_declare_new_elections:0 "Оголосити нові вибори"
  GRE_declare_new_elections_desc:0 "Нашому уряду час знайти справжню легітимність, отримавши мандат від самого народу. Оскільки ми знаходимося в набагато кращому становищі, ніж наші опоненти, дуже ймовірно, що вибори пройдуть на нашу користь."
- GRE_1911_constitution:0 "Конституція 1911 року"
+ GRE_1911_constitution:0 "Нова конституція"
  GRE_1911_constitution_desc:0 "Якщо нещодавні події довели щось, то це те, що Конституція 1864 року не підтримала принципи нашої демократії. Спеціальна асамблея вже подала свою пропозицію уряду, окреслюючи багато сфер, які потребують змін або реформовано в старій Конституції."
  GRE_separation_of_powers:0 "Поділ влади"
  GRE_separation_of_powers_desc:0 "Для того, щоб держава функціонувала ефективно та правильно, має бути забезпечений поділ влади. Кожна гілка влади буде окреслена незалежними повноваженнями та обов’язками, щоб повноваження однієї гілки не суперечили повноваженням влади. інші гілки."
@@ -2178,19 +2210,19 @@
  GRE_standardize_the_use_of_dimotiki:0 "Стандартизуйте використання Dimotiki"
  GRE_reform_the_status_of_property:0 "Змінити статус власності"
  GRE_reform_the_status_of_property_desc:0 "Статус власності має бути захищений у судовому порядку. Окресливши цю реформу в конституції, ми забезпечимо підтримку землевласників. Зважаючи на це, безземельним фермерам будуть зроблені деякі помірні поступки щодо землі, яку вони обробляють."
- GRE_reform_the_status_of_property_tt:0 "Змінити §Y[GetGreekAgrarianSocietyName]§! за:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3%§!\n\n"
+ GRE_reform_the_status_of_property_tt:0 "Ідею §Y[GetGreekAgrarianSocietyName]§! буде змінено\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3.00%§!\n\n"
  GRE_land_reform:0 "Земельна реформа"
- GRE_land_reform_tt:0 "Змінити §Y[GetGreekAgrarianSocietyName]§! за:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+5%§!\n\n"
+ GRE_land_reform_tt:0 "Ідею §Y[GetGreekAgrarianSocietyName]§! буде змінено\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3.00%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+5.00%§!\n\n"
  GRE_agricultural_education:0 "Аграрна освіта"
  GRE_encourage_farming_cooperatives:0 "Заохочуйте сільськогосподарські кооперативи"
  GRE_create_the_ministry_of_agriculture:0 "Створити Міністерство сільського господарства"
  GRE_labor_legislation:0 "Трудове законодавство"
  GRE_labor_legislation_desc:0 "Грецьких робітників безсоромно експлуатують іноземні капіталісти всередині країни. Будуть введені в дію символічні реформи та гарантії щодо умов праці та оплати праці працівників. Підтримка уряду робітниками буде мати вирішальне значення для нашого успіху у найближчі роки."
- GRE_labor_legislation_tt:0 "Змінити §Y[GetGreekAgrarianSocietyName]§! за:\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+3%§!\n\n"
+ GRE_labor_legislation_tt:0 "Ідею §Y[GetGreekAgrarianSocietyName]§! буде змінено\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+3.00%§!\n\n"
  GRE_prohibit_child_labor:0 "Заборонити дитячу працю"
  GRE_legalize_labor_unions:0 "Легалізувати профспілки"
  GRE_sunday_obligatory_day_of_rest:0 "Зробити неділю обов'язковим днем відпочинку"
- GRE_sunday_obligatory_day_of_rest_tt:0 "Змінити §Y[GetGreekAgrarianSocietyName]§! за:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+3%§!\n\n"
+ GRE_sunday_obligatory_day_of_rest_tt:0 "Ідею §Y[GetGreekAgrarianSocietyName]§! буде змінено\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3.00%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+3.00%§!\n\n"
  GRE_abolish_nighttime_labor_for_women:0 "Скасувати нічну працю для жінок"
  GRE_create_the_social_insurance_system:0 "Створити систему соціального страхування"
  GRE_introduce_the_minimum_wage:0 "Запровадити мінімальну заробітну плату"
@@ -2277,7 +2309,7 @@
  GRE_avenge_1897:0 "Помста 1897"
  GRE_treaty_of_athens:0 "Афінський договір"
  GRE_treaty_of_athens_desc:0 "Хвора людина Європи була відкинута назад до Азії завдяки міць наших об’єднаних армій! Тепер у них не буде іншого вибору, як визнати наш суверенітет над Македонією, Епіром і Критом. Звільнення Македонії, потім Салонік підкреслив жорстку опозицію, яку можуть представляти місцеві турецькі меншини, щоб інтегрувати ці нові групи населення.
- GRE_treaty_of_athens_tt:0 "Кожна §YОсманська держава§!, яка не є нашою ядром:\n Відповідність §G+25,0%§!\n Опір §G-10,0%§!\n Додайте §YІнтеграційні зусилля§!, що надає: \nНепрофільна робоча сила: §G+30,00%§!\nШвидкість зростання відповідності: §G+30%§!"
+ GRE_treaty_of_athens_tt:0 "Кожна §YОсманська держава§!, яка не є нашою ядром:\n Відповідність §G+25,0%§!\n Опір §G-10,0%§!\n Додайте §YІнтеграційні зусилля ([GRE.GetName])§!, що надає: \nНепрофільна робоча сила: §G+30,00%§!\nЩоденний приріст підпорядкування: §G+30%§!\n§RБуде видалено, коли область стане осердна.§!\n"
  BW1_winner:0 "Виграв Першу балканську війну"
  GRE_integration_efforts:0 "Зусилля щодо інтеграції"
  MOR_integration_efforts:0 "Зусилля щодо інтеграції"
@@ -2285,13 +2317,14 @@
  FRA_grand_couronnee_defensive_line:0 "Оборонна лінія Великого Куронне"
  FRA_michel_defensive_plan:0 "План Мішеля"
  FRA_joffre_offensive_plan:0 "План Жоффра"
- FRA_voie_sacree: "Voie sacrée"
- FRA_voie_sacree_desc:0 "The Sacred Way is a series of roads maintained at great expense by the French army to ensure the supply of the front for a huge number of French and foreign soldiers." # (!)
+ FRA_voie_sacree_modifier: "Voie sacrée"
+ FRA_voie_sacree_modifier_desc:0 "The Sacred Way is a series of roads maintained at great expense by the French army to ensure the supply of the front for a huge number of French and foreign soldiers." # (!)
  FRA_ww1_mineral_wealth:0 "Розробка корисних копалин"
  FRA_ww1_mineral_wealth_desc:0 "Марокко має багатий ґрунт, який не розробляється. Інвестиції з нашого боку забезпечать високу прибутковість і відкриють Марокко для міжнародної торгівлі."
  GRE_support_to_entente:0 "Місцева підтримка Антанти"
  GRE_reinforce_local_administration:0 "Посилити адміністрування в [FROM.getName]"
  GRE_reinforced_local_administration:0 "Посилене адміністрування"
+ will_be_removed_once_is_a_core: "§RБуде видалено, коли область стане осердна.§!"
  GRE_minorities_management:0 "Управління меншинами"
  GRE_minorities_management_desc:0 "Наші нещодавно завойовані території потребують особливої підтримки з боку центрального уряду в Афінах, оскільки там проживають великі етнічні меншини, такі як болгари, турки та євреї. Нам потрібно інтегрувати ці території, щоб запобігти будь-яким потенційним заворушенням в регіон і намагатися його еллінізувати."
  GRE_unite_with_crete:0 "Об'єднатися з Критом"
@@ -2354,6 +2387,8 @@
  GRE_the_second_balkan_socialist_conference_desc:0 "Друга Балканська соціал-демократична конференція в Бухаресті, безсумнівно, визначить політику соціалістичних партій на Балканах після не менш важливої Першої Балканської соціал-демократичної конференції в Белграді в 1909 році. Такою, як вона є, ми візьмемо в ній участь, незалежно від венізелістів, оскільки ми будемо наполягати на Балканській федерації рівних."
  GRE_form_the_provisional_government_of_national_defence:0 "Створити державу Салоніки"
  GRE_form_the_provisional_government_of_national_defence_desc:0 "Після конституційної кризи 1915 року та капітуляції Форт-Рупел через рік національна схизма, безперечно, досягла свого піку. Ми більше не будемо виконувати особисту політику Костянтина, оскільки він руйнує всю роботу Конституція 1911 р. і встановлення нашої нац цілісність у небезпеці!"
+ GRE_form_the_provisional_government_of_national_defence_tt:0 "States that have §GTotal§! Venizelist §YInfluence§! will be transfered to §YVenizelist ownership§!.\nA part of our army proportional to the Venizelist §YInfluence§! will be transfered to §YVenizelist leadership§!.\n" # (!)
+ GRE_royalist_civil_war_tt:0 "Only states that have §GTotal§! Venizelist §YInfluence§! upon the start of the Civil War will begin the conflict under §YVenizelist ownership§!.\nA part of our army proportional to the Venizelist §YInfluence§! will be transfered to §YVenizelist leadership§!.\n" # (!)
  GRE_crackdown_on_the_epistratoi:0 "Репресії проти епістратів"
  GRE_crackdown_on_the_epistratoi_desc:0 "Epistratoi, організована Метаксасом, є воєнізованою групою демобілізованих офіцерів, які щодня тероризують прихильників Венізелоса шляхом побиття та грабування приватної власності. Якщо необхідно, ми придушимо цю групу збройними засобами! "
  GRE_limited_neutrality:0 "Компроміс щодо обмеженого нейтралітету"
@@ -2552,7 +2587,7 @@
  GRE_worker_communes_desc:0 "Класова свідомість лише порівняно недавно стала популярною в нашій країні, звісно, завдяки нашій пропаганді. Таким чином, ми організуємо робітничі комуни, щоб розширити можливості працівників кожного регіону, щоб їх більше не експлуатували."
  GRE_publicize_means_of_production:0 "Публіцизувати засоби виробництва"
  GRE_publicize_means_of_production_desc:0 "Оприлюднення засобів виробництва є одним із наріжних каменів марксистської та соціалістичної думки. Робітники Еллади разом із державою отримають право володіти засобами виробництва, якщо необхідно, силою!"
- GRE_publicize_means_of_production_tt:0 "Змінити §Y[GetGreekAgrarianSocietyName]§! за:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+3%§!"
+ GRE_publicize_means_of_production_tt:0 "Ідею §Y[GetGreekAgrarianSocietyName]§! буде змінено\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+3%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+3%§!"
  GRE_separation_of_church_and_state:0 "Відокремлення церкви від держави"
  GRE_separation_of_church_and_state_desc:0 "Відокремлення церкви від держави було популярною ідеєю в Європі з часів Французької революції 1789 року, хоча через силу Церкви в Елладі це ніколи навіть не виникало навіть як думка. Ми нарешті зупинимо церкву втручання в грецьку політику!"
  GRE_give_land_to_farmers:0 "Віддайте землю фермерам"
@@ -2682,147 +2717,6 @@
  GRE_transfer_state:0 "§GВи отримаєте всю територію, яку ви окупували, яка є претензією або ядром Греції!§!"
  GRE_continue_war:0 "§RВійна триватиме...§!"
  gre_bw1_tooltip:0 "§RВи отримаєте категорію рішення з таймером для захоплення Салонік. Якщо ви не захопите його раніше, ніж болгари, ви втратите його на мирній конференції, а також втратите стабільність і військову підтримку!§!"
-
- #Австралія
- australian_focus:0 "Австралійське фокусне дерево"
- AST_advisory_council_on_science_and_industry:0 "Консультативна рада з питань науки та промисловості"
- AST_advisory_council_on_science_and_industry_desc:0 "Створення єдиного органу, відповідального за науку, є першим кроком до захисту національної лабораторії."
- AST_1915_imperial_loans:0 "Імперські позики 1915 року"
- AST_1915_imperial_loans_desc:0 "Ми потребуємо додаткових фінансових ресурсів від корони. Ми будемо й надалі в боргу перед короною."
- AST_war_precautions_act_1914:0 "Закон про заходи безпеки 1914 року"
- AST_war_precautions_act_1914_desc:0 "Загрози переслідуванню військових зусиль, будь то іноземці чи анархісти, що кидають бомби, мають бути обмежені. Ми повинні захистити країну, а отже, імперію."
- AST_developing_the_federal_territory:0 "Розвиток федеральної території"
- AST_developing_the_federal_territory_desc:0 "Акт про резиденцію уряду 1908 року визначив територію та місце нашої майбутньої столиці. Ми повинні розпочати підготовку місця для забудови."
- AST_cockatoo_island_dockyard:0 "Верф острова Какаду"
- AST_cockatoo_island_dockyard_desc:0 "Верф на острові Какаду — це велике суднобудівне об’єкто. Нам слід розширити його, додавши додатковий стапель і цех для листів."
- AST_aif_inventions_research_section:0 "Відділ дослідження винаходів AIF"
- AST_aif_inventions_research_section_desc:0 "Австралійські війська постійно надсилають "винаходи" британському верховному командуванню. Британське командування вирішило у відповідь сформувати дослідницький підрозділ AIF."
- AST_lithgow_arms:0 "Літгоу Армс"
- AST_lithgow_arms_desc:0 "Збройовий завод у Літгоу є нашим основним джерелом озброєнь. Ми повинні розширити його, щоб задовольнити поточні потреби нашої зростаючої армії."
- AST_imperial_security:0 "Імперська безпека"
- AST_imperial_security_desc:0 "Німецька присутність на нашій півночі не може залишатися чорною міткою на австралійському кордоні. Рішення про постійну окупацію цих колоній тепер є офіційною політикою."
- AST_broken_hill_propriety_steelworks:0 "Сталевий завод Broken Hill Propriety"
- AST_broken_hill_propriety_steelworks_desc:0 "Промислові вимоги сучасної війни означають, що розвиток місцевої сталеливарної промисловості є обов'язковим."
- AST_hold_the_conscription_plebiscite:0 "Провести призовний плебісцит"
- AST_hold_the_conscription_plebiscite_desc:0 "Наша країна проведе референдум. На ньому буде вирішено, чи може уряд запровадити заходи щодо призову."
- AST_conscription_plebiscite_tt:0 "Це запустить ланцюжок подій §YПризовна кампанія§!.\n"
- AST_naval_and_military_expeditionary_force:0 "Морські та військові експедиційні сили"
- AST_naval_and_military_expeditionary_force_desc:0 "Природа сусідніх ворожих колоній вимагає більшої співпраці між армією та військово-морськими службами. Розвиток об’єднаних сил дозволено."
- AST_workers_educational_association:0 "Освітня асоціація працівників"
- AST_workers_educational_association_desc:0 "Відкриття австралійського відділення цієї асоціації допоможе нам підтримати зростання кваліфікованої робочої сили."
- AST_the_golden_fleece_company:0 "Компанія "Золоте руно"
- AST_the_golden_fleece_company_desc:0 "Компанія "Золоте руно», заснована в 1893 році, була головним постачальником нафтохімічних продуктів Австралії."
- AST_the_first_aif:0 "Перший AIF"
- AST_the_first_aif_desc:0 "Ми зберемо сили, щоб допомогти батьківщині. (Розкриває уроки рішень війни)"
- lessons_war_tt:0 "Рішення §YУроків війни§! розблоковуються.\n"
- AST_open_the_commonwealth_bank:0 "Відкрити Commonwealth Bank"
- AST_open_the_commonwealth_bank_desc:0 "Цей новий національний банк забезпечить дуже необхідний капітал для місцевої промисловості."
- AST_the_maternity_allowance_act:0 "Закон про допомогу по вагітності та пологах"
- AST_the_maternity_allowance_act_desc:0 "Виплата "дитячого бонусу" буде нарахована кожній громадянці жінки за кожну народжену дитину."
- AST_declaring_our_new_capital:0 "Оголошуємо наш новий капітал"
- AST_declaring_our_new_capital_desc:0 "Настав час перенести нашу столицю та почати масштабне будівництво."
- AST_amalgamated_wireless_australasia_limited:0 "Amalgamated Wireless Australasia Limited"
- AST_amalgamated_wireless_australasia_limited_desc:0 "AWA є найвідомішим виробником бездротового зв’язку та електроніки в Австралії. Державні інвестиції допоможуть у подальшому розвитку електронної промисловості."
- AST_the_royal_australian_navy:0 "Королівський флот Австралії"
- AST_the_royal_australian_navy_desc:0 "Ми прийняли Закон про оборону військово-морських сил Австралії, засновуючи військово-морський флот."
- AST_duntroon_military_college:0 "Військовий коледж Дантруна"
- AST_duntroon_military_college_desc:0 "Королівський військовий коледж у Дантруні буде школою для всіх майбутніх офіцерів. Doctrina vim promovet""
- AST_begin_laying_the_ground_work:0 "Почати закладку основи"
- AST_begin_laying_the_ground_work_desc:0 "Уолтер Берлі Гріффін, чиказький архітектор, виграв міжнародний конкурс на проектування нашої нової столиці. Ми почнемо готувати ґрунт для будівництва."
- AST_the_commonwealth_bank_act:0 "Закон про банк Співдружності"
- AST_the_commonwealth_bank_act_desc:0 "Заснування нашого першого національного банку забезпечить так необхідний капітал. Це дозволить нам далі розвивати нашу галузь."
- AST_the_australian_dollar:0 "Австралійський фунт"
- AST_the_australian_dollar_desc:0 "Австралійське казначейство отримало повноваження випускати валюту, замінивши використання британського фунта."
- AST_open_the_university_of_queensland:0 "Відкрити університет Квінсленда"
- AST_open_the_university_of_queensland_desc:0 "Університет Квінсленда є одним із "пісковикових" університетів Австралії. Викладацький склад починає навчати та проводити дослідження."
- AST_open_the_marburg_railway_line:0 "Відкрити залізничну лінію Марбург"
- AST_open_the_marburg_railway_line_desc:0 "Великий залізничний проект, що з'єднує столицю штату Квінсленд із сільською західною місцевістю."
- AST_compulsory_military_training:0 "Обов'язкова військова підготовка"
- AST_compulsory_military_training_desc:0 "Імперія має багато загроз. Нам потрібно, щоб кожен був готовий до бою."
- AST_the_hms_melbourne:0 "HMS Melbourne"
- AST_the_hms_melbourne_desc:0 "Намагаючись допомогти розширити наш флот. Батьківщина побудувала та поставила легкий крейсер."
- AST_hmas_australia:0 "HMAS Австралія"
- AST_hmas_australia_desc:0 "Наш новий флагман готовий! Сучасний британський бойовий крейсер."
- AST_1914_imperial_loans:0 "Імперські позики 1914 року"
- AST_1914_imperial_loans_desc:0 "Війна вимагає великих фінансових ресурсів для підтримки. Ми можемо попросити допомоги від корони. Ми будемо зобов'язані заплатити корону, і нам доведеться заплатити їм після закінчення війни."
- AST_vulcan_engineering_works:0 "Інженерний завод Vulcan"
- AST_vulcan_engineering_works_desc:0 ""
- AST_the_defense_act:0 "Закон про захист"
- AST_the_defense_act_desc:0 "Глобальна геополітична ситуація означає, що ми повинні реформувати наші місцеві сили оборони, щоб бути готовими до будь-яких обставин."
- AST_1st_light_car_patrol:0 "1-й легковий патруль"
- AST_1st_light_car_patrol_desc:0 ""
- AST_further_officer_training:0 "Підвищення кваліфікації офіцерів"
- AST_further_officer_training_desc:0 ""
- AST_the_naval_defence_act:0 "Закон про морську оборону"
- AST_the_naval_defence_act_desc:0 ""
- AST_methodical_battle_planning:0 "Методичне планування бою"
- AST_methodical_battle_planning_desc:0 "Ми зосередимося на високосинхронізованих атаках зі стандартних частин."
- AST_war_of_manouver:0 "Війна за маневр"
- AST_war_of_manouver_desc:0 "Агресивні та швидкі атаки, що здійснюються мобільними підрозділами, - це спосіб сучасності."
- AST_large_unit_manouvers:0 "Маневри великих підрозділів"
- AST_large_unit_manouvers_desc:0 ""
- AST_technical_innovations:0 "Технічні інновації"
- AST_technical_innovations_desc:0 ""
- AST_mobile_artillery:0 "Мобільна артилерія"
- AST_mobile_artillery_desc:0 ""
- AST_the_automobile:0 "Автомобіль"
- AST_the_automobile_desc:0 ""
- AST_the_modern_cavalryman:0 "Сучасний кавалерист"
- AST_the_modern_cavalryman_desc:0 ""
- AST_the_tank:0 "Танк"
- AST_the_tank_desc:0 ""
- AST_modern_arms:0 "Сучасна зброя"
- AST_modern_arms_desc:0 ""
- AST_staff_officer_courses:0 "Курси штабних офіцерів"
- AST_staff_officer_courses_desc:0 ""
- AST_gunnery_schools:0 "Школи стрільців"
- AST_gunnery_schools_desc:0 ""
- AST_modern_engineers:0 "Сучасні інженери"
- AST_modern_engineers_desc:0 ""
- AST_modern_artillery:0 "Сучасна артилерія"
- AST_modern_artillery_desc:0 ""
- AST_the_beginnings_of_a_modern_army:0 "Початки сучасної армії"
- AST_the_beginnings_of_a_modern_army_desc:0 ""
- AST_expand_the_australian_army_intelligence_corps:0 "Розширити Корпус розвідки австралійської армії"
- AST_return_servicemans_league:0 "Ліга військовослужбовців повернення"
- AST_return_servicemans_league_desc:0 ""
- AST_veteran_settlement_scheme:0 "Схема поселення ветеранів"
- AST_veteran_settlement_scheme_desc:0 ""
- AST_infiltrate_the_labour_party:0 "Проникнути до лейбористської партії"
- AST_infiltrate_the_labour_party_desc:0 ""
- AST_establish_relations_with_the_soviet_republic:0 "Встановити відносини з радянською республікою"
- AST_establish_relations_with_the_soviet_republic_desc:0 ""
- AST_establish_underground_cadres:0 "Створити підпільні кадри"
- AST_establish_underground_cadres_desc:0 ""
- AST_establish_a_socialist_republic:0 "Створити Соціалістичну Республіку"
- AST_establish_a_socialist_republic_desc:0 ""
- AST_revolution_under_siege:0 "Революція в облозі"
- AST_revolution_under_siege_desc:0 ""
- AST_liberate_the_workers_of_new_zealand:0 "Звільніть робітників Нової Зеландії"
- AST_liberate_the_workers_of_new_zealand_desc:0 ""
- AST_reinvigorate_national_strikes:0 "Пожвавити національні страйки"
- AST_reinvigorate_national_strikes_desc:0 ""
- AST_reactivate_prewar_spy_rings:0 "Відновити довоєнні шпигунські кільця"
- AST_reactivate_prewar_spy_rings_desc:0 ""
- AST_develop_papua:0 "Розвивати Папуа"
- AST_develop_papua_desc:0 ""
- AST_establish_the_australian_federal_police:0 "Створити федеральну поліцію Австралії"
- AST_establish_the_australian_federal_police_desc:0 ""
- AST_lest_we_forget:0 "Щоб не забути"
- AST_lest_we_forget_desc:0 ""
- AST_federal_army:0 "Федеральна армія"
- AST_federal_army_desc:0 ""
- AST_expand_the_royal_australian_engineers:0 "Розширити Королівські австралійські інженери"
- AST_expand_the_royal_australian_engineers_desc:0 ""
- AST_expand_foreign_military_missions:0 "Розгорнути іноземні військові місії"
- AST_expand_foreign_military_missions_desc:0 ""
- AST_bolster_the_department_of_defence:0 "Зміцнити Міністерство оборони"
- AST_bolster_the_department_of_defence_desc:0 ""
- AST_standing_infantry_brigades:0 "Постійні піхотні бригади"
- AST_standing_infantry_brigades_desc:0 ""
- AST_expand_the_australian_army_intelligence_corps_desc:0 ""
- AST_disestablish_the_cmf:0 "Відключити CMF"
- AST_disestablish_the_cmf_desc:0 ""
 
  BUL_alliance_with_serbia:0 "Союз із Сербією"
  BUL_the_macedonian_question:0 "Македонське питання"
@@ -3666,11 +3560,13 @@
  SER_ensure_french_support:0 "Забезпечити підтримку французькою мовою"
  SER_internationalist_propaganda:0 "Інтернаціоналістична пропаганда"
  SER_depose_the_king:0 "Почати перегони"
+ SER_depose_the_king-desc:0 "It was the constant struggle between Obrenovic and Karadordevic Dynasties that led to Serbia stagnating. Only through a Republic shall the Yugolslav dream become reality." # (!)
  SER_zastarva_arms:0 "Зброя Zastarva"
  SER_has_funded_serbian_railways:0 "Фінансував Сербські залізниці"
  SER_has_fund_zastarva:0 "Фінансував Zastarva"
  SER_serbian_railways:0 "Сербська залізниця"
- escape_line:0 "\n\n"
+ escape_line_half: " \n"
+ escape_line: " \n"
  SER_serbian_air_force:0 "ВВС Сербії"
  SER_serbian_air_force_funded:0 "Фінансував ВПС Сербії"
  SER_tools_modernization:0 "Модернізація інструментів"
@@ -3711,7 +3607,7 @@
  SER_foreign_canons:0 "Іноземне обладнання"
  SER_foreign_canons_desc:0 "Ми все ще використовуємо застаріле обладнання, тоді як нашій промисловості важко задовольнити попит. Іноземні закупівлі гвинтівок, кулеметів і артилерії дуже потрібні."
  SER_convention_with_romania:0 "Конвенція з Румунією"
- SER_convention_with_romania_desc:0 "Так само, як і ми, Румунія також прагне звільнити співвітчизників, які страждають під правлінням Габсбургів. Як і в 1878 році, наші країни знову боротимуться на стороні проти іноземної тиранії."
+ SER_convention_with_romania_desc:0 "Так само, як і ми, Румунія також прагне звільнити співвітчизників, які страждають під правлінням Габсбургів. Як і в 1878 році, наші країни знову боротимуться пліч-о-пліч проти іноземної тиранії."
  SER_mend_the_officers_relations:0 "Підтримуйте ультранаціоналістів"
  SER_depoliticize_the_army:0 "Деполітизувати армію"
  SER_depoliticize_the_army_desc:0 "Різноманітні таємні товариства всередині армії становлять серйозну загрозу нашому правлінню. Ми більше не будемо терпіти їхні суперечки."
@@ -3755,6 +3651,7 @@
  SER_reason_for_defeat:0 "Причина поразки"
  SER_blame_politics:0 "Звинуватити політиків"
  SER_blame_black_hand:0 "Звинуватити чорну руку"
+ SER_blame_black_hand_desc:0 "It was the Black Hand and their criminal acts that started the war in the first place. Their infiltration of the military and government pose a threat to Serbia itself." # (!)
  SER_blame_regent:0 "Звинуватити регента"
  SER_Solun_process:0 "Процес Солунського"
  SER_demand_Petar_be_superior:0 "Петар I є настоятелем"
@@ -3767,7 +3664,7 @@
  SER_invite_Greece:0 "Запросити Грецію"
  SER_a_united_front:0 "Об'єднаний фронт"
  SER_attache_to_montenegro:0 "Аташе в Чорногорії"
- SER_attache_to_montenegro_desc:0 "Відважні чорногорці мають
+ SER_attache_to_montenegro_desc:0 "The brave Montenegrins have been fighting at our side for years. However the Montenegrin army is small. Sending an attache will help fix this." # (!)
  SER_army_promotions:0 "Армійські акції"
  SER_army_promotions_desc:0 "Зі старіючим вищим командуванням в офіцерському корпусі потрібна нова кров. Тому потрібно призначати перспективних офіцерів."
  SER_oslobodjenje:0 "Oslobođenje"
@@ -6559,10 +6456,6 @@
  TUR_imperial_scholarship_desc:0 "Щоб наздогнати західні держави у сфері науки та досліджень, ми маємо виховувати наші нові покоління. Проте держава має надто мало ресурсів, щоб фінансувати державну освіту. Натомість ми виберемо найкращих студентів серед інших, і дайте їм стипендії."
  TUR_demand_batum:0 "Вимагати Batum"
 
- FRA_army_tree_shortcut:0 "Армія"
- FRA_navy_tree_shortcut:0 "Військово-морський флот"
- FRA_air_tree_shortcut:0 "Повітряні сили"
-
  FRA_ww1_dreyfus_exoneration:0 "Наслідки виправдання Дрейфуса"
  FRA_ww1_dreyfus_exoneration_desc:0 "Звільнений з 1906 року, Альфред Дрейфус все ще перебуває в центрі політичних дебатів. Настав час закрити цю болючу дужку щодо 3-ї Республіки."
 
@@ -7803,6 +7696,28 @@
  NFA_partisan_suppression_desc:0 "Деякі з нас червоні! Вони намагаються зламати нас зсередини. Усі зрадники мають бути підтверджені та знищені."
  NFA_above_all_the_losses:0 "Понад усі втрати"
  NFA_above_all_the_losses_desc:0 "Громадянська війна закінчилася. Наразі."
+
+ NFA_dissolve_the_parliament:0 "Dissolve the Parliament" # (!)
+ NFA_dissolve_the_parliament_desc:0 "In the context of an all-out war against the socialist enemy, we cannot afford to wait for the deliberations of parliament. The latter must be brought into line and reduced to the role of a consultative assembly."
+
+ NFA_government_of_national_defence:0 "Government of National Defence"
+ NFA_government_of_national_defence_desc:0 "In order to maintain "relative" stability in France, we must welcome into the government the main conservative right-wing movements, historically factors of sustainability in the face of panic and chaos on the left."
+
+ NFA_support_paramilitary_nationalists:0 "Support Paramilitary Nationalists"
+ NFA_support_paramilitary_nationalists_desc:0 "Several veteran groups can assist the government and the general staff in managing national reconstruction. Their national and conservative ideals are popular and promising."
+
+ NFA_structured_high_quarter:0 "Structured High Quarter"
+ NFA_structured_high_quarter_desc:0 "The trio of heroic marshals: Pétain, Foch, and Joffre, must impose an iron discipline within the military hierarchy. Structured and reliable doctrines must be required to outmaneuver the enemy."
+
+ NFA_trio_des_generaux:0 "Trio des Généraux"
+ NFA_trio_des_generaux_desc:0 "With the Republic suspended and the Parliament dissolved, the military junta has moved swiftly to consolidate its grip on the French state. A triumvirate of generals now leads the nation: Marshal Ferdinand Foch, Marshal Joseph Joffre, and Marshal Philippe Pétain."
+
+ NFA_continue_the_military_junta:0 "Continue the Military Junta"
+ NFA_continue_the_military_junta_desc:0 "Amid growing political uncertainty and military dominance, one figure has emerged as the sole beacon of stability: Marshal Philippe Pétain."
+
+ NFA_rally_conservatives:0 "Rally Conservatives"
+ NFA_rally_conservatives_desc:0 "The French state is, and must remain, a democracy; we cannot afford to fall into an eternal junta. The government must appoint civilian politicians to key positions to reassure democrats of all stripes."
+
  NFA_the_monarchy_restored:0 "Відновлення монархії"
  NFA_the_monarchy_restored_desc:0 "The Republic failed to protect France in its darkest hour. Its time we look to the Bourbons to save the eldest daughter of the Church." # (!)
  NFA_a_true_democracy:0 "Справжня демократія"
@@ -7884,9 +7799,118 @@
  FRA_interwar_french_settlement_in_algeria:0 "Поселення в Алжирі"
  FRA_interwar_french_settlement_in_algeria_desc:0 "Ми — це все, що залишилося від справжньої Франції, її інститутів та історії. Демократія має вижити, навіть якщо нам доведеться зробити Алжир своїм новим домом."
 
- FRA_interwar_end_interim_governrment:0 "Покінчити з тимчасовим урядом"
+ FRA_interwar_end_interim_governement:0 "Покінчити з тимчасовим урядом"
  FRA_interwar_end_interim_governement_desc:0 "Ми повинні переосмислити основи нашої держави, тепер, коли ми вигнані з нашої батьківщини."
 
+ FRC_socialist_provisional_government:0 "Socialist Provisional Government" # (!)
+ FRC_socialist_provisional_government_desc:0 "The new Paris government must be formed quickly to unite the socialist movements against the French liberals who have established their stronghold in the south of the country."
+
+ FRC_question_of_north_africa:0 "Question of North Africa"
+ FRC_question_of_north_africa_desc:0 "French nationalists have retreated across the Mediterranean in the hope of establishing a second government. While this is unacceptable, we must consider the deplorable state of France. Is this the right time to continue the war?"
+
+ FRC_marine_de_liberation_du_peuple:0 "Marine de libération du peuple"
+ FRC_marine_de_liberation_du_peuple_desc:0 "The People's Liberation Navy is the new name for the French Navy. Severely weakened by the war, then the civil war, it must be reconstituted. The question of its funding must be addressed, especially in the event of an intervention in Algeria."
+
+ FRC_pas_de_calais_occupation_pladoyer:0 "Pas-de-Calais Pladoyer"
+ FRC_pas_de_calais_occupation_pladoyer_desc:0 "A large part of northern France has been torn away and transferred to [29.OWNER.getName]. This situation is shameful and deprives France of its industrial base. While German claims to Alsace-Lorraine are now indisputable, those to the rest of the territory must be fought!"
+
+ FRC_follow_the_swiss_system:0 "Follow the Swiss System"
+ FRC_follow_the_swiss_system_desc:0 "Swiss militias are an excellent compromise between a professional and a popular army. The militiamen are committed citizens trained in the essentials, capable of defending themselves and mobilizing en masse. Modernizing the Swiss conscription system could be a solution for the future here in France."
+
+ FRC_confiscate_aristocratic_assets:0 "Confiscate Aristocrats Assets"
+ FRC_confiscate_aristocratic_assets_desc:0 "The popular uprisings drove many workers to invade the mansions, villas, and castles belonging to wealthy landowners in order to seize their valuable assets. The state must recover a large portion of this windfall to finance the reform of the socialist state."
+
+ FRC_moderate_revolutionnary_courts:0 "Moderate Revolutionnary Courts"
+ FRC_moderate_revolutionnary_courts_desc:0 "Numerous wild tribunals have sprung up across the country, arbitrarily trying citizens accused of being linked to capitalist forces. These citizen initiatives are causing unacceptable excesses that the state must moderate."
+
+ FRC_great_war_experience:0 "Great War Experience"
+ FRC_great_war_experience_desc:0 "France is a great industrialized nation, and it would be regrettable to fall into a disorganized guerrilla war against an adversary who is not superior to us. Instead, we should tighten the control of the socialist general staff over our forces and include the militias in the regular forces."
+
+ FRC_limit_jacobins_influence:0 "Limit Guesdists Influence"
+ FRC_limit_jacobins_influence_desc:0 "Several movements on the far left of our socialist union desire a total and permanent revolution, calling for the destruction of any notion of statehood, the declaration of war on Germany, and the purging of French people hostile to our cause. We cannot give such people any influence or importance."
+
+ FRC_dissolve_the_partliament:0 "Dissolve the Parliament"
+ FRC_dissolve_the_partliament_desc:0 "Parliament is a tool of the bourgeoisie that offers only an illusion of progress in the service of the aristocracy. In order to regain control over the decision-making process, the provisional government must dissolve parliament, destroy it, and build a new legislative instrument."
+
+ FRC_jacobin_favored:0 "Jacobins Favored"
+
+ FRC_syndical_federalism:0 "Syndical Federalism"
+ FRC_syndical_federalism_desc:0 "The supreme authority must be owned by the workers and the government must have a limited legislative power. The objective of the next government is to form syndicalist comittee in the countryside in other to manage the local law, industry and security in semi-autonomy."
+
+ FRC_centralist_dictatorship:0 "Jacobin Centralist Dictatorship"
+ FRC_centralist_dictatorship_desc:0 "To successfully carry out the proletarian revolution, we must establish a strong state apparatus, inspired by the Soviet revolutions. The Jacobins, Leninists, and Guedists represent the greatest visionaries with the project of a united and centralized nation."
+
+ FRC_charte_federale_du_travail:0 "Charte Fédérale du Travail"
+ FRC_charte_federale_du_travail_desc:0 "The Federal Labor Charter established a system of workers' councils within all companies in the country. These councils also extended to regional administrations, but also to the national level within trade union confederations."
+
+ FRC_workers_owned_factories:0 "Workers-Owned Factories"
+ FRC_workers_owned_factories_desc:0 "A large-scale nationalization effort must be undertaken within the state, with the aim of decentralizing and rationalizing the management of production tools. To maintain workers' control, industries must belong to them and be nationalized by union committees, which will have full control over them."
+
+ FRC_first_five_year_plan:0 "First Five Year Plan"
+ FRC_first_five_year_plan_desc:0 "The Great War and then the Civil War devastated the French economy. A large-scale industrialization plan, inspired by the Soviet Union, was to be implemented."
+
+ FRC_regional_production_program:0 "Regional Production Program"
+ FRC_regional_production_program_desc:0 "Local councils have a perfect knowledge of their territory and are best placed to define which projects can serve their region."
+
+ FRC_syndicalist_council_initiatives:0 "For next §YFive Years§!, regional syndicalist councils will launch §YIndustrialization Projects§! on their own initiative. §RWe will have no control over their projects.§!"
+
+ FRC_multiparty_state:0 "Multiparty State"
+ FRC_multiparty_state_desc:0 "In order to preserve the authenticity of the proletarian revolution, the different schools of thought must be preserved and respected. The government's job is to maintain unity within the socialist movements and prevent the emergence of a single central party."
+
+ FRC_wealth_reforms:0 "Wealth Reforms"
+ FRC_wealth_reforms_desc:0 "The new government is preparing long-awaited social reforms. The goal is to relieve workers of their hard labor, all financed by assets seized from Parisian aristocrats."
+
+ FRC_popular_labour_investment_law:0 "Popular Labour Investment Laws"
+ FRC_popular_labour_investment_law_desc:0 "To boost the development of businesses and workers' initiatives, we must reform the labor code and create and improve national investment, advisory and training institutions."
+
+ FRC_dissolve_workers_council_autonomy:0 "Dissolve Workers Council Autonomy"
+ FRC_dissolve_workers_council_autonomy_desc:0 "Civil war and widespread chaos have led to the emergence of unofficial councils independent of the government across much of rural France. To strengthen the party's authority, we must take control of these peasant initiatives and centralize and control decision-making in Paris."
+
+ FRC_proletarian_patriotism_act:0 "Proletarian Patriotism Act"
+ FRC_proletarian_patriotism_act_desc:0 "To ensure engaged communist youth, we must create a culture and environment in which they feel engaged and proud. Establishing public holidays, laws against religion, and promoting socialist art will help us achieve this."
+
+ FRC_socialist_education_decree:0 "Socialist Education Decree"
+ FRC_socialist_education_decree_desc:0 "The state must undertake a thorough reform of the education system so that French youth discover the true values of socialism, and not the distorted version taught by big capital and the colonialists."
+
+ FRC_comite_national_de_surveillance:0 "Comité National de Surveillance"
+ FRC_comite_national_de_surveillance_desc:0 "In order to maintain control over state reform and the preservation of the revolution, we are forced to establish a party police."
+
+ FRC_parti_revolutionnaire:0 "Le Parti Unique"
+ FRC_parti_revolutionnaire_desc:0 "With the anarchist elements eliminated and the moderates controlled and absorbed, we are in a position to build a single party, like the SFIO, but better controlled and directed. The single line of the party will be that of the Jacobin-Leninists inspired by the Soviet proletarian revolution."
+
+ FRC_war_effort_donations:0 "War Effort Donations"
+ FRC_war_effort_donations_desc:0 "We produced a large number of aircraft during the Great War, thousands of aircraft, many of which remained grounded, shot down, secretly repaired, and kept in private homes. There are also cases of models stolen or purchased in civilian versions. Combined with the many volunteer itinerant pilots, we can form additional squadrons from simple donations."
+
+ FRC_spawn_behind_ennemy_lines:0 "§YUnlock Decisions§! spawning partisans deep in ennemy lines."
+
+ FRC_war_in_france:0 "War in France"
+ FRC_war_in_france_desc:0 "The revolution in France will not be complete until we have taken control of the entire metropolis, including Algiers. We must march south and prepare our supporters throughout France to carry out guerrilla attacks on enemy lines."
+
+ FRC_all_french_campaign:0 "All-French Campaign"
+ FRC_all_french_campaign_desc:0 "In this great conflict between the French, we must work to preserve the war effort, but also the cohesion of the territory, we must win and maintain a large federation of communes united within a single state."
+
+ FRC_negotiate_separatist_support:0 "Negotiate Separatists Support"
+ FRC_negotiate_separatist_support_desc:0 "Many nations exist in France, and some only require official recognition from a humanist state like ours. We are not colonialists; we can agree to return their de jure territory to these citizens."
+
+ FRC_popular_recruitement_comittes:0 "Popular Recruitment Committees"
+ FRC_popular_recruitement_comittes_desc:0 "The formation of recruitment brigades in towns and villages is a crucial step in the expansion of the socialist army. We must find those who refuse to be drafted, but also mobilize potential young volunteers, whom we can motivate using various methods."
+
+ FRC_call_for_foreign_support:0 "Call for Foreign Support"
+ FRC_call_for_foreign_support_desc:0 "Other nations in Europe have freed themselves from Market Capitalism. We should seek their support in the civil war."
+
+ FRC_CGT_support:0 "CGT Support"
+ FRC_CGT_support_desc:0 "The CGT and various other trade union organizations support the workers' cause, which is intrinsically linked to the socialist government's struggle against imperialist and capitalist forces. These powerful movements are able to improve the performance of supporters, motivate industries, and support state propaganda."
+
+ FRC_emergency_mobilization:0 "Emergency Mobilization"
+ FRC_emergency_mobilization_desc:0 "To support the cause, we must mobilize all our engineers, commissars, and politicians to accelerate the provision of arms factories to protect the French Revolution from any aggression by the southern imperialists."
+
+ FRC_call_country_to_help:0 "Ask [FROM.getAdjective] Assistance"
+
+ FRC_crackdown_military_reserves:0 "Crackdown Military Reserves"
+ FRC_crackdown_military_reserves_desc:0 "After the Great War, the French army hid stockpiles in the northern French countryside, near Paris. These secret reserves could be used to our advantage."
+
+ FRC_exclusion_of_anarchist_elements:0 "Exclusion of Anarchist Elements"
+ FRC_exclusion_of_anarchist_elements_desc:0 "The most extreme elements, such as the Sorelians and anarchists, reject the construction of an authoritarian, centralized state, which limits our ambitions. In addition to undermining their influence by suppressing savage revolutionary movements, we must also isolate them politically, hunt them down, and eliminate them."
 
  FRA_interwar_great_patriotic_victory:0 "Велика соціал-патріотична перемога"
  FRA_interwar_great_patriotic_victory_desc:0 "Перемога у великій війні проти німецького ворога підтвердила перевагу наших цінностей і нашої соціалістичної системи. Тепер ми повинні зосередитися на відбудові цивільної промисловості Франції та створенні нової республіки в поєднанні з інноваційною соціалістичною економічною системою."
@@ -8359,7 +8383,7 @@
  USA_natural_bulwarks:0 "Природні бастиони"
  USA_natural_bulwarks_desc:0 "Наші кораблі - це наш природний бастион."
  USA_reformist_progressivism:0 "Реформістський прогресивізм"
- USA_reformist_progressivism_desc:0 "Ми сформуємо сучасний уряд, сучасну націю, сучасне суспільство!"
+ USA_reformist_progressivism_desc:0 "We have made vast strides in embracing progress. From business to government to even the human spirit, we are refining and purifying everything we can to unleash a golden age of efficiency. With all we have accomplished, there is no reason to change course." # (!)
  USA_american_reactionism:0 "Американський реакціонізм"
  USA_federal_reserve:0 "[Root.GetFederalReserveName]"
  USA_federal_reserve_standard:0 "Централізуйте банківську систему"
@@ -8370,12 +8394,13 @@
  USA_gold_reserve:0 "[Root.GetGoldReserveName]"
  USA_gold_reserve_standard:0 "Закон про золотий резерв"
  USA_gold_reserve_new_freedom:0 "Стабілізація валюти"
- USA_gold_reserve_desc:0 "Ха-ха, блискуче."
+ USA_gold_reserve_desc:0 "Although there are voices calling for currency to be disconnected from gold, we know that way lies madness. An unbacked currency has no real value. Therefore, we will ensure the Dollar is now and forever tied to our gold reserves, guaranteeing economic stability." # (!)
  USA_gold_reserve_wilson:0 "Щоб не дестабілізувати уряд, лідером країни не повинен бути президент Вудро Вільсон.\n\n"
  USA_interventionalism:0 "Велика дипломатія"
  USA_arsenal_department:0 "Департамент арсеналу"
  USA_arsenal_department_desc:0 "Окреме відомство буде активніше розвивати будівництво арсеналів."
  USA_old_neutrality_act:0 "Дипломатія протесту"
+ USA_old_neutrality_act_desc:0 "We remain disinterested in foreign misadventures. Unfortunately, the world appears insistent on embracing aggression and blood. As such, we will remind the globe of our beloved neutrality... while availing ourselves of the economic opportunity provided to our budding arms industry." # (!)
  USA_interventionalism_desc:0 "Сполучені Штати здатні та зобов’язані послабити стратегічного супротивника шляхом нанесення попередніх тактичних ударів."
  USA_underwood_tariff:0 "Тариф Андервуда"
  USA_underwood_tariff_desc:0 "Ми вводимо федеральний податок на прибуток і послаблюємо тарифи. Необхідно підняти економіку."
@@ -8405,11 +8430,11 @@
  USA_peoples_freedom:0 "Народна свобода"
  USA_peoples_freedom_desc:0 "Вільні неамериканські території. Ми брати, а не колоністи."
  USA_volunteer_act:0 "Закон про волонтерство"
- USA_volunteer_act_desc:0 "Війна за кордоном. Ми не будемо втручатися в неї безпосередньо. Але ми дамо можливість американським патріотам взяти в ній участь."
+ USA_volunteer_act_desc:0 "While the nation doesn't have the motivation to engage in brutal war, we are a nation that values freedom. If some of our citizens wish to go on foreign misadventures, that is their business. We will, however, enact a measure of oversight for both the safety of our citizens and perhaps to be more aware of global tidings." # (!)
  USA_american_reactionism_desc:0 "Якщо прогресивним людям дати волю, вони знищать спадщину батьків-засновників і незалежність нації."
  USA_federal_reserve_desc:0 "Реформуйте вільну банківську систему."
  USA_big_stick_diplomacy:0 "Закон про інтервенціонізм"
- USA_big_stick_diplomacy_desc:0 "Здається, хтось не розуміє, хто в Америці господар."
+ USA_big_stick_diplomacy_desc:0 "Those who yearn for peace must prepare for war. While there is little interest in getting caught up in European warmongering, that doesn't mean we can rest easy and count on the Atlantic to safeguard us from power-hungry nations. By presenting a strong front, we paradoxically make it less likely to be attacked. Furthermore, it would certainly not harm American interests if we were to cultivate friendlier governments across the world." # (!)
  USA_protest_diplomacy:0 "Акт про нейтралітет"
  USA_protest_diplomacy_desc:0 "Наше втручання в ту чи іншу кризу має пом'якшити запал агресора. Ми залякаємо найнахабніших."
  USA_the_storm_is_coming:0 "Шторм наближається"
@@ -8446,8 +8471,6 @@
  USA_labor_camps_desc:0 "Ми вирішили проблему індіанців..."
  USA_tax-free_weapons_act:0 "Закон про вільну від податків зброю"
  USA_arms_tax:0 "Закон про національну оборону"
- USA_dont_tread_on_me:0 "Не наступайте на мене"
- USA_dont_tread_on_me_desc:0 "Зачекайте, як працюватимуть суди ancap?"
  USA_international_conference_of_american_states: "Конференція держав Америки"
  USA_international_conference_of_american_states_desc: "Міжнародна конференція держав Америки."
  USA_protect_the_caribbean:0 "Захистіть Карибський басейн"
@@ -8599,17 +8622,18 @@
  USA_great_white_fleet_desc:0 "Експедиція нашого великого флоту добігає кінця. Тепер ВМС повинні зробити висновки з цього досвіду."
  USA_cruiser_transport_force:0 "Крейсер і транспортні сили"
  USA_marine_forces:0 "Сили морської піхоти"
- USA_washington_naval_treaty:0 "Вашингтонський морський договір"
  USA_support_ships:0 "Кораблі підтримки"
  USA_cw_triggered:0 "Друга американська громадянська війна"
  USA_war_against_germany:0 "Війна проти німецької агресії"
+ USA_war_against_germany_desc:0 "We can no longer turn a blind eye to the atrocities committed by the Central Powers and their leading nation, the German Empire. It is now clear the Kaiser would see the destruction of democracy and the enslavement of people rightfully seeking their own national self-determination. In the name of freedom, we declare war on the German Empire!" # (!)
  USA_liberia_focus:0 "Зосередьтеся на Ліберії"
  USA_liberia_focus_desc:0 "Свобода для Ліберії"
  USA_war_against_france:0 "Війна проти французької агресії"
+ USA_war_against_france_desc:0 "It has now become clear that this horrible war will never end because of Entente intransigence, specifically French madness. What could have been a regional war escalated into a global one when Framce chose to support the assassination of an innocent man at the hands of a murderous, small nation. In the name of justice, we must declare war on the French Republic!" # (!)
 
  brazil_focus:0 "Бразильське фокусне дерево"
  BRA_1910_elections:0 "Вибори 1910 року"
- BRA_1910_elections_desc:0 "У Бразилії не було таких виборів, які викликали розбіжності, як ці. Тоді як на інших виборах кандидати віддавали перевагу як у Сан-Паулу, так і в Мінас-Жерайс. На цих виборах колишній маршал Гермес да Фонсека підтримується президентом Ніло Песанья, а також популярний інтелектуал Руї Барбоза від Сан-Паулу ".
+ BRA_1910_elections_desc:0 "У Бразилії не було таких виборів, які викликали розбіжності, як ці. Тоді як на інших виборах кандидати віддавали перевагу як у Сан-Паулу, так і в Мінас-Жерайс, на цих виборах колишній маршал Гермес да Фонсека підтримується президентом Ніло Песанья, а також популярний інтелектуал Руї Барбоза від Сан-Паулу."
  BRA_aeroclube_do_brasil:0 "Аероклуб Бразилії"
  BRA_aeroclube_do_brasil_desc:0 "Aeroclube do Brasil був першою школою авіації, створеною в Бразилії, і другою у світі, якій передував лише "Aéro-Club de France". Була група іноземців, до складу якої входили Ролан Гаррос, Едмон Планшут і Ернесто Даріолі, а також італієць Джан Феліче Джіно, який везе з собою моноплан Блеріо. Авіація викликала величезне задоволення у людей і мала велику повагу у військових."
  BRA_industrial_outbreak:0 "Промисловий спалах"
@@ -8633,9 +8657,9 @@
  BRA_focus_fabrica_de_itajuba:0 "Fabrica de Itajubá"
  BRA_focus_fabrica_de_itajuba_desc:0 "Нам потрібно інвестувати в наші місцеві збройові заводи, такі як фабрика в Ітажубі."
  BRA_construction_effort:0 "Зусилля будівництва"
- BRA_construction_effort_desc:0 ""
+ BRA_construction_effort_desc:0 "Industrial growth and a population boom have lead to an increased demand for new buildings. We must gather the funds necessary for such ambitious projects." # (!)
  BRA_federal_center_for_technological_education:0 "Escola Normal de Artes e Ofícios"
- BRA_federal_center_for_technological_education_desc:0 ""
+ BRA_federal_center_for_technological_education_desc:0 "Technical schools shall lay the foundations for a new generation of academics, engineers and scientists." # (!)
  BRA_loan_from_us:0 "Позика від США"
  BRA_loan_from_us_desc:0 "Нам знадобиться позика від Сполучених Штатів для наших майбутніх проектів."
  BRA_electrification_of_the_estrada_de_ferro_central_do_brasil:0 "Електрифікація EFCB"
@@ -8643,11 +8667,11 @@
  BRA_madeira_mamore_railroad:0 "Залізниця Мадейра-Маморе"
  BRA_madeira_mamore_railroad_desc:0 "У Петрополісському договорі ми зобов’язуємося побудувати залізничне сполучення в обхід порогів на річці Мадейра. Це дозволить ефективно транспортувати товари з Болівії на ринки США та збільшить наші прибутки від гумового буму."
  BRA_politica_das_salvacoes:0 "Política das Salvações"
- BRA_politica_das_salvacoes_desc:0 ""
+ BRA_politica_das_salvacoes_desc:0 "Brazil is rife with infighting between elties and widespread poverty.The country must be united!" # (!)
  BRA_military_interventions:0 "Військові інтервенції"
  BRA_military_interventions_desc:0 "Наша країна страждає від олігархів і повстанців, пряме військове втручання може вирішити це."
  BRA_renegotiation_of_the_external_debt:0 "Перегляд зовнішнього боргу"
- BRA_renegotiation_of_the_external_debt_desc:0 ""
+ BRA_renegotiation_of_the_external_debt_desc:0 "We saw how the Great Powers forced Venezuela to settle its debts with them in 1902. We cannot risk such a thing happening to us." # (!)
  BRA_republic_of_the_sword:0 "Друга Республіка Меча"
  BRA_republic_of_the_sword_desc:0 "Завдяки успішному втручанню в держави, де панує олігархія, військова диктатура, відома як Республіка Меча, може бути відроджена."
  BRA_vocational_technical_school:0 "Професійно-технічне училище"
@@ -8663,7 +8687,7 @@
  BRA_federal_army:0 "Федеральна армія"
  BRA_federal_army_desc:0 ""
  BRA_join_germany:0 "Приєднатися до Німеччини"
- BRA_join_germany_desc:0 "Diplomatic relations with France have remained frosty ever since the invasion of Amapa in 1895, and the Young Turk clique of officers have made." # (!)
+ BRA_join_germany_desc:0 "Diplomatic relations with France have remained frosty ever since the invasion of Amapa in 1895, and the Young Turk clique of officers have made headway influencing the government. Its time Brazil assert itself as a major power." # (!)
  BRA_claim_french_guiana:0 "Вимагати Французьку Гвіану"
  BRA_claim_french_guiana_desc:0 "Кордон Бразилії та Французької Гвіани завжди був спірним, що призвело до так званого питання Амапи. У 1895 році в акті відвертої агресії французи вторглися в провінцію Амапа. Хоча це вторгнення було відбито, Гвіана по праву є Бразильський."
  BRA_punish_the_revolters:0 "Покарати заколотників"
@@ -8683,11 +8707,11 @@
  BRA_openly_support_the_monarchist_movement:0 "Відкрито підтримайте монархічний рух"
  BRA_openly_support_the_monarchist_movement_desc:0 "While restoring the monarchy through force of arms failed miserably, perhaps it can suceed electorally, by confronting the rubber barons and exploiting the failures of the republican government."
  BRA_social_reforms:0 "Соціальні реформи"
- BRA_social_reforms_desc:0 "The birth of the republic didnt bring the social and economic change many had hoped for, instead resulting in the country falling under tyrants and selfish oligarchs. We must continue the work Emperor Pedro II's daughter Isabel began in 1888." # (!)
+ BRA_social_reforms_desc:0 "The birth of the Republic didnt bring the social and economic change many had hoped for, instead resulting in the country falling under tyrants and selfish oligarchs. We must continue the work Emperor Pedro II's daughter Isabel began in 1888." # (!)
  BRA_contain_the_rubber_barons:0 "Стримувати гумових баронів"
  BRA_contain_the_rubber_barons_desc:0 "Гумовий бум і пов’язана з ним потреба у великій робочій силі має значний негативний вплив на корінне населення Бразилії. Рабство та систематична жорстокість широко поширені. Це потрібно зупинити."
  BRA_never_another_encilhamento:0 "Ніколи більше Encilhamento"
- BRA_never_another_encilhamento_desc:0 "Енсільяменто був економічною бульбашкою, яка процвітала наприкінці 1880-х і на початку 1890-х років. Це було спричинено тодішнім міністром фінансів Руї Барбозою. Ми повинні гарантувати громадськості, що така помилка більше не повториться."
+ BRA_never_another_encilhamento_desc:0 "Енсільяменто був економічною бульбашкою, яка процвітала наприкінці 1880-х і на початку 1890-х років. Це було спричинено тодішнім міністром фінансів Руї Барбозою. Ми мусимо запевнити громадськість, що така помилка більше не повториться."
  BRA_federalism:0 "Федералізм"
  BRA_federalism_desc:0 "Федеративна держава із гарантованими політичними свободами — це найкращий спосіб керування такою країною, як Бразилія."
  BRA_obligatory_military_service:0 "Обов'язкова військова служба"
@@ -8711,7 +8735,7 @@
  BRA_vickers_artillery:0 "Артилерія Віккерса"
  BRA_vickers_artillery_desc:0 "Vickers is one of the best arms companies in the world. We shall buy their much vaunted artillery." # (!)
  BRA_the_young_turks:0 "Молоді турки"
- BRA_the_young_turks_desc:0 "The Young Turks was the designation by which Brazilian officers who received military training in Germany became known. Perhaps it's time we listened to their advice and reorganie the army on the Prussian model, as our neighbours have done." # (!)
+ BRA_the_young_turks_desc:0 "The Young Turks was the designation by which Brazilian officers who received military training in Germany became known. Perhaps it's time we listened to their advice and reorganise the army on the Prussian model, as our neighbours have done." # (!)
  BRA_communications_units:0 "Одини зв'язку"
  BRA_communications_units_desc:0 ""
  BRA_army_reform:0 "Реформа армії"
@@ -8725,9 +8749,9 @@
  BRA_first_military_aviator:0 "Перший військовий авіатор"
  BRA_first_military_aviator_desc:0 "Рікардо Кірк був першим офіцером бразильської армії, який навчився пілотувати літаки. Він закінчив École d´Aviation d´Étampes 22 жовтня 1912 року. Коли він повернувся до Бразилії, він був одним із засновників Бразильської авіації Аероклуб, куди його призначили технічним директором."
  BRA_santos_dumonts_inventions:0 "Винаходи Сантоса-Дюмона"
- BRA_santos_dumonts_inventions_desc:0 ""
+ BRA_santos_dumonts_inventions_desc:0 "A pioneer of both heavier than air and lighter than air travel, Alberto Santos-Dumont has become a figure of national pride. We shall give him all the funding he needs to carry out his vision." # (!)
  BRA_balloons_and_dirigibles:0 "Повітряні кулі та дирижаблі"
- BRA_balloons_and_dirigibles_desc:0 ""
+ BRA_balloons_and_dirigibles_desc:0 "The advent of lighter than air travel, pioneered in Germany has great potential for both civilian and military use." # (!)
  BRA_heavier_than_air_craft:0 "Літаки, важчі за повітря"
  BRA_heavier_than_air_craft_desc:0 ""
  BRA_cruiser_effort:0 "Крейсерське зусилля"
@@ -8755,7 +8779,7 @@
  BRA_recover_cisplatina:0 "Повернути цисплатину"
  BRA_recover_cisplatina_desc:0 "Договір у Монтевідео був помилкою. Провінція Цисплатіна повинна бути частиною Бразилії."
  BRA_rebuild_the_imperial_navy:0 "Відновити Імперський флот"
- BRA_rebuild_the_imperial_navy_desc:0 "Нинішній бразильський флот — ніщо в порівнянні зі славою імперського флоту! Ми повинні повернути військово-морську силу, яку знищив республіканський уряд."
+ BRA_rebuild_the_imperial_navy_desc:0 "Нинішній бразильський флот — ніщо в порівнянні зі славою Імперського флоту! Ми повинні повернути військово-морську силу, яку знищив республіканський уряд."
  BRA_join_britain:0 "Приєднатися до Британії"
  BRA_join_britain_desc:0 "We have been close to the Entente for quite some time,with Britain investing heavily in our country. It is only natural we align ourselves with them."
  BRA_suppress_riograndense_federalists:0 "Придушити федералістів Ріогранденсе"
@@ -8795,7 +8819,7 @@
  BRA_aid_the_poor:0 "Допомога бідним"
  BRA_aid_the_poor_desc:0 "Бразильське населення постраждало від великого голоду під час олігархічного режиму, допомога їм є нашою відповідальністю."
  BRA_political_commissars:0 "Політичні комісари"
- BRA_political_commissars_desc:0 ""
+ BRA_political_commissars_desc:0 "To counter reactionary tendecies within the army commissars shall be part of each unit." # (!)
  BRA_expand_the_mines:0 "Розширити шахти"
  BRA_expand_the_mines_desc:0 "Індустріалізація вимагає ресурсів."
  BRA_destroy_reactionists:0 "Викорінити реакціонерів"
@@ -8826,8 +8850,8 @@
  ENG_3_Bulldog_Triumphant_desc:0 "Ооооооо, так!"
  ENG_3_Firm_Hand:0 "Тверда рука"
  ENG_3_Firm_Hand_desc:0 "Британія, в якій ми знаходимося сьогодні, не та, що була десять років тому. Нестримна підозра, соціалістична агітація, партизани, руїни... Англія очікує твердої руки."
- ENG_3_Scottish_Rebellion:0 "Угода з шотландцями"
- ENG_3_Scottish_Rebellion_desc:0 "Шотландці, які криваво підскочили, лають наше лайно"
+ ENG_3_scottish_referendum:0 "Scottish Referendum" # (!)
+ ENG_3_scottish_referendum_desc:0 "After a long struggle, Britain has finally been liberated by the hands of its workers. Yet, in the northern land of Scotland, the desire for independence burns like an unquenchable ember. The dedicated struggle of Scottish workers and militias during the civil war made a significant contribution to the revolutionary victory, and now it is time to heed their voices. The Congress of Trade Unions must respect Scotland's right to self-determination and prepare for a referendum as the first step towards determining the future of our new Workers' Republic. This will be a historic test to affirm the true will of the people and prove that the revolutionary cause is not merely for England alone." # (!)
  ENG_3_accept_socialist_refugees:0 "Прийняти соціалістичних біженців"
  ENG_3_accept_socialist_refugees_desc:0 "У Шотландії є багато лояльних соціалістів. Ми продемонструємо нашу солідарність і дозволимо цим чудовим людям перетнути кордон і приєднатися до нас."
  ENG_3_His_Majestys_Loyal_Secret_Police:0 "Вірна поліція Його Величності"
@@ -10137,7 +10161,7 @@
  AUH_fruits_of_open_door_desc:0 "Зв'язки Імператора дозволяють нам укладати контракти з великими компаніями за значно зниженими цінами. Ця можливість дозволить нам наздогнати промисловий рівень інших великих держав. Однак ми повинні бути обережними, щоб не стати надто залежними на лобі...\n§Насправді є §Y[?AUH_corruption_var_plain]§! балів.§!"
 
  AUH_handle_partnership:0 "Керувати партнерством"
- AUH_handle_partnership_desc:0 ""
+ AUH_handle_partnership_desc:0 "Our various partnerships with the industrialist of the Empire shall soon prove fruitful. However they might take advantage of it." # (!)
  AUH_intensive_lobbying:0 "Інтенсивне лобіювання"
  AUH_intensive_lobbying_desc:0 "Лобісти стають все більш впливовими в австрійській політиці. Хоча вони дещо взаємодіють, вони мають значний досвід."
  AUH_carte_blanche_to_lobbies:0 "Карт-бланш для лобі"
@@ -10147,14 +10171,14 @@
  AUH_research_grants:0 "Гранти на дослідження"
  AUH_research_grants_desc:0 "Giving funds to universities for various fields could prove useful longterm, and potentially help us on the battlefield..." # (!)
  AUH_new_markets:0 "Нові ринки"
- AUH_new_markets_desc:0 ""
+ AUH_new_markets_desc:0 "It's time we looked to new markets outside of Europe, and reduce our dependance on Germany. While Austria is not a strong commercial power, this shall change." # (!)
  has_invested_in_fokker:0 "Інвестував у Fokker"
  has_invested_in_vulcan:0 "Інвестував у Vulcan Werke AG"
  AUH_german_ties:0 "Німецькі зв'язки"
  AUH_german_ties_desc:0 "Це цілком логічно продовжувати наш давній альянс з Німеччиною. Їхня промислова могутність нам дуже допоможе."
  AUH_new_lobbying_decisions:0 "Розблокує §YНові рішення§!, щоб доручати нові проекти §Cпромисловцям§!."
  AUH_economic_liberisation:0 "Економічна лібералізація"
- AUH_economic_liberisation_desc:0 ""
+ AUH_economic_liberisation_desc:0 "The Austrian School of economics is built on the idea of the individual and a laissez-faire approach to the economy. What better way to bring prosperity to Austria than an economic school developed in our own nation?" # (!)
  AUH_propose_arms_factory_construction:0 "Запропонувати будівництво збройового заводу"
  AUH_convert_civilian_planes:0 "Конвертувати цивільні літаки"
  AUH_stimulate_economy:0 "Стимулювати економіку"
@@ -10391,6 +10415,8 @@
  GULF_ask_for_british_destroyers_desc:0 "As Britain is the predominant naval power of the World, they possess a grand fleet with definitely have some old ships to spare. By asking nicely, perhaps they can donate an old ship or two to our small teeny tiny country." # (!)
  GULF_just_in_case:0 "Just in Case" # (!)
  GULF_just_in_case_desc:0 "Indeed we are planing on securing our nation through diplomacy. Yet in case our enemies come knocking at our door with their fancy ships, we need a plan ready just in case. Through improving our naval tactics and fortifying our shores, we can be ready for outside invasions." # (!)
+ GULF_join_jihad:0 "Join The Jihad" # (!)
+ GULF_join_jihad_desc:0 ""
 
  #південноросійськаармія
  SRA_ice_march:0 "Крижаний марш"
@@ -10596,7 +10622,7 @@
  WHI_deal_with_germany:0 "Угода з Німеччиною"
  WHI_deal_with_germany_desc:0 "Взаємодія з Німеччиною за принципом "ворог мого ворога — мій друг» відкриває канал для стратегічної співпраці та ресурсів, потенційно схиляючи терези на нашу користь."
  WHI_ask_for_humanitarian_aid:0 "Попросити гуманітарну допомогу"
- WHI_ask_for_humanitarian_aid_desc:0 "тяжке становище нашого народу в ці часи вимагає пошуку гуманітарної допомоги. Міжнародна допомога може полегшити страждання та зміцнити нашу позицію серед населення".
+ WHI_ask_for_humanitarian_aid_desc:0 "Тяжке становище нашого народу в ці часи вимагає пошуку гуманітарної допомоги. Міжнародна допомога може полегшити страждання та зміцнити нашу позицію серед населення".
  WHI_ask_for_weapons:0 "Попросити зброю"
  WHI_ask_for_weapons_desc:0 "Безпека зброї має вирішальне значення для нашого подальшого опору. Запит на зброю від співчуваючих націй допоможе нам оснастити наші сили, щоб краще протистояти більшовицькій загрозі."
  WHI_ask_for_loans:0 "Попросити позики"
@@ -10826,7 +10852,7 @@
  NWA_prepare_for_attack_desc: "Тепер, коли більшовиків було зупинено і ми отримали підтримку від Естонії та інших союзників, ми підготуємо наш наступ, щоб звільнити Петроград і нарешті врятувати Росію від червоної чуми."
  NWA_prepare_for_attack_tt: "Ми відновимо контроль над нашими військами"
  NWA_ensure_the_baltic_support: "Забезпечити підтримку від [UBD.GetNameDef]"
- NWA_ensure_the_baltic_support_desc: "Незважаючи на те, що ми отримали велику підтримку від німців, ми, швидше за все, самі не досягнемо Петрограда, і тому, щоб забезпечити успіх нашої атаки, ми повинні бути впевнені, що [UBD.GetNameDef] і їхні армія нам допоможе в найгіршому сценарії."
+ NWA_ensure_the_baltic_support_desc: "Незважаючи на те, що ми отримали велику підтримку від німців, ми, швидше за все, самі не досягнемо Петрограда. Тому, щоб забезпечити успіх нашої атаки, ми повинні бути впевнені, що [UBD.GetNameDef] і їхні армія нам допоможе в найгіршому сценарії."
  NWA_glorious_march_to_petrograd: "Наш славний похід до Петрограда"
  NWA_glorious_march_to_petrograd_completed_tt: "Завершено фокус §Ваш славний похід на Петроград§!"
  NWA_glorious_march_to_petrograd_tt: "Один із двох наступних фокусів у цій гілці буде завершено відповідно до успіху нашої атаки."
@@ -11183,10 +11209,11 @@
  navy_tree_shortcut:0 "Військово-морський флот"
  air_tree_shortcut:0 "Повітряні сили"
  economic_tree_shortcut:0 "Економіка"
- Foreign_politics_tree:0 "Зовнішня політика"
- inner_politics_tree_shortcut:0 "Внутрішня політика"
+ inner_politics_tree_shortcut: "Внутрішня політика"
  colonial_tree_shortcut:0 "Колонії"
- wartime_tree_shortcut:0 "Велика війна"
+ wartime_tree_shortcut: "Політика воєнного часу"
+ foreign_policy_tree_shortcut: "Зовнішня політика"
+ postwar_tree_shortcut: "Післвоєнна політика"
 
  MOR_french_loan:0 "French Loan"
  MOR_french_loan_desc:0 "It is impossible to establish a stable budget without additional funds. France has shown itself open to authorizing us a loan of several hundred million francs to revive our economy. Due to the proximity of our governments, we should not receive refusals."
@@ -11279,6 +11306,7 @@
  MOR_call_izayan_troops:0 "Call Izayan Troops"
  MOR_call_izayan_troops_desc:0 "Based the Atlas Mountains, the Izayan tribe is made up of powerful elite warriors who could be useful to us in reconquering contested areas... If we manage to convince them to help us."
  MOR_authorized_nzala:0 "Authorized Nzala"
+ LBA_tribal_resistance: "Опір племен" # ((#))
  LBA_intensified_guerrila:0 "Intensified Guerrila"
 
  MOR_new_army_reform:0 "New Army Reform"
@@ -11351,3 +11379,12 @@
  MOR_second_army_reform_desc:0 "Further reform is needed to bring our army up to the level of those in Europe, again with the help of foreign military advisers capable of teaching us the secrets of modern warfare."
  MOR_european_style_army:0 "European Style Army"
  izayan_tribes_allied:0 "Izayan Tribe Allied"
+
+ MOR_modernize_al_makina_arsenal:0 "Modernize Al-Makina Arsenal"
+ MOR_modernize_al_makina_arsenal_desc:0 "The Al-Makina Arsenal in Fez was built in the 1880s by Italian engineers and has since operated at a relatively slow rate of five rifles per day, distributed among the Makzhen, the army, and private tribal buyers. In other words, the factory is underutilized and its production is not reserved for us. By modernizing the machinery and increasing production rates, we could benefit from a dedicated production line."
+
+ FRA_berber_dahir:0 "Berber Dahir"
+ FRA_berber_dahir_desc:0 "In order to gain the support of the Berber populations of the south and north, the new administration plans to remove them from the religious jurisdiction of Sharia law, guaranteeing them a judgment under French law."
+
+ MOR_press_for_saoura:0 "Press For Saoura"
+ MOR_press_for_saoura_desc:0 "It'd be much more beneficial for all parties if Saoura was transfered to us, so we could properly rule the local Muslims!"
