@@ -9653,7 +9653,7 @@
  FRA_salary_limitation_act:0 "Закон про обмеження зарплати"
  FRA_salary_limitation_act_desc:0 "Закон, запропонований §YМорісом Торезом§! визначає формулу розрахунку, яка обмежує максимальну зарплату в компанії на основі її прибутку, кількості працівників і найнижчої зарплати. Щоб продовжити це в найпростішій формі, він обмежує максимальну зарплата в 25 разів перевищує найнижчу зарплату в компанії."
 
- DEN_ICE_act_of_union:0 "@DEN @ICE Danish-Icelandic Act of Union" # (!)
+ #DEN_ICE_act_of_union: "@DEN @ICE Дансько-ісландський акт про унію"
  FRA_calimites_exceptional_fundings:0 "Допомога жертвам клімату"
  FRA_calimites_exceptional_fundings_desc:0 "Законопроєкт, запропонований прем’єр-міністром §YАрістідом Бріаном§! на суму 500 000 франків, спрямований на допомогу фермерам, які постраждали від кліматичних змін. Друге виділення 1 000 000 франків також планується прийти на допомогу жертв січневої повені 1910 р.."
 
@@ -9725,7 +9725,7 @@
  FRA_popular_liberal_action_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?popular_liberal_action|Y0]§R seats.§!"
  FRA_far_right_leave_coalition: "£parliament_party_icon|[?v] §LНаціоналісти§! покинуть нашу §YКоаліцію§!, через що ми втратимо [?nationalist|Y0] §Rмісць§!."
 
- DEN_ICE_act_of_union:0 "@DEN @ICE датсько-ісландський акт про союз"
+ DEN_ICE_act_of_union: "@DEN @ICE Дансько-ісландський акт про унію"
 
  SFIO_allied: "Перебуває в коаліції з£parliament_party_icon|1 §RФСРІ§!"
  radical_party_allied: "Перебуває в коаліції з£parliament_party_icon|3 §CРадикально-соціалістичною партією§!"

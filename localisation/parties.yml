@@ -1235,17 +1235,17 @@
  #URG_communism_party:0 "PSU"
  #URG_communism_party_long:0 "Partido Socialista del Uruguay"
 
- #VEN_neutrality_party:0 "Gobierno Militar"
+ VEN_neutrality_party:0 "Gobierno Militar"
  VEN_fascism_party:0 "Gobierno Militar"
- #VEN_democratic_party:0 "Partido Liberal"
+ VEN_democratic_party:0 "Partido Liberal"
 
- PRU_fascism_party:0 "Junta Militar"
- PRU_communism_party:0 "PSP"
- PRU_communism_party_long:0 "Partido Socialista del Perú"
- PRU_democratic_party:0 "Partido Demócrata"
- PRU_neutrality_party:0 "Partido Civil"
- PRU_democratic_reformist_party:0 "PDR"
- PRU_democratic_reformist_party_long:0 "Partido Democrático Reformista"
+ #PRU_fascism_party:0 "Junta Militar"
+ #PRU_communism_party:0 "PSP"
+ #PRU_communism_party_long:0 "Partido Socialista del Perú"
+ #PRU_democratic_party:0 "Partido Demócrata"
+ #PRU_neutrality_party:0 "Partido Civil"
+ #PRU_democratic_reformist_party:0 "PDR"
+ #PRU_democratic_reformist_party_long:0 "Partido Democrático Reformista"
 
  IRE_fascism_party:0 "War Office"
  #IRE_democratic_party:0 "BPÉ"
@@ -2265,8 +2265,8 @@
  ENG_secret_easter_egg_long:0 "Османський Уряд Англії"
  ENG_secret_easter_egg_com:0 "Турецька Адміністрація"
  ENG_secret_easter_egg_com_long:0 "Турецька Адміністрація Великої Британії"
- ENG_london_commune:0 "Дезорганізовані Республіканці"
- ENG_london_commune_long:0 "Автономна Зона Великого Лондона (GLAZ)"
+ ENG_london_commune_party:0 "Дезорганізовані Республіканці"
+ ENG_london_commune_party_long:0 "Автономна Зона Великого Лондона (GLAZ)"
  ENG_house_of_commons:0 "Палата Громад"
  ENG_house_of_commons_long:0 "Палата Громад"
  ENG_british_fascists:0 "БФ"
@@ -2901,9 +2901,6 @@
  URG_communism_party:0 "СПУ"
  URG_communism_party_long:0 "Соціалістична Партія Уругваю"
 
- VEN_neutrality_party:0 "Вінсентіанці"
- VEN_democratic_party:0 "Демократичні Дії"
-
  PRU_fascism_party:0 "Військова Хунта"
  PRU_communism_party:0 "СПП"
  PRU_communism_party_long:0 "Соціалістична Партія Перу"
@@ -3292,8 +3289,6 @@
  TZN_neutrality_party:0 "Губернаторство"
 
  TOG_neutrality_party:0 "Губернаторство"
-
- TZN_neutrality_party:0 "Губернаторство"
 
  CMR_neutrality_party:0 "Губернаторство"
 
