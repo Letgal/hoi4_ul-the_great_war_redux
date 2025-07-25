@@ -1179,35 +1179,37 @@
  CHI_constitutional_debate_desc:0 ""
  CHI_question_of_provincial_governments:0 "Питання урядів провінцій"
  CHI_question_of_provincial_governments_desc:0 ""
- CHI_local_support:0 "Локальна підтримка"
- CHI_local_support_desc:0 ""
- CHI_logistical_focus:0 "Зосередження на логістиці"
- CHI_logistical_focus_desc:0 ""
+ CHI_kmt_state_reform:0 "State Reform" # (!)
+ CHI_kmt_state_reform_desc:0 ""
+ CHI_focus_on_state_enterprises:0 "Focus on State Enterprises" # (!)
+ CHI_focus_on_state_enterprises_desc:0 ""
  CHI_railway_loans:0 "Націоналізація залізниць"
  CHI_railway_loans_desc:0 ""
  CHI_improve_railways:0 "Покращити залізниці"
  CHI_improve_railways_desc:0 ""
  CHI_build_supply_depots:0 "Створюйте склади постачання"
  CHI_build_supply_depots_desc:0 ""
- CHI_emergency_industry:0 "Промисловість надзвичайних ситуацій"
- CHI_emergency_industry_desc:0 ""
+ CHI_kmt_provincial_autonomy:0 "Extensive Provincial Autonomy" # (!)
+ CHI_kmt_provincial_autonomy_desc:0 ""
  CHI_develop_the_nation:0 "Розвивайте націю"
  CHI_develop_the_nation_desc:0 ""
- CHI_rapid_industrial_expansion:0 "Швидке промислове розширення"
- CHI_rapid_industrial_expansion_desc:0 ""
+ CHI_prosperity_and_constitution:0 "Prosperity and Constitution" # (!)
+ CHI_prosperity_and_constitution_desc:0 ""
  CHI_rural_reform:0 "Сільська реформа"
  CHI_rural_reform_desc:0 ""
  CHI_provincial_reform:0 "Провінційна реформа"
  CHI_provincial_reform_desc:0 ""
- CHI_ready_the_population:0 "Готуйте населення"
- CHI_ready_the_population_desc:0 ""
- CHI_bribe_northern_governors:0 "Підкуп північних губернаторів"
- CHI_bribe_northern_governors_desc:0 ""
- CHI_contact_yan_xishan:0 "Зв'язатися з Янь Сішанем"
- CHI_contact_yan_xishan_desc:0 ""
+ CHI_land_equality:0 "Equality On Lands" # (!)
+ CHI_land_equality_desc:0 ""
+ CHI_deal_with_beiyang:0 "North China Stablisation" # (!)
+ CHI_deal_with_beiyang_desc:0 "The traditional centre of China is North China. However, North China is also a place where deep traces of the Qing Dynasty remain, and it is the stronghold of the Beiyang warlords. If we do not resolve issues with them in the future, the future of our government will be bleak." # (!)
+ CHI_contact_yan_xishan:0 "Taiyuan Meeting" # (!)
+ CHI_contact_yan_xishan_desc:0 "Among the major clique stationed in Huabei, one that is different from the others and friendly to our government is Yan Xishan of Shanxi Province. It would be beneficial to form an alliance with him and establish an ally in Huabei in the future." # (!)
  CHI_contact_yan_xishan_tt:0 "\n§Y4 дивізії§! буде розгорнуто в Шаньсі на випадок громадянської війни."
- CHI_capital_is_nanking:0 "Капітал є Нанкінг"
- CHI_capital_is_nanking_desc:0 ""
+ CHI_capital_is_nanking:0 "Nanking Blues" # (!)
+ CHI_capital_is_nanking_desc:0 "Zhu Yuanzhang, Emperor Taizu of Ming, originally established the capital of China in Nanjing. When northern China was ravaged by barbaric outlanders, it was the lower reaches of the Yangtze River in southern China that became a refuge and a place of prosperity for the Han Chinese. Nanjing is the answer for our republic." # (!)
+ CHI_national_representatives_conference:0 "National Representatives Conference" # (!)
+ CHI_national_representatives_conference_desc:0 "It is impossible to subjugate all the people living across this vast land of China by force. Even ancient empires and numerous emperors ultimately had no choice but to co-opt local leaders and dispatch officials and inspectors to areas outside the central government and its immediate vicinity. Now, our efforts should also be limited to negotiating with them within the territory we recognise." # (!)
  CHI_national_revolution_army:0 "Національна революційна армія"
  CHI_national_revolution_army_desc:0 ""
  CHI_split_warlords:0 "Воєначальники розколу"
@@ -7881,7 +7883,7 @@
  FRC_war_effort_donations:0 "War Effort Donations"
  FRC_war_effort_donations_desc:0 "We produced a large number of aircraft during the Great War, thousands of aircraft, many of which remained grounded, shot down, secretly repaired, and kept in private homes. There are also cases of models stolen or purchased in civilian versions. Combined with the many volunteer itinerant pilots, we can form additional squadrons from simple donations."
 
- FRC_spawn_behind_ennemy_lines:0 "§YUnlock Decisions§! spawning partisans deep in ennemy lines."
+ FRC_spawn_behind_enemy_lines:0 "§YUnlock Decisions§! spawning partisans deep in enemy lines."
 
  FRC_war_in_france:0 "War in France"
  FRC_war_in_france_desc:0 "The revolution in France will not be complete until we have taken control of the entire metropolis, including Algiers. We must march south and prepare our supporters throughout France to carry out guerrilla attacks on enemy lines."
@@ -9476,8 +9478,8 @@
  BEL_invest_in_sillon_industriel:0 "Інвестуйте в \"Sillon Industriel\""
  BEL_invest_in_sillon_industriel_desc:0 "Промислова та гірничодобувна зона Нижньої Валлонії зосереджує значну частину вторинної промисловості Бельгії. Експлуатація родовищ має інтенсифікуватися, і наші зусилля мають зосередитися на стійкості цієї галузі."
 
- BEL_talks_with_the_ennemy:0 "Розмови з ворогом"
- BEL_talks_with_the_ennemy_desc:0 "Бельгійський народ став першою жертвою цієї жорстокої війни. Уряд, зокрема король, має знайти рішення за будь-яку ціну з ворогом. Контакти Альберта зі своїми двоюрідними братами та далеко за кордоном, в Італії, дозволили йому ініціювати стриманий обмін з будь-якою владою."
+ BEL_talks_with_the_enemy:0 "Розмови з ворогом"
+ BEL_talks_with_the_enemy_desc:0 "Бельгійський народ став першою жертвою цієї жорстокої війни. Уряд, зокрема король, має знайти рішення за будь-яку ціну з ворогом. Контакти Альберта зі своїми двоюрідними братами та далеко за кордоном, в Італії, дозволили йому ініціювати стриманий обмін з будь-якою владою."
 
  BEL_spa_conference:0 "Спа конференція"
  BEL_spa_conference_desc:0 "Після поразки Німеччини країни-переможці зустрілися в Бельгії, щоб обговорити, які репарації Німеччина має виплатити."

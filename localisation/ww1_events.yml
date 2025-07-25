@@ -2821,6 +2821,17 @@ ww1_france.527.a:0 "Надіслати листа до Кремля"
  ww1_france.624.d:0 "Amid growing political uncertainty and military dominance, one figure has emerged as the sole beacon of stability: Marshal Philippe Pétain. Revered as the 'Lion of Verdun', Pétain commands immense respect among the military, the conservative elite, and even the broader public. Seeing him as a more moderate and unifying figure than a ruling military council, the other generals have stepped back from political life. Pétain now stands alone at the head of the state, his authority rooted in both military triumph and national reverence. A new chapter begins — not of republic, but of order."
  ww1_france.624.a:0 "Marshal Pétain is France."
 
+ ww1_france.625.t:0 "Alsace-Lorraine Question"
+ ww1_france.625.d:0 "With the war between the British Empire and the German Empire raging, the General Staff is pushing the government to join the Commonwealth forces in the hope of leading a decisive offensive and retaking the territories lost in 1870. Although rushed, this entry into the war could surprise the OHL and offer us a strategic advantage."
+ ww1_france.625.a:0 "En avant!"
+ ww1_france.625.b:0 "I dont think so"
+
+ ww1_france.626.t:0 "France joins [ENG.getName]"
+ ww1_france.626.d:0 "The French government has announced the start of an operation to liberate Alsace-Lorraine, a territory lost to the Third Empire in 1870. The French general staff has clearly taken advantage of the ongoing war between the British and the Germans to attack the region, which they have claimed ever since, creating a new front in the west.\n\nOnly time will tell whether this rushed attack will shorten the fighting... or lengthen it."
+ ww1_france.626.a:0 "Concerning"
+ ww1_france.626.b:0 "We will teach them a lesson!"
+ ww1_france.626.c:0 "Forwards!"
+
 #БЕЛЬГІЯ
 ww1_belgium.1.t: "Зґвалтування Бельгії"
 ww1_belgium.1.desc: "Надійшли повідомлення, в яких описувалося відверте варварське поводження німців з бельгійським цивільним населенням. Передбачаючи партизанські атаки франків, яких насправді не існує, німецькі командири брали в заручники цивільне населення, коли вони проходили через міста та села, потім стріляти в заручників групами щоразу, коли гинуть німецькі солдати.\n\nЗвинувачують тіньових партизанів, звичайні випадки випадкових куль і дружнього вогню вже призвели до сотень убитих бельгійців, і з причин, які залишаються нез’ясованими, було спалено історичне місто та університет Лувена.\n\nТак само, як грабунки та вбивства, зґвалтування були широко поширені."
@@ -3106,6 +3117,10 @@ ww1_belgium.98.a: "Ми повинні їх зупинити"
  ww1_belgium.99.d:0 "The vote on the public pension law is a popular initiative which promises to bring many voters to the Liberal Party in the next elections. However, this law risks costing the state budget dearly, which causes some hesitation on the part of deputies from our own camp. At the same time, the Catholic party has clearly announced itself against the bill, which leaves us in uncertainty as to the passage of our proposal.\n\nThe only reliable way to obtain the guarantee of the vote is to ally with the socialists of the POB, who propose a common vote in exchange for a few modifications which do not change the structure of the bill. However, accepting their support risks offering them visibility that would not benefit us..."
  ww1_belgium.99.a:0 "We must secure the vote"
  ww1_belgium.99.b:0 "The POB cannot be trusted!"
+
+ ww1_belgium.100.t:0 "Defeat"
+ ww1_belgium.100.d:0 "With the end of the war in the West, the German Empire ended their military occupation, and settled a collaboration governement in Belgium."
+ ww1_belgium.100.a:0 "At least, we are still there"
 
 #БРАЗИЛІЯ
 ww1_brazil.1.t: "Вибори 1910 року: Гермес да Фонсека проти Руї Барбози"
@@ -7223,6 +7238,13 @@ ww1_china.216.t: "Уряд Гуанчжоу"
 ww1_china.216.d: "Рух за захист конституції здобув першу перемогу, взявши під свій контроль провінцію Гуандун. Тепер у Гуанчжоу було створено новий уряд Гоміньдану, який очолить Націоналістичну революцію в солідарності з Чень Цзюнміном."
 ww1_china.216.a: "Вансуй!"
 
+ ww1_china.217.t:0 "National Representatives' Conference" # (!)
+ ww1_china.217.d:0 "At the invitation of the government, all the major politicians, military figures, warlords, and other influential figures of [ROOT.GetNameDef] gathered in one place. At this meeting, which we named the National Representatives' Conference, we demanded that those gathered cooperate with government policies, while proposing that, in return, we would invest in each region and allow warlords to retain a certain degree of power as local forces. By doing so, we would be able to unify the various armies into the National Revolutionary Army and extend our administrative power to the local level so that taxes would be collected by the central government."
+ ww1_china.217.a:0 "Will this bring unity to China?"
+ ww1_china.220.t:0 "Problems In Our Sphere" # (!)
+ ww1_china.220.d:0 "Ultimately, the greatest threat to our republic lies within our own borders, in the form of numerous warlords and local factions. It is imperative that we find a way to control the greedy warlords who seek to overthrow the regime and seize power, as well as the local factions that are always seeking to secede from China. However, we must proceed with caution, as any misstep could lead to irreversible failure.\nIn any case, we were able to seize power largely thanks to their assistance, and without their strength, our regime cannot survive."
+ ww1_china.220.a:0 "Too many things to resolve..."
+
 ww1_china.222.t: "Доля Чан Кайші"
 ww1_china.222.d: "Ми отримали сумну звістку про те, що командний пункт нашого відважного полководця Чан Кайші, який очолює Національну революційну армію в боротьбі за Північну експедицію, підірвано ворожими снарядами. Ми ще не змогли підтвердити, правда це чи ні, але ми повинні продовжувати намагатися зв'язатися з Чіангом - це велика втрата без нього."
 ww1_china.222.a: "Це була фейкова новина."
@@ -10397,6 +10419,22 @@ ww1_england.275.t:0 "The Irish Delacres Independence"
 ww1_england.275.d:0 "As the British mainland became engulfed in the raging inferno of revolution and civil war, the island of Ireland, which had maintained a delicate relationship with England, began to experience a whirlwind of upheaval. Seizing upon England's chaotic situation, Irish nationalists in Dublin rose up and declared their severance from England.\nAcross the island of Ireland, sporadic clashes are now occurring, and movements to break free from English control or to redefine existing cooperative relationships are accelerating. Amidst the maelstrom of the British Civil War, all our resources and troops are concentrated on the mainland fronts, making any substantial military intervention or diplomatic pressure on Ireland virtually impossible."
 ww1_england.275.a:0 "For now we can't do anything with them."
 
+ ww1_england.276.t:0 "An opportunity to Strike"
+ ww1_england.276.d:0 "The war Russia is waging in central Europe promises to be difficult: its industry, the quality of its officers, and popular unrest limit the effectiveness of its army. To prevent Germany from tightening its grip on eastern resources and seizing Russia, we must intervene to reverse the course of events. At least, that's what the General Staff believes, even if it may seem hasty."
+ ww1_england.276.a:0 "No German Hegemony today, Sir!"
+ ww1_england.276.b:0 "We cant risk our empire!"
+
+ ww1_england.277.t:0 "British Intervention"
+ ww1_england.277.d:0 "The British government, led by Minister [ENG.getLeader], has officially declared war on the German Empire.\n\nIn a letter addressed to the nations, he describes the danger that victory of Germany would pose to European stability, as well as the immense resources and allies that German rivals would accumulate. He expresses his desire for a swift resolution, calling on the central empire to capitulate without delay to British terms."
+ ww1_england.277.a:0 "The Empire Strike"
+ ww1_england.277.b:0 "Imperialism at its peak..."
+ ww1_england.277.c:0 "Excellent!"
+
+ ww1_england.278.t:0 "Battle of France"
+ ww1_england.278.d:0 "The French offensive in Germany raised many questions within the British general staff. For many officers and experts, France was likely to be crushed by Germany in less than two years. The cabinet therefore proposed a military intervention aimed at forcing an end to this nascent conflict before it was too late. This was an opportunity to significantly weaken the German Empire, even if it was a premature offensive."
+ ww1_england.278.a:0 "No German Hegemony today, Sir!"
+ ww1_england.278.b:0 "We cant risk our empire!"
+
 #наведені нижче події стосуються Єгипту та розпаду Британії, і не всі стосуються безпосередньо Британії."
 ww1_england.52.t: "Єгипет відривається від нашого правління!"
 ww1_england.52.d: "Єгипетський султанат, який довгий час перебував під нашим протекторатом, відділився від нас і оголосив повну незалежність!"
@@ -10575,17 +10613,19 @@ ww1_england.149.a: "Нова Аддіс-Абеба (Луїзіана)"
 ww1_england.149.b: "Biloxi"
 ww1_england.149.c: "Мобільний"
 ww1_england.149.e: "Зберегти як є."
-ww1_england.151.t: "Повстання якобітів!"
-ww1_england.151.d: "Після нашого зміцнення влади у Великій Британії, здається, ми серйозно неправильно оцінили лояльність шотландців до революції. Вони піднялися і проголосили незалежність, і всі ознаки вказують на запрошення Рупрехта Баварського (загалом прийняв бути якобітським спадкоємцем престолу), щоб керувати ними."
-ww1_england.151.a: "Чи не ми мали справу з цим у 18 столітті?"
-ww1_england.151.b: "Громадянська війна вже взяла своє..."
-ww1_england.151.c: "ШОТЛАНДІЯ НАЗАВЖДИ!"
+ww1_england.151.t:0 "The Scottish Rebellion!" # (!)
+ww1_england.151.d:0 "It would seem we severely misjudged the Scots' loyalty to the revolution. The Scottish people rose up in rebellion due to political instability caused by our defeat in the Great War and the coup d'état."
+ww1_england.151.a:0 "Damn it!"
+ww1_england.151.b:0 "The war already took its toll..."
+ww1_england.151.c:0 "Rise, Scottish people!\n(Play as [SCO.GetNameWithFlag])"
 ww1_england.152.t: "Легітимізація держави"
-ww1_england.152.d: "Наша нова національна держава існує виключно за рахунок старих монархістів до революції. Ми повинні запросити спадкоємця якобітів, щоб забезпечити легітимність і стабільність нашій нації."
+ww1_england.152.d:0 "Our nascent nation, built upon the bedrock of Highlander traditions, quietly endures. These Highlanders, enraged by English revolutionaries, still cling to old monarchist ideals somehow. By inviting the Jacobite heir, we can secure vital legitimacy and stability for our state." # (!)
 ww1_england.152.a: "Рупрехт Баварський... ти станеш Робертом Шотландським!"
+ww1_england.152.b:0 "That's pretty ancient. Republic shall prevail." # (!)
 ww1_england.153.t: "Рупрехт їде до Шотландії!"
 ww1_england.153.d: "Шановний принц і військовий командувач Рупрехт фон Баварія був запрошений сьогодні стати королем новонародженого Шотландського королівства. Звичайно, німецький король у будь-якій точці світу вигідний нам. Однак це означає, що він повинен покинути свої обов'язки тут, у Німеччині, він має вільну волю, і він вирішив приєднатися до шотландського народу в його боротьбі проти соціалізму."
 ww1_england.153.a: "Успіхів, Рупрехте з Каледонії!"
+ww1_england.153.b:0 "Stop him at once!" # (!)
 ww1_england.154.t: "Виснаження під час Шотландської війни"
 ww1_england.154.d: "Війна за Шотландію тривала набагато довше, ніж передбачали наші військові експерти. Революція завдала більше шкоди, ніж передбачалося спочатку, і населення стає все більш буйним.\n\nУ нас просто немає ресурсів щоб продовжувати боротьбу, і навіть якби ми це зробили, нам все одно доведеться брати участь у жорстокій партизанської війні протягом наступних десятиліть."
 ww1_england.154.a: "Вибору небагато."
@@ -13966,14 +14006,14 @@ ww1_estonia.2.b: "Ні, ми не хочемо розривати наші ві�
 
 # АВСТРАЛІЯ
 ww1_australia.1.t: "[GetYear] Федеральні вибори в Австралії"
-ww1_australia.1.d: "Нова Ліберальна партія Співдружності, також відома як "Фьюжн», виступає проти Лейбористської партії на чолі з Ендрю Фішером."
-ww1_australia.1.a: ""The Fusion" переміг."
-ww1_australia.1.b: "Лейбористи стояли на своєму."
+ww1_australia.1.d: "Нова Ліберальна партія Співдружності, також відома як «Злиття», виступає проти Лейбористської партії на чолі з Ендрю Фішером."
+ww1_australia.1.a: "«Злиття перемогло."
+ww1_australia.1.b: "Лейбористи відстояли своє."
 ww1_australia.2.d: "На останніх виборах Ліберальна партія Співдружності на чолі з Куком отримала більшість в одне місце в Палаті представників над Лейбористською партією, однак лейбористи все ще мали більшість у Сенаті, вперше Він представив законопроект про скасування пільгового працевлаштування для членів профспілок на державній службі привід домагатися подвійного розпуску."
-ww1_australia.2.a: "Лейбористи завдають удару у відповідь."
+ww1_australia.2.a:0 "To the polls again!" # (!)
 ww1_australia.3.t: "Пенсія Фішера"
 ww1_australia.3.d: "У 1915 році здоров’я Фішера погіршилося, і він пішов у відставку з посади прем’єр-міністра та парламенту після того, як три дні був відсутній у парламенті без пояснення причин. Через три дні партія Лейбористів одноголосно обрала Біллі Г’юза лідером Федеральної парламентської партії."
-ww1_australia.3.a: "Біллі Хьюз, справжній робітник."
+ww1_australia.3.a: "Нова епоха при Біллі Хьюзі."
 ww1_australia.4.t: "Хьюза виключили з Лейбористської партії!"
 ww1_australia.4.d: "У відповідь на кампанію Г’юза щодо призову на військову службу 15 вересня 1916 року керівник Політичної лейбористської ліги Нового Південного Уельсу виключив його та інших провідних прихильників призову в Новий Південний Уельс із лейбористського руху.\nГ’юз залишився як лідер федеральної парламентської Лейбористської партії до тих пір, поки на зборах 14 листопада не буде висловлено недовіру подання проти нього було прийнято та 24 інших членів парламенту, включно з майже всіма талантами, вийшли, щоб створити нову партію, залишивши позаду 43 членів фракцій промисловців і юнионістів.\nТого ж вечора Хьюз подав заяву про відставку генерал-губернатору. отримав доручення сформувати новий уряд, і його рекомендації були прийняті."
 ww1_australia.4.a: "Нехай ті, хто думає як я, слідують за мною."
@@ -13982,7 +14022,7 @@ ww1_australia.5.d: "Хьюз і його послідовники перейме
 ww1_australia.5.a: "Не я вийшов з Лейбористської партії, партія вийшла з мене."
 ww1_australia.6.t: "Хьюз змушений піти у відставку!"
 ww1_australia.6.d: "Націоналісти втратили більшість на виборах і не мали іншого вибору, окрім як домовитися про коаліційну угоду з Партією країни. Однак лідер країни Ерл Пейдж дав зрозуміти, що угода не може бути укладена, якщо Хьюз не піде у відставку."
-ww1_australia.6.a: "Зачекайте...знову?"
+ww1_australia.6.a: "Тільки не знову..."
 ww1_australia.7.t: "Плебісцит призову 1916 р. — кампанія починається"
 ww1_australia.7.d: "Оголошення про плебісцит сколихнуло велику дискусію. Ми повинні продовжувати наполягати на підтримку громадськості, щоб забезпечити перемогу."
 ww1_australia.7.a: "Збільшити підтримку"
@@ -14000,11 +14040,11 @@ ww1_australia.10.d: "Плебісцит про призов на військо�
 ww1_australia.10.a: "Чудово!"
 ww1_australia.11.d: "Призовний плебісцит не пройшов. Результати: 51,61% за «ні» і 48,39% за «так»."
 ww1_australia.11.a: "Блін.."
-ww1_australia.12.t: "Британські королівські особи та армія хочуть втекти до Австралії!"
-ww1_australia.12.d: "Громадянську війну в Британії виграли комуністи. Лондон закінчився. Британська королівська сім’я, яка «мандрувала» Канадою з початку комуністичної революції, планувала взагалі залишитися в Канаді. Але Канада заборонила членів королівської сім’ї, і вони тепер готові втекти сюди, британські війська, які воюють у різних частинах країни, також сподіваються на масовий вихід."
-ww1_australia.12.a: "Ваша Величносте, ласкаво просимо."
-ww1_australia.12.b: "Забирайся з моєї країни"
-ww1_australia.13.d: "Соціалісти та республіканці розпочали революцію в Британії. Лондон упав, британський республіканський прапор гордо майорить над втраченим містом. Британські королівські особи та роялісти, які навіть не мали можливості протистояти цьому перевороту, здається, хочуть втекти до Австралії."
+
+ ww1_australia.12.t:0 "The Royal Family Seeks Refuge"
+ ww1_australia.12.d:0 "The civil war in Great Britain has ended with a Communist victory. With London having fallen, the Royal Family, who were 'touring' Canada during the revolution, have been denied permanent asylum there. They are now sailing for Australia, seeking refuge in the most distant Dominion. At the same time, remnants of loyalist British military units are seeking mass evacuation to our shores."
+ ww1_australia.12.a:0 "Your Majesty, Australia welcomes you."
+ ww1_australia.12.b:0 "They are not welcome here."
 
 ww1_australia.18.t: "Громадянська війна в Австралії"
 ww1_australia.18.d: "Зрештою розлючений натовп увірвався на склади, озброївся та захопив будівлю уряду. Армія також була в безладді. Щоб придушити повстання та повстання проти короля, генерал-губернатор і група військових лідери оголосили воєнний стан і правління так званих "білих кавалерів."
@@ -14013,16 +14053,16 @@ ww1_australia.18.b: "За короля та країну! \n(Грайте за �
 
 ww1_australia.22.t: "Автономна пропозиція Австралії?"
 ww1_australia.22.d: "Адміністрація [FROM.Capital.GetCapitalVictoryPointName] сказала, що хоче інтегрувати нас у свою націю як автономну державу. Оскільки ми пережили Велику війну, було б добре захищати Австралазію разом з ними."
-ww1_australia.22.a: "Добре."
-ww1_australia.22.b: "Залиште мене."
-ww1_australia.23.t: "Нова Зеландія відхилила"
+ww1_australia.22.a:0 "We accept their generous offer." # (!)
+ww1_australia.22.b:0 "We shall remain fully independent." # (!)
+ww1_australia.23.t: "Нова Зеландія відхиляє об'єднання"
 ww1_australia.23.d: "Адміністрація [FROM.Capital.GetCapitalVictoryPointName] сказала, що вони не будуть інтегруватися в нашу країну."
-ww1_australia.23.a: "Добре."
-ww1_australia.23.b: "Потім війна."
+ww1_australia.23.a:0 "A disappointing outcome." # (!)
+ww1_australia.23.b:0 "If they will not join us, they will be conquered." # (!)
 ww1_australia.24.t: "Революціонери в Австралії"
 ww1_australia.24.d: "Наслідки загального страйку в Британії поширилися на Австралію. Ветерани Великої війни, які ледь повернулися з полів битв, і робітники-фермери, спустошені економічною депресією, виплеснули свій стримований гнів. Вони заявили, Мельбурнської Комуни та спробували повалити уряд Домініону, але насправді вони не озброєні повстанці все, просто хаотичні збори розлючених мас."
-ww1_australia.24.a: "Збийте їх! Тепер керує губернатор..."
-ww1_australia.24.b: "Заспокойтеся, хлопці, це не триватиме вічно."
+ww1_australia.24.a:0 "Disperse them by force! The Governor will restore order." # (!)
+ww1_australia.24.b:0 "Patience. This unrest will not last." # (!)
  ww1_australia.26.t: "Переміщення столиці до Канберри"
  ww1_australia.26.d:0 "Today in the Federal Capital Territory, which was created in 1909 after much debate of where the capital of our nation should be, the name for our new capital has been announced. The name "Canberra" has been chosen and relocation of government buildings to the city and expansion of the city has begun immediately." # (!)
  ww1_australia.26.a: "Монументальний день для нашої держави!"
@@ -14033,11 +14073,11 @@ ww1_australia.24.b: "Заспокойтеся, хлопці, це не трив�
  ww1_australia.28.t:0 "The All-Australian Strikes" # (!)
  ww1_australia.28.d:0 "The defeat in the Great War and the turmoil within the British Empire left deep scars on Australian society. Unemployment, poverty, and profound dissatisfaction with the government's incompetence reached a boiling point, especially among workers, farmers, and war veterans. This simmering discontent ultimately erupted into a massive uprising. Throughout major cities, farmers and urban laborers united, launching simultaneous protests and armed revolts against the government, pushing the nation to the brink of paralysis. The capital territory itself was besieged by protestors, and the government faced imminent overthrow. Seeing that the situation could no longer be ignored, the Governor-General, in the name of the Crown, ordered the military to intervene. The Governor-General personally led the troops to suppress the rebellion."
  ww1_australia.28.a:0 "Worrying developments..."
- ww1_australia.28.b:0 "The empire collapsing."
- ww1_australia.29.t:0 "Australia In Chaos"
+ ww1_australia.28.b:0 "The Empire is collapsing."
+ ww1_australia.29.t:0 "Australia Descends into Chaos"
  ww1_australia.29.d:0 "The general strike that had shaken Australia for weeks has finally escalated into uncontrollable riots and revolution. In the streets, workers, farmers, and rebellious soldiers are clashing fiercely with government forces. Armed groups have seized control not only in major cities but also in rural areas. The government has virtually lost all control, and with all national functions paralyzed, Australia is now plunging into the maelstrom of a bloody civil war. Even the Governor-General's military intervention has met with fierce resistance, further worsening the situation. It seems the Red Tide is sweeping across even the most seemingly peaceful corners of the Empire."
- ww1_australia.29.a:0 "So that's the penal colony innit?"
- ww1_australia.29.b:0 "Unexpected development."
+ ww1_australia.29.a:0 "So that's the penal colony, is it?"
+ ww1_australia.29.b:0 "An unexpected development."
 
 #АФГАНІСТАН
 ww1_afghanistan.1.t: "Пропозиція від Центральних держав"

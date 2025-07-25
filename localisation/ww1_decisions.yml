@@ -299,9 +299,6 @@
  GER_prussia_reunite_germany_desc:0 "Батьківщина під нашим контролем і готова знову об'єднатися як єдина німецька нація!"
  GER_prussian_russian_withdrawal:0 "Вихід Антанти через німецьку окупацію"
  prussian_withdrawal:0 "Антанта вийшла з-під німецької окупації"
- GER_ludendorff_offensive:0 "Наступ Людендорфа"
- GER_ludendorff_offensive_desc:0 "Військова ситуація стає де несприятливішою. Якщо ми будемо так продовжувати, ми не зможемо більше терпіти. Якщо ми вирішимо почати повний наступ на укріпленому Західному фронті та досягти Парижа, столиці країни, ми можемо сісти за стіл мирного договору з більш вигідної позиції.\n§RAле, якщо цей наступ провалиться, ми можемо втратити все.§!"
- GER_ludendorff_offensive_tt:0 "§RЦе рішення може застосовуватися до [GER.GetNameDef]. Вибирайте важливо.§!"
  GER_demand_hessen:0 "Вимагати Гессен"
  GER_demand_hessen_desc:0 "На додаток до раніше окупованих територій, французи силою окупували Гессен і віддали його маріонеткову державу, Конфедерації Рейну. Ми можемо встановити дипломатичний контакт із Францією та щиро вимагати її повернення."
  GER_prussian_support_radicalism:0 "Підтримати радикалізм"
@@ -2089,7 +2086,8 @@
  CHI_KMT_attack_GZC:0 "Західна експедиція"
  CHI_ZHE_attack_FNG:0 "Взяти Нанкін"
  CHI_ZHE_attack_FNG_desc:0 "Гегемонія Чжілі розвалилася, і Фентянь загрожує. Єдиний вихід — взяти Нанкін і претендувати на нашу власну сферу на півдні."
- CHI_sell_some_railroad_bruh:0 "Продати концесію залізниці [FROM.GetName]"
+ CHI_KMT_local_investment:0 "Local Investment in [FROM.GetName]" # (!)
+ CHI_KMT_local_investment_desc:0 "Through a series of measures, such as improving the local environment and reorganising the administrative structure, we will satisfy local leaders and make residents more favourable towards our government." # (!):0 "Продати концесію залізниці [FROM.GetName]"
 
 
  TUR_OPDA_CURRENCY_TOOLTIP:0 "§o Курси валют §!\n§d------------------------------ ----------------------------§!\n§Y3%§! §v Фактор виробництва споживчих товарів =§! §Y0,295 Тисяча лір§!\n§d------------------------------------------ ---------------------§!"

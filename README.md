@@ -83,9 +83,13 @@
 + `ww1_designer`
 + `ww1_equip_air`
 + `ww1_flags`
++ `ww1_GER_bundesrat`
++ `ww1_germany`
++ `ww1_liman_affair`
 + `ww1_music`
 + `ww1_naval_classes`
 + `ww1_qing`
++ `ww1_romania`
 + `ww1_tank_modules`
 + `ww1_unit_limit`
 
