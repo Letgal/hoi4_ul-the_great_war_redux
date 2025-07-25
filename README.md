@@ -5,6 +5,8 @@
 
 ## Завершені файли
 + ~~`state_names`~~
++ `ww1_diplomacy`
++ `ww1_factions`
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
 + `ww1_war`
@@ -44,23 +46,16 @@
 + `ship_modules`
 + `superevent`
 + `tgwr_achievements`
++ `ww1_country_ideas`
 + `ww1_equipment`
++ `ww1_game_rules`
 + `ww1_modifiers`
++ `ww1_research`
 + `ww1_scripted_triggers`
 + `ww1_traits`
 
 ## Тільки старий переклад (оновити)
-+ `ww1_country_ideas`
-+ `ww1_designer`
-+ `ww1_diplomacy`
-+ `ww1_factions`
-+ `ww1_game_rules`
-+ `ww1_research`
-+ `ww1_unit_medals`
-+ `ww1_units`
-
 ### Папка `replace`
-+ `replace_characters`
 + `replace_equip_naval`
 + `replace_events`
 + `replace_focus`
@@ -92,9 +87,12 @@
 + `ww1_romania`
 + `ww1_tank_modules`
 + `ww1_unit_limit`
++ `ww1_unit_medals`
++ `ww1_units`
 
 ### Папка `replace`
 + `replace_buildings`
++ `replace_characters`
 + `replace_decisions`
 + `replace_effects`
 + `replace_equipment`

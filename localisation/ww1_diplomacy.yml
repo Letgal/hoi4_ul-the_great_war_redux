@@ -1,3 +1,6 @@
 ﻿# == (*) ==
- REVOKE_OFFER_MILACC_KVZhD_TT:0 "§RНеможливо відкликати [FROM.GetAdjective] доступ з Китайської Східної залізниці.§!"
- REVOKE_OFFER_MILACC_MANTESU_TT:0 "§RНеможливо відкликати [FROM.GetAdjective] доступ з Південно-Маньчжурської залізниці.§!"
+ REVOKE_OFFER_MILACC_KVZhD_TT: "§RНе можна скасувати [FROM.GetAdjective]ий доступ до Китайсько-Східної залізниці.§!"
+ REVOKE_OFFER_MILACC_CDE_TT: "§RНе можна скасувати [FROM.GetAdjective]ий доступ до Джібуті-Ефіопської залізниці.§!"
+ REVOKE_OFFER_MILACC_DKAEB_TT: "§RНе можна скасувати [FROM.GetAdjective]ий доступ до Німецької імперської абіссинської залізниці.§!"
+ REVOKE_OFFER_MILACC_SCHANTUNG_BAHN_TT: "§RНе можна скасувати [FROM.GetAdjective]ий доступ до залізниці Ціндао–Цзінань.§!"
+ REVOKE_OFFER_MILACC_ARMENIAN_RAILWAY_TT: "§RНе можна скасувати [FROM.GetAdjective]ий доступ до залізниці Баку–Карс.§!"
