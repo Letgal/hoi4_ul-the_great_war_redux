@@ -1,5 +1,11 @@
 ﻿# == (*) ==
 # unit leader traits
+ trait_trench_raider:0 "Trench Raider" # (!)
+ trait_trench_raider_desc: ""
+ rail_director:0 "Railway Director" # (!)
+ rail_director_desc: ""
+ technician_trait:0 "Technician" # (!)
+ technician_trait_desc: ""
  #artillery_officer:0 "Artillery Officer"
  #artillery_officer_desc:0 "§LTrained as an artillery officer.§!"
  #artillery_specialist:0 "Artillery Specialist"
@@ -309,7 +315,6 @@
  #socialist_giant:0 "Socialist Giant"
  #influencal_president:0 "Influencal President"
  #le_pere_fallieres:0 "§Y"Le père Fallières"§!"
- #anarchy:0 "Anarchy"
  #LIB_emergency_powers:0 "Emergency Powers"
  #proto_fascist:0 "Proto-Fascist"
  #armoured_warfare_theorist:0 "Armoured Warfare Theorist"
@@ -407,6 +412,20 @@
  green_forest_warlord:0 "Green Forest Warlord"
  modern_sage:0 "Modern Sage"
  master_east_continent:0 "The Master of The East Continent"
+
+ # Qing rework traits for self note
+ beiyang_connections:0 "Beiyang Connections"
+ literai_scholar:0 "Literai Scholar"
+ empress_dowager:0 "Empress Dowager"
+ old_warhawk:0 "Old Warhawk"
+ enemy_of_the_reformist:0 "Enemy of the Reformist"
+ old_reformer:0 "Old Reformer"
+ reformist_connections:0 "Reformist Connections"
+ militarist_connections:0 "Militarist Connections"
+ the_middleman:0 "Middleman"
+ chinese_washington:0 "Chinese Washington"
+ emperor_of_china:0 "Emperor of China"
+ # End
 
  christian_general:0 "Christian General"
  young_marshal:0 "Young Marshal"
@@ -611,12 +630,27 @@
  CRO_yugophile:0 "Yugophile"
  SLO_agrarianist_leader:0 "Agrarianist Leader"
  CRO_stalwart_nationalist:0 "Stalwart Nationalist"
- CRO_transleithanian_alligned:0 "Transleithanian Alligned"
+ CRO_transleithanian_alligned:0 "Transleithanian Aligned"
  WUK_capable_politician:0 "Capable Politician"
  puppet_jalifa:0 "Puppet Jalifa"
- USA_admiral_of_the_navy:0 "Admiral Of The Navy"
+ USA_admiral_of_the_navy:0 "Admiral of the Navy"
  USA_wilson_stroked:0 "Incapacitated"
  USA_humorous:0 "Humorous"
+ MSC_weak_sultan:0 "Weak Sultan"
+ AUS_pink_frued_dark_side_of_your_mom:0 "Father of Psychoanalysis"
+ HUN_stiff_leader:0 "Stiff Leader"
+ HUN_flimsy:0 "Flimsy"
+ HUN_connected_magnate:0 "Connected Magnate"
+ HUN_railway_enthusiast:0 "Vasútrajongó"
+ SAF_boer_veteran:0 "Boer Veteran"
+ SAF_conciliatory:0 "Conciliatory"
+ MEX_espiritista:0 "Espiritista"
+ MEX_connected_landowner:0 "Connected Landowner"
+ MEX_el_chacal:0 "El Chacal"
+ ETH_disliked_by_nobles:0 "Disliked By Nobles"
+ ETH_admirer_of_ottomans:0 "Admirer Of The Ottomans"
+ MEX_apostle_of_democracy:0 "Apostle Of Democracy"
+ laborite_reformer:0 "Laborite Reformer"
 
 ### СТАРИЙ ПЕРЕКЛАД ###
  artillery_officer:0 "Офіцер артилерії"
@@ -808,7 +842,6 @@
  divisive_emperor:0 "Імператор розколів"
  socialist_giant:0 "Соціялістичний гігант"
  le_pere_fallieres:0 "§Y"Le père Fallières"§!"
- anarchy:0 "Анархія"
  LIB_emergency_powers:0 "Надзвичайні повноваження"
  proto_fascist:0 "Протофашист"
  armoured_warfare_theorist:0 "Теоретик бронетанкової війни"
