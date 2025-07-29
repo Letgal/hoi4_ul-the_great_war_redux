@@ -1951,8 +1951,8 @@
  PAP_vatican_neutrality:0 "Vatican City State"
  PAP_vatican_neutrality_DEF:0 "the Vatican City State"
 
- SER_AUS_subject_neutrality: "Сербія"
- SER_AUS_subject_fascism: "Сербія"
+ SER_AUS_neutrality_subject: "Сербія"
+ SER_AUS_fascism_subject: "Сербія"
 
  XSM_QIN: "Цінхай"
  XSM_QIN_DEF: "Провінція Цінхай"

@@ -321,8 +321,8 @@
  GER_mobilization_campaign_desc:0 "Набір наших резервістів впливає на моральний дух армії. Уряд має підвищити моральний дух, обіцяючи бонуси, пільги та інші мотиваційні дії."
  GER_mission_famine_timer:0 "Зима розчарування"
  GER_mission_famine_timer_desc:0 "Наразі [ROOT.GetNameDef] беруть участь у Великій війні, і робочу силу, щоб стати самозабезпеченою продукцією, також було спрямовано на передову та виробництво боєприпасів. У звичайний час імпорт міг би покрити це, але через морську блокаду, зараз немає абсолютно ніякого способу отримати більше їжі."
- GER_mission_famine_timer_early:0 "Доки не прийде зима"
- GER_mission_famine_timer_early_desc:0 "[ROOT.GetNameDef] перебуває під морською блокадою. Серйозної нестачі запасів не буде, але якщо війна триватиме надто довго, то запаси повністю вичерпуються. Особливо, якщо їх вичерпують, солдати більше не залишають воювати, і терпіння людей і підтримка війни різко впадуть."
+ GER_mission_food_shortages_timer:0 "Доки не прийде зима"
+ GER_mission_food_shortages_timer_desc:0 "[ROOT.GetNameDef] перебуває під морською блокадою. Серйозної нестачі запасів не буде, але якщо війна триватиме надто довго, то запаси повністю вичерпуються. Особливо, якщо їх вичерпують, солдати більше не залишають воювати, і терпіння людей і підтримка війни різко впадуть."
  GER_delay_famine_mission:0 "Нагодувати людей"
  GER_delay_famine_mission_desc:0 "Коли ми зосередили всі наші ресурси на військових зусиллях, у штаті почали вичерпати продукти для внутрішнього споживання. Можливо, ми могли б перенаправити це назад на цивільне використання, щоб приборкати невдоволення, але, звичайно, це лише частина - допомога..."
  GER_reunifications_wars_timer:0 "Надзвичайний стан у Німеччині"
@@ -627,6 +627,7 @@
  FRA_roppe_fort_text: "Додає §Y1 наземне укріплення§! в області §Y[864.GetName].§!"
 
  FRA_socialist_france_flag:0 "Соціалістична Франція"
+ FRA_unlock_socialist_tree: "Соціалістичні реформи"
  FRC_call_communist_nations:0 "§YUnlock Decisions§! to call §YSocialist Nations§! to help us in the §YCivil War§!." # (!)
  FRC_valois_seize_the_power:0 "Імплантувати концепцію Валуа французькій нації"
  FRC_valois_seize_the_power_desc:0 "Жорж Валуа є синдикалістом, але він також дружній до монархії та не хоче, щоб [FRA.GetName] був надто лівим. Він діяв як анархо-синдикаліст, але тепер, коли він отримав достатню підтримку, він намагається виправити націонал-синдикалізм у цій країні."
@@ -657,7 +658,7 @@
  FRC_paid_leave:0 "Mandatory Paid Leave"
  FRC_paid_leave_desc:0 "The Paris union council's proposal allows employees to obtain two weeks of paid leave per year, paid for by a mandatory popular contribution fund."
 
- FRC_direct_democracy_in_towns:0 "Direct Demoracy in Towns"
+ FRC_direct_democracy_in_towns:0 "Direct Democracy in Towns"
  FRC_direct_democracy_in_towns_desc:0 "Union assemblies are now mandatory for the management of towns and villages with more than 200 inhabitants. The joint council, which is composed of equal representation, must make local management decisions autonomously in order to relieve the government and regional authorities."
 
  FRC_proletarian_art_subventions:0 "Proletarian Art Subventions"
@@ -8881,7 +8882,7 @@
 
  WUK_join_ukraine:0 "Приєднайся до України"
  WUK_join_ukraine_desc:0 "Наше визволення здійснилося. Час приєднатися до наших братів на Сході. Слава Україні! Слава Боже!"
- ban_neutral_party:0 "Заборона авторитаризму"
+ ban_neutral_party: "Заборонити авторитарні партії"
  ban_neutral_party_desc:0 "У нинішній ситуації дозвіл авторитарним партіям продовжувати організацію підірве нашу здатність ефективно керувати. Необхідно вжити рішучих заходів."
  ban_neutral_party_tt:1 "Зміна популярності авторитаризму: §G-§![?.Root.party_popularity@neutrality|%0G].\n"
 

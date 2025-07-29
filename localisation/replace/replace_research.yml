@@ -48,7 +48,7 @@
  nsb_armour_folder:0 "Броня"
  nsb_armour_folder_desc:0 "Бронетанкова техніка і танки."
  artillery_folder:0 "Артилерія"
- artillery_folder_desc:0 "Field Guns, Howitzers, Mortats Anti-Tank & Anti-Aircraft weapons for divisions."
+ artillery_folder_desc:0 "Field Guns, Howitzers, Mortars Anti-Tank & Anti-Aircraft weapons for divisions."
  land_doctrine_folder:0 "Сухопутна доктрина"
  land_doctrine_folder_desc:0 "Сухопутна доктрина, способи ведення бойових дій вашими сухопутними військами."
  naval_folder:0 "ВМФ"
