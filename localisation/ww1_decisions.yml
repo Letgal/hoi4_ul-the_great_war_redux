@@ -213,7 +213,7 @@
  GER_norse_request:0 "Запросити [NOR.GetName]"
  GER_swiss_request:0 "Запросити [SWI.GetName]"
  GER_agadir_crisis:0 "Аґадірська криза"
- GER_agadir_crisis_desc:0 "French forces have entered Fez, under the pretext of aiding the Sultan, but we perceive this as a clear manoeuvre to assert full control over Morocco. This action violates the Algeciras Act, threatening our economic interests and international standing. We must now determine if a decisive show of force in Moroccan waters is the necessary step to safeguard our rights." # (!)
+ GER_agadir_crisis_desc:0 "Французькі війська увійшли до Феса, прикриваючись допомогою султану, але ми розглядаємо це як очевидну спробу встановити повний контроль над Марокко. Ці дії порушують Акт Альхесірасу, загрожуючи нашим економічним інтересам і міжнародному авторитету. Ми маємо вирішити, чи стане рішуча демонстрація сили в марокканських водах необхідним кроком для захисту наших прав."
  agadir_crisis:0 "Аґадірська криза"
  agadir_crisis_ends:0 "Аґадірська криза закінчилася"
  agadir_crisis_send_demands:0 "Поступки для Агадіра"
@@ -282,7 +282,7 @@
  GER_decision_reparations:0 "Сплатити репарації"
  GER_decision_reparations_desc:0 "Німецька імперія зазнала поразки у Великій війні. Антанта вимагала, щоб ми повернули воєнні репарації розміром 132 мільярдів марок золота. Доки всі репарації не будуть виплачені, наша економіка не може оговтатися від трясовини поразки..."
  GER_decision_reparations_2:0 "Сплатити репарації"
- GER_decision_reparations_2_desc:0 "Оскільки ми не в змозі виплатити репарації, погоджені Версальським договором через надзвичайну інфляцію та економічні краї, Антанта послабила умови. У результаті Рейхсбанк було відновлено в [GER.GetNameDef], і нам надається кредит у 800 мільйонів марок."
+ GER_decision_reparations_2_desc:0 "Оскільки ми не в змозі виплатити репарації, погоджені Версальським договором через надзвичайну інфляцію та економічні краї, Антанта послабила умови. У результаті Райхсбанк було відновлено в [GER.GetNameDef], і нам надається кредит у 800 мільйонів марок."
  GER_decision_reparations_3:0 "Сплатити репарації"
  GER_decision_reparations_3_desc:0 "Враховуючи глобальний економічний спад і економічну невдачу в Німеччині, загальну суму репарацій було зменшено до 35,8 мільярдів золотих марок, а розстрочку платежу прийнято на 59 років."
  GER_decision_moratorium:0 "Мораторій"
@@ -460,8 +460,8 @@
  NFA_sue_for_peace_FRC:0 "Війти з метрополії Франції"
  NFA_return_to_paris:0 "Повернення до Парижа"
 
- embargo_france:0 "Impose an embargo on [FRA.GetName]" # (!)
- embargo_communist_nation:0 "Impose an embargo on [FROM.GetNameDef]" # (!)
+ embargo_france:0 "Запровадити ембарго проти [FRA.GetName]"
+ embargo_communist_nation:0 "Запровадити ембарго проти [FROM.GetNameDef]"
  FRA_embargo:0 "Санкціонував §YFrance§!."
  full_embargo:0 "Повне ембарго"
  puppet_embargo_too:0 "\n§YНаші суб'єкти§! також накладуть на них ембарго.\n\n"
@@ -628,7 +628,7 @@
 
  FRA_socialist_france_flag:0 "Соціалістична Франція"
  FRA_unlock_socialist_tree: "Соціалістичні реформи"
- FRC_call_communist_nations:0 "§YUnlock Decisions§! to call §YSocialist Nations§! to help us in the §YCivil War§!." # (!)
+ FRC_call_communist_nations:0 "§YВідкриває рішення§! для заклику §Yсоціалістичних держав§! на допомогу у §Yгромадянській війні§!."
  FRC_valois_seize_the_power:0 "Імплантувати концепцію Валуа французькій нації"
  FRC_valois_seize_the_power_desc:0 "Жорж Валуа є синдикалістом, але він також дружній до монархії та не хоче, щоб [FRA.GetName] був надто лівим. Він діяв як анархо-синдикаліст, але тепер, коли він отримав достатню підтримку, він намагається виправити націонал-синдикалізм у цій країні."
  FRC_interwar_internationale_category:0 "Міжнародний"
@@ -636,38 +636,38 @@
  FRC_internationale:0 "Міжнародна форма"
  FRC_interwar_invite_in_internationale:0 "Запросити [FROM.GetNameDef] до [ROOT.GetFactionName]"
 
- FRC_deploy_partisans_in_state:0 "Activate Resistance Cell in [FROM.getName]" # (!)
- FRC_spawn_2_partisans_units:0 "Spawn §Y2 Partisans Brigades§!."
+ FRC_deploy_partisans_in_state:0 "Активувати осередок опору в [FROM.getName]"
+ FRC_spawn_2_partisans_units:0 "Створити §Y2 партизанські бригади§!"
 
- FRC_random_investment:0 "Syndicalist Councils Investments"
+ FRC_random_investment:0 "Інвестиції синдикалістських рад"
 
- FRC_support_separatism_to_get_military_support:0 "§YUnlock Decisions§! to support §YSeparatist Movements§! in France. While it could give us a strong support, it might also make them independents from France."
+FRC_support_separatism_to_get_military_support:0 "§YВідкриває рішення§! для підтримки §Yсепаратистських рухів§! у Франції. Це може дати нам значну підтримку, але також може призвести до їхньої незалежності від Франції."
 
- FRC_support_brittany_commune:0 "Support Brittany Commune"
- FRC_support_brittany_commune_desc:0 "A part of western Brittany still opposes French centralism and is fighting for its recognition. In exchange for the formation of action brigades, we could grant them a very high level of autonomy, with recognition of an independent Breton state overseen by France within a French-speaking community of France."
+FRC_support_brittany_commune:0 "Підтримати Бретонську комуну"
+FRC_support_brittany_commune_desc:0 "Частина Західної Бретані досі виступає проти французького централізму й бореться за визнання. В обмін на створення бойових бригад ми можемо надати їм високий рівень автономії з визнанням незалежної бретонської держави під французьким наглядом у межах франкомовної спільноти Франції."
 
- FRC_support_basque_commune:0 "Support Basque Commune"
- FRC_support_basque_commune_desc:0 "The Basque Country is the smallest, but arguably the most pro-independence, of France's states. Its mountain-dwelling ethnic population has preserved its ancient traditions, as well as its distinctive non-Latin language. They deserve our support!"
+FRC_support_basque_commune:0 "Підтримати Баскську комуну"
+FRC_support_basque_commune_desc:0 "Країна Басків — найменший, але, ймовірно, найбільш про-незалежний регіон Франції. Її гірське населення зберегло давні традиції та унікальну нелатинську мову. Вони заслуговують на нашу підтримку!"
 
- FRC_support_corsican_commune:0 "Support Corsican Commune"
- FRC_support_corsican_commune_desc:0 "The Corsican people are isolated from the mainland and share a subtle blend of French, Corsican, and southern Italian traditions. We could offer them independence as members of our union of communes."
- 
- FRC_french_cold_war:0 "French Cold War?"
- FRC_french_cold_war_desc:0 "The more the time pass, the less a decisive outcome might be possible. We must launch major offensives before moral run too low and force us to negotiate with the other government."
+FRC_support_corsican_commune:0 "Підтримати Корсиканську комуну"
+FRC_support_corsican_commune_desc:0 "Корсиканці ізольовані від материка й поєднують у собі французькі, корсиканські та південноіталійські традиції. Ми можемо запропонувати їм незалежність як частині нашого союзу комун."
 
- FRC_paid_leave:0 "Mandatory Paid Leave"
- FRC_paid_leave_desc:0 "The Paris union council's proposal allows employees to obtain two weeks of paid leave per year, paid for by a mandatory popular contribution fund."
+FRC_french_cold_war:0 "Французька холодна війна?"
+FRC_french_cold_war_desc:0 "Чим більше минає часу, тим менш ймовірним стає рішучий результат. Ми маємо розпочати масштабні наступи, поки бойовий дух не згас і нам не довелося б вести переговори з іншим урядом."
 
- FRC_direct_democracy_in_towns:0 "Direct Democracy in Towns"
- FRC_direct_democracy_in_towns_desc:0 "Union assemblies are now mandatory for the management of towns and villages with more than 200 inhabitants. The joint council, which is composed of equal representation, must make local management decisions autonomously in order to relieve the government and regional authorities."
+FRC_paid_leave:0 "Обов’язкова оплачувана відпустка"
+FRC_paid_leave_desc:0 "Пропозиція Паризької профспілкової ради передбачає надання працівникам двох тижнів оплачуваної відпустки на рік, що фінансується за рахунок загального обов’язкового внеску."
 
- FRC_proletarian_art_subventions:0 "Proletarian Art Subventions"
- FRC_proletarian_art_subventions_desc:0 "The promotion of socialist art will consolidate the regime and make French youth dream."
+FRC_direct_democracy_in_towns:0 "Пряма демократія в містах"
+FRC_direct_democracy_in_towns_desc:0 "Профспілкові збори стали обов’язковими для управління містами й селами з населенням понад 200 осіб. Спільна рада, що формується на паритетній основі, має самостійно приймати місцеві рішення, щоб розвантажити уряд і регіональну владу."
 
- FRC_anti_clerical_law:0 "Anti-Clerical Law"
- FRC_anti_clerical_law_desc:0 "The Bordeaux Trade Union Council has proposed a law aimed at neutralizing all religious references, whether in festivals, the naming of streets and cities, or in education. Strict secularism must apply at all levels of society."
+FRC_proletarian_art_subventions:0 "Субсидії на пролетарське мистецтво"
+FRC_proletarian_art_subventions_desc:0 "Просування соціалістичного мистецтва зміцнить режим і надихне французьку молодь."
 
- FRC_attack_nationalist_france:0 "Attack Nationalist France"
+FRC_anti_clerical_law:0 "Антиклерикальний закон"
+FRC_anti_clerical_law_desc:0 "Бордо́ська профспілкова рада запропонувала закон, що має на меті усунути всі релігійні згадки — на фестивалях, у назвах вулиць і міст, а також в освіті. Строгий секуляризм має застосовуватись на всіх рівнях суспільства."
+
+FRC_attack_nationalist_france:0 "Атакувати націоналістичну Францію"
 
  FRA_take_down_kapp_luttwitz:0 "Змусити [GER.GetName] виконувати Версальський договір"
  FRA_take_down_kapp_luttwitz_desc:0 "[GER.GetNameDefCap] порушили Версальський договір. Вони навіть відмовилися розпустити свою армію та намагалися відновити монарха. Ми можемо виправдати нав'язування договору переможеним країнам!"
@@ -1074,9 +1074,9 @@
  FRA_complete_schneider_steel_mill_implementation_in_sete_mission_tt:0 "[?22.industrial_complex_level|+0]/§Y[?22.civilian_total_after_goal]§! §YCivilian Factories§! побудовано в §Y[22.getName]§!"
  FRA_complete_schneider_steel_mill_implementation_in_sete_mission_tt_title:0 "Побудуйте §Y1 Цивільний завод§! у §Y[22.getName]§!"
 
- FRC_build_civs_here:0 "[?THIS.industrial_complex_level|+0]/§Y[?THIS.civilian_total_after_goal]§! §YCivilian Factories§! built in §Y[THIS.getName]§!" # (!)
- FRC_first_five_year_plan_mission:0 "First Five Year Plan"
- FRC_first_five_year_plan_mission_desc:0 "The party's central committee called for the implementation of a large-scale industrialization program. The goal set would allow for a massive increase in production, and thus in state resources for defense, social security, and education."
+ FRC_build_civs_here:0 "[?THIS.industrial_complex_level|+0]/§Y[?THIS.civilian_total_after_goal]§! §Yцивільних заводів§! збудовано в області §Y[THIS.getName]§!"
+ FRC_first_five_year_plan_mission:0 "Перший п’ятирічний план"
+ FRC_first_five_year_plan_mission_desc:0 "Центральний комітет партії закликав до реалізації масштабної програми індустріалізації. Запланована ціль дозволить суттєво збільшити обсяги виробництва, а отже — і державні ресурси для оборони, соціального забезпечення та освіти."
 
  FRA_saint_ouen_schneider_industrial_complex:0 "Промисловий комплекс Saint-Ouen Schneider"
  FRA_saint_ouen_schneider_industrial_complex_desc:0 "Компанія Schneider et Cie може придбати компанію Farcot з метою посилення виробництва військових і цивільних двигунів. Підтримка уряду у створенні цієї майстерні є серйозною інвестицією."
@@ -1084,7 +1084,7 @@
  FRA_saint_ouen_schneider_industrial_complex_tt:0 "[?16.industrial_complex_level|+0]/§Y[?16.civilian_total_after_goal]§! §YCivilian Factories§! побудовано в §Y[16.getName]§!"
 
  military_contract_flag:0 "Вже виконує контракт на будівництво"
- FRA_we_have_to_wait_next_elections:0 "§7If we lose our majority in the parliament, we will have to wait the §Ynext elections§!.§!" # (!)
+ FRA_we_have_to_wait_next_elections:0 "§7Якщо ми втратимо більшість у парламенті, доведеться чекати §Yнаступних виборів§!.§!"
 
  FRA_sponsored_worker_pension:0 "Спонсорована трудова пенсія"
  FRA_sponsored_worker_pension_desc:0 "§YNapoléon§! запропонував покращити пенсійну систему, поширивши її на всі визнані роботи у Франції. Пенсія фінансуватиметься трьома сторонами: державою, роботодавцем і самим пенсіонером через спеціальні податки."
@@ -1507,8 +1507,8 @@
  GRE_occupy_cyprus_desc:0 "Населений греками з давніх часів, Кіпр вийшов з-під впливу материкової Греції, коли Візантійська імперія почала втрачати територію на користь ісламської сфери. Острів залишався під контролем Османської імперії до 19 століття, коли британці взяли адміністративний контроль над острів після турецько-російської війни, суверенітет якого зберегли османи.\nТепер, коли британці не контролюють острів і османи не наважуються претендувати на нього, ми повинні проголосити наш суверенітет над Кіпром згідно з принципом національного самовизначення."
  GRE_pro_venizelist_movement_in_athens:0 "Про венілізаторський рух в Афінах"
  GRE_almost_civil_war:0 "§RЦе може призвести до громадянської війни!§!"
- GRE_missions_to_increase_venizelist_support:0 "\nUnlocks §YExpand Influence§! On-map Decisions, allowing to §Gexpand§! §YVenizelist Influence§! in states.\n\nOnly states that have §GTotal§! Venizelist §YInfluence§! upon the start of the Civil War will begin the conflict under §YVenizelist ownership§!.\n" # (!)
- GRE_missions_to_increase_monarchist_support:0 "\nUnlocks §YExpand Influence§! On-map Decisions, allowing to §Gcounter§! §YVenizelist Influence§! in states.\n\nStates that do not have §RTotal§! Venizelist §YInfluence§! upon the start of the Civil War will begin the conflict under §YMonarchist ownership§!.\n" # (!)
+ GRE_missions_to_increase_venizelist_support:0 "\nРозблоковує §Yрішення на карті§! «§YПоширити вплив§!», що дозволяють §Gзбільшувати§! §Yпідтримку венізелістів§! у регіонах.\n\nЛише регіони з §Gмаксимальним§! рівнем §Yвенізелістського впливу§! на початок громадянської війни стартують під §Yконтролем венізелістів§!.\n"
+GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрішення на карті§! «§YПоширити вплив§!» для §Gпротидії§! §Yвенізелістському впливу§! у регіонах.\n\nРегіони з §Rнедостатнім§! рівнем §Yвенізелістського впливу§! на початок війни стартують під §Yконтролем монархістів§!.\n"
 
  GRE_occupy_northern_epirus:0 "Окупація Північного Епіру"
  GRE_occupy_northern_epirus_desc:0 "Територія, відома грекам як Північний Епір, із значним грецьким населенням, була віднесена до новоствореної албанської держави за Флорентійським протоколом, і нам довелося відступити до нового кордону. Однак Албанія потрапила в безладний стан, який дозволяє нам взяти регіон без будь-яких труднощів."
@@ -2087,8 +2087,8 @@
  CHI_KMT_attack_GZC:0 "Західна експедиція"
  CHI_ZHE_attack_FNG:0 "Взяти Нанкін"
  CHI_ZHE_attack_FNG_desc:0 "Гегемонія Чжілі розвалилася, і Фентянь загрожує. Єдиний вихід — взяти Нанкін і претендувати на нашу власну сферу на півдні."
- CHI_KMT_local_investment:0 "Local Investment in [FROM.GetName]" # (!)
- CHI_KMT_local_investment_desc:0 "Through a series of measures, such as improving the local environment and reorganising the administrative structure, we will satisfy local leaders and make residents more favourable towards our government." # (!):0 "Продати концесію залізниці [FROM.GetName]"
+ CHI_KMT_local_investment:0 "Місцеві інвестиції в [FROM.GetName]"
+ CHI_KMT_local_investment_desc:0 "Завдяки низці заходів, таких як покращення місцевої інфраструктури та реорганізація адміністративної структури, ми задовольнимо місцевих лідерів та підвищимо підтримку населення нашої влади."
 
 
  TUR_OPDA_CURRENCY_TOOLTIP:0 "§o Курси валют §!\n§d------------------------------ ----------------------------§!\n§Y3%§! §v Фактор виробництва споживчих товарів =§! §Y0,295 Тисяча лір§!\n§d------------------------------------------ ---------------------§!"
@@ -8568,8 +8568,8 @@
  influenza_censor_news:0 "Новини цензури про епідемію"
  influenza_develop_vaccine:0 "Розробити вакцину"
  influenza_mass_vaccination:0 "Масова вакцинація"
- influenza_request_vaccine_share:0 "Request Vaccine" # (!)
- influenza_close_the_border:0 "Close the Border" # (!)
+ influenza_request_vaccine_share:0 "Попросити вакцину"
+ influenza_close_the_border:0 "Закрити кордони"
  borrow_300_from_jewish_bankers:0 "Позич §Y300§! у єврейських банкірів"
  expel_the_jewry:0 "Вигнати євреїв"
  form_redania_category:0 "Форма Redania"
@@ -8609,9 +8609,9 @@
  kis_player_decided_ger_surrend:0 "Німеччина просить миру"
  spanish_flu_vaccine:0 "Має вакцину проти грипу"
  spanish_flu_vaccine_tt:0 "Вакцину розроблено"
- spanish_flu_vaccine_tt_NOT:0 "No Vaccine is available" # (!)
- humanitarian_aid:0 "Has offered humanitarian aid" # (!)
- humanitarian_aid_rejection:0 "Has rejected to offer humanitarian aid" # (!)
+ spanish_flu_vaccine_tt_NOT:0 "Вакцина недоступна"
+ humanitarian_aid:0 "Надано гуманітарну допомогу"
+ humanitarian_aid_rejection:0 "Відмовлено в наданні гуманітарної допомоги"
 
  ENG_imperial_federation_coring:0 "Запровадження Імперської федерації"
  ENG_imperial_federation_coring_desc:0 "Після утворення Імперської федерації ми повинні реорганізувати та відновити стару адміністрацію, щоб запобігти будь-якій тяганині та опору."
@@ -8638,8 +8638,8 @@
  ENG_interwar_invite_in_entente:0 "Запросити [FROM.GetName] до [ROOT.GetFactionName]"
  ENG_send_knox_to_russia:0 "Відправити генерала Нокса до Росії"
  ENG_send_knox_to_russia_desc:0 "Російська армія перебуває в жахливому стані, щоб зміцнити Антанту, ми повинні надіслати аташе. Здається, генерал Альфред Нокс справляється із завданням."
- ENG_renounce_neutrality:0 "Renounce the Neutrality" # (!)
- ENG_renounce_neutrality_desc:0 "The world situation forces us to intervene, despite our vow to remain neutral in the event of a conflict. This announcement risks upsetting the population, but also discrediting our position; however, we cannot stand idly by." # (!)
+ ENG_renounce_neutrality:0 "Відмовитися від нейтралітету"
+ ENG_renounce_neutrality_desc:0 "Світова ситуація змушує нас втрутитись, незважаючи на обіцянку зберігати нейтралітет. Це рішення може засмутити населення та підірвати наш авторитет, проте ми не можемо лишатись осторонь."
  ENG_engage_french_civil_war:0 "Вимагайте Анжуйську імперію"
  ENG_engage_french_civil_war_desc:0 "У післявоєнному договорі Франція повернула наші старі території, але імперія Анвегін фактично мала більше територій у Франції. Ні, ми повинні були виграти Столітню війну, і ми заслуговували на трон Франції. Зараз найкращий час, щоб претендувати на справжню Анжуйську імперію, коли у Франції триває громадянська війна."
  ENG_recognize_egyptian_independence:0 "Визнати "незалежність" Єгипту"
@@ -8667,13 +8667,13 @@
  ENG_FRA_intervene_in_civil_war:0 "Втручання в громадянську війну в Британії"
  ENG_sue_for_peace_IRE:0 "Вийти з Ірландії"
  ENG_cancel_chinde_concession:0 "Скасувати британську концесію Чінде"
- ENG_propose_arms_limitations:0 "Propose Arms Limitations" # (!)
+ ENG_propose_arms_limitations:0 "Запропонувати обмеження озброєнь"
  ENG_sue_for_peace_AFG:0 "Відмовтеся від лінії Дюранда"
  ENG_annex_kurdistan:0 "Приєднати Курдистан"
- ENG_public_confidence_loss_tt:0 "Failing to regain §YNaval Supremacy§! will cause the public to §Rlose faith§! in the Royal Navy." # (!)
- ENG_strength_over_germany_tt:0 "Our navy must be at least §Y30% stronger§! than the German Navy" # (!)
- ENG_wavering_naval_supremacy:0 "Wavering Naval Supremacy" # (!)
- ENG_wavering_naval_supremacy_desc:0 "The Kaiserliche Marine's successes have dangerously eroded our traditional dominance at sea. German warships grow bolder, and the integrity of our blockade against [GER.GetNameDef] is in serious jeopardy. This cannot be permitted to continue.\n\nWe must regain naval supremacy before public confidence collapses entirely, lest our very shores become vulnerable. The fate of the Empire may well rest on the swift and resolute action of the Royal Navy." # (!)
+ ENG_public_confidence_loss_tt:0 "Нездатність відновити §YПанування на морі§! призведе до §Rвтрати довіри§! громадськості до Королівського флоту."
+ ENG_strength_over_germany_tt:0 "Наш флот має бути щонайменше §Yна 30% сильнішим§! за німецький"
+ ENG_wavering_naval_supremacy:0 "Хитке морське панування"
+ ENG_wavering_naval_supremacy_desc:0 "Успіхи Кайзерліхмаріне небезпечно підірвали нашу традиційну морську гегемонію. Німецькі кораблі стають сміливішими, а цілісність нашої блокади проти [GER.GetNameDef] під серйозною загрозою.\n\nМи мусимо відновити панування на морі до повної втрати довіри громадськості, інакше навіть наші власні береги стануть вразливими. Доля Імперії може залежати від швидких та рішучих дій Королівського флоту."
 
  IRE_irish_independence_war_timer:0 "Англо-ірландська війна"
  IRE_irish_civil_war_timer:0 "Громадянська війна в Ірландії"
@@ -9079,8 +9079,8 @@
  ALB_discontent_muslims:0 "§RЦей вибір розлютить мусульманське населення!§!"
  ALB_getting_TUR_support:0 "Якщо §Y[TUR.GetNameWithFlag]§! погодиться допомогти нам, ми зможемо підготувати державний переворот, спрямований на приведення до влади проосманського уряду."
 
- EPR_restore_albania:0 "Restore Civil Administration In Albania" # (!)
- EPR_restore_albania_desc:0 "Our desire for independence is so strong that we succeeded in taking control of not only Blorë in Albania, but also Cetinje and Tirana. However, it is practically impossible for us to maintain law and order with only the Greek militia from Northern Epirus, which consists of many Albanians. Therefore, we will establish a alligned government in this region and gradually ease tensions." # (!)
+ EPR_restore_albania:0 "Відновити цивільну адміністрацію в Албанії"
+EPR_restore_albania_desc:0 "Наше прагнення незалежності настільки сильне, що ми змогли взяти під контроль не лише Вльору в Албанії, а й Цетинє та Тірану. Однак підтримувати правопорядок лише силами грецької міліції Північного Епіру, до якої входить багато албанців, практично неможливо. Тому ми створимо лояльний уряд у цьому регіоні та поступово знизимо напруженість."
 
  FRA_guesdists_get_soreleans:0 "Залучити сорелянців"
  FRA_guesdists_support_blanquism:0 "Підтримати бланкізм"
@@ -9492,7 +9492,7 @@
  not_involved_yet:0 "Ще не задіяний"
 
  casablanca_crisis_name_wargoal: "Касабланкська криза"
- liman_crisis_name_wargoal:0 "Liman Crisis" # (!)
+ liman_crisis_name_wargoal:0 "Ліманська криза"
 
  default_crisis_name:0 "Криза"
  has_crisis_tt: "§RПолітична криза§! триває"
@@ -9511,8 +9511,8 @@
  crisis_balanced:0 "Збалансований результат"
 
  casablanca_crisis_alert_tt: "Починається §RКасабланкська криза§!, в якій §Y[FRA.getFlag][FRA.getAdjective]ий§! і §Y[MOR.getFlag][MOR.getAdjective]ий§! уряди протистоять у питанні окупації Касабланки." # (&)
- liman_crisis_alert_tt:0 "§RThe Liman von Sanders Affair§! begins, opposing §Y[RUS.getFlag][RUS.getAdjective]§! and §Y[GER.getFlag][GER.getAdjective]§! interests in bosphorus." # (!)
- liman_crisis_alert_france_tt:0 "§RThe Liman von Sanders Affair§! begins, opposing §Y[FRA.getFlag][FRA.getAdjective]§! and §Y[GER.getFlag][GER.getAdjective]§! interests in bosphorus." # (!)
+ liman_crisis_alert_tt:0 "Почнеться §Rсправа Лімана фон Сандерса§!, що протиставляє §Y[RUS.getFlag][RUS.getAdjective]і§! та §Y[GER.getFlag][GER.getAdjective]і§! інтереси в Босфорі."
+ liman_crisis_alert_france_tt:0 "Почнеться §Rсправа Лімана фон Сандерса§!, що протиставляє §Y[FRA.getFlag][FRA.getAdjective]і§! та §Y[GER.getFlag][GER.getAdjective]і§! інтереси в Босфорі."
  casablanca_crisis_mission: "Касабланкська криза"
  casablanca_crisis_mission_desc: "Франція та Німеччина не можуть домовитися про статус Марокко. Загрожує спалахнути війна, і кожен із них шукає союзників у Європі."
 
@@ -9524,41 +9524,41 @@
  casablanca_crisis_french_claim: "§Y[FRA.GetNameWithFlag]§! відмовляється закінчувати окупацію Марокко"
  casablanca_crisis_moroccan_claim: "§Y[MOR.GetNameWithFlag]§! хоче вигнати французьку армію з Марокко"
 
- liman_crisis_russian_claim:0 "§Y[RUS.GetNameWithFlag]§! wants to dismiss §Y[GER.getFlag][GER.getAdjective] Advisors§! in §Y[TUR.getFlag][TUR.getNameDef]§!"
- liman_crisis_french_claim:0 "§Y[FRA.GetNameWithFlag]§! wants to dismiss §Y[GER.getFlag][GER.getAdjective] Advisors§! in §Y[TUR.getFlag][TUR.getNameDef]§!"
- liman_crisis_german_claim:0 "§Y[GER.GetNameWithFlag]§! wants to reduce §Y[RUS.getFlag][RUS.getAdjective]§! influence in §YAnatolia§!."
+ liman_crisis_russian_claim:0 "§Y[RUS.GetNameWithFlag]§! вимагає відставки §Y[GER.getFlag][GER.getAdjective]их радників§! у §Y[TUR.getFlag][TUR.getNameDef]§!"
+ liman_crisis_french_claim:0 "§Y[FRA.GetNameWithFlag]§! вимагає відставки §Y[GER.getFlag][GER.getAdjective]их радників§! у §Y[TUR.getFlag][TUR.getNameDef]§!"
+ liman_crisis_german_claim:0 "§Y[GER.GetNameWithFlag]§! прагне зменшити §Y[RUS.getFlag][RUS.getAdjective]ий вплив§! в §YАнатолії§!."
 
- GER_important_law_that_will_comeback:0 "\nIf this law is not passed, it will be proposed again in 60 days until it is approved by the §YReichstag§!."
- GER_vote_strengh_tt:0 "§Y[?merged_vote_strengh|0]/[?GER_total_reichstag_seats] ([?merged_vote_percent|%%0]) Deputies§! will vote in favour of this law."
- GER_sway_left_will_vote_20_percent:0 "§Y[?left_ratio_sway_ratio|0%]§! of §tLeft deputies§! will vote for it. (§Y[?left_vote|0] seats§!)"
- GER_sway_center_will_vote_20_percent:0 "§Y[?center_ratio_sway_ratio|0%]§! of §gCenter deputies§! will vote for it. (§Y[?center_vote|0] seats§!)"
- GER_sway_right_will_vote_20_percent:0 "§Y[?right_ratio_sway_ratio|0%]§! of §2Right deputies§! will vote for it. (§Y[?right_vote|0] seats§!)"
- GER_sway_neutral_will_vote_20_percent:0 "§Y[?neutral_ratio_sway_ratio|0%]§! of §LNeutral deputies§! will vote for it. (§Y[?neutral_vote|0] seats§!)"
- GER_sway_left_will_vote:0 "You will sway §Y20%§! of §tLeft deputies§! to support the current law"
- GER_sway_center_will_vote:0 "You will sway §Y20%§! of §gCenter deputies§! to support the current law"
- GER_sway_right_will_vote:0 "You will sway §Y20%§! of §2Right deputies§! to support the current law"
- GER_sway_neutral_will_vote:0 "You will sway §Y20%§! of §LNeutral deputies§! to support the current law"
- GER_law_pass:0 "§GThe law will pass§!"
- GER_law_dont_pass:0 "§RThe law will not pass without swaying more deputies in the Reichstag§!"
- GER_effect_if_it_pass:0 "\n\n§YEffects if the law passes:§!"
- GER_vote_left_law:0 "This is considered a Leftist Law. §Y100%§! of §tLeft Deputies§!, §Y25%§! of §gCenter Deputies§! and §Y25%§! of §LNeutral Deputies§! will vote for it.\n\n"
- GER_vote_center_law:0 "This is considered a Centrist Law. §Y100%§! of §gCenter Deputies§!, §Y15%§! of §tLeft Deputies§!,§Y15%§! of §2Right Deputies§! and §Y15%§! of §LNeutral Deputies§! will vote for it.\n\n"
- GER_vote_coalition_law:0 "§GSince the Reichstag is United§!, §Y100%§! of §YDeputies§!  will vote for this law.\n\n"
- GER_vote_right_law:0 "This is considered a Rightist Law. §Y100%§! of §2Right Deputies§!, §Y25%§! of §gCenter Deputies§! and §Y25%§! of §LNeutral Deputies§! will vote it.\n\n"
- GER_vote_wartime_law:0 "This is considered a Wartime Law. §Y90%§! of §2Right Deputies§!, §Y70%§! of §gCenter/Neutral Deputies§! and §Y30%§! of §tLeft Deputies§! will vote it.\n\n"
- GER_temp_sway_left:0 "Sway Leftist Deputies"
- GER_temp_sway_center:0 "Sway Centrist Deputies"
- GER_temp_sway_center_even_more:0 "Sway even more Centrist Deputies"
- GER_temp_sway_right:0 "Sway Rightist Deputies"
- GER_temp_sway_neutral:0 "Sway Neutral Deputies"
- left_vote_in_progress:0 "§tLeftist§! Law is being voted"
- center_vote_in_progress:0 "§gCentrist§! Law is being voted"
- right_vote_in_progress:0 "§2Rightist§! Law is being voted"
- wartime_vote_in_progress:0 "§8Wartime§! Law is being voted"
- GER_right_sway_20_percent:0 "§2Rightist§! already swayed"
- GER_center_sway_20_percent:0 "§gCentrist§! already swayed"
- GER_left_sway_20_percent:0 "§tLeftist§! already swayed"
- GER_neutral_sway_20_percent:0 "§LNeutral§! already swayed"
+ GER_important_law_that_will_comeback:0 "\nЯкщо закон не буде прийнятий, його внесуть повторно через 60 днів, доки §YРайхстаґ§! не схвалить його."
+ GER_vote_strengh_tt:0 "§Y[?merged_vote_strengh|0]/[?GER_total_reichstag_seats] ([?merged_vote_percent|%%0]) депутатів§! проголосують за цей закон."
+ GER_sway_left_will_vote_20_percent:0 "§Y[?left_ratio_sway_ratio|0%]§! §tлівих депутатів§! підтримають (§Y[?left_vote|0] місць§!)"
+ GER_sway_center_will_vote_20_percent:0 "§Y[?center_ratio_sway_ratio|0%]§! §gцентристських депутатів§! підтримають (§Y[?center_vote|0] місць§!)"
+ GER_sway_right_will_vote_20_percent:0 "§Y[?right_ratio_sway_ratio|0%]§! §2правих депутатів§! підтримають (§Y[?right_vote|0] місць§!)"
+ GER_sway_neutral_will_vote_20_percent:0 "§Y[?neutral_ratio_sway_ratio|0%]§! §Lнейтральних депутатів§! підтримають (§Y[?neutral_vote|0] місць§!)"
+ GER_sway_left_will_vote:0 "Ви переконаєте §Y20%§! §tлівих депутатів§! підтримати закон"
+ GER_sway_center_will_vote:0 "Ви переконаєте §Y20%§! §gцентристських депутатів§! підтримати закон"
+ GER_sway_right_will_vote:0 "Ви переконаєте §Y20%§! §2правих депутатів§! підтримати закон"
+ GER_sway_neutral_will_vote:0 "Ви переконаєте §Y20%§! §Lнейтральних депутатів§! підтримати закон"
+ GER_law_pass:0 "§GЗакон буде прийнято§!"
+ GER_law_dont_pass:0 "§RЗакон не буде прийнято без додаткового переконання депутатів§!"
+ GER_effect_if_it_pass:0 "\n\n§YЕфекти при ухваленні закону:§!"
+ GER_vote_left_law:0 "Це §tлівий§! закон. §Y100%§! §tлівих§!, §Y25%§! §gцентристів§! та §Y25%§! §Lнейтральних§! підтримають.\n\n"
+ GER_vote_center_law:0 "Це §gцентристський§! закон. §Y100%§! §gцентристів§!, §Y15%§! §tлівих§!, §Y15%§! §2правих§! та §Y15%§! §Lнейтральних§! підтримають.\n\n"
+ GER_vote_coalition_law:0 "§GОскільки Райхстаґ об'єднаний§!, §Y100%§! §Yдепутатів§! підтримають.\n\n"
+ GER_vote_right_law:0 "Це §2правий§! закон. §Y100%§! §2правих§!, §Y25%§! §gцентристів§! та §Y25%§! §Lнейтральних§! підтримають.\n\n"
+ GER_vote_wartime_law:0 "Це §8військовий§! закон. §Y90%§! §2правих§!, §Y70%§! §gцентристів/нейтральних§! та §Y30%§! §tлівих§! підтримають.\n\n"
+ GER_temp_sway_left:0 "Вплинути на лівих"
+ GER_temp_sway_center:0 "Вплинути на центристів"
+ GER_temp_sway_center_even_more:0 "Додатково вплинути на центристів"
+ GER_temp_sway_right:0 "Вплинути на правих"
+ GER_temp_sway_neutral:0 "Вплинути на нейтральних"
+ left_vote_in_progress:0 "Голосування за §tлівий§! закон"
+ center_vote_in_progress:0 "Голосування за §gцентристський§! закон"
+ right_vote_in_progress:0 "Голосування за §2правий§! закон"
+ wartime_vote_in_progress:0 "Голосування за §8військовий§! закон"
+ GER_right_sway_20_percent:0 "§2Правих§! вже переконано"
+ GER_center_sway_20_percent:0 "§gЦентристів§! вже переконано"
+ GER_left_sway_20_percent:0 "§tЛівих§! вже переконано"
+ GER_neutral_sway_20_percent:0 "§LНейтральних§! вже переконано"
 
  FRA_vote_will_fail:0 "§RГолосування, ймовірно, буде невдалим.§!"
  FRA_vote_will_pass:0 "§GГолосування пройде!§!"
@@ -9636,14 +9636,14 @@
  FRA_collective_labor_agreement_desc:0 "Закон про колективні договори, запропонований членом парламенту §YLouis Bubreuilh§! пропонує створення угод для кожного сектора промисловості.\n\nУгоди дозволяють встановлювати конкретні статуси щодо винагороди, умов праці чи кваліфікації. Основні Професійними галузями зацікавлених є металісти UIMM, фермери, шахтарі, обробники та незалежні виробники."
  FRA_communist_want_more_reforms:0 "§tHardline SFIO§! хочуть реформ"
 
- FRA_hostile_motion_de_censure:0 "Hostile Motion de Censure"
- FRA_hostile_motion_de_censure_desc:0 "Our government is a minority and the other components of parliament have managed to form a solid majority against which we are no match. They plan to pass a motion of censure, which would bring down our government."
+ FRA_hostile_motion_de_censure:0 "Ворожий вотум недовіри"
+ FRA_hostile_motion_de_censure_desc:0 "Наш уряд є меншістю, а інші фракції парламенту сформували стійку більшість проти нас. Вони планують прийняти вотум недовіри, що призведе до падіння нашого уряду."
 
- FRA_delay_legislatives_elections:0 "Delay Legislative Elections"
- FRA_delay_legislatives_elections_desc:0 "The war affecting the country does not allow elections to be organized in good conditions. Postponing the votes will allow us to keep our seats without taking the risk of losing our control of the assembly."
- FRA_elections_delayed_for_one_year:0 "§tLegislative Elections§! will be reported to next year."
- FRA_canceled_legislative_elections:0 "Legislative Elections are Delayed"
- FRA_activate_parliament:0 "The §YParliament§! will be restored and election will occur."
+ FRA_delay_legislatives_elections:0 "Відкласти парламентські вибори"
+ FRA_delay_legislatives_elections_desc:0 "Військові умови не дозволяють провести вибори належним чином. Відтермінування голосування дозволить нам зберегти місця в парламенті без ризику втратити контроль над асамблеєю."
+ FRA_elections_delayed_for_one_year:0 "§tПарламентські вибори§! відкладаються на наступний рік."
+ FRA_canceled_legislative_elections:0 "Парламентські вибори відкладені"
+ FRA_activate_parliament:0 "§YПарламент§! буде відновлено, а вибори відбудуться."
 
  FRA_protection_of_the_strike_right:0 "Захист права на страйк"
  FRA_protection_of_the_strike_right_desc:0 "Закон, запропонований депутатом §YLeon Jouhaux§! захищає право на страйк, захищаючи страйкарів. Серед нових прав, наданих парламентським проєктом, ми знаходимо неможливість для боса подати до суду на своїх працівників, якщо вони займають будівлю, або скорочення повідомлень про страйк для профспілкових організацій."
@@ -9670,61 +9670,61 @@
  FRA_use_carnet_B:0 "Використати Carnet B"
  FRA_use_carnet_B_desc:0 "Carnet B — це файл масового спостереження, створений §Yгенералом Буланже§! у 1886 році, призначений для боротьби з іноземними агентами та антимілітаристами у випадку великого європейського конфлікту. Незважаючи на те, що його інформували та підтримували, послідовні ліві уряди Картель відмовився від його застосування. Активація такої процедури забезпечила б стабільність республіки в разі війни."
 
- FRA_extended_citizenship_for_colonial_volunteers:0 "Extended Citizenship for Colonial Volunteers"
- FRA_extended_citizenship_for_colonial_volunteers_desc:0 "More volunteers will join the army if we promise them access to indigenous citizenship granting them social benefits and representations, in particular the possibility of working for the public administration or the possibility of receiving public pension funds."
+ FRA_extended_citizenship_for_colonial_volunteers:0 "Розширене громадянство для колоніальних добровольців"
+ FRA_extended_citizenship_for_colonial_volunteers_desc:0 "Більше добровольців приєднаються до армії, якщо ми обіцяємо їм надати громадянство з соціальними пільгами, включаючи право працювати в державному апараті та отримувати державні пенсії."
 
- FRA_leaving_the_coalition_desc:0 "A parliamentary group with too low loyalty may leave the coalition. It is necessary to find solutions aimed at increasing the loyalty of this faction, in particular by passing laws, completing focuses and selecting decisions that are favorable to them."
+ FRA_leaving_the_coalition_desc:0 "Парламентські фракції з надто низькою лояльністю можуть вийти з коаліції. Необхідно знаходити рішення для підвищення їхньої лояльності, зокрема через прийняття законів, виконання фокусів та вибір відповідних політичних рішень."
 
- FRA_join_the_coalition_desc:0 "Now that we have gained the trust of this parliamentary group, we can ask them to join our coalition so that they can guide our policy and assist us in voting on laws."
- FRA_it_join_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will join our §YCoalition§!, making us gain [?parliament_seat_array^v2|Y0]§G seats.§!"
+ FRA_join_the_coalition_desc:0 "Тепер, коли ми здобули довіру цієї парламентської групи, ми можемо запросити їх до нашої коаліції для спільного формування політики та підтримки при голосуванні законів."
+ FRA_it_join_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] приєднається до нашої §Yкоаліції§!, що дасть нам додатково [?parliament_seat_array^v2|Y0]§G місць.§!"
 
- FRA_invest_in_CGE:0 "Invest in CGE"
- FRA_invest_in_CGE_desc:0 "Chairman of the Board of Directors §YPaul Doumer§! proposed an expansion of the company's research funds in the field of electrical infrastructure. This would amount to allowing direct competition to large foreign companies like [GER.getFlag]Siemens and [USA.getFlag]General Electrics."
+ FRA_invest_in_CGE:0 "Інвестувати в CGE"
+ FRA_invest_in_CGE_desc:0 "Голова правління §YПоль Думер§! запропонував розширити фінансування досліджень в галузі електроінфраструктури, що дозволить конкурувати з іноземними гігантами на кшталт [GER.getFlag]Siemens та [USA.getFlag]General Electric."
 
- FRA_expand_makeevka_exploitation:0 "Expand Makeevka Exploitation"
- FRA_expand_makeevka_exploitation_desc:0 "The §YRussian Mining and Metallurgical Union§! founded at the end of 1910 exploits the coal mines of Ukraine, precisely in the region of [227.getName]. Additional investments could energize the region, while also currying favor with [227.OWNER.getName].\n\nIn addition to the initial establishment of nearly 8,000,000 francs, several contributions of millions of francs are planned."
+ FRA_expand_makeevka_exploitation:0 "Розширити видобуток у Макіївці"
+ FRA_expand_makeevka_exploitation_desc:0 "§YРосійсько-Український гірничо-металургійний союз§!, заснований 1910 року, експлуатує вугільні шахти в регіоні [227.getName]. Додаткові інвестиції оживлять регіон і поліпшать відносини з [227.OWNER.getName].\n\nОкрім початкових 8,000,000 франків, плануються мільйонні інвестиції."
 
- FRA_promotion_to_young_socialist_officiers:0 "Promotion of Young Socialist Officiers"
- FRA_promotion_to_young_socialist_officiers_desc:0 "By using the profile sheets written by the left-wing Masonic lodges, we can provoke the promotion of socialist officers in priority over other republican components. In addition to filling the gap created by the resignation of old guard generals, we can ensure the loyalty of the armed forces."
- FRA_socialist_high_command:0 "The French general staff will now be made up of §tSocialist Republicans§!, which assures us of their loyalty in the event of a major political crisis."
+ FRA_promotion_to_young_socialist_officiers:0 "Просування молодих соціалістичних офіцерів"
+ FRA_promotion_to_young_socialist_officiers_desc:0 "Використовуючи досьє з лівих масонських лож, ми можемо сприяти просуванню соціалістичних офіцерів, заповнюючи вакуум після відставки генералів старої гвардії та гарантуючи лояльність армії."
+ FRA_socialist_high_command:0 "Генеральний штаб тепер складатиметься з §tсоціалістичних республіканців§!, що гарантує їхню лояльність у політичних кризах."
  FRA_has_defiant_army: "Має національний дух §Y$FRA_defiant_army$§!"
 
- FRA_massive_utilization_of_the_cards:0 "Massive Utilization of the Political Cards"
- FRA_massive_utilization_of_the_cards_desc:0 "In order to control the politicization and the republican and loyal character of the French army, a set of political files have been issued to the main officers. These sheets make it possible to trace political opinions in order to limit the promotions of anti-Republican elements. This system was dedicated in 1904 following the saucepan affair, but is still in place.\n\nWe should fully reactivate the use of these sheets and increase the political criteria for promotion."
+ FRA_massive_utilization_of_the_cards:0 "Масове використання політичних досьє"
+ FRA_massive_utilization_of_the_cards_desc:0 "Для контролю політичних поглядів офіцерів та підтримки республіканських цінностей було запроваджено систему політичних досьє, які відстежують погляди та обмежують просування антиреспубліканських елементів. Ця система, створена 1904 року після «справи каструлі», досі функціонує.\n\nМи повинні повністю активувати цю систему та посилити політичні критерії просування."
 
- FRA_sfio_are_leaving_the_coalition:0 "SFIO Loyalty is Low"
- FRA_independant_socialist_are_leaving_the_coalition:0 "Independent Socialists Loyalty is Low"
- FRA_democratic_alliance_are_leaving_the_coalition:0 "Democratic Republican Alliance Loyalty is Low"
- FRA_radical_party_are_leaving_the_coalition:0 "Radical Party Loyalty is Low"
- FRA_independent_radicals_are_leaving_the_coalition:0 "Independent Radicals Loyalty is Low"
- FRA_republican_federation_are_leaving_the_coalition:0 "Republican Federation Loyalty is Low"
- FRA_conservatives_are_leaving_the_coalition:0 "Conservatives Loyalty is Low"
- FRA_independent_republicans_are_leaving_the_coalition:0 "Independent Republicans Loyalty is Low"
- FRA_popular_liberal_action_are_leaving_the_coalition:0 "Popular Liberal Action Loyalty is Low"
- FRA_far_right_are_leaving_the_coalition:0 "Nationalists Loyalty is Low"
+ FRA_sfio_are_leaving_the_coalition:0 "Лояльність SFIO низька"
+ FRA_independant_socialist_are_leaving_the_coalition:0 "Лояльність незалежних соціалістів низька"
+ FRA_democratic_alliance_are_leaving_the_coalition:0 "Лояльність Демократично-республіканського альянсу низька"
+ FRA_radical_party_are_leaving_the_coalition:0 "Лояльність Радикальної партії низька"
+ FRA_independent_radicals_are_leaving_the_coalition:0 "Лояльність Незалежних радикалів низька"
+ FRA_republican_federation_are_leaving_the_coalition:0 "Лояльність Республіканської федерації низька"
+ FRA_conservatives_are_leaving_the_coalition:0 "Лояльність Консерваторів низька"
+ FRA_independent_republicans_are_leaving_the_coalition:0 "Лояльність Незалежних республіканців низька"
+ FRA_popular_liberal_action_are_leaving_the_coalition:0 "Лояльність Народної ліберальної дії низька"
+ FRA_far_right_are_leaving_the_coalition:0 "Лояльність Націоналістів низька"
 
- independent_socialist_allied:0 "£parliament_party_icon|2 Independent Socialists Allied"
- FRA_sfio_ally:0 "Ally £parliament_party_icon|1 §RSFIO§!"
- FRA_independent_socialists_ally:0 "Ally £parliament_party_icon|2 §OIndependent Socialists§!"
- FRA_radical_party_ally:0 "Ally £parliament_party_icon|3 §CRadical Party§!"
- FRA_democratic_alliance_ally:0 "Ally £parliament_party_icon|4 §8Democratic Republican Alliance§!"
- FRA_independent_radicals_ally:0 "Ally £parliament_party_icon|5 §1Independent Radicals§!"
- FRA_republican_federation_ally:0 "Ally £parliament_party_icon|6 §2Republican Federation§!"
- FRA_conservatives_ally:0 "Ally £parliament_party_icon|7 §3Conservatives§!"
- FRA_independent_republicans_ally:0 "Ally £parliament_party_icon|8 §0Independent republicans§!"
- FRA_popular_liberal_action_ally:0 "Ally £parliament_party_icon|9 §gPopular Liberal Action§!"
- FRA_far_right_ally:0 "Ally £parliament_party_icon|10 §LNationalists§!"
+ independent_socialist_allied:0 "£parliament_party_icon|2 Незалежні соціалісти стали союзниками"
+ FRA_sfio_ally:0 "Укласти союз із £parliament_party_icon|1 §RSFIO§!"
+ FRA_independent_socialists_ally:0 "Укласти союз із £parliament_party_icon|2 §OНезалежними соціалістами§!"
+ FRA_radical_party_ally:0 "Укласти союз із £parliament_party_icon|3 §CРадикальною партією§!"
+ FRA_democratic_alliance_ally:0 "Укласти союз із £parliament_party_icon|4 §8Демократично-республіканським альянсом§!"
+ FRA_independent_radicals_ally:0 "Укласти союз із £parliament_party_icon|5 §1Незалежними радикалами§!"
+ FRA_republican_federation_ally:0 "Укласти союз із £parliament_party_icon|6 §2Республіканською федерацією§!"
+ FRA_conservatives_ally:0 "Укласти союз із £parliament_party_icon|7 §3Консерваторами§!"
+ FRA_independent_republicans_ally:0 "Укласти союз із £parliament_party_icon|8 §0Незалежними республіканцями§!"
+ FRA_popular_liberal_action_ally:0 "Укласти союз із £parliament_party_icon|9 §gНародною ліберальною дією§!"
+ FRA_far_right_ally:0 "Укласти союз із £parliament_party_icon|10 §LНаціоналістами§!"
 
- FRA_SFIO_leave_coalition: "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §YКоаліцію§!, через що ми втратимо [?SFIO|Y0] §Rмісць§!."
- FRA_independent_socialists_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?independent_socialist|Y0]§R seats.§!"
- FRA_democratic_republican_alliance_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?democratic_republican_alliance|Y0]§R seats.§!"
- FRA_radical_party_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?radical_party|Y0]§R seats.§!"
- FRA_independent_radicals_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?independent_radicals|Y0]§R seats.§!"
- FRA_republican_federation_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?republicain_federation|Y0]§R seats.§!"
- FRA_conservatives_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?conservatives|Y0]§R seats.§!"
- FRA_independent_republicans_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?independent_republicans|Y0]§R seats.§!"
- FRA_popular_liberal_action_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] will leave our §YCoalition§!, making us lose [?popular_liberal_action|Y0]§R seats.§!"
- FRA_far_right_leave_coalition: "£parliament_party_icon|[?v] §LНаціоналісти§! покинуть нашу §YКоаліцію§!, через що ми втратимо [?nationalist|Y0] §Rмісць§!."
+ FRA_SFIO_leave_coalition: "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §Yкоаліцію§!, через що ми втратимо [?SFIO|Y0] §Rмісць§!."
+ FRA_independent_socialists_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] покинуть нашу §Yкоаліцію§!, через що ми втратимо [?independent_socialist|Y0] §Rмісць§!."
+ FRA_democratic_republican_alliance_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §Yкоаліцію§!, через що ми втратимо [?democratic_republican_alliance|Y0] §Rмісць§!."
+ FRA_radical_party_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §Yкоаліцію§!, через що ми втратимо [?radical_party|Y0] §Rмісць§!."
+ FRA_independent_radicals_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §Yкоаліцію§!, через що ми втратимо [?independent_radicals|Y0] §Rмісць§!."
+ FRA_republican_federation_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §Yкоаліцію§!, через що ми втратимо [?republicain_federation|Y0] §Rмісць§!."
+ FRA_conservatives_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §Yкоаліцію§!, через що ми втратимо [?conservatives|Y0] §Rмісць§!."
+ FRA_independent_republicans_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §Yкоаліцію§!, через що ми втратимо [?independent_republicans|Y0] §Rмісць§!."
+ FRA_popular_liberal_action_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §Yкоаліцію§!, через що ми втратимо [?popular_liberal_action|Y0] §Rмісць§!."
+ FRA_far_right_leave_coalition: "£parliament_party_icon|[?v] §LНаціоналісти§! покинуть нашу §Yкоаліцію§!, через що ми втратимо [?nationalist|Y0] §Rмісць§!."
 
  DEN_ICE_act_of_union: "@DEN @ICE Дансько-ісландський акт про унію"
 
@@ -9735,19 +9735,19 @@
  ROM_spawn_1918_army:0 "§GМобілізувати в Молдові армію чисельністю 200 000 солдатів.§!"
 
  #Liman Affair
- liman_affair_category:0 "The Liman von Sanders Affair"
- liman_affair_category_desc:0 "Germany has sent a military mission to the Ottoman state at their request, and Otto Liman von Sanders is take control of a portion of their army. To some other major European powers this is one step to far, they have officaly objected to the mission and are gathering support among other powers. It would be wise for both sides to monitor who is supporting who before deciding their policy on the matter - we can only pray this doesn't cause a live conflict.."
- liman_affair_russian_position_0:0 "Neutral"
- liman_affair_russian_position_1:0 "Objector"
- liman_affair_russian_position_2:0 "Leading Objector"
- liman_affair_russian_position_3:0 "Supporter"
- liman_affair_french_position_0:0 "Neutral"
- liman_affair_french_position_1:0 "Objector"
- liman_affair_french_position_2:0 "Leading Objector"
- liman_affair_english_position_0:0 "Neutral"
- liman_affair_english_position_1:0 "Objector"
- liman_affair_german_position_4:0 "Leading Supporter"
- liman_affair_ottoman_position_3:0 "Supporter"
+ liman_affair_category:0 "Справа Лімана фон Сандерса"
+ liman_affair_category_desc:0 "Німеччина направила військову місію до Османської імперії на їхнє прохання, і Отто Ліман фон Сандерс отримав командування частиною їхньої армії. Інші європейські держави вважають це занадто далекосяжним кроком — вони офіційно запротестували проти цієї місії та шукають підтримки серед інших держав. Обидві сторони повинні проаналізувати, хто кого підтримує, перед ухваленням рішень. Залишається сподіватись, що це не призведе до відкритого конфлікту..."
+ liman_affair_russian_position_0:0 "Нейтрал"
+ liman_affair_russian_position_1:0 "Протестувальник"
+ liman_affair_russian_position_2:0 "Головний протестувальник"
+ liman_affair_russian_position_3:0 "Підтримувач"
+ liman_affair_french_position_0:0 "Нейтрал"
+ liman_affair_french_position_1:0 "Протестувальник"
+ liman_affair_french_position_2:0 "Головний протестувальник"
+ liman_affair_english_position_0:0 "Нейтрал"
+ liman_affair_english_position_1:0 "Протестувальник"
+ liman_affair_german_position_4:0 "Головний підтримувач"
+ liman_affair_ottoman_position_3:0 "Підтримувач"
 
  if_it_increases: "\n§RЯкщо воно зросте:§!\n\n"
 
