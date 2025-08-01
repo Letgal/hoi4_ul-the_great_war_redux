@@ -2099,7 +2099,7 @@
  STATE_1175: "Саксен-Кобурґ"
  #GER_STATE_1175: "Sachsen-Coburg"
  #BAY_STATE_1175: "Sachsen-Coburg"
- #THU_STATE_1175:0 "Sachsen-Coburg"
+ #THU_STATE_1175: "Sachsen-Coburg"
  STATE_1176: "Саксен-Ґота"
  #GER_STATE_1176: "Sachsen-Gotha"
  #THU_STATE_1176: "Sachsen-Gotha"

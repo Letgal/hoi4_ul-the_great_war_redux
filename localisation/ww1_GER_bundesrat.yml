@@ -2,7 +2,7 @@
  bundesrat_name: "Бундесрат"
  reichsrat_name: "Райхсрат"
 
- GER_bundesrat_category_desc: "§Y[GetBundesratName]§! — це найвищий законодавчий орган у @GER [GER.GetName]. Його члени призначаються урядами федеральних держав Німеччини для представлення їхніх інтересів у німецькому парламенті.\n\nЩоб §Gухвалити§! закони в §Y[GetBundesratName]§!, ми мусимо заробляти £influence_texticon §YОчки впливу§! у його членів, щоб отримати їхню підтримку під час голосування."
+ GER_bundesrat_category_desc: "§Y[GetBundesratName]§! — це найвищий законодавчий орган у державі @GER [GER.GetName]. Його члени призначаються урядами федеральних держав Німеччини для представлення їхніх інтересів у німецькому парламенті.\n\nЩоб §Gухвалити§! закони в §Y[GetBundesratName]§!, ми мусимо заробляти £influence_texticon §YОчки впливу§! у його членів, щоб отримати їхню підтримку під час голосування."
  GER_bundesrat_unavailable_tt: "§tНЕДОСТУПНО§!"
 
  GER_bundesrat_prussia_tt: "@PRE §Y[PRE.GetName]§!"
@@ -33,7 +33,7 @@
  GER_bundesrat_baden_desc: "Голоси: [?GER_votes_of_baden|Y0]\nВплив: [?GER_influence_in_baden|Y0]"
  GER_bundesrat_baden_desc_tt: "Ми маємо [?GER_influence_in_baden] §Y£influence_texticon балів впливу§! у §Y[BAD.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_baden|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_baden_swayed_desc: "Голоси: [?GER_votes_of_baden|Y0]\n§GЗа§!"
- GER_bundesrat_baden_lore: "§L[BAD.GetNameWithFlag] — найбільше велике герцогство імперії. У 1871 році, під час проголошення Німецької імперії Вільгельмом I у Версальському палаці, за ідеєю Отто фон Бісмарка, зять імператора, архікнязь Фрідріх Баденський, узяв на себе ключову роль.§!\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цією федеральною державою.\n§GShift + клацніть§!, щоби §Hзакликати§! цю федеральну державу під час голосування."
+ GER_bundesrat_baden_lore: "§L[BAD.GetNameWithFlag] — найбільше велике герцогство імперії. У 1871 році, під час проголошення Німецької імперії Вільгельмом I у Версальському палаці, за ідеєю Отто фон Бісмарка, зять імператора, архікнязь Фрідріх Баденський, узяв на себе ключову роль.§!\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цією федеральною державою.\n§GShift + клацніть§!, щоби §Hзакликати§! цю федеральну державу під час голосування."
 
  GER_bundesrat_hesse_tt: "@HES §Y[HES.GetName]§!"
  GER_bundesrat_hesse_desc: "Голоси: [?GER_votes_of_hesse|Y0]\nВплив: [?GER_influence_in_hesse|Y0]"

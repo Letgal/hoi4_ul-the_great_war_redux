@@ -10,7 +10,7 @@
  LOADING_TIP_8: "«Це є кінець і початок епохи. Це щось значно більше, ніж Французька революція чи Реформація, і ми в цьому живемо».\n(Герберт Дж. Уеллс, 1916 р.)"
  LOADING_TIP_9:0 "We are within measurable, or imaginable, distance of a real Armageddon. Happily there seems to be no reason why we should be anything more than spectators.\n- Henry Asquith, 24 July 1914"
  LOADING_TIP_10: "«Незалежне мислення не заохочується в професійній армії. Це є прояв заколоту. Покора — ось верховна чеснота».\n(Дейвід Ллойд Джордж)"
- LOADING_TIP_11:0 "The home front is always underrated by Generals in the field. And yet that is where the Great War was won and lost. The Russian, Bulgarian, Austrian and German home fronts fell to pieces before their armies collapsed.\n- David Lloyd George"
+ LOADING_TIP_11: "Генерали у полі завжди нехтують внутрішнім фронтом. І все ж саме там Велику війну виграли та програли. Російський, болгарський, австрійський і німецький внутрішні фронти розсипалися раніше, ніж розвалилися їхні армії».\n(Дейвід Ллойд Джордж)" # (&+)?
  LOADING_TIP_12: "«Патріоти завше говорять про смерть за свою країну й ніколи про вбивство за свою країну».\n(Бертран Расселл)"
  LOADING_TIP_13: "«УСЕ ПРОЙШЛО ДОБРЕ. Наші війська успішно провели свої завдання, всі контратаки було відбито й узято великі кількості полонених».\n(The Times, звітуючи про битву на Соммі)"
  LOADING_TIP_14: "«Хай як світ прикидається поділятися, сьогодні у світі є лише два поділи: людські істоти та німці».\n(Ред'ярд Кіплінґ)"
@@ -21,7 +21,7 @@
  LOADING_TIP_19:0 "The safest thing to be said is that nobody knew how much a decoration was worth except the man who received it.\n(Зіґфрід Сассун)"
  LOADING_TIP_20: "«Ми не вели війну проти Німеччини. Нам віддавали накази у війні короля проти Німеччини».\n(Герберт Дж. Уеллс)"
  LOADING_TIP_21: "«Всякого, хто спробує завадити моєму завданню, я розтрощу».\n(Кайзер Вільгельм II, 1913 р.)"
- LOADING_TIP_22:0 "Those who are killed can't complain, the wounded would have given far more than that to escape as they have, and the unwounded regard the money as a consolation prize for still being here.\n(Роберт Ґрейвс)"
+ LOADING_TIP_22: "«Ті, кого вбили, не можуть скаржитися, поранені би віддали набагато більше від того, аби втекти від свого становища, а непоранені вважають гроші заохочувальним призом за існування».\n(Роберт Ґрейвс)" # (&)
  LOADING_TIP_23: "«Протягом усіх чотирьох років війни не було жодної справді хорошої книги про війну. Єдине справжнє письмо, яке вийшло під час війни, — це поезія. Одною причиною цього є те, що поетів не арештовують так швидко, як прозаїків».\n(Ернест Гемінґуей)"
  LOADING_TIP_24:0 "You were between the devil and the deep blue sea. If you go forward, you`ll likely be shot, if you go back you`ll be court-martialled and shot, so what the hell do you do? What can you do?\n- W. Hay"
  LOADING_TIP_25: "«Кулемет — така переоцінена зброя».\n(Фельдмаршал Гейґ, 1915 р.)"
@@ -37,20 +37,20 @@
  LOADING_TIP_35: "«Ну ж бо, сучі ви сини, чи хочете ви жити вічно?»\n(Деніел Делі)"
  LOADING_TIP_36: "«Ця війна, як і наступна війна, — це війна, яка закінчить війни».\n(Дейвід Ллойд Джордж, 1916 р.)"
  LOADING_TIP_37: "«Об одинадцятій годині цього ранку добігла кінця найжорстокіша та найстрашніша війна, яку колись переживало людство. Я сподіваюся, ми зможемо сказати, що таким чином, цього доленосного ранку, настав кінець усім війнам».\n(Дейвід Ллойд Джордж, 11 листопада 1918 р.)"
- LOADING_TIP_38: "In Flanders fields the poppies blow\nBetween the crosses, row on row\n(Джон МакКрей, 1915 р.)"
- LOADING_TIP_39: "«Боже, покарай Англію».\n(Ернст Лиссауер)"
+ LOADING_TIP_38: "«In Flanders fields the poppies blow\nBetween the crosses, row on row»\n(Джон МакКрей, 1915 р.)"
+ LOADING_TIP_39: "«Боже, покарай Англію».\n(Ернст Ліссауер)"
  LOADING_TIP_40: "«Хай що Ви зробите, Ви втратите багато людей».\n- Charles Mangin"
  LOADING_TIP_41: "«Наймогутніша зброя на землі — це людська душа у вогні».\n(Фердінан Фош)"
- LOADING_TIP_42:0 "Back off Bohme - this Tommy is mine!\n- Oswald Boelcke"
+ LOADING_TIP_42:0 "Back off Bohme - this Tommy is mine!\n(Освальд Бьольке)"
  LOADING_TIP_43: "«Жодна перевага у зброї та набоях, хай яка велика, не дозволить здобувати перемоги без жертвування життями людей».\n(Фельдмаршал Гейґ, липень 1916 р.)"
  LOADING_TIP_44:0 "All went like clockwork... The battle is going very well for us and already the Germans are surrendering freely. The enemy is so short of men that he is collecting them from all parts of the line.\n(Фельдмаршал Гейґ)"
- LOADING_TIP_45: "«Виграна битва – це битва, яку ми не визнаємо програною».\n(Фердінан Фош)"
+ LOADING_TIP_45: "«Виграна битва — це битва, яку ми не визнаємо програною».\n(Фердінан Фош)"
  LOADING_TIP_46:0 "The War was decided in the first twenty days of fighting, and all that happened afterwards consisted in battles which, however for midable and devastating, were but desperate and vain appeals against the decision of Fate.\n- Winston Churchill"
  LOADING_TIP_47:0 "All treaties between great states cease to be binding when they come in conflict with the struggle for existence.\n- Otto von Bismarck"
  LOADING_TIP_48: "«We want eight and we won’t wait!»\n(Слоган британської Морської ліги з закликом про вісім дредноутів)" # (&)
  LOADING_TIP_49: "«Саме солдат і армія — не парламентські більшості та рішення — сплавили разом Німецьку імперію. Я довіряю армії».\n(Кайзер Вільгельм II, 1891 р.)" # (&)
  LOADING_TIP_50:0 "Despite not having the fleet we should have, we have conquered for ourselves a place in the sun. It is now my task to see to it that this place in the sun shall remain our undisputed possession.\n- Kaiser Wilhelm II, 1901"
- LOADING_TIP_51:0 "The coming of the wireless era will make war impossible, because it will make war ridiculous.\n- Guglielmo Marconi, 1912"
+ LOADING_TIP_51: "«Прихід бездротової епохи зробить війну неможливою, бо зробить війну безглуздою».\n(Ґульєльмо Марконі, 1912 р.)"
  LOADING_TIP_52: "«Дозвольте запевнити султана та його 300 мільйонів мусульман... що німецький імператор назавжди їхній друг».\n(Кайзер Вільгельм II)"
  LOADING_TIP_53: "«Леви, яких ведуть віслюки».\n(Невідомий німецький офіцер, описуючи британські війська)"
  LOADING_TIP_54:0 "Should the worst happen Australia would rally to the Mother Country to help and defend her to our last man and our last shilling\n- Andrew Fisher, August 1914"
@@ -58,8 +58,8 @@
  LOADING_TIP_56:0 "No commander was ever privileged to lead a finer force; no commander ever derived greater inspiration from the performance of his troops.\n- John J. Pershing"
  LOADING_TIP_57: "«Девонширці втримали цю траншею, девонширці досі її тримають».\n(Маркер на Девонширському цвинтарі)"
  LOADING_TIP_58: "«Коли ми почали стріляти, нам просто треба було заряджати та перезаряджати. Вони гинули сотнями. Цілитися не потрібно — ми просто стріляли по них».\n(Німець-кулеметник)"
- LOADING_TIP_59: "«Він уберіг нас від війни».\n(Демократичне гасло, вижване від мені президента Вілсона)"
- LOADING_TIP_60:0 "Business carried on as usual during alterations on the map of Europe.\n- Winston Churchill, November 9, 1914"
+ LOADING_TIP_59: "«Він уберіг нас від війни».\n(Демократичне гасло, вижване від імені президента Вілсона)"
+ LOADING_TIP_60: "«Справи йшли як завжди при змінах на мапі Європи».\n(Вінстон Черчилл, 9 листопада 1914 р.)" # (&+)
  LOADING_TIP_61: "«Я ще не готовий бути царем. Я ніщо не ніщо про правління».\n(Цар Микола II)"
  LOADING_TIP_62: "«Немає справедливості серед людей».\n(Цар Микола II)"
  LOADING_TIP_63: "«Я більше не знаю жодних партій, тільки німців!»\n(Кайзер Вільгельм II, 4 серпня 1914 р.)"
@@ -70,11 +70,11 @@
  LOADING_TIP_68: "«Єдиний чоловік із обох сторін, який міг би програти війну за один день».\n(Вінстон Черчилл про адмірала сера Джона Джелліко)"
  LOADING_TIP_69: "«Війна надто важлива, щоби залишати її генералам».\n(Жорж Клемансо)"
  LOADING_TIP_70: "«Панове, битву завершено, перемога — за нами».\n(Адмірал Джордж Дьюї)"
- LOADING_TIP_71:0 "The whole principle of naval fighting is to be free to go anywhere with every damn thing the navy possesses.\n- Sir John Fisher"
+ LOADING_TIP_71: "«Увесь принцип морського бою — це мати свободу йти будь-куди з кожною клятою річчю, якою флот володіє».\n(Сер Джон Фішер)" # (&+)
  LOADING_TIP_72: "«На війні перший принцип — не підкорятися наказам. Кожен дурень може підкорятися наказам!»\n(Сер Джон Фішер)"
- LOADING_TIP_73:0 "I have no more reserves. The only men I have left are the sentries at my gates. I will take them where the line is broken, and the last of the English will die fighting.\n- Sir John French"
+ LOADING_TIP_73: "«Я більше не маю резерви. Єдині люди, які в мене лишилися, — це сторожі на моїх воротах. Я візьму їх туди, де фронт прорвуть, і останні англійці помруть у бою».\n(Сер Джон Фішер)" # (&?)
  LOADING_TIP_74: "«У воєнний час жоден солдат не вільний казати, що думає; після війни всім однаково, що думає солдат».\n(Сер Іен Гемілтон)"
- LOADING_TIP_75:0 "I'd rather be a Second Lieutenant with a DSC (Distinguished Service Cross) than a General without it.\n- George Patton"
+ LOADING_TIP_75: "«Я радше буду другим лейтенантом із ЗВЗ (Хрестом «За видатні заслуги»), аніж генералом без нього».\n(Джордж Паттон)"
  LOADING_TIP_76: "«Думаєш, я не повернуся?»\n(Манфред фон Рихтгофен, 21 квітня 1918 р.)"
  LOADING_TIP_77: "«Головна річ — це завжди мати план; якщо це не найліпший план, він принаймні ліпший від його відсутності».\n(Сер Джон Монаш)" # (&?)
  LOADING_TIP_78: "«Сердешна Мексика. Так далеко від Бога і надто близько до США».\n(Порфіріо Діас)"
@@ -83,14 +83,14 @@
  LOADING_TIP_81:0 "If you want to be a bird, fly, if you want to be a worm, crawl, but do not scream when you are crushed..\n- Emiliano Zapata"
  LOADING_TIP_82: "Віддавшися повністю до рук Німеччини, ми поставили себе в ситуацію, яка в шахах зветься «пат». Це не мат, але будь-який хід із нашого боку означатиме мат.\n(Мігай Карої, 4 липня 1914 р.)" # (&?)
  LOADING_TIP_83: "«Якщо жінки на заводах зупинять роботу на двадцять хвилин, Союзники програють війну».\n(Французький фельдмаршал Жоффр)"
- LOADING_TIP_84:0 "And the only difference that I have found between the Democratic leadership and the Republican leadership was that one of 'em was skinning you from the ankle up and the other from the ear down\n- Huey Long"
- LOADING_TIP_85: "«Необхідно, щоб інтереси тубільців Африки стояли понад усе й якщо, та коли, їхні інтереси й інтереси іммігрантських рас увійдуть у конфлікт, гору мусять здобути перші».\n(Щорічник колоніальний звіт по Кенії, 1923 р.)"
+ LOADING_TIP_84: "«І єдина різниця, яку я знайшов між лідерством демократів і лідерством республіканців — це те, що одні з них здирає з вас шкіру від щиколотки вгору, а інші — від вуза вниз».\n(Г'юї Лонґ)" # (&+)
+ LOADING_TIP_85: "«Необхідно, щоб інтереси тубільців Африки стояли понад усе й якщо, та коли, їхні інтереси й інтереси іммігрантських рас увійдуть у конфлікт, гору мусять здобути перші».\n(Щорічний колоніальний звіт по Кенії, 1923 р.)"
  LOADING_TIP_86: "«Газу! Газу! Який екстаз незграбності!»\n(Вілфред Оуен)"
  LOADING_TIP_87: "«Дорога до Константинополя лежить крізь Варшаву».\n(Є. М. Трубецькой)"
  LOADING_TIP_88: "«Найкоротший і найбезпечніший робочий маршрут до Константинополя пролягає крізь Відень... і Берлін».\n(Генерал-квартирмейстер Юрій Данілов)"
  LOADING_TIP_89: "«Нехай Китай спить, адже якщо він пробудиться, світ здригнеться».\n(Наполеон Бонапарт)"
  LOADING_TIP_90: "«Скажіть мені про договори! Скажіть мені про Лігу Націй! Кожна велика держава Європи присяглася зберігати Бельгію за договором. Те була Ліга Націй, але вона не вдалася».\n(Едвард Карсон)" # (&)
- LOADING_TIP_91:0 "Even if we perish over this, it will still have been worth it.\n- Erich von Falkenhayn"
+ LOADING_TIP_91: "«Навіть якщо ми загинемо за це, це воно буде того варте».\n(Еріх фон Фалькенгайн)" # (&+)
  LOADING_TIP_92: "«Бог наділив британську расу світовою імперією, щоби виконати Його суверенне призначення у світі. Перемоги, які ви здобудете над язичниками, — це перемоги благороднішої душі в людині».\n(Невідомий капелан)" # (&)
  LOADING_TIP_93: "«Наш полк був принесений у жертву в славу Белграду та Батьківщини. Таким чином, вам більше не треба перейматися за свої життя: вони більше не існують. То вперед, до слави! За короля та Батьківщину! Хай живе король, хай живе Белград!»\n(Драґутін Ґавріловіч)"
  LOADING_TIP_94: "«Відверто кажучи, я насолодився війною».\n(Адріан Картон де Віар)"
