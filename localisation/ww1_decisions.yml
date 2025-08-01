@@ -1450,7 +1450,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
 
  #ВЛН
  VLN_recruit_units:0 "Найняти чорну гвардію в [FROM.getName]"
- VLN_3_infantry_unit:0 "Формує 3 чорногвардійські дивізії."
+ VLN_3_infantry_unit: "Утворює 3 підрозділи ополчення." # ((#))
  VLN_core_states:0 "Створіть анархістські комуни в [FROM.getName]"
 
  ITA_libyan_war_mission:0 "Італо-турецька війна"

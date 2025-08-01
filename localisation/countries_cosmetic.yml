@@ -1522,8 +1522,8 @@
  LEP_ADJ:0 "Chinese"
  LEP_communism:0 "Commune of Eight Provinces"
  LEP_communism_DEF:0 "the Commune of Eight Provinces"
- LEF:0 "League of Five Provinces" #五省聯軍
- LEF_DEF:0 "the League of Five Provinces" #五省聯軍
+ LEF:0 "Allied Army of the Five Provinces" #五省聯軍
+ LEF_DEF:0 "the Allied Army of the Five Provinces" #五省聯軍
  LEF_ADJ:0 "Chinese"
  LEF_communism:0 "Commune of Five Provinces"
  LEF_communism_DEF:0 "the Commune of Five Provinces"
@@ -1634,8 +1634,8 @@
  FNG_government: "Фентяньський уряд"
  FNG_government_DEF: "Фентяньський уряд Китайської республіки"
  FIN_red_communism: "Червона Фінляндія"
- CPG: "Уряд захисту конституції"
- CPG_DEF: "Уряд захисту конституції Китайської республіки"
+ CPG: "Хунта захисту конституції"
+ CPG_DEF: "Хунта захисту конституції Китайської республіки"
  CPG_ADJ: "Китайськ"
  KMT_GUANGZHOU: "Ґуанчжоуський національний уряд"
  KMT_GUANGZHOU_DEF: "Ґуанчжоуський національний уряд Китайської республіки"
@@ -1676,7 +1676,7 @@
  BEL_german_occupation_zone:0 "General Government of Belgium"
  BEL_german_occupation_zone_DEF:0 "Imperial German General Government of Belgium"
  PER_pahlavi_neutrality_DEF:0 "the Imperial State of Persia"
- PER_khorasan:0 "Autonomous Khorasan"
+ PER_khorasan:0 "Khorasan"
  PER_khorasan_DEF:0 "the Autonomous Government of Khorasan"
  PER_khorasan_communism:0 "Soviet Khorasan"
  PER_khorasan_communism_DEF:0 "the Autonomous Soviet of Khorasan"
@@ -2051,3 +2051,7 @@
  WLD_only_neutrality_DEF:0 "the Principality of Waldeck"
  WLD_only_communism:0 "Council Republic of Waldeck"
  WLD_only_communism_DEF:0 "the Council Republic of Waldeck"
+
+ ZHC_hubei: "Хубей"
+ ZHC_hubei_DEF: "Хубей"
+ ZHC_hubei_ADJ: "Хубейськ"
