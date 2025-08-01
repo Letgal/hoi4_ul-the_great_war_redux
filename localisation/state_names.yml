@@ -43,9 +43,9 @@
  STATE_15: "Нормандія"
  FRA_STATE_15: "Норманді"
  STATE_16: "Іль-де-Франс"
- STATE_17:0 "Meurthe-et-Moselle"
- GER_STATE_17:0 "Mörthe und Mosel"
- ALS_STATE_17:0 "Mörthe und Mosel"
+ STATE_17: "Мьорт і Мозель"
+ GER_STATE_17: "Мьорте та Мозель"
+ ALS_STATE_17: "Мьорте та Мозель"
  STATE_18: "Шампань"
  STATE_19: "Аквітанія"
  STATE_20: "Франш-Конте"
@@ -61,13 +61,13 @@
  GER_STATE_28: "Ельзас"
  ALS_STATE_28: "Ельзас"
  STATE_29: "Артуа"
- BEL_STATE_29:0 "Artesië"
- HOL_STATE_29:0 "Artesië"
+ BEL_STATE_29: "Артесіе"
+ HOL_STATE_29: "Артесіе"
  STATE_30: "Пеї де ла Луар"
  STATE_31: "Південь-Піренеї"
  STATE_32: "Рона-Альпи"
  STATE_33: "Жіве-Фюме"
- BEL_STATE_33:0 "Djivet-Fumwè"
+ BEL_STATE_33: "Джіве-Фюмве"
  STATE_34: "Валлонія"
  BEL_STATE_34: "Валлоні"
  FRA_STATE_34: "Валлоні"
@@ -256,7 +256,7 @@
  #SER_STATE_105: "Crna Gora"
  #CRO_STATE_105: "Crna Gora"
  TUR_STATE_105: "Карадаг"
- ALB_STATE_105:0 "Mali i Zi"
+ ALB_STATE_105: "Малі і Зі"
  STATE_106: "Скоп'є"
  ALB_STATE_106: "Шкупі"
  TUR_STATE_106: "Ускюп"
@@ -446,7 +446,7 @@
  #RUS_STATE_198: "Podolye"
  #UKR_STATE_198: "Podillia"
  #POL_STATE_198: "Podole"
- STATE_199:0 "Tsaribrod"
+ STATE_199: "Царіброд"
  STATE_200: "Дідімотіхон"
  TUR_STATE_200: "Меріч"
  WTH_STATE_200: "Меріч"
@@ -640,34 +640,34 @@
  STATE_321: "Ґоа"
  POR_STATE_321: "Португальська Індія"
  STATE_322: "Тибет"
- CHI_STATE_322:0 "Xizang" #西藏
- PRC_STATE_322:0 "Xizang" #西藏
- GXC_STATE_322:0 "Xizang" #西藏
- YUN_STATE_322:0 "Xizang" #西藏
- SHX_STATE_322:0 "Xizang" #西藏
- XSM_STATE_322:0 "Xizang" #西藏
- SIK_STATE_322:0 "Xizang" #西藏
- HNC_STATE_322:0 "Xizang" #西藏
- FNG_STATE_322:0 "Xizang" #西藏
- ZHE_STATE_322:0 "Xizang" #西藏
- GDC_STATE_322:0 "Xizang" #西藏
- GZC_STATE_322:0 "Xizang" #西藏
- ANC_STATE_322:0 "Xizang" #西藏
- SCC_STATE_322:0 "Xizang" #西藏
- JNC_STATE_322:0 "Xizang" #西藏
- JXC_STATE_322:0 "Xizang" #西藏
- SDC_STATE_322:0 "Xizang" #西藏
- GMJ_STATE_322:0 "Xizang" #西藏
- MAN_STATE_322:0 "Xizang" #西藏
- ZHC_STATE_322:0 "Xizang" #西藏
- SHN_STATE_322:0 "Xizang" #西藏
- YLN_STATE_322:0 "Xizang" #西藏
- GAN_STATE_322:0 "Xizang" #西藏
- FJN_STATE_322:0 "Xizang" #西藏
- JLN_STATE_322:0 "Xizang" #西藏
- XKC_STATE_322:0 "Xizang" #西藏
- TGC_STATE_322:0 "Xizang" #西藏
- QZC_STATE_322:0 "Xizang" #西藏
+ CHI_STATE_322: "Сіцзан" #西藏
+ PRC_STATE_322: "Сіцзан" #西藏
+ GXC_STATE_322: "Сіцзан" #西藏
+ YUN_STATE_322: "Сіцзан" #西藏
+ SHX_STATE_322: "Сіцзан" #西藏
+ XSM_STATE_322: "Сіцзан" #西藏
+ SIK_STATE_322: "Сіцзан" #西藏
+ HNC_STATE_322: "Сіцзан" #西藏
+ FNG_STATE_322: "Сіцзан" #西藏
+ ZHE_STATE_322: "Сіцзан" #西藏
+ GDC_STATE_322: "Сіцзан" #西藏
+ GZC_STATE_322: "Сіцзан" #西藏
+ ANC_STATE_322: "Сіцзан" #西藏
+ SCC_STATE_322: "Сіцзан" #西藏
+ JNC_STATE_322: "Сіцзан" #西藏
+ JXC_STATE_322: "Сіцзан" #西藏
+ SDC_STATE_322: "Сіцзан" #西藏
+ GMJ_STATE_322: "Сіцзан" #西藏
+ MAN_STATE_322: "Сіцзан" #西藏
+ ZHC_STATE_322: "Сіцзан" #西藏
+ SHN_STATE_322: "Сіцзан" #西藏
+ YLN_STATE_322: "Сіцзан" #西藏
+ GAN_STATE_322: "Сіцзан" #西藏
+ FJN_STATE_322: "Сіцзан" #西藏
+ JLN_STATE_322: "Сіцзан" #西藏
+ XKC_STATE_322: "Сіцзан" #西藏
+ TGC_STATE_322: "Сіцзан" #西藏
+ QZC_STATE_322: "Сіцзан" #西藏
  STATE_323: "Непал"
  STATE_324: "Бутан"
  STATE_325: "Юньнань" #雲南
@@ -684,10 +684,10 @@
  #MAN_STATE_328: "Сіньцзін" #新京
  KOR_STATE_328: "Намманджу"
  STATE_329: "Танну-Урянхай"
- QIN_STATE_329:0 "Hailiangdao Nutang"
- CHI_STATE_329:0 "Hailiangdao Nutang"
+ QIN_STATE_329: "Хайляндао Нутан" # (?)
+ CHI_STATE_329: "Хайляндао Нутан" # (?)
  STATE_330: "Зовнішня Монґолія"
- QIN_STATE_330:0 "Wai Menggu"
+ QIN_STATE_330: "Вай Менґу"
  MON_STATE_330: "Монґолія"
  TAN_STATE_330: "Монґолія"
  STATE_331: "Ньюфаундленд"
@@ -1022,35 +1022,35 @@
  STATE_589: "Семиріччя"
  TRK_STATE_589: "Жетису"
  KAZ_STATE_589: "Жетису"
- QIN_STATE_589:0 "Waixibei" #外西北
- CHI_STATE_589:0 "Waixibei" #外西北
- PRC_STATE_589:0 "Waixibei" #外西北
- GXC_STATE_589:0 "Waixibei" #外西北
- YUN_STATE_589:0 "Waixibei" #外西北
- SHX_STATE_589:0 "Waixibei" #外西北
- XSM_STATE_589:0 "Waixibei" #外西北
- SIK_STATE_589:0 "Waixibei" #外西北
- HNC_STATE_589:0 "Waixibei" #外西北
- FNG_STATE_589:0 "Waixibei" #外西北
- ZHE_STATE_589:0 "Waixibei" #外西北
- GDC_STATE_589:0 "Waixibei" #外西北
- GZC_STATE_589:0 "Waixibei" #外西北
- ANC_STATE_589:0 "Waixibei" #外西北
- SCC_STATE_589:0 "Waixibei" #外西北
- JNC_STATE_589:0 "Waixibei" #外西北
- JXC_STATE_589:0 "Waixibei" #外西北
- SDC_STATE_589:0 "Waixibei" #外西北
- GMJ_STATE_589:0 "Waixibei" #外西北
- MAN_STATE_589:0 "Waixibei" #外西北
- ZHC_STATE_589:0 "Waixibei" #外西北
- SHN_STATE_589:0 "Waixibei" #外西北
- YLN_STATE_589:0 "Waixibei" #外西北
- GAN_STATE_589:0 "Waixibei" #外西北
- FJN_STATE_589:0 "Waixibei" #外西北
- JLN_STATE_589:0 "Waixibei" #外西北
- XKC_STATE_589:0 "Waixibei" #外西北
- TGC_STATE_589:0 "Waixibei" #外西北
- QZC_STATE_589:0 "Waixibei" #外西北
+ QIN_STATE_589: "Вайсібей" #外西北
+ CHI_STATE_589: "Вайсібей" #外西北
+ PRC_STATE_589: "Вайсібей" #外西北
+ GXC_STATE_589: "Вайсібей" #外西北
+ YUN_STATE_589: "Вайсібей" #外西北
+ SHX_STATE_589: "Вайсібей" #外西北
+ XSM_STATE_589: "Вайсібей" #外西北
+ SIK_STATE_589: "Вайсібей" #外西北
+ HNC_STATE_589: "Вайсібей" #外西北
+ FNG_STATE_589: "Вайсібей" #外西北
+ ZHE_STATE_589: "Вайсібей" #外西北
+ GDC_STATE_589: "Вайсібей" #外西北
+ GZC_STATE_589: "Вайсібей" #外西北
+ ANC_STATE_589: "Вайсібей" #外西北
+ SCC_STATE_589: "Вайсібей" #外西北
+ JNC_STATE_589: "Вайсібей" #外西北
+ JXC_STATE_589: "Вайсібей" #外西北
+ SDC_STATE_589: "Вайсібей" #外西北
+ GMJ_STATE_589: "Вайсібей" #外西北
+ MAN_STATE_589: "Вайсібей" #外西北
+ ZHC_STATE_589: "Вайсібей" #外西北
+ SHN_STATE_589: "Вайсібей" #外西北
+ YLN_STATE_589: "Вайсібей" #外西北
+ GAN_STATE_589: "Вайсібей" #外西北
+ FJN_STATE_589: "Вайсібей" #外西北
+ JLN_STATE_589: "Вайсібей" #外西北
+ XKC_STATE_589: "Вайсібей" #外西北
+ TGC_STATE_589: "Вайсібей" #外西北
+ QZC_STATE_589: "Вайсібей" #外西北
  STATE_590: "Букеєвська орда" # Букеєвськ в АЛ
  STATE_591: "Цюн'я" #瓊崖
  STATE_592: "Ґуанчжоу" #廣州
@@ -1063,35 +1063,35 @@
  STATE_599: "Ґуансі" #廣西
  STATE_600: "Цзянсі" #江西
  STATE_601: "Качін"
- QIN_STATE_601:0 "Jiangxinpo" #江心坡
- CHI_STATE_601:0 "Jiangxinpo" #江心坡
- PRC_STATE_601:0 "Jiangxinpo" #江心坡
- GXC_STATE_601:0 "Jiangxinpo" #江心坡
- YUN_STATE_601:0 "Jiangxinpo" #江心坡
- SHX_STATE_601:0 "Jiangxinpo" #江心坡
- XSM_STATE_601:0 "Jiangxinpo" #江心坡
- SIK_STATE_601:0 "Jiangxinpo" #江心坡
- HNC_STATE_601:0 "Jiangxinpo" #江心坡
- FNG_STATE_601:0 "Jiangxinpo" #江心坡
- ZHE_STATE_601:0 "Jiangxinpo" #江心坡
- GDC_STATE_601:0 "Jiangxinpo" #江心坡
- GZC_STATE_601:0 "Jiangxinpo" #江心坡
- ANC_STATE_601:0 "Jiangxinpo" #江心坡
- SCC_STATE_601:0 "Jiangxinpo" #江心坡
- JNC_STATE_601:0 "Jiangxinpo" #江心坡
- JXC_STATE_601:0 "Jiangxinpo" #江心坡
- SDC_STATE_601:0 "Jiangxinpo" #江心坡
- GMJ_STATE_601:0 "Jiangxinpo" #江心坡
- MAN_STATE_601:0 "Jiangxinpo" #江心坡
- ZHC_STATE_601:0 "Jiangxinpo" #江心坡
- SHN_STATE_601:0 "Jiangxinpo" #江心坡
- YLN_STATE_601:0 "Jiangxinpo" #江心坡
- GAN_STATE_601:0 "Jiangxinpo" #江心坡
- FJN_STATE_601:0 "Jiangxinpo" #江心坡
- JLN_STATE_601:0 "Jiangxinpo" #江心坡
- XKC_STATE_601:0 "Jiangxinpo" #江心坡
- TGC_STATE_601:0 "Jiangxinpo" #江心坡
- QZC_STATE_601:0 "Jiangxinpo" #江心坡
+ QIN_STATE_601: "Цзянсіньпо" #江心坡
+ CHI_STATE_601: "Цзянсіньпо" #江心坡
+ PRC_STATE_601: "Цзянсіньпо" #江心坡
+ GXC_STATE_601: "Цзянсіньпо" #江心坡
+ YUN_STATE_601: "Цзянсіньпо" #江心坡
+ SHX_STATE_601: "Цзянсіньпо" #江心坡
+ XSM_STATE_601: "Цзянсіньпо" #江心坡
+ SIK_STATE_601: "Цзянсіньпо" #江心坡
+ HNC_STATE_601: "Цзянсіньпо" #江心坡
+ FNG_STATE_601: "Цзянсіньпо" #江心坡
+ ZHE_STATE_601: "Цзянсіньпо" #江心坡
+ GDC_STATE_601: "Цзянсіньпо" #江心坡
+ GZC_STATE_601: "Цзянсіньпо" #江心坡
+ ANC_STATE_601: "Цзянсіньпо" #江心坡
+ SCC_STATE_601: "Цзянсіньпо" #江心坡
+ JNC_STATE_601: "Цзянсіньпо" #江心坡
+ JXC_STATE_601: "Цзянсіньпо" #江心坡
+ SDC_STATE_601: "Цзянсіньпо" #江心坡
+ GMJ_STATE_601: "Цзянсіньпо" #江心坡
+ MAN_STATE_601: "Цзянсіньпо" #江心坡
+ ZHC_STATE_601: "Цзянсіньпо" #江心坡
+ SHN_STATE_601: "Цзянсіньпо" #江心坡
+ YLN_STATE_601: "Цзянсіньпо" #江心坡
+ GAN_STATE_601: "Цзянсіньпо" #江心坡
+ FJN_STATE_601: "Цзянсіньпо" #江心坡
+ JLN_STATE_601: "Цзянсіньпо" #江心坡
+ XKC_STATE_601: "Цзянсіньпо" #江心坡
+ TGC_STATE_601: "Цзянсіньпо" #江心坡
+ QZC_STATE_601: "Цзянсіньпо" #江心坡
  STATE_602: "Хунань" #湖南
  STATE_603: "Ґуйчжоу" #貴州
  STATE_604: "Цінхай" #靑海
@@ -1224,7 +1224,7 @@
  STATE_698: "Азорські острови"
  STATE_699: "Золота річка"
  SPR_STATE_699: "Ріо-де-Оро"
- MOR_STATE_699:0 "Oued Edhahab"
+ MOR_STATE_699: "Уед ед-Дагаб"
  STATE_700: "Сьєрра-Леоне"
  STATE_701: "Ґамбія"
  STATE_702: "Острови Зеленого Мису"
@@ -1358,7 +1358,7 @@
  #MNT_STATE_761: "Śever Crne Gore"
  #SER_STATE_761: "Śever Crne Gore"
  #CRO_STATE_761: "Śever Crne Gore"
- ALB_STATE_761:0 "Mali i Zi i Veriut"
+ ALB_STATE_761: "Малі і Зі е Веріут"
  TUR_STATE_761: "Ташлиджа"
  STATE_762: "Каттовиц"
  POL_STATE_762: "Катовиці"
@@ -1454,8 +1454,8 @@
  STATE_806: "Карс"
  AZR_STATE_806: "Ґарс"
  STATE_807: "Сектор Тарфая"
- SPR_STATE_807:0 "Cabo Juby"
- MOR_STATE_807:0 "Ra's Juby"
+ SPR_STATE_807: "Мис Джубі"
+ MOR_STATE_807: "Рас Джубі"
  STATE_808: "Брест-Литовськ"
  BLR_STATE_808: "Брест-Літовськ"
  #UKR_STATE_808: "Brest-Lytovsk"
@@ -1582,7 +1582,7 @@
  #MOL_STATE_868: "Carpatii Orientali"
  AUS_STATE_868: "Осткарпатен"
  HUN_STATE_868: "Келеті-Карпаток"
- STATE_869: "Заарланд"
+ STATE_869: "Саарланд" # Заар
  FRA_STATE_869: "Сар"
  STATE_870: "Шкодер"
  TUR_STATE_870: "Ішкодра"
@@ -1811,7 +1811,7 @@
  STATE_989: "Пфальц"
  #GER_STATE_989: "Pfalz"
  #BAY_STATE_989: "Pfalz"
- #FRA_STATE_989: "Palatinat"
+ FRA_STATE_989: "Палатіна" # (&?)
  STATE_990: "Західна Вірджинія"
  STATE_991: "Біеліц"
  POL_STATE_991: "Бєльсько"
@@ -1866,7 +1866,7 @@
  GER_STATE_1015: "Сувалькен"
  COU_STATE_1015: "Сувалькен"
  UBD_STATE_1015: "Сувалькен"
- STATE_1016:0 "Xuhai" #徐海
+ STATE_1016: "Сюйхай" #徐海
  STATE_1017: "Дрогічин"
  RUS_STATE_1017: "Дрохічин"
  LIT_STATE_1017: "Дрогічінас"
@@ -1933,16 +1933,16 @@
  LBA_STATE_1061: "Барка"
  STATE_1062: "Тінчжан" #汀漳
  STATE_1063: "Лімбурґ"
- STATE_1064:0 "Chuandong" #川東
- STATE_1065:0 "Chuanbian" #傳遍
- STATE_1066:0 "Chuannan" #川南
+ STATE_1064: "Чуаньдун" #川東
+ STATE_1065: "Чуаньбянь" #傳遍
+ STATE_1066: "Чуаньнань" #川南
  STATE_1067: "Хетянь" #和闐
  STATE_1068: "Сухумі"
  RUS_STATE_1068: "Сухум"
  STATE_1069: "Кутаїсі"
  RUS_STATE_1069: "Кутаїс"
  STATE_1070: "Нормандські острови"
- #FRA_STATE_1070:0 "Îles Anglo-Normandes"
+ #FRA_STATE_1070: "Îles Anglo-Normandes"
  STATE_1071: "Акрі"
  STATE_1072: "Піауї"
  STATE_1073: "Еспіріту-Санту"
@@ -1952,17 +1952,17 @@
  STATE_1077: "Алаґоас"
  STATE_1078: "Сержіпі"
  STATE_1079: "Штат Ріу-джі-Жанейру"
- #BRA_STATE_1079:0 "Estado do Rio de Janeiro"
+ #BRA_STATE_1079: "Estado do Rio de Janeiro"
  STATE_1080: "Ессекібо"
  VEN_STATE_1080: "Есекібо"
- STATE_1081:0 "Tigri Area"
- STATE_1082:0 "Malani-Litani"
- STATE_1083:0 "Leticia"
- STATE_1084:0 "Putumayo"
- STATE_1085:0 "Napo"
- STATE_1086:0 "Caqueta"
- STATE_1087:0 "Tres Fronteras"
- STATE_1088:0 "Napo Pastaza"
+ STATE_1081: "Район Тіґрі"
+ STATE_1082: "Малані-Літані"
+ STATE_1083: "Летісія"
+ STATE_1084: "Путумайо"
+ STATE_1085: "Напо"
+ STATE_1086: "Какета"
+ STATE_1087: "Трес-Фронтерас"
+ STATE_1088: "Напо Пастаса"
  STATE_1089: "Есмеральдас"
  STATE_1090: "Даріен"
  STATE_1091: "Північний Чако"
@@ -2054,7 +2054,7 @@
  MAF_STATE_1145: "Нордніґерія"
  STATE_1146: "Нижній Єгипет"
  STATE_1147: "Аїр"
- STATE_1148:0 "Hoggar"
+ STATE_1148: "Агаґґар"
  STATE_1149: "Джідда"
  TUR_STATE_1149: "Джідде"
  STATE_1150: "Kaouar"
@@ -2078,117 +2078,117 @@
  STATE_1161: "Timiaouine"
  STATE_1162: "Верхня Вольта"
  #FRA_STATE_1162: "Haute-Volta"
- STATE_1163:0 "Bremen"
- STATE_1164:0 "Mecklenburg-Strelitz"
- STATE_1165:0 "Hamburg"
- STATE_1166:0 "Lübeck"
- STATE_1167:0 "Eutin"
- STATE_1168:0 "Brunswick"
- GER_STATE_1168:0 "Braunschweig"
- BRU_STATE_1168:0 "Braunschweig"
- STATE_1169:0 "Anhalt"
- STATE_1170:0 "Waldeck-Pyrmont"
- STATE_1171:0 "Lippe"
- STATE_1172:0 "Schaumburg-Lippe"
- STATE_1173:0 "Saxe-Meiningen"
- GER_STATE_1173:0 "Sachsen-Meiningen"
- THU_STATE_1173:0 "Sachsen-Meiningen"
- STATE_1174:0 "Saxe-Altenburg"
- GER_STATE_1174:0 "Sachsen-Altenburg"
- THU_STATE_1174:0 "Sachsen-Altenburg"
- STATE_1175:0 "Saxe-Coburg"
- GER_STATE_1175:0 "Sachsen-Coburg"
- BAY_STATE_1175:0 "Sachsen-Coburg"
- THU_STATE_1175:0 "Sachsen-Coburg"
- STATE_1176:0 "Saxe-Gotha"
- GER_STATE_1176:0 "Sachsen-Gotha"
- THU_STATE_1176:0 "Sachsen-Gotha"
- STATE_1177:0 "Reuss-Greiz"
- STATE_1178:0 "Reuss-Gera"
- STATE_1179:0 "Schwarzburg-Sondershausen"
- STATE_1180:0 "Schwarzburg-Rudolstadt"
- STATE_1181:0 "Starkenburg"
- STATE_1182:0 "Wetzlar"
- STATE_1183:0 "Birkenfeld"
- STATE_1184:0 "Bergisches Land"
- STATE_1185:0 "Rhine-Ruhr"
- GER_STATE_1185:0 "Rhein-Ruhr"
- RHN_STATE_1185:0 "Rhein-Ruhr"
- FRA_STATE_1185:0 "Rhin-Ruhr"
- STATE_1186:0 "Montabaur"
- STATE_1187:0 "Wiesbaden"
- STATE_1188:0 "Rhenish Hesse"
- GER_STATE_1188:0 "Rheinhessen"
- HES_STATE_1188:0 "Rheinhessen"
- FRA_STATE_1188:0 "Hesse rhénane"
- STATE_1189:0 "Upper Hesse"
- GER_STATE_1189:0 "Oberhessen"
- HES_STATE_1189:0 "Oberhessen"
- STATE_1190:0 "Salzburg"
- STATE_1191:0 "Carinthia"
- AUS_STATE_1191:0 "Kärnten"
- GER_STATE_1191:0 "Kärnten"
- STATE_1192:0 "Klagenfurt"
- SER_STATE_1192:0 "Clouvc"
- CRO_STATE_1192:0 "Clouvc"
- SLV_STATE_1192:0 "Clouvc"
- STATE_1193:0 "Ferlach"
- SER_STATE_1193:0 "Borovlje"
- CRO_STATE_1193:0 "Borovlje"
- SLV_STATE_1193:0 "Borovlje"
- STATE_1194:0 "Styria"
- AUS_STATE_1194:0 "Steiermark"
- GER_STATE_1194:0 "Steiermark"
- STATE_1195:0 "Vorarlberg"
- STATE_1196:0 "Lower Styria"
- AUS_STATE_1196:0 "Untersteiermark"
- GER_STATE_1196:0 "Untersteiermark"
- SLV_STATE_1196:0 "Štajerska"
- SER_STATE_1196:0 "Štajerska"
- CRO_STATE_1196:0 "Štajerska"
- STATE_1197:0 "Gorizia"
- AUS_STATE_1197:0 "Görz und Gradisca"
- GER_STATE_1197:0 "Görz"
- SLV_STATE_1197:0 "Goriška"
- SER_STATE_1197:0 "Goriška"
- STATE_1198:0 "Trieste"
- AUS_STATE_1198:0 "Triest"
- GER_STATE_1198:0 "Triest"
- SLV_STATE_1198:0 "Trst"
- SER_STATE_1198:0 "Trst"
- STATE_1199:0 "Litomyšl"
- AUS_STATE_1199:0 "Leitomischl"
- GER_STATE_1199:0 "Leitomischl"
- STATE_1200:0 "South Moravia"
- CZE_STATE_1200:0 "Jižní Morava"
- AUS_STATE_1200:0 "Südmähren"
- GER_STATE_1200:0 "Südmähren"
- STATE_1201:0 "Radom"
- STATE_1202:0 "Piotrków"
- GER_STATE_1202:0 "Petrikau"
- STATE_1203:0 "Łomża"
- GER_STATE_1203:0 "Lomscha"
- STATE_1204:0 "Włocławek"
- GER_STATE_1204:0 "Leslau"
- STATE_1205:0 "Coastal Montenegro"
- MNT_STATE_1205:0 "Primorje Crne Gore"
- SER_STATE_1205:0 "Primorje Crne Gore"
- CRO_STATE_1205:0 "Primorje Crne Gore"
- TUR_STATE_1205:0 "Karadağ kıyıları"
- STATE_1206:0 "Ragusa"
- HUN_STATE_1206:0 "Raguza"
- CRO_STATE_1206:0 "Dubrovnik"
- SER_STATE_1206:0 "Dubrovnik"
- MNT_STATE_1206:0 "Dubrovnik"
- STATE_1207:0 "Sinai Desert"
- STATE_1208:0 "Saar-Palatinate"
- GER_STATE_1208:0 "Saarpfalz"
- BAY_STATE_1208:0 "Saarpfalz"
- RHN_STATE_1208:0 "Saarpfalz"
- FRA_STATE_1208:0 "Sarre-Palatinat"
- STATE_1209:0 "Kehl"
- STATE_1210:0 "Haute-Savoie"
- ITA_STATE_1210:0 "Alta Savoia"
+ STATE_1163: "Бремен"
+ STATE_1164: "Мекленбурґ-Штрелиц"
+ STATE_1165: "Гамбурґ"
+ STATE_1166: "Любек"
+ STATE_1167: "Ойтін"
+ STATE_1168: "Брауншвайґ"
+ #GER_STATE_1168: "Braunschweig"
+ #BRU_STATE_1168: "Braunschweig"
+ STATE_1169: "Ангальт"
+ STATE_1170: "Вальдек-Пірмонт"
+ STATE_1171: "Ліппе"
+ STATE_1172: "Шаумбурґ-Ліппе"
+ STATE_1173: "Саксен-Майнінґен"
+ #GER_STATE_1173: "Sachsen-Meiningen"
+ #THU_STATE_1173: "Sachsen-Meiningen"
+ STATE_1174: "Саксен-Альтенбурґ"
+ #GER_STATE_1174: "Sachsen-Altenburg"
+ #THU_STATE_1174: "Sachsen-Altenburg"
+ STATE_1175: "Саксен-Кобурґ"
+ #GER_STATE_1175: "Sachsen-Coburg"
+ #BAY_STATE_1175: "Sachsen-Coburg"
+ #THU_STATE_1175:0 "Sachsen-Coburg"
+ STATE_1176: "Саксен-Ґота"
+ #GER_STATE_1176: "Sachsen-Gotha"
+ #THU_STATE_1176: "Sachsen-Gotha"
+ STATE_1177: "Ройсс-Ґрайц"
+ STATE_1178: "Ройсс-Ґера"
+ STATE_1179: "Шварцбурґ-Зондерсгаузен"
+ STATE_1180: "Шварцбурґ-Рудольштадт"
+ STATE_1181: "Штаркенбурґ"
+ STATE_1182: "Вецлар"
+ STATE_1183: "Біркенфельд"
+ STATE_1184: "Берґішес Ланд"
+ STATE_1185: "Райн-Рур"
+ #GER_STATE_1185: "Rhein-Ruhr"
+ #RHN_STATE_1185: "Rhein-Ruhr"
+ #FRA_STATE_1185: "Rhin-Ruhr"
+ STATE_1186: "Монтабаур"
+ STATE_1187: "Вісбаден"
+ STATE_1188: "Райнський Гессен"
+ #GER_STATE_1188: "Rheinhessen"
+ #HES_STATE_1188: "Rheinhessen"
+ #FRA_STATE_1188: "Hesse rhénane"
+ STATE_1189: "Верхній Гессен"
+ #GER_STATE_1189: "Oberhessen"
+ #HES_STATE_1189: "Oberhessen"
+ STATE_1190: "Зальцбурґ"
+ STATE_1191: "Карінтія"
+ AUS_STATE_1191: "Кернтен"
+ GER_STATE_1191: "Кернтен"
+ STATE_1192: "Клаґенфурт"
+ SER_STATE_1192: "Целовець" # інак. Цлоувць
+ CRO_STATE_1192: "Целовець" # інак. Цлоувць
+ SLV_STATE_1192: "Целовець" # інак. Цлоувць
+ STATE_1193: "Ферлах"
+ SER_STATE_1193: "Боровлє"
+ CRO_STATE_1193: "Боровлє"
+ SLV_STATE_1193: "Боровлє"
+ STATE_1194: "Штірія"
+ AUS_STATE_1194: "Штаєрмарк"
+ GER_STATE_1194: "Штаєрмарк"
+ STATE_1195: "Форарльберґ"
+ STATE_1196: "Нижня Штірія"
+ AUS_STATE_1196: "Унтерштаєрмарк"
+ GER_STATE_1196: "Унтерштаєрмарк"
+ SLV_STATE_1196: "Штаєрська"
+ SER_STATE_1196: "Штаєрська"
+ CRO_STATE_1196: "Штаєрська"
+ STATE_1197: "Ґоріція"
+ AUS_STATE_1197: "Ґьорц і Ґрадиска"
+ GER_STATE_1197: "Ґьорц"
+ SLV_STATE_1197: "Ґорішка"
+ SER_STATE_1197: "Ґорішка"
+ STATE_1198: "Трієст"
+ AUS_STATE_1198: "Тріест"
+ GER_STATE_1198: "Тріест"
+ SLV_STATE_1198: "Трст"
+ SER_STATE_1198: "Трст"
+ STATE_1199: "Літомишл"
+ AUS_STATE_1199: "Лайтомишл"
+ GER_STATE_1199: "Лайтомишл"
+ STATE_1200: "Південна Моравія"
+ #CZE_STATE_1200: "Jižní Morava"
+ AUS_STATE_1200: "Зюдмерен"
+ GER_STATE_1200: "Зюдмерен"
+ STATE_1201: "Радом"
+ STATE_1202: "Пьотркув"
+ GER_STATE_1202: "Петрикау"
+ STATE_1203: "Ломжа"
+ GER_STATE_1203: "Ломша"
+ STATE_1204: "Влоцлавек"
+ GER_STATE_1204: "Леслау"
+ STATE_1205: "Приморська Чорногорія"
+ #MNT_STATE_1205: "Primorje Crne Gore"
+ #SER_STATE_1205: "Primorje Crne Gore"
+ #CRO_STATE_1205: "Primorje Crne Gore"
+ TUR_STATE_1205: "Карадаг кийилари"
+ STATE_1206: "Раґуза"
+ #HUN_STATE_1206: "Raguza"
+ CRO_STATE_1206: "Дубровнік"
+ SER_STATE_1206: "Дубровнік"
+ MNT_STATE_1206: "Дубровнік"
+ STATE_1207: "Сінайська пустеля"
+ STATE_1208: "Саарпфальц"
+ #GER_STATE_1208: "Saarpfalz" # Заарпфальц
+ #BAY_STATE_1208: "Saarpfalz"
+ #RHN_STATE_1208: "Saarpfalz"
+ FRA_STATE_1208: "Сар-Палатіна" # (&?)
+ STATE_1209: "Кель"
+ STATE_1210: "Верхня Савоя"
+ ITA_STATE_1210: "Альт-Савоя"
 
  LEVGRAD_STATE: "Левград"
  LEVINSK_STATE: "Левинськ"
