@@ -4,20 +4,20 @@
   SE_TEST_A: "((((("
 
   SE_WAR_OF_THE_WORLDS_T: "Війна світів"
-  SE_WAR_OF_THE_WORLDS_D:0 "\n\n\n'Це не війна, це ніколи не було війною, як і війна між людиною та мурахами.'\n- Артилерист"
-  SE_WAR_OF_THE_WORLDS_A:0 "Шанси були мільйон до одного..."
+  #SE_WAR_OF_THE_WORLDS_D:0 "\n\n"This isn't a war, it never was a war, any more than there's war between man and ants."\n- Artilleryman"
+  #SE_WAR_OF_THE_WORLDS_A:0 "Chances were a million to one..."
 
   SE_BATTLE_OF_VERDUN_T: "Верденська битва"
-  SE_BATTLE_OF_VERDUN_D:0 "\n\n"Верден - символ і вершина Великої Війни. Можливо, це єдине ім'я, яке переживе забуття століть."\n- Гай Петрончіні"
+  #SE_BATTLE_OF_VERDUN_D:0 "\n\n"Verdun is the symbol and the summit of the Great War. It is arguably the only name that will survive the oblivion of centuries."\n- Guy Pedroncini"
   SE_BATTLE_OF_VERDUN_A: "Вони не пройдуть!"
 
   SE_great_war_T: "Велика війна"
-  SE_great_war_D:0 "Tuba mirum spargens sonum,\nPer sepulchra regionum,\nCoget omnes ante thronum.\n\nMors stupebit et natura,\nCum resurget creatura,\nJudicanti responsura."
+  SE_great_war_D: "\n«Я думаю, на мені мусить лежати прокляття, бо я люблю цю війну. Я знаю, що вона щомиті нищить і розбиває життя тисяч осіб, а все ж ніщо не можу з цим удіяти — я насолоджуюся кожною її секундою».\n(Вінстон Черчилл)"
   SE_great_war_A: "Війна, що покладе кінець усім війнам."
 
   SE_great_depression_T: "Велика депресія"
-  SE_great_depression_D:0 "\n\n'Банк - це щось більше, ніж люди, кажу я вам. Це монстр. Люди створили його, але вони не можуть його контролювати.'\n- Джон Стейнбек"
-  SE_great_depression_A:0 "Єдине, чого ми повинні боятися, - це сам страх."
+  #SE_great_depression_D:0 "\n\n"The bank is something more than men, I tell you. It's the monster. Men made it, but they can't control it."\n- John Steinbeck"
+  SE_great_depression_A:0 "In the long run, we are all dead."
   #Arab
   SE_arab_revolt_T: "Велика арабська революція"
   SE_arab_revolt_D:0 "\n"I do not care if the presidency were in the hands of a Syrian, and Iraqi, a Najdi or whoever. The goal is that the people of this nation become independent and united."\n- Sharif Hussien"
@@ -28,7 +28,7 @@
   SE_gre_schism_A: "Зíто о Ефнáрхіс!"
 
   SE_burning_of_smyrna_T: "Різанина у Смірні"
-  SE_burning_of_smyrna_D:0 "\n\n"At last we've uprooted the Greeks..."\n- Mustafa Kemal Pasha"
+  SE_burning_of_smyrna_D: "\n\n«Принаймні ми викорінили греків...»\n(Мустафа Кемаль-паша)"
   SE_burning_of_smyrna_A: "І Смíрні мáна кéгете..."
 
   SE_balkan_war_1_T: "Балканська війна"
@@ -40,7 +40,7 @@
   SE_balkan_war_2_A: "Чи може Болгарія виграти самотужки?"
 
   SE_gre_byzantium_T: "Відродження Східного Риму"
-  SE_gre_byzantium_D:0 "\n\n"Constantine built her, Constantine lost her, Constantine will take her back.""
+  SE_gre_byzantium_D: "\n\n«Константін його збудував, Константін його втратив, Константін поверне його назад»."
   SE_gre_byzantium_A: "Зíто о Афтокрáтор!"
 
   SE_greeko_turkish_war_T: "Греко-турецька війна"
@@ -53,42 +53,42 @@
 
 
   #Britain
-  SE_ENG_REPUBLIC_T:0 "Британська Республіка"
-  SE_ENG_REPUBLIC_D:0 "'Кілька століть тому один король, який повстав проти простих людей того часу, втратив голову - справді втратив її. Пізніше одному з його нащадків було наказано забиратися якомога швидше. Відтоді Королі й Королеви були такими, якими вони мають бути. Вони ніколи не втручалися у звичайну політику, і Георгу V варто було б зараз тримати руку подалі від пирога.'\n- Джордж Ленсбері"
-  SE_ENG_REPUBLIC_A:0 "Боже, бережи людей"
+  SE_ENG_REPUBLIC_T: "Британська республіка"
+  #SE_ENG_REPUBLIC_D:0 ""A few centuries ago one King who stood up against the common people of that day lost his head-lost it really. Later, one of his descendants was told to get out as quickly as he could. Since that day Kings and Queens had been what they ought to be. They never interfered with ordinary politics, and George V would be well advised to keep his finger out of the pie now."\n- George Lansbury"
+  SE_ENG_REPUBLIC_A: "Боже, бережи народ."
 
-  SE_eng_kitchener_T:0 "Кітченер відновлює порядок"
-  SE_eng_kitchener_D:0 "\n'Притулившись спиною до стіни і вірячи в справедливість нашої справи, кожен з нас повинен боротися до кінця.'\n- Дуглас Гейг"
-  SE_eng_kitchener_A:0 "Ви потрібні королю і країні"
+  SE_eng_kitchener_T: "Кітченер відновлює порядок"
+  SE_eng_kitchener_D:0 "\n"Every position must be held to the last man. There must be no retirement. With our backs to the wall, and believing in the justice of our cause, each one of us must fight to the end."\n- Douglas Haig"
+  SE_eng_kitchener_A: "Ви потрібні королю та країні."
 
-  SE_eng_george_v_T:0 "Георг V стверджує королівську прерогативу"
-  SE_eng_george_v_D:0 "\n\n'Свобода народу посилює прерогативу короля, а прерогатива короля - захищати свободи народу.'\n\n- Карл I"
-  SE_eng_george_v_A:0 "З волі Його Величності"
+  SE_eng_george_v_T: "Георг V стверджує королівську прерогативу"
+  SE_eng_george_v_D: "\n\n«Свободи народу зміцнюють прерогативу короля, а прерогативою короля є захищати свободи народу».\n(Карл I)"
+  SE_eng_george_v_A: "Волею Його Величності."
 
-  SE_eng_imperial_federation_T:0 "Створення Імперської Федерації"
-  SE_eng_imperial_federation_D:0 "\n\n'Ті, хто знає тільки Англію, не знають Англії.'\n- Редьярд Кіплінґ" # Ред'ярд
-  SE_eng_imperial_federation_A:0 "Над імперією не заходить сонце"
+  SE_eng_imperial_federation_T: "Імперську федерацію утворено" # (&+)
+  SE_eng_imperial_federation_D: "\n\n«Ті, хто знають тільки Англію, не знаю Англію».\n(Редьярд Кіплінґ)" # Рад'ярд
+  SE_eng_imperial_federation_A: "Сонце, що ніколи не заходить." # (&+)
 
-  SE_eng_fall_of_america_T:0 "Падіння Америки"
-  SE_eng_fall_of_america_D:0 "\n\n"Я задоволений тим, що одна активна кампанія... спалення двох-трьох їхніх міст все налагодить."\n-Джон Піткерн"
-  SE_eng_fall_of_america_A:0 "Британці прийшли."
+  SE_eng_fall_of_america_T: "Падіння Америки"
+  #SE_eng_fall_of_america_D:0 "\n\n"I am satisfied that one active campaign... burning two or three of their towns, will set everything to rights."\n-John Pitcairn"
+  SE_eng_fall_of_america_A: "Британці прийшли."
 
   #Russia
   SE_FEBRUARY_REVOLUTION_T: "Революція [GetMonth]"
-  SE_FEBRUARY_REVOLUTION_D:0 "\n\n\n'Навколо мене зрада, боягузтво і обман...'\n- Микола II"
+  SE_FEBRUARY_REVOLUTION_D: "\n\n«Повсюди навколо мене зрада, боягузтво й обман...»\n(Микола II)"
   SE_FEBRUARY_REVOLUTION_A: "Земля та свобода."
 
   SE_OCTOBER_REVOLUTION_T: "Більшовицький переворот"
-  SE_OCTOBER_REVOLUTION_D:0 "\n'Люди, які вихвалялися, що вони здійснили революцію, на наступний день завжди бачили, що вони й гадки не мають, що вони роблять, що зроблена революція ні в найменшій мірі не схожа на ту, яку вони хотіли б здійснити.'\n- Фрідріх Енгельс"
+  #SE_OCTOBER_REVOLUTION_D:0 "\n"People who boasted that they had made a revolution have always seen the next day that they had no idea what they were doing, that the revolution made did not in the least resemble the one they would have liked to make."\n- Friedrich Engels"
   SE_OCTOBER_REVOLUTION_A: "Вся власть советам."
 
   SE_rus_civil_war_winner_white_T: "Перемога Білої армії"
-  SE_rus_civil_war_winner_white_D:0 "\n\n\n'У свідомості чесних російських людей щастя Батьківщини не може бути придбано шляхом її розчленування.'\n- Антон Денікін"
+  #SE_rus_civil_war_winner_white_D:0 "\n\n"In the minds of honest Russian people, the happiness of the Motherland cannot be acquired by dismembering it."\n- Anton Denikin"
   SE_rus_civil_war_winner_white_siberia_D:0 "\n\n"There can be no defeat - there can only be temporary setbacks."\n- Aleksandr Kolchak"
   SE_rus_civil_war_winner_white_A: "Єдині та неподільні."
 
   SE_rus_civil_war_winner_red_T: "Перемога Червоної армії"
-  SE_rus_civil_war_winner_red_D:0 "\n\n\n'Якщо ми не готові розстріляти диверсанта і білогвардійця, то що це за Революція? Нічого, крім розмов і миски каші.'\n- Володимир Ленін"
+  #SE_rus_civil_war_winner_red_D:0 "\n\n"If we are not ready to shoot a saboteur and a White Guard, what sort of Revolution is that? Nothing but talk and a bowl of mush."\n- Vladimir Lenin"
   SE_rus_civil_war_winner_red_A: "Пролетарі всіх країн, єднайтеся!"
 
   SE_rus_civil_war_winner_eser_T: "Перемога есерів"
@@ -96,38 +96,38 @@
   SE_rus_civil_war_winner_eser_A: "Земля та свобода."
 
   SE_rus_savinkov_revolution_T: "Друга Російська революція"
-  SE_rus_savinkov_revolution_D:0 "'І коли він зняв четверту печатку, я почув голос четвертого звіра, який говорив: підіть і подивіться. Я подивився і побачив блідого коня, вершника якого звали Смерть. І Пекло пішло за ним. Їм була дана влада вбивати чверть землі, вбивати мечем, голодом, виразкою і звірами земними.'\n- Одкровення 6:7-8"
+  #SE_rus_savinkov_revolution_D:0 ""And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see. I looked, and behold, a pale horse, and its rider’s name was Death. And Hell followed after him. They were given the authority of one-fourth of the earth, to kill with sword and with famine and with pestilence and by wild beasts of the earth"\n- Revelation 6:7-8"
   SE_rus_savinkov_revolution_A: "Свобода або смерть!"
 
   ######
   SE_mex_revolution_T: "Мексиканська революція"
-  SE_mex_revolution_D:0 "\n'Країною має керувати той, хто справді любить свій народ і свою землю, хто розділяє багатство і прогрес. У мене є все це, тільки те, що я неосвічений.'\n- Панчо Вілья"
+  #SE_mex_revolution_D:0 "\n"The country must be governed by someone who really loves his people and his land, who shares wealth and progress. I have all that, only that I am ignorant."\n- Francisco Villa"
   SE_mex_revolution_A: "¡Tierra y Libertad!"
 
   #China
   SE_chi_xinhai_revolution_T: "Сіньхайська революція"
-  SE_chi_xinhai_revolution_D:0 "\n\n\n'Якщо ідея революції має перемогти, то це повинно відбутися через політичну просвіту. Марно намагатися нав'язати її силою зброї.'\n- Сунь Ятсен"
+  #SE_chi_xinhai_revolution_D:0 "\n\n"If the idea of revolution is to win out, it must be through political enlightenment. It is useless to try to impose it by force of arms."\n- Sun Yat-sen"
   SE_chi_xinhai_revolution_A: "Міньцзу! Міньцюань! Міньшен!"
 
-  SE_chi_warlord_era_T:0 "Епоха воєначальників"
-  SE_chi_warlord_era_D:0 "\n\n\n'Країні не потрібно турбуватися про бідність і слабкість, але якщо національна мораль буде втрачена, країна, безумовно, завалиться і стане невиліковною.'\n\n- Юань Шикай"
-  SE_chi_warlord_era_A:0 "Bù jìn cháng jiāng gǔn gǔn lái."
+  SE_chi_warlord_era_T: "Епоха воєначальників"
+  #SE_chi_warlord_era_D:0 "\n\n"A country does not have to worry about poverty and weakness, but if the national morality is lost, the country will certainly collapse and be incurable."\n- Yuan Shikai"
+  SE_chi_warlord_era_A:0 "Yangtze still imperiously flows."
 
   #####
   SE_bul_bw2_winner_T: "Перемога Болгарії"
-  SE_bul_bw2_winner_D:0 "\n\n\n'Давайте відкинемо наші дрібні амбіції і розбіжності і принесемо себе в жертву на вівтар нашої Вітчизни!"\n- Стефан Стамболов"
+  #SE_bul_bw2_winner_D:0 "\n\n"Let us put aside our small ambitions and differences of opinion and sacrifice ourselves on the altar of our Fatherland!"\n- Stefan Stambolov"
   SE_bul_bw2_winner_A: "Народження гегемона."
 
   #####
   SE_ger_nazi_T: "Підйом нацизму"
-  SE_ger_nazi_D:0 "\n\n'Сьогодні я знову буду пророком. Якщо міжнародним єврейським фінансистам у Європі та за її межами вдасться знову ввергнути народи у світову війну, то результатом буде не більшовизація землі, а отже перемога єврейства, а знищення єврейської раси в Європі!"\n\n- Адольф Гітлер"
+  #SE_ger_nazi_D:0 ""Today I will once more be a prophet. If the international Jewish financiers in and outside Europe should succeed in plunging nations once more into a world war, then the result will not be the bolshevization of the earth and this the victory of Jewry, but the annihilation of the Jewish race in Europe!"\n- Adolf Hitler"
   SE_ger_nazi_A: "Нас охопило чергове божевілля."
 
-  SE_ger_civil_war_T:0 "Війна за возз'єднання Німеччини"
-  SE_ger_civil_war_D:0 "\n\n"Бійтеся не стільки смерті, скільки неадекватного життя."\n- Бертольт Брехт"
+  SE_ger_civil_war_T: "Німецька возз'єднувальна війна"
+  SE_ger_civil_war_D: "\n\n«Бійтеся не стільки смерті, скільки недостатку життя».\n(Бертольт Брехт)"
   SE_ger_civil_war_A: "В ім'я Німеччини!"
 
-  SE_ger_victory_T: "Перемога Кайзеррайха"
+  SE_ger_victory_T: "Перемога Кайзеррайху"
   SE_ger_victory_D:0 ""The sword is drawn, and I cannot sheathe it again without victory and honor. All of you shall and will see to it that only in honor is it returned to the scabbard. You are my guaranty that I can dictate peace to my enemies. Up and at the enemy! Down with the enemies of Brandenburg! Three cheers for our army!"\n- Wilhelm II"
   SE_ger_victory_A: "Gott mit uns."
 
@@ -185,3 +185,20 @@
  SE_greeko_turkish_war:0 "Emvatirio Smirnis"
  SE_balkan_fed:0 "Septemberists"
  SE_arab_revolt:0 "Bilād al-Arab Awtānī"
+
+### СТАРИЙ ПЕРЕКЛАД ###
+  SE_WAR_OF_THE_WORLDS_D:0 "\n\n'Це не війна, це ніколи не було війною, як і війна між людиною та мурахами.'\n- Артилерист"
+  SE_WAR_OF_THE_WORLDS_A:0 "Шанси були мільйон до одного..."
+  SE_BATTLE_OF_VERDUN_D:0 "\n\n"Верден - символ і вершина Великої Війни. Можливо, це єдине ім'я, яке переживе забуття століть."\n- Гай Петрончіні"
+  SE_great_depression_D:0 "\n\n'Банк - це щось більше, ніж люди, кажу я вам. Це монстр. Люди створили його, але вони не можуть його контролювати.'\n- Джон Стейнбек"
+  SE_ENG_REPUBLIC_D:0 "'Кілька століть тому один король, який повстав проти простих людей того часу, втратив голову - справді втратив її. Пізніше одному з його нащадків було наказано забиратися якомога швидше. Відтоді Королі й Королеви були такими, якими вони мають бути. Вони ніколи не втручалися у звичайну політику, і Георгу V варто було б зараз тримати руку подалі від пирога.'\n- Джордж Ленсбері"
+  SE_eng_fall_of_america_D:0 "\n\n"Я задоволений тим, що одна активна кампанія... спалення двох-трьох їхніх міст все налагодить."\n-Джон Піткерн"
+  SE_OCTOBER_REVOLUTION_D:0 "\n'Люди, які вихвалялися, що вони здійснили революцію, на наступний день завжди бачили, що вони й гадки не мають, що вони роблять, що зроблена революція ні в найменшій мірі не схожа на ту, яку вони хотіли б здійснити.'\n- Фрідріх Енгельс"
+  SE_rus_civil_war_winner_white_D:0 "\n\n'У свідомості чесних російських людей щастя Батьківщини не може бути придбано шляхом її розчленування.'\n- Антон Денікін"
+  SE_rus_civil_war_winner_red_D:0 "\n\n'Якщо ми не готові розстріляти диверсанта і білогвардійця, то що це за Революція? Нічого, крім розмов і миски каші.'\n- Володимир Ленін"
+  SE_rus_savinkov_revolution_D:0 "'І коли він зняв четверту печатку, я почув голос четвертого звіра, який говорив: підіть і подивіться. Я подивився і побачив блідого коня, вершника якого звали Смерть. І Пекло пішло за ним. Їм була дана влада вбивати чверть землі, вбивати мечем, голодом, виразкою і звірами земними.'\n- Одкровення 6:7-8"
+  SE_mex_revolution_D:0 "\n'Країною має керувати той, хто справді любить свій народ і свою землю, хто розділяє багатство і прогрес. У мене є все це, тільки те, що я неосвічений.'\n- Франсіско Вілья"
+  SE_chi_xinhai_revolution_D:0 "\n\n'Якщо ідея революції має перемогти, то це повинно відбутися через політичну просвіту. Марно намагатися нав'язати її силою зброї.'\n- Сунь Ятсен"
+  SE_chi_warlord_era_D:0 "\n\n'Країні не потрібно турбуватися про бідність і слабкість, але якщо національна мораль буде втрачена, країна, безумовно, завалиться і стане невиліковною.'\n\n- Юань Шикай"
+  SE_bul_bw2_winner_D:0 "\n\n'Відкиньмо наші дрібні амбіції і розбіжності і принесемо себе в жертву на вівтар нашої Вітчизни!"\n- Стефан Стамболов"
+  SE_ger_nazi_D:0 "'Сьогодні я знову буду пророком. Якщо міжнародним єврейським фінансистам у Європі та за її межами вдасться знову ввергнути народи у світову війну, то результатом буде не більшовизація землі, а отже перемога єврейства, а знищення єврейської раси в Європі!"\n\n- Адольф Гітлер"
