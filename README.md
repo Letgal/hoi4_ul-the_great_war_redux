@@ -18,12 +18,18 @@
 + `replace_core`
 + `replace_designer`
 + `replace_diplomacy`
++ `replace_frontend`
 + `replace_military_industrial_organization`
 + `replace_music`
++ `replace_operatives` (умовно, аааааа)
 + `replace_politics`
 + `replace_state`
++ `replace_stats` (аааааа)
 + `replace_strategic_region_names`
++ `replace_tank_modules`
 + `replace_triggers`
++ `replace_unit`
++ `replace_unit_medals`
 
 ## Зовнішній переклад
 + `ww1_decisions`
@@ -41,6 +47,9 @@
 + `ww1_germany`
 + `ww1_parliament_gui` (старий переклад видалено)
 
+### Папка `replace`
++ `replace_ideas`
+
 ## Файл оновлено, старий переклад збережено
 + `bookmarks`
 + `equip_air`
@@ -57,22 +66,16 @@
 + `ww1_scripted_triggers`
 + `ww1_traits`
 
+### Папка `replace`
++ `replace_game_rules`
++ `replace_wtt_decisions`
+
 ## Тільки старий переклад (оновити)
 ### Папка `replace`
 + `replace_equip_naval`
 + `replace_events`
-+ `replace_focus`
-+ `replace_game_rules`
-+ `replace_ideas`
-+ `replace_operatives`
 + `replace_peace`
 + `replace_research`
-+ `replace_stats`
-+ `replace_traits`
-+ `replace_triggers`
-+ `replace_unit`
-+ `replace_unit_medals`
-+ `replace_wtt_decisions`
 
 ## Не перекладено взагалі
 + `ww1_characters`
@@ -95,7 +98,6 @@
 + `replace_decisions`
 + `replace_effects`
 + `replace_equipment`
-+ `replace_frontend`
-+ `replace_military_industrial_organization`
++ `replace_focus`
 + `replace_modifiers`
-+ `replace_tank_modules`
++ `replace_traits`
