@@ -10,6 +10,7 @@
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
 + `ww1_GER_bundesrat`
++ `ww1_music` (умовно)
 + `ww1_war`
 
 ### Папка `replace`
@@ -80,7 +81,6 @@
 + `ww1_equip_air`
 + `ww1_flags`
 + `ww1_liman_affair`
-+ `ww1_music`
 + `ww1_naval_classes`
 + `ww1_qing`
 + `ww1_romania`
