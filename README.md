@@ -9,6 +9,7 @@
 + `ww1_factions`
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
++ `ww1_GER_bundesrat`
 + `ww1_war`
 
 ### Папка `replace`
@@ -36,6 +37,7 @@
 + `ww1_adjacency_rules`
 + `ww1_autonomy`
 + `ww1_buildings`
++ `ww1_germany`
 + `ww1_parliament_gui` (старий переклад видалено)
 
 ## Файл оновлено, старий переклад збережено
@@ -61,7 +63,6 @@
 + `replace_focus`
 + `replace_game_rules`
 + `replace_ideas`
-+ `replace_modifiers`
 + `replace_operatives`
 + `replace_peace`
 + `replace_research`
@@ -78,8 +79,6 @@
 + `ww1_designer`
 + `ww1_equip_air`
 + `ww1_flags`
-+ `ww1_GER_bundesrat`
-+ `ww1_germany`
 + `ww1_liman_affair`
 + `ww1_music`
 + `ww1_naval_classes`
@@ -98,4 +97,5 @@
 + `replace_equipment`
 + `replace_frontend`
 + `replace_military_industrial_organization`
++ `replace_modifiers`
 + `replace_tank_modules`
