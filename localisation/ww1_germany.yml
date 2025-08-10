@@ -146,142 +146,142 @@
 
 ### ПОДІЇ ###
  ## Agadir aftermath
-  ww1_germanrework.1.t: "Germany's Disgrace"
-  ww1_germanrework.1.d: "Despite the grandiose posturing and saber-rattling, the end result of the Agadir crisis has been a diplomatic embarrassment. The crisis not only revealed Germany's weak position in the global arena but also severely damaged its prestige. The failure to secure any significant gains from the showdown with France has led to widespread criticism from both within the government and the general public. The Treaty of Fez, which concluded the crisis, saw Germany receive meager concessions in the Congo while France consolidated its hold over Morocco, a clear indicator of German diplomatic failure.\n\nThe public and political backlash has been particularly harsh on Chancellor Theobald von Bethmann Hollweg, whose handling of the situation is seen as weak and indecisive. Many view his leadership as responsible for the national humiliation, arguing that a stronger stance or better negotiation tactics could have yielded more favorable outcomes. The Chancellor's popularity has plummeted, and there is a growing call for his dismissal as a means to restore confidence in the government's ability to uphold German interests and prestige on the world stage. The question now facing the Kaiser is whether to replace Bethmann Hollweg in hopes of revitalizing the leadership or to endure the current political turmoil with the same leadership."
-  ww1_germanrework.1.a: "Bethmann Hollweg should stay."
-  ww1_germanrework.1.b: "The Kaiser pressures Bethmann Hollweg to resign."
-  ww1_germanrework.2.t: "The Kaiser Appoints von Heydebrand"
-  ww1_germanrework.2.d: "In a bold and decisive move, Kaiser Wilhelm II has appointed Ernst von Heydebrand und der Lasa as the new Chancellor of the German Empire. A figure renowned for his staunch conservatism and unwavering dedication to the Prussian ideals, von Heydebrand's ascent marks a significant shift in the political landscape of the empire.\n\nBorn into an aristocratic family, Ernst von Heydebrand has long been a prominent voice in the German Conservative Party. His career has been characterized by a fervent advocacy for the preservation of traditional German values and institutions. A fierce opponent of liberalism and socialism, von Heydebrand has consistently championed policies that strengthen the monarchy, the military, and the agrarian interests that form the backbone of his support.\n\nVon Heydebrand's tenure is expected to usher in an era of intensified conservative governance. With a reputation for his iron will and unyielding principles, he is anticipated to reinforce the Kaiser's vision of a strong, unified Germany, poised to assert its influence on the European stage. However, his appointment is not without controversy, as it risks deepening the divides within the Reichstag and among the populace, who are increasingly restless with the status quo."
-  ww1_germanrework.2.a: "Good luck to the new chancellor"
-  ww1_germanrework.19.t: "Factions on the Right"
-  ww1_germanrework.19.d: "The new chancellor is no staunch negotiator like Bethmann Hollweg was and will now have to manage the right-wing in his favor if he wishes to stay in power. The traditionalist conservatives and the pan-German nationalists see this as an opportunity to assert their influence over the right-wing factions that the new Chancellor relies on to stay in power. These nationalistic groups, driven by a desire to restore German prestige after the crisis and assert a more aggressive national policy, are vying for control and seeking to push their agendas within the Reichstag.\n\nAmidst this internal power struggle, the Chancellor faces another critical challenge':' the looming threat of the Social Democratic Party in the upcoming 1912 election. The SPD's growing popularity poses a significant risk to the current administration's stability and conservative values. To maintain power and prevent a potential shift in political dominance, the Chancellor must navigate the complex dynamics of right-wing politics, appeasing influential factions while also formulating strategies to curtail the SPD's appeal to the masses. The next few months will be pivotal in determining the future direction of Germany, as the new Chancellor strives to consolidate power and guide the nation through these turbulent times."
-  ww1_germanrework.19.a: "The Chancellor should tread with care."
+  ww1_germanrework.1.t: "Ганьба Німеччини"
+  ww1_germanrework.1.d: "Незважаючи на грандіозні заяви та військові погрози, кінцевим результатом Агадірської кризи стало дипломатичне збентеження. Криза не тільки виявила слабку позицію Німеччини на світовій арені, але й серйозно підірвала її престиж. Неможливість отримати будь-які значні вигоди від протистояння з Францією призвела до широкої критики як з боку уряду, так і з боку громадськості. За договором у Фесі, який завершив кризу, Німеччина отримала незначні поступки в Конго, тоді як Франція зміцнила свій контроль над Марокко, що є явним свідченням дипломатичної поразки Німеччини.\n\nОсобливо жорсткою була реакція громадськості та політиків на дії канцлера Теобальда фон Бетман-Гольвеґа, чиє ставлення до ситуації вважається слабким і нерішучим. Багато хто вважає його керівництво відповідальним за національне приниження, стверджуючи, що більш рішуча позиція або краща тактика переговорів могли б принести більш сприятливі результати. Популярність канцлера різко впала, і все частіше лунають заклики до його відставки як засобу відновлення довіри до здатності уряду захищати інтереси та престиж Німеччини на світовій арені. Зараз перед кайзером стоїть питання: чи замінити Бетмана-Гольвеґа в надії на оновлення керівництва, чи терпіти нинішні політичні потрясіння з тим самим керівництвом." # (@!)
+  ww1_germanrework.1.a: "Бетман-Гольвеґ має залишитися." # (@)
+  ww1_germanrework.1.b: "Кайзер тисне на Бетмана-Гольвеґа, щоби той пішов у відставку." # (@)
+  ww1_germanrework.2.t: "Кайзер призначає фон Гайдебранда"
+  ww1_germanrework.2.d: "Здійснивши сміливий і рішучий крок, кайзер Вільгельм II призначив Ернста фон Гайдебранда унд дер Лазу новим канцлером Німецької імперії. Відомий своїм твердим консерватизмом і непохитною відданістю прусським ідеалам, фон Гайдебранд своїм піднесенням ознаменував значну зміну в політичному ландшафті імперії.\n\nЙого кар'єра характеризується палким захистом традиційних німецьких цінностей та інститутів. Будучи затятим противником лібералізму та соціалізму, фон Гайдебранд послідовно відстоював політику, спрямовану на зміцнення монархії, збройних сил та аграрних інтересів, які становлять основу його підтримки.\n\nОчікується, що перебування фон Гайдебранда на посаді ознаменує початок ери посиленого консервативного управління. Маючи репутацію людини з залізною волею та непохитними принципами, він, як очікується, зміцнить бачення кайзера про сильну, об'єднану Німеччину, готову заявити про свій вплив на європейській арені. Однак його призначення не обійшлося без суперечок, оскільки воно ризикує поглибити розбіжності в рейхстазі та серед населення, яке все більше незадоволене існуючим станом речей." # (@!)
+  ww1_germanrework.2.a: "Хай щастить новому канцлерові." # (&+)
+  ww1_germanrework.19.t: "Фракції зправа"
+  ww1_germanrework.19.d: "Новий канцлер не є таким рішучим переговорником, як був Бетман-Гольвеґ, і тепер йому доведеться управляти правими силами на свою користь, якщо він хоче залишитися при владі. Традиціоналістські консерватори та пан-німецькі націоналісти бачать у цьому можливість утвердити свій вплив над правими фракціями, на які новий канцлер покладається, щоб залишитися при владі. Ці націоналістичні групи, спонукувані бажанням відновити престиж Німеччини після кризи та проводити більш агресивну національну політику, змагаються за контроль і прагнуть просувати свої програми в Райхстазі.\n\nНа тлі цієї внутрішньої боротьби за владу канцлер стикається з іншим критичним викликом: загрозою з боку Соціал-демократичної партії на майбутніх виборах 1912 року. Зростаюча популярність СДП становить значну загрозу стабільності нинішньої адміністрації та консервативних цінностей. Щоб зберегти владу і запобігти потенційній зміні політичного домінування, канцлер мусить орієнтуватися у складній динаміці правої політики, заспокоюючи впливові фракції і водночас формулюючи стратегії, щоб обмежити привабливість СДП для мас. Наступні кілька місяців будуть вирішальними для визначення майбутнього напрямку розвитку Німеччини, оскільки новий канцлер прагне консолідувати владу і провести країну через ці бурхливі часи." # (@!)
+  ww1_germanrework.19.a: "Канцлерові слід бути обережним." # (&+)
 
- ## Potsdam Meeting
-  ww1_germanrework.89.t: "Meeting at Potsdam"
-  ww1_germanrework.89.d: "We received an invitation from the German government this morning, requesting the Tsar's presence at a meeting with Kaiser Wilhelm in Potsdam. The stated agenda concerned our respective spheres of influence in Persia. Seeing little disadvantage in discussions, the Tsar agreed to meet his German cousin.\n\nThe meeting was cordial and representatives between the two sides found themselves often agreeing with each other on Middle Eastern foreign policy. However, the atmosphere shifted when the German delegation proposed a formal, public declaration that neither Empire would undertake hostile actions against the other. Faced with this unexpected demand for a non-aggression pact, no formal agreement could be reached between our two nations."
-  ww1_germanrework.89.a: "They took it a step too far."
-  ww1_germanrework.90.t: "Disappointment at Potsdam"
-  ww1_germanrework.90.d: "The Russian Tsar and his delegates met with the Kaiser at Potsdam. Throughout the entire event, the whole affair seemed rather cordial with many delegates agreeing on matters of foreign policy in the Middle East. The two cousins, Wilhelm and Nicolas also seemed to be getting along well. However, despite this positive start, the talks ultimately collapsed. Our proposal for a mutual declaration of non-aggression, intended to secure peace between our empires, proved unacceptable to the Russians. Consequently, no formal agreement was signed, and the delegations departed with a sense of missed opportunity. Perhaps future circumstances will allow for renewed dialogue between Germany and Russia."
-  ww1_germanrework.90.a: "At least we agree on something."
+ ## Потсдамська зустріч
+  ww1_germanrework.89.t: "Зустріч у Потсдамі"
+  ww1_germanrework.89.d: "Сьогодні вранці ми отримали запрошення від уряду Німеччини, в якому просили царя взяти участь у зустрічі з кайзером Вільгельмом у Потсдамі. Зазначена на порядку денному була проблема наших відповідних сфер впливу в Персії. Не бачачи особливих недоліків у переговорах, цар погодився зустрітися зі своїм німецьким кузеном.\n\nЗустріч була дружньою, і представники обох сторін часто доходили згоди щодо зовнішньої політики на Близькому Сході. Однак атмосфера змінилася, коли німецька делегація запропонувала офіційну публічну заяву про те, що жодна з імперій не буде вживати ворожих дій проти іншої. Зіткнувшись із цією несподіваною вимогою про укладення пакту про ненапад, наші дві країни не змогли досягти офіційної угоди." # (@!)
+  ww1_germanrework.89.a: "Вони зайшли трішки задалеко."
+  ww1_germanrework.90.t: "Розчарування у Потсдамі"
+  ww1_germanrework.90.d: "Російський цар і його делегати зустрілися з кайзером у Потсдамі. Протягом усього заходу атмосфера була досить дружньою, і багато делегатів дійшли згоди з питань зовнішньої політики на Близькому Сході. Два кузени, Вільгельм і Микола, також, здавалося, добре ладнали між собою. Однак, незважаючи на такий позитивний початок, переговори в кінцевому підсумку провалилися. Наша пропозиція про взаємну декларацію про ненапад, покликана забезпечити мир між нашими імперіями, виявилася неприйнятною для росіян. В результаті офіційна угода не була підписана, і делегації роз'їхалися з відчуттям втраченої можливості. Можливо, майбутні обставини дозволять відновити діалог між Німеччиною і Росією." # (@!)
+  ww1_germanrework.90.a: "Принаймні в чомусь ми погодилися."
 
-  ww1_germanrework.91.t: "Renewal of the Triple Alliance"
-  ww1_germanrework.91.d: "The renewal of the Triple Alliance was a diplomatic process involving Germany, Italy, and Austria-Hungary; this event was an opportunity for allies to meet in Vienna. Germany was represented by Gottlieb von Jagow, Secretary of State for Foreign Affairs. Austria-Hungary sent its Foreign Minister, Count Berchtold. Italy was represented by Antonino di San Giuliano, Minister of Foreign Affairs.\n\nDuring this discreet conference, the three allies discussed spheres of influence in North Africa, but also mutual guarantees that in the event of war, no party would make a separate peace. Beyond simply reviving central cooperation, this event was an opportunity to reiterate each party's commitment to the Triple Alliance."
-  ww1_germanrework.91.a: "A tedious necessity."
-  ww1_germanrework.91.b: "Let us hope it is enough to contain Russia."
-  ww1_germanrework.91.c: "We must reconcile Italian and Austrian ambitions!"
-  ww1_germanrework.91.e: "Excellent."
+  ww1_germanrework.91.t: "Поновлення Троїстого союзу"
+  ww1_germanrework.91.d: "Поновлення Троїстого союзу було дипломатичним процесом, в якому брали участь Німеччина, Італія та Австро-Угорщина; ця подія стала нагодою для союзників зустрітися у Відні. Німеччину представляв Готліб фон Ягов, державний секретар закордонних справ. Австро-Угорщина направила свого міністра закордонних справ, графа Берхтольда. Італію представляв Антоніно ді Сан Джуліано, міністр закордонних справ.\n\nПід час цієї таємної конференції три союзники обговорили сфери впливу в Північній Африці, а також взаємні гарантії, що в разі війни жодна зі сторін не укладе окремого миру. Ця подія не тільки відновила центральне співробітництво, але й стала нагодою для підтвердження прихильності кожної зі сторін до Троїстого союзу." # (@!)
+  ww1_germanrework.91.a: "Обтяжлива необхідність." # (@)
+  ww1_germanrework.91.b: "Сподіваймося, цього вистачить для стримання Росії."
+  ww1_germanrework.91.c: "Ми мусимо примирити італійські й австрійські амбіції!" # (&+)
+  ww1_germanrework.91.e: "Чудово."
 
-  ww1_germanrework.92.t: "German Control of a Bucharest Newspaper"
-  ww1_germanrework.92.d: "In a shocking turn of events, it has come to our attention that the influential newspapers Seara and Minerva, owned by the controversial Alexandru Bogdan-Pitești, have been sold to a German consortium. These papers are now openly spreading pro-German propaganda throughout Bucharest, undermining our national resolve and war effort at a critical time. This act of subversion cannot be ignored."
-  ww1_germanrework.92.a: "Shut them down immediately!"
+  ww1_germanrework.92.t: "Німецький контроль над бухарестською газетою"
+  ww1_germanrework.92.d: "У шокуючому повороті подій до нас дійшла інформація, що впливові газети «Seara» та «Minerva», які належали суперечливій особистості на ім'я Александру Боґдан-Пітешть, були продані німецькому консорціуму. Зараз ці газети відкрито поширюють пронімецьку пропаганду в Бухаресті, підриваючи нашу національну рішучість та військові зусилля в критичний момент. Цей акт підривної діяльності не можна ігнорувати." # (@!)
+  ww1_germanrework.92.a: "Негайно закрити їх!"
 
-  ww1_germanrework.93.t: "German Control of the Press"
-  ww1_germanrework.93.d: "As our nation commits to the war, we have discovered that the influential newspapers Slovo and Otechestvo have been sold to a consortium with close ties to the German Empire. The consequence of this is immediate and dangerous: these papers have begun to spread propaganda favouring the Central Powers, directly threatening to destabilize our war effort from within."
-  ww1_germanrework.93.a: "This subversion must end!"
+  ww1_germanrework.93.t: "Німецький контроль над пресою"
+  ww1_germanrework.93.d: "У той час, як наша країна вступає у війну, ми дізналися, що впливові газети «Слово» та «Отечество» були продані консорціуму, який має тісні зв'язки з Німецькою імперією. Наслідки цього є негайними та небезпечними: ці газети почали поширювати пропаганду на користь Центральних держав, що безпосередньо загрожує дестабілізувати наші військові зусилля зсередини." # (@!)
+  ww1_germanrework.93.a: "Ця підривна діяльність мусить припинитися!" # (@)
 
-  ww1_germanrework.94.t: "The Dutch AG Vulcan Contract"
-  ww1_germanrework.94.d: "[HOL.GetNameDefCap] has contracted our own AG Vulcan shipyard to construct four modern torpedo boats. With tensions rising across Europe, allowing these warships to be delivered to a neutral power could be unwise. We have a unique opportunity to freeze the delivery and requisition these vessels for the Kaiserliche Marine, bolstering our own fleet at the expense of the Dutch."
-  ww1_germanrework.94.a: "The ships will serve the Empire."
-  ww1_germanrework.94.b: "Honour the contract."
+  ww1_germanrework.94.t: "Контракт AG Vulcan із нідерландцями"
+  ww1_germanrework.94.d: "Держава [HOL.GetNameDef] уклала контракт з нашою верф'ю AG Vulcan на будівництво чотирьох сучасних торпедних катерів. З огляду на зростання напруженості в Європі, передача цих військових кораблів нейтральній державі може бути нерозумним кроком. Ми маємо унікальну можливість заморозити поставку і реквізувати ці судна для Kaiserliche Marine, посиливши таким чином наш власний флот за рахунок нідерландців." # (@!)
+  ww1_germanrework.94.a: "Кораблі послужать імперії."
+  ww1_germanrework.94.b: "Дотримаймося умов контракту."
 
-  ww1_germanrework.95.t: "Germany Seizes Our Torpedo Boats!"
-  ww1_germanrework.95.d: "We had signed a contract with the German firm AG Vulcan for the construction of four Z-1 class torpedo boats. Now, with their construction complete, we have been informed that [GER.GetNameDefCap] has intervened. The ships will not be delivered. This blatant seizure of our property, ships that we legally purchased, is an outrageous violation of our contract and a deep insult to our sovereignty."
-  ww1_germanrework.95.a: "Outrageous!"
+  ww1_germanrework.95.t: "Німеччина захоплює наші торпедні катери!"
+  ww1_germanrework.95.d: "Ми підписали контракт з німецькою фірмою «AG Vulcan» на будівництво чотирьох торпедних катерів класу «Z-1». Зараз, коли їх будівництво завершено, нам повідомили, що [GER.GetNameDef] втрутилася. Кораблі не будуть доставлені. Це відверте захоплення нашої власності, кораблів, які ми придбали на законних підставах, є грубим порушенням нашого контракту і глибокою образою нашої суверенітету." # (@!)
+  ww1_germanrework.95.a: "Неподобство!" # (&+)
 
-  ww1_germanrework.96.t: "AG Vulcan Delivers New Ships"
-  ww1_germanrework.96.d: "The four Z-1 class torpedo boats we contracted from the German firm AG Vulcan have finally been completed. Despite the tense international climate, [GER.GetNameDefCap] has honoured the deal, and the manufacturer has informed us that the ships have been transferred to the Royal Netherlands Navy. They will soon be ready for service."
-  ww1_germanrework.96.a: "Excellent!"
+  ww1_germanrework.96.t: "AG Vulcan доставляє нові кораблі"
+  ww1_germanrework.96.d: "Чотири торпедні катери класу «Z-1», які ми замовили у німецької фірми «AG Vulcan», нарешті готові. Незважаючи на напружену міжнародну ситуацію, [GER.GetNameDef] дотрималася угоди, і виробник повідомив нас, що кораблі передані Королівському флоту Нідерландів. Вони незабаром будуть готові до служби." # (@!)
+  ww1_germanrework.96.a: "Чудово!"
 
-  ww1_germanrework.97.t: "German Offer of Industrial Support"
-  ww1_germanrework.97.d: "Our German ally has offered us increased industrial, military, and technological aid to help us develop our war industry. In addition to providing low-interest loans, they are also offering the assistance of their advisors and the transfer of patents to facilitate the modernization of our industry. While such an offer may seem charitable, it risks making us a satellite of the German Empire, if that wasn't already the case..."
-  ww1_germanrework.97.a: "We need all the help we can get!"
-  ww1_germanrework.97.b: "We can manage on our own."
+  ww1_germanrework.97.t: "Німці пропонують промислову підтримку"
+  ww1_germanrework.97.d: "Наш німецький союзник запропонував нам збільшити промислову, військову та технологічну допомогу, щоб допомогти нам розвинути нашу військову промисловість. Окрім надання низькопроцентних позик, вони також пропонують допомогу своїх консультантів та передачу патентів для сприяння модернізації нашої промисловості. Хоча така пропозиція може здаватися благодійною, вона ризикує перетворити нас на сателіт Німецької імперії, якщо це вже не сталося..." # (@!)
+  ww1_germanrework.97.a: "Нам потрібна вся можлива допомога!"
+  ww1_germanrework.97.b: "Ми впораємося самотужки."
 
-  ww1_germanrework.98.t: "Austrian Cooperation"
-  ww1_germanrework.98.d: "As we anticipated, Austria has been cooperative and accepted our assistance, which will certainly accelerate the development of their war industry."
-  ww1_germanrework.98.a: "Good."
+  ww1_germanrework.98.t: "Співробітництво з Австрією"
+  ww1_germanrework.98.d: "Як ми і передбачали, Австрія проявила готовність до співпраці та прийняла нашу допомогу, що, безсумнівно, прискорить розвиток її військової промисловості." # (@!)
+  ww1_germanrework.98.a: "Добрек."
 
-  ww1_germanrework.99.t: "Austrian Defiance"
-  ww1_germanrework.99.d: "To our great surprise, Austria-Hungary has flatly refused our offer of aid, stating that their economic program is already flourishing and that they remain an independent power. This unexpected display of pride is concerning."
-  ww1_germanrework.99.a: "Their loss."
+  ww1_germanrework.99.t: "Непокора Австрії"
+  ww1_germanrework.99.d: "На наш великий подив, Австро-Угорщина категорично відмовилася від нашої пропозиції про допомогу, заявивши, що їхня економічна програма вже процвітає і що вони залишаються незалежною державою. Ця несподівана демонстрація гордості викликає занепокоєння." # (@!)
+  ww1_germanrework.99.a: "Їм же на гірше." # (&+)
 
-  ww1_germanrework.100.t: "Improved Military and R&D Cooperation"
-  ww1_germanrework.100.d: "German and Austrian military experts met with us to discuss the potential of the Škoda Company in the construction of heavy guns. Germany expressed interest in Austrian Škoda 305mm super-heavy mortars. These anti-fortress artillery pieces have proven extremely effective in initial trials, and some of their feedback has allowed work to begin on improving the rotating pivot. In order to increase the range, a second project to enlarge the barrel is also being considered, giving this weapon the potential of a very long-range howitzer."
-  ww1_germanrework.100.a: "We might make great use of it."
+  ww1_germanrework.100.t: "Поліпшене співробітництво армії й НДДКР"
+  ww1_germanrework.100.d: "Німецькі та австрійські військові експерти зустрілися з нами, щоб обговорити потенціал компанії «Škoda» у виробництві важкої артилерії. Німеччина висловила зацікавленість в австрійських надважких 305-мм мінометах Škoda. Ці протифортечні артилерійські знаряддя виявилися надзвичайно ефективними в перших випробуваннях, а деякі відгуки про них дозволили розпочати роботу над вдосконаленням поворотного шарніра. З метою збільшення дальності також розглядається другий проєкт з розширення ствола, що надасть цій зброї потенціал гаубиці дуже великої дальності." # (@!)
+  ww1_germanrework.100.a: "Ми можемо чудово використати це."
 
-  ww1_germanrework.101.t: "Appointing a New Colonial Secretary"
-  ww1_germanrework.101.d: "The vacancy in the Reichskolonialamt (Imperial Colonial Office) requires us to select a new State Secretary, a choice that will significantly shape the governance of our overseas territories. Two distinct paths lie before us, embodied by the leading candidates:\n\nWilhelm Solf represents the reformist wing. A diplomat experienced in colonial administration, he advocates for a more conciliatory policy, seeking to improve efficiency and potentially ease tensions with colonial populations through administrative reforms rather than force.\n\nIn stark contrast, Eduard von Liebert champions a hardline, militaristic approach. A former governor with a reputation for ruthlessness and strong connections to nationalist and Pan-German circles, he favours asserting unwavering German dominance and pursuing aggressive colonial exploitation, regardless of the human cost. His appointment would signal a commitment to forceful expansion and control."
-  ww1_germanrework.101.a: "We need Solf's reforms."
-  ww1_germanrework.101.b: "Von Liebert will assert our dominance."
+  ww1_germanrework.101.t: "Призначення нового колоніального секретаря"
+  ww1_germanrework.101.d: "Вакансія в Reichskolonialamt (Імперському управлінні колоній) вимагає від нас вибору нового державного секретаря, який матиме значний вплив на управління нашими заморськими територіями. Перед нами лежать два різних шляхи, які уособлюють провідні кандидати:\n\nВільгельм Зольф представляє реформістське крило. Будучи дипломатом з досвідом роботи в колоніальній адміністрації, він виступає за більш примирительну політику, прагнучи підвищити ефективність і потенційно послабити напруженість у відносинах з колоніальним населенням за допомогою адміністративних реформ, а не сили.\n\nНа противагу йому, Едуард фон Ліберт відстоює жорсткий, мілітаристський підхід. Колишній губернатор, який має репутацію безжального і має міцні зв'язки з націоналістичними та паннімецькими колами, він виступає за утвердження непохитного німецького панування та агресивну колоніальну експлуатацію, незважаючи на людські жертви. Його призначення буде сигналом про намір до силової експансії та контролю." # (@!)
+  ww1_germanrework.101.a: "Нам потрібні Зольфові реформи."
+  ww1_germanrework.101.b: "Фон Ліберт затвердить наше панування."
 
   ww1_germanrework.102.t: "Ermächtigungsgesetz"
-  ww1_germanrework.102.d: "To allow the empire to finance the war by any means necessary, Parliament passed a law authorizing the introduction of exceptional measures dictated by the government. The Kaiser and the OHL can thus govern by decree, which facilitates war legislation and offers us many perspectives. Beyond these celebrations, it is important to note that Parliament can withdraw this exceptional authorization at any time, which would be a catastrophe for the war effort."
-  ww1_germanrework.102.a: "The coalition must hold the line!"
+  ww1_germanrework.102.d: "Щоб імперія могла фінансувати війну будь-якими необхідними засобами, парламент ухвалив закон, що дозволяє вводити виняткові заходи, продиктовані урядом. Таким чином, кайзер і ВКА можуть керувати за допомогою декретів, що полегшує прийняття військового законодавства і відкриває перед нами багато перспектив. Поза цими урочистостями важливо зазначити, що парламент може в будь-який момент відкликати це виняткове дозвіл, що стане катастрофою для військових дій." # (@!)
+  ww1_germanrework.102.a: "Коаліцяя мусить витримати!"
 
   ww1_germanrework.175.t: "Hilfsdienstgesetz"
-  ww1_germanrework.175.d: "To achieve the total mobilization required by the Hindenburg Programme, the Supreme Army Command has pushed the Auxiliary Service Act through the Reichstag. The new law grants the state sweeping powers to direct all civilian labour towards the war effort. However, this authority came at a steep political price. To secure the assent of the socialists and their powerful trade unions, we were forced to grant them formal recognition and mandate the creation of worker arbitration committees. While this has secured industrial peace for now, it has also massively empowered the very groups who may yet turn against the war."
-  ww1_germanrework.175.a: "A necessary, if dangerous, compromise."
+  ww1_germanrework.175.d: "Щоб досягти повної мобілізації, необхідної для реалізації програми Гінденбурґа, верховне командування армії просунуло через рейхстаг Закон про допоміжну службу. Новий закон надає державі широкі повноваження для спрямування всієї цивільної робочої сили на військові потреби. Однак ця влада обійшлася високою політичною ціною. Щоб забезпечити згоду соціалістів та їхніх потужних профспілок, ми були змушені надати їм офіційне визнання та доручити створення комітетів з арбітражу робітників. Хоча це забезпечило промисловий мир на даний момент, це також значно посилило ті групи, які ще можуть виступити проти війни." # (@!)
+  ww1_germanrework.175.a: "Необхідний компроміс, хай небезпечний."
 
-  ww1_germanrework.176.t: "Abdication of Wilhelm II"
-  ww1_germanrework.176.d: "Following a loss of support from his military advisors and the realization that his continued rule would likely lead to further civil unrest and bloodshed Kaiser Wilhelm II abdicated his throne. He left for exile in the Netherlands to escape prosecution."
+  ww1_germanrework.176.t: "Зречення Вільгельма II"
+  ww1_germanrework.176.d: "Втративши підтримку своїх військових радників і усвідомивши, що його подальше правління, ймовірно, призведе до нових громадянських заворушень і кровопролиття, кайзер Вільгельм II зрікся престолу. Він виїхав у вигнання до Нідерландів, щоб уникнути судового переслідування." # (@!)
   ww1_germanrework.176.a: "Lebewohl für immer."
 
-  ww1_germanrework.177.t: "Erich von Falkenhayn Relieved of his Dual Duties"
-  ww1_germanrework.177.d: "Being both the Minister of War and the Chief of the General Staff, Erich von Falkenhayn has been retired from the position of the Prussian Minister of War."
-  ww1_germanrework.177.a: "You can't sit in two chairs at once."
+  ww1_germanrework.177.t: "Ерих фон Фалькенгайн звільнений від подвійних обов'язків" # (@)
+  ww1_germanrework.177.d: "Будучи водночас міністром війни та начальником генерального штабу, Ерих фон Фалькенгайн був звільнений з посади прусського міністра війни." # (@!)
+  ww1_germanrework.177.a: "Не можна всидіти водночас на двох стільцях."
 
-  ww1_germanrework.178.t: "The Lion of Africa"
-  ww1_germanrework.178.d: "A dispatch, arriving via a daring blockade-running submarine, has brought excellent news from our colonies. General Paul von Lettow-Vorbeck has formally taken command of all forces in German East Africa.\n\nThe newly raised Askari brigades have rallied to his banner, creating a small but elite force of hardened veterans ready for action. From his headquarters in Dar es Salaam, von Lettow-Vorbeck has already begun preparations to launch his unorthodox campaign against the Entente. The 'Lion of Africa' is now loose, and he will make the enemy pay dearly for every inch of our colonial soil."
-  ww1_germanrework.178.a: "We have the utmost faith in his abilities."
+  ww1_germanrework.178.t: "Лев Африки"
+  ww1_germanrework.178.d: "Повідомлення, що надійшло на сміливому підводному човні, який прорвав блокаду, принесло чудові новини з наших колоній. Генерал Пауль фон Леттов-Форбек офіційно прийняв командування всіма силами в Німецькій Східній Африці.\n\nНовостворені бригади аскарі згуртувалися під його прапором, утворивши невеликий, але елітний загін загартованих ветеранів, готових до бою. Зі свого штабу в Дар-ес-Саламі фон Леттов-Форбек вже розпочав підготовку до нестандартної кампанії проти Антанти. «Лев Африки» тепер на волі, і він змусить ворога дорого заплатити за кожен сантиметр нашої колоніальної землі." # (@!)
+  ww1_germanrework.178.a: "Ми маємо найбільшу віру в його здібності." # (&+)
 
-  ww1_germanrework.179.t: "The Death of Helmuth von Moltke"
-  ww1_germanrework.179.d: "Helmuth von Moltke the Younger, the man who served as Chief of the General Staff at the outbreak of the Great War and was relieved of his duties following the battle of the Marne, has passed away.\n\nLiving in relative obscurity since 1914, Moltke's end came suddenly. He suffered a fatal stroke today, June 18th, 1916, while attending a state memorial service in the Reichstag for the late Field Marshal Colmar von der Goltz. The man whose name will forever be linked to the war's opening gambit is no more."
-  ww1_germanrework.179.a: "A tragic end for a troubled man."
+  ww1_germanrework.179.t: "Смерть Гельмута фон Мольтке"
+  ww1_germanrework.179.d: "Гельмут фон Мольтке-молодший, який обіймав посаду начальника Генерального штабу на початку Першої світової війни і був звільнений з посади після битви на Марні, помер.\n\nЖивучи в відносній невідомості з 1914 року, Мольтке помер раптово. Сьогодні, 18 червня 1916 року, він помер від інсульту під час державної поминальної служби в Рейхстазі за покійним фельдмаршалом Кольмаром фон дер Ґольцом. Людина, ім'я якої назавжди буде пов'язане з початком війни, більше не з нами." # (@!)
+  ww1_germanrework.179.a: "Трагічний кінець стурбованого чоловіка."
 
-  ww1_germanrework.180.t: "Alfred von Tirpitz Threats to Resign Over U-boat Restrictions"
-  ww1_germanrework.180.d: "Unable to direct naval operations from his purely administrative position, Tirpitz became a vocal spokesman for unrestricted U-boat warfare, which he felt could strangle Britain's supply of food and force them to terms. With the reversal of the policy he started agitating against all restrictions using the German press, and threats to resign."
-  ww1_germanrework.180.a: "You didn't even focus on U-boats that much!"
+  ww1_germanrework.180.t: "Альфред фон Тірпіц погрожує піти у відставку через обмеження підводних човнів" # (@)
+  ww1_germanrework.180.d: "Не маючи можливості керувати військово-морськими операціями зі своєї суто адміністративної посади, Тірпіц став активним прихильником необмеженої підводної війни, яка, на його думку, могла б перекрити постачання продовольства до Великої Британії і змусити її піти на поступки. Зі зміною політики він почав агітувати проти будь-яких обмежень, використовуючи німецьку пресу та погрожуючи піти у відставку." # (@!)
+  ww1_germanrework.180.a: "Ти навіть не зосереджувався так сильно на тих човнах!"
 
-  ww1_germanrework.181.t: "Alfred von Tirpitz Resigns"
-  ww1_germanrework.181.d: "His agitation resulted in a fall out with the Kaiser, and when the restrictions on the submarine war were not lifted, he finally resigned."
-  ww1_germanrework.181.a: "So much for that."
+  ww1_germanrework.181.t: "Альфред фон Тірпіц іде у відставку"
+  ww1_germanrework.181.d: "Його збурення призвело до конфлікту з кайзером, і коли обмеження на підводну війну не були скасовані, він остаточно пішов у відставку." # (@!)
+  ww1_germanrework.181.a: "Ось і все." # (@)
 
-  GER_coalition_collapse: "§RThe Coalition will collapse, and we will lose the unconditional support of the Reichstag.§!"
-  GER_viability_of_the_coalition: "Burgfriedenspolitik Viability"
-  GER_viability_of_the_coalition_desc: "The 'fortress peace' coalition assembled by Chancellor Bethmann Hollweg is fragile, and with each passing day the balance within the Reichstag becomes more unstable. If we fail to maintain this wartime unity, we risk losing everything."
-  GER_idea_coalition_benefits: "Burgfriedenspolitik Benefits"
-  GER_idea_coalition_benefits_desc: "The political truce in the Reichstag shields us from protests and strikes, allowing us to focus on the war without organized opposition."
-  GER_free_belgium: "After §YThe Great War§!, §Y[BEL.GetFlag]Belgium§! will be released and will be §YIndependent§!."
-  GER_puppet_belgium: "After §YThe Great War§!, §Y[BEL.GetFlag]Belgium§! will be released as a §YPuppet§! under our control."
-  GER_get_congo: "As compensation for German losses, the §YCongo§! will be ceded to §Y[GER.GetFlag]Germany§!."
+  GER_coalition_collapse: "§RКоаліція розпадеться й ми втратимо безумовну підтримку Райхстаґу.§!"
+  GER_viability_of_the_coalition: "Життєздатність Burgfriedenspolitik"
+  GER_viability_of_the_coalition_desc: "Коаліція «фортеця миру», сформована канцлером Бетманом-Гольвеґом, є нестійкою, і з кожним днем баланс сил у Райхстазі стає все більш нестабільним. Якщо ми не зможемо зберегти цю єдність у воєнний час, ризикуємо втратити все." # (@!)
+  GER_idea_coalition_benefits: "Переваги Burgfriedenspolitik"
+  GER_idea_coalition_benefits_desc: "Політичне перемир'я в Райхстазі захищає нас від протестів і страйків, дозволяючи нам зосередитися на війні без організованої опозиції." # (@!)
+  GER_free_belgium: "Після §YВеликої війни§! §Y[BEL.GetFlag]Бельгію§! буде звільнено як §Yнезалежну державу§!."
+  GER_puppet_belgium: "Після §YВеликої війни§! §Y[BEL.GetFlag]Бельгію§! буде звільнено як підвладну нам §Yмаріонетку§!."
+  GER_get_congo: "У якості відшкодування втрат Німеччини §YКонґо§! буде передано §Y[GER.GetFlag]Німеччині§!."
 
-  tt_while_ongoing: "While the mission is ongoing we will gain bonuses from:"
+  tt_while_ongoing: "Поки завдання триває, ми будемо отримувати бонуси від:" # (&+)
 
-  ww1_germanrework.103.t: "Silesia for Tyrol?"
-  ww1_germanrework.103.d: "German Chancellor Theodor von Bethmann Hollweg traveled to Vienna to negotiate a concession plan aimed at permanently easing the icy Austro-Italian relations. Aware of our army's difficulties, the minister offered to exchange his own territory if we agreed to accede to Italy's demands.\n\nIn other words, we could offer Tyrol and receive Silesia in exchange. This proposal is very attractive; Silesia is an industrialized territory and composed of German speakers, which is to our advantage."
-  ww1_germanrework.103.a: "It is a fair deal."
-  ww1_germanrework.103.b: "Never!"
+  ww1_germanrework.103.t: "Сілезія в обмін а Тіроль?"
+  ww1_germanrework.103.d: "Німецький канцлер Теодор фон Бетман-Гольвеґ вирушив до Відня, щоб обговорити план поступок, спрямований на остаточне пом'якшення напружених відносин між Австрією та Італією. Усвідомлюючи труднощі нашої армії, міністр запропонував обміняти свою територію, якщо ми погодимося на вимоги Італії. Іншими словами, ми могли б віддати Тіроль і отримати в обмін Сілезію. Ця пропозиція є дуже привабливою, оскільки Сілезія є індустріалізованою територією, де проживають німецькомовні жителі, що є для нас вигідним." # (@!)
+  ww1_germanrework.103.a: "Це є справедлива угода."
+  ww1_germanrework.103.b: "Ніколи!"
 
-  ww1_germanrework.104.t: "Tyrol for Guarantees?"
-  ww1_germanrework.104.d: "We received an Austrian delegation proposing an easing of territorial tensions in Tyrol. The Austro-Hungarian Empire seems serious about its approach and has offered to cede part of its territory—that is, the entirety of Tyrol—in exchange for the restoration of friendly relations between the two nations. More formally, this would prevent us from declaring war on them, at the very least."
-  ww1_germanrework.104.a: "It is a fair deal."
-  ww1_germanrework.104.b: "Never!"
+  ww1_germanrework.104.t: "Тіроль в обмін на гарантії?"
+  ww1_germanrework.104.d: "Ми прийняли австрійську делегацію, яка запропонувала пом'якшити територіальні напруження в Тіролі. Австро-угорська імперія, здається, серйозно підходить до цього питання і запропонувала віддати частину своєї території, а саме весь Тіроль, в обмін на відновлення дружніх відносин між двома країнами. Більш формально, це дозволило б нам, щонайменше, уникнути оголошення війни." # (@!)
+  ww1_germanrework.104.a: "Це є справедлива угода."
+  ww1_germanrework.104.b: "Ніколи!"
 
-  ww1_germanrework.105.t: "Austrian Refusal"
-  ww1_germanrework.105.d: "Despite all our efforts, Austria-Hungary was not convinced by our proposed exchange. It seems they fear that even this grand gesture would not be enough to satisfy Italy's ambitions."
-  ww1_germanrework.105.a: "Damn them!"
+  ww1_germanrework.105.t: "Австрія відмовляє"
+  ww1_germanrework.105.d: "Незважаючи на всі наші зусилля, Австро-Угорщина не була переконана в доцільності запропонованого нами обміну. Схоже, вони побоюються, що навіть цей величний жест буде недостатнім для задоволення амбіцій Італії." # (@!)
+  ww1_germanrework.105.a: "Хай їм грець!"
 
-  ww1_germanrework.106.t: "Italy Refuses to Negotiate"
-  ww1_germanrework.106.d: "Despite all our efforts, Italy was not convinced by the Austro-German proposal, perhaps fearing a betrayal or believing they can gain more through war."
-  ww1_germanrework.106.a: "Damn them!"
+  ww1_germanrework.106.t: "Італія відмовляється домовлятися"
+  ww1_germanrework.106.d: "Незважаючи на всі наші зусилля, Італія не була переконана австро-німецькою пропозицією, можливо, побоюючись зради або вірячи, що вона може отримати більше шляхом війни." # (@!)
+  ww1_germanrework.106.a: "Хай їм грець!"
 
-  ww1_germanrework.107.t: "Peace in the Alps"
-  ww1_germanrework.107.d: "The appeasement diplomacy initiated by German Chancellor Bethmann Hollweg has borne fruit; the Italian government has promised not to go to war against the Central Powers and may even support us in our war. This is a major diplomatic victory, preventing the opening of a new front in the West."
-  ww1_germanrework.107.a: "A triumph of diplomacy!"
+  ww1_germanrework.107.t: "Мир в Альпах"
+  ww1_germanrework.107.d: "Політика умиротворення, розпочата німецьким канцлером Бетманом-Гольвеґом, принесла свої плоди: італійський уряд пообіцяв не вступати у війну проти Центральних держав і навіть може підтримати нас у нашій війні. Це велика дипломатична перемога, яка запобігла відкриттю нового фронту на Заході." # (@1)
+  ww1_germanrework.107.a: "Тріумф дипломатії!"
 
-  need_AUS_ITA_approval: "§Y[AUS.GetFlag]Austria§! and then §Y[ITA.GetFlag]Italy§! must approve the agreement for bonuses to take effect."
-  ITA_AUS_appeasement: "Austro-Italian territorial dispute is settled"
+  need_AUS_ITA_approval: "§Y[AUS.GetFlag]Австрія§!, а пак §Y[ITA.GetFlag]Італія§! мусять ухвалити угоду, щоби бонуси ввійшли в дію." # (&?)
+  ITA_AUS_appeasement: "Австро-італійський територіальний спір вирішено" # (&?)
 
  ## Haldane Mission
   ww1_germanrework.83.t: "Germany Invites Viscount Haldane"
