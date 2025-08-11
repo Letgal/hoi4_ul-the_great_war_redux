@@ -1,5 +1,5 @@
 ﻿# == (*) ==
- FE_DIFFICULTY_HARD_TOOLTIP:0 "§L"I am young, I am twenty years old; yet I know nothing of life but despair, death, fear, and fatuous superficiality cast over an abyss of sorrow. I see how peoples are set against one another, and in silence, unknowingly, foolishly, obediently, innocently slay one another."§!"
+ FE_DIFFICULTY_HARD_TOOLTIP: "§L«Я молодий, мені двадцять років; і все ж я не знаю ніщо про життя, крім відчаю, смерті, страху та безглуздої поверховості, накинутих на безодню жалю. Я розумію, як народи ополчаються один проти одного, і в мовчанні, незнано, нерозумно, покірно, невинно вбивають одне одного».§!" # (&)
  custom_diff_strong_chi: "@CHI Посилити Китай"
  custom_diff_strong_ger: "@GER Посилити Німеччину"
  custom_diff_strong_fra: "@FRA Посилити Францію"
