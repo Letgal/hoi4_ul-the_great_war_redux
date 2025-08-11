@@ -321,87 +321,87 @@
   ww1_germanrework.4.a: "Кляті соціалісти."
 
  ## 1910 Debate in Prussian Parliment on the "royal civil list"
-  ww1_germanrework.5.t: "Stormy Debate on the Royal Civil List"
-  ww1_germanrework.5.d: "A heated debate erupted today in the Prussian Landtag (House of Representatives) when the issue of the 'Royal Civil List' was raised. At the Kaiser's request, payments from the state budget to the royal family are proposed to be increased.\n\nDuring the debate, the Social Democrat representative Adolph Hoffmann stated before the assembly that the Kaiser already enjoys a daily income of 43,065 Marks, even without the proposed increase. This pointed criticism provoked outrage among the Centrist and Right-wing factions of the house. The President of the Landtag even went so far as to denounce Hofmann as a 'traitor'.\n\nWhile the increase itself is almost certain to pass, the incident has subjected the SPD's revisionist wing to heightened scrutiny from the right, questioning their loyalty after this seemingly 'traitorous' stance."
-  ww1_germanrework.5.a: "Hoffmann is right. The Kaiser requires no further funds!"
-  ww1_germanrework.5.b: "Damn the traitors! The Kaiser deserves our loyalty!"
+  ww1_germanrework.5.t: "Буремні дебати про Королівський цивільний лист"
+  ww1_germanrework.5.d: "Гарячі дебати розгорілися сьогодні в прусському Ландтазі (Палаті представників), коли було піднято питання про «Королівський цивільний лист». На прохання кайзера пропонується збільшити виплати з державного бюджету королівській родині.\n\nПід час дебатів представник соціал-демократів Адольф Гофман заявив перед депутатами, що кайзер і так отримує щоденний дохід у розмірі 43 065 марок, навіть без запропонованого збільшення. Ця гостра критика викликала обурення серед центристських і правих фракцій парламенту. Президент Ландтагу навіть зайшов так далеко, що назвав Гофмана «зрадником».\n\nХоча саме підвищення майже напевно не відбудеться, цей інцидент піддав ревізіоністське крило СДПН посиленому контролю з боку правих, які поставили під сумнів їхню лояльність після такої, здавалося б, «зрадницької» позиції." # (@!)
+  ww1_germanrework.5.a: "Гофман має рацію. Кайзерові не потрібні додаткові кошти!"
+  ww1_germanrework.5.b: "Прокляття зрадникам! Кайзер заслуговує на нашу вірність!"
 
- ## 1911 Anti-Semitism in the Army
-  ww1_germanrework.6.t: "The Centre Criticises Anti-Semitism in the Army"
-  ww1_germanrework.6.d: "In a notable session of the Reichstag, the Zentrum has voiced its concerns over the increasing antisemitic rhetoric within the German Empire's political discourse. The party's leaders highlighted the importance of upholding the principles of equality and respect for all citizens, regardless of their religious background.\n\nThis criticism marks a significant moment as the Zentrum, traditionally focused on moderate and pragmatic policies, calls for a more inclusive and tolerant approach. The party's representatives argued that fostering unity and mutual respect is essential for the stability and progress of the nation.\n\nThe reaction to this stance has been mixed. Some political figures and segments of the populace have welcomed the Zentrum's call for moderation, viewing it as a necessary step towards a more harmonious society. Others, however, have dismissed it as overly idealistic and out of touch with the prevailing sentiments."
-  ww1_germanrework.6.a: "A matter of some concern..."
+ ## Антисемітизм в армії, 1911 рік
+  ww1_germanrework.6.t: "Центр критикує антисемітизм в армії"
+  ww1_germanrework.6.d: "Під час важливої сесії Райхстаґу Партія Центру висловила своє занепокоєння зростанням антисемітської риторики в політичному дискурсі Німецької імперії. Лідери партії наголосили на важливості дотримання принципів рівності та поваги до всіх громадян, незалежно від їхнього релігійного походження.\n\nЦя критика знаменує собою важливий момент, оскільки Центр, традиційно орієнтований на помірковану та прагматичну політику, закликає до більш інклюзивного та толерантного підходу. Представники партії стверджують, що зміцнення єдності та взаємоповаги є важливим для стабільності та прогресу нації.\n\nРеакція на таку позицію була неоднозначною. Деякі політичні діячі та верстви населення привітали заклик Центру до поміркованості, розглядаючи його як необхідний крок на шляху до більш гармонійного суспільства. Інші, однак, відкинули його як надмірно ідеалістичний і такий, що не відповідає панівним настроям." # (@!)
+  ww1_germanrework.6.a: "Питання, варте певної уваги..." # (&+)
 
- ## 1911 Change to Electoral Law in Grand Duchy of Hesse
-  ww1_germanrework.7.t: "Electoral Reform in Hesse"
-  ww1_germanrework.7.d: "The Grand Duchy of Hesse has reformed its electoral law. While the old system of census suffrage based on wealth has been abolished, it has been replaced by a system of plural voting which grants a second vote to all male citizens over the age of fifty. This conservative compromise, designed to counterbalance the effect of a broader franchise, has been condemned by the Social Democrats. The move has only strengthened their campaign for true, equal suffrage."
-  ww1_germanrework.7.a: "A strange sort of progress."
+ ## Зміни у виборчому законодавства Великого герцогства Гессенського, 1911 рік
+  ww1_germanrework.7.t: "Виборча реформа в Гессені"
+  ww1_germanrework.7.d: "Велике герцогство Гессенське реформувало своє виборче законодавство. Стару систему виборчого права, засновану на майновому цензі, було скасовано, а на зміну їй прийшла система множинного голосування, яка надає право другого голосу всім громадянам чоловічої статі, старшим за п'ятдесят років. Цей консервативний компроміс, покликаний врівноважити ефект ширшого виборчого права, був засуджений соціал-демократами. Цей крок лише посилив їхню кампанію за справжнє, рівне виборче право." # (@!)
+  ww1_germanrework.7.a: "Дивно, але це прогрес." # (&+)
 
- ## 1911 Anglo-German Arm Treaties, do not do the locs for these until the ai chance is done
-  ww1_germanrework.8.t: "Arms Limitation Deal with Great Britain?"
-  ww1_germanrework.8.d: "The British government has sent a delegation here to [ROOT.capital.GetCapitalVictoryPointName] in the hopes of signing a mutual arms production limitation pact. England is indeed seeking to limit tensions in Europe, which naturally involves reducing military escalation in the region. Such a pact could make us look good to the British, while redirecting some of our budget elsewhere... However, we cannot be certain that a war will not break out, one way or another."
-  ww1_germanrework.8.a: "Alas, we must decline."
-  ww1_germanrework.8.b: "A noble effort. We accept."
-  GER_anglo_german_arms_limitations: "Anglo-[ROOT.GetAdjective] Arms Limitation Pact"
+ ## Англо-німецькі збройні договори 1911 року — do not do the locs for these until the ai chance is done
+  ww1_germanrework.8.t: "Угода про обмеження озброєння з Великою Британією?" # (&)
+  ww1_germanrework.8.d: "Британський уряд відправив делегацію сюди, до міста [ROOT.capital.GetCapitalVictoryPointName], в надії підписати пакт про взаємне обмеження виробництва озброєнь. Англія дійсно прагне обмежити напруженість в Європі, що, природно, передбачає зменшення військової ескалації в регіоні. Такий пакт міг би вигідно виставити нас перед британцями, одночасно перенаправивши частину нашого бюджету в інше русло... Однак ми не можемо бути впевнені, що війна так чи інакше не спалахне."
+  ww1_germanrework.8.a: "На жаль, ми мусимо відхилити."
+  ww1_germanrework.8.b: "Благородне зусилля. Ми згодні." # (&+)
+  GER_anglo_german_arms_limitations: "Англо-[ROOT.GetAdjective]ий пакт про обмеження озброєння" # (&)
 
-  ww1_germanrework.9.t: "[FROM.GetNameDefCap] Declines Arms Treaty"
-  ww1_germanrework.9.d: "The [FROM.GetAdjective] government declined our offer of mutual arms limitation. In a letter sent to our delegation, [FROM.GetLeader] assured us of its good intentions toward our country, adding that third-party threats were preventing it from signing such an agreement."
-  ww1_germanrework.9.a: "As expected..."
-  ww1_germanrework.10.t: "[FROM.GetNameDefCap] Enters Arms Limitation Pact with Britain"
-  ww1_germanrework.10.d: "After several days of negotiations, the British government and the [FROM.GetAdjective] government have reached a pact to limit arms stocks. The agreement, signed at [FROM.capital.GetCapitalVictoryPointName], provides for a gradual reduction in production by both nations, hoping to spread this movement throughout Europe and then the world."
-  ww1_germanrework.10.a: "One small step for peace."
+  ww1_germanrework.9.t: "[FROM.GetNameDefCap] відхиляє збройний договір"
+  ww1_germanrework.9.d: "[FROM.GetAdjectiveCap]ий уряд відхилив нашу пропозицію про взаємне обмеження озброєнь. У листі, надісланому нашій делегації, [FROM.GetLeader] запевни[FROM.Leader.GetVerbGendEndA_RU] нас у своїх добрих намірах щодо нашої країни, додавши, що підписати таку угоду [FROM.Leader.GetHerHim] заважають погрози з боку третіх сторін." # (@!)
+  ww1_germanrework.9.a: "Як очікувано..."
+  ww1_germanrework.10.t: "[FROM.GetNameDefCap] вступає до пакту з обмеження озброєння з Британією" # (&)
+  ww1_germanrework.10.d: "Після кількох днів переговорів британський і [FROM.GetAdjective]ий уряди уклали пакт про обмеження запасів озброєнь. Угода, підписана в місті [FROM.capital.GetCapitalVictoryPointName], передбачає поступове скорочення виробництва обома країнами, сподіваючись поширити цей рух по всій Європі, а потім і по всьому світі." # (@!)
+  ww1_germanrework.10.a: "Один малий крок до миру."
 
- ## 1912 Strikes
-  ww1_germanrework.11.t: "Stikes in the Ruhr"
-  ww1_germanrework.11.d: "Earlier this week, in the Ruhr region, 170,000 miners left their workplaces to strike for a 15 percent wage increase. As of now, the owners of the mines have yet to even attempt to negotiate with the strikes, clearly planning to wait out the strike. The strike has only been encouraged by the falling standards of living and safety in the mines.\n\nThe SPD has voiced its support for the strikers, using them as a stepping stool to gain support among the local workers. In response, the Centre Party has shifted to the right, proposing financial aid to the mine owners to compensate for their losses."
-  ww1_germanrework.11.a: "We shall not negotiate with the unions."
-  ww1_germanrework.11.b: "For the greater good, we should negotiate."
+ ## Страйки 1912 року
+  ww1_germanrework.11.t: "Страйки в Рурі"
+  ww1_germanrework.11.d: "Раніше цього тижня в Рурському регіоні 170 000 шахтарів залишили свої робочі місця, вимагаючи 15-відсоткове підвищення заробітної плати. Наразі власники шахт навіть не намагалися вести переговори зі страйкарями, очевидно, плануючи перечекати страйк. Страйк лише заохочується падінням рівня життя та безпеки на шахтах.\n\nСДПН висловила свою підтримку страйкарям, використовуючи їх як підставу для отримання підтримки серед місцевих робітників. У відповідь на це Партія Центру змістилася вправо, запропонувавши фінансову допомогу власникам шахт, щоб компенсувати їхні збитки." # (@!)
+  ww1_germanrework.11.a: "Ми не станемо домовлятися з профспілками."
+  ww1_germanrework.11.b: "Заради вищого блага, нам слід домовитися."
 
  ## 1912 Ruhr Accident
-  ww1_germanrework.12.t: "Mining Accident in the Ruhr"
+  ww1_germanrework.12.t: "Mining Accident in the Ruhr" # (!)
   ww1_germanrework.12.d: "A solum day for the Reich, Kaiser Wilhelm recently visited the scene of a mining accident in the Ruhr region to pay respects to the deceased miners. Current deaths are totaled at 115 miners. This follows the strikes in the mines earlier this year and the accident has given the far-left of the Rhur reason to once again begin calling for strikes. Whilst the Kaiser and his people mourn for the dead, a government response to the accident is to be printed in the press soon."
   ww1_germanrework.12.a: "A sad day for the Reich."
 
- ## National Census
-  ww1_germanrework.18.t: "The Findings of the National Census"
-  ww1_germanrework.18.d: "The findings of the national census have been delivered and examined by the administration. After reviewing the findings, a document has been prepared to advise the Reichstag and the Kaiser of the conclusions. These documents have highlighted how large portions of the empire lack vital infrastructure compared to our competitors in Europe, mass urbanization has led to housing shortages and public health growth is minimal - even reverting in some cities. These findings have concerned the Chancellor greatly who is keen to introduce legislature, commit new government investments, and bring in foreign experts to help the construction of a new sewer system to battle the poor public health in our key cities.\n\nThe findings of the national census have not been what many expected and will no doubt play a big part in the left's push for an increase in the Empire's social spending."
-  ww1_germanrework.18.a: "Perhaps German society is not as progressive as we thought..."
+ ## Державний перепис населення
+  ww1_germanrework.18.t: "Знахідки державного перепису населення" # (&): націоналн. чи державн.???
+  ww1_germanrework.18.d: "Результати національного перепису населення були представлені та розглянуті адміністрацією. Після розгляду результатів було підготовлено документ, який мав донести висновки до Райхстаґу та кайзера. У цих документах підкреслювалося, що значній частині імперії бракує життєво важливої інфраструктури порівняно з нашими конкурентами в Європі, що масова урбанізація призвела до нестачі житла, а зростання громадського здоров'я є мінімальним, а в деяких містах навіть регресує. Ці висновки дуже занепокоїли канцлера, який прагне запровадити законодавчі зміни, здійснити нові державні інвестиції та залучити іноземних експертів для допомоги у будівництві нової каналізаційної системи для боротьби з поганим станом здоров'я населення в наших ключових містах.\n\nРезультати національного перепису виявилися не такими, як багато хто очікував, і, без сумніву, відіграватимуть важливу роль у наполяганні лівих сил на збільшенні соціальних витрат імперії." # (@!)
+  ww1_germanrework.18.a: "Можливо, німецьке суспільство не таке прогресивне, як ми думали..."
 
- ## 1912 Miltary Conferance
-  ww1_germanrework.20.t: "The Kaiser Calls for a War Council"
-  ww1_germanrework.20.d: "Meeting at the Stadtschloss in Berlin, the Kaiser has called a War Council between the highest military leaders in the German Empire. It's expected that the topics of discussion will follow the tense military and diplomatic situation in Europe. Specific topics will naturally focus on Russia's 'Great Military Plan', Austria-Hungary's concerns about Serbian military action, and the relationship of the Empire with the British.\n\nKnown attendees include Tirpitz, Muller, Molkte, and Heeringen, with an equally strong presence from the Army and the Navy.\n\nAs preparations and talks about Germany's place in a war in Europe, each day brings war closer to the Reich and do doubt, soon legislature will be passed to expand the German armed forces to meet a new era of war."
-  ww1_germanrework.20.a: "A major war is on the horizon."
+ ## Військова конференція 1912 року
+  ww1_germanrework.20.t: "Кайзер скликає воєнну раду"
+  ww1_germanrework.20.d: "Зібравшись у берлінському Штадтшлосі, кайзер скликав воєнну раду за участю вищого військового керівництва Німецької імперії. Очікується, що теми обговорення будуть відповідати напруженій військовій та дипломатичній ситуації в Європі. Конкретні теми, природно, будуть зосереджені на «великому військовому плані» Росії, занепокоєнні Австро-Угорщини військовими діями Сербії та відносинах імперії з Великою Британією.\n\nВідомі учасники — Тірпіц, Мюллер, Молькте і Герінген, з однаково сильною присутністю представників сухопутних військ і флоту.\n\nПід час підготовки та розмов про місце Німеччини у війні в Європі, кожен день наближає війну до Райху і не викликає сумнівів, що незабаром буде прийнятий закон про розширення німецьких збройних сил, щоб зустріти нову епоху війни." # (@!)
+  ww1_germanrework.20.a: "Велика війна — на обрії." # (&+): бляха, присудок треба
 
- ## Wilhelmine Germany
-  ww1_germanrework.21.t: "Wilhelmine Germany"
-  ww1_germanrework.21.d: "Ascending to the throne in 1888, Kaiser Wilhelm II ushered in an era defined by surging national ambition and industrial might. Fueled by intense nationalism and a belief in military strength, [GER.GetNameDef]'s pursuit of Weltpolitik - seeking global influence and a 'place in the sun' - drives its actions on the world stage.\n\nRapid industrialization has transformed [GER.GetNameDef] into an economic powerhouse, reshaping its society in the process. This economic power fuels Admiral von Tirpitz's ambitious naval expansion, aimed at challenging British sea power.\n\nDomestically, the rise of the Social Democratic Party (SPD), championing the interests of the burgeoning working class, creates internal political friction with the conservative establishment.\n\nExternally, the quest for global influence has led [GER.GetNameDef] to discard Bismarck's careful web of alliances in favour of the 'Politik der freien Hand' (Policy of the Free Hand). This assertive approach, prioritising diplomatic flexibility over established commitments, has heightened tensions with other European powers and contributed to a sense of 'encirclement' by the Triple Entente. Nevertheless, the Triple Alliance with [AUS.GetNameDef] and [ITA.GetNameDef] remains a crucial counterbalance.\n\nPowerful and ambitious, Wilhelmine Germany faces a challenging future, beset by internal discord and international tensions."
-  ww1_germanrework.21.a: "Germany sails a steady course."
+ ## Вільгельмівська Німеччина
+  ww1_germanrework.21.t: "Вільгельмівська Німеччина"
+  ww1_germanrework.21.d: "Зійшовши на трон у 1888 році, кайзер Вільгельм II відкрив епоху, що визначалася зростанням національних амбіцій та індустріальної могутності. Підживлювана інтенсивним націоналізмом і вірою у військову силу, [GER.GetNameDef] прагне до Weltpolitik — глобального впливу і «місця під сонцем», — що керує її діями на світовій арені.\n\nШвидка індустріалізація перетворила [GER.GetNameDef] на економічну потугу, змінюючи в процесі цього суспільство. Ця економічна міць підживлює амбітну військово-морську експансію адмірала фон Тірпіца, спрямовану на те, щоб кинути виклик британській морській могутності.\n\nВсередині країни піднесення Соціал-демократичної партії (СДПН), яка відстоює інтереси зростаючого робітничого класу, створює внутрішньополітичні тертя з консервативним істеблішментом.\n\nНазовні прагнення до глобального впливу призвело до того, що держава [GER.GetNameDef] відмовилася від обережної павутини альянсів Бісмарка і перейшов на бік «політики вільної руки» («Politik der freien Hand»). Цей напористий підхід, що надавав перевагу дипломатичній гнучкості над встановленими зобов'язаннями, посилив напруженість у відносинах з іншими європейськими державами і сприяв виникненню відчуття «оточення» з боку Троїстого союзу. Тим не менш, Троїстий союз із державами [AUS.GetNameDef] й [ITA.GetNameDef] залишається важливою противагою.\n\nМогутня й амбітна, Вільгельмівська Німеччина стоїть перед складним майбутнім, обтяжена внутрішніми розбіжностями і міжнародною напруженістю." # (@!)
+  ww1_germanrework.21.a: "Німеччина пливе впевненим курсом."
 
- ## Socialism in Germany
-  ww1_germanrework.22.t: "Social Democracy in the German Empire"
-  ww1_germanrework.22.d: "The Social Democratic Party of Germany (SPD) has grown significantly since unification, dominating the political left in the Reichstag alongside the Progressive People's Party (FVP). This rise is mirrored by the increasing power of trade unions, fueled by German industrial expansion.\n\nHowever, declining working conditions amid soaring production demands have led to growing unrest among unionised workers. While currently decentralized and lacking unified leadership, these unions hold the potential to cripple the economy if their grievances are ignored. The government must tread carefully, balancing concessions to labour with the need to placate powerful conservative forces within the Reichstag and the establishment."
-  ww1_germanrework.22.a: "The demands of the socialists must not distract us."
+ ## Соціалізм у Німеччині
+  ww1_germanrework.22.t: "Соціал-демократія в Німецькій імперії"
+  ww1_germanrework.22.d: "Соціал-демократична партія Німеччини (СДПН) значно зросла з моменту об'єднання, домінуючи в Райхстазі разом з Прогресивною народною партією (ПНП), яка займає ліве політичне крісло в парламенті. Це зростання віддзеркалюється у зростаючій силі профспілок, що підживлюється німецькою промисловою експансією.\n\nОднак, погіршення умов праці на тлі стрімкого зростання виробничих потреб призвело до зростання заворушень серед об'єднаних у профспілки працівників. Незважаючи на те, що ці профспілки наразі децентралізовані і не мають єдиного керівництва, вони здатні завдати шкоди економіці, якщо їхні скарги будуть проігноровані. Уряд мусить діяти обережно, балансуючи між поступками робітникам і необхідністю заспокоїти потужні консервативні сили в Райхстазі та істеблішменті." # (@!)
+  ww1_germanrework.22.a: "Вимоги соціалістів не мусять нас відволікати."
 
- ## The Fleeting Right-Wing
-  ww1_germanrework.23.t: "The Fleeting Right-Wing"
-  ww1_germanrework.23.d: "Germany's right wing has always been favored by both the aristocracy and farmers, composed of conservative, agricultural, and nationalist parties. However, the decline of right-wing has become more and more clear as the second industrial revolution catalyzed the formation of leftist unions and bolstered support for the Social Democrats. Due to this many of the conservative parties have begun to adapt their policies to ensure they can keep their key voter's support; the conservatives continue to advocate for a self-sufficient economy less reliant on trade, especially with nations like Britain who pose a threat to German ambitions and the agriculturists call for tax exemptions for farmers to give them the support they need to feed the newly urbanized populations. If the right-wing is to revive itself it must set a clear goal that the rightist parties can follow, or else the right will be crushed under the tide of social democracy."
-  ww1_germanrework.23.a: "Perhaps the right can still be revived..."
+ ## Недовговічне праве крило
+  ww1_germanrework.23.t: "Недовговічне праве крило"
+  ww1_germanrework.23.d: "Праві сили Німеччини завжди користувалися підтримкою як аристократії, так і фермерів, і були представлені консервативними, аграрними та націоналістичними партіями. Однак занепад правого крила ставав дедалі очевиднішим, оскільки друга промислова революція каталізувала формування лівих профспілок і посилила підтримку соціал-демократів. Через це багато консервативних партій почали адаптувати свою політику, щоб зберегти підтримку своїх ключових виборців; консерватори продовжують виступати за самодостатню економіку, менш залежну від торгівлі, особливо з такими країнами, як Велика Британія, які становлять загрозу німецьким амбіціям, а аграрії закликають до податкових пільг для фермерів, щоб надати їм підтримку, необхідну для того, щоб прогодувати нещодавно урбанізоване населення. Якщо праві хочуть відродитися, вони мусять поставити перед собою чітку мету, якої могли б дотримуватися праві партії, інакше праві будуть розчавлені під натиском соціал-демократії." # (@!)
+  ww1_germanrework.23.a: "Можливо, правих іще можна відродити..."
 
  ## 1914 The Royal Approval of Frankfurt university
-  ww1_germanrework.24.t: "The Founding of Frankfurt University"
-  ww1_germanrework.24.d: "The University of Frankfurt on Main was established on September 28th, 1912, when the foundation for forming the university was passed by Frankfurt's city government. It has it's roots in Goethe University, which was established in 1484, but was not officially considered to be one under German customs, as it did not issue degrees for almost half a millennia. Funded by several people and groups, notably the security dealers in the Speyer family; Wilhelm Ralph Merton, the founder of Metallgesellschaft AG; Arthur von Weinberg, co-owner of the historic Cassella chemical company, and the former director of Senckenberg Nature Research Society; and various other families and local elites.\n\nRoyal approval for Universität Frankfurt am Main was granted on June 10th, 1914, and enrollment began in mid-October."
-  ww1_germanrework.24.a: "The German mind will never be sullied."
+  ww1_germanrework.24.t: "Заснування Франкфуртського університету"
+  ww1_germanrework.24.d: "Університет Франкфурта-на-Майні був заснований 28 вересня 1912 року, коли міська влада Франкфурта прийняла рішення про заснування університету. Своїм корінням він сягає Університету Ґьоте, який був заснований у 1484 році, але офіційно не вважався таким за німецькими звичаями, оскільки не видавав дипломів протягом майже півтисячоліття. Його фінансували кілька людей і груп, зокрема, торговці цінними паперами з родини Шпеєрів; Вільгельм Ральф Мертон, засновник компанії «Metallgesellschaft AG»; Артур фон Вайнберґ, співвласник історичної хімічної компанії «Cassella» і колишній директор Товариства дослідження природи Сенкенберґа; а також інші сім'ї та місцеві еліти.\n\nКоролівський дозвіл на заснування Франкфуртського університету було надано 10 червня 1914 року, а набір студентів розпочався в середині жовтня." # (@!)
+  ww1_germanrework.24.a: "Німецький розум ніколи не буде заплямований." # (@!)
 
- ## 1914 Albert Einstein Comes to Germany
-  ww1_germanrework.25.t: "Einstein Comes to Germany"
-  ww1_germanrework.25.d: "Albert Einstein, the renowned theoretical physicist, was recently offered a job as the director of the new Kaiser Wilhelm Institute for Physics, as well as membership in the Prussian Academy of Science and the Humboldt Academy of Berlin in order to be funded to conduct research. Max Planck - a theoretical physicist who served as president of the German Physical Institute from 1905 to 1909, and creator of Planck's Constant - and Walther Nernst - friend of Kaiser Wilhelm II and thermodynamic physicist - convinced Einstein to take these jobs. "
-  ww1_germanrework.25.a: "Great minds are always welcome!"
+ ## Альберт Айнштайн приходить до Німеччини, 1914 рік
+  ww1_germanrework.25.t: "Айнштайн приходить до Німеччини"
+  ww1_germanrework.25.d: "Альберт Айнштайн, відомий фізик-теоретик, нещодавно отримав посаду директора нового Інституту фізики імені кайзера Вільгельма, а також членство в Прусській академії наук і Берлінській академії імені Гумбольдта для того, щоб отримати фінансування для проведення досліджень. Макс Планк — фізик-теоретик, який обіймав посаду президента Німецького фізичного інституту з 1905 по 1909 рік, творець сталої Планка — і Вальтер Нернст — друг кайзера Вільгельма II і фізик-термодинамік — переконали Айнштайна погодитися на цю роботу." # (@!)
+  ww1_germanrework.25.a: "Великим умам завжди раді!"
 
- ## Formation of the OHL
-  ww1_germanrework.40.t: "Formation of the OHL"
-  ww1_germanrework.40.d: "After the formation of the German Empire in 1871, the Prussian Army, Royal Saxon Army, Army of Württemberg and the Bavarian Army were autonomous in peacetime, each kingdom maintaining a separate war ministry and general staff to administer their forces. On the outbreak of war, the Constitution of the German Empire ensures that the German Emperor would be made commander-in-chief of the combined armies.\n\nWith the outbreak of war, the Oberste Heeresleitung is now the highest echelon of command of the Heer of the German Empire, led by general Moltke. The OHL is split into sections that will take control over different parts of the country, whilst also monitoring politics and taking over the economy to ensure production remains most efficient for the army.\n\nIn addition to the General Staff of the Field Army, the Supreme Army Command consists of the Emperor's Military Cabinet, the Intendant General (responsible for supply), senior advisers in various specialist fields (Artillery, Engineers, Medicine, Telegraphy, Munitions and Railways) and representatives from the four German War Ministries and representatives of the other Central Powers. "
-  ww1_germanrework.40.a: "To war, then."
+ ## Утворення ВКА
+  ww1_germanrework.40.t: "Утворення ВКА"
+  ww1_germanrework.40.d: "Після утворення Німецької імперії в 1871 році Прусська армія, Королівська саксонська армія, Армія Вюртемберґа і Баварська армія були автономними в мирний час, кожне королівство мало окреме військове міністерство і генеральний штаб для управління своїми військами. Конституція Німецької імперії гарантує, що на випадок початку війни німецький імператор стане головнокомандувачем об'єднаних армій.\n\nЗ початком війни Верховне командування сухопутних військ (Oberste Heeresleitung) є вищим ешелоном командування сухопутних військ Німецької імперії, очолюваним генералом Мольтке. ВКА розділене на секції, які візьмуть під свій контроль різні частини країни, одночасно контролюючи політику і беручи під свій контроль економіку, щоб забезпечити найбільш ефективне виробництво для армії.\n\nКрім генерального штабу польової армії, Верховне командування армії складається з Військового кабінету імператора, генерал-інтенданта (відповідального за постачання), старших радників у різних галузях (артилерія, інженери, медицина, телеграфія, боєприпаси і залізниця), а також представників чотирьох німецьких військових міністерств і представників інших центральних держав." # (@!)
+  ww1_germanrework.40.a: "Отже, на війну."
 
- ## The Centre Block
+ ## The Centre Bloc
   ww1_germanrework.41.t: "The Centre Bloc"
   ww1_germanrework.41.d: "The Centre of Germany has been the dominant force in the Empire's governing politics since its creation. The centrists are led by the trusted Zentrum party who formed in 1870, went on to successfully battle against the Kulturkampf waged by Chancellor Otto von Bismarck against the Catholic Church. It soon won a quarter of the seats in the Reichstag, and its middle position on most issues allowed it to play a decisive role in the formation of majorities. However, there are plenty of centrist parties in Germany who seek to make moderate social reform whilst ensuring that German traditional values are kept.\n\nIf Germany is going to continue to be stable throughout the next decade, the centrists must keep their power in Germany so that a moderate amount of rightist and leftist laws are passed into the bundesrat. Luckily, many of the key political figures in Germany, like Theobald von Bethmann Hollweg, support the centrists and have aided them in keeping their majority in the Reichstag. "
   ww1_germanrework.41.a: "Imperialism in moderation."
@@ -1105,12 +1105,12 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_build_hinterlandbahn:0 "Lay down the Hinterlandbahn"
 
 ### СТРІМКА УРБАНІЗАЦІЯ ###
- GER_effects_of_rapid_urbanization:0 "Effects of Rapid Urbanization"
- GER_tackle_urbanization_crisis_in_hamburg:0 "Tackle the Urbanization Crisis in Hamburg"
- GER_tackle_urbanization_crisis_in_berlin:0 "Tackle the Urbanization Crisis in Berlin"
- GER_tackle_urbanization_crisis_in_dortmund:0 "Tackle the Urbanization Crisis in Dortmund"
- GER_tackle_urbanization_crisis_in_cologne:0 "Tackle the Urbanization Crisis in Köln"
- GER_tackle_urbanization_crisis_in_dusseldorf_and_essen:0 "Tackle the Urbanization Crisis in Düsseldorf & Essen"
+ GER_effects_of_rapid_urbanization: "Ефекти стрімкої урбанізації"
+ GER_tackle_urbanization_crisis_in_hamburg: "Упоратися з урбанізаційною кризою в Гамбурзі"
+ GER_tackle_urbanization_crisis_in_berlin: "Упоратися з урбанізаційною кризою в Берліні"
+ GER_tackle_urbanization_crisis_in_dortmund: "Упоратися з урбанізаційною кризою в Дортмунді"
+ GER_tackle_urbanization_crisis_in_cologne: "Упоратися з урбанізаційною кризою в Кьольні"
+ GER_tackle_urbanization_crisis_in_dusseldorf_and_essen: "Упоратися з урбанізаційною кризою в Дюссельдорфі й Ессені"
  is_dealing_with_urbanization_crisis:0 "Not already managing two urbanisation crises"
 
 ### ПРОЄКТ «МІТТЕЛЬАФРІКА» ###
@@ -1193,10 +1193,10 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_1912_budget:0 "Attempting to Pass a New Budget"
  GER_taken_mob_of_morale_focus:0 " Has taken a §YMobilisation of Morale§! focus in the past §Y70 days§!."
  GER_hollweg_empowered:0 "Bethmann Hollweg has been empowered in the aftermath of the Zabern Affair"
- GER_vote_in_bundesrat:0 "Voting in the §YBundesrat§!"
- ww1_haldane_mission_successful:0 "Haldane Mission was successful"
- GER_solf_appointed:0 "Wilhelm Solf has been appointed"
- GER_von_liebert_appointed:0 "Eduard von Liebert has been appointed"
+ GER_vote_in_bundesrat: "Голосує в §YБундесраті§!"
+ ww1_haldane_mission_successful: "Місія Голдейна була успішна"
+ GER_solf_appointed: "Було призначено Вільгельма Зольфа"
+ GER_von_liebert_appointed: "Було призначено Едуарда фон Ліберта"
 
  GER_HOL_create_4_v105_torpedoes_boats:0 "Create §Y4 V-105 Class Torpedoes Boats§!."
 
@@ -1272,12 +1272,12 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_chancellor_only:0 "This advisor is a §Ypotential candidate§! for the §YChancellorship§! and cannot be hired manually."
  GER_ohl_position:0 "The Empire's §YChief of Army§! is the head of the §YOHL§!."
 
- GER_if_law_passes_bund:0 "\nIf the law §Gpasses§! in the §YBundesrat§!:"
- GER_if_law_fails_bund:0 "\nIf the law §rfails§! in the §YBundesrat§!:"
- GER_if_law_fails_reich:0 "\nIf the law §rfails§! in the §YReichstag§!:"
- GER_if_law_passes_reich:0 "\nIf the law §Gpasses§! in the §YReichstag§!:"
- GER_allows_law_to_be_passed:0 "The law will be available in the §YBundesrat§!"
- GER_reichstag_vote_in_progress:0 "Law is being voted on in the §YReichstag§!"
+ GER_if_law_passes_bund: "\nЯкщо закон буде §Gухвалено§! в §YБундесраті§!:" # (&+)
+ GER_if_law_fails_bund: "\nЯкщо закон §rпровалиться§! в §YБундесраті§!:" # (&+)
+ GER_if_law_fails_reich: "\nЯкщо закон §rпровалиться§! в §YРайхстазі§!:" # (&+)
+ GER_if_law_passes_reich: "\nЯкщо закон буде §Gухвалено§! в §YРайхстазі§!:" # (&+)
+ GER_allows_law_to_be_passed: "Цей закон стане доступний у §YБундесраті§!." # (&+)
+ GER_reichstag_vote_in_progress: "У §YРайхстазі§! голосують щодо закону" # (&+)
 
  ww1_germany_pf:0 "State of the Military Increase by 5."
  ww1_germany_pt:0 "State of the Military Increase by 10."
@@ -1354,21 +1354,21 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_add_idea_mob_of_morale.tt:0 "Add §YMobilisation of Morale§!, which grants (£army_morale_texticon Division Recovery Rate: §G+5.00%§!, £organization_gain_texticon Army Organization Regain: §G+5.00%§!, £war_support_modifiericons_texticon  War Support: §G+2.50%§!, £political_power_cost_texticon Daily Political Power Cost: §R+0.05§!)."
   GER_modify_mob_of_morale.tt:0 "Modify §YMobilisation of Morale§! by\n£army_morale_texticon Division Recovery Rate: §G+5.00%§!\n£organization_gain_texticon Army Organization Regain: §G+5.00%§!\n£war_support_modifiericons_texticon  War Support: §G+2.50%§!\n£political_power_cost_texticon Daily Political Power Cost: §R+0.05§!"
 
- ## Könige im Luftrevier Tooltips
-  GER_add_konige_im_luftrevier.tt:0 "Add §YKönige im Luftrevier§!, which grants\n($MODIFIER_XP_GAIN_AIR$: [?GER_luftrevier_experience_gain_air_factor|=+%],$MODIFIER_AIR_DOCTRINE_COST_FACTOR$: [?GER_luftrevier_air_doctrine_cost|=-%],$MODIFIER_AIR_ACCIDENTS_FACTOR$: [?GER_luftrevier_air_accidents_factor|=-%])."
-  GER_modify_konige_im_luftrevier_4.tt:0 "Modify §YKönige im Luftrevier§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|=+%]"
-  GER_modify_konige_im_luftrevier_3.tt:0 "Modify §YKönige im Luftrevier§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]"
-  GER_modify_konige_im_luftrevier_3_3_is_negative.tt:0 "Modify §YKönige im Luftrevier§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=-%]"
-  GER_modify_konige_im_luftrevier_2.tt:0 "Modify §YKönige im Luftrevier§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]"
-  GER_modify_konige_im_luftrevier_2_2_is_negative.tt:0 "Modify §YKönige im Luftrevier§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=-%]"
-  GER_modify_konige_im_luftrevier_1.tt:0 "Modify §YKönige im Luftrevier§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]"
-  GER_homework_act_effect.tt:0 "Modify §YSocial Reforms§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]"
-  GER_healthcare_insurance_act_effect.tt:0 "Modify §YSocial Reforms§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|.1=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|.1Y%]"
-  GER_employment_agency_act_effect.tt:0 "Modify §YSocial Reforms§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|.0=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|=+%]\n$MODIFIER_ICON_5$: [?MODIFIER_5|=+%]\n$MODIFIER_ICON_6$: [?MODIFIER_6|.1Y%]"
-  GER_national_pension_effect.tt:0 "Modify §YSocial Reforms§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|.1Y%]"
-  GER_german_pension_effect.tt:0 "Modify §YSocial Reforms§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|.0=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|.1Y%]"
-  GER_nationality_inclusive_law_effect.tt:0 "Modify §YSocial Reforms§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|.0=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|.1=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|=+%]\n$MODIFIER_ICON_5$: [?MODIFIER_5|.0=+%]\n$MODIFIER_ICON_6$: [?MODIFIER_6|.1-=%]\n$MODIFIER_ICON_7$: [?MODIFIER_7|+=]."
-  GER_nationality_discriminatory_law_effect.tt:0 "Modify §YSocial Reforms§! by\n$MODIFIER_ICON_1$: [?MODIFIER_1|.0=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|.0=+%]\n$MODIFIER_ICON_5$: [?MODIFIER_5|.1=-%]\n$MODIFIER_ICON_6$: [?MODIFIER_6|+=]\n$MODIFIER_ICON_7$: [?MODIFIER_7|+=]."
+ ## Підказки до Könige im Luftrevier
+  GER_add_konige_im_luftrevier.tt: "Буде додано ідею §Y$GER_konige_im_luftrevier$§!, що даватиме\n§g(§!$MODIFIER_XP_GAIN_AIR$: [?GER_luftrevier_experience_gain_air_factor|=+%], $MODIFIER_AIR_DOCTRINE_COST_FACTOR$: [?GER_luftrevier_air_doctrine_cost|=-%], $MODIFIER_AIR_ACCIDENTS_FACTOR$: [?GER_luftrevier_air_accidents_factor|=-%]§g)§!."
+  GER_modify_konige_im_luftrevier_4.tt: "Ідею §Y$GER_konige_im_luftrevier$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|=+%]"
+  GER_modify_konige_im_luftrevier_3.tt: "Ідею §Y$GER_konige_im_luftrevier$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]"
+  GER_modify_konige_im_luftrevier_3_3_is_negative.tt: "Ідею §Y$GER_konige_im_luftrevier$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=-%]"
+  GER_modify_konige_im_luftrevier_2.tt: "Ідею §Y$GER_konige_im_luftrevier$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]"
+  GER_modify_konige_im_luftrevier_2_2_is_negative.tt: "Ідею §Y$GER_konige_im_luftrevier$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=-%]"
+  GER_modify_konige_im_luftrevier_1.tt: "Ідею §Y$GER_konige_im_luftrevier$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]"
+  GER_homework_act_effect.tt: "Ідею §Y$GER_social_reforms$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]"
+  GER_healthcare_insurance_act_effect.tt: "Ідею §Y$GER_social_reforms$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|Y=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|.1=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|.1Y%]"
+  GER_employment_agency_act_effect.tt: "Ідею §Y$GER_social_reforms$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|.0=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|=+%]\n$MODIFIER_ICON_5$: [?MODIFIER_5|=+%]\n$MODIFIER_ICON_6$: [?MODIFIER_6|.1Y%]"
+  GER_national_pension_effect.tt: "Ідею §Y$GER_social_reforms$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|.1Y%]"
+  GER_german_pension_effect.tt: "Ідею §Y$GER_social_reforms$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|.0=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|.1Y%]"
+  GER_nationality_inclusive_law_effect.tt: "Ідею §Y$GER_social_reforms$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|.0=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|.1=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|=+%]\n$MODIFIER_ICON_5$: [?MODIFIER_5|.0=+%]\n$MODIFIER_ICON_6$: [?MODIFIER_6|.1-=%]\n$MODIFIER_ICON_7$: [?MODIFIER_7|+=]."
+  GER_nationality_discriminatory_law_effect.tt: "Ідею §Y$GER_social_reforms$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|.0=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|.0=+%]\n$MODIFIER_ICON_5$: [?MODIFIER_5|.1=-%]\n$MODIFIER_ICON_6$: [?MODIFIER_6|+=]\n$MODIFIER_ICON_7$: [?MODIFIER_7|+=]."
 
   ww1_germanybundesrat:0 "When passed, the law will have the following effects:"
   GER_has_majority_in_bund:0 "Has Majority in [GetBundesratName]"
@@ -1389,9 +1389,9 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_germanisation:0 "Prussian Settlement Commision"
   GER_enhanced_conscription:0 "Enhanced Conscription"
   GER_extended_germanisation:0 "Law on Polish Landholders"
-  GER_konige_im_luftrevier:0 "Könige im Luftrevier"
+  GER_konige_im_luftrevier: "Könige im Luftrevier"
   GER_germanisation_tooltip:0 "Replace §YPrussian Settlement Commision§! with §YLaw on Polish Landholders§!\nEffective change:\n£manpower_texticon Local Manpower: §G+30%§!\n£population_texticon  Monthly Population: §G+20%§!\n£civ_factory Max Factories in State: §G+25%§!\n£resources_texticon Local Available Resources:§G+30%§!"
-  GER_social_reforms:0 "Social Reforms"
+  GER_social_reforms: "Соціальні реформи"
 
 ### ФОКУСИ ###
  # Початкове політичне дерево
@@ -1928,19 +1928,19 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_bundesrat_category: "[GetBundesratName]"
 
 ### РАЙХСТАҐ ###
-  GER_reichstag_category: "Reichstag"
-  GER_reichstag_category_desc: "The Reichstag is Germany's lower House of Parliament, as it has been from 1871 after being introduced with the imperial consitution. Within the governmental structure of the Reich, it represents the national and democratic element of the empire - alongside the federalism of the Bundesrat and the monarchic element of the government, embodied in the Reich chancellor. Together with the Bundesrat, the Reichstag holds legislative power and shared in decision-making on Imperial law.\n\nLaws must be passed in the Reichstag before being sent through the Bundesrat, each law will be supported by different parties depending on their politcal alignment, the more powerful the party, the more votes the law will obtain. However, we can still lobby support from other parties."
-  GER_election1: "Upcoming Reichstag Election"
-  GER_election2: "Upcoming Reichstag Election"
-  GER_calculate_predicted_results: "Predicted Results"
-  GER_calculate_predicted_results_desc: "Predicted results will be updated."
-  GER_might_delay_a_famine: "In case of prolonged war, this focus might §Ydelay the risk§! of §Rfamine§!."
-  GER_toggle_hiddenburg_program: "Toggle the Hindenburg Programme"
-  GER_has_at_least_2_ships_in_bismark_sea: "Has at least §Y2§! ships in §YBismarck Sea§!."
+ GER_reichstag_category: "Райхстаґ"
+ GER_reichstag_category_desc:0 "The Reichstag is Germany's lower House of Parliament, as it has been from 1871 after being introduced with the imperial consitution. Within the governmental structure of the Reich, it represents the national and democratic element of the empire - alongside the federalism of the Bundesrat and the monarchic element of the government, embodied in the Reich chancellor. Together with the Bundesrat, the Reichstag holds legislative power and shared in decision-making on Imperial law.\n\nLaws must be passed in the Reichstag before being sent through the Bundesrat, each law will be supported by different parties depending on their politcal alignment, the more powerful the party, the more votes the law will obtain. However, we can still lobby support from other parties."
+ GER_election1: "Прийдешні вибори в Райхстазі"
+ GER_election2: "Прийдешні вибори в Райхстазі"
+ GER_calculate_predicted_results: "Передбачені результати"
+ GER_calculate_predicted_results_desc: "Передбачені результати буде оновлено."
+ GER_might_delay_a_famine:0 "In case of prolonged war, this focus might §Ydelay the risk§! of §Rfamine§!."
+ GER_toggle_hiddenburg_program:0 "Toggle the Hindenburg Programme"
+ GER_has_at_least_2_ships_in_bismark_sea: "Є принаймні §Y2§! кораблі в §YМорі Бісмарка§!."
 
-  GER_reichstag_next_elections_category: "Predicted Election Results"
+ GER_reichstag_next_elections_category: "Передбачені результати виборів"
 
-  GER_election1_desc: "§WPredicted Election Outcome:\n$GER_leftist_factions_prediction_text$\n$GER_leftist_factions_prediction_list_text$\n$GER_centrist_factions_prediction_text$\n$GER_centrist_factions_prediction_list_text$\n$GER_rightist_factions_prediction_text$\n$GER_rightist_factions_prediction_list_text$\n$GER_neutral_factions_prediction_text$\n$GER_neutral_factions_prediction_list_text$§!"
+ GER_election1_desc: "§WПередбачені результати виборів:\n$GER_leftist_factions_prediction_text$\n$GER_leftist_factions_prediction_list_text$\n$GER_centrist_factions_prediction_text$\n$GER_centrist_factions_prediction_list_text$\n$GER_rightist_factions_prediction_text$\n$GER_rightist_factions_prediction_list_text$\n$GER_neutral_factions_prediction_text$\n$GER_neutral_factions_prediction_list_text$§!"
 
   ww1_german_reichstag.1.t: "[GetYear] Reichstag Election"
   ww1_german_reichstag.1.d: "Outside of wartime, the Reichstag is renewed every five years following elections of its deputies. During the reign of the lower house, the Reichstag is essential for the development of German legislation, as well as for passing budgets and exceptional credits."
@@ -1973,11 +1973,11 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
 ### СКРИПТОВАНІ ЕФЕКТИ/ТРИҐЕРИ ###
  GER_establish_poland_tt: "Establish the §RKingdom of Poland§! as a §YGerman puppet§!"
  GER_controls_polish_states_tt: "Controls Congress Poland states"
- is_GER_a_monarchy_tt: "Germany is a §YMonarchy§!."
- is_GER_a_monarchy_tt_NOT: "Germany is not a §YMonarchy§!."
- GER_OHL_oppose_hollweg: "§LOHL§! opposes Bethmann Hollweg"
- is_hollweg_chancellor_tt: "§Y$GER_theobald_von_bethmann_hollweg$§! is the Chancellor."
- is_hollweg_chancellor_tt_NOT: "NOT: §Y$GER_theobald_von_bethmann_hollweg$§! is the Chancellor."
+ is_GER_a_monarchy_tt: "Німеччина є §Yмонархією§!"
+ is_GER_a_monarchy_tt_NOT: "Німеччина не є §Yмонархією§!"
+ GER_OHL_oppose_hollweg: "§LВКА§! протистоїть Бетманові-Гольвеґу"
+ is_hollweg_chancellor_tt: "§Y$GER_theobald_von_bethmann_hollweg$§! є канцлером"
+ is_hollweg_chancellor_tt_NOT: "НЕ: §Y$GER_theobald_von_bethmann_hollweg$§! є канцлером"
  GER_control_MAF_state_tt: "We or one of our subjects own a state §Yclaimed§! by §Y[MAF.GetNameDef]§!"
  GER_control_OST_state_tt: "We or one of our subjects own a state §Yclaimed§! by §YDeutsch-Ostasien§!"
  is_french_civil_war_ongoing: "The §YFrench Civil War§! is ongoing"
@@ -2226,11 +2226,11 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  tt_build_one_civ:0 "You have to build 1 §YCivilian Factory§! in one of these states."
  tt_build_one_infra:0 "You have to build 1 §YInfrastructure§! level in one of these states."
 
- GER_political_concessions:0 "Political Concessions"
- GER_negotiations_with_FROM:0 "Negotiate with [getFederalStateNameFromStateId]"
- GER_not_investing_or_conceding_tt:0 "Not: §YInvesting§! in or §Yconceding§! to this Federal State."
- GER_negotiating_with_federal_state:0 "§YNegotiating§! with a Federal State"
- GER_political_concession_target:0 "Target of Political Concessions"
+ GER_political_concessions: "Політичні поступки"
+ GER_negotiations_with_FROM: "Переговори з: [getFederalStateNameFromStateId]"
+ GER_not_investing_or_conceding_tt: "Не: §YВкладається§! у або §Yнадає поступки§! цьому федеральному штату"
+ GER_negotiating_with_federal_state: "§YВеде переговори§! з федеральним штатом"
+ GER_political_concession_target: "Ціль політичних поступок"
  debug_loc: "[FROM.GetName] [PREV.GetName] [THIS.GetName] [PREV.PREV.GetName] [FROM.PREV.GetName] [FROM.FROM.GetName] [ROOT.GetName] [ROOT.FROM.GetName] [FROM.THIS.GetName] [PREV.PREV.PREV.GetName] [PREV.FROM.GetName] [FROM.FROM.PREV.GetName] [PREV.THIS.GetName] [GetName]"
 
  tt_build_one_civ_trigger:0 "[?FROM.industrial_complex_level|+0]/§Y[?FROM.civilian_total_after_goal]§! §YCivilian Factories§! built in §Y[FROM.GetName]§!"
