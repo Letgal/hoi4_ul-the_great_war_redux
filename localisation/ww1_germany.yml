@@ -147,7 +147,7 @@
 ### ПОДІЇ ###
  ## Наслідки Аґадіру
   ww1_germanrework.1.t: "Ганьба Німеччини"
-  ww1_germanrework.1.d: "Незважаючи на грандіозні заяви та військові погрози, кінцевим результатом Агадірської кризи стало дипломатичне збентеження. Криза не тільки виявила слабку позицію Німеччини на світовій арені, але й серйозно підірвала її престиж. Неможливість отримати будь-які значні вигоди від протистояння з Францією призвела до широкої критики як з боку уряду, так і з боку громадськості. За договором у Фесі, який завершив кризу, Німеччина отримала незначні поступки в Конго, тоді як Франція зміцнила свій контроль над Марокко, що є явним свідченням дипломатичної поразки Німеччини.\n\nОсобливо жорсткою була реакція громадськості та політиків на дії канцлера Теобальда фон Бетман-Гольвеґа, чиє ставлення до ситуації вважається слабким і нерішучим. Багато хто вважає його керівництво відповідальним за національне приниження, стверджуючи, що більш рішуча позиція або краща тактика переговорів могли б принести більш сприятливі результати. Популярність канцлера різко впала, і все частіше лунають заклики до його відставки як засобу відновлення довіри до здатності уряду захищати інтереси та престиж Німеччини на світовій арені. Зараз перед кайзером стоїть питання: чи замінити Бетмана-Гольвеґа в надії на оновлення керівництва, чи терпіти нинішні політичні потрясіння з тим самим керівництвом." # (@!)
+  ww1_germanrework.1.d: "Незважаючи на грандіозні заяви та військові погрози, кінцевим результатом Агадірської кризи стало дипломатичне збентеження. Криза не тільки виявила слабку позицію Німеччини на світовій арені, але й серйозно підірвала її престиж. Неможливість отримати будь-які значні вигоди від протистояння з Францією призвела до широкої критики як з боку уряду, так і з боку громадськості. За договором у Фесі, який завершив кризу, Німеччина отримала незначні поступки в Конґо, тоді як Франція зміцнила свій контроль над Марокко, що є явним свідченням дипломатичної поразки Німеччини.\n\nОсобливо жорсткою була реакція громадськості та політиків на дії канцлера Теобальда фон Бетман-Гольвеґа, чиє ставлення до ситуації вважається слабким і нерішучим. Багато хто вважає його керівництво відповідальним за національне приниження, стверджуючи, що більш рішуча позиція або краща тактика переговорів могли б принести більш сприятливі результати. Популярність канцлера різко впала, і все частіше лунають заклики до його відставки як засобу відновлення довіри до здатності уряду захищати інтереси та престиж Німеччини на світовій арені. Зараз перед кайзером стоїть питання: чи замінити Бетмана-Гольвеґа в надії на оновлення керівництва, чи терпіти нинішні політичні потрясіння з тим самим керівництвом." # (@!)
   ww1_germanrework.1.a: "Бетман-Гольвеґ має залишитися." # (@)
   ww1_germanrework.1.b: "Кайзер тисне на Бетмана-Гольвеґа, щоби той пішов у відставку." # (@)
   ww1_germanrework.2.t: "Кайзер призначає фон Гайдебранда"
@@ -217,7 +217,7 @@
 
   ww1_germanrework.102.t: "Ermächtigungsgesetz"
   ww1_germanrework.102.d: "Щоб імперія могла фінансувати війну будь-якими необхідними засобами, парламент ухвалив закон, що дозволяє вводити виняткові заходи, продиктовані урядом. Таким чином, кайзер і ВКА можуть керувати за допомогою декретів, що полегшує прийняття військового законодавства і відкриває перед нами багато перспектив. Поза цими урочистостями важливо зазначити, що парламент може в будь-який момент відкликати це виняткове дозвіл, що стане катастрофою для військових дій." # (@!)
-  ww1_germanrework.102.a: "Коаліцяя мусить витримати!"
+  ww1_germanrework.102.a: "Коаліція мусить витримати!"
 
   ww1_germanrework.175.t: "Hilfsdienstgesetz"
   ww1_germanrework.175.d: "Щоб досягти повної мобілізації, необхідної для реалізації програми Гінденбурґа, верховне командування армії просунуло крізь Райхстаґ Закон про допоміжну службу. Новий закон надає державі широкі повноваження для спрямування всієї цивільної робочої сили на військові потреби. Однак ця влада обійшлася високою політичною ціною. Щоб забезпечити згоду соціалістів та їхніх потужних профспілок, ми були змушені надати їм офіційне визнання та доручити створення комітетів з арбітражу робітників. Хоча це забезпечило промисловий мир на даний момент, це також значно посилило ті групи, які ще можуть виступити проти війни." # (@!)
@@ -357,9 +357,9 @@
   ww1_germanrework.11.b: "Заради вищого блага, нам слід домовитися."
 
  ## 1912 Ruhr Accident
-  ww1_germanrework.12.t: "Mining Accident in the Ruhr" # (!)
-  ww1_germanrework.12.d: "A solum day for the Reich, Kaiser Wilhelm recently visited the scene of a mining accident in the Ruhr region to pay respects to the deceased miners. Current deaths are totaled at 115 miners. This follows the strikes in the mines earlier this year and the accident has given the far-left of the Rhur reason to once again begin calling for strikes. Whilst the Kaiser and his people mourn for the dead, a government response to the accident is to be printed in the press soon."
-  ww1_germanrework.12.a: "A sad day for the Reich."
+  ww1_germanrework.12.t: "Нещасний випадок на шахті в Рурі" # (@!)
+  ww1_germanrework.12.d: "У день жалоби за загиблими шахтарями кайзер Вільгельм нещодавно відвідав місце аварії на шахті в Рурському регіоні, щоб вшанувати пам'ять загиблих гірників. На сьогоднішній день загинуло 115 шахтарів. Це сталося після страйків на шахтах на початку цього року, і аварія дала лівим силам Руру привід знову почати закликати до страйків. Поки кайзер і його народ оплакують загиблих, реакція уряду на аварію незабаром буде надрукована в пресі." # (@!)
+  ww1_germanrework.12.a: "Сумний день для Райху."
 
  ## Державний перепис населення
   ww1_germanrework.18.t: "Знахідки державного перепису населення" # (&): націоналн. чи державн.???
@@ -401,173 +401,173 @@
   ww1_germanrework.40.d: "Після утворення Німецької імперії в 1871 році Прусська армія, Королівська саксонська армія, Армія Вюртемберґа і Баварська армія були автономними в мирний час, кожне королівство мало окреме військове міністерство і генеральний штаб для управління своїми військами. Конституція Німецької імперії гарантує, що на випадок початку війни німецький імператор стане головнокомандувачем об'єднаних армій.\n\nЗ початком війни Верховне командування сухопутних військ (Oberste Heeresleitung) є вищим ешелоном командування сухопутних військ Німецької імперії, очолюваним генералом Мольтке. ВКА розділене на секції, які візьмуть під свій контроль різні частини країни, одночасно контролюючи політику і беручи під свій контроль економіку, щоб забезпечити найбільш ефективне виробництво для армії.\n\nКрім генерального штабу польової армії, Верховне командування армії складається з Військового кабінету імператора, генерал-інтенданта (відповідального за постачання), старших радників у різних галузях (артилерія, інженери, медицина, телеграфія, боєприпаси і залізниця), а також представників чотирьох німецьких військових міністерств і представників інших центральних держав." # (@!)
   ww1_germanrework.40.a: "Отже, на війну."
 
- ## The Centre Bloc
-  ww1_germanrework.41.t: "The Centre Bloc"
-  ww1_germanrework.41.d: "The Centre of Germany has been the dominant force in the Empire's governing politics since its creation. The centrists are led by the trusted Zentrum party who formed in 1870, went on to successfully battle against the Kulturkampf waged by Chancellor Otto von Bismarck against the Catholic Church. It soon won a quarter of the seats in the Reichstag, and its middle position on most issues allowed it to play a decisive role in the formation of majorities. However, there are plenty of centrist parties in Germany who seek to make moderate social reform whilst ensuring that German traditional values are kept.\n\nIf Germany is going to continue to be stable throughout the next decade, the centrists must keep their power in Germany so that a moderate amount of rightist and leftist laws are passed into the bundesrat. Luckily, many of the key political figures in Germany, like Theobald von Bethmann Hollweg, support the centrists and have aided them in keeping their majority in the Reichstag. "
-  ww1_germanrework.41.a: "Imperialism in moderation."
+ ## Центральний блок
+  ww1_germanrework.41.t: "Центральний блок"
+  ww1_germanrework.41.d: "Центр Німеччини був домінуючою силою в управлінні імперією з моменту її створення. Центристів очолює надійна партія «Центр», утворена в 1870 році, яка успішно боролася проти Kulturkampf-у, організованого канцлером Отто фон Бісмарком проти католицької церкви. Незабаром вона здобула чверть місць у Райхстазі, а її середня позиція з більшості питань дозволила їй відігравати вирішальну роль у формуванні більшості. Однак у Німеччині є багато центристських партій, які прагнуть провести помірковані соціальні реформи, забезпечуючи при цьому збереження німецьких традиційних цінностей.\n\nЯкщо Німеччина збирається залишатися стабільною протягом наступного десятиліття, центристи мусять зберегти свою владу в Німеччині, щоб помірна кількість правих і лівих законів була прийнята в Бундесраті. На щастя, багато ключових політичних фігур Німеччини, таких як Теобальд фон Бетман-Гольвеґ, підтримують центристів і допомагають їм зберігати більшість у Райхстазі." # (@!)
+  ww1_germanrework.41.a: "Імперіалізм у міру."
 
  ## The Growing Pan-German Influence
-  ww1_germanrework.42.t: "The Matter of the Pan-Germans"
-  ww1_germanrework.42.d: "Pan-Germanism was highly influential in German politics in the 19th century during the unification of Germany when the German Empire was proclaimed as a nation-state in 1871 but without Habsburg Austria, Luxembourg, and Liechtenstein their goals were never truly achieved. After the unification, from the late 19th century, many Pan-Germanist thinkers, who since 1891 were organized in the Pan-German League, had adopted openly ethnocentric and racist ideologies, even calling for the annexation of Austria. The organization has greatly supported the educated middle and upper class; promoting German nationalist consciousness, especially among ethnic Germans outside Germany. In his three-volume work, 'Deutsche Politik' (1905-07), Hasse called for German imperialist expansion in Europe which many of the League have taken to heart.\n\nHowever, since the dawn of this new millennium, the Pan-Germans have taken a moderate stance to Austria, instead focusing on annexations in Russia and France. It seems for now the Pan-Germans have abandoned the annexationist policy around Austria."
-  ww1_germanrework.42.a: "Germany must sail a steady course."
-  ww1_germanrework.42.b: "We must seek shelter from the left."
-  ww1_germanrework.42.c: "They do have some valid points..."
+  ww1_germanrework.42.t: "Питання панґерманістів"
+  ww1_germanrework.42.d: "Панґерманізм був дуже впливовим у німецькій політиці в 19 столітті під час об’єднання Німеччини, коли Німецька імперія була проголошена національною державою в 1871 році, але без Габсбурзької Австрії, Люксембургу та Ліхтенштайну їхні цілі ніколи не були по-справжньому досягнуті. Після об’єднання, з кінця 19 століття, багато мислителів-панґерманістів, які з 1891 року були об’єднані в Панґерманську лігу, прийняли відверто етноцентричні та расистські ідеології, навіть закликаючи до анексії Австрії. Організація мала значну підтримку серед освіченого середнього та вищого класу, сприяючи поширенню німецької націоналістичної свідомості, особливо серед етнічних німців за межами Німеччини. У своїй тритомній праці «Німецька політика» (1905-07) Гассе закликав до німецької імперіалістичної експансії в Європі, яку багато хто з Ліги прийняв близько до серця.\n\nВтім, з початком нового тисячоліття панґерманці зайняли помірковану позицію щодо Австрії, натомість зосередившись на анексіях в Росії та Франції. Схоже, що наразі панґерманці відмовилися від анексіоністської політики щодо Австрії." # (@!)
+  ww1_germanrework.42.a: "Німеччина мусить плисти стабільним курсом." # (@!)
+  ww1_germanrework.42.b: "Ми мусимо знайти укриття від лівих."
+  ww1_germanrework.42.c: "Вони мають кілька слушних аргументів..."
 
  ## German/Belgian Colonial Event Chain # test out before making loc
-  GER_diamond_profits: "Diamond Profits"
-  ww1_germanrework.15.t: "An Offer from Berlin"
-  ww1_germanrework.15.d: "We have received a formal proposition from the German Colonial Office regarding the vast mineral wealth of the Congo Basin. They propose a joint venture between our colonial administrations to coordinate and expand diamond mining operations across both the Belgian Congo and their adjacent territories.\n\nTheir proposal argues that a combined effort would lead to greater efficiency and profitability for both our nations. The Germans await our reply."
-  ww1_germanrework.15.a: "A most profitable venture. We accept."
-  ww1_germanrework.15.b: "We will not be drawn into their colonial schemes."
+  GER_diamond_profits: "Прибутки від діамантів"
+  ww1_germanrework.15.t: "Пропозиція з Берліну"
+  ww1_germanrework.15.d: "Ми отримали офіційну пропозицію від німецького колоніального відомства щодо величезних мінеральних багатств басейну Конґо. Вони пропонують створити спільне підприємство між нашими колоніальними адміністраціями для координації та розширення видобутку алмазів у Бельгійському Конґо та на прилеглих територіях.\n\nУ їхній пропозиції стверджується, що об’єднані зусилля призведуть до більшої ефективності та прибутковості для обох наших націй. Німці чекають на нашу відповідь." # (@!)
+  ww1_germanrework.15.a: "Дуже прибуткове діло. Ми згодні."
+  ww1_germanrework.15.b: "Нас не затягнути в їхні колоніальні замисли."
 
-  ww1_germanrework.16.t: "A Favourable Reply from Brussels"
-  ww1_germanrework.16.d: "The government of Belgium has accepted our proposition for a joint venture in the Congo Basin. Their colonial administration has been instructed to cooperate with our own to begin expanding diamond extraction operations.\n\nThis agreement will surely prove to be a lucrative endeavour for both our Empires."
-  ww1_germanrework.16.a: "Excellent. To our mutual prosperity!"
+  ww1_germanrework.16.t: "Схвальна відповідь із Брюсселю"
+  ww1_germanrework.16.d: "Уряд Бельгії прийняв нашу пропозицію про створення спільного підприємства в басейні Конґо. Їхній колоніальній адміністрації було доручено співпрацювати з нашою, щоб розпочати розширення видобутку алмазів.\n\nЦя угода, безсумнівно, виявиться прибутковою справою для обох наших імперій." # (@!)
+  ww1_germanrework.16.a: "Чудово. За наше спільне процвітання!"
 
-  ww1_germanrework.17.t: "The Belgians Decline"
-  ww1_germanrework.17.d: "A diplomatic cable has arrived from Brussels. The Belgian government has formally declined our offer to coordinate diamond exploitation in the Congo Basin.\n\nWhile this outcome is disappointing, it is not entirely unexpected. Their caution is their loss."
-  ww1_germanrework.17.a: "So be it. We will proceed alone."
+  ww1_germanrework.17.t: "Бельгійці відмовляють"
+  ww1_germanrework.17.d: "З Брюсселя надійшла дипломатична телеграма. Бельгійський уряд офіційно відхилив нашу пропозицію координувати видобуток алмазів у басейні Конґо.\n\nХоча цей результат розчаровує, він не є цілком несподіваним. Обережність — їхня втрата." # (@!)
+  ww1_germanrework.17.a: "Хай буде так. Ми продовжимо наодинці."
 
  ## Adressing the matter of the German Identity
-  ww1_germanrework.43.t: "The Minority Question"
-  ww1_germanrework.43.d: "The unification of Germany under Prussian leadership incorporated vast territories inhabited by non-German peoples, most notably Poles and Danes. Despite ongoing Germanisation policies, a silent cultural resistance persists in these regions, challenging the very notion of a homogenous Imperial state.\n\nThis long-simmering issue has now come to a head in the Reichstag. Centrist and left-leaning factions, championed by Chancellor Theobald von Bethmann Hollweg, argue for expanding the rights of minorities. They believe that granting them the same state benefits and legal protections as ethnic Germans will foster loyalty and strengthen the Empire from within. Conversely, nationalist and right-wing elements demand a stricter approach, proposing that the rights of non-Germans be curtailed to redirect resources toward the betterment of 'true' Germans."
-  ww1_germanrework.43.a: "Equality will ensure their loyalty."
-  ww1_germanrework.43.b: "A German Empire for the Poles? I think not."
+  ww1_germanrework.43.t: "Питання меншин"
+  ww1_germanrework.43.d: "Об’єднання Німеччини під керівництвом Пруссії включило в себе величезні території, населені ненімецькими народами, насамперед поляками та данцями. Незважаючи на триваючу політику германізації, в цих регіонах зберігається мовчазний культурний опір, що кидає виклик самому поняттю гомогенної імперської держави.\n\nЦя давно тліюча проблема тепер вийшла на перший план у Райхстазі. Центристські та ліві фракції, очолювані канцлером Теобальдом фон Бетманом-Гольвеґом, виступають за розширення прав меншин. Вони вважають, що надання їм таких самих державних пільг і правового захисту, як і етнічним німцям, сприятиме лояльності та зміцненню імперії зсередини. З іншого боку, націоналістичні та праві елементи вимагають суворішого підходу, пропонуючи обмежити права ненімців, щоб переспрямувати ресурси на покращення становища «справжніх» німців." # (@!)
+  ww1_germanrework.43.a: "Рівність забезпечить їхню вірність."
+  ww1_germanrework.43.b: "Німецька імперія для поляків? Я так не думаю."
 
- ## The State of the Navy
-  ww1_germanrework.44.t: "The State of the Navy"
-  ww1_germanrework.44.d: "Under Admiral Tirpitz's guidance, the German Navy has expanded rapidly. He firmly believes Germany needs a powerful fleet to rival Britain and secure its future. Four naval bills have already been passed under Kaiser Wilhelm II, and Tirpitz is likely preparing to push for a fifth.\n\nThe Navy stands as a considerable force, yet if Germany truly intends to challenge British naval supremacy, significantly greater investment in naval production will be essential to match their formidable might."
-  ww1_germanrework.44.a: "Onwards, to our place in the sun!"
+ ## Становище флоту
+  ww1_germanrework.44.t: "Становище флоту"
+  ww1_germanrework.44.d: "Під керівництвом адмірала Тірпіца німецькі ВМС стрімко розвинулися. Він твердо переконаний, що Німеччині потрібен потужний флот, щоб конкурувати з Великою Британією і забезпечити своє майбутнє. За кайзера Вільгельма II вже було прийнято чотири військово-морські законопроекти, і Тірпіц, ймовірно, готується проштовхнути п’ятий.\n\nВійськово-морські сили є значною силою, але якщо Німеччина дійсно має намір кинути виклик британському пануванню на морі, значно більші інвестиції у військово-морське виробництво будуть необхідними, щоб відповідати їхній грізній могутності." # (@!)
+  ww1_germanrework.44.a: "Уперед, до нашого місця під сонцем!"
 
- ## Moltke can't cope with defeat
-  ww1_germanrework.46.t: "Moltke Relieved of Command"
-  ww1_germanrework.46.d: "The failure of our initial offensive to deliver a swift victory and the subsequent descent into trench warfare on the Western Front have taken their toll. The health of Helmuth von Moltke the Younger, Chief of the General Staff, has collapsed under the immense strain of command, rendering him unfit for service.\n\nThe Kaiser has been forced to 'retire' him, appointing the Prussian Minister of War, Erich von Falkenhayn, as his successor. It is hoped that Falkenhayn's more pragmatic approach will allow us to stabilize the front in the West while seeking a decisive victory against Russia in the East."
-  ww1_germanrework.46.a: "Let us hope Falkenhayn is up to the task."
+ ## Мольтке не може впоратися з поразкою
+  ww1_germanrework.46.t: "Мольтке звільнений від командування" # (@!)
+  ww1_germanrework.46.d: "Провал нашого початкового наступу, який не приніс швидкої перемоги, і подальше занурення в окопну війну на Західному фронті далися взнаки. Здоров’я Гельмута фон Мольтке-молодшого, начальника генерального штабу, підірвалося під величезним навантаженням командування, що зробило його непридатним до служби.\n\nКайзер був змушений «відправити» його у відставку, призначивши його наступником прусського військового міністра Ериха фон Фалькенгайна. Є надія, що більш прагматичний підхід Фалькенгайна дозволить стабілізувати фронт на Заході і водночас здобути вирішальну перемогу над Росією на Сході." # (@!)
+  ww1_germanrework.46.a: "Сподіваймося, що Фалькенгайн упорається з завданням."
 
- ## Falk Removed
-  ww1_germanrework.47.t: "Falkenhayn Removed as Chief of the Army"
-  ww1_germanrework.47.d: "Contrary to Falkenhayn's expectations, the Entente was able to limit casualties in the divisions sent to the front. The procession of divisions back and forth was analogous to the operation of a 'noria', a type of water wheel that continuously lifts water and empties it into a trough which allowed the entente to scupper Falkenhayn's plan.\n\nOn top of this, both Hindenburg and Ludendorff have made clear they will resign from their positions unless Falkenhayn is removed and Hindenburg appointed head of the OHL using his failures to achieve their ambitions, the Kaiser if left with no choice but to accept."
-  ww1_germanrework.47.a: "Let us hope Hindenburg is up to the task."
+ ## Фалька усунуто
+  ww1_germanrework.47.t: "Фалькенгайна зняли з посади командувача армією" # (@!)
+  ww1_germanrework.47.d: "Всупереч очікуванням Фалькенгайна, Антанта змогла обмежити втрати у дивізіях, відправлених на фронт. Пересування дивізій туди і назад було схоже на роботу «норії», типу водяного колеса, яке безперервно піднімає воду і зливає її в корито, що дозволило Антанті зірвати план Фалькенгайна.\n\nКрім того, Гінденбурґ і Людендорф чітко дали зрозуміти, що підуть у відставку, якщо Фалькенгайна не змістять, а Гінденбурґа не призначать головою ВКА, використавши його невдачі для досягнення своїх амбіцій, і кайзеру не залишилося нічого іншого, окрім як змиритися з цією пропозицією." # (@!)
+  ww1_germanrework.47.a: "Сподіваймося, що Гінденбурґ упорається з завданням."
 
- ## Bethmann Hollweg Pushed for Peace
-  ww1_germanrework.48.t: "The Chancellor Pushes for Peace"
+ ## Бетман-Гольвеґ закликає до миру
+  ww1_germanrework.48.t: "Канцлер закликає до миру" # (@!)
   ww1_germanrework.48.d: ""
-  ww1_germanrework.48.a: "How dare he! The Kaiser must dismiss him at once"
+  ww1_germanrework.48.a: "Як він сміє! Кайзер мусить негайно його усунути!"
 
  ## Portugals "Debt" Event Chain
   #Germany asks for UK support for pressuring Portugal to give over Angola to Germany
-  ww1_germanrework.52.t: "A Request from Germany"
-  ww1_germanrework.52.d: "We've received a request from Germany, following the success of the Haldane mission, to support them in their demand to annex Angola from Portugal. Whilst Portugal has been our ally for some time, we did also promise to Germany we would support them in their colonial ambitions when we could... Leaving us in a predicament. However, the point has been made that if we back German it's more likely Portugal will peacefully agree to Germany's demands."
-  ww1_germanrework.52.a: "Very well, we will offer our diplomatic support."
-  ww1_germanrework.52.b: "Absolutely not. We stand with Portugal."
+  ww1_germanrework.52.t: "Запит від Німеччини"
+  ww1_germanrework.52.d: "Після успіху місії Голдейна ми отримали запит від Німеччини з проханням підтримати їхню вимогу анексувати Анґолу у Португалії. Хоча Португалія вже деякий час була нашим союзником, ми також пообіцяли Німеччині, що підтримаємо її в колоніальних амбіціях, коли зможемо... Залишивши нас у скрутному становищі. Однак, було зроблено висновок, що якщо ми підтримаємо Німеччину, то, швидше за все, Португалія мирно погодиться з вимогами Німеччини." # (@!)
+  ww1_germanrework.52.a: "Дуже добре, ми запропонуємо нашу дипломатичну підтримку."
+  ww1_germanrework.52.b: "Нізащо. Ми стоїмо на боці Португалії."
   #UK Accepted to help Germany
-  ww1_germanrework.53.t: "The British Accept"
-  ww1_germanrework.53.d: "The British have decided to keep to the Haldane Agreement and support us diplomatically without demand to annex Angola. Now that we've secure British aid, we can send the demands immediately and begin the occupation of Angola."
-  ww1_germanrework.53.a: "Excellent!"
+  ww1_germanrework.53.t: "Британці погоджуються"
+  ww1_germanrework.53.d: "Британці вирішили дотримуватися угоди Голдейна і підтримати нас дипломатично, не вимагаючи анексії Анґоли. Тепер, коли ми заручилися британською допомогою, ми можемо негайно надіслати вимоги і розпочати окупацію Анґоли." # (@!)
+  ww1_germanrework.53.a: "Чудово!"
   #UK Rejected to help Germany
-  ww1_germanrework.54.t: "The British Reject"
-  ww1_germanrework.54.d: "The damned British fools have abandoned the spirit of the Haldane Agreement. Without their support, it would be a fool's game to demand Angola. Reportedly, the Kaiser is furious with his British cousin and has publicly slandered the royal family in national newspapers. The rift between the United Kingdom and Germany is now greater than ever."
-  ww1_germanrework.54.a: "Perfidious Albion!"
+  ww1_germanrework.54.t: "Британці відмовляють"
+  ww1_germanrework.54.d: "Кляті британські дурні відмовилися від духу Угоди Голдейна. Без їхньої підтримки вимагати Ан´олу було б дурістю. Як повідомляється, кайзер розлючений на свого британського кузена і публічно обмовив королівську родину в національних газетах. Розкол між Сполученим Королівством і Німеччиною зараз більший, ніж будь-коли." # (@!)
+  ww1_germanrework.54.a: "Віроломний Албіон!"
   #Portugal gets the Demands
-  ww1_germanrework.55.t: "Germany Demands Angola"
-  ww1_germanrework.55.d: "Earlier this morning, the German embassy have given our government an ultimatum to hand over the colony of Angola to the German Empire with haste, as a form of 'debt' repayment to Germany. Out situation is dire, and Britain's support of Germany doesn't bode well for our chances of resisting. Many in the administration have simply declared we are left with little choice to concede... although we can always petition the French to help curb these, Krauts."
-  ww1_germanrework.55.a: "We have no choice but to concede."
-  ww1_germanrework.55.b: "Call the French for help immediately!"
+  ww1_germanrework.55.t: "Німеччина вимагає Анґолу"
+  ww1_germanrework.55.d: "Сьогодні вранці німецьке посольство висунуло нашому уряду ультиматум з вимогою якнайшвидше передати колонію Анґолу Німецькій імперії, як форму виплати «боргу» Німеччині. Наша ситуація є жахливою, а підтримка Німеччини з боку Великої Британії не обіцяє нічого хорошого для наших шансів на опір. Багато хто в адміністрації просто заявив, що у нас немає іншого вибору, окрім як поступитися... хоча ми завжди можемо звернутися до французів з проханням допомогти приборкати цих фріців." # (@!)
+  ww1_germanrework.55.a: "Ми не маємо інший вибір, як поступитися."
+  ww1_germanrework.55.b: "Негайно викличте на допомогу французів!"
   #Germany is informed Portugal Accepted
-  ww1_germanrework.56.t: "Portugal Cedes Angola"
-  ww1_germanrework.56.d: "Brillant news from abroad! Portugal has given into our demands to hand over Angola and our administration has begun to move into the colony. This victory has caused a positive uproar in Germany in support of the current government, with every newspaper worth a damn championing Bethmann Hollweg's 'victory of the decade', suffice to say, we can bask in the scorching sun of Angola freely."
-  ww1_germanrework.56.a: "A glorious diplomatic victory!"
+  ww1_germanrework.56.t: "Португалія віддає Анґолу"
+  ww1_germanrework.56.d: "Чудові новини з-за кордону! Португалія пристала на наші вимоги передати Анґолу, і наша адміністрація почала переїжджати до колонії. Ця перемога викликала в Німеччині позитивний резонанс на підтримку нинішнього уряду, кожна газета чого варта прославляє «перемогу десятиліття» Бетмана-Гольвеґа, досить сказати, що ми можемо вільно грітися під палючим сонцем Анґоли." # (@!)
+  ww1_germanrework.56.a: "Славетна перемога дипломатії!"
   #UK is informed Portugal Accepted
-  ww1_germanrework.57.t: "Portugal Ceded Angola"
-  ww1_germanrework.57.d: "Great news from Germany, they've confirmed that Portugal have handed over Angola to the German Colonial Administration. Our support of Germany has worked out for the best - we've avoided a larger crisis and appeased the Germany without distancing Portugal. However, we've already received angry complaints from the French foreign office on our support of Germany, it'll take some time to rebuild our trust with the French."
-  ww1_germanrework.57.a: "Another crisis averted."
+  ww1_germanrework.57.t: "Португалія віддала Анґолу"
+  ww1_germanrework.57.d: "Чудові новини з Німеччини: вони підтвердили, що Португалія передала Анґолу Німецькій колоніальній адміністрації. Наша підтримка Німеччини спрацювала на краще — ми уникли більшої кризи і заспокоїли Німеччину, не віддаливши Португалію. Однак ми вже отримали гнівні скарги від французького МЗС щодо нашої підтримки Німеччини, і нам знадобиться деякий час, щоб відновити довіру з французами." # (@!)
+  ww1_germanrework.57.a: "Чергової кризи вдалось уникнути."
   #Germany and UK are informed Portugal rejected and sent France diplomats
-  ww1_germanrework.58.t: "Portugal Appeals to France"
-  ww1_germanrework.58.d: "Worrying news from Portugal, they've yet to officially respond to the demands for the German annexation of Angola and have made a plea to the French for diplomatic backing. Whilst France may still yet refuse, forcing Portugal to back down, should France support Portugal it will take delicate handling to defuse the situation."
-  ww1_germanrework.58.a: "Let us hope this does not escalate..."
+  ww1_germanrework.58.t: "Португалія звертається до Франції"
+  ww1_germanrework.58.d: "Тривожні новини з Португалії: вони ще не дали офіційної відповіді на вимоги Німеччини щодо анексії Анґоли і звернулися до Франції з проханням про дипломатичну підтримку. Хоча Франція все ще може відмовити, змусивши Португалію відступити, якщо Франція підтримає Португалію, то для розрядки ситуації знадобиться делікатне поводження." # (@!)
+  ww1_germanrework.58.a: "Сподіваймося, ситуація не загостриться..."
   #France gets asked by Portugal to help
-  ww1_germanrework.59.t: "Portuguese Diplomats Arrive in Paris"
-  ww1_germanrework.59.d: "We've received a worrying plea from Portugal today, earlier this week they've been sent an ultimatum from Germany calling for the German annexation of Angola. Now Portugal calls for us to back them, and even protect them should the aggressors attempt to take Angola forcefully from them. Most of government is worried about possibly starting a war with the Central Powers, but at the same time German aggression must be kept in check."
-  ww1_germanrework.59.a: "We must protect Portugal!"
-  ww1_germanrework.59.b: "This is not our concern."
+  ww1_germanrework.59.t: "Португальські дипломати прибувають до Парижа"
+  ww1_germanrework.59.d: "Сьогодні ми отримали тривожне звернення від Португалії, яка раніше цього тижня отримала ультиматум від Німеччини із закликом до німецької анексії Анґоли. Тепер Португалія закликає нас підтримати їх і навіть захистити, якщо агресори спробують силою відібрати у них Анґолу. Більшість урядів стурбовані можливим початком війни з Центральними державами, але в той же час мусить стримуватися німецька агресія." # (@!)
+  ww1_germanrework.59.a: "Ми мусимо захистити Португалію!"
+  ww1_germanrework.59.b: "Це нас не стосується."
   #France accepts to help, Germany has a choice to back down or not
-  ww1_germanrework.60.t: "Portugal Gains French Support!"
-  ww1_germanrework.60.d: "France has come to the aid of Portugal and sent a clear message to us and the British that any action against Portugal is an action against France. Whilst backing down would be another diplomatic blunder, surely we can't risk war over Angola..."
-  ww1_germanrework.60.a: "We will not back down!"
-  ww1_germanrework.60.b: "We have no choice but to withdraw our demand."
+  ww1_germanrework.60.t: "Португалія здобуває підтримку французів!"
+  ww1_germanrework.60.d: "Франція прийшла на допомогу Португалії і надіслала нам і британцям чіткий сигнал, що будь-яка дія проти Португалії є дією проти Франції. Хоча відступ був би ще однією дипломатичною помилкою, ми, безумовно, не можемо ризикувати війною через Анґолу..." # (@!)
+  ww1_germanrework.60.a: "Ми не відступимо!"
+  ww1_germanrework.60.b: "Ми не маємо інший вибір, як відкликати нашу вимогу."
   #France rejects to help, Portugal forced to back down
-  ww1_germanrework.61.t: "France Refuses to Help!"
-  ww1_germanrework.61.d: "Disaster. France has refused our plea for help, leaving us in a worse position than before. With pressure mounting on us to respond to the ultimatum, it seems we are forced to hand over Angola. We have been left to fend for ourselves against a hungry German dog."
-  ww1_germanrework.61.a: "We must concede."
+  ww1_germanrework.61.t: "Франція відмовляється допомагати!"
+  ww1_germanrework.61.d: "Катастрофа. Франція відхилила наше прохання про допомогу, залишивши нас у ще гіршому становищі, ніж раніше. Тиск на нас зростає, щоб ми відповіли на ультиматум, і, схоже, ми змушені віддати Анґолу. Нас кинули напризволяще проти голодного німецького пса." # (@!)
+  ww1_germanrework.61.a: "Ми мусимо поступитися."
   #UK asked if they'll join Germany against France
-  ww1_germanrework.62.t: "Germany Asks for Help Against France"
-  ww1_germanrework.62.d: "Following France's defence of Portugal, it seems Germany is not planning to back down and instead has asked us to assure them of our unconditional support against France and Portugal. Whist we are obligated to support Germany, especially as we've already supported them diplomactically, now is our last chance to remove ourselves from what may turn out to be a far greater conflict.../n/nThe future of Europe may hang in the balance of our choice."
-  ww1_germanrework.62.a: "We must help our ally."
-  ww1_germanrework.62.b: "No. This has gone too far."
+  ww1_germanrework.62.t: "Німеччина просить про допомогу супротив Франції"
+  ww1_germanrework.62.d: "Після того, як Франція виступила на захист Португалії, Німеччина, схоже, не планує відступати і натомість попросила нас запевнити її в нашій безумовній підтримці проти Франції та Португалії. Хоча ми зобов’язані підтримати Німеччину, тим більше, що ми вже підтримали її дипломатично, зараз це наш останній шанс вийти з того, що може обернутися набагато більшим конфліктом...\n\nМайбутнє Європи може висіти на волосині від нашого вибору." # (@!)
+  ww1_germanrework.62.a: "Ми мусимо допомогти нашому союзникові."
+  ww1_germanrework.62.b: "Ні. Це зайшло надто далеко."
   #UK told of Germany backing down
-  ww1_germanrework.63.t: "Germany Backs Down"
-  ww1_germanrework.63.d: "After the German government was made aware that the French had come to the support of Portugal, the Chancellor of the Riechstag told the Kaiser that he must instruct government to recind their demands. Wilhelm listened to his Chancellor's plea and since removed the demands.\n\nThank god that the Krauts backed down..."
-  ww1_germanrework.63.a: "Well, that is sorted."
+  ww1_germanrework.63.t: "Німеччина відступає"
+  ww1_germanrework.63.d: "Після того, як німецькому уряду стало відомо, що французи виступили на підтримку Португалії, канцлер Райхстагу заявив кайзеру, що він мусить дати вказівку уряду відкликати свої вимоги. Вільгельм прислухався до прохання свого канцлера і відтоді зняв вимоги.\n\nСлава Богу, фріци відступили..." # (@!)
+  ww1_germanrework.63.a: "Що ж, це вирішено."
   #Portugal and France told of Germany backing down
-  ww1_germanrework.64.t: "Germany Backs Down"
-  ww1_germanrework.64.d: "Germany has rescinded their demands of Angola, meaning that Portugal and her colonies are now safe from the German dog! The support of the French government practically forced the Kaiser to order his government to back down, who would have thought that the fool could make his nation suffer even more shame?"
-  ww1_germanrework.64.a: "A great victory!"
+  ww1_germanrework.64.t: "Німеччина відступає"
+  ww1_germanrework.64.d: "Німеччина відкликала свої вимоги щодо Анґоли, а це означає, що Португалія та її колонії тепер у безпеці від німецького пса! Підтримка французького уряду практично змусила кайзера наказати своєму уряду відступити, хто б міг подумати, що цей дурень може змусити свою націю зазнати ще більшої ганьби?" # (@!)
+  ww1_germanrework.64.a: "Велика перемога!"
   #Germany told about Portugal backing down due to no French Support
-  ww1_germanrework.65.t: "Portugal Backs Down"
-  ww1_germanrework.65.d: "The French government having refused Portugal's plea for help has condemned Portugal to be forced to falter to our demands. The annexation of Angola will be immediate, and our colonial administration is already working to bring in the colony into the German Empire. Fortunately, there is already a strong German presence in Angola economically allowing us to quickly institute our new administration."
-  ww1_germanrework.65.a: "A glorious diplomatic victory!"
+  ww1_germanrework.65.t: "Португалія відступає"
+  ww1_germanrework.65.d: "Французький уряд, відхиливши благання Португалії про допомогу, прирік Португалію на те, що вона буде змушена відступити перед нашими вимогами. Анексія Анґоли буде негайною, і наша колоніальна адміністрація вже працює над тим, щоб включити колонію до складу Німецької імперії. На щастя, в Анґолі вже існує сильна німецька економічна присутність, що дозволяє нам швидко запровадити нашу нову адміністрацію." # (@!)
+  ww1_germanrework.65.a: "Славетна перемога дипломатії!"
   #UK told about Portugal backing down due to no French Support
-  ww1_germanrework.66.t: "Portugal Backs Down"
-  ww1_germanrework.66.d: "The French government, having refused Portugal's plea for help, has condemned Portugal to be forced to falter to our demands. Germany has already begun their annexation of Angola, and it's expected they will soon have set up their own administration there. Whilst the future of Portugal's colonies is uncertain, this victory for Germany highlights our new relationship with the Kaiser."
-  ww1_germanrework.66.a: "Crisis solved."
+  ww1_germanrework.66.t: "Португалія відступає"
+  ww1_germanrework.66.d: "Французький уряд, відкинувши благання Португалії про допомогу, прирік Португалію на те, що вона буде змушена відступити перед нашими вимогами. Німеччина вже почала анексію Анґоли, і очікується, що незабаром вона встановить там свою адміністрацію. Хоча майбутнє португальських колоній залишається невизначеним, ця перемога Німеччини підкреслює наші нові відносини з кайзером."
+  ww1_germanrework.66.a: "Кризу вирішено."
   #News event about Germany and UK war with France
-  ww1_germanrework.67.t: "War Breaks Out In Europe!"
-  ww1_germanrework.67.d: "War in Europe! After Portugal refused a set of join demands from Britian and Germany, calling for the annexation of Angola, both nations have declared war on Portugal. However, France has come to the aid of Portugal in an attempt to curb German ambitions. No doubt other powers in Europe will soon enter the fray, including Russia and Austria.\n\nIn a centuries time, humanity will question why such a great conflict was started over just one colony..."
-  ww1_germanrework.67.a: "A war to end all wars."
+  ww1_germanrework.67.t: "У Європі спалахує війна!"
+  ww1_germanrework.67.d: "Війна в Європі! Після того, як Португалія відмовилася прийняти вимоги Великої Британії та Німеччини про приєднання Анґоли, обидві країни оголосили війну Португалії. Однак Франція прийшла на допомогу Португалії, намагаючись стримати німецькі амбіції. Без сумніву, незабаром у боротьбу вступлять інші європейські держави, в тому числі Росія та Австрія.\n\nЧерез століття людство задаватиметься питанням, чому такий великий конфлікт був розпочатий через одну колонію..." # (@!)
+  ww1_germanrework.67.a: "Війна, що покладе кінець усім війнам."
   #Germany informed of British backstab
-  ww1_germanrework.68.t: "The United Kingdom Refuses to Help Us"
-  ww1_germanrework.68.d: "The British have turned and fled now that France has come to the support of Portugal. Whilst our government is enraged with the British, a course of action still needs to be decided, perhaps we can take them on our own... after all, we've done it once, we can do it again."
-  ww1_germanrework.68.a: "We cannot back down now!"
-  ww1_germanrework.68.b: "We have no choice but to withdraw our demand."
+  ww1_germanrework.68.t: "Сполучене Королівство відмовляється допомагати нам"
+  ww1_germanrework.68.d: "Британці розвернулися і втекли тепер, коли Франція підтримала Португалію. Поки наш уряд розлючений на британців, потрібно вирішити, як діяти далі, можливо, ми зможемо взяти їх на себе... зрештою, ми зробили це одного разу, ми можемо зробити це знову." # (@!)
+  ww1_germanrework.68.a: "Ми не можемо відступити зараз!"
+  ww1_germanrework.68.b: "Ми не маємо інший вибір, як відкликати нашу вимогу."
   #Germany continues war without the British
-  ww1_germanrework.69.t: "Germany Starts War with France!"
-  ww1_germanrework.69.d: "War in Europe! After Portugal refused a set of join demands from Germany, calling for the annexation of Angola, Germany has declared war on Portugal. However, France has come to the aid of Portugal in an attempt to curb German ambitions. No doubt other powers in Europe will soon enter the fray, including Russia and Austria.\n\nIn a centuries time, humanity will question why such a great conflict was started over just one colony..."
-  ww1_germanrework.69.a: "Can Germany win?"
+  ww1_germanrework.69.t: "Німеччина починає війну з Францією!"
+  ww1_germanrework.69.d: "Війна в Європі! Після того, як Португалія відмовилася від низки вимог Німеччини щодо приєднання до неї Анґоли, Німеччина оголосила їй війну. Однак Франція прийшла на допомогу Португалії, намагаючись стримати німецькі амбіції. Без сумніву, інші європейські держави незабаром вступлять у бій, включаючи Росію та Австрію.\n\nЧерез століття людство задаватиметься питанням, чому такий великий конфлікт був розпочатий через одну колонію..." # (@!)
+  ww1_germanrework.69.a: "Чи може Німеччина перемогти?"
   #Germany backs down after UK backstab
-  ww1_germanrework.70.t: "Germany Backs Down to France"
-  ww1_germanrework.70.d: "After demanding the annexation of Angola from Portugal with the support of the United Kingdom, Germany has since rescinded the demands after its accomplice, Britain, withdrew its support following French involvement. This is another in a long series of foreign policy embarrassments for Germany under Kaiser Wilhelm II."
-  ww1_germanrework.70.a: "An unexpected betrayal."
+  ww1_germanrework.70.t: "Німеччина відступає перед Францією"
+  ww1_germanrework.70.d: "Вимагаючи анексії Анґоли від Португалії за підтримки Великої Британії, Німеччина відкликала свої вимоги після того, як її спільник, Велика Британія, відкликала свою підтримку після втручання Франції. Це ще одна з довгої серії зовнішньополітичних конфузів Німеччини за часів кайзера Вільгельма II." # (@!)
+  ww1_germanrework.70.a: "Несподівана зрада."
 
- ##Bethmann Hollweg Wartime Coalition
-  ww1_germanrework.49.t: "Wartime Coalition"
-  ww1_germanrework.49.d: "Now that Germany has been plunged into war, it's the responsibility of the Reichstag to ensure that the OHL can perform their duties to the empire without wading through the endless bureaucracy of the state. Chancellor Bethmann Hollweg has therefore unified the Reichstag, in its whole, into a coalition that will have the ability to pass laws without opposition. This coalition will allow the civilian government to remain in power, however the coalition is unstable at best, with parts of the SPD wing downright ignoring the coalition with their anti-war rhetoric, and the right's call for the SPD to be dismissed from the Reichstag does little to keep the coalition alive.\n\nIf we want to ensure the civilian government doesn't lose power to the OHL, we must ensure this coalition survives."
-  ww1_germanrework.49.a: "Peace in the Reichstag, war on the front."
+ ## Коаліція воєнного часу Бетмана-Гольвеґа
+  ww1_germanrework.49.t: "Коаліція воєнного часу"
+  ww1_germanrework.49.d: "Тепер, коли Німеччина занурена у війну, Райхстаґ несе відповідальність за те, щоб ВКА могло виконувати свої обов’язки перед імперією, не продираючись крізь нескінченну державну бюрократію. Тому канцлер Бетман-Гольвеґ об’єднав увесь Райхстаґ у коаліцію, яка зможе ухвалювати закони без опозиції. Ця коаліція дозволить цивільному уряду залишатися при владі, однак коаліція в кращому випадку нестабільна, оскільки частина крила СДПН відверто ігнорує коаліцію своєю антивоєнною риторикою, а заклик правих до виключення СДПН з Райхстаґу мало сприяє збереженню коаліції.\n\nЯкщо ми хочемо, щоб цивільний уряд не втратив владу на користь ВКА, ми мусимо забезпечити виживання цієї коаліції." # (@!)
+  ww1_germanrework.49.a: "Мир у Райхстазі, війна на фронті."
 
- ##Paris Captured before the front stalls
-  ww1_germanrework.71.t: "Paris Captured"
-  ww1_germanrework.71.d: "Brilliant, if not glorious news from the front has been confirmed earlier today - the German army has captured Paris, the French may full well commit to surrender now, but either way this is a massive victory for the armed forces who are now sure to focus on achieving the collapse of the rest of the Entente. The OHL has suggested to the government that extreme measures be taken to ensure our army can decimate the russian rather than be cautious and risk dragging the war out."
-  ww1_germanrework.71.a: "Advance, Germania!"
+ ## Париж захоплено, перш ніж фронт став
+  ww1_germanrework.71.t: "Париж захоплено"
+  ww1_germanrework.71.d: "Блискучі, якщо не славні новини з фронту підтвердилися сьогодні: німецька армія захопила Париж, французи цілком можуть капітулювати, але в будь-якому випадку це величезна перемога збройних сил, які тепер напевно зосередяться на досягненні розпаду решти країн Антанти. ВКА запропонувала уряду вжити крайніх заходів, щоб гарантувати, що наша армія зможе розгромити росіян, а не бути обережною і ризикувати затягуванням війни." # (@!)
+  ww1_germanrework.71.a: "Уперед, Ґерманіє!"
 
- ##Army mass mobilisation - gone bad
-  ww1_germanrework.72.t: "The Front Stalls"
-  ww1_germanrework.72.d: "Concerning news from the front that has reached the Kaiser today, the German army has become increasingly inefficient since the failure to take Paris after our statements that the war would be a quick one. While the OHL is taking measures to ensure the army remains stable to continue attempting a breakthrough toward Paris it's clear that the military will suffer setbacks in the coming days. Only god can save us now."
-  ww1_germanrework.72.a: "This is not good."
+ ## Масова мобілізація армії обернулася на гірше
+  ww1_germanrework.72.t: "Фронт стає"
+  ww1_germanrework.72.d: "Щодо новин з фронту, які сьогодні надійшли до Кайзера, то німецька армія стає все більш неефективною після невдалої спроби взяти Париж, незважаючи на наші заяви про те, що війна буде швидкою. Хоча ВКА вживає заходи для забезпечення стабільності армії, щоб продовжити спроби прориву до Парижа, очевидно, що найближчими днями військові зазнають невдач. Тільки Бог може врятувати нас зараз." # (@!)
+  ww1_germanrework.72.a: "Це не добре."
 
- ##Sokehs Rebellion
-  GER_sokehs_rebellion: "The Sokehs Rebellion"
-  GER_sokehs_rebellion_desc: "Discontent has erupted into open revolt among the Sokehs people on the island of Pohnpei. This uprising challenges Imperial authority and threatens stability in the region. We must act decisively to quell this rebellion and reassert Imperial control over Pohnpei."
-  GER_sokehs_mission_countdown: "Rebellion Cementing"
-  GER_sokehs_mission_countdown_desc: "This mission will repeat until we deal with the rebellion."
-  GER_deal_with_sokehs_rebellion: "Crush the Sokehs Rebellion"
-  sokehs_rebellion_ongoing: "The Sokehs Rebellion is ongoing"
-  sokehs_rebellion_crushed: "The Sokehs Rebellion has been suppressed"
-  ww1_germanrework.13.t: "Sokehs Rebellion Erupts"
-  ww1_germanrework.13.d: "Reports have arrived from German New Guinea detailing an armed uprising amongst the Sokehs people on the island of Pohnpei. Apparently sparked by disputes over land and forced labour demands from the colonial administration, the rebels have attacked German positions and defied local authorities. This blatant challenge to Imperial rule cannot be tolerated and requires immediate attention."
-  ww1_germanrework.13.a: "This unrest must be put down immediately!"
-  ww1_germanrework.14.t: "The Sokehs Rebellion Crushed"
-  ww1_germanrework.14.d: "Our forces in German New Guinea report success in suppressing the Sokehs Rebellion. After determined resistance, the main rebel elements have been defeated or have surrendered following the arrival of naval cruisers. The ringleaders and many participants are now in our custody, awaiting judgment for their actions against the German Empire."
-  ww1_germanrework.14.a: "Execute those responsible to make an example of them."
-  ww1_germanrework.14.b: "Imprison the perpetrators and sentence them to forced labour."
+ ## Сокегське повстання
+  GER_sokehs_rebellion: "Сокегське повстання"
+  GER_sokehs_rebellion_desc: "Невдоволення вилилося у відкрите повстання серед народу сокегсів на острові Понпеї. Це повстання кидає виклик імператорській владі і загрожує стабільності в регіоні. Ми мусимо діяти рішуче, щоб придушити це повстання і відновити імперський контроль над Понпеїм." # (@!)
+  GER_sokehs_mission_countdown: "Повстання закріплюється" # (&+)
+  GER_sokehs_mission_countdown_desc: "Це завдання буде повторюватися, поки ми не впораємося з повстанням."
+  GER_deal_with_sokehs_rebellion: "Придушити сокегське повстання"
+  sokehs_rebellion_ongoing: "Сокегське повстання триває"
+  sokehs_rebellion_crushed: "Сокегське повстання було придушено"
+  ww1_germanrework.13.t: "Спалахує сокегське повстання"
+  ww1_germanrework.13.d: "З Німецької Нової Ґвінеї надійшли повідомлення про збройне повстання народу сокегсів на острові Понпеї. Очевидно, спровоковані земельними суперечками та вимогами колоніальної адміністрації щодо примусової праці, повстанці атакували німецькі позиції та кинули виклик місцевій владі. Цей кричущий виклик імперському правлінню не може бути терпимим і вимагає негайної реакції." # (@!)
+  ww1_germanrework.13.a: "Ці заворушення мусять негайно припинитися!" # (@!)
+  ww1_germanrework.14.t: "Сокегське повстання придушено"
+  ww1_germanrework.14.d: "Наші війська в Німецькій Новій Ґвінеї повідомляють про успіхи в придушенні сокегського повстання. Після рішучого опору основні елементи повстанців були розгромлені або здалися після прибуття флотських крейсерів. Ватажки та багато учасників повстання перебувають під нашим вартою, очікуючи на вирок за свої дії проти Німецької імперії." # (@!)
+  ww1_germanrework.14.a: "Стратьте відповідальних, щоби подати приклад."
+  ww1_germanrework.14.b: "Ув’язніть винуватців і засудіть на примусову працю."
 
  ##########################################################################
  ##The Zabern Affair
