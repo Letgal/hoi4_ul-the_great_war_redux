@@ -5,6 +5,7 @@
 
 ## Завершені файли
 + `countries`
++ `loading_tips`
 + `ww1_diplomacy`
 + `ww1_factions`
 + `ww1_focus_filter_tag`
@@ -39,7 +40,6 @@
 
 ## У процесі перекладу (без об'єднання)
 + `countries_cosmetic`
-+ `loading_tips`
 + `state_names`
 + `ww1_adjacency_rules`
 + `ww1_autonomy`
