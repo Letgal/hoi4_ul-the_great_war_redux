@@ -1350,9 +1350,9 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_all_or_nothing_plan:0 "All or Nothing Naval Plan"
   GER_naval_plan_effect:0 "\n§YWhich gives:§!\n\n"
 
- ## Mobilisation of Morale Tooltips
-  GER_add_idea_mob_of_morale.tt:0 "Add §YMobilisation of Morale§!, which grants (£army_morale_texticon Division Recovery Rate: §G+5.00%§!, £organization_gain_texticon Army Organization Regain: §G+5.00%§!, £war_support_modifiericons_texticon  War Support: §G+2.50%§!, £political_power_cost_texticon Daily Political Power Cost: §R+0.05§!)."
-  GER_modify_mob_of_morale.tt:0 "Modify §YMobilisation of Morale§! by\n£army_morale_texticon Division Recovery Rate: §G+5.00%§!\n£organization_gain_texticon Army Organization Regain: §G+5.00%§!\n£war_support_modifiericons_texticon  War Support: §G+2.50%§!\n£political_power_cost_texticon Daily Political Power Cost: §R+0.05§!"
+ ## Підказки до Mobilisation of Morale
+  GER_add_idea_mob_of_morale.tt: "Буде додано ідею §Y$GER_mobilisation_of_morale$§!, що даватиме: §g(§!$MODIFIER_ARMY_MORALE_FACTOR$: §G+5.00%§!, $MODIFIER_ARMY_ORG_REGAIN$: §G+5.00%§!, $MODIFIER_WAR_SUPPORT_FACTOR$: §G+2.50%§!, $MODIFIER_POLITICAL_POWER_COST$: §R+0.05§!§g)§!."
+  GER_modify_mob_of_morale.tt: "Ідею §Y$GER_mobilisation_of_morale$§! буде змінено:\n$MODIFIER_ARMY_MORALE_FACTOR$: §G+5.00%§!\n$MODIFIER_ARMY_ORG_REGAIN$: §G+5.00%§!\n$MODIFIER_WAR_SUPPORT_FACTOR$: §G+2.50%§!\n$MODIFIER_POLITICAL_POWER_COST$: §R+0.05§!"
 
  ## Підказки до Könige im Luftrevier
   GER_add_konige_im_luftrevier.tt: "Буде додано ідею §Y$GER_konige_im_luftrevier$§!, що даватиме\n§g(§!$MODIFIER_XP_GAIN_AIR$: [?GER_luftrevier_experience_gain_air_factor|=+%], $MODIFIER_AIR_DOCTRINE_COST_FACTOR$: [?GER_luftrevier_air_doctrine_cost|=-%], $MODIFIER_AIR_ACCIDENTS_FACTOR$: [?GER_luftrevier_air_accidents_factor|=-%]§g)§!."
@@ -1370,27 +1370,27 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_nationality_inclusive_law_effect.tt: "Ідею §Y$GER_social_reforms$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|.0=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|.1=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|=+%]\n$MODIFIER_ICON_5$: [?MODIFIER_5|.0=+%]\n$MODIFIER_ICON_6$: [?MODIFIER_6|.1-=%]\n$MODIFIER_ICON_7$: [?MODIFIER_7|+=]."
   GER_nationality_discriminatory_law_effect.tt: "Ідею §Y$GER_social_reforms$§! буде змінено:\n$MODIFIER_ICON_1$: [?MODIFIER_1|.0=+%]\n$MODIFIER_ICON_2$: [?MODIFIER_2|=+%]\n$MODIFIER_ICON_3$: [?MODIFIER_3|=+%]\n$MODIFIER_ICON_4$: [?MODIFIER_4|.0=+%]\n$MODIFIER_ICON_5$: [?MODIFIER_5|.1=-%]\n$MODIFIER_ICON_6$: [?MODIFIER_6|+=]\n$MODIFIER_ICON_7$: [?MODIFIER_7|+=]."
 
-  ww1_germanybundesrat:0 "When passed, the law will have the following effects:"
-  GER_has_majority_in_bund:0 "Has Majority in [GetBundesratName]"
-  which_provide_tt:0 "§CEffect when selected§!:\n"
+  ww1_germanybundesrat: "Після ухвалення закон матиме ось ці ефекти:" # (&)
+  GER_has_majority_in_bund: "Має більшість у: [GetBundesratName]" # (&+)?
+  which_provide_tt: "§CЕфект при виборі:§!\n"
 
  ## Динамічні модифікатори
-  GER_agricultural_incentives:0 "Agricultural Incentives"
-  GER_new_major_railway_connection:0 "New Major Railway Connection"
-  GER_german_migration:0 "German Migration"
-  GER_porductional_efficiency:0 "Productional Efficiency"
-  GER_solf_new_administration:0 "Solf's New Administration"
-  GER_ohl_command:0 "[OHL_command_name]"
-  GER_OHL_normal_name:0 "Oberste Heeresleitung"
-  GER_OHL_dictatoship:0 "Oberste Heeresleitung's Silent Dictatorship"
-  GER_OHL_political_dictatorship:0 "Oberste Heeresleitung's Political Influence"
-  GER_ohl_command_desc:0 "The §gOberste Heeresleitung§! (Supreme Army Command) has expanded its authority, gaining additional command powers and improving military planning capabilities. However, this comes at the cost of some political friction with the civilian government, slightly reducing our political efficiency."
-  GER_mobilisation_of_morale:0 "Mobilisation of Morale"
-  GER_germanisation:0 "Prussian Settlement Commision"
-  GER_enhanced_conscription:0 "Enhanced Conscription"
-  GER_extended_germanisation:0 "Law on Polish Landholders"
+  GER_agricultural_incentives: "Аграрні стимули" # (@!)
+  GER_new_major_railway_connection: "Нове велике залізничне сполучення"
+  GER_german_migration: "Німецька міграція" # (&)
+  GER_porductional_efficiency: "Виробнича ефективність"
+  GER_solf_new_administration: "Зольфова нова адміністрація"
+  GER_ohl_command: "[OHL_command_name]"
+  GER_OHL_normal_name: "Oberste Heeresleitung"
+  GER_OHL_dictatoship: "Мовчазна диктатура Oberste Heeresleitung"
+  GER_OHL_political_dictatorship: "Політичний вплив Oberste Heeresleitung"
+  GER_ohl_command_desc: "§gOberste Heeresleitung§! (Верховне командування армії) розширило свої повноваження, отримавши додаткові командні повноваження і покращивши можливості військового планування. Однак це відбувається ціною певних політичних тертя з цивільним урядом, що дещо знижує нашу політичну ефективність." # (@!)
+  GER_mobilisation_of_morale: "Мобілізація бойового духу"
+  GER_germanisation: "Прусська осадна комісія" # (&?)
+  GER_enhanced_conscription: "Посилений призов"
+  GER_extended_germanisation: "Закон про польських землевласників" # (&)
   GER_konige_im_luftrevier: "Könige im Luftrevier"
-  GER_germanisation_tooltip:0 "Replace §YPrussian Settlement Commision§! with §YLaw on Polish Landholders§!\nEffective change:\n£manpower_texticon Local Manpower: §G+30%§!\n£population_texticon  Monthly Population: §G+20%§!\n£civ_factory Max Factories in State: §G+25%§!\n£resources_texticon Local Available Resources:§G+30%§!"
+  GER_germanisation_tooltip: "Ідею §Y$GER_germanisation$§! буде замінено на §Y$GER_extended_germanisation$§!.\nЕфект від зміни:\n$MODIFIER_LOCAL_MANPOWER$: §G+30%§!\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+20%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+25%§!\n$MODIFIER_STATE_RESOURCES_FACTOR$: §G+30%§!"
   GER_social_reforms: "Соціальні реформи"
 
 ### ФОКУСИ ###
