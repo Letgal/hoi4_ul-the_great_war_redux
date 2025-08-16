@@ -5,6 +5,7 @@
 
 ## Завершені файли
 + `countries`
++ `countries_cosmetic`
 + `loading_tips`
 + `ww1_diplomacy`
 + `ww1_factions`
@@ -39,7 +40,6 @@
 + `ww1_ideas`
 
 ## У процесі перекладу (без об'єднання)
-+ `countries_cosmetic`
 + `state_names`
 + `ww1_adjacency_rules`
 + `ww1_autonomy`
