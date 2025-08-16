@@ -49,6 +49,7 @@
 
 ### Папка `replace`
 + `replace_ideas`
++ `replace_modifiers`
 
 ## Файл оновлено, старий переклад збережено
 + `bookmarks`
@@ -99,5 +100,4 @@
 + `replace_effects`
 + `replace_equipment`
 + `replace_focus`
-+ `replace_modifiers`
 + `replace_traits`
