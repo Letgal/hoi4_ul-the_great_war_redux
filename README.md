@@ -11,7 +11,9 @@
 + `ww1_factions`
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
-+ `ww1_GER_bundesrat`
++ `ww1_GER_bundesrat` (переклав [*Лицарський хрест*](https://steamcommunity.com/profiles/76561199017049555))
++ `ww1_liman_affair` (переклав *Лицарський хрест*)
++ `ww1_qing` (переклав *Лицарський хрест*)
 + `ww1_music` (умовно)
 + `ww1_war`
 
@@ -34,10 +36,10 @@
 + `replace_unit_medals`
 
 ## Зовнішній переклад
-+ `ww1_decisions`
-+ `ww1_events`
-+ `ww1_focus`
-+ `ww1_ideas`
++ `ww1_decisions` (більшість переклав [*kiryl*](https://steamcommunity.com/profiles/76561199575098265), допереклав *Лицарський хрест*)
++ `ww1_events` (більшість переклав *kiryl*)
++ `ww1_focus` (більшість переклав *kiryl*)
++ `ww1_ideas` (більшість переклав *kiryl*)
 
 ## У процесі перекладу (без об'єднання)
 + `state_names`
@@ -63,7 +65,7 @@
 + `ww1_equipment`
 + `ww1_game_rules`
 + `ww1_modifiers`
-+ `ww1_research`
++ `ww1_research` (частину переклав *Лицарський хрест*)
 + `ww1_scripted_triggers`
 + `ww1_traits`
 
@@ -84,9 +86,7 @@
 + `ww1_designer`
 + `ww1_equip_air`
 + `ww1_flags`
-+ `ww1_liman_affair`
 + `ww1_naval_classes`
-+ `ww1_qing`
 + `ww1_romania`
 + `ww1_tank_modules`
 + `ww1_unit_limit`
