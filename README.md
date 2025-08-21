@@ -7,6 +7,7 @@
 + `countries`
 + `countries_cosmetic`
 + `loading_tips`
++ `strategic_region_names`
 + `ww1_diplomacy`
 + `ww1_factions`
 + `ww1_focus_filter_tag`
@@ -29,7 +30,6 @@
 + `replace_politics`
 + `replace_state`
 + `replace_stats` (аааааа)
-+ `replace_strategic_region_names`
 + `replace_tank_modules`
 + `replace_triggers`
 + `replace_unit`
