@@ -368,7 +368,7 @@
 
  ## Військова конференція 1912 року
   ww1_germanrework.20.t: "Кайзер скликає воєнну раду"
-  ww1_germanrework.20.d: "Зібравшись у берлінському Штадтшлосі, кайзер скликав воєнну раду за участю вищого військового керівництва Німецької імперії. Очікується, що теми обговорення будуть відповідати напруженій військовій та дипломатичній ситуації в Європі. Конкретні теми, природно, будуть зосереджені на «великому військовому плані» Росії, занепокоєнні Австро-Угорщини військовими діями Сербії та відносинах імперії з Великою Британією.\n\nВідомі учасники — Тірпіц, Мюллер, Молькте і Герінген, з однаково сильною присутністю представників сухопутних військ і флоту.\n\nПід час підготовки та розмов про місце Німеччини у війні в Європі, кожен день наближає війну до Райху і не викликає сумнівів, що незабаром буде прийнятий закон про розширення німецьких збройних сил, щоб зустріти нову епоху війни." # (@!)
+  ww1_germanrework.20.d: "Зібравшись у берлінському Штадтшлосі, кайзер скликав воєнну раду за участю вищого військового керівництва Німецької імперії. Очікується, що теми обговорення будуть відповідати напруженій військовій та дипломатичній ситуації в Європі. Конкретні теми, природно, будуть зосереджені на «великому військовому плані» Росії, занепокоєнні Австро-Угорщини військовими діями Сербії та відносинах імперії з Великою Британією.\n\nВідомі учасники — Тірпіц, Мюллер, Мольтке і Гееринґен, з однаково сильною присутністю представників сухопутних військ і флоту.\n\nПід час підготовки та розмов про місце Німеччини у війні в Європі, кожен день наближає війну до Райху і не викликає сумнівів, що незабаром буде прийнятий закон про розширення німецьких збройних сил, щоб зустріти нову епоху війни." # (@!)
   ww1_germanrework.20.a: "Велика війна — на обрії." # (&+): бляха, присудок треба
 
  ## Вільгельмівська Німеччина
@@ -1042,17 +1042,17 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_national_debt_mission:0 "Growing Debt"
  GER_major_deficit_spending:0 "Major Deficit Spending"
  GER_stricten_rationing:0 "Increase Restrictions on Rationing"
- GER_schliffen:0 "Schlieffen Plan"
- GER_schliffen_desc:0 "The Schlieffen Plan plan the invasion of the entire Benelux, including the Netherlands, in order to create a huge front suitable for the invasion of France."
- GER_schlieffen_ost_variante:0 "Schlieffen Ostvariante"
- GER_ostplan_offensive:0 "Ostplan Offensive"
- GER_price_ceilling_on_food:0 "Price Ceiling on Food"
- GER_betriebsausschusse:0 "Betriebsausschüsse"
+ GER_schliffen: "План Шліффена"
+ GER_schliffen_desc: "План Шліффена окреслює вторгнення в увесь Бенілюкс, включно з Нідерландами, з ціллю створити величезний фронт, підхожий для вторгнення у Францію." # (&+)
+ GER_schlieffen_ost_variante: "Ostvariante плану Шліффена"
+ GER_ostplan_offensive: "Офензива Ostplan-у"
+ GER_price_ceilling_on_food: "Цінова стеля на продукти харчування"
+ GER_betriebsausschusse: "Betriebsausschüsse"
  GER_betriebsausschusse_desc:0 "A part of the war-time law 'Hilfsdienstgesetz' creating work comittees in all companies with more than 50 employees."
  GER_intensification_of_submarine_warfare:0 "Intensification of Submarine Warfare"
- GER_reduction_of_submarine_warfare:0 "Reduction of Submarine Warfare"
- GER_seize_indochina:0 "Seize French Indochina"
- GER_seize_french_pacific_islands:0 "Seize French Pacific Islands"
+ GER_reduction_of_submarine_warfare: "Скорочення підводної війни"
+ GER_seize_indochina: "Захопити французький Індокитай"
+ GER_seize_french_pacific_islands: "Захопити французькі острови в Тихому океані"
 
  ## Завдання
   GER_coalition_lifespan:0 "Coalition's Lifespan"
@@ -1062,26 +1062,26 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_alfred_von_tirpitz_resignation_mission:0 "Alfred von Tirpitz Agites for Unrestricted Submarine Warfare"
 
 ### BRITISH DIPLOMATIC MALUS ###
- GER_haldane_mission_negative:0 "Haldane Mission failed"
+ GER_haldane_mission_negative: "Місія Голдейна провалилася"
 
 ### БАЛАНС СИЛ: ВКА/цивільний уряд ###
- GER_civilian_government_vs_ohl:0 "The Army and its State"
- GER_GER_civilian_vs_ohl_balanced:0 "Conflicting Powers"
- civilian_dominant:0 "Civilian Government Dominant"
- civilian_empowered:0 "Civilian Government Empowered"
- ohl_dominant:0 "OHL Dominant"
- ohl_empowered:0 "OHL Empowered"
- GER_balance_ohl:0 "Oberste Heeresleitung"
- GER_balance_civilian:0 "Civilian Government"
+ GER_civilian_government_vs_ohl: "Армія та її держава"
+ GER_GER_civilian_vs_ohl_balanced: "Конфліктуючі держави"
+ civilian_dominant: "Цивільний уряд панує"
+ civilian_empowered: "Цивільний уряд посилений"
+ ohl_dominant: "ВКА панує"
+ ohl_empowered: "ВКА посилений"
+ GER_balance_ohl: "Верховне командування армії"
+ GER_balance_civilian: "Цивільний уряд"
 
 ### ЕКОНОМІЧНІ ДІЇ ###
- GER_economic_actions:0 "Economic Actions"
+ GER_economic_actions: "Економічні дії"
  GER_finance_berlin_military_complex:0 "Finance Berlin's Military Complex"
  GER_finance_rhine_military_complex:0 "Finance the Rhine's Military Complex"
  GER_finance_saarland_military_complex:0 "Finance the Saarland's Military Complex"
 
 ### ВІЙСЬКОВЕ БУДІВНИЦТВО ###
- GER_military_constructions:0 "Military Constructions"
+ GER_military_constructions: "Військові будівельні проєкти"
  GER_construct_fortifications_in_konisburg:0 "Construct Fortifications in Königsberg"
  GER_re_establish_fortifications_in_posen:0 "Re-establish Fortifications in Posen"
  GER_expand_fortifications_in_allestein:0 "Expand Fortifications in Allenstein"
@@ -1090,8 +1090,8 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_metz_fortified_area:0 "Reinforce the Metz Fortified Area"
 
 ### KRIEGSROHSTOFFABTEILUNG ###
- GER_kra_extraction_drive:0 "State Resource Prioritization (KRA)"
- GER_kriegsrohfstoffabteilung_category:0 "Kriegsrohstoffabteilung"
+ GER_kra_extraction_drive: "Пріоритизація державних ресурсів (ВідВС)"
+ GER_kriegsrohfstoffabteilung_category: "Kriegsrohstoffabteilung"
  GER_expand_erzgebirge_tungsten:0 "Develop Erzgebirge Tungsten Reserves"
  GER_exploit_lorraine_iron:0 "Exploit Lothringen Iron Ore Reserves"
  GER_maximize_silesian_resources:0 "Maximize Silesian Resource Output"
@@ -1114,26 +1114,26 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_tackle_urbanization_crisis_in_dortmund: "Упоратися з урбанізаційною кризою в Дортмунді"
  GER_tackle_urbanization_crisis_in_cologne: "Упоратися з урбанізаційною кризою в Кьольні"
  GER_tackle_urbanization_crisis_in_dusseldorf_and_essen: "Упоратися з урбанізаційною кризою в Дюссельдорфі й Ессені"
- is_dealing_with_urbanization_crisis:0 "Not already managing two urbanisation crises"
+ is_dealing_with_urbanization_crisis: "Не порається вже з двома урбанізаційними кризами" # (&+)
 
 ### ПРОЄКТ «МІТТЕЛЬАФРІКА» ###
- GER_mittelafrika_project:0 "The Mittelafrika Project"
+ GER_mittelafrika_project: "Проєкт «Міттельафріка»"
  GER_mittelafrika_project_desc:0 "With the war concluded, we can finally pursue the ambitious 'Mittelafrika' project, forging a contiguous colonial domain across Central Africa. By uniting our territories, we can create an economic powerhouse that will secure immense resources and cement German prestige."
- GER_seize_madagascar:0 "Seize Madagascar"
- GER_seize_djibouti:0 "Seize Djibouti"
- GER_seize_dahomey:0 "Seize Dahomey"
- GER_seize_french_congo:0 "Seize the French Congo"
+ GER_seize_madagascar: "Захопити Мадаґаскар"
+ GER_seize_djibouti: "Захопити Джібуті"
+ GER_seize_dahomey: "Захопити Дагомею"
+ GER_seize_french_congo: "Захопити французьке Конґо"
 
 ### ЗАКОНИ ###
  ## Центристи
   # Gesetz über die Verfassung Elsaß-Lothringens
-  GER_law_on_the_constitution_for_alsace_lorraine_bund:0 "Law on the Constitution for Alsace-Lorraine"
-  GER_law_on_the_constitution_for_alsace_lorraine_reich:0 "Law on the Constitution for Alsace-Lorraine"
+  GER_law_on_the_constitution_for_alsace_lorraine_bund: "Закон про конституцію Ельзасу–Лотаринґії"
+  GER_law_on_the_constitution_for_alsace_lorraine_reich: "Закон про конституцію Ельзасу–Лотаринґії"
   # Stellenvermittlergesetz
-  GER_employment_agency_act_bund:0 "Employment Agency Act"
-  GER_employment_agency_act_reich:0 "Employment Agency Act"
-  GER_law_on_rustungswende_bund:0 "Law on Rüstungswende"
-  GER_law_on_rustungswende_reich:0 "Law on Rüstungswende"
+  GER_employment_agency_act_bund: "Закон про агентство зайнятості" # інак. службу?
+  GER_employment_agency_act_reich: "Закон про агентство зайнятості" # інак. службу?
+  GER_law_on_rustungswende_bund: "Закон про Rüstungswende"
+  GER_law_on_rustungswende_reich: "Закон про Rüstungswende"
   GER_first_army_law_cen_bund:0 "First Army Expansion Act"
   GER_first_army_law_cen_reich:0 "First Army Expansion Act"
   GER_second_army_law_cen_bund:0 "Second Army Expansion Act"
@@ -1142,12 +1142,12 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_health_insurance_act_bund:0 "Imperial Insurance Code"
   GER_health_insurance_act_reich:0 "Imperial Insurance Code"
   # Hausarbeitsgesetz
-  GER_hausarbeitsgesetz_reich:0 "Homework Act"
-  GER_hausarbeitsgesetz_bund:0 "Homework Act"
-  GER_five_year_army_law_reich:0 "Five-Year Army Law"
-  GER_five_year_army_law_bund:0 "Five-Year Army Law"
-  GER_limited_army_bill_law_reich:0 "Limited Army Expansion Act"
-  GER_limited_army_bill_law_bund:0 "Limited Army Expansion Act"
+  GER_hausarbeitsgesetz_reich: "Закон про вітчизняну працю" # (&)
+  GER_hausarbeitsgesetz_bund: "Закон про вітчизняну працю" # (&)
+  GER_five_year_army_law_reich: "Закон про п'ятирічну армію"
+  GER_five_year_army_law_bund: "Закон про п'ятирічну армію"
+  GER_limited_army_bill_law_reich: "Закон про обмежену армію"
+  GER_limited_army_bill_law_bund: "Закон про обмежену армію"
 
  ## Ліваки
   GER_law_on_hollwegs_national_pension_bund:0 "Bethmann Hollweg's National Pension Act"
@@ -1158,38 +1158,38 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   # Besitzsteuergesetz
   GER_wealth_tax_law_bund:0 "Wealth Tax Law"
   GER_wealth_tax_law_reich:0 "Wealth Tax Law"
-  GER_1912_liberal_budget_law_bund:0 "Law on a New Budget"
-  GER_1912_liberal_budget_law_reich:0 "Law on a New Budget"
-  GER_prussian_electoral_reform:0 "Prussian Electoral Reform"
-  GER_prussian_electoral_reform_bund:0 "Prussian Electoral Reform"
+  GER_1912_liberal_budget_law_bund: "Закон про новий бюджет"
+  GER_1912_liberal_budget_law_reich: "Закон про новий бюджет"
+  GER_prussian_electoral_reform: "Прусська виборча реформа"
+  GER_prussian_electoral_reform_bund: "Прусська виборча реформа"
   GER_prussian_electoral_reform_effect_tt:0 "@PRE §Y[PRE.GetName]§! will have to be §Ynegotiated with§! for their vote in the §Y[GetBundesratName]§!!"
 
  ## Праваки
-  GER_law_on_discrimitory_national_pension_bund:0 "Law on Discrimitory National Pension"
-  GER_law_on_discrimitory_national_pension_reich:0 "Law on Discrimitory National Pension"
+  GER_law_on_discrimitory_national_pension_bund: "Закон про дискримінаційну державну пенсію" # (&)
+  GER_law_on_discrimitory_national_pension_reich: "Закон про дискримінаційну державну пенсію" # (&)
   # Reichs- und Staatsangehörigkeitsgesetz
-  GER_law_on_the_reich_and_nationality_right_bund:0 "Imperial and State Citizenship Act"
-  GER_law_on_the_reich_and_nationality_right_reich:0 "Imperial and State Citizenship Act"
-  GER_law_on_raising_tariffs_bund:0 "Amendment to the Customs Tariff Law"
-  GER_law_on_raising_tariffs_reich:0 "Amendment to the Customs Tariff Law"
-  GER_fith_fleet_act_bund:0 "Fifth Fleet Act"
-  GER_fith_fleet_act_reich:0 "Fifth Fleet Act"
-  GER_fith_fleet_act_reich_force:0 "Force the Fifth Fleet Act"
+  GER_law_on_the_reich_and_nationality_right_bund: "Закон про імперське та державне громадянство"
+  GER_law_on_the_reich_and_nationality_right_reich: "Закон про імперське та державне громадянство"
+  GER_law_on_raising_tariffs_bund: "Поправка до Закону про митні тарифи"
+  GER_law_on_raising_tariffs_reich: "Поправка до Закону про митні тарифи"
+  GER_fith_fleet_act_bund: "Закон про п'ятий флот"
+  GER_fith_fleet_act_reich: "Закон про п'ятий флот"
+  GER_fith_fleet_act_reich_force: "Нав'язати Закон про п'ятий флот"
   GER_opposition_to_naval_law:0 "The §YReichstag§! may oppose this naval expansion, but its passage is §Rnon-negotiable§!. Should they refuse, the §YKaiser§! is prepared to use his executive authority to enact the law by decree."
   GER_foce_law_passage:0 "§CForce the passage of the law by Imperial decree§!, bypassing any opposition from the §YReichstag§!."
-  GER_law_on_polish_landholders_bund:0 "Law on Polish Landholders"
-  GER_law_on_polish_landholders_reich:0 "Law on Polish Landholders"
-  GER_1912_conservative_budget_law_bund:0 "Law on a New Budget"
-  GER_1912_conservative_budget_law_reich:0 "Law on a New Budget"
-  GER_enabling_act:0 "Enabling Act"
-  GER_pass_enabling_act_tt:0 "Enabling Act Passed"
+  GER_law_on_polish_landholders_bund: "Закон про польських землевласників"
+  GER_law_on_polish_landholders_reich: "Закон про польських землевласників"
+  GER_1912_conservative_budget_law_bund: "Закон про новий бюджет"
+  GER_1912_conservative_budget_law_reich: "Закон про новий бюджет"
+  GER_enabling_act: "Закон про надзвичайні повноваження"
+  GER_pass_enabling_act_tt: "Закон про надзвичайні повноваження прийнято"
   # Hilfsdienstgesetz
-  GER_auxiliary_services_act:0 "Auxiliary Services Act"
+  GER_auxiliary_services_act: "Закон про допоміжну службу"
   # Gesetz zur Abänderung der Reichsverfassung
-  GER_democratization_reforms_act:0 "Act to Amend the Imperial Constitution"
+  GER_democratization_reforms_act: "Внести поправки до імперської конституції"
 
  ## Бундесрат
-  GER_call_in_FROM:0 "Call in [getFederalStateNameFromStateId]"
+  GER_call_in_FROM: "Закликати: [getFederalStateNameFromStateId]"
 
 ### МІТКИ ###
  GER_ww1_state_munitions:0 "Investing in State Munitions"
@@ -1201,7 +1201,7 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_solf_appointed: "Було призначено Вільгельма Зольфа"
  GER_von_liebert_appointed: "Було призначено Едуарда фон Ліберта"
 
- GER_HOL_create_4_v105_torpedoes_boats:0 "Create §Y4 V-105 Class Torpedoes Boats§!."
+ GER_HOL_create_4_v105_torpedoes_boats: "Створить §Y4 торпедні катери класу «V-105»§!."
 
  ## Мітки Бундесрату
   #GER_vote_ends_tt: "\nWhen the vote §Yends§!:\nThe number of §Yvotes§! will be set to 17."
@@ -1243,37 +1243,37 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   #GER_luxembourg_cooldown_tt: "§RLuxembourg will not participate in the next vote!§!"
   #GER_luxembourg_cooldown_ends_tt: "§GWe will be able to call in Luxembourg in the next vote!§!"
 
-  GER_prussia_unavailable:0 "§YPrussia§! is unavailable"
-  GER_bavaria_unavailable:0 "§YBavaria§! is unavailable"
-  GER_saxony_unavailable:0 "§YSaxony§! is unavailable"
-  GER_wurttemberg_unavailable:0 "§YWurttemberg§! is unavailable"
-  GER_baden_unavailable:0 "§YBaden§! is unavailable"
-  GER_hesse_unavailable:0 "§YHesse§! is unavailable"
-  GER_mecklenburg_unavailable:0 "§YMecklenburg§! is unavailable"
-  GER_brunswick_unavailable:0 "§YBrunswick§! is unavailable"
-  GER_alsace_lorraine_unavailable:0 "§YAlsace-Lorraine§! is unavailable"
-  GER_thuringia_unavailable:0 "§YThuringian States§! are unavailable"
-  GER_minor_states_unavailable:0 "§YMinor States§! are unavailable"
-  GER_free_cities_unavailable:0 "§YFree and Hanseatic Cities§! are unavailable"
-  GER_austria_unavailable:0 "§YAustria§! is unavailable"
-  GER_luxembourg_unavailable:0 "§YLuxembourg§! is unavailable"
+  GER_prussia_unavailable: "§YПруссія§! не доступна"
+  GER_bavaria_unavailable: "§YБаварія§! не доступна"
+  GER_saxony_unavailable: "§YСаксонія§! не доступна"
+  GER_wurttemberg_unavailable: "§YВюртемберґ§! не доступний"
+  GER_baden_unavailable: "§YБаден§! не доступний"
+  GER_hesse_unavailable: "§YГессен§! не доступний"
+  GER_mecklenburg_unavailable: "§YМекленбурґ§! не доступний"
+  GER_brunswick_unavailable: "§YБрауншвайґ§! не доступний"
+  GER_alsace_lorraine_unavailable: "§YЕльзас–Лотаринґія§! не доступні"
+  GER_thuringia_unavailable: "§YТюринзькі держави§! не доступні"
+  GER_minor_states_unavailable: "§YМалі держави§! не доступні"
+  GER_free_cities_unavailable: "§YВільні та ганзейські міста§! не доступні"
+  GER_austria_unavailable: "§YАвстрія§! не доступна"
+  GER_luxembourg_unavailable: "§YЛюксембурґ§! не доступний"
 
 ### ПІДКАЗКИ ###
- GER_belgian_diamond_deal_tt:0 "If §Y[BEL.GetFlag]Belgium§! accepts our proposal, the resulting profits will §Gbenefit§! our entire economy."
- ww1_germanytooltip2:0 "Whichever faction in the right wing is more powerful will determine the outcome of German politics after the inevitable major war in Europe. However, empowering the nationalists will be difficult and will result in an unstable empire prior to the war"
- GER_increase_tirpitz_support_tt:0 "Taking this focus will §Yincrease§! the §YKaiser's§! support of §cAdmiral von Tirpitz§!."
+ GER_belgian_diamond_deal_tt: "Якщо §Y[BEL.GetFlag]Бельгія§! прийме нашу пропозицію, отримані прибутки §Gпідуть на користь§! усій нашій економіці."
+ ww1_germanytooltip2: "Від того, котра фракція правого крила є могутніша, буде визначено результат німецької політики після неминучої великої війни в Європі. Однак надання влади націоналістам буде складне та зробить імперію нестабільною перед війною." # (&)
+ GER_increase_tirpitz_support_tt: "Виконання цього фокусу §Yзбільшить§! §Yкайзерову§! підтримку §cадмірала фон Тірпіца§!."
  GER_leftist_law_tt: "Це — §Rлівацький§! закон, котрий спершу треба ухвалити в §YРайхстазі§!."
  GER_centrist_law_tt: "Це — §gцентристський§! закон, котрий спершу треба ухвалити в §YРайхстазі§!."
  GER_rightist_law_tt: "Це — §3правацький§! закон, котрий спершу треба ухвалити в §YРайхстазі§!."
  GER_wartime_law_tt: "Це — закон §8воєнного часу§!, котрий спершу треба ухвалити в §YРайхстазі§!."
- GER_chancellor_ideology_tt:0 "This law will align with the §Yideology§! of the §YChancellor§!."
- GER_debt_increase_tt:0 "Each year, the positive effects of §Ywar bonds§! and §Yloans§! will decrease, while our §Rdebt§! continues to grow."
- GER_elsass_bundesrat_representation_tt:0 "§YElsass-Lothringen§! will be granted representation in the §YBundesrat§!."
- GER_naval_law_tt:0 "Taking this focus will increase both the §Ypositive and negative effects§! of passing another §YNaval Law.§!"
+ GER_chancellor_ideology_tt: "Цей закон збіжеться з §Yідеологією§! §Yканцлера§!." # (&?)
+ GER_debt_increase_tt: "Щороку позитивні ефекти §Yвоєнних облігацій§! і §Yпозик§! будуть спадати, тим часом як наш §Rборг§! продовжить рости."
+ GER_elsass_bundesrat_representation_tt: "§YЕльзасу й Лотаринґії§! буде надано представництво в §YБундесраті§!."
+ GER_naval_law_tt: "Виконання цього фокусу збільшить і §Yпозитивні§!, і §Yнегативні ефекти§! від прийняття ще одного §Yфлотського закону§!."
 
- GER_completed_by_event:0 "Completed or bypassed by an §Yevent§!."
- GER_chancellor_only:0 "This advisor is a §Ypotential candidate§! for the §YChancellorship§! and cannot be hired manually."
- GER_ohl_position:0 "The Empire's §YChief of Army§! is the head of the §YOHL§!."
+ GER_completed_by_event: "Виконано або пропущено §Yподією§!"
+ GER_chancellor_only: "Цей радник — §Yможливий кандидат§! на §Yпосаду канцлера§!, і його не можна найняти вручну."
+ GER_ohl_position: "§YГоловнокомандувач армії§! Імперії є головою §YВКА§!"
 
  GER_if_law_passes_bund: "\nЯкщо закон буде §Gухвалено§! в §YБундесраті§!:" # (&+)
  GER_if_law_fails_bund: "\nЯкщо закон §rпровалиться§! в §YБундесраті§!:" # (&+)
@@ -1290,32 +1290,32 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  ww1_germany_mft:0 "State of the Military Decreased by 15."
 
  ## Бали впливу
-  GER_get_extra_influence_tt:0 "Add £influence_texticon §Y$INFLUENCE$§! to §YExtra Influence Points§!."
-  GER_get_FROM_influence_tt:0 "Add £influence_texticon §Y$INFLUENCE$§! to §Y[getFederalStateNameFromStateId] Influence Points§!."
-  GER_get_FROM_influence_by_flag_tt:0 "Add £influence_texticon §Y$INFLUENCE$§! to §Y[getFederalStateNameFromCountryFlag] Influence Points§!."
-  GER_government_influence_grow:0 "Government Influence Grows"
-  GER_building_mission_infrastructure:0 "Has Promised Investments in this state."
-  ww1_germany_influence_plus1_sp:0 "Add £influence_texticon §Y1§! §YInfluence Point§! in [PREV.GetName]."
-  simple_german_federal_state_tt:0 "Federal State"
-  GER_budget_warning_tt:0 "§RWarning: This budget will fail without sufficient support from its aligned fractions in the Reichstag§!"
-  GER_loosen_conscription_standards.tt:0 "If the §YEntente§! doesn't surrender in §Y180 days§! there will be §RSevere Consequences§!."
-  GER_3_derfflinger_class_25_percent:0 "Design and add §Y3 Derfflinger Class Battlecruisers§! on the §YProduction Line§!. These ships will be §Y25% completed§!."
-  GER_4_konig_class_25_percent:0 "Design and add §Y4 König Class Dreadnoughts§! on the §YProduction Line§!. These ships will be §Y25% completed§!."
-  GER_4_konigsberg_ii_class_25_percent:0 "Design and add §Y4 Königsberg II Class Light Cruisers§! on the §YProduction Line§!. These ships will be §Y25% completed§!."
-  GER_fleet_in_being_mission_tt:0 "Upon completing this focus, we will have to expand the §cHigh Seas Fleet§! by §Y4 battleships§! within §Ythree years.§!"
-  GER_has_battleships_tt:0 "Has §Y[?num_ships_with_type@battleship]/[?GER_fleet_in_being_battleships_goal]§! Battleships"
-  GER_smarter_navy_mission_tt:0 "Upon completing this focus, we will have to expand the §cU-boat fleet§! by §Y48 submarines§! in a certain timeframe."
-  GER_unrestricted_submarine_warfare_tt:0 "§RIncreases the risk of the United States joining the war on the enemy's side.§!"
+  GER_get_extra_influence_tt: "Додасть £influence_texticon §Y$INFLUENCE$§! до §Yдодаткових балів впливу§!."
+  GER_get_FROM_influence_tt: "Додасть £influence_texticon §Y$INFLUENCE$§! до §Yбалів впливу ([getFederalStateNameFromStateId])§!."
+  GER_get_FROM_influence_by_flag_tt: "Додасть £influence_texticon §Y$INFLUENCE$§! до §Yбалів впливу ([getFederalStateNameFromCountryFlag])§!."
+  GER_government_influence_grow: "Вплив уряду росте"
+  GER_building_mission_infrastructure: "Було обіцяно інвестиції в цій області"
+  ww1_germany_influence_plus1_sp: "Додасть £influence_texticon §Y1§! §Yбал впливу§! у: [PREV.GetName]."
+  simple_german_federal_state_tt: "федеральний штат"
+  GER_budget_warning_tt: "§RПопередження: Цей бюджет провалиться без достатньої підтримки від прихильних фракцій у Райхстаґу.§!"
+  GER_loosen_conscription_standards.tt: "Якщо §YАнтанта§! не здасться за §Y180 днів§!, це матиме §Rсуворі наслідки§!."
+  GER_3_derfflinger_class_25_percent: "Розробить і створить §Y3 лінійні крейсери класу «Derfflinger»§! на §Yвиробничій лінії§!. Ці кораблі будуть §Yзавершені§! на §Y25%§!."
+  GER_4_konig_class_25_percent: "Розробить і створить §Y4 дредноути класу «König»§! на §Yвиробничій лінії§!. Ці кораблі будуть §Yзавершені§! на §Y25%§!."
+  GER_4_konigsberg_ii_class_25_percent: "Розробить і створить §Y4 легкі крейсери класу «Königsberg II»§! на §Yвиробничій лінії§!. Ці кораблі будуть §Yзавершені§! на §Y25%§!."
+  GER_fleet_in_being_mission_tt: "По завершенні цього фокусу нам доведеться розширити §cФлот відкритого моря§! на §Y4 лінкори§! в межах §Yтрьох років§!."
+  GER_has_battleships_tt: "Має §Y[?num_ships_with_type@battleship]/[?GER_fleet_in_being_battleships_goal]§! лінкорів"
+  GER_smarter_navy_mission_tt: "По завершенні цього фокусу нам доведеться розширити §cПідводний флот§! на §Y48 підводних човнів§! за певний проміжок часу."
+  GER_unrestricted_submarine_warfare_tt: "§RЗбільшує ризик, що Сполучені Штати приєднаються до війни на боці ворога.§!"
   GER_unlock_economy_law_tt: "Відімкне ідею $IDEA$."
-  GER_build_railway_tt:0 "Build a level §Y$LEVEL$§! railway from §Y$SOURCE$§! to §Y$DEST$§!."
-  GER_polizeitruppe_tt:0 "Deploys §Y3 Polizeitruppe§! divisions in our §YPacific Colonies§!"
-  GER_askari_tt:0 "Deploy §Y3 Askari-Brigade§! divisions"
-  GER_unlock_hardline:0 "This option will unlock the §OHardline§! branch"
-  GER_unlock_reformist:0 "This option will unlock the §CReformist§! branch"
-  GER_new_east_prussia_tt:0 "\nThese §YNew East Prussian§! states will be annexed once the §RKingdom of Poland§! is established"
+  GER_build_railway_tt: "Збудує залізницю §Y$SOURCE$§!–§Y$DEST$§! §Y$LEVEL$§!-го рівня."
+  GER_polizeitruppe_tt: "Розміщує §Y3§! дивізії §YPolizeitruppe§! в наших §Yтихоокеанських колоніях§!."
+  GER_askari_tt: "Розміщує §Y3§! дивізії §YAskari-Brigade§!."
+  GER_unlock_hardline: "Цей варіант відімкне §Oрадикальну§! гілку."
+  GER_unlock_reformist: "Цей варіант відімкне §Cреформістську§! гілку."
+  GER_new_east_prussia_tt: "\nЦі §Yнові східнопрусські§! області буде анексовано при заснуванні §RКоролівства Польського§!"
   GER_blockade_broken_tt:0 "With the blockade broken, the negative effects of the §Rfamine§! will be §Yremoved§!."
   GER_fire_current_chancellor_tt:0 "Current §Y$Chancellor$§! will be fired!"
-  GER_unlock_war_economy_focuses_tt:0 "§YUnlocks§! the §rWar Economy§! focus branch."
+  GER_unlock_war_economy_focuses_tt: "§YВідмикає§! гілку фокусів §rвоєнної економіки§!."
 
  ## Підказки командування ВКА
   GER_establish_the_general_headquarters_tt: "Цей фокус буде автоматично виконано, коли буде засновано §YВерховне командування армії§!\n"
@@ -1325,35 +1325,35 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_operationsabteilung.0tt: "Ідею §YКомандування ВКА§! буде змінено:\n$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-10.00%§!\n$modifier_production_speed_arms_factory_factor$: §G+5.00%§!"
   GER_zental_abteilung.0tt: "Ідею §YКомандування ВКА§! буде змінено:\n$MODIFIER_MOBILIZATION_SPEED$: §G+5.00%§!\n$MODIFIER_PLANNING_SPEED$: §G+15.00%§!\n$MODIFIER_MAX_PLANNING$: §G+10.00%§!"
 
-  GER_lessons_of_lorraine:0 "Lessons of Lothringen"
+  GER_lessons_of_lorraine: "Уроки Лотаринґії"
   GER_lessons_of_lorraine_desc:0 "The offensives against France allowed us to accumulate a wealth of experience in modern warfare. The importance of artillery and the preservation of soldiers are two essential components of victory."
 
-  GER_heavy_firepower_doctrine:0 "Heavy Firepower Doctrine"
+  GER_heavy_firepower_doctrine: "Доктрина важкої вогневої моці"
   GER_heavy_firepower_doctrine_desc:0 "Massive infantry assaults will not be enough to break the enemy lines. The more concentrated use of artillery will give our soldiers the opportunity to prolong their offensives."
-  GER_exasperation_among_general_staff:0 "Exasperation Among General Staff"
+  GER_exasperation_among_general_staff: "Роздратування в генеральному штабі"
   GER_exasperation_among_general_staff_desc:0 "Heeringen's plan has failed, and the OHL is growing impatient, especially after Schlieffen's plan was rejected. An inside job could well force him out in favor of Falkenhayn."
   GER_swap_to_historical_planning:0 "§RAbandoning Heeringen's Stragtegy will switch this branch back to the §YSchliefllen Plan§! branch.§!"
-  GER_the_great_war_of_the_sky:0 "The Great War of the Sky"
+  GER_the_great_war_of_the_sky: "Велика війна в небі"
   GER_the_great_war_of_the_sky_desc:0 "The growing importance of aviation is forcing the Luftstreitkräfte to reconsider its strategy in the air, in particular by accelerating the development of small, easy-to-produce aircraft."
-  GER_abandon_zeppelin_doctrine:0 "Abandon the Zeppelin Doctrine"
+  GER_abandon_zeppelin_doctrine: "Abandon the Zeppelin Doctrine"
   GER_abandon_zeppelin_doctrine_desc:0 "Airships are too slow and expensive, and did not meet the expectations of the general staff. Innovations such as the Fokker and Albatros demonstrated that it was possible to build less expensive and more efficient aircraft."
-  GER_fighter_mass_production:0 "Fighters Mass Production"
+  GER_fighter_mass_production: "Масове виробництво винищувачів"
   GER_fighter_mass_production_desc:0 "In order to combat enemy aircraft, we must focus our production on a few cheap aircraft, and completely abandon the production of parts for heavier or non-standardized equipment."
-  GER_heeringen_air_plan:0 "Heeringen Air Plan"
-  GER_new_air_doctrine:0 "New Air Doctrine"
-  GER_modest_conscription_effort:0 "Modest Conscription Effort"
+  GER_heeringen_air_plan: "Авіаційний план Гееринґена" # (&)
+  GER_new_air_doctrine: "Нова повітряна доктрина"
+  GER_modest_conscription_effort: "Скромні зусилля з призову"
   GER_modest_conscription_effort_desc:0 "The war is dragging on, and although we have tried to avoid it, we are forced to increase our numbers in order to maintain the front."
-  GER_gain_a7v_when_getting_heavy_tank:0 "§YDesign§! and §YAdd 20 A7V§! tanks as soon as §YBasic Heavy Armor§! is researched. It will also add the following idea for 720 days:\n"
-  GER_breaktrough_trenches:0 "Breakthrough Trenches"
+  GER_gain_a7v_when_getting_heavy_tank: "§YРозробить§! і §Yстворить 20§! танків §YA7V§!, щойно буде досліджено §Yбазову важку бронетехніку§!. Це також додає ось цю ідею на 720 днів:\n"
+  GER_breaktrough_trenches: "Траншеї прориву"
   GER_breaktrough_trenches_desc:0 "Trench warfare forces us to consider new approaches to land battles. To support infantry assaults and destroy fortifications, we can study the design of an armored and tracked vehicle equipped with a heavy gun."
-  GER_mitigated_quantitative_plan:0 "Mitigated Quantitative Plan"
+  GER_mitigated_quantitative_plan: "Послаблений кількісний план"
   GER_mitigated_quantitative_plan_desc:0 "Despite conscription efforts, a shortage of men was still felt. War Minister Heeringen contacted General Falkenhayn to redefine the German battle plan for the coming years. Focused on a more sluggish mobilization, it deteriorated the quality of the troops in favor of their numbers, a necessary sacrifice."
-  GER_structured_doctrines_abandonned:0 "Heeringen-Falkenhayn Doctrines"
-  GER_decision_naval_order_of_october_1918:0 "Op. 269/A I"
-  GER_all_or_nothing_plan:0 "All or Nothing Naval Plan"
-  GER_naval_plan_effect:0 "\n§YWhich gives:§!\n\n"
+  GER_structured_doctrines_abandonned: "Доктрини Гееринґена–Фалькенгайна"
+  GER_decision_naval_order_of_october_1918: "Op. 269/A I"
+  GER_all_or_nothing_plan: "Морський план «Усе або ніщо»"
+  GER_naval_plan_effect: "\n§YЩо дає:§!\n\n"
 
- ## Підказки до Mobilisation of Morale
+ ## Підказки до Мобілізації бойового духу
   GER_add_idea_mob_of_morale.tt: "Буде додано ідею §Y$GER_mobilisation_of_morale$§!, що даватиме: §g(§!$MODIFIER_ARMY_MORALE_FACTOR$: §G+5.00%§!, $MODIFIER_ARMY_ORG_REGAIN$: §G+5.00%§!, $MODIFIER_WAR_SUPPORT_FACTOR$: §G+2.50%§!, $MODIFIER_POLITICAL_POWER_COST$: §R+0.05§!§g)§!."
   GER_modify_mob_of_morale.tt: "Ідею §Y$GER_mobilisation_of_morale$§! буде змінено:\n$MODIFIER_ARMY_MORALE_FACTOR$: §G+5.00%§!\n$MODIFIER_ARMY_ORG_REGAIN$: §G+5.00%§!\n$MODIFIER_WAR_SUPPORT_FACTOR$: §G+2.50%§!\n$MODIFIER_POLITICAL_POWER_COST$: §R+0.05§!"
 
@@ -2236,12 +2236,12 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_political_concession_target: "Ціль політичних поступок"
  debug_loc: "[FROM.GetName] [PREV.GetName] [THIS.GetName] [PREV.PREV.GetName] [FROM.PREV.GetName] [FROM.FROM.GetName] [ROOT.GetName] [ROOT.FROM.GetName] [FROM.THIS.GetName] [PREV.PREV.PREV.GetName] [PREV.FROM.GetName] [FROM.FROM.PREV.GetName] [PREV.THIS.GetName] [GetName]"
 
- tt_build_one_civ_trigger:0 "[?FROM.industrial_complex_level|+0]/§Y[?FROM.civilian_total_after_goal]§! §YCivilian Factories§! built in §Y[FROM.GetName]§!"
- tt_build_one_civ_trigger_generic:0 "1 §YCivilian Factory§! built in this federal state."
- tt_build_one_infra_trigger_generic:0 "1 §YInfrastructure§! built in this federal state."
- GER_building_mission_civilian_factory:0 "Is expecting §YFederal Investments§! for a §YCivilian Factory§!"
+ tt_build_one_civ_trigger: "[?FROM.industrial_complex_level|+0]/§Y[?FROM.civilian_total_after_goal]§! §Yивільних заводів§! побудовано в області §Y[FROM.GetName]§!" # (&+)
+ tt_build_one_civ_trigger_generic: "У цьому федеральному штаті збудовано 1 §Yцивільний завод§!"
+ tt_build_one_infra_trigger_generic: "У цьому федеральному штаті збудовано 1 рівень §Yінфраструктури§!"
+ GER_building_mission_civilian_factory: "Очікує §Yфедеральні вкладення§! для §Yцивільного заводу§!" # (&+)
 
- GER_add_INFLUENCE_to_FEDERAL_STATE_tt:0 "Add £influence_texticon §Y$INFLUENCE$§! to §Y$FEDERAL_STATE$ Influence Points§!."
+ GER_add_INFLUENCE_to_FEDERAL_STATE_tt: "Додасть £influence_texticon §Y$INFLUENCE$§! до §Yбалів впливу ($FEDERAL_STATE$)§!."
  GER_investment_in_FROM: "Вкладення у: [getFederalStateNameFromStateId]"
  GER_investment_in_FROM_infrastructure: "Інфраструктурні вкладення у: [getFederalStateNameFromStateId]"
 
@@ -2306,28 +2306,28 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  luxembourg_tt: "Люксембурґ"
  german_federal_state_tt: "федеральний штат"
 
- parliament_text_ger_total_green:0 "[?GER_bundesrat_votes_in_favor|0G]"
- parliament_text_ger_total_red:0 "[?GER_bundesrat_votes_in_favor|0R]"
- GER_modify_bundersrat_votes_in_favor_tt:0 "Changes number of §Yvotes in favor§! by §Y[?ger_modify_bundersrat_votes_in_favor_var|=0]§!\n"
+ parliament_text_ger_total_green: "[?GER_bundesrat_votes_in_favor|0G]"
+ parliament_text_ger_total_red: "[?GER_bundesrat_votes_in_favor|0R]"
+ GER_modify_bundersrat_votes_in_favor_tt: "Змінює число §Yголосів «за»§! на §Y[?ger_modify_bundersrat_votes_in_favor_var|=0]§!.\n"
 
  decision_cost_1_influence: "§Y1§! £influence_texticon"
  decision_cost_1_influence_blocked: "§R1§! £influence_texticon"
- decision_cost_1_influence_tooltip:0 "It costs §Y1§! £influence_texticon to sway this state"
+ decision_cost_1_influence_tooltip: "Залучення цього штату коштує §Y1§! £influence_texticon"
  #decision_cost_3_influence: "§Y3§! £influence_texticon"
  #decision_cost_3_influence_blocked: "§R3§! £influence_texticon"
- #decision_cost_3_influence_tooltip: "It costs §Y3§! £influence_texticon to sway this state"
+ #decision_cost_3_influence_tooltip: "Залучення цього штату коштує §Y3§! £influence_texticon"
  #decision_cost_2_influence: "§Y2§! £influence_texticon"
  #decision_cost_2_influence_blocked: "§R2§! £influence_texticon"
- #decision_cost_2_influence_tooltip: "It costs §Y2§! £influence_texticon to sway this state"
+ #decision_cost_2_influence_tooltip: "Залучення цього штату коштує §Y2§! £influence_texticon"
  #decision_cost_4_influence: "§Y4§! £influence_texticon"
  #decision_cost_4_influence_blocked: "§R4§! £influence_texticon"
- #decision_cost_4_influence_tooltip: "It costs §Y4§! £influence_texticon to sway this state"
+ #decision_cost_4_influence_tooltip: "Залучення цього штату коштує §Y4§! £influence_texticon"
  #decision_cost_6_influence: "§Y6§! £influence_texticon"
  #decision_cost_6_influence_blocked: "§R6§! £influence_texticon"
- #decision_cost_6_influence_tooltip: "It costs §Y6§! £influence_texticon to sway this state"
+ #decision_cost_6_influence_tooltip: "Залучення цього штату коштує §Y6§! £influence_texticon"
  #decision_cost_8_influence: "§Y8§! £influence_texticon"
  #decision_cost_8_influence_blocked: "§R8§! £influence_texticon"
- #decision_cost_8_influence_tooltip: "It costs §Y8§! £influence_texticon to sway this state"
+ #decision_cost_8_influence_tooltip: "Залучення цього штату коштує §Y8§! £influence_texticon"
 
  GER_likely_to_pass:0 "§GThe law will pass§!"
  GER_likely_to_be_rejected:0 "§OYou will have to use §YSway Decisions§! with your §CInfluence Points§! to pass the law.§!"
