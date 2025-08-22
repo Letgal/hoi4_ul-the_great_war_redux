@@ -9479,54 +9479,55 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  SAU_nejd_hejaz_Caravan: "§8Nejd-Hejaz§!"
  SAU_nejd_egypt_Caravan: "§8Хіджаз-Єгипет§!"
  SAU_nejd_kuwait_Caravan: "§8Ihsa'a-Kuwait§!"
+### КРИЗИ ###
  SAU_Arabian_map_category_name: "Показує важливі зупинки на Транссахарському торговому шляху"
 
- agadir_crisis_end:0 "Можливість втрутитися закінчиться."
- GER_agadir_crisis_opportunity:0 "Таймер можливостей для кризи в Агадірі"
- agadir_crisis_name_wargoal:0 "Аґадірська криза"
- agadir_crisis_french_claim:0 "§Y[FRA.GetNameWithFlag]§! хоче нав'язати протекторат Марокко"
- agadir_crisis_german_claim:0 "§Y[GER.GetNameWithFlag]§! проти цього рішення"
- agadir_crisis_alert:0 "Попередження про кризу в Агадірі"
- diplomatic_crisis_CLOSE:0 "Закрити"
- agadir_crisis_alert_tt:0 "§RАґадірська криза§! починається проти §Y[FRA.getFlag][FRA.getAdjective]§! претензій та §Y[GER.getFlag][GER.getAdjective]§! інвестиції в §YМарокко§!"
- not_involved_yet:0 "Ще не задіяний"
+ agadir_crisis_end: "Можливість втрутитися спливе."
+ GER_agadir_crisis_opportunity: "Таймер можливості в Аґадірській кризі" # (&+)
+ agadir_crisis_name_wargoal: "Аґадірська криза"
+ agadir_crisis_french_claim: "§Y[FRA.GetNameWithFlag]§! хоче установити протекторат у Марокко."
+ agadir_crisis_german_claim: "§Y[GER.GetNameWithFlag]§! протистоїть цьому рішенню."
+ agadir_crisis_alert: "Попередження про Аґадірську кризу"
+ diplomatic_crisis_CLOSE: "Закрити"
+ agadir_crisis_alert_tt: "Починається §RАґадірська криза§!, де протиставляються §Y[FRA.getFlag][FRA.getAdjective]і§! домагання та §Y[GER.getFlag][GER.getAdjective]і§! вкладення в §YМарокко§!."
+ not_involved_yet: "Іще не залучені"
 
  casablanca_crisis_name_wargoal: "Касабланкська криза"
- liman_crisis_name_wargoal:0 "Ліманська криза"
+ liman_crisis_name_wargoal: "Ліманська криза"
 
- default_crisis_name:0 "Криза"
+ default_crisis_name: "Криза"
  has_crisis_tt: "§RПолітична криза§! триває"
  has_crisis_tt_NOT: "НЕ: §RПолітична криза§! триває"
 
- aggressor_advantage_text:0 "§RСторона агресорів§! має [?global.aggressor_advantage_tt|.1%%Y$] силу проти §CDefender Side§!"
+ aggressor_advantage_text: "§RСторона агресорів§! має [?global.aggressor_advantage_tt|.1%%Y$] сили проти §Cсторони захисників§!."
 
- aggressor_is_winning:0 "[?aggressor] має перевагу"
- defender_is_winning:0 "[?defender.getName] має перевагу"
+ aggressor_is_winning: "[?aggressor] має перевагу"
+ defender_is_winning: "[?defender.getName] має перевагу"
 
- france_is_winning:0 "Статус переговорів: на користь [FRA.getName]"
- germany_is_winning:0 "Статус переговорів: на користь [GER.getName]"
- serbia_is_winning:0 "Статус переговорів: на користь [SER.getName]"
- austria_is_winning:0 "Статус переговорів: на користь [AUS.getName]"
- countryNameDef:0 "§Y[THIS.getFlag][THIS.getNameDef]§!"
- crisis_balanced:0 "Збалансований результат"
+ france_is_winning: "Статус переговорів: на користь держави [FRA.getName]"
+ germany_is_winning: "Статус переговорів: на користь держави [GER.getName]"
+ serbia_is_winning: "Статус переговорів: на користь держави [SER.getName]"
+ austria_is_winning: "Статус переговорів: на користь держави [AUS.getName]"
+ countryNameDef: "§Y[THIS.getFlag][THIS.getNameDef]§!"
+ crisis_balanced: "Урівноважений результат"
 
- casablanca_crisis_alert_tt: "Починається §RКасабланкська криза§!, в якій §Y[FRA.getFlag][FRA.getAdjective]ий§! і §Y[MOR.getFlag][MOR.getAdjective]ий§! уряди протистоять у питанні окупації Касабланки." # (&)
- liman_crisis_alert_tt:0 "Почнеться §Rсправа Лімана фон Сандерса§!, що протиставляє §Y[RUS.getFlag][RUS.getAdjective]і§! та §Y[GER.getFlag][GER.getAdjective]і§! інтереси в Босфорі."
- liman_crisis_alert_france_tt:0 "Почнеться §Rсправа Лімана фон Сандерса§!, що протиставляє §Y[FRA.getFlag][FRA.getAdjective]і§! та §Y[GER.getFlag][GER.getAdjective]і§! інтереси в Босфорі."
+ casablanca_crisis_alert_tt: "Починається §RКасабланкська криза§!, де §Y[FRA.getFlag][FRA.getAdjective]ий§! і §Y[MOR.getFlag][MOR.getAdjective]ий§! уряди протистоять у питанні окупації Касабланки." # (&?)
+ liman_crisis_alert_tt: "Починається §Rсправа Лімана фон Сандерса§!, де протиставляються §Y[RUS.getFlag][RUS.getAdjective]і§! та §Y[GER.getFlag][GER.getAdjective]і§! інтереси на Босфорі."
+ liman_crisis_alert_france_tt: "Починається §Rсправа Лімана фон Сандерса§!, де протиставляються §Y[FRA.getFlag][FRA.getAdjective]і§! та §Y[GER.getFlag][GER.getAdjective]і§! інтереси на Босфорі."
  casablanca_crisis_mission: "Касабланкська криза"
  casablanca_crisis_mission_desc: "Франція та Німеччина не можуть домовитися про статус Марокко. Загрожує спалахнути війна, і кожен із них шукає союзників у Європі."
 
- july_crisis_name_wargoal:0 "Липнева криза"
- july_crisis_austrian_claim:0 "§Y[AUS.GetNameWithFlag]§! вимагає від Сербії компенсації за вбивство ерцгерцога"
- july_crisis_serbian_claim:0 "§Y[SER.GetNameWithFlag]§! виступати проти цього рішення"
- july_crisis_alert:0 "Попередження про липневу кризу"
- july_crisis_alert_tt:0 "§RЛипнева криза§! розпочинається, проти §Y[AUH.getFlag][AUS.getAdjective]их§! претензій щодо репарацій до §Y[SER.GetNameWithFlag]§!."
- casablanca_crisis_french_claim: "§Y[FRA.GetNameWithFlag]§! відмовляється закінчувати окупацію Марокко"
- casablanca_crisis_moroccan_claim: "§Y[MOR.GetNameWithFlag]§! хоче вигнати французьку армію з Марокко"
+ july_crisis_name_wargoal: "Липнева криза"
+ july_crisis_austrian_claim: "§Y[AUS.GetNameWithFlag]§! жадає репарації від Сербії за вбивство ерцгерцога." # інак. вимагає
+ july_crisis_serbian_claim: "§Y[SER.GetNameWithFlag]§! протистоїть цьому рішенню."
+ july_crisis_alert: "Попередження про Липневу кризу"
+ july_crisis_alert_tt:0 "Починається §RЛипнева криза§!, де оспорюються §Y[AUS.getFlag][AUS.getAdjective]і§! вимоги репарацій від держави §Y[SER.GetNameWithFlag]§!." # (&)
+ casablanca_crisis_french_claim: "§Y[FRA.GetNameWithFlag]§! відмовляється закінчувати окупацію Марокко."
+ casablanca_crisis_moroccan_claim: "§Y[MOR.GetNameWithFlag]§! жадає вигнати французьку армію з Марокко." # інак. прагне
 
- liman_crisis_russian_claim:0 "§Y[RUS.GetNameWithFlag]§! вимагає відставки §Y[GER.getFlag][GER.getAdjective]их радників§! у §Y[TUR.getFlag][TUR.getNameDef]§!"
- liman_crisis_french_claim:0 "§Y[FRA.GetNameWithFlag]§! вимагає відставки §Y[GER.getFlag][GER.getAdjective]их радників§! у §Y[TUR.getFlag][TUR.getNameDef]§!"
- liman_crisis_german_claim:0 "§Y[GER.GetNameWithFlag]§! прагне зменшити §Y[RUS.getFlag][RUS.getAdjective]ий вплив§! в §YАнатолії§!."
+ liman_crisis_russian_claim: "§Y[RUS.GetNameWithFlag]§! жадає відкликати §Y[GER.getFlag][GER.getAdjective]их радників§! у державі §Y[TUR.getFlag][TUR.getNameDef]§!." # інак. вимагає
+ liman_crisis_french_claim: "§Y[FRA.GetNameWithFlag]§! жадає відкликати §Y[GER.getFlag][GER.getAdjective]их радників§! у державі §Y[TUR.getFlag][TUR.getNameDef]§!." # інак. вимагає
+ liman_crisis_german_claim: "§Y[GER.GetNameWithFlag]§! жадає скоротити §Y[RUS.getFlag][RUS.getAdjective]ий§! вплив в §YАнатолії§!." # інак. прагне
 
  GER_important_law_that_will_comeback:0 "\nЯкщо закон не буде прийнятий, його внесуть повторно через 60 днів, доки §YРайхстаґ§! не схвалить його."
  GER_vote_strengh_tt:0 "§Y[?merged_vote_strengh|0]/[?GER_total_reichstag_seats] ([?merged_vote_percent|%%0]) депутатів§! проголосують за цей закон."
