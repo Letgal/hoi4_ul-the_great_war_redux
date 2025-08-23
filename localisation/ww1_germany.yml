@@ -1676,11 +1676,11 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_abandon_the_great_ostaufmarsch_desc: "The plan for a major eastern deployment against Russia must be reconsidered. Given the Russian army's slow mobilization compared to France's rapid deployment capabilities, we should prioritize our western defenses and offensive capabilities."
   GER_second_army_bill: "Армійський законопроєкт 1913 року"
   GER_second_army_bill_desc: "To ensure the Reich's security, we must enact an even more ambitious expansion of our armed forces. This second military law will create new army corps and strengthen existing units. Gott mit uns!"
-  GER_improved_schlieffen_alone_plan: "Ми змінимо §Y£decision_icon_small план Шліффена§!, зробивши його більш §tагресивним§!.\n\n"
-  GER_improved_schlieffen_plan: "Ми змінимо §Y£decision_icon_small план Шліффена–Мольтке§!, зробивши його більш §tагресивним§!.\n\n"
+  GER_improved_schlieffen_alone_plan: "Ми змінимо §Y£decision_icon_small $GER_schliffen1905plan$§!, зробивши його більш §tагресивним§!.\n\n"
+  GER_improved_schlieffen_plan: "Ми змінимо §Y£decision_icon_small $GER_schliffenmoltkeplan$§!, зробивши його більш §tагресивним§!.\n\n"
   GER_more_aggressive_schlieffen_plan: "Поновити план Шліффена–Мольтке"
   GER_more_aggressive_schlieffen_plan_desc: "The General Staff proposed a modernization of the Schlieffen Plan aimed at increasing the aggressiveness of the operation. This approach is linked to the traditional Prussian approach that our superior army will be able to counter any numerical advantage the enemy may have. Furthermore, the recognition of Holland's neutrality must be considered."
-  GER_subsidise_mauser: "Субсидизувати Mauser"
+  GER_subsidise_mauser: "Субсидувати Mauser"
   GER_subsidise_mauser_desc: "The Mauser company is a cornerstone of our arms industry, and their Gewehr 98 rifle forms the backbone of our infantry. We must provide state subsidies to ensure they can expand production and equip our soldiers with the finest small arms in the world."
   GER_methodical_teachings: "Прийняти методичні вчення"
   GER_methodical_teachings_desc: "Following Heerigen's new plan we must impose that our military strategists focus on methodical rational planning that will benefit our army's performance without needless offensives that have only a chance of victory in fiction."
@@ -1713,7 +1713,7 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_develop_airfields_desc: "To project air power effectively, especially on the Western Front, we must develop our airfield infrastructure. We will prioritize building and expanding bases near France and Belgium, ensuring our squadrons are ready for rapid deployment and sustained operations in the West."
   GER_dicta_boelcke: "Поширити Dicta Boelcke" # Освальд Бьольке
   GER_dicta_boelcke_desc: "Master aviator Oswald Boelcke has codified the fundamental principles of aerial combat. We must ensure his 'Dicta Boelcke' becomes the standard tactical doctrine for all our fighter pilots. By instilling these rules we can dramatically increase the effectiveness and survivability of our pilots, forging a truly professional fighter corps."
-  GER_pioneer_aircraft_development: "«Прокласти шлях» у розробках літаків" # (&+)
+  GER_pioneer_aircraft_development: "Новаторські розробки літаків"
   GER_pioneer_aircraft_development_desc: "The skies represent a new frontier, and German ingenuity must lead the way in conquering it. We shall invest heavily in aeronautical research and experimentation, pushing the boundaries of early aircraft design, particularly improving our scout planes."
   GER_fokkers_pursuit_concepts: "Новітні концепції Fokker"
   GER_fokkers_pursuit_concepts_desc: "Anthony Fokker's innovative designs, particularly his development of a reliable synchronizer gear allowing pilots to fire machine guns through the propeller arc, promise to create true 'pursuit' aircraft. By embracing his advancements, we will be able to field revolutionary fighters capable of dominating their opponents."
@@ -1965,8 +1965,8 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   ww1_german_reichstag.7.d: "The government's legislative proposal has been rejected by the [GetBundesratName]. Key member states have refused to grant their approval, exposing deep divisions within the federal structure of the Empire. This veto presents a serious challenge to our authority."
   ww1_german_reichstag.7.a: "Perhaps a federal empire was a mistake."
 
-  GER_no_schlieffen: "Selecting this branch won't give you the §Y£decision_icon_small Schlieffen-Moltke Plan§!."
-  GER_no_schlieffen_ormolkte: "Selecting this branch wont give you §Y£decision_icon_small The Schlieffen Plan§! or §Y£decision_icon_small The Schlieffen-Moltke Plan§!."
+  GER_no_schlieffen: "Обрання цієї гілки не дасть вам §Y£decision_icon_small $GER_schliffenmoltkeplan$§!."
+  GER_no_schlieffen_ormolkte: "Обрання цієї гілки не дасть вам §Y£decision_icon_small $GER_schliffen1905plan$§! або §Y£decision_icon_small $GER_schliffenmoltkeplan$§!."
 
   tt_might_get_neutral_british: "We will attempt to work towards securing §Y[ENG.GetFlag][ENG.GetAdjective] Neutrality§! in any future war between us and §Y[FRA.GetFlag][FRA.GetName]§! or §Y[RUS.GetFlag]The [RUS.GetName]§!."
 
