@@ -129,20 +129,20 @@
  has_GER_idea_rapid_urbanisation_tt_NOT: "Не має національний дух §Y$GER_rapid_urbanisation$§!"
 
 ### ПЕРСОНАЖІ ###
- GER_ernst_von_heydebrand:0 "Ernst von Heydebrand"
- GER_karl_helfferich:0 "Karl Helfferich"
+ GER_ernst_von_heydebrand: "Ернст фон Гайдебранд"
+ GER_karl_helfferich: "Карл Гельферих"
 
  ## Риси
-  naval_enthusiast:0 "Naval Enthusiast"
-  assertive_weltpolitik:0 "Assertive Weltpolitik"
-  crown_authority:0 "Crown Authority"
-  GER_officer_of_the_federation_of_farmers:0 "Officer of the Federation of Farmers"
-  GER_scheming_intrigant:0 "Scheming Intrigant"
-  GER_silent_dictator:0 "Silent Dictator"
-  GER_militarist_colonialist:0 "Militarist Colonialist"
-  GER_hamlet:0 "Hamlet"
-  GER_military_man:0 "Military Man"
-  GER_liberal_prince:0 "Liberal Prince"
+  naval_enthusiast: "Любитель флоту"
+  assertive_weltpolitik: "Напориста Weltpolitik"
+  crown_authority: "Авторитет корони"
+  GER_officer_of_the_federation_of_farmers: "Офіцер Федерації фермерів"
+  GER_scheming_intrigant: "Підступний інтриган"
+  GER_silent_dictator: "Мовчазний диктатор"
+  GER_militarist_colonialist: "Войовничий колоніаліст"
+  GER_hamlet: "Гамлет"
+  GER_military_man: "Військовий чоловік"
+  GER_liberal_prince: "Ліберальний князь"
 
 ### ПОДІЇ ###
  ## Наслідки Аґадіру
@@ -885,64 +885,64 @@
 
   ww1_germanrework.159.d: "Дирижабль L 2 Імперського німецького флоту трагічно вибухнув під час випробувального польоту, в результаті чого загинули всі 28 осіб на борту, включаючи пасажирів і екіпаж.\n\nБлизько 10:30 ранку випущений водень запалав у передньому двигуні, що спричинило катастрофічний вибух. Дирижабль розбився поблизу аеродрому Йоганністаль, на південний схід від Берліна, трохи більше ніж через місяць після катастрофи на острові Гельґоланд.\n\nСвідки описували гучний вибух і полум'я, коли L-2, який мав стати флагманом Німеччини, спускався з висоти 270 метрів.\n\nПрибувши на місце катастрофи, глядачі виявили покручені уламки, а єдиний виживший, лейтенант барон фон Біуль, отримав смертельні травми. Вибух силою викинув пасажирів з гондоли, а їхні останки були знайдені за чверть милі від місця катастрофи." # (@!)
 
-  ww1_germanrework.160.t: "Marriage of Princess Victoria Louise and Prince Ernest Augustus"
-  ww1_germanrework.160.d: "Prince Ernest Augustus of Hanover married Princess Victoria Louise of Prussia, uniting the Hohenzollern and Hanover royal families after a decades-long feud. The wedding marked a significant moment, attracting a gathering of European sovereigns, including Kaiser Wilhelm II, King George V of the United Kingdom, and Tsar Nicholas II.\n\nThe union was born from a heartfelt gesture of condolence from Emperor Wilhelm II following the tragic death of Georg Wilhelm, Hereditary Prince of Hanover in an automobile accident in 1912. Ernest Augustus, the Duke of Cumberland's only surviving son, traveled to Berlin to express gratitude and ultimately fell in love with the emperor's daughter.\n\nErnest Augustus pledged allegiance to the German Empire and took on a military role within the Prussian Army. \n\nIn a gesture of goodwill, the Kaiser granted a royal pardon to two imprisoned British spies as a wedding gift. George V granted formal consent to the marriage, required by the Royal Marriages Act."
+  ww1_germanrework.160.t: "Шлюб принцеси Вікторії Луїзи та принца Ернеста Авґуста" # (@!)
+  ww1_germanrework.160.d: "Принц Ернст Авґуст Ганноверський одружився з принцесою Вікторією Луїзою Прусською, об'єднавши королівські родини Гогенцоллернів і Ганновера після десятиліть ворожнечі. Весілля стало знаменною подією, на яку з'їхалися європейські монархи, серед яких були кайзер Вільгельм II, король Великої Британії Георг V і цар Микола II.\n\nЦей союз виник завдяки щирому жесту співчуття імператора Вільгельма II після трагічної смерті Георга Вільгельма, спадкоємного принца Ганновера, в автомобільній аварії в 1912 році. Ернст Авґуст, єдиний син герцога Камберлендського, який вижив, поїхав до Берліна, щоб висловити вдячність, і в підсумку закохався в дочку імператора.\n\nЕрнест Авґуст присягнув на вірність Німецькій імперії і зайняв військову посаду в прусській армії.\n\nВ знак доброї волі кайзер помилував двох ув'язнених британських шпигунів як весільний подарунок. Георг V дав офіційну згоду на шлюб, що було необхідним згідно із Законом про королівські шлюби." # (@!)
   ww1_germanrework.160.a: "Frohe Hochzeit!"
-  hohenzollern_hanover_fued_ended: "Hohenzollern-Hanover fued ended"
+  hohenzollern_hanover_fued_ended: "Кінець ворожнечі між Гогенцоллернами і Ганновером" # (@!)
 
-  ww1_germanrework.161.t: "Royal Marriage Ends Decades-Long Feud"
-  ww1_germanrework.161.d: "Prince Ernest Augustus of Hanover married Princess Victoria Louise of Prussia, uniting the Hohenzollern and Hanover royal families after a decades-long feud. The wedding marked a significant moment, attracting a gathering of European sovereigns, including German Emperor Wilhelm II, King George V of the United Kingdom, and Tsar Nicholas II.\nThe union was born from a heartfelt gesture of condolence from Emperor Wilhelm II following the tragic death of Georg Wilhelm, Hereditary Prince of Hanover in an automobile accident in 1912. Ernest Augustus, the Duke of Cumberland's only surviving son, traveled to Berlin to express gratitude and ultimately fell in love with the emperor's daughter."
-  ww1_germanrework.161.b: "Sovet da lyubov!"
-  ww1_germanrework.161.c: "A real love match."
+  ww1_germanrework.161.t: "Королівське весілля поклало край багаторічній ворожнечі" # (@!)
+  ww1_germanrework.161.d: "Принц Ернст Авґуст Ганноверський одружився з принцесою Вікторією Луїзою Прусською, об'єднавши королівські родини Гогенцоллернів і Ганновера після десятиліть ворожнечі. Весілля стало знаменною подією, яка зібрала європейських монархів, серед яких були німецький імператор Вільгельм II, король Великої Британії Георг V і цар Микола II. Цей союз виник завдяки щирому жесту співчуття імператора Вільгельма II після трагічної смерті Георга Вільгельма, спадкоємного принца Ганновера, в автомобільній аварії в 1912 році. Ернст Авґуст, єдиний син герцога Камберлендського, який вижив, поїхав до Берліна, щоб висловити вдячність, і в підсумку закохався в дочку імператора." # (@!)
+  ww1_germanrework.161.b: "«Зовёт до любовь!»"
+  ww1_germanrework.161.c: "Справжнє кохання." # (@!)
 
-  ww1_germanrework.162.t: "German Submarines Sink a Convoy"
-  ww1_germanrework.162.d: "Despite our neutrality and our legal right to send vessels in the northern sea, reports indicates we lost a convoy due to a german submarine attack. The german government denied its responsability, indicating they didnt comitted such attack, but evidence point out they lied. This terrible accident is likely caused by the unrestricted submarine warfare doctrine, causing the german ships to engage pretty much any target on sight, including us. We already sent a note of protest to the German government, we hope this might refrain them from continuing such horrible doctrine."
-  ww1_germanrework.162.a: "May God rest their souls."
+  ww1_germanrework.162.t: "Німецькі підводні човни затоплюють конвой"
+  ww1_germanrework.162.d: "Незважаючи на нашу нейтральність і законне право відправляти судна в північне море, повідомлення вказують на те, що ми втратили конвой через атаку німецького підводного човна. Німецький уряд заперечив свою відповідальність, вказавши, що вони не здійснювали таку атаку, але докази вказують на те, що вони брехали. Ця жахлива аварія, ймовірно, спричинена доктриною необмеженої підводної війни, яка змушує німецькі кораблі атакувати практично будь-яку ціль, що потрапляє в поле зору, включаючи нас. Ми вже надіслали ноту протесту німецькому уряду і сподіваємося, що це змусить їх відмовитися від такої жахливої доктрини." # (@!)
+  ww1_germanrework.162.a: "Нехай Бог дасть спокій їхнім душам."
 
-  ww1_germanrework.163.t: "[FROM.GetAdjective] Convoy Sunk"
-  ww1_germanrework.163.d: "Report indicates we hit a neutral submarine in contested area between northern sea and english channel. The ship, a [FROM.GetAdjective] commercial vessel, has be hit by one of our V-30 submarine. The accidental shot was caused by our unrestricted commercial warfare doctrine, causing our submarines to attack trade lines on sight. [FROM.GetLeader] sent a letter of protest we ignore, declining the responsability of such terrible accident. We might be cautious to not sunk more of them."
-  ww1_germanrework.163.a: "May God rest their souls."
+  ww1_germanrework.163.t: "[FROM.GetAdjectiveCap]ий конвой затоплено"
+  ww1_germanrework.163.d: "Згідно з повідомленням, ми вразили нейтральний підводний човен у спірній зоні між Північним морем та Ла-Маншем. Корабель, [FROM.GetAdjective]е комерційне судно, було вражене одним із наших підводних човнів V-30. Випадковий постріл був спричинений нашою доктриною необмеженої комерційної війни, згідно з якою наші підводні човни атакують торгові судна при першому ж контакті. [FROM.GetLeader] надіслав листа з протестом, який ми проігнорували, відмовившись брати на себе відповідальність за такий жахливий інцидент. Ми повинні бути обережними, щоб не потопити ще більше суден." # (@!)
+  ww1_germanrework.163.a: "Нехай Бог дасть спокій їхнім душам."
 
-  ww1_germanrework.164.t: "Lusitania Destroyed"
-  ww1_germanrework.164.d: "News has reached Berlin: U-20 has successfully sunk the British liner Lusitania, believed to be smuggling weapons beneath a civilian disguise. The Admiralty hails it as a triumph of naval strategy. Yet unease spreads in the Foreign Office—over a hundred Americans were aboard. While the Reich cannot afford to show weakness, some ministers warn that Washington may now be stirred to act. The press is divided, but the message from the High Seas is clear: no exceptions, no apologies."
-  ww1_germanrework.164.a: "Let the world see the price of aiding Britain."
+  ww1_germanrework.164.t: "«Lusitania» знищена"
+  ww1_germanrework.164.d: "До Берліна надійшла новина: U-20 успішно потопив британський лайнер «Lusitania», який, як вважається, під прикриттям цивільного судна перевозив контрабандну зброю. Адміралтейство вітає це як тріумф військово-морської стратегії. Однак у Міністерстві закордонних справ поширюється занепокоєння — на борту судна перебувало понад сто американців. Хоча Райх не може дозволити собі проявити слабкість, деякі міністри попереджають, що Вашингтон може бути спонуканий до дій. Преса розділилася, але повідомлення з відкритого моря чітке: без винятків, без вибачень." # (@!)
+  ww1_germanrework.164.a: "Нехай світ побачить ціну допомоги Британії."
 
-  ww1_germanrework.165.t: "The Lusitania Sunk"
-  ww1_germanrework.165.d: "The British liner Lusitania has been sunk by a German U-boat, killing over a hundred American citizens. Outrage spreads across the country. Newspapers demand action, and voices in Congress call for a firm response. Yet President [USA.GetLeader] faces a dilemma: should we threaten Berlin with consequences if unrestricted submarine warfare continues—or maintain neutrality and avoid further entanglement in a distant war?"
-  ww1_germanrework.165.a: "Issue a formal ultimatum. They must back down."
-  ww1_germanrework.165.b: "We mourn the dead, but we stay out—for now."
+  ww1_germanrework.165.t: "«Lusitania» затоплена"
+  ww1_germanrework.165.d: "Британський лайнер «Lusitania» був потоплений німецьким підводним човном, в результаті чого загинуло понад сто американських громадян. По всій країні поширюється обурення. Газети вимагають вжити заходів, а в Конгресі лунають заклики до рішучої реакції. Однак президент [USA.GetLeader] стоїть перед дилемою: чи слід погрожувати Берліну наслідками, якщо без обмежень триватиме підводна війна, чи зберегти нейтралітет і уникнути подальшого втягування у віддалену війну?" # (@!)
+  ww1_germanrework.165.a: "Висунути офіційний ультиматум. Вони мусять відступити." # (@!)
+  ww1_germanrework.165.b: "Ми оплакуємо загиблих, але поки що залишаємося осторонь." # (@!)
 
-  ww1_germanrework.166.t: "American Ultimatum Delivered"
-  ww1_germanrework.166.d: "A note from Washington has arrived: the United States demands that we restrict our U-boat operations against commercial vessels and formally acknowledge the loss of American lives aboard the Lusitania. The Foreign Office urges caution to avoid provoking U.S. entry into the war. But within the Admiralty and the OHL, many view any concession as weakness. The Reich now faces a difficult choice—appease, or defy."
-  ww1_germanrework.166.a: "We shall moderate our naval policy—for now."
-  ww1_germanrework.166.b: "We owe them nothing. The war comes first."
+  ww1_germanrework.166.t: "Американський ультиматум висунуто" # (@!)
+  ww1_germanrework.166.d: "З Вашинґтона надійшла записка: Сполучені Штати вимагають, щоб ми обмежили операції наших підводних човнів проти комерційних суден і офіційно визнали загибель американців на борту «Lusitania». Міністерство закордонних справ закликає до обережності, щоб не спровокувати вступ США у війну. Але в Адміралтействі та ВКА багато хто вважає будь-які поступки проявом слабкості. Райх зараз стоїть перед складним вибором — поступитися чи протистояти." # (@!)
+  ww1_germanrework.166.a: "Ми будемо пом'якшувати нашу морську політику — поки що." # (@!)
+  ww1_germanrework.166.b: "Ми ніщо їм не винні. Війна йде перша."
 
-  ww1_germanrework.167.t: "Germany Backs Down"
-  ww1_germanrework.167.d: "Berlin has issued a formal response to our ultimatum. The Imperial Government agrees to restrict submarine warfare against civilian vessels and acknowledges the loss of American lives aboard the Lusitania. President [USA.GetLeader] hails the note as a diplomatic success, though many in Congress remain skeptical. For now, tensions ease—but trust in German intentions remains fragile."
-  ww1_germanrework.167.a: "They should not try that again, ever!"
-  USA_might_join_if_USW_is_at_level_2: "§R§Y[USA.GetFlag][USA.GetName]§! might join the Entente if we do not restrain our unrestricted submarine warfare!§!"
+  ww1_germanrework.167.t: "Німеччина поступається"
+  ww1_germanrework.167.d: "Берлін видав офіційну відповідь на наш ультиматум. Імперський уряд погоджується обмежити підводну війну проти цивільних суден і визнає загибель американців на борту «Lusitania». Президент [USA.GetLeader] вітає цю ноту як дипломатичний успіх, хоча багато хто в Конгресі залишається скептичним. Наразі напруга зменшується, але довіра до намірів Німеччини залишається хиткою." # (@!)
+  ww1_germanrework.167.a: "Вони не мусять робити це знову, ніколи!" # (@!)
+  USA_might_join_if_USW_is_at_level_2: "§R§Y[USA.GetFlag][USA.GetName]§! може приєднатися до Антанти, якщо ми не обмежимо нашу необмежену підводну війну!§!"
 
-  ww1_germanrework.168.t: "Germany Rejects Our Demands"
-  ww1_germanrework.168.d: "The German government has refused to moderate its submarine campaign and dismissed our protest over the Lusitania. This defiance, paired with continued attacks on civilian shipping, leaves us with no alternative. Today, President [USA.GetLeader] addresses Congress to request a declaration of war. The United States will not stand idle while its citizens are killed and its honor insulted. America marches to war."
-  ww1_germanrework.168.a: "The world must be made safe for democracy."
+  ww1_germanrework.168.t: "Німеччина відхиляє наші вимоги"
+  ww1_germanrework.168.d: "Німецький уряд відмовився пом'якшити свою кампанію проти підводних човнів і відхилив наш протест щодо «Lusitania». Ця непокора, у поєднанні з постійними атаками на цивільні судна, не залишає нам альтернативи. Сьогодні президент [USA.GetLeader] звернеться до Конгресу з проханням оголосити війну. Сполучені Штати не будуть стояти осторонь, коли вбивають їхніх громадян і ображають їхню честь. Америка йде на війну." # (@!)
+  ww1_germanrework.168.a: "Світ необїідно зробити безпечним для демократії." # (&+)
 
-  ww1_germanrework.169.t: "United States Declares War on Germany"
-  ww1_germanrework.169.d: "In a historic turn, the United States has formally declared war on the German Empire. The decision follows mounting tensions over Germany’s campaign of unrestricted submarine warfare, most notably the sinking of the British liner Lusitania, which resulted in the deaths of over 100 American citizens. Despite prior diplomatic efforts, Berlin refused to scale back its operations. In Washington, President [USA.GetLeader] denounced the attacks as an affront to international law and human decency."
-  ww1_germanrework.169.a: "The war becomes truly global."
+  ww1_germanrework.169.t: "Сполучені Штати оголошують війну Німеччині"
+  ww1_germanrework.169.d: "В історичному повороті подій Сполучені Штати офіційно оголосили війну Німецькій імперії. Це рішення було прийнято на тлі зростаючої напруженості через кампанію Німеччини з необмеженої підводної війни, зокрема через потоплення британського лайнера «Lusitania», в результаті якого загинуло понад 100 американських громадян. Незважаючи на попередні дипломатичні зусилля, Берлін відмовився скоротити свої операції. У Вашинґтоні президент [USA.GetLeader] засудив ці атаки як порушення міжнародного права та людської гідності." # (@!)
+  ww1_germanrework.169.a: "Війна ставє воістину світовою."
 
-  ww1_germanrework.170.t: "Convoy Sunk by German Submarines"
-  ww1_germanrework.170.d: "Despite our warnings after the Lusitania was sunk, the German authorities seem to have resumed their unrestricted submarine warfare doctrine, which has caused the deaths of hundreds of Americans in the last few days. The vessels were all civilian ships transporting food to France and the UK, making them easy prey. In heart and mind, Germany is now a deadly enemy of the American people."
-  ww1_germanrework.170.a: "Its time to align with the. Entente"
-  GER_send_zimmermann_telegram: "Send Zimmermann Telegram to [FROM.GetName]"
-  GER_date_naval_report: "[date.GetMonth] Naval Report"
-  GER_date_naval_report_desc: "Each month, we receive a full report on the results of our submarine warfare. We must be careful not to destroy neutral convoys, even if it seems incompatible with our current doctrine..."
-  GER_intensification_of_submarine_warfare_tooltip: "§RIncreases the chances of sinking a neutral ship, especially an American one.§!"
-  GER_reduction_of_submarine_warfare_tt: "§GReduces the chances of sinking a neutral ship, especially an American one.§!"
+  ww1_germanrework.170.t: "Конвой затоплений німецькими підводними човнами" # (&+)?
+  ww1_germanrework.170.d: "Незважаючи на наші попередження після потоплення «Lusitania», німецька влада, схоже, відновила свою політику необмеженої підводної війни, що призвело до загибелі сотень американців за останні кілька днів. Усі ці судна були цивільними кораблями, що перевозили продовольство до Франції та Великої Британії, що робило їх легкою здобиччю. У серцях і думках американського народу Німеччина тепер є смертельним ворогом." # (@!)
+  ww1_germanrework.170.a: "Настав час зблизитися з Антантою."
+  GER_send_zimmermann_telegram: "Надіслати телеграму Циммермана державі [FROM.GetName]"
+  GER_date_naval_report: "Звіт про флот від [date.GetMonth]"
+  GER_date_naval_report_desc: "Щомісяця ми отримуємо повний звіт про результати наших підводних бойових дій. Ми мусимо бути обережними, щоби не знищити нейтральні конвої, навіть якщо це здається несумісним із нашою поточною доктриною..." # (@!)
+  GER_intensification_of_submarine_warfare_tooltip: "§RЗбільшує ймовірність затоплення нейтрального корабля, особливо американського.§!"
+  GER_reduction_of_submarine_warfare_tt: "§GЗменшує ймовірність затоплення нейтрального корабля, особливо американського.§!"
 
-  GER_unrestricted_submarine_warfare_idea: "Loosened Engagement Protocols"
-  GER_unrestricted_submarine_warfare_idea2: "Aggressive Submarine Warfare"
-  GER_unrestricted_submarine_warfare_idea3: "Unrestricted Submarine Warfare"
-  GER_unrestricted_submarine_warfare_idea4: "Unrestricted Submarine Warfare"
+  GER_unrestricted_submarine_warfare_idea: "Послаблені протоколи ведення бою" # (&)
+  GER_unrestricted_submarine_warfare_idea2: "Агресивна підводна війна"
+  GER_unrestricted_submarine_warfare_idea3: "Необмежена підводна війна"
+  GER_unrestricted_submarine_warfare_idea4: "Необмежена підводна війна"
 
   ww1_german_revolution.2.t: "Ebert Named Chancellor Amidst Chaos"
   ww1_german_revolution.2.d: "The revolution that began in Kiel has swept across Germany. In Berlin, massive demonstrations have paralyzed the capital. Barracks have been thrown open, arms have been distributed, and revolutionary soldiers now march beside striking workers. On [?global.date.GetDateStringNoHourLong], the Kaiser's authority vanished. Workers' and Soldiers' Councils (Arbeiter- und Soldatenräte) have seized government buildings, telegraph stations, and transport hubs. The imperial administration has collapsed. The chancellor has resigned, and power has passed - not to a parliament, but to the councils. In the streets, red flags fly.\n\nIn this dire situation, Chancellor von Baden has handed the chancellorship to Friedrich Ebert of the SPD. What comes next is unclear, but Germany is now a republic in everything but name."
