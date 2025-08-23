@@ -9479,9 +9479,9 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  SAU_nejd_hejaz_Caravan: "§8Nejd-Hejaz§!"
  SAU_nejd_egypt_Caravan: "§8Хіджаз-Єгипет§!"
  SAU_nejd_kuwait_Caravan: "§8Ihsa'a-Kuwait§!"
-### КРИЗИ ###
  SAU_Arabian_map_category_name: "Показує важливі зупинки на Транссахарському торговому шляху"
 
+### КРИЗИ ###
  agadir_crisis_end: "Можливість втрутитися спливе."
  GER_agadir_crisis_opportunity: "Таймер можливості в Аґадірській кризі" # (&+)
  agadir_crisis_name_wargoal: "Аґадірська криза"
