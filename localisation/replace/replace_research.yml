@@ -473,7 +473,7 @@
  interwar_synthetisation:0 "Interwar Nitrogen Synthetisation"
  interwar_synthetisation_desc:0 "Improvements has been made in the quality of the synthetical Nitrogen process, thanks to Haber-Bosch method of production."
 
- UNLOCK_TRAINS:0 "Unlock §YCivilian Train§! Research."
+ UNLOCK_TRAINS: "Відмикає дослідження §Yцивільного поїзда§!."
  electric_railway:0 "Electric Railway"
  electric_railway_desc:0 "Railway electrification is the use of electric power for the propulsion of rail transport. Electricity is typically generated in large and relatively efficient generating stations, transmitted to the railway network and distributed to the trains."
  haber_process:0 "Haber Process"
