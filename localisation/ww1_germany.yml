@@ -949,15 +949,15 @@
   ww1_german_revolution.2.a: "Чи може Фрідрих урятуати Німеччину?"
 
   ww1_german_revolution.3.t: "Поміж соціалістів наростає напруга"
-  ww1_german_revolution.3.d: "Хоча монархія впала, Німеччина далека від єдності. Тимчасовий уряд — нестійка коаліція між Соціал-демократичною партією більшості (СДПБ) та Незалежною соціал-демократичною партією (НСДП) — стикається з дедалі більшим тиском з боку радикальної лівиці. Ліга Спартака, очолювана Карлом Лібкнехтом і Розою Люксембурґ, закликає до створення повної робітничої республіки за радянським зразком. Їхня риторика стає дедалі більш войовничою.\n\nЛідери СДПБ, включаючи канцлера Еберта, побоюються, що спартакісти можуть спробувати захопити владу силою. НСДП, хоча і більш прихильна до них, також стурбована можливістю збройного повстання, яке може занурити країну в громадянську війну. У Берліні та інших промислових центрах напруга досягла критичної точки. Революційні ради стають все більш рішучими, а збройні підрозділи фрайкорів починають перегрупуватися. Конфронтація здається неминучою, якщо не буде знайдено компромісного рішення." # (@!)
+  ww1_german_revolution.3.d: "Хоча монархія впала, Німеччина далека від єдності. Тимчасовий уряд — нестійка коаліція між Соціал-демократичною партією більшості (СДПБ) та Незалежною соціал-демократичною партією (НСДП) — стикається з дедалі більшим тиском з боку радикальної лівиці. Ліга Спартака, очолювана Карлом Лібкнехтом і Розою Люксембурґ, закликає до створення повної робітничої республіки за радянським зразком. Їхня риторика стає дедалі більш войовничою.\n\nЛідери СДПБ, включаючи канцлера Еберта, побоюються, що спартаківці можуть спробувати захопити владу силою. НСДП, хоча і більш прихильна до них, також стурбована можливістю збройного повстання, яке може занурити країну в громадянську війну. У Берліні та інших промислових центрах напруга досягла критичної точки. Революційні ради стають все більш рішучими, а збройні підрозділи фрайкорів починають перегрупуватися. Конфронтація здається неминучою, якщо не буде знайдено компромісного рішення." # (@!)
   ww1_german_revolution.3.a: "Ми мусимо бути обережними."
-  GER_spartakist_revolt_timer: "Заколот спартакістів"
+  GER_spartakist_revolt_timer: "Заколот спартаківців"
 
   GER_scorned_army: "Зневажена армія"
   GER_aftermath_of_the_zabern_affair: "Наслідки Цабернської справи"
 
   ww1_german_revolution.4.t: "Укладено пакт Еберта–Ґрьонера"
-  ww1_german_revolution.4.d: "Під час таємної телефонної розмови ввечері [?global.date.GetDateStringNoHourLong] Фрідрих Еберт, глава нового німецького уряду, досяг вирішальної домовленості з генералом Вільгельмом Ґрьонером з Вищого командування армії. \n\nҐрьонер пообіцяв лояльність армії республіці за умови, що Еберт зобов'яжеться підтримувати порядок і боротися з революцією більшовицького типу. Натомість Еберт визнає авторитет офіцерського корпусу та забезпечить безперервність військової ієрархії.\n\nЦей пакт, хоч і таємний, є глибоким компромісом: республіка, яку захищають імперські генерали, та соціалістичний лідер, який покладається на монархістських офіцерів для придушення радикальних робітників. Для Еберта мета є чіткою: революція не повинна йти далі. Краще республіка, яку підтримує армія, ніж хаос, який принесуть спартакісти." # (@!)
+  ww1_german_revolution.4.d: "Під час таємної телефонної розмови ввечері [?global.date.GetDateStringNoHourLong] Фрідрих Еберт, глава нового німецького уряду, досяг вирішальної домовленості з генералом Вільгельмом Ґрьонером з Вищого командування армії. \n\nҐрьонер пообіцяв лояльність армії республіці за умови, що Еберт зобов'яжеться підтримувати порядок і боротися з революцією більшовицького типу. Натомість Еберт визнає авторитет офіцерського корпусу та забезпечить безперервність військової ієрархії.\n\nЦей пакт, хоч і таємний, є глибоким компромісом: республіка, яку захищають імперські генерали, та соціалістичний лідер, який покладається на монархістських офіцерів для придушення радикальних робітників. Для Еберта мета є чіткою: революція не повинна йти далі. Краще республіка, яку підтримує армія, ніж хаос, який принесуть спартаківці." # (@!)
   ww1_german_revolution.4.a: "Порядок необхідно зберегти — навіть такою ціною." # (&+)?
 
   #ww1_german_revolution.5.t: "The Spartacist Uprising Crushed"
@@ -988,59 +988,59 @@
   ww1_german_revolution.16.d: "Під час революції робітнича та солдатська рада усунула сенат Бремена. Запевнивши у збереженні приватної власності та заручившись підтримкою існуючої адміністративної бюрократії, рада оголосила вибори, в яких могли брати участь лише члени лівих партій та профспілок, що їх підтримували: більшість соціал-демократів, соціал-демократи більшості та новостворена Комуністична партія Німеччини. Чотири дні по тому більшість СДПБ-КПН проголосила Бременську республіку рад." # (@!)
   ww1_german_revolution.16.a: "Коли ж вони збагнуть..."
 
-  ww1_german_revolution.9.t: "The Army Falls Apart"
-  ww1_german_revolution.9.d: "The revolution has not only toppled the monarchy, it has unraveled the very fabric of the army. Across the country, soldiers are abandoning their posts en masse and heading home—many still armed, many disillusioned, some radicalized. Entire regiments dissolve overnight, while barracks fall under the control of local soldiers’ councils.\n\nThe government, itself newly formed and fragile, has little authority to manage the chaos. The war is over, but no peace has been signed. Until then, there is no formal end, only a dangerous vacuum of discipline and power."
-  ww1_german_revolution.9.a: "We must try to hold the center… somehow."
+  ww1_german_revolution.9.t: "Армія розвалюється ан частини"
+  ww1_german_revolution.9.d: "Революція не лише повалила монархію, вона розхитала саму структуру армії. По всій країні солдати масово залишають свої пости і повертаються додому — багато хто все ще зі зброєю, багато хто розчарований, деякі радикально налаштовані. Цілі полки розпадаються за одну ніч, а казарми переходять під контроль місцевих солдатських рад.\n\nУряд, сам нещодавно сформований і крихкий, має мало повноважень, щоб керувати хаосом. Війна закінчилася, але мир не був підписаний. До тих пір не існує формального кінця, лише небезпечний вакуум дисципліни і влади." # (@!)
+  ww1_german_revolution.9.a: "Ми мусимо спробувати втримати центр... якимось чином."
 
-  ww1_german_revolution.10.t: "Demobilization continue in Chaos"
-  ww1_german_revolution.10.d: "Despite attempts by the Ebert government to control the demobilisation process, the situation remains chaotic. Train stations are flooded with returning troops, often still armed and leaderless. Desertions continue, and local councils are powerless to enforce order.\n\nMany veterans have begun to gravitate toward emerging paramilitary formations. Groups such as the Freikorps, the Stahlhelm, the Wehrwolf and the Einwohnerwehr offer structure, pay, and a sense of purpose amid the postwar confusion. While some see them as a necessary counterweight to revolutionary forces, others fear they may become a threat of their own."
-  ww1_german_revolution.10.a: "A real milita army"
+  ww1_german_revolution.10.t: "Демобілізація продовжується в хаосі"
+  ww1_german_revolution.10.d: "Незважаючи на спроби уряду Еберта контролювати процес демобілізації, ситуація залишається хаотичною. Залізничні вокзали переповнені солдатами, що повертаються, часто все ще озброєними і без командирів. Дезертирство триває, а місцеві ради безсилі забезпечити порядок.\n\nБагато ветеранів почали тяжіти до нових воєнізованих формувань. Такі групи, як «Фрайкор», «Штальгельм», «Вервольф» і «Айнвонервер», пропонують структуру, платню і відчуття мети на тлі післявоєнної плутанини. Дехто бачить у них необхідну противагу революційним силам, інші побоюються, що вони можуть стати власною загрозою." # (@!)
+  ww1_german_revolution.10.a: "Справжня ополченська армія."
 
-  ww1_german_revolution.17.t: "Kurt Eisner Assassinated!"
-  ww1_german_revolution.17.d: "In the midst of the German Revolution, [BAY.GetNameDef] was established after the overthrow of the monarchy. However, the socialist ruling party was not supported by the majority of the population, and strikes and protests were widespread. As a result, President Kurt Eisner lost the election and was shot dead by a right-wing nationalist on his way to parliament to resign.\nIn his absence, the Soviet and socialists formed a parliamentary coalition government, but within a month it was attacked by communists and anarchists, and the regime collapsed. The first chief of state to come to power was Ernst Toller."
-  ww1_german_revolution.17.a: "Too much is happening to understand..."
-  ww1_german_revolution.14.t: "Spartakist Uprising Put Down"
-  ww1_german_revolution.14.d: "Freikorps units from the area around Berlin moved into the city, as did the Guards Cavalry Division. Berlin newspapers hailed the troops' entry at the end of the fighting as the restoration of "peace and order". The military occupation was followed by many instances of violence committed by right-wing troops, far exceeding previous acts of violence by some from the left."
-  ww1_german_revolution.14.a: "Had to be done."
-  ww1_german_revolution.14.b: "The Spartakists successfully flee to Munich!"
+  ww1_german_revolution.17.t: "Курта Айснера вбито!"
+  ww1_german_revolution.17.d: "У розпал Німецької революції державу [BAY.GetNameDef] було створено після повалення монархії. Однак соціалістичну правлячу партію не підтримала більшість населення, а страйки та протести були широко розповсюджені. В результаті президент Курт Айснер програв вибори і був застрелений правим націоналістом по дорозі до парламенту, щоб подати у відставку.\nЗа його відсутності рада та соціалісти сформували парламентський коаліційний уряд, але вже через місяць він зазнав нападу комуністів і анархістів, і режим впав. Першим главою держави, який прийшов до влади, став Ернст Толлер." # (@!)
+  ww1_german_revolution.17.a: "Стається забагато всього, щоби збагнути..." # (&+)
+  ww1_german_revolution.14.t: "Заколот спартаківців придушено"
+  ww1_german_revolution.14.d: "Підрозділи Фрайкору з околиць Берліна увійшли до міста, так само як і гвардійська кавалерійська дивізія. Берлінські газети вітали введення військ наприкінці бойових дій як відновлення «миру і порядку». Військова окупація супроводжувалася численними випадками насильства з боку правих військ, що значно перевищували попередні акти насильства з боку деяких лівих сил." # (@!)
+  ww1_german_revolution.14.a: "Це потрібно було вчинити."
+  ww1_german_revolution.14.b: "Спартаківці успішно втікають до Мюнхена!"
 
-  ww1_german_revolution.18.t: "Annexation of Bavaria"
-  ww1_german_revolution.18.d: "During the German Revolution, Bavaria had been out of the control of the central government in Berlin for some time, but it was finally possible to clean up the mess and re-establish the rightful administration in Bavaria. The Freikoprs deserve a great deal of credit for this."
-  ww1_german_revolution.18.d_alt: "During the German revolution, Bavaria had been out of the control of the central government in Berlin for some time, but since we all have the same goal, which is the establishment of the socialist state for the sake of the workers and the people, we have now finally agreed on integration into the unified state."
-  freikorps.12.a: "Bavaria returns to the fatherland."
+  ww1_german_revolution.18.t: "Анексія Баварії"
+  ww1_german_revolution.18.d: "Під час Німецької революції Баварія на деякий час вийшла з-під контролю центрального уряду в Берліні, але нарешті вдалося навести лад і відновити законну адміністрацію в Баварії. Фрайкори заслуговують на велику похвалу за це." # (@!)
+  ww1_german_revolution.18.d_alt: "Під час німецької революції Баварія на деякий час вийшла з-під контролю центрального уряду в Берліні, але оскільки ми всі маємо одну ціль — створення соціалістичної держави на благо робітників і народу, ми нарешті домовилися про інтеграцію в об'єднану державу." # (@!)
+  freikorps.12.a: "Баварія повертається до батьківщини."
 
-GER_MSPD_USPD_alliance: "Council of the People's Deputies"
-GER_ebert_groener_pact: "Ebert-Groener Pact"
-tt_GER_ebert_groener_pact: "The §YGerman Army§! will intervene in our favor if a §tBolshevik-style Revolution§! occurs!"
-GER_prospone_snap_elections: "Postpone Snap Elections"
-GER_election_1919: "[GetYear] Snap Elections"
-tt_GER_new_constitution: "§YDraft a new Constitution§! and start §YNew Elections for the Reichstag§!."
-GER_republic_of_weimar: "The Weimar Assembly"
-GER_crush_communist_councils: "Crush Communist Councils"
-effect_if_success: "Effect if successful:\n"
-effect_if_completed: "\n§YEffects when completed:§!\n"
-effect_when_gone: "\n§YEffects upon removal:§!\n"
-GER_idea_widespread_communist_sentiment: "Widespread Communist Sentiment"
-GER_new_constitution: "The Weimar Constitution"
-GER_investigate_far_right_parties: "Investigate Far-Right Parties"
+GER_MSPD_USPD_alliance: "Рада народних уповноважених"
+GER_ebert_groener_pact: "Пакт Еберта–Ґрьонера"
+tt_GER_ebert_groener_pact: "У разі §tбільшовицько-подібної революції§! §YНімецька армія§! втрутиться на нашому боці!" # (&+)
+GER_prospone_snap_elections: "Перенести дострокові вибори"
+GER_election_1919: "Дострокові вибори [GetYear] року"
+tt_GER_new_constitution: "Буде розроблено §Yнову конституцію§! та почато §Yнові вибори до Райхстаґу§!." # (&+)
+GER_republic_of_weimar: "Ваймарські збори"
+GER_crush_communist_councils: "Розбити комуністичні ради"
+effect_if_success: "Ефект у разу успіху:\n"
+effect_if_completed: "\n§YЕфекти після виконання:§!\n"
+effect_when_gone: "\n§YЕфекти після видалення:§!\n"
+GER_idea_widespread_communist_sentiment: "Поширені комуністичні настрої"
+GER_new_constitution: "Ваймарська конституція"
+GER_investigate_far_right_parties: "Розслідувати ультраправі партії"
 GER_investigate_far_right_parties_desc: ""
 
-GER_approve_new_constition: "Approve New Constitution"
-GER_march_reforms_completed: "Constitutional Reforms Completed"
-GER_trade_deal_with_USA: "Trade Deal with USA"
-GER_trade_deal_with_USA_desc: "To eliminate any risk of food insecurity, we could establish a trade pact with the United States. Hopefully, as an isolationist country, they will accept such a proposal..."
+GER_approve_new_constition: "Ухвалити нову конституцію"
+GER_march_reforms_completed: "Конституційні реформи завершено"
+GER_trade_deal_with_USA: "Торговельна угода зі США"
+GER_trade_deal_with_USA_desc: "Щоб усунути всякий ризик нестачі продовольства, ми могли б укласти торговельний пакт зі Сполученими Штатами. Будемо сподіватися, що вони, як країна-ізоляціоніст, приймуть таку пропозицію..." # (@!)
 
-GER_OHL_takeover: "OHL Takeover"
-GER_OHL_takeover_desc: "Chancellor Bethmann Hollweg's political failures are working against him, and the German general staff is growing impatient with the lack of results from the coalition's liberal program."
+GER_OHL_takeover: "Захоплення влади ВКА" # (&+)
+GER_OHL_takeover_desc: "Політичні невдачі канцлера Бетмана-Гольвеґа працюють проти нього, а німецький генеральний штаб втрачає терпіння через відсутність результатів від ліберальної програми коаліції." # (@!)
 
-tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag][28.GetName]-[1107.GetName]§! Status will be discussed."
+tt_question_of_alsace_lorraine: "Після питання Бельгії буде обговорено статус області §Y[ALS.GetFlag][28.GetName]–[1107.GetName]§!."
 
 ### РІШЕННЯ ###
- GER_call_mission_to_gain_federal_state_influence:0 "The given state will request our special attention through a mission. If we fulfill their demands, they will grant us influence points."
+ GER_call_mission_to_gain_federal_state_influence: "Даний штат попросить від нас особливу увагу шляхом завдання. Якщо ми виконаємо його вимоги, він дасть нам бали впливу." # (&+)
  GER_fleet_in_being_mission: "Флот у бутті"
  GER_smarter_navy_mission: "Розумніший флот"
  GER_national_debt_mission: "Зростаючий борг"
- GER_major_deficit_spending:0 "Major Deficit Spending"
+ GER_major_deficit_spending: "Великі дефіцитні видатки" # (&?)
  GER_stricten_rationing: "Збільшити обмеження на нормування"
  GER_schliffen: "План Шліффена"
  GER_schliffen_desc: "План Шліффена окреслює вторгнення в увесь Бенілюкс, включно з Нідерландами, з ціллю створити величезний фронт, підхожий для вторгнення у Францію." # (&+)
@@ -1048,18 +1048,18 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_ostplan_offensive: "Офензива Ostplan-у"
  GER_price_ceilling_on_food: "Цінова стеля на продукти харчування"
  GER_betriebsausschusse: "Betriebsausschüsse"
- GER_betriebsausschusse_desc:0 "A part of the war-time law 'Hilfsdienstgesetz' creating work comittees in all companies with more than 50 employees."
- GER_intensification_of_submarine_warfare:0 "Intensification of Submarine Warfare"
+ GER_betriebsausschusse_desc: "Частина закону воєнного часу «Hilfsdienstgesetz», яка створює робочі комітети в усіх компаніях із понад 50 працівниками." # (@)
+ GER_intensification_of_submarine_warfare: "Інтенсифікація підводної війни" # (@)
  GER_reduction_of_submarine_warfare: "Скорочення підводної війни"
  GER_seize_indochina: "Захопити французький Індокитай"
  GER_seize_french_pacific_islands: "Захопити французькі острови в Тихому океані"
 
  ## Завдання
-  GER_coalition_lifespan:0 "Coalition's Lifespan"
-  GER_1912_budget_mission:0 "Rush for a New Budget"
-  GER_frankfurt_university_funding:0 "Frankfurt University Funding Project"
-  GER_frankfurt_university_funding_desc:0 "The Frankfurt university project aims to ressurect the Goethe university, founded in 1484. The first graduation should be in late 1914."
-  GER_alfred_von_tirpitz_resignation_mission:0 "Alfred von Tirpitz Agites for Unrestricted Submarine Warfare"
+  GER_coalition_lifespan: "Тривалість життя коаліції" # (&)
+  GER_1912_budget_mission: "Поспіх за новим бюджетом" # (@)
+  GER_frankfurt_university_funding: "Проєкт фінансування Франкфуртського університету" # (&+)?
+  GER_frankfurt_university_funding_desc: "Університетський проєкт у Франкфурті має намір відродити заснований у 1484 році університет імені Ґьоте. Перший випуск має статися в пізньому 1914 році." # (&+)?
+  GER_alfred_von_tirpitz_resignation_mission: "Альфред фон Тірпіц виступає за необмежену підводну війну"
 
 ### BRITISH DIPLOMATIC MALUS ###
  GER_haldane_mission_negative: "Місія Голдейна провалилася"
@@ -1076,36 +1076,36 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
 
 ### ЕКОНОМІЧНІ ДІЇ ###
  GER_economic_actions: "Економічні дії"
- GER_finance_berlin_military_complex:0 "Finance Berlin's Military Complex"
- GER_finance_rhine_military_complex:0 "Finance the Rhine's Military Complex"
- GER_finance_saarland_military_complex:0 "Finance the Saarland's Military Complex"
+ GER_finance_berlin_military_complex: "Профінансувати Берлінський військовий комплекс"
+ GER_finance_rhine_military_complex: "Профінансувати Райнський військовий комплекс"
+ GER_finance_saarland_military_complex: "Профінансувати Саарський військовий комплекс"
 
 ### ВІЙСЬКОВЕ БУДІВНИЦТВО ###
  GER_military_constructions: "Військові будівельні проєкти"
- GER_construct_fortifications_in_konisburg:0 "Construct Fortifications in Königsberg"
- GER_re_establish_fortifications_in_posen:0 "Re-establish Fortifications in Posen"
- GER_expand_fortifications_in_allestein:0 "Expand Fortifications in Allenstein"
- GER_colmar_and_mulhausen_fortifications:0 "Expand Fortifications in Mülhausen and Colmar"
- GER_strasburg_extended_defense_network:0 "Construct the Straßburg Defensive Network"
- GER_metz_fortified_area:0 "Reinforce the Metz Fortified Area"
+ GER_construct_fortifications_in_konisburg: "Спорудити фортифікації в Кьоніґсберґу"
+ GER_re_establish_fortifications_in_posen: "Відновити фортифікації в Позені" # (&?)
+ GER_expand_fortifications_in_allestein: "Розширити фортифікації в Алленштайні"
+ GER_colmar_and_mulhausen_fortifications: "Розширити фортифікації в Мюльгаузені та Кольмарі"
+ GER_strasburg_extended_defense_network: "Спорудити штрасбурзьку оборонну мережу" # (&?)
+ GER_metz_fortified_area: "Зміцнити мецьку укріплену зону" # (&?)
 
 ### KRIEGSROHSTOFFABTEILUNG ###
  GER_kra_extraction_drive: "Пріоритизація державних ресурсів (ВідВС)"
  GER_kriegsrohfstoffabteilung_category: "Kriegsrohstoffabteilung"
- GER_expand_erzgebirge_tungsten:0 "Develop Erzgebirge Tungsten Reserves"
- GER_exploit_lorraine_iron:0 "Exploit Lothringen Iron Ore Reserves"
- GER_maximize_silesian_resources:0 "Maximize Silesian Resource Output"
- GER_streamline_rhineland_logistics:0 "Streamline Rhineland Logistics"
- GER_saar_resource_mobilisation:0 "Saarland Resource Mobilisation"
- GER_expand_hamburg_refineries:0 "Expand Hamburg Refineries"
+ GER_expand_erzgebirge_tungsten: "Розробити поклади вольфраму в Рудних горах"
+ GER_exploit_lorraine_iron: "Використати поклади в Лотринґені"
+ GER_maximize_silesian_resources: "Збільшити видобуток ресурсів у Сілезії" # (&?)
+ GER_streamline_rhineland_logistics: "Упорядкувати райнландську логістику" # (&?)
+ GER_saar_resource_mobilisation: "Мобілізація ресурсів Саарської землі"
+ GER_expand_hamburg_refineries: "Розширити переробні заводи в Гамбурзі"
 
 ### АФРИКАНСЬКІ ЗАЛІЗНИЦІ ###
  GER_african_railways: "Deutsche Kolonialbahnen"
- GER_extend_usambara_railway:0 "Extend the Usambarabahn"
- GER_build_the_ruandabahn:0 "Build the Ruandabahn"
- GER_build_the_kilwa_wiedhafen_bahn:0 "Connect Kilwa and Wiedhafen"
- GER_finish_manenguba_bahn:0 "Finish the Manenguba-Bahn"
- GER_build_hinterlandbahn:0 "Lay down the Hinterlandbahn"
+ GER_extend_usambara_railway: "Продовжити Usambarabahn"
+ GER_build_the_ruandabahn: "Збудувати Ruandabahn"
+ GER_build_the_kilwa_wiedhafen_bahn: "Сполучити Кілву та Відгафен"
+ GER_finish_manenguba_bahn: "Завершити Manenguba-Bahn"
+ GER_build_hinterlandbahn: "Закласти Hinterlandbahn"
 
 ### СТРІМКА УРБАНІЗАЦІЯ ###
  GER_effects_of_rapid_urbanization: "Ефекти стрімкої урбанізації"
@@ -1118,7 +1118,7 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
 
 ### ПРОЄКТ «МІТТЕЛЬАФРІКА» ###
  GER_mittelafrika_project: "Проєкт «Міттельафріка»"
- GER_mittelafrika_project_desc:0 "With the war concluded, we can finally pursue the ambitious 'Mittelafrika' project, forging a contiguous colonial domain across Central Africa. By uniting our territories, we can create an economic powerhouse that will secure immense resources and cement German prestige."
+ GER_mittelafrika_project_desc: "Після завершення війни ми нарешті зможемо реалізувати амбітний проект «Міттельафріка» — створити суцільні колоніальні володіння в Центральній Африці. Об'єднавши наші території, ми зможемо створити економічну потугу, яка забезпечить величезні ресурси та зміцнить німецький престиж." # (@!)
  GER_seize_madagascar: "Захопити Мадаґаскар"
  GER_seize_djibouti: "Захопити Джібуті"
  GER_seize_dahomey: "Захопити Дагомею"
@@ -1134,13 +1134,13 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_employment_agency_act_reich: "Закон про агентство зайнятості" # інак. службу?
   GER_law_on_rustungswende_bund: "Закон про Rüstungswende"
   GER_law_on_rustungswende_reich: "Закон про Rüstungswende"
-  GER_first_army_law_cen_bund:0 "First Army Expansion Act"
-  GER_first_army_law_cen_reich:0 "First Army Expansion Act"
-  GER_second_army_law_cen_bund:0 "Second Army Expansion Act"
-  GER_second_army_law_cen_reich:0 "Second Army Expansion Act"
+  GER_first_army_law_cen_bund: "Перший закон про розширення армії" # (&)
+  GER_first_army_law_cen_reich: "Перший закон про розширення армії" # (&)
+  GER_second_army_law_cen_bund: "Другий закон про розширення армії" # (&)
+  GER_second_army_law_cen_reich: "Другий закон про розширення армії" # (&)
   # Reichsversicherungsordnung
-  GER_health_insurance_act_bund:0 "Imperial Insurance Code"
-  GER_health_insurance_act_reich:0 "Imperial Insurance Code"
+  GER_health_insurance_act_bund: "Імперський порядок страхування" # (&?)
+  GER_health_insurance_act_reich: "Імперський порядок страхування" # (&?)
   # Hausarbeitsgesetz
   GER_hausarbeitsgesetz_reich: "Закон про вітчизняну працю" # (&)
   GER_hausarbeitsgesetz_bund: "Закон про вітчизняну працю" # (&)
@@ -1150,19 +1150,19 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_limited_army_bill_law_bund: "Закон про обмежену армію"
 
  ## Ліваки
-  GER_law_on_hollwegs_national_pension_bund:0 "Bethmann Hollweg's National Pension Act"
-  GER_law_on_hollwegs_national_pension_reich:0 "Bethmann Hollweg's National Pension Act"
+  GER_law_on_hollwegs_national_pension_bund: "Закон про державну пенсію Бетмана-Гольвеґа" # (&)
+  GER_law_on_hollwegs_national_pension_reich: "Закон про державну пенсію Бетмана-Гольвеґа" # (&)
   # Reichs- und Staatsangehörigkeitsgesetz
-  GER_law_on_the_reich_and_nationality_left_bund:0 "Imperial and State Citizenship Act"
-  GER_law_on_the_reich_and_nationality_left_reich:0 "Imperial and State Citizenship Act"
+  GER_law_on_the_reich_and_nationality_left_bund: "Закон про імперське та державне громадянство"
+  GER_law_on_the_reich_and_nationality_left_reich: "Закон про імперське та державне громадянство"
   # Besitzsteuergesetz
-  GER_wealth_tax_law_bund:0 "Wealth Tax Law"
-  GER_wealth_tax_law_reich:0 "Wealth Tax Law"
+  GER_wealth_tax_law_bund: "Закон про податок на майно"
+  GER_wealth_tax_law_reich: "Закон про податок на майно"
   GER_1912_liberal_budget_law_bund: "Закон про новий бюджет"
   GER_1912_liberal_budget_law_reich: "Закон про новий бюджет"
   GER_prussian_electoral_reform: "Прусська виборча реформа"
   GER_prussian_electoral_reform_bund: "Прусська виборча реформа"
-  GER_prussian_electoral_reform_effect_tt:0 "@PRE §Y[PRE.GetName]§! will have to be §Ynegotiated with§! for their vote in the §Y[GetBundesratName]§!!"
+  GER_prussian_electoral_reform_effect_tt: "Із державою @PRE §Y[PRE.GetName]§! доведеться §Yдомовитися§! про їхній голос у: §Y[GetBundesratName]§!!" # (&+)
 
  ## Праваки
   GER_law_on_discrimitory_national_pension_bund: "Закон про дискримінаційну державну пенсію" # (&)
@@ -1175,8 +1175,8 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_fith_fleet_act_bund: "Закон про п'ятий флот"
   GER_fith_fleet_act_reich: "Закон про п'ятий флот"
   GER_fith_fleet_act_reich_force: "Нав'язати Закон про п'ятий флот"
-  GER_opposition_to_naval_law:0 "The §YReichstag§! may oppose this naval expansion, but its passage is §Rnon-negotiable§!. Should they refuse, the §YKaiser§! is prepared to use his executive authority to enact the law by decree."
-  GER_foce_law_passage:0 "§CForce the passage of the law by Imperial decree§!, bypassing any opposition from the §YReichstag§!."
+  GER_opposition_to_naval_law: "§YРайхстаґ§! може виступити проти такого розширення флоту, але його ухвалення §Rне підлягає обговоренню§!. Якщо він відмовить, §Yкайзер§! готовий використати свою виконавчу владу, щоб увести закон у дію указом." # (@!)
+  GER_foce_law_passage: "§CПримусити прийняти закон імператорським указом§!, оминувши всяку опозицію з боку §YРайхстаґу§!." # (@!)
   GER_law_on_polish_landholders_bund: "Закон про польських землевласників"
   GER_law_on_polish_landholders_reich: "Закон про польських землевласників"
   GER_1912_conservative_budget_law_bund: "Закон про новий бюджет"
@@ -1192,10 +1192,10 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_call_in_FROM: "Закликати: [getFederalStateNameFromStateId]"
 
 ### МІТКИ ###
- GER_ww1_state_munitions:0 "Investing in State Munitions"
- GER_1912_budget:0 "Attempting to Pass a New Budget"
- GER_taken_mob_of_morale_focus:0 " Has taken a §YMobilisation of Morale§! focus in the past §Y70 days§!."
- GER_hollweg_empowered:0 "Bethmann Hollweg has been empowered in the aftermath of the Zabern Affair"
+ GER_ww1_state_munitions: "Інвестиції в державні запаси боєприпасів" # (@!)
+ GER_1912_budget: "Ведеться спроба прийняти новий бюджет"
+ GER_taken_mob_of_morale_focus: " Фокус §YМобілізація бойового духу§! було звято за останні §Y70 днів§!" # (&+)
+ GER_hollweg_empowered: "Бетман-Гольвеґ отримав повноваження внаслідок Цабернської справи"
  GER_vote_in_bundesrat: "Голосує в §YБундесраті§!"
  ww1_haldane_mission_successful: "Місія Голдейна була успішна"
  GER_solf_appointed: "Було призначено Вільгельма Зольфа"
@@ -1282,12 +1282,12 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_allows_law_to_be_passed: "Цей закон стане доступний у §YБундесраті§!." # (&+)
  GER_reichstag_vote_in_progress: "У §YРайхстазі§! голосують щодо закону" # (&+)
 
- ww1_germany_pf:0 "State of the Military Increase by 5."
- ww1_germany_pt:0 "State of the Military Increase by 10."
- ww1_germany_pft:0 "State of the Military Increase by 15."
- ww1_germany_mf:0 "State of the Military Decreased by 5."
- ww1_germany_mt:0 "State of the Military Decreased by 10."
- ww1_germany_mft:0 "State of the Military Decreased by 15."
+ ww1_germany_pf: "Стан армії збільшиться на 5." # (?)
+ ww1_germany_pt: "Стан армії збільшиться на 10."
+ ww1_germany_pft: "Стан армії збільшиться на 15."
+ ww1_germany_mf: "Стан армії зменшиться на 5."
+ ww1_germany_mt: "Стан армії зменшиться на 10."
+ ww1_germany_mft: "Стан армії зменшиться на 15."
 
  ## Бали впливу
   GER_get_extra_influence_tt: "Додасть £influence_texticon §Y$INFLUENCE$§! до §Yдодаткових балів впливу§!."
@@ -1313,8 +1313,8 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_unlock_hardline: "Цей варіант відімкне §Oрадикальну§! гілку."
   GER_unlock_reformist: "Цей варіант відімкне §Cреформістську§! гілку."
   GER_new_east_prussia_tt: "\nЦі §Yнові східнопрусські§! області буде анексовано при заснуванні §RКоролівства Польського§!"
-  GER_blockade_broken_tt:0 "With the blockade broken, the negative effects of the §Rfamine§! will be §Yremoved§!."
-  GER_fire_current_chancellor_tt:0 "Current §Y$Chancellor$§! will be fired!"
+  GER_blockade_broken_tt: "Із проривом блокади негативні ефекти §Rголоду§! буде §Yвидалено§!."
+  GER_fire_current_chancellor_tt: "Поточного §Yканцлера§! буде звільнено!" # (&)
   GER_unlock_war_economy_focuses_tt: "§YВідмикає§! гілку фокусів §rвоєнної економіки§!."
 
  ## Підказки командування ВКА
@@ -1326,28 +1326,28 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_zental_abteilung.0tt: "Ідею §YКомандування ВКА§! буде змінено:\n$MODIFIER_MOBILIZATION_SPEED$: §G+5.00%§!\n$MODIFIER_PLANNING_SPEED$: §G+15.00%§!\n$MODIFIER_MAX_PLANNING$: §G+10.00%§!"
 
   GER_lessons_of_lorraine: "Уроки Лотаринґії"
-  GER_lessons_of_lorraine_desc:0 "The offensives against France allowed us to accumulate a wealth of experience in modern warfare. The importance of artillery and the preservation of soldiers are two essential components of victory."
+  GER_lessons_of_lorraine_desc: "Наступ на Францію дозволив нам накопичити багатий досвід ведення сучасної війни. Важливість артилерії та збереження солдатів – дві найважливіші складові перемоги." # (@!)
 
   GER_heavy_firepower_doctrine: "Доктрина важкої вогневої моці"
-  GER_heavy_firepower_doctrine_desc:0 "Massive infantry assaults will not be enough to break the enemy lines. The more concentrated use of artillery will give our soldiers the opportunity to prolong their offensives."
+  GER_heavy_firepower_doctrine_desc: "Масованих піхотних атак буде недостатньо для того, щоби прорвати оборону противника. Більш концентроване застосування артилерії дасть нашим воїнам можливість продовжити наступ." # (@!)
   GER_exasperation_among_general_staff: "Роздратування в генеральному штабі"
-  GER_exasperation_among_general_staff_desc:0 "Heeringen's plan has failed, and the OHL is growing impatient, especially after Schlieffen's plan was rejected. An inside job could well force him out in favor of Falkenhayn."
-  GER_swap_to_historical_planning:0 "§RAbandoning Heeringen's Stragtegy will switch this branch back to the §YSchliefllen Plan§! branch.§!"
+  GER_exasperation_among_general_staff_desc: "План Гееринґена провалився, і ВКА втрачає терпіння, особливо після того, як план Шліффена було відкинуто. Внутрішня операція цілком може витіснити його на користь Фалькенгайна." # (@!)
+  GER_swap_to_historical_planning: "§RВідхід від Гееринґенової стратегії перемкне цю гілку назад на гілку §Yплану Шліффена§!.§!"
   GER_the_great_war_of_the_sky: "Велика війна в небі"
-  GER_the_great_war_of_the_sky_desc:0 "The growing importance of aviation is forcing the Luftstreitkräfte to reconsider its strategy in the air, in particular by accelerating the development of small, easy-to-produce aircraft."
-  GER_abandon_zeppelin_doctrine: "Abandon the Zeppelin Doctrine"
-  GER_abandon_zeppelin_doctrine_desc:0 "Airships are too slow and expensive, and did not meet the expectations of the general staff. Innovations such as the Fokker and Albatros demonstrated that it was possible to build less expensive and more efficient aircraft."
+  GER_the_great_war_of_the_sky_desc: "Зростаюче значення авіації змушує Luftstreitkräfte переглянути свою стратегію в повітрі, зокрема, шляхом прискорення розробки невеликих, простих у виробництві літаків." # (@!)
+  GER_abandon_zeppelin_doctrine: "Покинути доктрину цепелінів"
+  GER_abandon_zeppelin_doctrine_desc: "Дирижаблі були надто повільними й дорогими, і не виправдали очікувань генерального штабу. Інновації, як у Fokker і Albatros, продемонстрували, що можна будувати дешевші та ефективніші літальні апарати." # (@!)
   GER_fighter_mass_production: "Масове виробництво винищувачів"
-  GER_fighter_mass_production_desc:0 "In order to combat enemy aircraft, we must focus our production on a few cheap aircraft, and completely abandon the production of parts for heavier or non-standardized equipment."
+  GER_fighter_mass_production_desc: "Щоби боротися з ворожою авіацією, ми мусимо зосередити виробництво на кількох дешевих літаках і повністю відмовитися від виробництва деталей для важчої або нестандартизованої техніки." # (@!)
   GER_heeringen_air_plan: "Авіаційний план Гееринґена" # (&)
   GER_new_air_doctrine: "Нова повітряна доктрина"
   GER_modest_conscription_effort: "Скромні зусилля з призову"
-  GER_modest_conscription_effort_desc:0 "The war is dragging on, and although we have tried to avoid it, we are forced to increase our numbers in order to maintain the front."
+  GER_modest_conscription_effort_desc: "Війна затягується, і хоча ми намагалися її уникнути, ми змушені збільшувати свою чисельність, щоб утримати фронт." # (@!)
   GER_gain_a7v_when_getting_heavy_tank: "§YРозробить§! і §Yстворить 20§! танків §YA7V§!, щойно буде досліджено §Yбазову важку бронетехніку§!. Це також додає ось цю ідею на 720 днів:\n"
   GER_breaktrough_trenches: "Траншеї прориву"
-  GER_breaktrough_trenches_desc:0 "Trench warfare forces us to consider new approaches to land battles. To support infantry assaults and destroy fortifications, we can study the design of an armored and tracked vehicle equipped with a heavy gun."
+  GER_breaktrough_trenches_desc: "Окопна війна змушує нас розглянути нові підходи до ведення наземних боїв. Для підтримки атак піхоти та руйнування укріплень ми можемо вивчити конструкцію броньованої та гусеничної машини, оснащеної важкою гарматою." # (@!)
   GER_mitigated_quantitative_plan: "Послаблений кількісний план"
-  GER_mitigated_quantitative_plan_desc:0 "Despite conscription efforts, a shortage of men was still felt. War Minister Heeringen contacted General Falkenhayn to redefine the German battle plan for the coming years. Focused on a more sluggish mobilization, it deteriorated the quality of the troops in favor of their numbers, a necessary sacrifice."
+  GER_mitigated_quantitative_plan_desc: "Незважаючи на призов до армії, все ще відчувалася нестача людей. Військовий міністр Гееринґен зв'язався з генералом Фалькенгайном, щоб переглянути німецький військовий план на найближчі роки. Орієнтований на більш мляву мобілізацію, він погіршував якість військ на користь їхньої чисельності, що було необхідною жертвою." # (@!)
   GER_structured_doctrines_abandonned: "Доктрини Гееринґена–Фалькенгайна"
   GER_decision_naval_order_of_october_1918: "Op. 269/A I"
   GER_all_or_nothing_plan: "Морський план «Усе або ніщо»"
@@ -1937,14 +1937,15 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  GER_election2: "Прийдешні вибори в Райхстазі"
  GER_calculate_predicted_results: "Передбачені результати"
  GER_calculate_predicted_results_desc: "Передбачені результати буде оновлено."
- GER_might_delay_a_famine:0 "In case of prolonged war, this focus might §Ydelay the risk§! of §Rfamine§!."
- GER_toggle_hiddenburg_program:0 "Toggle the Hindenburg Programme"
+ GER_might_delay_a_famine: "У разі тривалої війни цей фокус може §Yскоротити§! ризик §Rголоду§!." # (&+)
+ GER_toggle_hiddenburg_program: "Перемкнути програму Гінденбурґа" # (&)
  GER_has_at_least_2_ships_in_bismark_sea: "Є принаймні §Y2§! кораблі в §YМорі Бісмарка§!."
 
  GER_reichstag_next_elections_category: "Передбачені результати виборів"
 
  GER_election1_desc: "§WПередбачені результати виборів:\n$GER_leftist_factions_prediction_text$\n$GER_leftist_factions_prediction_list_text$\n$GER_centrist_factions_prediction_text$\n$GER_centrist_factions_prediction_list_text$\n$GER_rightist_factions_prediction_text$\n$GER_rightist_factions_prediction_list_text$\n$GER_neutral_factions_prediction_text$\n$GER_neutral_factions_prediction_list_text$§!"
 
+ ## Події (Райхстаґ)
   ww1_german_reichstag.1.t: "[GetYear] Reichstag Election"
   ww1_german_reichstag.1.d: "Outside of wartime, the Reichstag is renewed every five years following elections of its deputies. During the reign of the lower house, the Reichstag is essential for the development of German legislation, as well as for passing budgets and exceptional credits."
   ww1_german_reichstag.1.a: "Now the work begins"
@@ -1974,17 +1975,17 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
   GER_compromise_on_planning_tt: "Depending on our choices, the §YSchlieffen Plan§! may be altered."
 
 ### СКРИПТОВАНІ ЕФЕКТИ/ТРИҐЕРИ ###
- GER_establish_poland_tt: "Establish the §RKingdom of Poland§! as a §YGerman puppet§!"
- GER_controls_polish_states_tt: "Controls Congress Poland states"
+ GER_establish_poland_tt: "Засновує §RКоролівство Польське§! в якості §Yмаріонетки Німеччини§!."
+ GER_controls_polish_states_tt: "Контролює області Конгресової Польщі"
  is_GER_a_monarchy_tt: "Німеччина є §Yмонархією§!"
  is_GER_a_monarchy_tt_NOT: "Німеччина не є §Yмонархією§!"
  GER_OHL_oppose_hollweg: "§LВКА§! протистоїть Бетманові-Гольвеґу"
  is_hollweg_chancellor_tt: "§Y$GER_theobald_von_bethmann_hollweg$§! є канцлером"
  is_hollweg_chancellor_tt_NOT: "НЕ: §Y$GER_theobald_von_bethmann_hollweg$§! є канцлером"
- GER_control_MAF_state_tt: "We or one of our subjects own a state §Yclaimed§! by §Y[MAF.GetNameDef]§!"
- GER_control_OST_state_tt: "We or one of our subjects own a state §Yclaimed§! by §YDeutsch-Ostasien§!"
- is_french_civil_war_ongoing: "The §YFrench Civil War§! is ongoing"
- GER_release_OST: "Release @OST §YDeutsch-Ostasien§! as puppet."
+ GER_control_MAF_state_tt: "Ми або один із наших підлеглих володіємо областю, на яку §Yпретендує§! §Y[MAF.GetNameDef]§!" # (&+)?
+ GER_control_OST_state_tt: "Ми або один із наших підлеглих володіємо областю, на яку §Yпретендує§! §YНімецька Остазія§!" # (&+)?
+ is_french_civil_war_ongoing: "У §YФранції§! триває §Yгромадянська війна§!"
+ GER_release_OST: "@OST §YНімецьку Остазію§! буде звільнено в якості маріонетки."
 
 ### ІНШІ ПОДІЇ ###
  ww1_german_victory.1.t: "The Future of the OHL"
@@ -2207,27 +2208,27 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  ww1_german_nazism.6.d: "Adolf Hitler is appointed Reichskanzler. With the Schutzstaffel and Sturmabteilung surrounding the Reichtag, \"Law to Remedy the Distress of People and Reich\", called the Enabling Act, has been passed. The Weimar Republic collapsed and the Nazi Germany emerged."
  ww1_german_nazism.6.a: "So this is how democracy dies."
 
- ww1_germanrework.171.t: "The Budget Crisis of 1912"
- ww1_germanrework.171.d: "The Reichstag remains deadlocked over the 1912 imperial budget. Disputes between conservatives and progressives over taxation, military spending, and social reform have paralyzed the process. The government now finds itself without a functioning budget, sparking a constitutional crisis. With legitimacy wavering, the Chancellor Hollweg must choose: resign and allow a new coalition to form—or request emergency authority and try to force a compromise."
- ww1_germanrework.171.a: "Resign! The Reichstag has spoken."
- ww1_germanrework.171.b: "This can still be resolved."
+ ww1_germanrework.171.t: "Бюджетна криза 1912 року" # інак. Криза бюджету 1912 року
+ ww1_germanrework.171.d: "Райхстаґ залишається в глухому куті щодо імперського бюджету 1912 року. Суперечки між консерваторами та прогресистами щодо оподаткування, військових витрат та соціальних реформ паралізували процес. Уряд опинився без функціонуючого бюджету, що спричинило конституційну кризу. В умовах, коли легітимність уряду хитається, канцлер Гольвеґ має зробити вибір: піти у відставку і дозволити сформувати нову коаліцію, або попросити надзвичайні повноваження і спробувати досягти компромісу." # (@!)
+ ww1_germanrework.171.a: "У відставку! Райхстаґ висловився."
+ ww1_germanrework.171.b: "Це ще можна вирішити."
 
- ww1_germanrework.172.t: "Budget Deadlock Continues"
- ww1_germanrework.172.d: "Three months have passed, and still no budget has been approved. Negotiations have collapsed entirely. With the Reichstag paralyzed and the government unable to command a majority, the Chancellor has submitted his resignation. In response, the Kaiser has invoked his prerogative to enforce a provisional budget—one crafted by the military and conservative ministries, prioritizing armament and order over reform."
- ww1_germanrework.172.a: "At least, the crisis ends..."
+ ww1_germanrework.172.t: "Бюджетний глухий кут триває"
+ ww1_germanrework.172.d: "Минуло три місяці, а бюджет досі не затверджений. Переговори повністю провалилися. Оскільки Райхстаґ паралізований, а уряд не зміг сформувати більшість, канцлер подав у відставку. У відповідь кайзер скористався своєю прерогативою запровадити тимчасовий бюджет, розроблений військовими і консервативними міністерствами, в якому пріоритет віддавався озброєнню і порядку, а не реформам." # (@!)
+ ww1_germanrework.172.a: "Принаймні криза закінчується..."
 
  ww1_germanrework.174.t: "Переговори з: [getFederalStateNameFromCountryFlag]"
- ww1_germanrework.174.desc: "To gain the support of the federal state of [getFederalStateNameFromCountryFlag], we must offer them a reward commensurate with their support. We could develop their local industry, or we could offer them more varied favors that could limit the government's effectiveness for a while."
+ ww1_germanrework.174.desc: "Щоби заручитися підтримкою федерального штату [getFederalStateNameFromCountryFlag], ми мусимо запропонувати їм винагороду, співмірну з їхньою підтримкою. Ми можемо розвинути їхню місцеву промисловість або запропонувати їм більш різноманітні послуги, які можуть обмежити ефективність уряду на деякий час." # (@!)
  ww1_germanrework.174.a: "Ми інвестуємо в їхню промисловість."
  ww1_germanrework.174.b: "Ми інвестуємо в їхню інфраструктуру."
  ww1_germanrework.174.c: "Ми зробимо деякі політичні «поступки»."
  ww1_germanrework.174.d: "Узагалі-то, ми змінили свою думку..."
 
 ### ІНШЕ ###
- GER_1912_budget_mission_second_phase:0 "Second Rush for 1912 Budget"
- GER_1912_budget_mission_second_phase_desc:0 "After the initial failure of several budget votes, the pressure on the current government is now huge. We must absolutely pass a budget, no matter what."
- tt_build_one_civ:0 "You have to build 1 §YCivilian Factory§! in one of these states."
- tt_build_one_infra:0 "You have to build 1 §YInfrastructure§! level in one of these states."
+ GER_1912_budget_mission_second_phase: "Друга спроба для бюджету 1912 року"
+ GER_1912_budget_mission_second_phase_desc: "Після початкового провалу кількох голосувань за бюджет, тиск на чинний уряд зараз величезний. Ми мусимо обов'язково ухвалити бюджет, хай там що." # (@!)
+ tt_build_one_civ: "Треба збудувати 1 §Yцивільний завод§! в одній із цих областей."
+ tt_build_one_infra: "Треба збудувати 1 рівень §Yінфраструктури§! в одній із цих областей."
 
  GER_political_concessions: "Політичні поступки"
  GER_negotiations_with_FROM: "Переговори з: [getFederalStateNameFromStateId]"
@@ -2329,9 +2330,9 @@ tt_question_of_alsace_lorraine: "After the question of Belgium, §Y[ALS.GetFlag]
  #decision_cost_8_influence_blocked: "§R8§! £influence_texticon"
  #decision_cost_8_influence_tooltip: "Залучення цього штату коштує §Y8§! £influence_texticon"
 
- GER_likely_to_pass:0 "§GThe law will pass§!"
- GER_likely_to_be_rejected:0 "§OYou will have to use §YSway Decisions§! with your §CInfluence Points§! to pass the law.§!"
- GER_bundesrat_minigame:0 "\nActive the §YInfluence Minigame§!. Use your §CInfluence Points§! to sway region in our favor to make the §GLaw Pass§!.\n"
+ GER_likely_to_pass: "§GЗакон буде ухвалено.§!"
+ GER_likely_to_be_rejected: "§OЩоб ухвалити закон, вам доведеться використати §Yрішення з залучення§! за допомогою ваших §Cбалів впливу§!.§!" # (&+)
+ GER_bundesrat_minigame: "\nЗапускає §Yміні-гру впливу§!. Використовуйте ваші §Cбали впливу§!, щоби схилити регіон на наш бік і таким чином §Gухвалити закон§!.\n" # (&+)
 
  GER_start_test_voting: "[DEBUG] Voting on Test Law"
  GER_make_alsace_lorraine_new_member_bundesrat: "[DEBUG] Give [28.GetName] Votes in the [GetBundesratName]"
