@@ -25,11 +25,11 @@
   #Greece
   SE_gre_schism_T: "Фессалоніцька держава" # (&?)
   SE_gre_schism_D:0 "\n"Greece expects you not merely to die for her, for that is little, indeed; she expects you to conquer. That is why each one of you, even in dying, should be possessed by one thought alone - how to conserve your strength to the last so that those who survive may conquer."\n- Elefthérios Venizélos"
-  SE_gre_schism_A: "Зíто о Ефнáрхіс!"
+  SE_gre_schism_A: "Зíто о Ефнáрхіс!" # Zíto o Ethnárhis!
 
   SE_burning_of_smyrna_T: "Різанина у Смірні"
   SE_burning_of_smyrna_D: "\n\n«Принаймні ми викорінили греків...»\n(Мустафа Кемаль-паша)"
-  SE_burning_of_smyrna_A: "І Смíрні мáна кéгете..."
+  SE_burning_of_smyrna_A: "І Смíрні мáна кéгете..." # I Smýrni mána kégete...
 
   SE_balkan_war_1_T: "Балканська війна"
   SE_balkan_war_1_D:0 "\n"One day the great European War will come out of some damned foolish thing in the Balkans."\n- Otto von Bismarck"
@@ -41,15 +41,15 @@
 
   SE_gre_byzantium_T: "Відродження Східного Риму"
   SE_gre_byzantium_D: "\n\n«Константін його збудував, Константін його втратив, Константін поверне його назад»."
-  SE_gre_byzantium_A: "Зíто о Афтокрáтор!"
+  SE_gre_byzantium_A: "Зíто о Афтокрáтор!" # Zíto o Aftokrátor!
 
   SE_greeko_turkish_war_T: "Греко-турецька війна"
   SE_greeko_turkish_war_D:0 "\n\"Greece is not making war against Islam, but against the anachronistic Ottoman Government, and its corrupt, ignominious, and bloody administration, with a view to expelling it from those territories where the majority of the population consists of Greeks."\n- Elefthérios Venizélos"
-  SE_greeko_turkish_war_A: "Стін Áнґіра!"
+  SE_greeko_turkish_war_A: "Стін Áнґіра!" # Stin Ángira!
 
   SE_balkan_fed_T: "Балкани об'єднуються"
   SE_balkan_fed_D:0 "\n\"There are seven and a half million South Slavs who, as a result of the victories in the Balkans, have grown bolder than ever in demanding their political rights."\n-Leon Trotsky"
-  SE_balkan_fed_A: "Зíто і Енóтіта!"
+  SE_balkan_fed_A: "Зíто і Енóтіта!" # Zíto i Enótita!
 
 
   #Britain
