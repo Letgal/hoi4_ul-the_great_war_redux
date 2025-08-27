@@ -1,10 +1,9 @@
 ﻿# == (*) ==
- rocket_artillery: "Мортири підтримки"
- rocket_artillery_brigade: "Мортири"
  maritime_patrol_plane: "Морський літак"
  category_tac_bomber: "Легкі бомбардувальники"
  category_strat_bomber: "Важкі бомбардувальники"
  category_cas: "Штурмовики"
- artillery: "Польові гармати підтримки"
- artillery_brigade: "Польові гармати"
+ artillery: "Артилерія"
  super_heavy_artillery: "Надважка гаубиця"
+ mot_anti_air_brigade: "Зенітна самохідна установка"
+ mot_anti_tank_brigade: "Буксирувана ПТА"

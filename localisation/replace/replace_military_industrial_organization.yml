@@ -5,3 +5,6 @@
  mio_cat_eq_only_strategic_bomber: "Важкий бомбардувальник"
  generic_cas_aircraft_organization: "Конструктор штурмової авіації" # ідентично до ванілли
  generic_mio_initial_trait_cas_aircraft_designer: "Дизайнер штурмової авіації" # ідентично до ванілли
+ generic_tank_refurbishment_plant_organization: "Виробник локомотивів"
+ generic_mio_initial_trait_tank_refurbishment_plant: "Виробник локомотивів"
+ generic_mio_trait_enemy_tank_refitting:0 "Enemy Armored Vehicle Refitting" # (!)

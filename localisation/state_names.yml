@@ -84,7 +84,8 @@
  GER_STATE_39: "Зюдтіроль"
  ITA_STATE_39: "Альто-Адідже"
  STATE_40: "Алтай"
- STATE_41: "Кастілья ла Нуева"
+ STATE_41: "Нова Кастилія"
+ SPR_STATE_41: "Кастілья ла Нуева"
  STATE_42: "Нижній Райн"
  GER_STATE_42: "Нідеррайн"
  RHN_STATE_42: "Нідеррайн"
@@ -177,9 +178,15 @@
  MOL_STATE_78: "Басарабія"
  STATE_79: "Молдова"
  STATE_80: "Буковина"
+ AUS_STATE_80: "Буковіна"
  #ROM_STATE_80: "Bucovina"
+ #MOL_STATE_80: "Bucovina"
+ #TRA_STATE_80: "Bucovina"
+ #UKR_STATE_80: "Bukovyna"
+ #WUK_STATE_80: "Bukovyna"
  STATE_81: "Олтенія"
  STATE_82: "Банат"
+ HUN_STATE_82: "Баншаґ"
  STATE_83: "Західний Парціум"
  STATE_84: "Трансільванія"
  #ROM_STATE_84: "Transilvania"
@@ -360,7 +367,7 @@
  STATE_160: "Венеція" # Венетія
  ITA_STATE_160: "Венето"
  VNC_STATE_160: "Венето"
- STATE_161: "Романья"
+ STATE_161: "Емілія-Романья"
  STATE_162: "Тоскана"
  #ITA_STATE_162: "Toscana"
  #TUS_STATE_162: "Toscana"
@@ -380,6 +387,7 @@
  STATE_169: "Андалусія"
  #SPR_STATE_169: "Andalucía"
  STATE_170: "Естремадура"
+ POR_STATE_170: "Ештремадура"
  STATE_171: "Ґалісія"
  STATE_172: "Наварра"
  #SPR_STATE_172: "Navarra"
@@ -389,7 +397,8 @@
  STATE_175: "Країна Басків"
  SPR_STATE_175: "Басконґадас"
  NAV_STATE_175: "Еускаді"
- STATE_176: "Кастілья ла В'єха"
+ STATE_176: "Стара Кастилія"
+ SPR_STATE_176: "Кастілья ла В'єха"
  STATE_177: "Балеарські острови"
  #SPR_STATE_177: "Islas Baleares"
  #CAT_STATE_177: "Illes Balears"
@@ -464,6 +473,7 @@
  BLR_STATE_204: "Магільоў"
  POL_STATE_204: "Могилєв"
  LIT_STATE_204: "Моґілявас"
+ GER_STATE_204: "Моґільйов"
  STATE_205: "Калуґа"
  STATE_206: "Мінськ"
  BLR_STATE_206: "Мєнськ"
@@ -559,6 +569,7 @@
  STATE_264: "Карґополь"
  STATE_265: "Хопьор"
  STATE_266: "Тегеран"
+ #PER_STATE_266: "Teherān"
  STATE_267: "Кабул"
  STATE_268: "Джібуті"
  FRA_STATE_268: "Французький Сомаліленд"
@@ -640,6 +651,7 @@
  STATE_321: "Ґоа"
  POR_STATE_321: "Португальська Індія"
  STATE_322: "Тибет"
+ QIN_STATE_322: "Сіцзан" #西藏
  CHI_STATE_322: "Сіцзан" #西藏
  PRC_STATE_322: "Сіцзан" #西藏
  GXC_STATE_322: "Сіцзан" #西藏
@@ -786,16 +798,21 @@
  STATE_407: "Темир"
  STATE_408: "Владивосток"
  STATE_409: "Хабаровськ"
- STATE_410: "Белуджістан"
+ STATE_410: "Західний Белуджістан"
+ PER_STATE_410: "Белуджістан"
  STATE_411: "Ісфаган"
  STATE_412: "Фарс"
  STATE_413: "Хузестан"
  STATE_414: "Керман"
+ #PER_STATE_414: "Kermān"
  STATE_415: "Герат"
- STATE_416: "Хорасан"
- STATE_417: "Гамедан"
+ STATE_416: "Хорасан і Сістан"
+ STATE_417: "Кум"
  STATE_418: "Семнан"
  STATE_419: "Урмія"
+ #AZR_STATE_419: "Urmiya"
+ KUR_STATE_419: "Урміє"
+ TUR_STATE_419: "Урміє"
  STATE_420: "Ґілан"
  STATE_421: "Курдистан"
  STATE_422: "Цейлон"
@@ -820,7 +837,8 @@
  STATE_441: "Кашмір"
  STATE_442: "Пешавар"
  STATE_443: "Сінд"
- STATE_444: "Белуджістан"
+ STATE_444: "Східний Белуджістан"
+ RAJ_STATE_444: "Белуджістан"
  STATE_445: "Кветта"
  STATE_446: "Каїр"
  STATE_447: "Зона Суецького каналу"
@@ -1015,6 +1033,7 @@
  STATE_582: "Північно-Західний Сибір"
  STATE_583: "Акмолінськ"
  STATE_584: "Закаспія"
+ TRK_STATE_584: "Туркменістан"
  STATE_585: "Сирдар'я"
  STATE_586: "Самарканд"
  STATE_587: "Усть-Юрт"
@@ -1119,6 +1138,8 @@
  MON_STATE_619: "Кумул"
  STATE_620: "Хубей" #湖北
  STATE_621: "Суйюань"
+ QIN_STATE_622: "Шеньбей" #陕北
+ CHI_STATE_622: "Шеньбей" #陕北
  STATE_622: "Шеньсі"
  STATE_623: "Лусон"
  STATE_624: "Центральні острови"
@@ -1316,7 +1337,8 @@
  STATE_740: "Острів Ванкувер"
  STATE_741: "Південний схід Камбоджі"
  STATE_742: "Каратеґін"
- STATE_743: "Мелілья та Сеута"
+ STATE_743: "Сеута та Мелілья"
+ #SPR_STATE_743: "Ceuta y Melilla"
  STATE_744: "Люйда" #旅大
  JAP_STATE_744: "Квантун" #關東
  RUS_STATE_744: "Квантун"
@@ -1330,6 +1352,8 @@
  RUS_STATE_748: "Месхетія"
  #TUR_STATE_748: "Mesheti"
  STATE_749: "Кашґар"
+ QIN_STATE_749: "Каши" #喀什 
+ CHI_STATE_749: "Каши" #喀什
  STATE_750: "Західні Вірджинські острови"
  DEN_STATE_750: "Данська Вест-Індія"
  USA_STATE_750: "Американські Вірджинські острови"
@@ -1454,8 +1478,9 @@
  STATE_806: "Карс"
  AZR_STATE_806: "Ґарс"
  STATE_807: "Сектор Тарфая"
- SPR_STATE_807: "Мис Джубі"
+ SPR_STATE_807: "Кабо Джубі"
  MOR_STATE_807: "Рас Джубі"
+ GER_STATE_807: "Кап Джубі"
  STATE_808: "Брест-Литовськ"
  BLR_STATE_808: "Брест-Літовськ"
  #UKR_STATE_808: "Brest-Lytovsk"
@@ -1507,7 +1532,7 @@
  RUS_STATE_830: "Закатали"
  STATE_831: "Бадіят аш-Шам"
  STATE_832: "Ер-Рувайшід"
- STATE_833: "Емілія"
+ STATE_833: "Марке"
  STATE_834: "Ніцца"
  #ITA_STATE_834: "Nizza"
  #SRD_STATE_834: "Nizza"
@@ -1576,6 +1601,13 @@
  AUS_STATE_866: "Зюдкарпатен"
  HUN_STATE_866: "Делі-Карпаток"
  STATE_867: "Південна Буковина"
+ #ROM_STATE_1007: "Bucovina de Sud"
+ #MOL_STATE_1007: "Bucovina de Sud"
+ #TRA_STATE_1007: "Bucovina de Sud"
+ AUS_STATE_1007: "Зюдбуковіна"
+ #RUS_STATE_1007: "Yuzhnaya Bukovina"
+ #UKR_STATE_1007: "Pivdenna Bukovyna"
+ #WUK_STATE_1007: "Pivdenna Bukovyna"
  STATE_868: "Східні Карпати"
  #ROM_STATE_868: "Carpatii Orientali"
  #TRA_STATE_868: "Carpatii Orientali"
@@ -1605,7 +1637,10 @@
  STATE_876: "Ніш"
  #BUL_STATE_876: "Nish"
  #TUR_STATE_876: "Niş"
- STATE_877: "Тебріз"
+ STATE_877: "Східний Азербайджан"
+ PER_STATE_877: "Azerbaijan-e-Sharghi" # (!)
+ TUR_STATE_877: "Doğu Azerbaycan" # (!)
+ AZR_STATE_877: "Şarqi Azarbaycan" # (!)
  STATE_878: "Медіна"
  TUR_STATE_878: "Медіне"
  STATE_879: "Ербіл"
@@ -1621,6 +1656,7 @@
  STATE_885: "Фірак"
  STATE_886: "Бахрейн"
  STATE_887: "Танжер"
+ SPR_STATE_887: "Танхер"
  STATE_888: "Гобйо"
  ITA_STATE_888: "Оббія"
  STATE_889: "Маджіртін" # Маджертен
@@ -1629,6 +1665,9 @@
  STATE_891: "Хело" #河洛
  STATE_892: "Чаосюнь" #潮循
  STATE_893: "Хен'ян" #衡陽
+ QIN_STATE_894: "Takelemagan Shamo" # (!)
+ CHI_STATE_894: "Takelemagan Shamo" # (!)
+ PRC_STATE_894: "Takelemagan Shamo" # (!)
  STATE_894: "Пустеля Такла-Макан"
  STATE_895: "Сіккім"
  STATE_896: "Північне Борнео"
@@ -1672,6 +1711,7 @@
  STATE_917: "Сахра аль-Хіджара"
  STATE_918: "Ель-Касім"
  STATE_919: "Олівенса"
+ #POR_STATE_919: "Olivença"
  STATE_920: "Заїр"
  STATE_921: "Касандже"
  STATE_922: "Чокве"
@@ -1836,7 +1876,9 @@
  STATE_998: "Монако"
  STATE_999: "Сан-Маріно"
  STATE_1000: "Ліхтенштайн"
- STATE_1001: "Леонінське Місто"
+ STATE_1001: "Ватиканський пагорб"
+ PAP_STATE_1001: "Монс Ватіканус"
+ ITA_STATE_1001: "Колле Ватікано"
  STATE_1002: "Делавер"
  STATE_1003: "Залізниця Ренкьо"
  STATE_1004: "Залізниця Анпо"
@@ -1847,7 +1889,13 @@
  CRO_STATE_1006: "Місто Задар"
  SER_STATE_1006: "Місто Задар"
  STATE_1007: "Північна Буковина"
+ AUS_STATE_1007: "Нордбуковіна"
  #ROM_STATE_1007: "Bucovina de Nord"
+ #MOl_STATE_1007: "Bucovina de Nord"
+ #TRA_STATE_1007: "Bucovina de Nord"
+ #RUS_STATE_1007: "Severnaya Bukovina"
+ #UKR_STATE_1007: "Pivnichna Bukovyna"
+ #WUK_STATE_1007: "Pivnichna Bukovyna"
  STATE_1008: "Траванкор"
  STATE_1009: "Берар"
  STATE_1010: "Країнський Шнееберґ" # (?)
@@ -2003,7 +2051,7 @@
  STATE_1115: "Берегова Байра" # Байра Літурал
  STATE_1116: "Москітовий берег"
  #USA_STATE_1116: "Mosquito Coast"
- STATE_1117: "Кередж"
+ STATE_1117: "Гамедан"
  STATE_1118: "Центральний Шлезвіґ"
  GER_STATE_1118: "Миттельшлезвіґ"
  #SHL_STATE_1118: "Mittelschleswig"
@@ -2189,6 +2237,31 @@
  STATE_1209: "Кель"
  STATE_1210: "Верхня Савоя"
  ITA_STATE_1210: "Альт-Савоя"
+ STATE_1211: "Лурестан"
+ STATE_1212: "Західний Азербайджан"
+ PER_STATE_1212: "Azerbaijan-e-Gharbi" # (!)
+ TUR_STATE_1212: "Batı Azerbaycan" # (!)
+ AZR_STATE_1212: "Qarbi Azarbaycan" # (!)
+ KUR_STATE_1212: "Azerbaycana Rojava" # (!)
+ STATE_1213: "Дебар"
+ TUR_STATE_1213: "Debre-i Bâlâ" # (!)
+ ALB_STATE_1213: "Dibra" # (!)
+ STATE_1214: "Мірдіта"
+ #ALB_STATE_1214: "Mirditë"
+ TUR_STATE_1214: "Merdita" # (!)
+ ITA_STATE_1214: "Mirdizia" # (!)
+ STATE_1215: "Фіері"
+ #ALB_STATE_1215: "Fieri"
+ TUR_STATE_1215: "Ferecik"
+ #SER_STATE_1215: "Fieri"
+ STATE_1216: "Ліґурія"
+ STATE_1217: "Апулія"
+ STATE_1218: "Базіліката"
+ STATE_1219: "Кара-Киргизстан"
+ RUS_STATE_1219: "Кара-Киргизія"
+ STATE_1220: "Чамдо"
+ QIN_STATE_1220: "Чанду"
+ CHI_STATE_1220: "Чанду"
 
  LEVGRAD_STATE: "Левград"
  LEVINSK_STATE: "Левинськ"

@@ -445,13 +445,6 @@
  CHI_uprising_alt_neutrality_DEF: "Бейянський уряд Китайської республіки"
  CHI_uprising_alt_democratic: "Бейянський уряд"
  CHI_uprising_alt_democratic_DEF: "Бейянський уряд Китайської республіки"
- CHI_hubei: "Хубей"
- CHI_hubei_DEF: "Хубей"
- CHI_hubei_ADJ: "Хубейськ"
- CHI_hubei_neutrality_DEF: "Хубейський військовий уряд"
- CHI_hubei_democratic_DEF: "Хубейський революційний уряд"
- CHI_hubei_fascism_DEF: "Хубейський військовий уряд"
- CHI_hubei_communism_DEF: "Хубейський революційний уряд"
  CHI_revolution: "Революційний Китай"
  CHI_revolution_DEF: "Революційний Китай"
  CHI_revolution_democratic: "Китайський революційний альянс"
@@ -717,6 +710,8 @@
  CER_high_commission_fascism: "Верховна комісія Далекого Сходу"
  CER_high_commission_fascism_DEF: "Верховна комісія Далекого Сходу"
  CER_high_commission_fascism_ADJ: "Далекосхідн"
+ CER_soviet: "Особливий регіон Східних провінцій" #東省特別區
+ CER_soviet_DEF: "Особливий регіон Східних провінцій" #東省特別區
  RUS_exile_tag: "Російська вигнанці"
  RUS_exile_tag_DEF: "Російська вигнанці"
  SRA: "Добровольча армія"
@@ -922,6 +917,15 @@
  KAZ_RUS_communism: "Киргизька СР"
  KAZ_RUS_communism_DEF: "Киргизька соціалістична республіка"
  KAZ_RUS_ADJ: "Киргизьк"
+ KYR_RUS_subject: "Кара-Киргизія"
+ KYR_RUS_subject_DEF: "Кара-Киргизія"
+ KYR_RUS_subject_ADJ: "Кара-Киргизьк"
+ KYR_RUS_communism_subject: "Кара-Киргизька соціалістична республіка"
+ KYR_RUS_communism_subject_DEF: "Кара-Киргизька соціалістична республіка"
+ KYR_RUS_vanguardism_subject: "Кара-Киргизька РСР" # sov.
+ KYR_RUS_vanguardism_subject_DEF: "Кара-Киргизька радянська соціалістична республіка"
+ KYR_RUS_communism_autonomy_integrated_puppet: "Кара-Киргизька АО"
+ KYR_RUS_communism_autonomy_integrated_puppet_DEF: "Кара-Киргизька автономна область"
  TRK_RUS_democratic: "Туркестанська автономія"
  TRK_RUS_democratic_DEF: "Туркестанська автономія"
  TRK_RUS_neutrality: "Туркестанська губернія"
@@ -1272,6 +1276,8 @@
  ROI_neutrality_DEF: "Італія"
  ROI_communism: "Соціалістична республіка Італія"
  ROI_communism_DEF: "Соціалістична республіка Італія"
+ ROI_commune_communism: "Союз італійських комун"
+ ROI_commune_communism_DEF: "Союз італійських комун"
  KOR_monarchist_democratic: "Корейська імперія"
  KOR_monarchist_democratic_DEF: "Корейська імперія"
  KOR_joseon_democratic: "Конституціоналістський Чосон"
@@ -2055,3 +2061,9 @@
  ZHC_hubei: "Хубей"
  ZHC_hubei_DEF: "Хубей"
  ZHC_hubei_ADJ: "Хубейськ"
+
+ SHN_pacification: "Армія національної стабілізації" #靖国軍
+ SHN_pacification_DEF: "Шеньсійська армія національної стабілізації" #陝西靖国軍
+
+ GDC_tongmenghui: "Ґуандунський військовий уряд"
+ GDC_tongmenghui_DEF: "Ґуандунський військовий уряд"

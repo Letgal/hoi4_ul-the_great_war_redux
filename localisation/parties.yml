@@ -322,19 +322,25 @@
 
  #ITA_communism_party:0 "PSI"
  #ITA_communism_party_long:0 "Partito Socialista Italiano"
+ ITA_syndacalist_party:0 "USI"
+ ITA_syndacalist_party_long:0 "Unione Sindacale Italiana"
  #ITA_democratic_party:0 "Destra"
  #ITA_democratic_left_party:0 "Sinistra"
  #ITA_democratic_liberal_union_party:0 "Unione Liberale"
- #ITA_democratic_republican_party:0 "PRI"
- #ITA_democratic_republican_party_long:0 "Partito Radicale Italiano"
+ #ITA_democratic_radical_party:0 "PRI"
+ #ITA_democratic_radical_party_long:0 "Partito Radicale Italiano"
  #ITA_democratic_reformist_party:0 "PSRI"
  #ITA_democratic_reformist_party_long:0 "Partito Socialista Riformista Italiano"
  #ITA_democratic_ldr_party:0 "LDR"
  #ITA_democratic_ldr_party_long:0 "Liberali, Democratici e Radicali"
- #ITA_fascism_party:0 "ANI"
- #ITA_fascism_party_long:0 "Associazione Nazionalista Italiana"
+ #ITA_fascism_party_ani:0 "ANI"
+ #ITA_fascism_party_ani_long:0 "Associazione Nazionalista Italiana"
+ ITA_national_democratic_party:0 "LDN"
+ ITA_national_democratic_party_long:0 "Lega Democratica Nazionale"
  #ITA_fascism_fasces_party:0 "FIC"
  #ITA_fascism_fasces_party_long:0 "Fasci Italiani di Combattimento"
+ ITA_fascism_party_synd:0 "FRAI"
+ ITA_fascism_party_synd_long:0 "Fascio Rivoluzionario d'Azione Internazionalista"
  #ITA_fascism_fascist_party:0 "PNF"
  #ITA_fascism_fascist_party_long:0 "Partito Nazionale Fascista"
  #ITA_neutrality_party:0 "Casa Savoia"
@@ -553,10 +559,13 @@
  #QIN_democratic_party_long:0 "Tongmenghui" #同盟會
  #QIN_progressive_party:0 "Chinputang" #進步黨
  QIN_progressive_party_long:0 "Zhongguo Chinputang" #中國進步黨
+ QIN_reform_association:0 "C.E.R.A" #保皇會
+ QIN_reform_association_long:0 "Baojiu Da-Qing Huangdi Hui" #保救大淸皇帝會
 
  #CHI_communism_party:0 "Shehuidang" #社會黨
  #CHI_communism_party_long:0 "Zhongguo Shehuidang" #中國社會黨
  #CHI_democratic_party:0 "Tongmenghui" #同盟會
+ CHI_democratic_party_long:0 "Zhongguo Tongmenghui" #中國同盟會
  #CHI_fascism_party:0 "Beiyang Clique" #北洋軍閥
  #CHI_neutrality_party:0 "Beiyang Clique"
  CHI_neutrality_republican_party:0 "Kunghotang" #共和黨
@@ -576,7 +585,6 @@
  #CHI_revolutionary_army_long:0 "Guomin Geming Jun" #國民革命軍
  #CHI_zhigong_party:0 "Zhigongtang" #致公黨
  CHI_zhigong_party_long:0 "Zhongguo Zhigongtang" #中國致公黨
- #CHI_hubei_party:0 "Hubei Zhengfu" #湖北政府
  CHI_youth_party:0 "YCP"
  CHI_youth_party_long:0 "Zhongguo Qingniandang" #中國靑年黨
  CHI_europe_party:0 "Oushi Yanjiuhui" #歐事硏究會
@@ -597,22 +605,28 @@
 
  GXC_neutrality_party: "Ґуансійська кліка" #廣西軍閥
  GXC_fascism_party: "Ґуансійська кліка" #廣西軍閥
+ GXC_democratic_party:0 "Zhèngxuéhuì" #政學會
 
+ SHX_democratic_party: "Кліка Цзінь" #晉系軍閥
  SHX_neutrality_party: "Кліка Цзінь" #晉系軍閥
  SHX_fascism_party: "Кліка Цзінь" #晉系軍閥
 
  FNG_neutrality_party: "Фентяньська кліка" #奉天軍閥
  FNG_fascism_party: "Фентяньська кліка" #奉天軍閥
 
+ HNC_democratic_party:0 "Hunan Junzhengfu" #湖南軍政府
  HNC_neutrality_party: "Хунаньська кліка" #湖南軍閥
  HNC_fascism_party: "Хунаньська кліка" #湖南軍閥
 
+ ZHE_democratic_party:0 "Zhejiang Shengzhengfu" #浙江省政府
  ZHE_neutrality_party: "Чжецзянська кліка" #浙江軍閥
  ZHE_fascism_party: "Чжецзянська кліка" #浙江軍閥
 
  GDC_neutrality_party: "Ґуандунська кліка" #廣東軍閥
  GDC_fascism_party: "Ґуандунська кліка" #廣東軍閥
+ GDC_democratic_party: "Ґуандунська кліка" #廣東軍閥
 
+ GZC_democratic_party:0 "Guizhou Junzhengfu" #貴州軍政府
  GZC_neutrality_party: "Ґуйчжоуська кліка" #貴州軍閥
  GZC_fascism_party: "Ґуйчжоуська кліка" #貴州軍閥
 
@@ -620,6 +634,8 @@
  ANC_fascism_party: "Аньхойська кліка" #安徽軍閥
  ANC_democratic_party:0 "Anfu Club" #安複俱絡部
 
+ SCC_democratic_party:0 "Sichuan Junzhengfu" #四川軍政府
+ SCC_democratic_party_long:0 "Dahan Sichuan Junzhengfu" #大漢四川軍政府
  SCC_neutrality_party: "Сичуаньська кліка" #四川軍閥
  SCC_fascism_party: "Сичуаньська кліка" #四川軍閥
 
@@ -629,9 +645,11 @@
  JNC_neutrality_party: "Цзянсуська кліка" #江蘇軍閥
  JNC_fascism_party: "Цзянсуська кліка" #江蘇軍閥
 
+ JXC_democratic_party:0 "Jiangxi Junzhengfu" #江西軍政府
  JXC_neutrality_party: "Цзянсійська кліка" #江西軍閥
  JXC_fascism_party: "Цзянсійська кліка" #江西軍閥
 
+ SDC_democratic_party:0 "Shandong Junzhengfu" #山東軍政府
  SDC_neutrality_party: "Шаньдунська кліка" #山東軍閥
  SDC_fascism_party: "Шаньдунська кліка" #山東軍閥
 
@@ -640,8 +658,10 @@
 
  SHN_neutrality_party: "Шеньсійська кліка" #陝西軍閥
  SHN_fascism_party: "Шеньсійська кліка" #陝西軍閥
- SHN_democratic_party:0 "National Stablisation Army" #靖國軍
- SHN_democratic_party_long:0 "Shaanxi National Stablisation Army" #陝西靖國軍
+ SHN_democratic_party:0 "Qinjun Zhengfu" #秦軍政府
+ SHN_democratic_party_long:0 "Qinlong Fuhan Junzhengfu" #秦隴復漢軍政府
+ SHN_stabilisation_party:0 "National Stablisation Army" #靖國軍
+ SHN_stabilisation_party_long:0 "Shaanxi National Stablisation Army" #陝西靖國軍
 
  YLN_neutrality_party: "Шеньсійська кліка" #陝西軍閥
  YLN_fascism_party: "Шеньсійська кліка" #陝西軍閥
@@ -1319,7 +1339,9 @@
  TIB_democratic_party:0 "Kashag"
  TIB_fascism_party:0 "Dmag Dpung Bod"
 
- YUN_neutrality_party: "Юньнаньська кліка"
+ YUN_democratic_party:0 "Yunnanjun Dudufu" #雲南軍都督府
+ YUN_neutrality_party: "Юньнаньська кліка" #雲南軍閥
+ YUN_fascism_party: "Юньнаньська кліка" #雲南軍閥
 
  #MON_communism_party:0 "MAHN"
  #MON_communism_party_long:0 "Mongol Ardīn Huwĭsgalt Nam"
@@ -1885,6 +1907,10 @@
  CER_fascism_party:0 "Okhrannaya Strazha KVZhD"
  CER_fascism_party_long:0 "Okhrannaya Strazha Kitayskoy Vostochnoy Zheleznoy Dorogi"
  CER_cabinet_party:0 "Delovoy Kabinet"
+ CER_communism_party:0 "Kharbinsky Sovetv"
+ CER_communism_party_desc:0 "Kharbinsky Sovet rabochikh i soldatskikh deputatov"
+ CER_chinese_party:0 "Shìzhèng Guǎnlǐjú" #市政管理局
+ CER_chinese_party_long:0 "Dōngshěng Tèbiéqū Shìzhèng Guǎnlǐjú" #東省特別區市政管理局
 
  BRM_neutrality_party:0 "Konbaung Dynasty"
 
@@ -2159,6 +2185,30 @@
 
  HES_neutrality_party:0 "Haus Hessen-Darmstadt"
 
+ BLC_neutrality_party:0 "Baloch"
+ BLC_fascism_party:0 "Baloch"
+
+ KYR_neutrality_party:0 "Kötörülüş Küçtörü"
+ KYR_neutrality_party_long:0 "Kırgız Kötörülüş Küçtörü"
+ KYR_fascism_party:0 "Kötörülüş Küçtörü"
+ KYR_fascism_party_long:0 "Kırgız Kötörülüş Küçtörü"
+ KYR_democratic_party:0 "Jadidizm"
+ KYR_communism_party:0 "Kara-Kırgız Revkomunun"
+
+ MEN_fascism_party:0 "Bǎilíngmiào Méngzhènghuì" #百灵庙蒙政会
+ MEN_fascism_party_desc:0 "Ménggǔ Dìfāng Zìzhì Zhèngwù Wěiyuánhuì" #蒙古地方自治政務委員會
+ MEN_democratic_party:0 "Bǎilíngmiào Méngzhènghuì" #百灵庙蒙政会
+ MEN_democratic_party_desc:0 "Ménggǔ Dìfāng Zìzhì Zhèngwù Wěiyuánhuì" #蒙古地方自治政務委員會
+ MEN_neutrality_party:0 "Bǎilíngmiào Méngzhènghuì" #百灵庙蒙政会
+ MEN_neutrality_party_desc:0 "Ménggǔ Dìfāng Zìzhì Zhèngwù Wěiyuánhuì" #蒙古地方自治政務委員會
+
+ HBC_neutrality_party:0 "Hubei Junzhengfu" #湖北軍政府
+ HBC_neutrality_party_desc:0 "Hubei Junzhengfu" #湖北軍政府
+ HBC_fascism_party:0 "Hubei Junzhengfu" #湖北軍政府
+ HBC_fascism_party_desc:0 "Hubei Junzhengfu" #湖北軍政府
+ HBC_democratic_party:0 "Hubei Junzhengfu" #湖北軍政府
+ HBC_democratic_party_desc:0 "Hubei Junzhengfu" #湖北軍政府
+
 ### СТАРИЙ ПЕРЕКЛАД ###
  authoritarian_democracy_desc:0 "Керована демократія — це форма правління, що передбачає наявність верховної виконавчої влади за збереження певного ступеня місцевої демократії або виборів на суто дорадчі посади. Ці авторитарні демократи закликають до створення сильного об'єднаного уряду, який не буде повністю залежати від забаганок більшості, але при цьому збереже певний ступінь народного мандата."
  theocracy_ideology_desc:0 "Теократія — це форма правління, за якої Бога або божество певного типу визнають верховним правлячим органом, який надає божественне керівництво людським посередникам, що керують повсякденними справами уряду."
@@ -2307,14 +2357,14 @@
  ITA_democratic_party:0 "Дестра"
  ITA_democratic_left_party:0 "Сіністра"
  ITA_democratic_liberal_union_party:0 "Ліберальний Союз"
- ITA_democratic_republican_party:0 "ІРП"
- ITA_democratic_republican_party_long:0 "Італійська Радикальна Партія"
+ ITA_democratic_radical_party:0 "ІРП"
+ ITA_democratic_radical_party_long:0 "Італійська Радикальна Партія"
  ITA_democratic_reformist_party:0 "ІСРП"
  ITA_democratic_reformist_party_long:0 "Італійська Соціалістична Реформістська Партія"
  ITA_democratic_ldr_party:0 "ЛДР"
  ITA_democratic_ldr_party_long:0 "Ліберали, Демократи і Радикали"
- ITA_fascism_party:0 "АІН"
- ITA_fascism_party_long:0 "Асоціація Італійських Націоналістів"
+ ITA_fascism_party_ani:0 "АІН"
+ ITA_fascism_party_ani_long:0 "Асоціація Італійських Націоналістів"
  ITA_fascism_fasces_party:0 "ІСБ"
  ITA_fascism_fasces_party_long:0 "Італійський Союз Боротьби"
  ITA_fascism_fascist_party:0 "НФП"
@@ -2496,7 +2546,6 @@
  CHI_revolutionary_army:0 "НРА"
  CHI_revolutionary_army_long:0 "Національно-Революційна Армія"
  CHI_zhigong_party:0 "Чжигунтан"
- CHI_hubei_party:0 "Хубей Чженфу"
 
  SPR_democratic_party:0 "Ліберальна Партія"
  SPR_communism_party:0 "ІСОП"

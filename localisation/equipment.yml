@@ -33,13 +33,15 @@
  #jet_engines_desc:0 "A breakthrough in propulsion technology, the Jet Engine will enable the development of an entirely new generation of aircraft."
  convoy_1: "Конвой"
  armored_car_equipment: "Бронемашина"
- armored_car_equipment_desc:0 "Light-weight armored wheeled vehicles. Common for reconnaissance and resistance suppression, but can be fitted with heavier armaments."
+ armored_car_equipment_desc:0 "Light-weight armored wheeled vehicles. Common for reconnaissance and resistance suppression, but can be fitted with heavier armaments." # (!)
  armored_car_chassis: "Шасі бронемашини"
  armored_car_chassis_desc: "$armored_car_equipment_desc$"
  mio_cat_eq_armored_cars: "Бронемашини"
  motorized_equipment: "Вантажівка"
  #motorized_equipment_desc:1 "Trucks used for transporting troops, supplies, and for division motorization."
- motorized_equipment_1: "Вантажівка"
+ motorized_equipment_0: "Рання вантажівка"
+ motorized_equipment_1: "Вантажівка воєнного часу"
+ motorized_equipment_1_desc:1 "During the Great War the armies starting using basic civilian trucks for transporting supplies and hauling equipment. These have become an integral part of most armies." # (!)
  support_equipment: "Додаткове обладнання"
  #support_equipment_desc:0 "Equipment used to support troops."
  tech_support: "Додаткове обладнання"
@@ -69,7 +71,7 @@
  EQUIPMENT_PARACHUTE: "Парашутисти"
  EQUIPMENT_SUPPORT: "Підтримка"
  EQUIPMENT_ANTI_AIR: "Зенітна артилерія"
- EQUIPMENT_ARTILLERY: "Польові гармати"
+ EQUIPMENT_ARTILLERY: "Артилерія"
  EQUIPMENT_ANTI_TANK: "ПТА"
  EQUIPMENT_ROCKET: "Міномети"
  EQUIPMENT_FLAME: "Вогнемети"
@@ -577,10 +579,6 @@
  anti_tank_equipment_1: "Протитанкова гармата" # вид зброї: арта чи рушниця?
  anti_tank_equipment_1_short: "ПТ-гармата"
  #anti_tank_equipment_1_desc:0 "We need to create medium-caliber guns for direct fire on moving targets. This new type of artillery we will use against armored cars."
- artillery_equipment: "Польова гармата"
- artillery_equipment_desc:0 "Field Guns are long-range artillery pieces that fire at a relatively low angle, as opposed to howitzers which can fire at higher angles." # (!)
- artillery_equipment_1: "$artillery_equipment$"
- artillery_equipment_1_desc: "$artillery_equipment_desc$"
 
  infantry_equipment: "Піхотне спорядження"
  infantry_equipment_short: "Піхотне спор."
@@ -689,10 +687,6 @@
  MANPOWER_REINFORCEMENT_NOT_POSSIBLE: "§RПоповнення особового складу не можливе в поточному місці.§!"
  ARCHETYPE_DESC_ENTRY: "    - $COUNT|0$ $NAME|H$"
  OUTDATED_EQ: "Показати §Hзастаріле оснащення§!"
- artillery_equipment_2: "Поліпшена польова гармата"
- artillery_equipment_2_desc:0 "New cannon designs, taking advantage of new hydraulic recoil devices and longer barrels."
- artillery_equipment_3: "Удосконалена польова гармата"
- artillery_equipment_3_desc:0 "Light-weight cannon capable of being broken down for transport, making it possible to bring artillery support to areas previously difficult to reach."
  anti_air_equipment_2: "Поліпшена зенітна артилерія"
  anti_air_equipment_2_desc:0 "Anti-air guns with longer cartridges and barrels, able to target high-flying aircraft."
  anti_air_equipment_3: "Удосконалена зенітна артилерія"
