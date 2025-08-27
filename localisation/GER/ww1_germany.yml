@@ -1,133 +1,4 @@
 ﻿# == (*) ==
-### ІДЕЇ ###
- GER_idea_victory_propaganda: "Пропаганда перемоги"
- GER_idea_victory_propaganda_desc: "Ми застосовуємо пропаганду для підтримки громадської підтримки та бойового духу під час війни." # (@)
- GER_idea_bismarksche_reichsverassung: "Bismarcksche Reichsverfassung"
- GER_idea_bismarksche_reichsverassung_desc: "Бісмаркова Імперська конституція, ухвалена після Франко-прусської війни, є правовою основою Німецької імперії. Вона об'єднує 25 німецьких держав у федерацію під спадковим головуванням прусського короля, котрий також носить титул німецького кайзера. Хоча Бундесрат представляє землі, а Райхстаґ обирається загальним чоловічим виборчим правом, право кайзера призначати канцлера дозволяє йому мати значний вплив на законодавство, зберігаючи сильний монархічний характер конституційної системи." # (@)
- GER_idea_naval_arms_race: "Морська гонка озброєнь"
- GER_idea_naval_arms_race_desc: "Ми беремо участь у конкурентному нарощуванні військово-морських сил, особливо з державою [ENG.GetFlag]§R[ENG.GetName]§!, щоб утвердити морське домінування." # (@)
- GER_sektion_iii_b: "Sektion IIIb"
- GER_home_by_christmas: "Удома до Різдва?"
- GER_home_by_christmas_desc: "Наш великий наступ на Францію не дав очікуваних результатів, і Західний фронт усе ще чинить опір. Німці поступово деморалізуються, бачачи, що генеральний штаб не має жодного уявлення про рівень готовності ворога, оскільки нашу обіцянку не було дотримано." # (@)
- GER_defat_france_to_remove_this_idea: "Переможіть державу §R[FRA.GetFlag][FRA.GetName]§!, щоби видалити цю ідею."
- GER_idea_nationalstaat: "Nationalstaat"
- GER_idea_nationalstaat_desc: "Щоби забезпечити перемогу, ми мусимо просувати концепцію єдиної національної держави, наголошуючи на національній ідентичності та суверенітеті." # (@)
- GER_idea_germany_encircled: "Einkreisungstheorie"
- GER_idea_germany_encircled_desc: "Поширена §Y«Теорія оточення»§! стверджує, що Німеччина перебуває в стратегічному оточенні: Франція, яка прагне реваншу, на заході, Російська імперія на сході та британська морська сила з півночі, яка обмежує наш досяг. Ця відчутна загроза посилюється ненадійністю нашого союзника-Австрії, що робить наш південний фланг вразливим. Прихильники розглядають це оточення Антанти як екзистенційну небезпеку для наших земель та промислової могуті. Тому всі дії мусять бути спрямовані на те, щоби розірвати ці стратегічні пута й забезпечити безпеку Німецької імперії.\n\nБудь-якими можливими засобами..." # (@)
- GER_idea_renowned_education_system: "Прославлена система освіти"
- GER_idea_renowned_education_system_desc: "Німецька освіта не має собі рівних, випускаючи багато видатних науковців та інженерів, які сприяють подальшому розвитку нашої економіки й армії, а наші союзники та піддані більш ніж спроможні пожинати плоди наших здобутків." # (@)
- GER_idea_rising_unions: "Зростаючі профспілки"
- GER_idea_rising_unions_desc: "§RДопоки ця ідея діє, великі страйки продовжать ставатися.§!"
- GER_rapid_urbanisation: "Стрімка урбанізація"
- GER_rapid_urbanisation_desc: "Вибухове зростання німецької промисловості призвело до масового відтоку населення з сільської місцевості, перетворивши наші міста майже за одну ніч. У той час як нові заводи з'являються з небаченою раніше швидкістю, наша інфраструктура намагається встигнути за цим стрімким розвитком. Постійний приплив робітників у поєднанні з недостатньою кількістю житла та приміщень призвів до значної неефективності нашого промислового виробництва. Керівники заводів повідомляють про труднощі з підтриманням стабільного рівня виробництва, оскільки робітники часто переходять з однієї галузі в іншу в пошуках кращих умов." # (@)
- GER_rapid_urbanisation_2: "Керована урбанізація"
- GER_rapid_urbanisation_2_desc: "Наші зусилля, спрямовані на впорядкування росту міст, починають приносити плоди. Хоча нові промислові комплекси продовжують з'являтися з вражаючою швидкістю, ми досягли успіхів у вирішенні проблеми нестачі інфраструктури. Хоча наші заводи все ще працюють нижче оптимальної ефективності, поліпшення адміністративного нагляду та міського планування допомогли стабілізувати робочу силу та виробничі процеси. Тепер завдання полягає в тому, щоби зберегти цей крихкий баланс між зростанням і стійкістю." # (@)
- GER_rapid_urbanisation_3: "Стабілізований ріст міст"
- GER_rapid_urbanisation_3_desc: "Завдяки ретельному плануванню та постійним інвестиціям ми значною мірою приборкали хаос стрімкої урбанізації. Розширення нашої промисловості триває у здоровому темпі, хоча ми все ще надаємо перевагу будівництву заводів, а не розвитку інфраструктури. Впровадження сучасних принципів містобудування й оптимізація адміністративних систем значно підвищили ефективність промисловості, навіть незважаючи на те, що наші міста продовжують зростати. Такий виважений підхід забезпечує стабільний прогрес, зводячи до мінімуму перебої в роботі, які колись були притаманні нашим міським центрам." # (@)
- GER_encouraged_german_militarism: "Прусська військова традиція"
- GER_encouraged_german_militarism_desc: "Військовий дух Пруссії глибоко пронизує німецьке суспільство. Від обов'язкової військової служби до престижу офіцерського корпусу, мілітаризм є не просто політикою, а наріжним каменем нашого національного характеру. Ця глибоко вкорінена військова традиція забезпечує постійний потік охочих призовників і компетентних офіцерів." # (@)
- GER_expanding_workforce: "Розширення промислової робочої сили"
- GER_expanding_workforce_desc: "Швидке зростання німецької промисловості привернуло мільйони з сільської місцевості до наших міських центрів. Це зростання промислової робочої сили, хоч і створює певні соціальні виклики, забезпечує нас робочою силою, необхідною для нашого економічного дива й військового виробництва." # (@)
- GER_high_command_rivalry_balanced: "Урівноважене вище командування"
- GER_high_command_rivalry_balanced_desc: "Тонка рівновага між міністерством війни та генеральним штабом гарантує, що у стратегічному плануванні враховуються як цивільні, так і військові перспективи, хоча іноді це призводить до вповільнення ухвалення рішень." # (@)
- GER_high_command_rivalry_war_ministry_favoured: "Сходження міністерства війни"
- GER_high_command_rivalry_war_ministry_favoured_desc: "Вплив міністерства війни значно зріс, надавши цивільним адміністраторам більший контроль над військовими справами. Хоча це підвищує ефективність логістики та планування, це іноді розчаровує наших більш агресивних воєначальників." # (@)
- GER_high_command_rivalry_war_ministry_dominant: "Верховенство міністерства війни"
- GER_high_command_rivalry_war_ministry_dominant_desc: "Міністерство війни досягло чіткого домінування над військовими справами, забезпечивши жорсткий цивільний контроль над збройними силами. Це впорядкувало нашу військову бюрократію, але може обмежити тактичну гнучкість на місцях." # (@)
- GER_high_command_rivalry_general_staff_favoured: "Сходження генерального штабу"
- GER_high_command_rivalry_general_staff_favoured_desc: "Вплив генерального штабу значно зріс, надаючи військовим командирам більшу автономію у стратегічному плануванні. Хоча це сприяє тактичним інноваціям, іноді це може призвести до тертя з цивільною владою." # (@)
- GER_high_command_rivalry_general_staff_dominant: "Верховенство генерального штабу"
- GER_high_command_rivalry_general_staff_dominant_desc: "Генеральний штаб досяг майже повного контролю над військовим плануванням і операціями. Хоча це забезпечує швидке прийняття військових рішень, це призвело до маргіналізації цивільного нагляду за збройними силами." # (@)
- GER_subsidised_fighter_production: "Субсидована авіаційна промисловість"
- GER_subsidised_fighter_production_desc: "Завдяки щедрим державним субсидіям і військовим контрактам ми сприяємо зростанню нашої новонародженої авіаційної промисловості. Ці вкладення в технології повітряної війни забезпечать Німеччині домінування в небі." # (@)
- GER_mass_produce_v_30: "Масове виробництво V-30"
- GER_mass_produce_v_30_desc: "Оптимізувавши виробництво наших торпедних катерів V-30, ми досягли значної економії за рахунок ефекту масштабу. Цей ефективний виробничий процес гарантує, що наші військово-морські сили отримують стабільні поставки сучасних легких корпусів." # (@)
- GER_tirpitzs_grand_fleet_idea: "Бачення Тірпіца"
- GER_tirpitzs_grand_fleet_idea_desc: "Амбіційна програма великого адмірала Тірпіца з розширення флоту має на меті створити флот, здатний кинути виклик британському пануванню на морі. Завдяки ретельному плануванню та значним інвестиціям ми будуємо флот відкритого моря, гідний Німецької імперії." # (@)
- GER_nationalise_diamond_deposits: "Націоналізовані колоніальні ресурси"
- GER_nationalise_diamond_deposits_desc: "Поставивши видобуток колоніальних ресурсів під прямий державний контроль, особливо багаті родовища алмазів у німецькій Південно-Західній Африці, ми забезпечили собі цінне джерело багатства для фінансування нашої військової та промислової експансії." # (@)
- GER_ohl_zentral: "Центральне командування ВКА"
- GER_ohl_operation: "Операційне командування ВКА"
- GER_ohl_politische: "Політичний авторитет ВКА"
- GER_ohl_lr: "OHL Left-Right Coordination" # (&)
- GER_ohl_lc: "OHL Left-Center Coordination" # (&)
- GER_ohl_rc: "OHL Right-Center Coordination" # (&)
- GER_ohl_final: "Верховне командування ВКА"
- GER_1907_federal_budget: "Федеральний бюджет 1907 року"
- GER_1907_federal_budget_desc: "Наш поточний федеральний бюджет відображає ретельний баланс між розширенням військового потенціалу, розвитком промисловості та соціальним забезпеченням, хоча зростаючі потреби виснажують наші ресурси." # (@)
- GER_lost_momentum: "Оборонне укріплення" # (&+)
- GER_lost_momentum_desc: "Наші війська втратили ініціативу в боротьбі з військами Антанти, що змусило нас зайняти більш оборонну позицію. Хоча наші війська окопуються швидше, їхні наступальні можливості та мобільність значно знизилися. Ця невдача також вплинула на моральний дух як військових, так і цивільних." # (@)
- GER_idea_national_debt: "Ефективний державний борг" # (&+)
- GER_idea_national_debt_desc: "Завдяки ретельному управлінню державними фінансами ми втримуємо наш державний борг на прийнятному рівні, хоча постійне розширення військового потенціалу виснажує наші ресурси." # (@)
- GER_idea_national_debt_2: "Зростаючий державний борг"
- GER_idea_national_debt_2_desc: "Зростаючий тягар державного боргу починає обмежувати нашу фінансову гнучкість, хоча ми зберігаємо здатність фінансувати основні державні функції." # (@)
- GER_idea_national_debt_3: "Великий державний борг"
- GER_idea_national_debt_3_desc: "Наш зростаючий державний борг став серйозною загрозою, що змушує нас робити складний вибір пріоритетів у витратах і потенційно обмежує наші військові можливості." # (@)
- GER_idea_national_debt_4: "Крайній державний борг"
- GER_idea_national_debt_4_desc: "Нищівна вага нашого державного боргу загрожує самій стабільності нашої економіки, вимагаючи радикальних заходів для запобігання фінансовому краху." # (@)
- GER_lack_of_capital: "Бюджетний дефіцит"
- GER_lack_of_capital_desc: "Наші амбіційні військові та соціальні програми створили значне навантаження на фінанси Райху. Якщо зростаючий бюджетний дефіцит не зупинити, він загрожує підірвати нашу економічну стабільність." # (@)
- GER_gained_momentum: "Наступальний поштовх" # (&+)
- GER_gained_momentum_desc: "Наші війська перехопили ініціативу на полі бою, проявивши підвищену боєздатність і рухливість. Цей успіх зміцнив як бойовий дух військ, так і підтримку бойових дій із боку тилу." # (@)
- GER_idea_light_rationing: "Легке нормування припасів"
- GER_idea_light_rationing_desc: "Щоби забезпечити адекватне постачання для наших збройних сил, ми запровадили базові заходи з нормування. Хоча ці обмеження відносно м'які, вони допомагають підтримувати наші стратегічні запаси." # (@)
- GER_idea_moderate_rationing: "Помірне нормування припасів"
- GER_idea_moderate_rationing_desc: "Оскільки потреби війни зростають, ми посилили систему нормування. Громадяни вчаться обходитися меншим, хоча певне невдоволення неминуче." # (@)
- GER_idea_strict_rationing: "Суворе нормування припасів"
- GER_idea_strict_rationing_desc: "У зв'язку з тим, що війна вимагає все більше ресурсів, ми запровадили суворі обмеження на споживання для цивілу. Кожен шматочок їжі та сировини треба ретельно розподіляти." # (@)
- GER_idea_extreme_rationing: "Крайнє нормування припасів"
- GER_idea_extreme_rationing_desc: "Від нашого народу вимагають максимальних жертв у тилу. Ці суворі заходи необхідні для перемоги, але вони випробовують межі витривалості цивілу." # (@)
- GER_burgfriedenspolitik_tt: "Всі закони §YРайхстаґу§! будуть ухвалюватися, незалежно від підтримки." # (@)
- GER_abteilung_3b: "Abteilung IIIb"
- GER_abteilung_3b_desc: "Наш відділ військової розвідки забезпечує посилений захист від іноземного шпигунства." # (@)
- GER_abteilung_3b_expand: "Abteilung IIIb"
- GER_abteilung_3b_expand_desc: "Розширюючи наші контррозвідувальні операції, ми поліпшили нашу здатність захищати конфіденційну інформацію та зменшити можливості ворога зі збору розвідувальних даних." # (@)
- GER_abteilung_3b_foreign: "Abteilung IIIb"
- GER_abteilung_3b_foreign_desc: "Наша розвідка створила ефективну агентську мережу за кордоном, що значно підвищило нашу здатність розвивати розвідувальні мережі на чужих територіях." # (@)
- GER_abteilung_3b_expand_foreign: "Abteilung IIIb"
- GER_abteilung_3b_expand_foreign_desc: "Завдяки всебічному розширенню наших оборонних можливостей і можливостей зовнішньої розвідки ми досягли найвищого рівня інформаційної безпеки, зберігаючи при цьому розгалужену мережу збору розвідувальної інформації за кордоном."
- GER_wealth_tax_law_idea: "Прогресивне оподаткування"
- GER_wealth_tax_law_idea_desc: "Упровадивши більш прогресивну податкову систему, яка покладає більший тягар на багатих, ми збільшили наші доходи, зберігаючи при цьому соціальну стабільність." # (@)
- GER_temporary_tariffs: "Екстрені тарифи" # (&+)?
- GER_temporary_tariffs_desc: "Ці тимчасові торговельні обмеження допомагають захистити вітчизняну промисловість і приносять державі додаткові доходи, хоча й ціною певних міжнародних торговельних відносин." # (@)
- GER_military_expansion_law: "Закон про розширення армії"
- GER_military_expansion_law_desc: "Ця всеосяжна програма розширення військового потенціалу забезпечить наші збройні сили людськими ресурсами, необхідними для захисту Райху." # (@)
- GER_military_expansion_laws: "Розширені військові реформи"
- GER_military_expansion_laws_desc: "Наші триваючі військові реформи та програми розширення перетворили збройні сили на більш ефективну бойову силу, хоч і значним коштом для державної скарбниці." # (@)
- GER_fith_fleet_act: "Закон про п'ятий флот"
- GER_fith_fleet_act_desc: "Остання програма адмірала фон Тірпіца з розширення флоту має на меті кинути виклик британському пануванню на морі шляхом будівництва додаткових великих кораблів." # (@)
- GER_fith_fleet_act_extended: "Розширена флотська програма" # (&+)
- GER_fith_fleet_act_extended_desc: "Розширена програма будівництва флоту відображає наше прагнення зробити Німеччину провідною морською державою, незважаючи на дипломатичні наслідки." # (@)
- GER_1912_liberal_federal_budget: "Ліберальний бюджет 1912 року"
- GER_1912_liberal_federal_budget_desc: "Цей прогресивний бюджет наголошує на витратах на соціальний захист і розвиток інфраструктури, зберігаючи при цьому фіскальну відповідальність." # (@)
- GER_1912_conservative_federal_budget: "Консервативний бюджет 1912 року"
- GER_1912_conservative_federal_budget_desc: "Наш консервативний фіскальний підхід надає пріоритет військовим витратам і промисловому розвитку, зберігаючи при цьому традиційну економічну політику." # (@)
- GER_battleship_production_focus: "Ставка на будівництво лінкорів"
- GER_battleship_production_focus_desc: "Сучасна доктрина флоту диктує перевагу лінкора. Хоча він може зіткнутися з викликами, що їх несуть із собою нові технології, він завжди залишатиметься центральним елементом морської війни." # (@)
- GER_submarine_production_focus: "Ставка на будівництво підводних човнів"
- GER_submarine_production_focus_desc: "Торпеди довели свою цінність у битві при Цушімі в 1905 році, де торпедні катери відправили більшу частину російського флоту на дно океану. У поєднанні зі здатністю підводних човнів пересуватися під водою ми отримали зброю, яка може наносити удари й залишатися непомітною, приносячи перемогу на морі." # (@)
- GER_prussian_army_style: "Стиль прусської армії"
- quantitative_war_planning: "Кількісне планування війни" # (@)
- quantitative_war_planning4: "Доктрина гнучкої оборони"
- GER_initial_zeppelin_investment: "Початкове вкладення в цепеліни"
- GER_idea_kriegsrohstoffabteilung: "Kriegsrohstoffabteilung"
- GER_schlieffen_plan: "План Шліффена"
- GER_schlieffen_moltke_plan: "План Шліффена–Мольтке"
-
- GER_industrial_ties_with_germany: "Промислові зв'язки з Німеччиною"
- GER_industrial_ties_with_germany_desc: "Ізоляція держави [ROOT.GetName] зробила її залежною від доброзичливого, але панівного німецького сусіда в торгівлі, технологічному та військовому обміні." # (&) (@)
- GER_economical_submission: "Економічне підданство"
- GER_economical_submission_desc: "[ROOT.GetAdjectiveCap]а економіка перебуває під контролем Німеччини, що не дає нам можливість інвестувати та розвивати нашу промисловість без згоди Німеччини." # (@)
-
- has_u_boat_campaign_tt: "Бере участь у §Yкампанії півдводних човнів§!" # (&) — інак. Залучен[]
- has_u_boat_campaign_tt_NOT: "Не бере участь у §Yкампанії півдводних човнів§!" # (&)
- has_unrestricted_submarine_warfare_tt: "Має національний дух §Y$GER_unrestricted_submarine_warfare_idea3$§!"
- has_unrestricted_submarine_warfare_tt_NOT: "Не має національний дух §Y$GER_unrestricted_submarine_warfare_idea3$§!"
- has_GER_idea_rising_unions_tt: "Має національний дух §Y$GER_idea_rising_unions$§!"
- has_GER_idea_rising_unions_tt_NOT: "Не має національний дух §Y$GER_idea_rising_unions$§!"
- has_GER_idea_rapid_urbanisation_tt: "Має національний дух §Y$GER_rapid_urbanisation$§!"
- has_GER_idea_rapid_urbanisation_tt_NOT: "Не має національний дух §Y$GER_rapid_urbanisation$§!"
-
 ### ПЕРСОНАЖІ ###
  GER_ernst_von_heydebrand: "Ернст фон Гайдебранд"
  GER_karl_helfferich: "Карл Гельферих"
@@ -259,7 +130,7 @@
   tt_while_ongoing: "Поки завдання триває, ми будемо отримувати бонуси від:" # (&+)
 
   ww1_germanrework.103.t: "Сілезія в обмін а Тіроль?"
-  ww1_germanrework.103.d: "Німецький канцлер Теодор фон Бетман-Гольвеґ вирушив до Відня, щоб обговорити план поступок, спрямований на остаточне пом'якшення напружених відносин між Австрією та Італією. Усвідомлюючи труднощі нашої армії, міністр запропонував обміняти свою територію, якщо ми погодимося на вимоги Італії. Іншими словами, ми могли б віддати Тіроль і отримати в обмін Сілезію. Ця пропозиція є дуже привабливою, оскільки Сілезія є індустріалізованою територією, де проживають німецькомовні жителі, що є для нас вигідним." # (@!)
+  ww1_germanrework.103.d: "Німецький канцлер Теобальд фон Бетман-Гольвеґ вирушив до Відня, щоб обговорити план поступок, спрямований на остаточне пом'якшення напружених відносин між Австрією та Італією. Усвідомлюючи труднощі нашої армії, міністр запропонував обміняти свою територію, якщо ми погодимося на вимоги Італії. Іншими словами, ми могли б віддати Тіроль і отримати в обмін Сілезію. Ця пропозиція є дуже привабливою, оскільки Сілезія є індустріалізованою територією, де проживають німецькомовні жителі, що є для нас вигідним." # (@!)
   ww1_germanrework.103.a: "Це є справедлива угода."
   ww1_germanrework.103.b: "Ніколи!"
 
@@ -522,7 +393,7 @@
   ww1_germanrework.66.a: "Кризу вирішено."
   #News event about Germany and UK war with France
   ww1_germanrework.67.t: "У Європі спалахує війна!"
-  ww1_germanrework.67.d: "Війна в Європі! Після того, як Португалія відмовилася прийняти вимоги Великої Британії та Німеччини про приєднання Анґоли, обидві країни оголосили війну Португалії. Однак Франція прийшла на допомогу Португалії, намагаючись стримати німецькі амбіції. Без сумніву, незабаром у боротьбу вступлять інші європейські держави, в тому числі Росія та Австрія.\n\nЧерез століття людство ставитиме питання, чому такий великий конфлікт був розпочатий через одну колонію..." # (@!)
+  ww1_germanrework.67.d: "Війна в Європі! Після того, як Португалія відхилила спільні вимоги Великої Британії та Німеччини про приєднання Анґоли, обидві країни оголосили війну Португалії. Однак Франція прийшла на допомогу Португалії, намагаючись стримати німецькі амбіції. Без сумніву, незабаром у боротьбу вступлять інші європейські держави, в тому числі Росія та Австрія.\n\nЧерез століття людство ставитиме питання, чому такий великий конфлікт був розпочатий через одну колонію..." # (@!)
   ww1_germanrework.67.a: "Війна, що покладе кінець усім війнам."
   #Germany informed of British backstab
   ww1_germanrework.68.t: "Сполучене Королівство відмовляється допомагати нам"
@@ -1314,7 +1185,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_unlock_reformist: "Цей варіант відімкне §Cреформістську§! гілку."
   GER_new_east_prussia_tt: "\nЦі §Yнові східнопрусські§! області буде анексовано при заснуванні §RКоролівства Польського§!"
   GER_blockade_broken_tt: "Із проривом блокади негативні ефекти §Rголоду§! буде §Yвидалено§!."
-  GER_fire_current_chancellor_tt: "Поточного §Yканцлера§! буде звільнено!" # (&)
+  GER_fire_current_chancellor_tt: "Поточного §Yканцлера§! буде звільнено!"
   GER_unlock_war_economy_focuses_tt: "§YВідмикає§! гілку фокусів §rвоєнної економіки§!."
 
  ## Підказки командування ВКА
@@ -1594,9 +1465,9 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_develop_derfflinger_class: "Замовити клас «Derfflinger»"
   GER_develop_derfflinger_class_desc: "In reaction to the Royal Navy's new Lion Class battlecruisers, we shall order a new class, one that will outclass similar ships in terms of guns and speed, to be constructed ahead of schedule."
   GER_expand_kaiserliche_werften: "Розширити Kaiserliche Werften"
-  GER_expand_kaiserliche_werften_desc: ""
+  GER_expand_kaiserliche_werften_desc: "The state owned shipyards require further expansion in order to keep up with demand for new warships. Urgent investement is needed."
   GER_fund_ag_weser: "Дати позики AG Weser"
-  GER_fund_ag_weser_desc: ""
+  GER_fund_ag_weser_desc: "Founded in 1872, AG Weser largely makes ships for civilian use, but has approached us with a request for a loan to build new warships. Granting this loan will be an added bonus in the arms race."
   GER_gruss_an_kiel: "Gruß an Kiel"
   GER_gruss_an_kiel_desc: ""
   GER_develop_light_cruisers: "Розробити легкі крейсери"
@@ -1623,6 +1494,8 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_military_mission_to_ottoman_empire: "Військова місія до Османської імперії"
   GER_military_mission_to_ottoman_empire_desc: "For decades, we have aided the Sublime Porte in modernising its military. By expanding our military mission, we can strengthen our ties with [TUR.GetNameDef], secure a valuable ally on our southern flank, and counter the ever-present threat of encirclement."
   GER_send_military_mission_to_ottoman: "Send several Generals and Advisors to assist @TUR §Ythe [TUR.GetAdjective] Army§!."
+  GER_strike_entente: "Ударити по Антанті"
+  GER_strike_entente_desc: "Encirclement by the Entente is a dagger pointed at our nation's heart. To wait for our enemies to act is to invite strangulation. We must seize the initiative with a decisive strike, breaking the chains of containment and securing our place in the sun before they can coordinate their full might against us."
   GER_support_triple_alliance_armies: "Підтримати союзні армії"
   GER_support_triple_alliance_armies_desc: "While our own army is the finest in the world, the same cannot be said for all of our allies. Their forces are not yet prepared for modern warfare. We must send military advisors to help them reform and adopt our superior standards, ensuring our entire alliance is a cohesive and effective fighting force."
   GER_sell_ships_to_netherlands: "Флотський контракт із нідерландцями" # (&+)
@@ -1678,7 +1551,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_second_army_bill_desc: "To ensure the Reich's security, we must enact an even more ambitious expansion of our armed forces. This second military law will create new army corps and strengthen existing units. Gott mit uns!"
   GER_improved_schlieffen_alone_plan: "Ми змінимо §Y£decision_icon_small $GER_schliffen1905plan$§!, зробивши його більш §tагресивним§!.\n\n"
   GER_improved_schlieffen_plan: "Ми змінимо §Y£decision_icon_small $GER_schliffenmoltkeplan$§!, зробивши його більш §tагресивним§!.\n\n"
-  GER_more_aggressive_schlieffen_plan: "Поновити план Шліффена–Мольтке"
+  GER_more_aggressive_schlieffen_plan: "Пожвавити план Шліффена" # (&+)
   GER_more_aggressive_schlieffen_plan_desc: "The General Staff proposed a modernization of the Schlieffen Plan aimed at increasing the aggressiveness of the operation. This approach is linked to the traditional Prussian approach that our superior army will be able to counter any numerical advantage the enemy may have. Furthermore, the recognition of Holland's neutrality must be considered."
   GER_subsidise_mauser: "Субсидувати Mauser"
   GER_subsidise_mauser_desc: "The Mauser company is a cornerstone of our arms industry, and their Gewehr 98 rifle forms the backbone of our infantry. We must provide state subsidies to ensure they can expand production and equip our soldiers with the finest small arms in the world."
@@ -1776,7 +1649,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_war_socialism_desc: "The army without a state requires it's materiel to be delivered on time, and ideally well before that. By twisting the words of socialists, we can enact policies that echo the thoughts of Marx and Engels to fuel the Reich's war."
   GER_surpress_the_peace_movements: "Придушити мирні рухи"
   GER_surpress_the_peace_movements_desc: "Peace is weakness, and when on the verge of a breakthrough in Europe, we cannot have the pacifists stab us in the back! The police will be rallied, and those found to be traitors to the Fatherland will be imprisoned!"
-  GER_judenzahlung: "Judenzahlung"
+  GER_judenzahlung: "Judenzählung"
   GER_judenzahlung_desc: "The Jews are believed to be unpatriotic, and by launching a secret census amongst them, we can certainly prove it."
   GER_expanding_abteilung_iiib_powers: "Розширити владу Abteilung IIIb"
   GER_expanding_abteilung_iiib_powers_desc: "IIIb has proven useful so far, and with additional funding to the censorship, secret police, and the general counter-intelligence departments, we can effectively consider Germany's foes to be defeated within our homefront."
@@ -1789,7 +1662,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_the_hindenburg_program: "Програма Гінденбурґа"
   GER_the_hindenburg_program_desc: "Victory demands the total mobilization of our economy. We will enact the Hindenburg Programme, a sweeping plan to dramatically increase armaments production. All economic activity and labor will be subordinated to the needs of the war effort. This is the path to total victory."
   GER_sending_disenters_to_the_front: "Відправити дисидентів на фронт"
-  GER_sending_disenters_to_the_front_desc: "Those who wish to disagree with the way Germany does things shall be given a punishment we likely wouldn't enact in peacetime. They will be trained and fight "
+  GER_sending_disenters_to_the_front_desc: "Those who wish to disagree with the way Germany does things shall be given a punishment we likely wouldn't enact in peacetime. They will be trained and sent to the front."
   GER_establishing_the_foreign_armies: "Заснувати іноземні армії"
   GER_establishing_the_foreign_armies_desc: "Effective strategy requires a deep understanding of our adversaries. We will dedicate a specific branch of our intelligence service to the systematic analysis of enemy armies, assessing their strength, organization, and doctrine. Superior knowledge will prevent strategic surprises and give us the advantage."
   GER_blitzproduktion: "Blitzproduktion"
@@ -1946,7 +1819,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
  GER_election1_desc: "§WПередбачені результати виборів:\n$GER_leftist_factions_prediction_text$\n$GER_leftist_factions_prediction_list_text$\n$GER_centrist_factions_prediction_text$\n$GER_centrist_factions_prediction_list_text$\n$GER_rightist_factions_prediction_text$\n$GER_rightist_factions_prediction_list_text$\n$GER_neutral_factions_prediction_text$\n$GER_neutral_factions_prediction_list_text$§!"
 
  ## Події (Райхстаґ)
-  ww1_german_reichstag.1.t: "[GetYear] Reichstag Election"
+  ww1_german_reichstag.1.t: "[?reichstag_election_date] Reichstag Election"
   ww1_german_reichstag.1.d: "Outside of wartime, the Reichstag is renewed every five years following elections of its deputies. During the reign of the lower house, the Reichstag is essential for the development of German legislation, as well as for passing budgets and exceptional credits."
   ww1_german_reichstag.1.a: "Now the work begins"
   ww1_german_reichstag.2.t: "Elections to be Postponed by the Reichstag"
@@ -1967,7 +1840,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   ww1_german_reichstag.7.a: "Perhaps a federal empire was a mistake."
 
   GER_no_schlieffen: "Обрання цієї гілки не дасть вам §Y£decision_icon_small $GER_schliffenmoltkeplan$§!."
-  GER_no_schlieffen_ormolkte: "Обрання цієї гілки не дасть вам §Y£decision_icon_small $GER_schliffen1905plan$§! або §Y£decision_icon_small $GER_schliffenmoltkeplan$§!."
+  GER_no_schlieffen_ormolkte: "Ця гілка §Rпокидає§! §Y£decision_icon_small $GER_schliffen1905plan$§!!"
 
   tt_might_get_neutral_british: "We will attempt to work towards securing §Y[ENG.GetFlag][ENG.GetAdjective] Neutrality§! in any future war between us and §Y[FRA.GetFlag][FRA.GetName]§! or §Y[RUS.GetFlag]The [RUS.GetName]§!."
 
@@ -1984,8 +1857,11 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
  is_hollweg_chancellor_tt_NOT: "НЕ: §Y$GER_theobald_von_bethmann_hollweg$§! є канцлером"
  GER_control_MAF_state_tt: "Ми або один із наших підлеглих володіємо областю, на яку §Yпретендує§! §Y[MAF.GetNameDef]§!" # (&+)?
  GER_control_OST_state_tt: "Ми або один із наших підлеглих володіємо областю, на яку §Yпретендує§! §YНімецька Остазія§!" # (&+)?
- is_french_civil_war_ongoing: "У §YФранції§! триває §Yгромадянська війна§!"
+ is_french_civil_war_ongoing_tt: "У §YФранції§! триває §Yгромадянська війна§!"
+ is_french_civil_war_ongoing_tt_NOT: "НЕ: У §YФранції§! триває §Yгромадянська війна§!"
+ is_great_war_ongoing_tt: "§YВелика війна§! триває"
  GER_release_OST: "@OST §YНімецьку Остазію§! буде звільнено в якості маріонетки."
+ GER_war_coalition_active: "§YКоаліція воєнного часу§! діє"
 
 ### ІНШІ ПОДІЇ ###
  ww1_german_victory.1.t: "The Future of the OHL"
@@ -2004,7 +1880,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
 
  ww1_german_victory.4.t: "Strikes Escalate: Demand for New Elections"
  ww1_german_victory.4.d: "Following the wave of democratic protests, a second and more determined movement has taken shape. Major industrial centers across Germany — from the Ruhr to Saxony — are now paralyzed by strikes.\n\nProtesters are no longer content with promises of reform. They demand immediate national elections, a total restructuring of the imperial parliament, and urgent domestic reforms, including labor protections, housing programs, and price controls.\n\nEven within moderate parties, pressure is building to respond before the movement radicalizes further. The Reich cannot afford to appear deaf to its own people — not after victory."
- ww1_german_victory.4.b: "Delay and investigate... This must be controlled first."
+ ww1_german_victory.4.a: "Delay and investigate... This must be controlled first."
  GER_reform_german_empire: "Reform the Kaiserreich"
 
  ww1_german_victory.5.t: "The Kaiser Addresses the Nation"
@@ -2091,7 +1967,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
 
  ww1_german_victory.22.t: "[FROM.GetName] Note our Initiative"
  ww1_german_victory.22.d: "The friendly regards we addressed to the [FROM.GetAdjective] Government hasnt been ignored. In a typicaly diplomatic manner, [FROM.GetName] shown interest into our initiative, without recognizing it directly. It means that we might warm our relation in a more or less distant future, we hope."
- ww1_german_victory.22.a: "Its a good start!"
+ ww1_german_victory.22.a: "It's a good start!"
 
  ww1_german_victory.23.t: "[FROM.GetName] Ignored us"
  ww1_german_victory.23.d: "Our friendly hand has been refused by the [FROM.GetAdjective] Government, which didnt even responded our message. As we imagined, [FROM.GetAdjective] people are still arrogant and bad losers, making any warming-up of our relations impossible for now."
