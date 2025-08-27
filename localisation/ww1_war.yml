@@ -72,12 +72,13 @@
  WAR_NAME_FNG_ZHC: "Чжилійсько-фентяньська війна"
  WAR_NAME_FNG_ANC: "Аньхойсько-фентяньська війна"
  WAR_NAME_ANC_FNG: "Аньхойсько-фентяньська війна"
- WAR_NAME_GMJ_SDC: "Пекінський переворот"
+ WAR_NAME_GMJ_ZHC: "Пекінський переворот"
  WAR_NAME_GDC_ANC: "Північна експедиція"
  WAR_NAME_GDC_SDC: "Північна експедиція"
  WAR_NAME_GDC_FNG: "Північна експедиція"
  WAR_NAME_GDC_ZHE: "Північна експедиція"
  WAR_NAME_GDC_ZHC: "Північна експедиція"
+ WAR_NAME_GDC_FJN: "Північна експедиція"
  WAR_NAME_GXC_GDC: "Лянґуанська війна"  #兩廣戰爭
  WAR_NAME_GDC_GXC: "Лянґуанська війна"  #兩廣戰爭
  WAR_NAME_GDC_GZC: "Західна експедиція"  #西征

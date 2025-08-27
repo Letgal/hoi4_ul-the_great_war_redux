@@ -1,4 +1,4 @@
-﻿# == (*) ==
+# == (*) ==
 ### ПРОМИСЛОВІСТЬ ###
  #early_machine_tools:0 "Early Machine Tools"
  early_machine_tools_desc:0 "A variety of tools can be used in our military production lines to increase the efficency of our production."
@@ -52,17 +52,39 @@
  cat_artillery: "Артилерія"
  cat_field_gun: "Польові гармати"
  cat_howitzer: "Гаубиці"
- howitzer: "Гаубиця підтримки"
- howitzer2: "Поліпшення гаубиць I"
- howitzer3: "Поліпшення гаубиць II"
- howitzer4: "Поліпшена гаубиця"
- howitzer5: "Удосконалена гаубиця"
- howitzer_brigade: "Гаубиці"
+ early_artillery: "Рання артилерія"
+ early_artillery_desc: "$artillery_equipment_desc$"
+ prewar_field_gun: "Довоєнна польова гармата"
+ prewar_field_gun_desc: ""
+ improved_field_gun: "Поліпшена польова гармата"
+ improved_field_gun_desc: ""
+ improved_field_gun1: "Осучаснення поліпшених польових гармат I"
+ improved_field_gun1_desc: ""
+ improved_field_gun2: "Осучаснення поліпшених польових гармат II"
+ improved_field_gun2_desc: ""
+ advanced_field_gun: "Удосконалена польова гармата"
+ advanced_field_gun_desc: ""
+ advanced_field_gun1: "Осучаснення вдосконалених польових гармат"
+ advanced_field_gun1_desc: ""
+ prewar_howitzer: "Осучаснення довоєнних гаубиць"
+ prewar_howitzer_desc: ""
+ improved_howitzer: "Поліпшена гаубиця"
+ improved_howitzer1: "Осучаснення поліпшених гаубиць"
+ improved_howitzer1_desc: ""
+ advanced_howitzer: "Удосконалена гаубиця"
+ early_antiair1: "Осучаснення зенітної артилерії"
+ early_antiair1_desc: ""
+ basic_antiair: "Базова зенітна артилерія"
+ basic_antiair_desc: ""
+ basic_antiair1: "Осучаснення базової зенітної артилерії I"
+ basic_antiair1_desc: ""
+ early_antitank: "Рання протитанкова гармата"
+ early_antitank_desc: ""
  cat_mortar: "Мортира"
  basic_mortars: "Базова мортира"
  basic_mortars_desc:0 "Ранні міномети використовувалися для стрільби із закритих позицій. Цей тип артилерії менш вразливий до знищення та ефективний для перешкоджання просуванню ворожої піхоти."
  improved_mortars: "Поліпшена мортира"
- basic_mortars_desc:0 "Міни були особливо ефективними в окопній війні, адже їхня вертикальна траєкторія дозволяла снарядам прямісінько падати в окопи ворога."
+ improved_mortars_desc:0 "Міни були особливо ефективними в окопній війні, адже їхня вертикальна траєкторія дозволяла снарядам прямісінько падати в окопи ворога."
  advanced_mortars: "Удосконалена мортира"
  advanced_mortars_desc:0 "Легкі міномети, які можуть переносити піхотні підрозділи."
  #ARMOUR_TITLE_ARMCAR:0 "ARMORED CARS"
@@ -71,6 +93,7 @@
  #AIR_TITLE_AIRSHIP:0 "Airship"
  #AIR_TITLE_INTERWAR:0 "Interwar Aviation"
  #ARTILLERY_TITLE_MORTAR:0 "MORTAR"
+ ARTILLERY_TITLE_FIELD_GUN: "ПОЛЬОВІ ГАРМАТИ"
  #ARTILLERY_TITLE_HOWITZER:0 "HOWITZER"
  #TITLE_ELECTRICAL_SUBTITLE:0 "ELECTRICAL"
  #TITLE_MECHANICAL_SUBTITLE:0 "MECHANICAL"
@@ -89,6 +112,7 @@
  multicylinder_engine_desc:0 "The development of engines matched the heavier vehicles, giving rise to the design of engines with 6 and 8 cylinders."
 
 ### ЕЛЕКТРОНІКА+ ###
+ fire_control_systems: "Системи керування вогнем"
  #chemical_research:0 "Chemical Research"
  #chemical_research_desc:0 "There are countless elements in our world, unlike what ancient people used to think of as only water, fire, air, and soil are everything in the world. And if we learn how to handle these things, we can create a huge number of compounds. And there are endless possibilities here."
  #aircraft_engine:0 "Aircraft Engine"
@@ -239,8 +263,6 @@
  ww1_twilight_of_the_airship_desc:0 "The pinnacle of Airship combat is at hand time to make full use of it while it lasts."
 
 ### ІНШЕ ###
- #motorised_infantry2:0 "Motorised Infantry"
- motorised_infantry2_desc:0 "By extending the use of motor vehicles in infantry transports in the field, the mobility of otherwise slow-moving infantry units can be greatly improved, enabling faster responses and new strategies."
  tech_pioneers: "$pioneer_support$"
  tech_pioneers_desc: "$pioneer_support_desc$"
  tech_rangers: "$rangers_support$"
@@ -258,6 +280,9 @@
  brazilian_french_research_desc: ""
  #ITA_modernized_cavalry_tech:0 "Modernized Cavalry"
  #ITA_savari_tech:0 "Savari"
+ protected_ship_hull_cruiser: "Корпус захищеного крейсера"
+
+### ХІМІЧНА ВІЙНА ###
  chemical_tech:0 "Chemical technology" # (!)
  chemical_warfare_tech:0 "Хімічна зброя"
  chemical_warfare_tech_desc:0 "Початкові дослідження бойових отруйних речовин відкривають шлях до використання хімічної зброї в реальних бойових умовах."
@@ -346,7 +371,6 @@
  early_fire_control_system:0 "Система раннього управління вогнем"
 
 ### ІНШЕ ###
- motorised_infantry2:0 "Мотопіхота"
  russian_research_name:0 "Російське військове співробітництво"
  austrian_research_name:0 "Австрійсько-Німецьке військове співробітництво"
  german_research_name:0 "Міттельєвропа"

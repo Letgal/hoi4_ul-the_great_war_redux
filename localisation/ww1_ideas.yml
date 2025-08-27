@@ -235,6 +235,7 @@
  rolls_royce: "Rolls-Royce"
  fiat_RSI: "FIAT"
  daimler_motoren_gesellschaft: "Daimler-Motoren-Gesellschaft"
+ dmg_berlin_marienfelde: "DMG Berlin-Marienfelde"
  albanian_army_industries:0 "Промисловість албанської армії"
  esteban_de_luca_arsenal:0 "Esteban de Luca Arsenal"
  ejercito_argentino: "Ejército Argentino"
@@ -581,7 +582,7 @@
  mingsong_dock_and_engineering_works:0 "Док і інженерні роботи Мінсонг"
  zhili_industrial_bureau:0 "Промислове бюро Чжилі"
 
- #ITALY
+### ІТАЛІЯ ###
  ITA_vittorio_emanuele_iii_desc:0 "Despite his diminutive stature, §YVittorio Emanuele III§! has ruled §GItaly§! since 1900. His father §YUmberto I§! once remarked that to be a king, all one needed was to sign his name, read a newspaper, and mount a horse. Though his father was assassinated by an anarchist, Vittorio Emanuele has proven himself a more modern monarch, showing genuine interest in military affairs and maintaining a pragmatic commitment to constitutional government." # (!)
  idea_ITA_squadriglia_degli_assi: "Squadriglia degli Assi"
  idea_ITA_squadriglia_degli_assi_desc:0 "The §YSquadron of Aces§! represents the elite of §GItalian§! aviation. These exceptional pilots combine skill, courage, and innovation in the skies, establishing Italy as a significant air power and inspiring a new generation of aviators." # (!)
@@ -596,9 +597,24 @@
  idea_italy_MAS_boat_desc:0 "The §YArmed Torpedo Motorboat§! represents the pinnacle of Italian naval innovation. These swift, agile vessels excel in coastal defense, anti-submarine warfare, and convoy escort duties. Their success has made them a proud symbol of Italian naval engineering." # (!)
  ITA_idea_tribunale_speciale: "OVRA"
  ITA_idea_tribunale_speciale_desc:0 "The §YOrganizzazione per la Vigilanza e la Repressione dell'Antifascismo§! (Organization for Vigilance and Repression of Anti-Fascism) serves as our state's secret police force. Through an extensive network of informants, surveillance operations, and targeted arrests, OVRA ruthlessly hunts down and eliminates any opposition to the fascist regime, particularly §ocommunist§! sympathizers. Their methods have proven especially effective at maintaining control in both domestic territories and occupied regions." # (!)
+ ITA_active_labor_unions:0 "Active Labor Unions"
+ ITA_active_labor_unions_desc:0 "Labor unions present themselves as rather active in our nation. While their influences are limited, they will start their agitation as soon as they find a room for themselves."
+ ITA_active_labor_unions_tt:0 "This §YNational Spirit§! will give the following §Ymodifiers§! depending on;\nIf §YStability§! is below §R60%§!, Modify §YActive Labor Unions§! by: $communism_drift$: §G+0.01§!\nIf §YStability§! is below §R40%§!, Modify §YActive Labor Unions§! by: $communism_drift$: §G+0.02§!\nIf §YStability§! is below §R20%§!, Modify §YActive Labor Unions§! by: $communism_drift$: §G+0.03§!\n"
+ ITA_active_labor_unions_effect_tt_1: "$communism_drift$: §G+0.01§!\n"
+ ITA_active_labor_unions_effect_tt_2: "$communism_drift$: §G+0.02§!\n"
+ ITA_active_labor_unions_effect_tt_3: "$communism_drift$: §G+0.03§!\n"
+ ITA_active_labor_unions_dm:0 "[ITA_active_labor_unions_name]"
+ ITA_active_labor_unions_name_c:0 "£pol_idea  Active Labor Unions"
+ ITA_active_labor_unions_name_d:0 "£pol_idea  Catholic Opposition"
+ ITA_catholic_opposition:0 "Catholic Opposition"
+ ITA_catholic_opposition_desc:0 "Catholic upringins of our nation poses the greatest threat to our regime so far. While they're politically uninfluential, they will start their agitation as soon as they find a room for themselves."
+ ITA_catholic_opposition_tt:0 "[ITA_catholic_opposition_effect_tt]This §YNational Spirit§! will give the following §Ymodifiers§! depending on;\nIf §YStability§! is below §R60%§!, Modify §YCatholic Opposition§! by: $democratic_drift$: §G+0.01§!\nIf §YStability§! is below §R40%§!, Modify §YCatholic Opposition§! by: $democratic_drift$: §G+0.02§!\nIf §YStability§! is below §R20%§!, Modify §YCatholic Opposition§! by: $democratic_drift$: §G+0.03§!\n"
+ ITA_catholic_opposition_effect_tt_1: "$democratic_drift$: §G+0.01§!\n"
+ ITA_catholic_opposition_effect_tt_2: "$democratic_drift$: §G+0.02§!\n"
+ ITA_catholic_opposition_effect_tt_3: "$democratic_drift$: §G+0.03§!\n"
  ITA_idea_italian_autarky: "Італійська автаркія"
  ITA_idea_italian_autarky_desc:0 "Our policy of economic self-sufficiency aims to reduce §GItaly's§! dependence on foreign imports. While this has spurred domestic industrial development, it has also created significant challenges in resource acquisition and international trade." # (!)
- ITA_idea_mafia: "Вплив сицилійської мафії"
+ ITA_idea_mafia: "Вплив сицилійської мафії" # інак. Могутня мафія
  ITA_idea_mafia_desc:0 "The criminal organizations of Southern Italy, particularly the §YSicilian Mafia§!, maintain a powerful grip on local politics and economy. Their influence extends deep into society, challenging the authority of the central government and hampering our modernization efforts." # (!)
  ITA_idea_camicie_nere: "Чорні сорочки"
  ITA_idea_camicie_nere_desc:0 "The §YBlack Shirts§! serve as a powerful paramilitary force, maintaining order and enforcing political will through both intimidation and direct action. Their distinctive black uniforms have become a symbol of authority and control." # (!)
@@ -620,7 +636,7 @@
  ansaldo_aerei_desc:0 "As one of Italy's premier aircraft manufacturers, §YAnsaldo Aeronautica§! plays a vital role in our military aviation sector. Their innovative designs and production capabilities are crucial to maintaining our air force's technological edge." # (!)
  ITA_moderm_hussars: "Сучасні гусари"
  ITA_moderm_hussars_desc:0 "Our cavalry forces have adapted to modern warfare while maintaining their proud traditions. These modernized units combine classical cavalry tactics with contemporary military doctrine, proving their continued relevance on the battlefield." # (!)
- ITA_messina_earthquake_aftershock: "Спадщина Мессінського землетрусу"
+ ITA_messina_earthquake_aftershock: "Поштовх після Мессінського землетрусу"
  ITA_messina_earthquake_aftershock_desc:0 "The catastrophic earthquake and tsunami of December 28, 1908, remains a deep scar in our national psyche. The destruction of §YMessina§! and §YReggio di Calabria§! claimed over 80,000 lives, marking Europe's deadliest earthquake. The ongoing reconstruction efforts continue to strain our resources and shape our domestic policies." # (!)
  ITA_lackluster_industrialisation:0 "Млява індустріалізація"
  ITA_lackluster_industrialisation_desc:0 "Our industrialization efforts face significant challenges, particularly due to the stark contrast between the industrialized §gNorth§! and the agricultural §YSouth§!. This economic divide hampers our overall industrial development and national productivity." # (!)
@@ -634,8 +650,6 @@
  ITA_rapid_unionisation_desc:0 "Італійські робітники швидко об'єднуються в профспілки, а страйки залишаються все більш і більш актуальними."
  ITA_roman_question: "Questione Romana"
  ITA_roman_question_desc:0 "The complex relationship between the §GItalian State§! and the §WHoly See§! remains a delicate political issue. The status of §YRome§! as both our national capital and the seat of papal authority creates ongoing tensions in our domestic and international relations." # (!)
- ITA_poorly_organized_armed_forces:0 "Погано організована армія"
- ITA_poorly_organized_armed_forces_desc:0 "З моменту об'єднання армії розглядалася як критично важливий інструмент "ініціалізації" Політики як ліворуч, так і справа визнали, що регіональний набір був більш ефективним у військовому відношенні та економічним.\n\nНаслідки цієї організаційної структури були значною, перш за все, з матеріально-технічної точки зору, це було дорого трудомістка система, яка значно ускладнювала і сповільнювала процес мобілізації, з точки зору згуртованості частин, часто вважалася життєво місцем фактора підтримки морального духу військових"
  ITA_idea_arditi: "Reparti d'assalto"
  ITA_idea_arditi_desc:0 "The §YArditi§! — our elite assault troops — represent the pinnacle of Italian military prowess. These specially trained shock troops are known for their aggressive tactics and unwavering courage in the face of enemy defenses." # (!)
  ITA_lateran_treaty:0 "Латеранський договір"
@@ -677,8 +691,8 @@
  ITA_exiled_sultan:0 "Султан у вигнанні"
  ITA_exiled_sultan_desc:0 "Султан може де-юре бути правителем Хобіо, але справжня влада розподіляється між місцевими жителями, лейтенантами та італійською адміністрацією"
 
- has_italian_civil_war_tt:0 "В Італії триває громадянська війна"
- has_italian_civil_war_tt_NOT:0 "В Італії не громадянська війна"
+ has_italian_civil_war_tt: "Італія перебуває у §Yгромадянській війні§!"
+ has_italian_civil_war_tt_NOT: "Італія не перебуває у §Yгромадянській війні§!"
 
  ITA_under_enemy_hands: "Під ворожими руками" # (&?)
  ITA_under_enemy_hands_desc:0 "The Austrian Habsburgs has been the arch-enemy of Italian unification, but the idea of a united Italy has once again failed, and Venice has fallen under Austrian control. The local population is not too happy with their rule and control." # (!)
@@ -1283,6 +1297,8 @@
  russian_east_asiatic_steamship_co:0 "Російська Східно-Азійська пароплавна компанія."
  CER_nominal_concession:0 "Номінальна російська концесія"
  CER_nominal_concession_desc:0 "Незважаючи на порушення реальної центральної влади в Росії, CER все ще підтвердить її територію, і як така не може бути прийнята без міжнародної реакції."
+ CER_soviet_agreement:0 "Sino-Soviet Agreement" # (!)
+ CER_soviet_agreement_desc:0 "Under the agreement between Soviet Russia and the authorities of the Eastern Three Provinces of China, the Chinese Eastern Railway ceased to be a Russian concession or a privileged territory, but became a jointly managed railway company between Russia and China. In return, China recognized the Chinese Eastern Railway territory as a separate special administrative region and accepted Russian residents. However, the region's industry and economy remain heavily dependent on Russia."
 
  #Mongolia
  MON_divided_rule:0 "Розділена нація"
@@ -1656,6 +1672,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  VIN_Guerilla_Tradition_desc:0 "Неправильно вважають, що всі індокитайці народжені партизанами, але країна виключно підходить для такої війни, і люди мають давню традицію ведення партизанської війни від давніх легенд до недавньої опори проти колоністів"
 
 ### НІМЕЧЧИНА ###
+ GER_private_italian_investments: "Приватні італійські інвестиції"
+ GER_private_italian_investments_desc:0 "Various German venture capitalists have made significant investments in Italy which has brought an income of revenue into our nation." # (!)
  GER_Reichsland_elsass_lothringen: "Райхсланд Ельзас-Лотринґен"
  GER_Reichsland_elsass_lothringen_desc:0 "Unlike other German regions, which are federal states with their own local parliaments, Alsace-Lorraine is directly administered by the Empire, making it a territory with special status, headed by a governor.\n\nThe inhabitants of this region therefore have no political representation and are not considered full German citizens."
  GER_french_opposition: "Опозиція Ельзасу та Лотаринґії"
@@ -1796,7 +1814,6 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
 
  AUH_polish_separatism:0 "Галицька бідність"
  AUH_polish_separatism_desc:0 "Регіон Галичини був об'єктом повсюдної бідності під час австрійської адміністрації. Голод, хвороби та алкоголізм нестримні, тоді як уряд Австро-Угорщини та клас заможних землевласників експлуатують регіон для отримання природних ресурсів. Галичина переживає жахливий стан нещастя, і ми повинні виділити ресурси в регіоні, щоб запобігти поступовому падінню довіри до наших інституцій"
- AUH_polish_separatism2:0 "Освоєння Галицького краю"
  Austrian_international_staff:0 "Багатонаціональна армія"
  AUH_church_secularization:0 "Секуляризація церкви"
  AUH_church_secularization_desc:0 "Крим католицької та протестантської церков, визнані найбільші церкви національних меншин федерації"
@@ -2287,6 +2304,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  QIN_railway_protection_movement:0 "Рух захисту залізниці"
  QIN_railway_protection_movement_desc:0 "Уряд змусив людей інвестувати в залізниці, сказавши, що вони збираються будувати їх без запозиченого зовнішнього боргу та лише з національним капіталом, але потім націоналізували всі залізниці, компенсуючи лише близько 60% перших винайдених грошей. \nНавпроти імперії, люди обурені та намагаються зупинити спроби уряду націоналізації через масові протести, відомі як Рух захисту залізниці"
  QIN_idea_purchase_restriction:0 "Purchase Restriction" # (!)
+ QIN_idea_purchase_restriction_desc:0 "Under the terms of the Boxer Protocol, [ROOT.GetNameDef] has been restricted from importing arms production facilities or importing arms from foreign countries."
 
  CHI_idea_support_for_revolution: "Революційна підтримка"
  CHI_idea_revolutionary_fervor: "П'ятнадцять років планування" #Change this name if you want
@@ -2467,6 +2485,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  CHI_idea_republic_army:0 "Армія Республіки"
  CHI_idea_merchant_army:0 "Купецьке ополчення" # Група купців
  CHI_idea_merchant_army_desc:0 "З часів пізньої династії ціна організації торгових груп і місцевих жителів почалася в провінції Гуандун, де роки громадянської війни та люті бандити змусили місцевих жителів створити армії для самооборони."
+ CHI_idea_merchant_army_2:0 "Allied Merchant Militia" #商團 # (!)
+ CHI_idea_merchant_army_2_desc:0 "From the late Qing dynasty, the organisation of merchant groups and local militias began in Guangdong Province, where years of civil war and rampaging bandits led locals to form armies for self-defence."
  CHI_idea_sun_yatsen_president:0 "Генералісимус Сунь Ятсен"
  CHI_idea_sun_yatsen_president_desc:0 "Сунь Ятсен, ключовий архітектор китайської республіканської революції, є генералісимусом уряду захисту конституції в Гуанчжоу, провінція Гуандун. Але його становище ненадійне, тому він не має військової сили".
  CHI_idea_sun_yatsen_president_2_desc:0 "Сунь Ятсен, ключовий архітектор Китайської республіки революції, є генералісимусом уряду захисту конституції в Гуанчжоу, провінція Гуандун. Він повернувся до Гуанчжоу, щоб очолити південний уряд разом із воєначальником Гуандуну Ченьжунміном. Націоналістичну революцію відвести до Пекіна"
@@ -2485,6 +2505,17 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  CHI_idea_unprepared_civil_war_desc:0 "We didn't expect to have to wage another revolution against a despotic ruler. Our soldiers lack both the necessary weapons and preparation. Even some of our fellow nationalists doubt the righteousness of our cause." # (!)
  CHI_idea_zhili_truce:0 "Zhili Clique Truce" # (!)
  CHI_idea_zhili_truce_desc:0 "The Zhili Clique has declared truce with the Southern Cliques. This has crippled our ability to wage war." # (!)
+ CHI_guangdong_bank:0 "Guangdong Bank" # (!)
+ CHI_idea_new_culture_movement:0 "New Culture Movement"
+ CHI_idea_new_culture_movement_desc:0 "A movement sought to challenge traditional Confucian values and promote new ideas, including democracy, science, and individualism. The movement is led by intellectuals such as Chen Duxiu and Hu Shi, who advocate for the use of vernacular Chinese in literature and education."
+ CHI_kmt_power_struggle:0 "Power Struggle"
+ CHI_kmt_power_struggle_desc:0 "Chairman Wang Jingwei's rule remains unstable. The biggest problem is that he holds no real military power, and opposition factions still exist in the party."
+ CHI_green_gang:0 "Green Gang"
+ CHI_green_gang_desc:0 "The Green Gang is one of China's most powerful and notorious secret societies, holding an iron grip on the criminal underworld of Shanghai. Under the shrewd leadership of figures like Du Yuesheng, their influence extends far beyond mere opium dens and gambling houses. They command a vast network of enforcers and control the city's labor unions, making them a formidable political entity. For those willing to turn a blind eye to their methods, the Green Gang is an indispensable, if unsavory, ally in the struggle against Communism and for absolute control of the city."
+ CHI_zhejiang_financiers:0 "Zhejiang Financial Clique"
+ CHI_zhejiang_financiers_desc:0 "The Zhejiang Financial Clique, a powerful group of bankers and industrialists from the Shanghai-Zhejiang region, forms the economic backbone of our government. Their vast resources fund our state, their expertise guides our economic policy, and their political backing solidifies our regime. This critical alliance ensures a steady flow of capital, allowing our government to focus its resources on military and industrial development rather than civilian demands."
+ CHI_fengtian_no_resistance:0 "Army In Disastrous Disarray"
+ CHI_fengtian_no_resistance_desc:0 "Our military receives no proper orders or instructions from its command. From high-ranking to mid-level commanders, no systematic communication of orders is possible. In effect, our military is nothing more than a ragtag group of armed militiamen."
 
  #USA
  USA_idea_volunteer_corps:0 "Корпус добровольців"
@@ -2676,7 +2707,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  SWE_allying_socialists_tt:0 "Це спричинити §Рсоціалістичну революцію§! після завершення §Y"Радикальний кандидат"§! фокус."
  swe_finnish_throne_tt:0 "Якщо ми виграємо §YВелику війну§!, §YФінляндія§! стане нашим §Yмаріонетковим королівством§!."
  swe_norway_puppet_tt:0 "Якщо ми виграємо §YВелику війну§!, §YНорвегія§! стане нашою §Yмаріонеткою§!."
- pact_with_france:0 "§BПакт§! із §Rфранцузами§!"
+ pact_with_france:0 "§BПакт§! із §RАнтантою§!"
  pact_with_germany:0 "§LПакт§! із §Rнімцями§!"
 
  #Denmark
@@ -2968,6 +2999,11 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  HUN_minority_government3_desc:0 "Наша коаліція не в усьому погоджується, але ми єдині щодо спільної мети — запровадження загального виборчого права в Угорщині"
  HUN_croatian_sabor:0 "Хорватський сабор"
  HUN_raba: "Rába"
+ HUN_anti_communist_opposition:0 "Anti-Communist Opposition"
+ HUN_anti_communist_opposition_desc:0 "Many across the country oppose our communist policies, the landowners disapprove of our seizure of their property, business owners dispprove of our nationalisation, liberals of our dictatorship and the list goes on. These traitors are tearing our country apart with their opposition to the revolution and opposition to the government."
+ HUN_lenin_boys:0 "The Lenin Boys"
+ HUN_lenin_boys_desc:0 "The Lenin Boys are a small paramilitary group lead by Tibor Szamuely, who are cracking down on any opponents to the revolution and any other traitors across the country, solidifying the control of our government and preventing any counter-revolution."
+ HUN_socialist_economy: "Соціалістична економіка"
 
  #Nepal
  NEP_prithvi_bir_bikram:0 "Прітхві Бір Бікрам Шах"
@@ -3134,6 +3170,9 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
 
  idea_russian_protectorate:0 "Російський протекторат"
  idea_russian_protectorate_desc:0 "Як протекторат Російської імперії [FROM.GetNameDef] зберігає номінальну внутрішню автономію, але піддається значному російському впливу. У той час як [FROM.GetLeader] зберігає контроль над внутрішніми справами, Росія диктує зовнішню політику, військові рішення та приведення переваг, такий як захист від зовнішніх загроз і обмежений до [RUS.GetAdjective] ринків, але це також захист незадоволення середнього місцевого населення та правлячих є доступ, який роздратований під [RUS.GetAdjective] наглядом"
+
+ idea_dominant_nomadic_population: "Переважно кочове населення"
+ idea_dominant_nomadic_population_desc:0 "For over four thousand years nomadic peoples of Central Asia traversed the land seasonally, grazing their herds which included sheep, horses, and camels. This is still the dominant way of life." # (!)
 
  # Tibet
  TIB_monastic_institutions:0 "Чернечі установи"
