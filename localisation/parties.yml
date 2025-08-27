@@ -2272,8 +2272,8 @@
  ENG_democratic_party:0 "Ліберальна Партія"
  ENG_fascism_party:0 "Військове Міністерство"
  ENG_democratic_party_conservative:0 "Консервативна Партія"
- ENG_neutrality_party:0 "Саксен-Кобург-Готський дім"
- ENG_neutrality_party_long:0 "Саксен-Кобург-Готський дім"
+ ENG_neutrality_party:0 "Саксен-Кобурґ-Готський дім"
+ ENG_neutrality_party_long:0 "Саксен-Кобурґ-Готський дім"
  ENG_socialist_party:0 "Соціалістична партія"
  ENG_socialist_party_long:0 "Британська соціалістична партія"
  ENG_fabian_party:0 "Фабіанське товариство"
@@ -2403,7 +2403,7 @@
  TUS_fascism_party_long:0 "Італійська Націоналістична Асоціація"
  TUS_communism_party:0 "ІСП"
  TUS_communism_party_long:0 "Італійська Соціалістична Партія"
- TUS_neutrality_party:0 "Дім Габсбургів"
+ TUS_neutrality_party:0 "Дім Габсбурґів"
  TUS_neutrality_party_long:0 "Габсбурзько-Лотаринзький дім"
 
  VNC_fascism_party:0 "ІНА"
@@ -2503,8 +2503,8 @@
  SOV_communism_party_dictatorship:0 "РКП(Б)"
  SOV_communism_party_dictatorship_long:0 "Російська Комуністична Партія (Більшовиків)"
 
- AUS_neutrality_party:0 "Дім Габсбургів"
- AUS_neutrality_party_long:0 "Дім Габсбургів-Лотарингських"
+ AUS_neutrality_party:0 "Дім Габсбурґів"
+ AUS_neutrality_party_long:0 "Дім Габсбурґів-Лотаринзьких"
  AUS_democratic_party:0 "СДРПА"
  AUS_democratic_party_long:0 "Соціал-Демократична Робітнича Партія Австрії"
  AUS_christian_social_party:0 "ХСП"
@@ -2561,7 +2561,7 @@
  POR_fascism_party:0 "Португальський Інтегралістський Рух"
  POR_national_dictatorship_party:0 "Національна Диктатура"
 
- GRE_neutrality_house_party:0 "Дім Глюксбургів"
+ GRE_neutrality_house_party:0 "Дім Ґлюксбурґів"
  GRE_communism_party:0 "КПГ"
  GRE_communism_party_long:0 "Комуністична Партія Греції"
  GRE_liberal_party_long:0 "Ліберальна Партія Греції"
@@ -2632,7 +2632,7 @@
  DEN_democratic_party_long:0 "Радикальні Ліві"
  DEN_communism_party:0 "ДСП"
  DEN_communism_party_long:0 "Данська Ліва Соціалістична Партія"
- DEN_neutrality_party:0 "Дім Глюксбургів"
+ DEN_neutrality_party:0 "Дім Ґлюксбурґів"
 
  CAN_democratic_party:0 "Ліберальна Партія"
  CAN_democratic_party_long:0 "Ліберальна Партія Канади"
@@ -2778,8 +2778,8 @@
  SER_naprednjaci_party:0 "СПП"
  SER_naprednjaci_party_long:0 "Сербська Прогресивна Партія"
 
- BUL_neutrality_party:0 "Дім Саксен-Кобургів"
- BUL_neutrality_party_long:0 "Саксен-Кобургський і Готсько-Кохарійський дім"
+ BUL_neutrality_party:0 "Дім Саксен-Кобурґів"
+ BUL_neutrality_party_long:0 "Саксен-Кобурзький і Готсько-Кохарійський дім"
  BUL_communism_party:0 "Міцні соціалісти"
  BUL_communism_party_long:0 "Болгарська Робоча Соціал-Демократична Партія"
  BUL_democratic_party:0 "Демократична партія"
@@ -2806,7 +2806,7 @@
  NZL_communism_party:0 "СПВ"
  NZL_communism_party_long:0 "Соціалістична Партія Веллінгтона"
 
- NOR_neutrality_party:0 "Дім Глюксбургів"
+ NOR_neutrality_party:0 "Дім Ґлюксбурґів"
  NOR_communism_party:0 "СДПН"
  NOR_communism_party_long:0 "Соціал-Демократична Партія Норвегії"
  NOR_democratic_party:0 "Хейре"
@@ -2825,8 +2825,8 @@
  BEL_communism_party_long:0 "Бельгійська Партія Трудящих"
  BEL_democratic_party:0 "Католицька Партія"
  BEL_liberal_party:0 "Ліберальна Партія"
- BEL_neutrality_party:0 "Дім Саксен-Кобургів"
- BEL_neutrality_party_long:0 "Дім Саксен-Кобургів і Готів"
+ BEL_neutrality_party:0 "Дім Саксен-Кобурґів"
+ BEL_neutrality_party_long:0 "Дім Саксен-Кобурґів і Готів"
  BEL_fascism_party:0 "Партія Фронту"
  BEL_resistance:0 "СВСВ"
  BEL_resistance_long:0 "Найвірніший Опір Його Величності"
@@ -2952,7 +2952,7 @@
  LUX_democratic_party:0 "Християнсько-Соціальна Народна Партія"
  LUX_communism_party:0 "Соціалістична Партія"
  LUX_neutrality_party:0 "Дім Нассау"
- LUX_neutrality_party_long:0 "Дім Нассау-Вайльбургів"
+ LUX_neutrality_party_long:0 "Дім Нассау-Вайльбурґів"
  LUX_national_party:0 "Партія Прюм"
  LUX_national_party_long:0 "Партія Національної Незалежності"
 
@@ -3087,7 +3087,7 @@
  UKR_fascism_party:0 "Боротьбисти"
  UKR_fascism_party_long:0 "Українська Партія Соціалістів-Революціонерів (Боротьбисти)"
  UKR_directory_party:0 "Директорія"
- UKR_monarchy_party:0 "Дім Габсбургів"
+ UKR_monarchy_party:0 "Дім Габсбурґів"
 
  GEO_democratic_party:0 "СДПН"
  GEO_democratic_party_long:0 "Соціал-Демократична Партія Грузії"
@@ -3271,11 +3271,11 @@
  RHN_neutrality_party:0 "Фрайкор"
 
  BAY_neutrality_party:0 "Дім Віттельсбах"
- BAY_fascism_party:0 "Фрайкорпс"
+ BAY_fascism_party:0 "Фрайкор"
 
  SAX_neutrality_party:0 "Дім Веттинів"
 
- WUR_neutrality_party:0 "Дім Вюртембергів"
+ WUR_neutrality_party:0 "Дім Вюртемберґів"
 
  BRI_fascism_party:0 "Брейз Дішуал"
  BRI_neutrality_party:0 "Гурсез Врейж"
