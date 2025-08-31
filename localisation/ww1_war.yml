@@ -73,27 +73,27 @@
  WAR_NAME_FNG_ANC: "Аньхойсько-фентяньська війна"
  WAR_NAME_ANC_FNG: "Аньхойсько-фентяньська війна"
  WAR_NAME_GMJ_ZHC: "Пекінський переворот"
- WAR_NAME_GDC_ANC: "Північна експедиція"
- WAR_NAME_GDC_SDC: "Північна експедиція"
- WAR_NAME_GDC_FNG: "Північна експедиція"
- WAR_NAME_GDC_ZHE: "Північна експедиція"
- WAR_NAME_GDC_ZHC: "Північна експедиція"
- WAR_NAME_GDC_FJN: "Північна експедиція"
+ WAR_NAME_GDC_ANC: "Північний похід"
+ WAR_NAME_GDC_SDC: "Північний похід"
+ WAR_NAME_GDC_FNG: "Північний похід"
+ WAR_NAME_GDC_ZHE: "Північний похід"
+ WAR_NAME_GDC_ZHC: "Північний похід"
+ WAR_NAME_GDC_FJN: "Північний похід"
  WAR_NAME_GXC_GDC: "Лянґуанська війна"  #兩廣戰爭
  WAR_NAME_GDC_GXC: "Лянґуанська війна"  #兩廣戰爭
- WAR_NAME_GDC_GZC: "Західна експедиція"  #西征
- WAR_NAME_GDC_YUN: "Західна експедиція"  #西征
+ WAR_NAME_GDC_GZC: "Західний похід"  #西征
+ WAR_NAME_GDC_YUN: "Західний похід"  #西征
  WAR_NAME_ZGP_GDC: "Юнфенський інцидент"  #永豐艦事件
- WAR_NAME_GDC_ZGP: "Східна експедиція"  #東征
+ WAR_NAME_GDC_ZGP: "Східний похід"  #東征
  WAR_NAME_JNC_ZHE: "Цзянсусько-чжецзянська війна"
  WAR_NAME_ZHE_JNC: "Цзянсусько-чжецзянська війна"
  WAR_NAME_MAN_FNG: "Мукденський інцидент"
  WAR_NAME_JAP_FNG: "Мукденський інцидент"
  CIVIL_WAR_NAME_NPA_CHI: "Війна національної оборони"
  CIVIL_WAR_NAME_CHI_NPA: "Війна національної оборони"
- WAR_NAME_ZHC_GDC: "Південна експедиція"
- WAR_NAME_FNG_GDC: "Південна експедиція"
- WAR_NAME_ANC_GDC: "Південна експедиція"
+ WAR_NAME_ZHC_GDC: "Південний похід"
+ WAR_NAME_FNG_GDC: "Південний похід"
+ WAR_NAME_ANC_GDC: "Південний похід"
  WAR_NAME_SCC_XKC: "Громадянська війна в Сичуані"
  WAR_NAME_XKC_SCC: "Громадянська війна в Сичуані"
  WAR_NAME_SIK_TGC: "Сіньцзянські війни"

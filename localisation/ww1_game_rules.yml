@@ -358,7 +358,7 @@
   RULE_OPTION_ITA_ALBERTO_POLLIO:0 "§qMilitary Government§! (Alberto Pollio)"
   RULE_OPTION_ITA_ALBERTO_POLLIO_AI_DESC:0 "The Italian AI will not form the Leftist or Liberal Union and when Giolitti's government falls Alberto Pollio will succeed him by going down the relevant path in the national focus tree. Alberto Pollio passes away in 1914, and Salandra will then succeed him."
 
-  ITA_FACTION_AI_BEHAVIOUR:0 "@ITA Italy Diplomacy"
+  ITA_FACTION_AI_BEHAVIOUR: "@ITA Дипломатія Італії"
   RULE_OPTION_HISTORICAL_ITA_FACTION_AI_DESC:0 "The Italian AI will attempt to join the Entente by going down the relevant path in the national focus tree."
   #RULE_OPTION_CP_ITA_AI_DESC:0 "The Italian AI will attempt to join the Central Powers by going down the relevant path in the national focus tree."
 
