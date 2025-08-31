@@ -437,13 +437,11 @@
  VICTORY_POINTS_351: "Ньюкасл-апон-Тайн"
  VICTORY_POINTS_3369: "Бристол"
  VICTORY_POINTS_3379: "Белфаст"
- IRE_VICTORY_POINTS_3379: "Béal Feirste" # (!)
  VICTORY_POINTS_6384: "Ліверпул"
  VICTORY_POINTS_9379: "Лідс"
  VICTORY_POINTS_9392: "Единбург"
  VICTORY_POINTS_11293: "Дублін"
  VICTORY_POINTS_7394: "Корк"
- IRE_VICTORY_POINTS_7394: "Corcaigh" # (!)
  VICTORY_POINTS_6380: "Москва"
  #RUS_VICTORY_POINTS_6380: "Moskva"
  GER_VICTORY_POINTS_6380: "Москау"
@@ -879,7 +877,7 @@
  VICTORY_POINTS_8049: "Яньань"
  VICTORY_POINTS_377: "Кардифф"
  WLS_VICTORY_POINTS_377: "Caerdydd" # (!)
- VICTORY_POINTS_540: "Devonport" # (!)
+ VICTORY_POINTS_540: "Плімут"
  VICTORY_POINTS_657: "Констанца"
  BUL_VICTORY_POINTS_657: "Кюстенджа"
  VICTORY_POINTS_11573: "Ансі"
@@ -1101,7 +1099,7 @@
  VICTORY_POINTS_8038: "Ель-Аюн"
  VICTORY_POINTS_11350: "Бриджтаун"
  VICTORY_POINTS_4967: "Мале"
- VICTORY_POINTS_9315: "Шеффілд"
+ VICTORY_POINTS_11382: "Шеффілд"
  VICTORY_POINTS_153: "Віллемстад"
  VICTORY_POINTS_7376: "Пномпень"
  VICTORY_POINTS_1464: "В'єнтьян"
@@ -1257,9 +1255,9 @@
  VICTORY_POINTS_11640: "Мюлльгайм"
  VICTORY_POINTS_708: "Ауґсбурґ"
  VICTORY_POINTS_3673: "Клаґенфурт-ам-Вьортерзее"
- SLV_VICTORY_POINTS_3673: "Целовець" # інак. Цлоувць
- SER_VICTORY_POINTS_3673: "Целовець" # інак. Цлоувць
- CRO_VICTORY_POINTS_3673: "Целовець" # інак. Цлоувць
+ SLV_VICTORY_POINTS_3673: "Целовець"
+ SER_VICTORY_POINTS_3673: "Целовець"
+ CRO_VICTORY_POINTS_3673: "Целовець"
  VICTORY_POINTS_9665: "Лінц"
  VICTORY_POINTS_732: "Лінц"
  VICTORY_POINTS_3674: "Філлах"
@@ -1618,13 +1616,11 @@
  VICTORY_POINTS_6062: "Сторноуей"
  VICTORY_POINTS_283: "Обан"
  VICTORY_POINTS_9303: "Ґолуей"
- IRE_VICTORY_POINTS_9303: "Gaillimh" # (!)
  VICTORY_POINTS_285: "Уексфорд"
  VICTORY_POINTS_6289: "Лимерик"
- IRE_VICTORY_POINTS_6289: "Luimneach" # (!)
  VICTORY_POINTS_11371: "Слайґо"
  VICTORY_POINTS_385: "Лондондеррі"
- IRE_VICTORY_POINTS_385: "Doire Cholmcille" # (!)
+ IRE_VICTORY_POINTS_385: "Деррі"
  VICTORY_POINTS_303: "Тулламор"
  VICTORY_POINTS_11218: "Дамфріс"
  VICTORY_POINTS_11332: "Карлайл"
@@ -2094,7 +2090,6 @@
  VICTORY_POINTS_11136: "Абердін"
  VICTORY_POINTS_9161: "Інвернесс"
  VICTORY_POINTS_11237: "Уотерфорд"
- IRE_VICTORY_POINTS_11237: "Port Láirge" # (!)
  VICTORY_POINTS_9361: "Кольберґ"
  POL_VICTORY_POINTS_9361: "Колобжеґ"
  VICTORY_POINTS_1184: "Вейсянь"
@@ -3076,7 +3071,7 @@
  VICTORY_POINTS_7239: "Вустер"
  VICTORY_POINTS_9269: "Йорк"
  VICTORY_POINTS_6489: "Ньюпорт"
- VICTORY_POINTS_9250: "Лінколн"
+ VICTORY_POINTS_9250: "Ґримсбі"
  VICTORY_POINTS_9309: "Assen" # (!)
  VICTORY_POINTS_68: "Haarlem" # (!)
  VICTORY_POINTS_9403: "Enschede" # (!)
@@ -3652,6 +3647,25 @@
  VICTORY_POINTS_7657: "Ak-Mechet"
  RUS_VICTORY_POINTS_7657: "Perovsk"
  SOV_VICTORY_POINTS_7657: "Kzyl-Orda"
+ VICTORY_POINTS_6363: "Банґор"
+ VICTORY_POINTS_11345: "Stoke-on-Trent" # (!)
+ VICTORY_POINTS_6301: "Шрусбері"
+ VICTORY_POINTS_219: "Блекпул"
+ VICTORY_POINTS_6399: "Barrow-in-Furness" # (!)
+ VICTORY_POINTS_11332: "Карлайл"
+ VICTORY_POINTS_11270: "Міддлсбро"
+ VICTORY_POINTS_9315: "Дербі"
+ VICTORY_POINTS_3353: "Бостон"
+ VICTORY_POINTS_9268: "Нортгемптон"
+ VICTORY_POINTS_11333: "Лутон"
+ VICTORY_POINTS_6221: "Slough" # (!)
+ VICTORY_POINTS_11461: "Рединґ"
+ VICTORY_POINTS_3422: "Bournemouth" # (!)
+ VICTORY_POINTS_13070: "Кройдон"
+ VICTORY_POINTS_11446: "Гастинґс"
+ VICTORY_POINTS_507: "Worthing" # (!)
+ VICTORY_POINTS_9484: "Bridgwater" # (!)
+ VICTORY_POINTS_6351: "Бат"
 
  PETROGRAD_PROV: "Petrograd"
  LENINGRAD_PROV: "Leningrad"
