@@ -66,8 +66,11 @@
  send_equipment_to_FROM_tanks:0 "Надіслати танки до [FROM.getName]"
 
  decision_cost_3_civ: "£civ_factory£ §Y3§!"
- decision_cost_3_civ_blocked: "£civ_factory£ §R53!"
+ decision_cost_3_civ_blocked: "£civ_factory£ §R3§!"
  decision_cost_3_civ_tooltip:0 "It costs £civ_factory£ §Y3§! to take the decision"
+ decision_cost_4_civ: "£civ_factory£ §Y4§!"
+ decision_cost_4_civ_blocked: "£civ_factory£ §R4§!"
+ decision_cost_4_civ_tooltip:0 "It costs £civ_factory£ §Y4§! to take the decision"
  decision_cost_CP_5:0 "£command_power §Y5§!"
  decision_cost_CP_5_blocked:0 "£command_power §R5§!"
  decision_cost_CP_5_tooltip:0 "Прийняття рішення коштує £command_power §Y5§!"
@@ -510,8 +513,6 @@
  BEL_citadel_of_dinant:0 "Цитадель Дінана"
  BEL_citadel_of_dinant_desc:0 "Ніннішній форт був побудований у 1815 році на місці, яке спочатку було укріплено в 1051 році, коли регіоном керував князь-єпископ Льєжа. З цитаделі відкривається вид на місто Дінан і стратегічну річку Маас, яка протікає через місто."
 
- decision_cost_4_civ: "£civ_factory£ §Y4§!"
- decision_cost_3_civ: "£civ_factory£ §Y3§!"
  FRA_340mm_mle_1893:0 "Збірка 340-мм гармати моделі 1893"
  FRA_use_gaz_shells:0 "Використовувати газофосгенові снаряди"
  FRA_send_janin_to_russia:0 "Місія союзників у Росії"
@@ -2080,8 +2081,13 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
  CHI_KMT_local_investment_desc:0 "Завдяки низці заходів, таких як покращення місцевої інфраструктури та реорганізація адміністративної структури, ми задовольнимо місцевих лідерів та підвищимо підтримку населення нашої влади."
  CHI_declare_war_CER:0 "Move Troops into [FROM.GetNameDef]" # (!)
  CHI_declare_war_CER_desc:0 "Due to the unique legal status of [FROM.GetNameDefCap]-inherently Chinese territory, yet constituted as a railway concession, administered by enemy—our forces have hitherto hesitated to advance. At this point, however, any conflict with the railway company or friction with the local inhabitants is no longer a deterrent." # (!)
- CHI_remove_socialist_influence:0 "Launch the Encirclement Campaigns" # (!)
+ CHI_remove_socialist_influence:0 "Launch the Encirclement Campaigns In [FROM.GetName]" # (!)
  CHI_remove_socialist_influence_desc:0 "In the harsh and backward regions of many Chinese provinces, socialists have entrenched themselves, proclaiming council republics, engaging in banditry, inciting peasants, and engaging in riots and looting. It will take considerable time, effort, and money, but unless we eradicate them, our country will never be stable." # (!)
+ CHI_TIB_border_war:0 "Sino-Tibetan War" # (!)
+ CHI_activate_socialist_influence:0 "Spread Socialism In [FROM.GetName]" # (!)
+ CHI_raise_socialist_militia:0 "Raise Socialist Militias In [FROM.GetName]" # (!)
+ CHI_long_march:0 "The Great Long March" # (!)
+ CHI_long_march_desc:0 "The Revolution in China has encountered a major setback. Due to the relentless suppression and brutal blockade policies of the reactionaries, the Soviet Zone we liberated can no longer survive. To break through the enemy encirclement and establish a base in the mountainous regions, we must march thousands of kilometres... After enduring these hardships and adversities, the chaff will be blown away, leaving only the grain fit to fight as revolutionary warriors." # (!)
 
 ### ОСМАНСЬКА ІМПЕРІЯ ###
  TUR_OPDA_CURRENCY_TOOLTIP:0 "§o Курси валют §!\n§d------------------------------ ----------------------------§!\n§Y3%§! §v Фактор виробництва споживчих товарів =§! §Y0,295 Тисяча лір§!\n§d------------------------------------------ ---------------------§!"
@@ -9654,7 +9660,7 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  FRA_salary_limitation_act:0 "Закон про обмеження зарплати"
  FRA_salary_limitation_act_desc:0 "Закон, запропонований §YМорісом Торезом§! визначає формулу розрахунку, яка обмежує максимальну зарплату в компанії на основі її прибутку, кількості працівників і найнижчої зарплати. Щоб продовжити це в найпростішій формі, він обмежує максимальну зарплата в 25 разів перевищує найнижчу зарплату в компанії."
 
- #DEN_ICE_act_of_union: "@DEN @ICE Дансько-ісландський акт про унію"
+ DEN_ICE_act_of_union: "@DEN @ICE Дансько-ісландський акт про унію"
  FRA_calimites_exceptional_fundings:0 "Допомога жертвам клімату"
  FRA_calimites_exceptional_fundings_desc:0 "Законопроєкт, запропонований прем’єр-міністром §YАрістідом Бріаном§! на суму 500 000 франків, спрямований на допомогу фермерам, які постраждали від кліматичних змін. Друге виділення 1 000 000 франків також планується прийти на допомогу жертв січневої повені 1910 р.."
 
@@ -9725,8 +9731,6 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  FRA_independent_republicans_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §Yкоаліцію§!, через що ми втратимо [?independent_republicans|Y0] §Rмісць§!."
  FRA_popular_liberal_action_leave_coalition:0 "£parliament_party_icon|[?v] [GetParliamentPartyName] покине нашу §Yкоаліцію§!, через що ми втратимо [?popular_liberal_action|Y0] §Rмісць§!."
  FRA_far_right_leave_coalition: "£parliament_party_icon|[?v] §LНаціоналісти§! покинуть нашу §Yкоаліцію§!, через що ми втратимо [?nationalist|Y0] §Rмісць§!."
-
- DEN_ICE_act_of_union: "@DEN @ICE Дансько-ісландський акт про унію"
 
  SFIO_allied: "Перебуває в коаліції з£parliament_party_icon|1 §RФСРІ§!"
  radical_party_allied: "Перебуває в коаліції з£parliament_party_icon|3 §CРадикально-соціалістичною партією§!"

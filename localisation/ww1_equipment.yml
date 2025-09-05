@@ -123,7 +123,6 @@
  FRA_howitzer_equipment_2_short:0 "155C m1915"
  FRA_howitzer_equipment_3:0 "Canon de 155 mm C modèle 1917"
  FRA_howitzer_equipment_3_short:0 "155C m1917"
- FRA_anti_air_equipment_1_short:0 "QF 12-pounder 12 cwt"
  FRA_anti_air_equipment_1:0 "Canon de 75 antiaérien mle 1913"
  FRA_anti_air_equipment_1_short:0 "75 aa mle 1913"
  FRA_anti_air_equipment_2:0 "Canon de 75 antiaérien mle 1917"
@@ -316,12 +315,10 @@
  TUR_field_gun_equipment_4_short:0 "Krupp 77mm Field Gun Model 1916"
  USA_field_gun_equipment_4_short:0 "75mm French Canon"
 
- FRA_howitzer_equipment_1_short:0 "155 CTR"
  GRE_howitzer_equipment_1:0 "Krupp 105mm M1880"
  GRE_howitzer_equipment_1_short:0 "Krupp 105mm M1888"
  RUS_howitzer_equipment_1: "152-мм гаубица Schneider, модель 1910"
  RUS_howitzer_equipment_1_short: "152-мм гаубица 1910 г."
- TUR_howitzer_equipment_1:0 "Krupp 120mm Howitzer Model 1905"
  JAP_howitzer_equipment_1:0 "Type 38 15 cm Howitzer"
  RUS_howitzer_equipment_2:0 "BL 6-inch 26 cwt howitzer" # (!)
  RUS_howitzer_equipment_2_short:0 "6-inch 26 cwt howitzer" # (!)

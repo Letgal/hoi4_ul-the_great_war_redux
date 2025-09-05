@@ -4,7 +4,7 @@ ok.a: "Гаразд." # ((#))
 event_generic_ok: "Гаразд." # ((#))
 historical_tt: "Це — §Oісторичний§! вибір."
 opasno_tt: "§RЦе може бути небезпечно!§!"
-end_tt: "§YВміст, який ми підготували, закінчується тут. Дякуємо за гру!§!"
+end_tt: "§OВміст, який ми підготували, закінчується тут. Дякуємо за гру!§!"
 
 ### СТАНДАРТНІ ###
  ww1_generic.1.t: "Вибори [GetYear] року"
@@ -6484,10 +6484,7 @@ ww1_qing.21.a: "Просто вже придушіть їх."
 ww1_qing.22.t: "Нові правила"
 ww1_qing.22.d: "Вдова імператриця Цисі, вдова імператриця династії Цін, «порадила» імператору Гуансю запровадити «нову політику» за допомогою імператорського указу та указів, щоб змінити та зміцнити країну після Боксерського повстання у 1900 році спровокував Альянс восьми націй, сама вдова імператриця Цисі бачила це Цін-Бейянська армія та боксери не змогли ефективно протистояти сучасним західним арміям. Хоча спочатку багато хто виступав проти модернізації та самозміцнення, поразка Боксерського повстання переконала навіть консерваторів при дворі Цін, що триматися минулого — це. більше не існує єдиної форми розбіжностей щодо того, чи повинна сама монархія бути освіченою монархією чи конституційною. 1. Відкинувши дискусію про статус монархії, всі можуть погодитися, що династія Цин повинна провести реформи, віце-королі, консерватори та маньчжури в дворі."
 ww1_qing.22.a: "Нові політики для нової ери."
- ww1_qing.22.t:0 "The New Policies" # (!)
- ww1_qing.22.d:0 "Empress Dowager Cixi, the Empress Dowager of the Qing Dynasty, has "advised" the Guangxu Emperor to launch the "New Policy" via Imperial Edict and Decrees in order to change and strengthen the country after the Boxer Rebellion in 1900 triggered the Eight-Nation Alliance. Empress Dowager Cixi herself saw that the Qing Beiyang army and the Boxers were unable to effectively resist the modern Western armies. While many had initially opposed modernization and self-strengthening, the defeat of the Boxer Rebellion has convinced even the conservaties in the Qing court that holding on to the past is no longer an option. The only form of disagreement is wheither or not the monarchy itself should be an enlightened monarchy or a constitutional one. Putting the debate on the status of the monarchy aside, all can agree that the Qing Dynasty must reform, reformist, Viceroys, Conservative and Manchus in the court. It has now become a certainty.\nTo maintain the stability of the national administration, the old bureaucratic system cannot be eradicated in one fell swoop, and the implementation of the constitution must also depend on progress. Constitutionalism requires the power to be in the hands of the imperial court and must start with the official system. In other words, the promulgation of this constitution must be preceded by a certain degree of reform, and the improvement of people's democratic literacy through tutelage. Reform and modernization plans required a lot of money, but the Qing government had to pay huge indemnities to foreign countries after the Boxer Rebellion. Its productivity and economy lagged behind those of emerging imperialist powers. It also had to deal with natural disasters in the early 20th century such as the Yellow River flooding, locusts, and foreign economic exploitation, the Qing government did not have sufficient funds to implement modernization plans, and the results of top-down reforms were limited to say the least."
- ww1_qing.22.a:0 "New policies for the new era."
- ww1_qing.23.t:0 "The National Assembly Plans to Open in 1914"
+ ww1_qing.23.t:0 "The National Assembly Plans to Open in 1914" # (!)
  ww1_qing.23.d:0 "Under strong pressure from constitutionalists, the Qing court promulgated the 'Outline of the Constitution Compiled by Imperial Order' in August 1908 and ratified a nine-year deadline for the preparation of a constitution, with the National Assembly to be held at the end of the deadline. But in January this year, the already established Provincial Assemblies sent a delegation to the court to request that the National Assembly be opened as soon as possible, within a year. And the court stubbornly refused the request.\nHowever, the constitutionalists' request, which is now submitted to the court again this time, is being supported by many more people. In particular, the governors and generals of 17 provinces also wrote to the court, recommending that the court shorten the constitutional deadline, establish a cabinet immediately, and open the National Assembly next year, in full consideration of the people's wishes.\nThe court is struggling with the escalating demands of the constitutionalists. Some have proposed making it clear that it is a firm deadline that 'cannot be delayed, cannot be pushed back, and cannot be pulled back any further.', while pushing the deadline earlier to open the National Assembly in 1914."
  ww1_qing.23.a:0 "Reform must continue. But not so fast."
 
@@ -6570,6 +6567,9 @@ ww1_china.8.t: "Маньчжурська реставрація"
 ww1_china.8.d: "Генерал Чжан Сюнь зробив спробу відновити монархію. Пекін контролюється династією Цін. Ми не встигли запобігти змові монархістів і знову повинні протистояти імперії. Зіткнувшись із цим абсурдом, президент пішов у відставку, взявши на себе відповідальність, і Чжан силою розпустив Національну асамблею \nЗ втратою столиці це спровокує кліки до активізації боротьба за владу."
 ww1_china.8.a: "Ми захистимо республіку."
 ww1_china.8.b: "Останнє протистояння. (Грати за [QIN.GetFlag]Qing)"
+ ww1_china.9.t:0 "The Party Reorganization" # (!) #Zunyi Conference
+ ww1_china.9.d:0 "During the Great Long March, we began to reflect on why our Party and revolution were enduring such hardship. We concluded that the responsibility lay with the Party leadership. To steer the revolution to success and ensure our survival, we judged that the Party must be led not by idealists or theorists, but by Mao Zedong-a formidable military leader who understood China's realities. Mao, who believed the revolution must be ignited from the peasantry, is the man to save our Party from the brink of destruction and one day raise the red flag across all of China. But when that time comes, will the people truly be happy?" # (!)
+ ww1_china.9.a:0 "Long live the Chairman Mao!" # (!)
 ww1_china.10.t: "Юань Шикай помер"
 ww1_china.10.d: "Юань Шикай помер через поганий стан здоров’я. Занурюючи країну в хаос і спустошення спробою відродити Імперію під своїм правлінням, він не зміг вивести Китай із кризи.\nСмерть правитель у такий важкий час тільки погіршить становище в країні і спровокує ще більше повстань."
 ww1_china.10.d2: "Юань Шикай помер через поганий стан здоров’я. Він зберіг свою вірність династії Цін, незважаючи на те, що був жадібним, амбітним полководцем, який майже мав диктаторську владу над усім Китаєм. Наразі армія Бейян все ще стоїть при його наступнику, але він, безумовно, був згорнутий."
@@ -7138,7 +7138,9 @@ ww1_china.176.a: "Хай живе Республіка!"
 ww1_china.177.t: "Консерватори об’єднуються як прогресивна партія"
 ww1_china.177.d: "Після поразки на виборах до Національної асамблеї Республіканська, Єдність і Демократична (раніше конституціоналістська) партії об’єдналися в Прогресивну партію з лідером Лян Цічао. Прогресивна партія стала головним суперником націоналістів."
 ww1_china.177.a: "Який прогресивний?"
-
+ ww1_china.178.t:0 "Yuan Zuming Leaves to Guangzhou" # (!)
+ ww1_china.178.d:0 "Our warlord leader, defeated on an expedition to Sichuan, eventually led his remnants and fled to Guangzhou. His subordinate, Wang Tianpei, seized power." # (!)
+ ww1_china.178.a:0 "Good bye, sir!" # (!)
 ww1_china.179.t: "Протест воєначальників Beiyang"
 ww1_china.179.d: "[CHI.GetFascistLeader] і воєначальники Beiyang заявили, що президентські вибори недійсні. Вони готові здійснити військовий переворот, але ми можемо їх заспокоїти, якщо діятимемо обережно..."
 ww1_china.179.a: "Жадібні виродки."
@@ -9585,7 +9587,7 @@ ww1_germany.166.t:0 "Доля Добруджі"
 ww1_germany.166.desc:0 "Ми перемогли Румунію у Великій війні та отримали провінцію Добруджа за Бухарестським договором. Але це не територія, яка заслуговує на повне включення до [ROOT.GetNameDef]. Ми можемо віддати її до дружньої країни, або ми можемо повернути його Румунії."
 ww1_germany.166.a:0 "Передати до [211.Owner.GetName]."
 ww1_germany.166.b:0 "Передати до [46.Owner.GetName]."
-ww1_germany.166.c:0 "Передати до [211.Owner.GetName]."
+ ww1_germany.166.c: "Розділіть Добруджу."
 ww1_germany.166.d:0 "Тримайтеся там під нашою окупацією."
 ww1_germany.167.t:0 "Доля Білорусі"
 ww1_germany.167.d:0 "Ми перемогли Росію у Великій війні та отримали регіон Білорусь за Брест-Литовським договором. Але це не територія, яка заслуговує на повне включення до [ROOT.GetNameDef]. Ми можемо віддайте його дружній країні, або ми можемо повернути його Росії."
@@ -9960,8 +9962,8 @@ ww1_england.1.a: "Спочатку жінки та діти!"
 ww1_england.3.t: "Титанік прибув до Нью-Йорка"
 ww1_england.3.d: "Непотоплюваний RMS Titanic завершив першу подорож менш ніж за 6 днів. Маршрут пролягав від британського Саутгемптона через Шербур і Північну Атлантику. Капітан корабля Едвард Сміт сказав, що необхідно переглянути подальші маршруту, щоб забезпечити безпеку суден через ризик зіткнення з айсбергами. Він також зазначив, що не сумнівається в міцності корпусу, але конструкторське бюро зобов'язане забезпечити належну безпеку на такому великому судні.\n\n Компанія White Star Line вже оголосила про нову еру трансатлантичних пасажирських перевезень, в якій один з найбільших кораблів олімпійського класу буде використано на даний момент."
 ww1_england.3.a: "Чи справді Титанік непотоплюваний?"
-ww1_england.4.t: "Ірландська війна за незалежність"
-ww1_england.4.d: "Ірландська республіканська партія «Шинн Фейн» проголосила незалежність Ірландії. Волонтери ІРА повстали на Смарагдових островах, а Королівська поліція Ірландії повідомляє, що щонайменше 2 офіцери були вбиті ірландськими терористичними загонами. \n\nНа острові Ірландія повний хаос, і британці фактично втратили контроль Над більшістю католицьких регіонів Ірландії Британці, відчайдушно намагаючись придушити це повстання, надходять повідомлення про вчинені з обох сторін військові злочини, але все майбутнє Ірландії визначається цією єдиною війною. Нехай Господь помилує їх усіх."
+ ww1_england.4.t:0 "Irish Republic proclaims independence!" # (!)
+ ww1_england.4.d:0 "Today, Members of British Parliament from the Irish republican party Sinn Féin have proclaimed the independence of Ireland in a revolutionary parliament in Dublin. Irish Republican Army volunteers have rebelled on the Emerald Isles, and the Royal Irish Constabulary reports that at least 2 officers have been killed by these militias.\n\nThe island of Ireland is in complete chaos, and we have effectively lost control over the majority Catholic regions of Ireland. Desperately trying to suppress this uprising, we have sent some regiments to help neutralise the threat. The outcome of this war is still uncertain, yet the entire future of Ireland is determined by this one war." # (!)
 ww1_england.4.a: "Зрадники-негідники!"
 ww1_england.5.t: "Кіпрське повстання"
 ww1_england.5.d: "Грецькі націоналісти на Кіпрі організували антиколоніальне повстання, яке підтримало майже все населення острова. Демонстрація переросла в заворушення, під час яких протестуючий натовп намагався захопити британську адміністрацію острова."
@@ -11042,8 +11044,8 @@ eng_news.21.b: "Це... Що Черчілль там робить?!"
 eng_news.21.c: "Мабуть один із тих виродків утік і приєднався до більшовиків..."
 
 #ІНДІЯ РАДЖ
-ww1_raj.1.t: "Демаркаційна лінія в Аруначал-Прадеш"
-ww1_raj.1.d: "У зв'язку з подіями в Китаї Тибет проголосив незалежність. Для забезпечення контролю на кордоні у віддаленому регіоні було вирішено відправити військову експедицію в Аруначал-Прадеш і встановити лінію демаркації кордону."
+ ww1_raj.1.t:0 "The Pianma Kachin Tribe Requests Annexation" # (!)
+ ww1_raj.1.d:0 "Two tribal leaders from the Kachin Hills petitioned the British Burmese administration to annex the Pianma Kachin Cheifdom which is under Chinese suzerainty. The area is overseen by local officials, Tosa, appointed by the Qing Dynasty of China. However, direct Qing rule barely exists and poorly guarded. Their petition could be used as a pretext for further territorial expansion." # (!)
 ww1_raj.1.a: "Чудово."
 ww1_raj.2.t: "Граф Мінто йде у відставку."
 ww1_raj.2.d: "Гілберт Елліот-Мюррей-Кінінмаунд, 4-й граф Мінто пішов у відставку.\nВін пішов стопами свого прадіда, першого лорда Мінто. Коли Джон Морлі, міністр Індії, написав Мінто, що сперечається що «реформи можуть не врятувати раджу, але якщо вони не врятують, нічого іншого не врятує», Мінто відповів:\n...коли Ви кажете, що «якщо реформи не врятують Радж, ніщо інше не врятує», боюся, я категорично не погоджуюсь, Радж не зникне в Індії, доки британська раса залишається такою, якою вона є, тому що ми будемо боротися за Радж так само важко. як ми коли-небудь боролися, якщо справа дійде до боротьби, і ми переможемо, як завжди перемагали.\nРеформи зазвичай називали «реформами Морлі-Мінто», тому що і Джон Морлі, і лорд Мінто працювали разом, щоб провести ці реформи. Вони були прийняті британським парламентом у 1909 році як Акт про індійські ради.\nЙого наступником став лорд Хардінг з Пеншерста."
@@ -13171,12 +13173,14 @@ interwar_news.10.a: "Туреччина підтвердила свою влад
 # Війна за незалежність Ірландії
 interwar_irish_war_of_independence: "Війна за незалежність Ірландії"
 interwar_news.11.t: "Війна за незалежність Ірландії"
-interwar_news.11.d: "Великоднє повстання 1916 року, і особливо страта п’ятнадцяти людей через розстріл, ув’язнення або інтернування ще сотень і введення воєнного стану спричинили глибокий зсув громадської думки до республіканської справи в Ірландія.\nАрмія Ірландської Республіки, Ірландська республіканська армія, почала неоголошену війну проти англійців Армія."
-interwar_news.11.d_2: "Великоднє повстання 1917 року, і особливо страта п’ятнадцяти людей через розстріл, ув’язнення або інтернування ще сотень і введення воєнного стану спричинили глибокий зсув громадської думки до республіканської справи в Ірландія.\nАрмія Ірландської Республіки, Ірландська республіканська армія, розпочала неоголошену війну проти Британська армія."
-interwar_news.11.d_3: "Великоднє повстання 1918 року, і особливо страта п’ятнадцяти людей через розстріл, ув’язнення або інтернування ще сотень і введення воєнного стану спричинили глибокий зсув громадської думки до республіканської справи в Ірландія.\nАрмія Ірландської Республіки, Ірландська республіканська армія, розпочала неоголошену війну проти Британська армія."
-interwar_news.11.d_4: "Великоднє повстання 1919 року, і особливо страта п’ятнадцяти людей через розстріл, ув’язнення або інтернування ще сотень і введення воєнного стану спричинили глибокий зсув громадської думки в бік республіканської справи в Ірландія.\nАрмія Ірландської Республіки, Ірландська республіканська армія, розпочала неоголошену війну проти Британська армія."
-interwar_news.11.d_5: "Введення воєнного стану викликало глибокий зсув громадської думки в бік республіканської справи в Ірландії.\nАрмія Ірландської Республіки, Ірландська республіканська армія, почала неоголошену війну проти британської армії. "
-interwar_news.11.a: "Боже, бережи короля"
+ interwar_news.11.d:0 "Today Ireland has declared its independence from the [ENG.GetName] after Members of British Parliament from the Irish republican party Sinn Féin declared their own parliament in Dublin and adopted a document declaring the independence of the Irish Republic. The party gained widespread support across Ireland after the Easter Rising of 1916, and the brutal British response with the execution of fifteen Irish revolutionaries by firing squad, the imprisonment or internment of hundreds more, and the imposition of martial law.\nThe army of the Irish Republic, the Irish Republican Army, started an undeclared war against the British Army." # (!)
+ interwar_news.11.d_2:0 "Today Ireland has declared its independence from the [ENG.GetName] after Members of British Parliament from the Irish republican party Sinn Féin declared their own parliament in Dublin and adopted a document declaring the independence of the Irish Republic. The party gained widespread support across Ireland after the Easter Rising of 1917, and the brutal British response with the execution of fifteen Irish revolutionaries by firing squad, the imprisonment or internment of hundreds more, and the imposition of martial law.\nThe army of the Irish Republic, the Irish Republican Army, started an undeclared war against the British Army." # (!)
+ interwar_news.11.d_3:0 "Today Ireland has declared its independence from the [ENG.GetName] after Members of British Parliament from the Irish republican party Sinn Féin declared their own parliament in Dublin and adopted a document declaring the independence of the Irish Republic. The party gained widespread support across Ireland after the Easter Rising of 1918, and the brutal British response with the execution of fifteen Irish revolutionaries by firing squad, the imprisonment or internment of hundreds more, and the imposition of martial law.\nThe army of the Irish Republic, the Irish Republican Army, started an undeclared war against the British Army." # (!)
+ interwar_news.11.d_4:0 "Today Ireland has declared its independence from the [ENG.GetName] after Members of British Parliament from the Irish republican party Sinn Féin declared their own parliament in Dublin and adopted a document declaring the independence of the Irish Republic. The party gained widespread support across Ireland after the Easter Rising of 1919, and the brutal British response with the execution of fifteen Irish revolutionaries by firing squad, the imprisonment or internment of hundreds more, and the imposition of martial law.\nThe army of the Irish Republic, the Irish Republican Army, started an undeclared war against the British Army." # (!)
+ interwar_news.11.d_5:0 "Today Ireland has declared its independence from the [ENG.GetName] after Members of British Parliament from the Irish republican party Sinn Féin declared their own parliament in Dublin and adopted a document declaring the independence of the Irish Republic. The party gained widespread support across Ireland after the failure of Home Rule for Ireland to be passed.\nThe army of the Irish Republic, the Irish Republican Army, started an undeclared war against the British Army." # (!)
+ interwar_news.11.a: "Свобода близька!" # ((#))
+ interwar_news.11.b: "Ці повстанці не мають шансів!" # ((#))
+ interwar_news.11.c: "Черговий бунт в Ірландії?" # ((#))
 
 # Ірландська вільна держава
 interwar_irish_free_state: "Ірландська вільна держава"
@@ -16303,6 +16307,22 @@ ww1_liechtenstein.8.a:0 "Безглуздо."
  ww1_tibet.2.t:0 "13th Dalai Lama Died!"
  ww1_tibet.2.d:0 "The 13th Dalai Lama propprophesized before dying: Very soon in this land deceptive acts may occur from without and within. At that time, if we do not dare to protect our territory, our spiritual personalities including the Victorious Father and Son may be exterminated without trace, the property and authority of our Lakangs and monks may be taken away. Moreover, our political system, developed by the Three Great Dharma Kings will vanish without anything remaining. The property of all people, high and low, will be seized and the people forced to become slaves. All living beings will have to endure endless days of suffering and will be stricken with fear. Such a time will come."
  ww1_tibet.2.a:0 "We will await your reincarnation!"
+ ww1_tibet.3.t:0 "Question for Tibet Independence"
+ ww1_tibet.3.d:0 "Following our failed attempt to annex Tibet in 1907 and the following Chinese attempt to integrate it, Tibet has now achieved de facto independence after the fall of the Qing Dynasty through revolution. While Tibet, which has maintained its precarious independence under our diplomatic protection, has not been recognized as legitimate by the Chinese government, we need to mediate and resolve this issue."
+ ww1_tibet.3.a:0 "Send invitation to discuss."
+ ww1_tibet.4.t:0 "[FROM.GetAdjective] Invites to Discuss for Tibet Independence"
+ ww1_tibet.4.d:0 "The government of [FROM.GetNameDef] invited a delegation of our government to India to negotiate the status of Tibet, a nation not recognized as independent by China, and the demarcation of the Indo-Tibetan border. Their main demands included the formal establishment of de facto autonomy for the Tibetan people under Chinese suzerainty and recognition of the Aruna Mountains as an rightful territory of India."
+ ww1_tibet.4.a:0 "We accept the terms."
+ ww1_tibet.4.b:0 "Why do you think we'll agree on these?"
+ ww1_tibet.5.t:0 "Simla Convention"
+ ww1_tibet.5.d:0 "After trilateral talks between China, India, and the Tibetan government regarding Tibet's recognition of autonomy, Chinese sovereignty, and the demarcation of the Indo-Tibetan border, the agreement have failed. They have been unable to compromise on their demands, and no substantive changes have been achieved. Tibet appears poised to maintain a de facto autonomous and independent status, unacknowledged by China, for the time being. India has unilaterally recognized the Aruna Mountains as its territory, but has not actually dispatched an administrator to annex the region."
+ ww1_tibet.5.e:0 "After trilateral talks between China, India, and the Tibetan government regarding Tibet's recognition of autonomy, Chinese sovereignty, and the demarcation of the Indo-Tibetan border, all agreements brokered by India were accepted. Tibetans were granted full autonomy under Chinese suzerainty and received guarantees of independence from both India and China. The Aruna Mountains were integrated to Indian territory."
+ ww1_tibet.5.a:0 "That's a shame."
+ ww1_tibet.5.b:0 "Well settled."
+ ww1_tibet.6.t:0 "Tibet At War"
+ ww1_tibet.6.d:0 "Foreign invaders have attacked Tibet, which we consider our legitimate territory. Unless we actually mobilize our military, no one will recognize our rights to Tibet and will simply ridicule us."
+ ww1_tibet.6.a:0 "To war!"
+ ww1_tibet.6.b:0 "We can't risk war over lofy mountain-swampy hell hole."
 
 ### САН-МАРІНО ###
  ww1_san_marino.1.t:0 "Assension of Giuliano Gozi!"
@@ -16323,7 +16343,7 @@ ww1_liechtenstein.8.a:0 "Безглуздо."
  ww1_kuti.2.d:0 "On 28 August 1897, Muhammad al-Sanussi agreed to the establishment of a French protectorate over Dar al-Kuti through a treaty of trade and alliance signed by Mohammed el-Sanussi and Émile Gentil. The treaty was revised twice, on 18 February 1903 and 26 January 1908, but Dar al-Kuti retained its independence until the death of Sanussi on 12 January 1911. His son, Kamun, fled east to Ouanda Djallé, and continued resisting our rule."
  ww1_kuti.2.a:0 "He won't last long."
 
-### ШВАЙЦАРІЯ (?!) ###
+### ШВАЙЦАРІЯ ###
  ww1_switzerland.1.t:0 "November Unrest Contained"
  ww1_switzerland.1.d:0 "As revolutions erupted across Europe, radical elements within Switzerland attempted to seize the moment. Workers’ councils inspired by the Russian soviets organized illegal strikes in Zurich, Bern, and Basel. A small group of agitators attempted to seize control of federal arsenals in Thun and Lausanne. The uprising was swiftly suppressed by the militia. Dozens were arrested—among them leaders like Fritz Platten, Robert Grimm, and Hans Bader. Some were sentenced, others discreetly deported to Germany."
  ww1_switzerland.1.a:0 "Swiss Stability wont be threatened!"
@@ -16395,3 +16415,51 @@ ww1_liechtenstein.8.a:0 "Безглуздо."
  ww1_switzerland.16.t:0 "France Defies Switzerland"
  ww1_switzerland.16.d:0 "Despite Switzerland’s humanitarian intervention and our formal guarantees, France has chosen to resist the occupation of Haute-Savoie by force. In doing so, they challenge not only the Swiss Confederation but the authority of the German Empire itself. After deliberation, the Kaiser and the General Staff have agreed: Germany will uphold its word. A formal declaration of war has been issued. The Reich marches again—not for conquest, but to preserve order and honor."
  ww1_switzerland.16.a:0 "Let it be known: Germany keeps its promises."
+
+### МОНҐОЛІЯ ###
+ ww1_mongolia.1.t:0 "The Passing of the Bogd Khan"
+ ww1_mongolia.1.d:0 "The 8th Jebtsundamba Khutuktu, the Bogd Khan, who broke the yoke of the Qing Dynasty and became the focal point of our nation by declaring Mongolia's independence, has passed away after a long illness. He was more than a mere monarch; he was the spiritual leader of the Mongol people, revered as a living Buddha.\n\nHis death leaves a great void in Mongolia. The absence of this symbol of theocracy heralds a massive shift in Mongolia's political landscape. The era of the Bogd Khan has ended, and Mongolia is about to face a new age."
+ ww1_mongolia.1.a:0 "An era has ended."
+ ww1_mongolia.2.t:0 "Urging Inner Mongolia to Join"
+ ww1_mongolia.2.d:0 "Though we have won our independence from Manchu oppression, our brethren in Inner Mongolia still suffer under the Chinese rule. We can no longer stand by and watch the descendants of Genghis Khan be ruled by others.\n\nWe must send envoys to the princes of Inner Mongolia to proclaim our great cause. We must remind them of our shared bloodline and urge them to join us in the ambitious dream of a unified Great Mongol Nation. If they rise up and join us, Mongolia will be one again."
+ ww1_mongolia.2.a:0 "For all the Mongols!"
+ ww1_mongolia.3.t:0 "Revolt in Inner Mongolia!"
+ ww1_mongolia.3.d:0 "It seems the agitation of the Outer Mongolian barbarians has finally borne fruit. Some of the Inner Mongolian princes have renounced their loyalty to China and pledged allegiance to the Bogd Khan, sparking a rebellion. This is a clear challenge to our nation's sovereignty and an act of treason by the Mongols. If left unchecked, it will threaten not only domestic stability but also our international prestige. The embers of this rebellion must be extinguished early."
+ ww1_mongolia.3.a:0 "Suppress the barbarians!"
+ ww1_mongolia.4.t:0 "A Mongolian Delegation Arrives"
+ ww1_mongolia.4.d:0 "The princes and high lamas of Outer Mongolia, who serve the Qing Emperor as the Great Khan of the Mongols, have dispatched a delegation from their religious leader, the Jebtsundamba Khutuktu, to discuss their declaration of independence. They have formally requested our support for their independence movement. This presents a significant opportunity to expand our influence in the Far East, but it is a sensitive issue that could provoke a full-scale war with China, so we must proceed with caution."
+ ww1_mongolia.4.a:0 "Independence is absurd for those Tatars. Tell them to settle for autonomy."
+ ww1_mongolia.5.t:0 "The Liberation of Inner Mongolia"
+ ww1_mongolia.5.d:0 "Our call for unity has been met with both hope and resistance. While some of our brothers have joined us, the Chinese occupiers refuse to yield an inch of land. Words are no longer enough. The time has come to unify the Mongol people by force of arms! Our army will march south to drive the Chinese from our ancestral lands and bring all Mongols under the banner of the Bogd Khan."
+ ww1_mongolia.5.a:0 "All forces, advance!"
+ ww1_mongolia.6.t:0 "Mongolian Army Victorious in Inner Mongolian Clash"
+ ww1_mongolia.6.d:0 "The Mongolian army has defeated Chinese forces in the border region of Inner Mongolia and successfully secured the area. This victory will encourage more Inner Mongolian tribes to join the independent state of Mongolia."
+ ww1_mongolia.6.a:0 "An ill-mannered game of fire by the barbarians."
+ ww1_mongolia.6.b:0 "The Great Mongol Empire will be revived!"
+ ww1_mongolia.7.t:0 "Mongolian Army Repulsed in Inner Mongolian Clash"
+ ww1_mongolia.7.d:0 "The Mongolian army was repulsed by Chinese resistance. The Mongolian units suffered heavy losses and were forced to retreat."
+ ww1_mongolia.7.a:0 "This is the Mandate of Heaven."
+ ww1_mongolia.7.b:0 "It is not over yet."
+ ww1_mongolia.8.t:0 "Mongolian Invasion!"
+ ww1_mongolia.8.d:0 "Not content with merely inciting rebellion, the hordes of Outer Mongolian barbarians have now crossed our border in force! Their army is attacking our positions in Inner Mongolia, revealing their ambition to annex our territory. We must repel these invaders and teach them the folly of challenging China."
+ ww1_mongolia.8.a:0 "We will not yield a single inch of land!"
+ ww1_mongolia.9.t:0 "Concerns over Mongolian Expansion"
+ ww1_mongolia.9.d:0 "The Khan in Urga, our protégé, seems to be growing overzealous. Their military campaign in Inner Mongolia risks provoking a full-scale war with China and destabilizing the entire region. This goes far beyond the limited autonomy we promised them. We must intervene and persuade them to cease their military operations before this situation spirals out of control."
+ ww1_mongolia.9.a:0 "It is time to bring them under control."
+ ww1_mongolia.10.t:0 "Pressure from Russia"
+ ww1_mongolia.10.d:0 "While our operation to liberate Inner Mongolia was underway, our sponsor, the Russian government, expressed its strong disapproval. They fear a wider conflict with China and have threatened to withdraw their support if we do not halt our offensive. Lacking the resources to continue the war alone and with our position dependent on Russian goodwill, we have no choice but to withdraw our troops. The dream of a unified Mongolia must wait for another day."
+ ww1_mongolia.10.a:0 "We must accept reality."
+ ww1_mongolia.11.t:0 "The Agreement of Niislel Khüree"
+ ww1_mongolia.11.d:0 "Although Russia has come out in support of Mongolian independence, it has demanded that the Khan halt his advance into Inner Mongolia. As Mongolia's position is precarious without Russian support, the Khan has accepted their demand and withdrawn all troops from Inner Mongolia. In return, Russia will guarantee Mongolia's independence."
+ ww1_mongolia.11.a:0 "For now, the Mongolian Plains will be quiet.."
+ ww1_mongolia.12.t:0 "A Proposal on the Status of Mongolia"
+ ww1_mongolia.12.d:0 "The Mongolian question remains a source of instability. To settle the matter definitively, we have invited a Chinese delegation to a conference in Kyakhta. We will mediate a treaty that recognizes China's suzerainty over Mongolia while guaranteeing formal autonomy for Outer Mongolia. This will secure our interests, prevent further conflict, and establish a clear status quo in the region."
+ ww1_mongolia.12.a:0 "Let us await their response."
+ ww1_mongolia.13.t:0 "Response to the Kyakhta Proposal"
+ ww1_mongolia.13.d:0 "Russia has proposed a treaty to resolve the status of Outer Mongolia. While it forces us to recognize the autonomy of those ungrateful barbarians in Outer Mongolia, it also reaffirms our suzerainty over the region and puts an end to their foolish dream of a 'Great Mongol Empire'. Accepting this is a bitter pill, but it may be the most pragmatic way to prevent further Russian encroachment and stabilize our northern frontier."
+ ww1_mongolia.13.a:0 "It is the pragmatic choice."
+ ww1_mongolia.13.b:0 "Mongolia is our territory!"
+ ww1_mongolia.14.t:0 "The Treaty of Kyakhta"
+ ww1_mongolia.14.d:0 "Russian and Chinese diplomatic delegations have signed a treaty in Kyakhta regarding Mongolian autonomy. The treaty does not recognize Mongolian independence and affirms China's rights over Mongolia. In return, it recognizes the autonomy of the Mongols in Outer Mongolia, prohibits the entry of Chinese or other foreign troops into Outer Mongolia, and allows for a small Mongolian army for defense."
+ ww1_mongolia.14.a:0 "It has been concluded well."
+ ww1_mongolia.14.b:0 "China and Russia are both greedy bastards!"

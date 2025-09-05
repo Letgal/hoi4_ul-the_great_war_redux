@@ -94,7 +94,6 @@
  defending_the_nation_desc:0 "Очевидно, захист [ROOT.GetName] має вирішальне значення для нашої військової політики. Переконавшись, що наші збройні сили перебувають у стані підвищеної готовності та що наші заводи викачують необхідне, ми будемо готові до всього. "
 
  french_advisors: "Французькі радники"
- german_advisors: "Німецькі радники"
 
  support_international:0 "Підтримати Інтернаціонал"
  support_international_desc:0 "Пропонування нашої підтримки Інтернаціоналу зміцнить нашу позицію в глобальному лівому русі. Таке узгодження сприятиме міжнародній солідарності та просуватиме справу соціалізму."
@@ -803,8 +802,6 @@
  ENG_aftermath_of_defeat_desc:0 "The British Empire has suffered a devastating defeat in the Great War, and its repercussions echo across the nation. Colonies are lost, the economy is in ruins, and public discontent is at an all-time high."
  ENG_economic_ruin:0 "Economic Ruin"
  ENG_economic_ruin_desc:0 "The loss of colonies and crippling reparations have plunged the British economy into a deep abyss. Shortages of essential goods and rampant inflation are suffocating the lives of ordinary citizens."
- ENG_veterans_fury:0 "Veterans' Fury"
- ENG_veterans_fury_desc:0 "The brave soldiers who fought for their country returned not to heroes' welcomes, but to a harsh reality. Unemployed and abandoned, their simmering rage becomes a volatile spark of social unrest."
  ENG_general_strike:0 "General Strike"
  ENG_general_strike_desc:0 "Infuriated by government incompetence and economic hardship, workers nationwide have launched a general strike. Production has ground to a halt, cities stand still, and the air crackles with revolutionary fervor."
  ENG_white_guard_formation:0 "White Guard"
@@ -3816,8 +3813,6 @@
  ITA_artillery_modernisation_desc:0 "Хоча артилерія може бути лише другорядною частиною італійських збройних сил, вона, тим не менш, важлива. Мало того, що нам не вистачає артилерії в цілому, ми маємо застарілу та іржаву. Ми повинні це змінити."
  ITA_training_improvements:0 "Покращення навчання"
  ITA_training_improvements_desc:0 "Хоча наша армія лояльна, їй бракує підготовки, щоб досягти чогось у бою. Ми повинні розпочати загальнонаціональні армійські навчання, щоб максимально використати наших людей. 1000 елітних солдатів краще, ніж 5000 призовників."
- ITA_askari_troops:0 "Війська Аскарі"
- ITA_askari_troops_desc:0 "Утримувати наші колонії під контролем означає адаптуватися до наших колоній. Буде сформовано новий Корпус верблюдів, щоб ми могли краще охороняти та захищати наші колонії."
  ITA_logistic_improvements:0 "Покращення логістики"
  ITA_logistic_improvements_desc:0 "Навіть римляни знали, що не варто перенапружувати свої лінії постачання. Що можуть зробити 100 000 чоловік, якщо вони застрягли в Альпах, чекаючи боєприпасів. Добре забезпечена армія — це хороша армія. Нові інновації в радіотехнологіях покращать координацію кращого постачання, тоді як розвідувальні війська зможуть розвідати найкращий спосіб дістатися від А до Б без перерозтягнення."
  ITA_expand_alpini:0 "Розгорнути Альпіні"
@@ -3825,9 +3820,6 @@
  ITA_expand_alpini_tt:0 "Додає артилерійський і кілька альпіністських батальйонів до §YReggimento Alpini§! і §YReggimento Alpini Rinforzato§! і робить їх доступними для редагування."
  ITA_cavalry_modernisation:0 "Модернізація кавалерії"
  ITA_cavalry_modernisation_desc:0 "Кавалерія є нашими наймобільнішими одиницями, і це дуже важливо для нашої загальної стратегії. Ми повинні намагатися йти в ногу з нашими європейськими колегами, коли йдеться про легке спорядження та стратегію."
- ITA_cavalry_modernisation_effect:0 "Вмикає §YМодернізовану кавалерію§!\n§HCavalry\n Ліс§!\n Атаку: §G+2%§!\n Рух: §G+5%§!\n §HUrban§!\n Атака: §G+5%§!\n Переміщення: §G+5%§!\n"
- ITA_italian_spahis:0 "Італійські спахії"
- ITA_italian_spahis_desc:0 ""
  ITA_bersaglieri_tt:0 "Додає велосипедний батальйон до §YReggimento Bersaglieri§! і робить його доступним для редагування."
  ITA_engineer_corp:0 "Engineer Corp"
  ITA_engineer_corp_desc:0 ""
@@ -3851,7 +3843,7 @@
  ITA_Ansaldo:0 "Ансальдо"
  ITA_Ansaldo_desc:0 ""
 
- RAJ_revive_the_screw_guns_effect: "£tech_mod Додати технологію: $mountain_gun$."
+ RAJ_revive_the_screw_guns_effect: "£tech_mod Додати технологію: §Y$mountain_gun$§!."
 
  ITA_royal_army: "[ITA_army_name_thing]"
  ITA_royal_army1: "Regio Esercito"
@@ -5975,7 +5967,6 @@
  TUR_harbiyeli_desc:0 "Реакціонери можуть вдарити нам ножа в спину в будь-який момент. Тим часом вони пригнічують армію політичною боротьбою. Ми повинні зупинити їх і захистити досягнення молодотурецької революції."
  debt_less_than_7375:0 "Значення фактора фабрик споживчих товарів на §YOtoman Public Debt Administration§! менше, ніж фактор фабрик споживчих товарів: §Y75,0%§!" #Наш борг менше §Y7,375 тисяч лір§!
  debt_less_than_4425:0 "Значення фактора фабрик споживчих товарів на §YOtoman Public Debt Administration§! менше, ніж фактор фабрик споживчих товарів: §Y45,0%§!" #Наш борг менше §Y4,425 тисяч лір§!
- debt_more_than_0:0 "Значення фактора фабрик споживчих товарів на §YOtoman Public Debt Administration§! більше, ніж фактор фабрик споживчих товарів: §Y0,0%§!"
  TUR_OPDA_trigger_tooltip:0 "Не розпустив §Управління державного боргу Османської імперії§!."
  TUR_OPDA_trigger_tooltip_NOT: "§YАдміністрацію османського державного боргу§! не розпущено"
  TUR_OPDA_trigger_tooltip_2:0 "Розпустив §YOtoman Public Borg Administration§!."
@@ -7967,7 +7958,6 @@
  FRC_comite_national_de_surveillance:0 "Comité National de Surveillance"
  FRC_comite_national_de_surveillance_desc:0 "In order to maintain control over state reform and the preservation of the revolution, we are forced to establish a party police."
 
- FRC_parti_revolutionnaire:0 "Le Parti Unique"
  FRC_parti_revolutionnaire_desc:0 "With the anarchist elements eliminated and the moderates controlled and absorbed, we are in a position to build a single party, like the SFIO, but better controlled and directed. The single line of the party will be that of the Jacobin-Leninists inspired by the Soviet proletarian revolution."
 
  FRC_war_effort_donations:0 "War Effort Donations"
@@ -8670,7 +8660,7 @@
  USA_align_workers_rights_desc:0 "Жінка та чоловік повинні мати рівні права на працю! А також мінімальну заробітну плату."
  USA_radical_prohibition:0 "Радикальна заборона"
  USA_radical_prohibition_desc:0 "При владі моралісти. Тому ми можемо не переживати за результат введення сухого закону."
- USA_bolshevism_is_emy_of_socialism:0 "Більшовизм - ворог соціалізму"
+ USA_bolshevism_is_enemy_of_socialism:0 "Більшовизм — ворог соціалізму"
  USA_bolshevism_is_enemy_of_socialism_desc:0 "Ми вже знаємо про божевілля більшовиків. Вони ганьблять соціалізм, вони використовують ліві ідеї для зміцнення особистої влади, а не влади мас! Нам потрібно покінчити з ними."
  USA_prohibition:0 "Заборона"
  USA_prohibition_desc:0 "Десятиліття правління прогресистів породили величезну кількість соціальних проблем, на які вказують моралісти та консерватори. Ми вважаємо, що вам потрібно прислухатися до них і почати антиалкогольну кампанію."
@@ -8719,7 +8709,7 @@
  USA_war_against_germany:0 "Війна проти німецької агресії"
  USA_war_against_germany_desc:0 "We can no longer turn a blind eye to the atrocities committed by the Central Powers and their leading nation, the German Empire. It is now clear the Kaiser would see the destruction of democracy and the enslavement of people rightfully seeking their own national self-determination. In the name of freedom, we declare war on the German Empire!" # (!)
  USA_liberia_focus:0 "Зосередитися на Ліберії"
- USA_liberia_focus_desc:0 "Свобода для Ліберії"
+ USA_liberia_focus_desc:0 "We have ties with Liberia, as Quakers and and slaveholders sent American slaves to Liberia as they believed these people would face better chances for freedom in Africa than in the United States. It is time to conquer it to place a new colony under our belt." # (!)
  USA_war_against_france:0 "Війна проти французької агресії"
  USA_war_against_france_desc:0 "It has now become clear that this horrible war will never end because of Entente intransigence, specifically French madness. What could have been a regional war escalated into a global one when Framce chose to support the assassination of an innocent man at the hands of a murderous, small nation. In the name of justice, we must declare war on the French Republic!" # (!)
 

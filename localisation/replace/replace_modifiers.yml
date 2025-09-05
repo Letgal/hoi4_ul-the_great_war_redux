@@ -1081,7 +1081,7 @@
  MODIFIER_LEGITIMACY_FACTOR: "£occupation_cost_gain_texticon£ Приріст легітимності"
  MODIFIER_COMPLIANCE_GAIN_ADD: "£compliance_gain_texticon£ Щоденний приріст підпорядкування"
  MODIFIER_ENEMY_SPY_NETWORK_GROWTH: "£spy_network_gain_enemy_texticon£ Ріст ворожої розвідмережі"
- MODIFIER_ENEMY_SPY_NEGATIVE_STATUS_FACTOR: "Негативний стан ворожого шпигуна [WIP]"
+ MODIFIER_ENEMY_SPY_NEGATIVE_STATUS_FACTOR: "Негативний стан ворожого шпигуна (WIP)"
  MODIFIER_NO_COMPLIANCE_GAIN: "Немає приросту підпорядкування"
  resource_sabotage_decrease_tooltip: "  £sabotaged_resource_texticon£ Шанс саботажу ресурсів: §G-25%§!\n  £sabotaged_resource_texticon£ Тривалість саботажу ресурсів: §G-25%§!"
  factory_sabotage_decrease_tooltip: "  £civ_factory_sabotage£ Шанс підриву цивільних заводів: §G-25%§!\n  £mil_factory_sabotage£ Шанс підриву військових заводів: §G-25%§!"

@@ -1,12 +1,11 @@
 # Українська локалізація *The Great War Redux*
-Оновлено для патчу моду від ***29 серпня 2025*** (версія гри&nbsp;— *1.16*)
+Оновлено для версії моду ***0.15.4.2*** (версія гри&nbsp;— *1.16*)
 
 Локалізація доступна до завантаження в [Майстерні *Steam*](https://steamcommunity.com/workshop/filedetails/?id=2880535545).
 
 ## Завершені файли
 + `countries`
 + `countries_cosmetic`
-+ `loading_tips`
 + `strategic_region_names`
 + `ww1_diplomacy`
 + `ww1_factions`
@@ -43,6 +42,7 @@
 + `ww1_ideas` (більшість переклав *kiryl*)
 
 ## У процесі перекладу (без об'єднання)
++ `loading_tips`
 + `state_names`
 + `ww1_adjacency_rules`
 + `ww1_autonomy`
@@ -101,3 +101,4 @@
 + `replace_equipment`
 + `replace_focus`
 + `replace_traits`
++ `replace_WUW_focus`

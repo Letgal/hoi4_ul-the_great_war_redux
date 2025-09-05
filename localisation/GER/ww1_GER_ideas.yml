@@ -134,3 +134,7 @@
 ### КОМПАНІЇ ###
  ehrhardt_automobil_ag: "Ehrhardt Automobil AG"
  henschel_and_sohn: "Henschel & Sohn"
+
+### ГРУПИ ОБМІНУ ТЕХНОЛОГІЯМИ ###
+ krupp_vickers_research_name:0 "Vickers-Krupp Joint Venture" # (!)
+ krupp_vickers_research_desc:0 "Friedrich Krupp AG and Vickers Ltd. have signed a formal agreement establishing a joint industrial consortium. The venture, hailed as unprecedented, will facilitate technological cooperation, resource sharing, and coordinated research in metallurgy, heavy machinery, and naval engineering." # (!)
