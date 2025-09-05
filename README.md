@@ -11,11 +11,12 @@
 + `ww1_factions`
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
-+ `ww1_GER_bundesrat` (переклав [*Лицарський хрест*](https://steamcommunity.com/profiles/76561199017049555))
-+ `ww1_liman_affair` (переклав *Лицарський хрест*)
-+ `ww1_qing` (переклав *Лицарський хрест*)
 + `ww1_music` (умовно)
 + `ww1_war`
++ `GER\ww1_GER_bundesrat` (переклав [*Лицарський хрест*](https://steamcommunity.com/profiles/76561199017049555))
++ `GER\ww1_liman_affair` (переклав *Лицарський хрест*)
++ `QIN\ww1_qing` (переклав *Лицарський хрест*)
++ `ROM\ww1_romania` (переклав *Лицарський хрест*)
 
 ### Папка `replace`
 + `replace_air`
@@ -35,20 +36,19 @@
 + `replace_unit`
 + `replace_unit_medals`
 
-## Зовнішній переклад
-+ `ww1_decisions` (більшість переклав [*kiryl*](https://steamcommunity.com/profiles/76561199575098265), допереклав *Лицарський хрест*)
-+ `ww1_events` (більшість переклав *kiryl*)
-+ `ww1_focus` (більшість переклав *kiryl*)
-+ `ww1_ideas` (більшість переклав *kiryl*)
-
-## У процесі перекладу (без об'єднання)
+## У процесі перекладу
 + `loading_tips`
 + `state_names`
 + `ww1_adjacency_rules`
 + `ww1_autonomy`
 + `ww1_buildings`
-+ `ww1_germany`
++ `ww1_decisions` (більшість переклав [*kiryl*](https://steamcommunity.com/profiles/76561199575098265), допереклав *Лицарський хрест*)
++ `ww1_events` (більшість переклав *kiryl*)
++ `ww1_focus` (більшість переклав *kiryl*)
++ `ww1_ideas` (більшість переклав *kiryl*)
 + `ww1_parliament_gui` (старий переклад видалено)
++ `GER\ww1_GER_ideas` (умовно)
++ `GER\ww1_germany`
 
 ### Папка `replace`
 + `replace_ideas`
@@ -86,12 +86,14 @@
 + `ww1_designer`
 + `ww1_equip_air`
 + `ww1_flags`
++ `ww1_morocco`
 + `ww1_naval_classes`
-+ `ww1_romania`
 + `ww1_tank_modules`
 + `ww1_unit_limit`
 + `ww1_unit_medals`
 + `ww1_units`
++ `ITA\ww1_italy`
++ `ITA\ww1_italy_events`
 
 ### Папка `replace`
 + `replace_buildings`
