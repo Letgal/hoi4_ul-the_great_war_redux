@@ -1487,6 +1487,10 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_renew_triple_alliance_desc: "The Triple Alliance with [AUS.GetNameDef] and [ITA.GetNameDef] has been a cornerstone of our foreign policy since 1882. Although tensions between Vienna and Rome persist, we must reaffirm our mutual defence commitments to secure our position against other Great Powers. This alliance is vital for our security."
   GER_expand_sektion_iiib: "Розширити Sektion IIIb"
   GER_expand_sektion_iiib_desc: "In this era of rising tensions and secret plotting, a capable intelligence service is not a luxury but a necessity. We must expand the resources and operational authority of Sektion IIIb, the intelligence branch of the General Staff, to better anticipate the actions of our rivals and safeguard the Reich from internal threats."
+  ENG_GER_haldane_mission: "[Get_ENG_GER_haldane_mission_name]"
+  ENG_GER_haldane_mission_desc: "[Get_ENG_GER_haldane_mission_desc_name]"
+  ENG_haldane_mission: "Розпочати місію Голдейна"
+  ENG_haldane_mission_desc: "Richard Haldan wants to slow-down or pause in the German build-up. In return, Britain would support Germany's colonial ambitions, and promise not to engage in aggressive warfare against Germany."
   GER_invite_british_diplomats: "Запросити британських дипломатів"
   GER_invite_british_diplomats_desc: "Chancellor von Bethmann-Hollweg is convinced we must break the 'encirclement' of the Triple Entente. We will make a direct diplomatic approach to the United Kingdom, seeking a guarantee of their neutrality in a future European conflict. Securing this will require significant concessions, likely naval, but it is a price worth paying."
   GER_TUR_military_mission: "[Get_GER_TUR_military_mission_name]"
@@ -1503,8 +1507,8 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_should_we_sell_ships_to_netherlands: "Держава @HOL §Y[HOL.GetName]§! придбала §Y4 торпедні катери§!. Ми можемо або передати їх, або заморозити транзакцію й захопити кораблі на власну користь."
   GER_demand_angola: "Анґола в обмін на борги Португалії"
   GER_demand_angola_desc: "Portugal's financial difficulties present an opportunity. With British acquiescence, we could press our claims on Angola as compensation for Portuguese debts. This would significantly expand our African empire while testing the sincerity of British diplomatic assurances."
-  GER_krupp_contracts: "Співробітництво Vickers і Krupp"
-  GER_krupp_contracts_desc: "With Anglo-German relations on the mend, we should pursue open collaboration between our industrial giants, Krupp and Vickers-Armstrong. Such cooperation would benefit both nations' naval industries while fostering stronger diplomatic ties."
+  ENG_GER_vickers_krupp_cooperation: "Співробітництво Vickers і Krupp"
+  ENG_GER_vickers_krupp_cooperation_desc: "With Anglo-German relations on the mend, we should pursue open collaboration between our industrial giants, Krupp and Vickers-Armstrong. Such cooperation would benefit both nations' naval industries while fostering stronger diplomatic ties."
   GER_finance_berlin_baghdad_railway: "Профінансувати Багдадську залізницю"
   GER_finance_berlin_baghdad_railway_desc: "For decades, German firms have supported the construction of a railway connecting us directly with the Ottoman Empire. We must see this project through, as it will prove essential for accessing Mesopotamian oil, countering British influence, and strategically bypassing the Suez Canal."
   GER_force_economic_integration: "Нав'язати економічну інтеграцію" # (&+)
@@ -1842,7 +1846,8 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_no_schlieffen: "Обрання цієї гілки не дасть вам §Y£decision_icon_small $GER_schliffenmoltkeplan$§!."
   GER_no_schlieffen_ormolkte: "Ця гілка §Rпокидає§! §Y£decision_icon_small $GER_schliffen1905plan$§!!"
 
-  tt_might_get_neutral_british: "We will attempt to work towards securing §Y[ENG.GetFlag][ENG.GetAdjective] Neutrality§! in any future war between us and §Y[FRA.GetFlag][FRA.GetName]§! or §Y[RUS.GetFlag]The [RUS.GetName]§!."
+  tt_might_get_neutral_british: "We will attempt to work towards securing §Y[ENG.getFlag][ENG.getAdjective] Neutrality§! in any future war between us and §Y[FRA.GetNameWithFlag]§! or §Y[RUS.GetNameWithFlag]§!."
+  tt_might_stop_german_naval_expansion: "We will attempt to détente with §Y[GER.GetNameWithFlag]§! and reduce dangerous friction between us arising because of their escalating §Ynaval arms race§!."
 
   GER_auto_gain_5_influence_point_per_month: "\nEach month, we will gain £influence_texticon §Y5§! §YInfluence Points§!."
   GER_compromise_on_planning_tt: "Depending on our choices, the §YSchlieffen Plan§! may be altered."
@@ -1979,7 +1984,6 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
  ww1_german_victory.24.b: "Return to Bethmann-Hollweg—stability above all."
  ww1_german_victory.24.c: "Name Matthias Erzberger—a bold step toward reform."
 
- GER_mitteleuropa_tt: "Invite Friendly countries in Mitteleuropa to increase our political influence."
  ww1_german_victory.25.t: "Germany Proposes Mitteleuropa Membership"
  ww1_german_victory.25.d: "Berlin has extended a formal invitation to join a new continental project: Mitteleuropa. Framed as a vast economic union of peace and prosperity, the proposal envisions tariff harmonization, shared infrastructure, and coordinated trade policy—all under German leadership. Supporters hail the chance to access a secure market and stable investment. Critics warn it risks turning our economy into an appendage of the Reich."
  ww1_german_victory.25.a: "Accept the invitation—cooperation brings growth."
