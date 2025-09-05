@@ -25,6 +25,7 @@
 + `replace_diplomacy`
 + `replace_frontend`
 + `replace_military_industrial_organization`
++ `replace_modifiers`
 + `replace_music`
 + `replace_operatives` (умовно, аааааа)
 + `replace_politics`
@@ -51,7 +52,6 @@
 
 ### Папка `replace`
 + `replace_ideas`
-+ `replace_modifiers`
 
 ## Файл оновлено, старий переклад збережено
 + `bookmarks`
