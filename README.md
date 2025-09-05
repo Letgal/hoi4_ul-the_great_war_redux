@@ -13,6 +13,7 @@
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
 + `ww1_music` (умовно)
++ `ww1_scripted_triggers`
 + `ww1_war`
 + `GER\ww1_GER_bundesrat` (переклав [*Лицарський хрест*](https://steamcommunity.com/profiles/76561199017049555))
 + `GER\ww1_liman_affair` (переклав *Лицарський хрест*)
@@ -67,7 +68,6 @@
 + `ww1_game_rules`
 + `ww1_modifiers`
 + `ww1_research` (частину переклав *Лицарський хрест*)
-+ `ww1_scripted_triggers`
 + `ww1_traits`
 
 ### Папка `replace`
