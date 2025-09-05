@@ -1993,13 +1993,13 @@
  POLITICS_IDEOLOGY_POPULARITY_CHANGE: "Зміна популярності ідеології $IDEOLOGY|H$: $VALUE|+2%$"
 
 #production_l_english
- BONUS_PRODUCTION_COST_FACTOR: "£mio_production_cost_texticon£ Production output cost"
- BONUS_PRODUCTION_CAPACITY_FACTOR: "£mio_production_capacity_texticon£ Production output"
- BONUS_PRODUCTION_EFFICIENCY_CAP_FACTOR: "£mio_efficiency_cap_texticon£ Production efficiency cap"
- BONUS_PRODUCTION_EFFICIENCY_GAIN_FACTOR: "£mio_efficiency_gain_texticon£ Production efficiency gain"
- BONUS_PRODUCTION_RESOURCE_NEED_FACTOR: "£resources_texticon£ Production resource need"
- BONUS_PRODUCTION_RESOURCE_PENALTY_FACTOR: "£sabotaged_resource_texticon£ Production resource penalty"
- BONUS_PRODUCTION_CONVERSION_SPEED_FACTOR: "£mio_conversion_speed_texticon£ Production conversion speed"
+ BONUS_PRODUCTION_COST_FACTOR: "£mio_production_cost_texticon£ Вартість в об'ємі виробництва"
+ BONUS_PRODUCTION_CAPACITY_FACTOR: "£mio_production_capacity_texticon£ Об'єм виробництва"
+ BONUS_PRODUCTION_EFFICIENCY_CAP_FACTOR: "£mio_efficiency_cap_texticon£ Межа ефективності виробництва"
+ BONUS_PRODUCTION_EFFICIENCY_GAIN_FACTOR: "£mio_efficiency_gain_texticon£ Зростання ефективності виробництва"
+ BONUS_PRODUCTION_RESOURCE_NEED_FACTOR: "£resources_texticon£ Потреба виробництва в ресурсах"
+ BONUS_PRODUCTION_RESOURCE_PENALTY_FACTOR: "£sabotaged_resource_texticon£ Штраф до ресурсів від виробництва"
+ BONUS_PRODUCTION_CONVERSION_SPEED_FACTOR: "£mio_conversion_speed_texticon£ Швидкість зміни виробництва"
 
 #research_l_english
  air_equipment_research: "£research_speed_texticon£ Темпи дослідження літаків"
