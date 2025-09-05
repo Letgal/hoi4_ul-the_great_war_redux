@@ -197,7 +197,7 @@
   FATE_OF_ALBANIA_OTTOMAN_EMIRATE:0 "@TUR Ottoman Emirate"
   FATE_OF_ALBANIA_OTTOMAN_EMIRATE_DESC:0 "Albania will obtain significant autonomy from the Ottoman Empire following the revolt of 1911."
 
- #Will France lose in 1914 in early german rush ? 
+ #Will France lose in 1914 in early german rush ?
   battle_of_france_outcome:0 "@FRA Battle of France Outcome"
   HISTORICAL:0 "Historical"
   HISTORICAL_DESC:0 "Historical Ai Behavior."

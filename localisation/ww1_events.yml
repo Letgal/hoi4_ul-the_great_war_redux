@@ -6075,7 +6075,7 @@ ww1_ottoman.51.a: "Вони хочуть помститися? Вони її о�
  ww1_ottoman.56.t:0 "The Berlin-Baghdad Crisis"
  ww1_ottoman.56.d:0 "The United Kingdom has issued a stern diplomatic note regarding the construction of the Berlin-Baghdad Railway. They are expressing extreme displeasure with the planned southern extension towards the Persian Gulf, viewing it as a direct threat to their interests. The language of their diplomats strongly implies that a failure to comply could lead to severe consequences."
  ww1_ottoman.56.a:0 "To avert a crisis, we will alter the railway's route."
- ww1_ottoman.56.b:0 "Are they really ready to start a war over this?" 
+ ww1_ottoman.56.b:0 "Are they really ready to start a war over this?"
  ww1_ottoman.57.t:0 "[GER.GetNameDefCap] Concedes on the Railway Route"
  ww1_ottoman.57.d:0 "In response to our firm demands, [GER.GetNameDef] has agreed to halt construction on the southern section of the Berlin-Baghdad Railway that threatened our interests in the Persian Gulf. For now, the crisis has been averted."
  ww1_ottoman.57.a:0 "A triumph of our diplomacy."
@@ -6495,7 +6495,7 @@ ww1_qing.22.a: "Нові політики для нової ери."
  ww1_qing.28.d:0 "After the efforts of the "Parliament Petition Comrades Association", representatives from various provinces went to Beijing again to launch a second petition. This time, the petition representatives were expanded to 150 people, including representatives from provincial chambers of commerce, academic societies, overseas Chinese, and the provincial consultative councils. Moreover, it is encouraging that this petition also collected 300,000 signatures, which was far larger than the first one. The petitioners who came to Beijing came to the Censorate again and presented ten petitions. Although the ten petitions had different focuses, they all came to the same conclusion, which was the quick opening of the National Assembly is the only way to stop the chaos and save the nation. The petitioners also warned that if the National Assembly was not convened quickly, claiming that the disasters caused by the Han, Tang, Yuan, and Ming dynasties will surely reappear today. This time, the Censorate did not make things difficult, but immediately petitioned the court. After the petition was submitted, the ministers in the court began to split. Some advocated "a strict decree to scare" the representatives so that they would not "whine endlessly"; others believed that "the people's hearts must not be lost, and the people's resentment must not be accumulated, so we must deal with it tactfully to avoid complications."
  ww1_qing.28.a:0 "If we don't approve it, we will lose the people's hearts!"
  ww1_qing.29.t:0 "National Currency Regulations"
- ww1_qing.29.d:0 "China's monetary economy has been a silver circulation economy since the Ming Dynasty. At one time, a third of the world's silver was in circulation in China, so the Imperial government had already established a system centuries ago that required all taxes to be paid in silver. Surprisingly, however, the official never minted any silver as currency, and it was all either privately minted in the form of ingots - sycee, or silver coins minted abroad. This is because we valued silver by its weight, not by the standard value of our currency.\nIn 1889, the Dragon Dollar, the first official Qing silver coin, was minted in the southeastern province of Guangdong. Over the next decade, mints were established in other provinces and began to proliferate. All dragon dollars were modelled on the Eagle Dollar, but the lack of uniformity hampered their appeal and spread. The Chinese silver dollars were the only small denomination currency minted by the Imperial Government, along with copper coins. The 24-article National Currency Regulations are therefore promulgated to standardise the weight and fineness of silver and copper coins in order to reform China's currency into a countable coinage instead of the old sycee system by weight. However, as the total value of the old coins circulating in the Qing market at this time has reached more than 1.5 billion, the financial cost of recovering them is prohibitive for the government, but this is still an important step in the effort to reform the currency. As things stand, we are unable to replace every single coin and token, and we need to secure the financial capital to make the full transition to a modern currency system." 
+ ww1_qing.29.d:0 "China's monetary economy has been a silver circulation economy since the Ming Dynasty. At one time, a third of the world's silver was in circulation in China, so the Imperial government had already established a system centuries ago that required all taxes to be paid in silver. Surprisingly, however, the official never minted any silver as currency, and it was all either privately minted in the form of ingots - sycee, or silver coins minted abroad. This is because we valued silver by its weight, not by the standard value of our currency.\nIn 1889, the Dragon Dollar, the first official Qing silver coin, was minted in the southeastern province of Guangdong. Over the next decade, mints were established in other provinces and began to proliferate. All dragon dollars were modelled on the Eagle Dollar, but the lack of uniformity hampered their appeal and spread. The Chinese silver dollars were the only small denomination currency minted by the Imperial Government, along with copper coins. The 24-article National Currency Regulations are therefore promulgated to standardise the weight and fineness of silver and copper coins in order to reform China's currency into a countable coinage instead of the old sycee system by weight. However, as the total value of the old coins circulating in the Qing market at this time has reached more than 1.5 billion, the financial cost of recovering them is prohibitive for the government, but this is still an important step in the effort to reform the currency. As things stand, we are unable to replace every single coin and token, and we need to secure the financial capital to make the full transition to a modern currency system."
  ww1_qing.29.a:0 "Hopefully we don't have to borrow money."
  ww1_qing.30.t:0 "Seperation of all Laws"
  ww1_qing.30.d:0 "In medieval China, the power of politics and punishment was held by one person, from the emperor to the county magistrate. Minister of Revision of Laws, Chief Justice of the Supreme Court, and the Right Vice Minister of the Ministry of Law, Shen Jiaben, advocated judicial independence based on the principle of separation of powers in capitalist countries. He believed that the embryo of constitutionalism in Eastern and Western countries is based on judicial independence and promoted the separation of judicial and administrative powers.Since ancient times, China's legal codes have been characterized by no distinction between civil and criminal law, and the integration of all laws, no distinction between civil and commercial law, and no difference between substantive law and procedural law. Shen Jiaben advocated the reform of this legal structure, believing that civil, commercial and litigation laws should be specially compiled in accordance with the imperial decree."
@@ -6504,16 +6504,16 @@ ww1_qing.22.a: "Нові політики для нової ери."
  ww1_qing.31.d:0 "In 1902, the Qing government sent Shen Jiaben and Wu Tingfang to revise the law. Their work began with the deletion and revision of the Great Qing Code. In 1910, the Great Qing Code was revised into the Current Criminal Code of the Great Qing and promulgated as a transitional criminal code. Compared with the old law, the new code abolished the six general headings of the law that were originally divided into six parts, and separated the civil clauses such as inheritance, division of property, marriage, land and house, and money debts from the old law, and no longer imposed penalties; at the same time, the punishment measures were changed, and the main and secondary punishment systems of capitalist countries were introduced, and flogging, caning, imprisonment, exile and fines. In terms of system, the Qing Criminal Law of the Qing Dynasty adopted the modern criminal punishment system, which stipulated that criminal punishment was divided into two types: principal punishment and subsidiary punishment. The principal punishment included death penalty (only hanging), life imprisonment, fixed-term imprisonment, detention and fines, while subsidiary punishment included deprivation of civil rights and confiscation."
  ww1_qing.31.a:0 "I think this is quite a fair system."
  ww1_qing.32.t:0 "Administrative Affairs Office"
- ww1_qing.32.d:0 "In April 1901, the Qing government established the Office of Supervision of Government Affairs to make an overall plan for comprehensive reform which would determine the direction of reforms, learning from Japan's efforts on westernization, and promotion constitutional monarchy. There are two supervisors, two general managers, two assistant managers, two assistant general managers, and eight secretaries, who military secretaries and officials of various ministries concurrently appoint. The Office of Supervision of Government Affairs handled affairs such as schools, official systems, imperial examinations, civil service, finance, military and political affairs across the country. The office is also responsible for accepting memorials from local officials, and drafting various reform measures of the "New Deal". After 1906, it was renamed the Office of Conference Government Affairs." 
+ ww1_qing.32.d:0 "In April 1901, the Qing government established the Office of Supervision of Government Affairs to make an overall plan for comprehensive reform which would determine the direction of reforms, learning from Japan's efforts on westernization, and promotion constitutional monarchy. There are two supervisors, two general managers, two assistant managers, two assistant general managers, and eight secretaries, who military secretaries and officials of various ministries concurrently appoint. The Office of Supervision of Government Affairs handled affairs such as schools, official systems, imperial examinations, civil service, finance, military and political affairs across the country. The office is also responsible for accepting memorials from local officials, and drafting various reform measures of the "New Deal". After 1906, it was renamed the Office of Conference Government Affairs."
  ww1_qing.32.a:0 "One day we will heal from the century of humiliation."
  ww1_qing.33.t:0 "Creating the National Budget"
- ww1_qing.33.d:0 "Historically, Chinese governments had budgetary surpluses which would fill the Imperial Coffers with seemingly endless amounts of gold and silver. However, those days of wealth and glory are long gone. After the Sino-Japanese War of 1894-1895, the Qing began to run budget deficits and accumulated large amounts of debt. Budgets were generally done at the local level or by individual ministries across the Empire which often leads to corruption and misreporting of revenue. In 1907, Zhao Binglin, the Imperial Censor of Fuzhou, requested the central government to formulate a national budget. Finally, now, the Qing court compiled the first national budget which would detail the spending among the ministries and other affairs." 
+ ww1_qing.33.d:0 "Historically, Chinese governments had budgetary surpluses which would fill the Imperial Coffers with seemingly endless amounts of gold and silver. However, those days of wealth and glory are long gone. After the Sino-Japanese War of 1894-1895, the Qing began to run budget deficits and accumulated large amounts of debt. Budgets were generally done at the local level or by individual ministries across the Empire which often leads to corruption and misreporting of revenue. In 1907, Zhao Binglin, the Imperial Censor of Fuzhou, requested the central government to formulate a national budget. Finally, now, the Qing court compiled the first national budget which would detail the spending among the ministries and other affairs."
  ww1_qing.33.a:0 "Can't believe we've been operating this long without a budget."
  ww1_qing.34.t:0 "Privy Council"
- ww1_qing.34.d:0 "After the Boxer Protocol was signed in 1901, the Qing court returned to its capital of Beijing eager to reform the realm's governance. In around August 1906, the Guangxu Emperor declared the start of preparative constitutionalism after the study by the Constitutionalism Commission on foreign politics. Two months later, Yikuang, Prince Qing, recommended forming an Advisory Council to prepare for the institution of a parliament. The Council and the Commission further jointly agreed to a nine-year plan for installing constitutionalism. Provincial Assemblies were formed in 1908, with elections of the Assemblies and the Council to be held a year later. And the council is set to be convened and formally opened in this year. The constitution of the state, Parliamentary Law, Parliamentary Election Law, and election of the bicameral members are expected in 1916. By then constitutional monarchy will formally replaced absolute monarchy." 
+ ww1_qing.34.d:0 "After the Boxer Protocol was signed in 1901, the Qing court returned to its capital of Beijing eager to reform the realm's governance. In around August 1906, the Guangxu Emperor declared the start of preparative constitutionalism after the study by the Constitutionalism Commission on foreign politics. Two months later, Yikuang, Prince Qing, recommended forming an Advisory Council to prepare for the institution of a parliament. The Council and the Commission further jointly agreed to a nine-year plan for installing constitutionalism. Provincial Assemblies were formed in 1908, with elections of the Assemblies and the Council to be held a year later. And the council is set to be convened and formally opened in this year. The constitution of the state, Parliamentary Law, Parliamentary Election Law, and election of the bicameral members are expected in 1916. By then constitutional monarchy will formally replaced absolute monarchy."
  ww1_qing.34.a:0 "We should hopefully open the National Assembly soon."
  ww1_qing.35.t:0 "Yongping Autumn Exercise"
- ww1_qing.35.d:0 "In August of the third year of Xuantong (1911), in order to deter the revolutionary people from fighting against the Qing Dynasty, the Qing government decided to hold the Autumn Exercise in Yongping Prefecture in Zhili. In the months before the Autumn Exercises, the Qing government promulgated the "Rules for Officers to Observe the Autumn Exercises", "Rules for Students and People to Observe the Autumn Exercises", "Rules for the Duty of the General Office of the Autumn Exercises", "Rules for the Service of the Army and Police of the Autumn Exercises" and other regulations to ensure the success of the Autumn Exercises. On the eve of the Autumn Exercises, the Qing government also drew up a list of officials to be sent by each province to observe the Autumn Exercises and published it in newspapers. According to the regulations, each provincial military training office and each town commander's office could send 3 to 5 military attachés to observe the Autumn Exercises. In areas where royal relatives, high-ranking officials, dignitaries from the capital, and foreign guests passed by, 10 patrolmen, 10 army policemen, and 10 Huai Army cavalrymen were posted every li to carry out "circular patrols", "round-trip patrols", and "cross-patrols" alternately. The distance between each duty point was 20 to 30 zhang. When attacking, they used a "sun" formation to surround "suspicious persons" in the "sun" to prevent them from escaping. Unruly elements and suspicious persons around the Autumn Exercises site were controlled in a fixed area and were strictly prohibited from leaving." 
+ ww1_qing.35.d:0 "In August of the third year of Xuantong (1911), in order to deter the revolutionary people from fighting against the Qing Dynasty, the Qing government decided to hold the Autumn Exercise in Yongping Prefecture in Zhili. In the months before the Autumn Exercises, the Qing government promulgated the "Rules for Officers to Observe the Autumn Exercises", "Rules for Students and People to Observe the Autumn Exercises", "Rules for the Duty of the General Office of the Autumn Exercises", "Rules for the Service of the Army and Police of the Autumn Exercises" and other regulations to ensure the success of the Autumn Exercises. On the eve of the Autumn Exercises, the Qing government also drew up a list of officials to be sent by each province to observe the Autumn Exercises and published it in newspapers. According to the regulations, each provincial military training office and each town commander's office could send 3 to 5 military attachés to observe the Autumn Exercises. In areas where royal relatives, high-ranking officials, dignitaries from the capital, and foreign guests passed by, 10 patrolmen, 10 army policemen, and 10 Huai Army cavalrymen were posted every li to carry out "circular patrols", "round-trip patrols", and "cross-patrols" alternately. The distance between each duty point was 20 to 30 zhang. When attacking, they used a "sun" formation to surround "suspicious persons" in the "sun" to prevent them from escaping. Unruly elements and suspicious persons around the Autumn Exercises site were controlled in a fixed area and were strictly prohibited from leaving."
  ww1_qing.35.a:0 "Lets show them our might!"
 
 # З субмоду Qing
@@ -8340,7 +8340,7 @@ ww1_usa.172.a:0 "Ще чотири роки демократичного кон�
  ww1_japan.3.c: "Станьмо на бік Центральних держав."
  ww1_japan.4.t: "Отримано японський ультиматум"
  ww1_japan.4.d:0 "[JAP.GetNameDefCap], acting due to their alliance with the United Kingdom, has issued an ultimatum. They demand the cession of all our Pacific colonies and our concession in Qingdao, China, in exchange for remaining neutral in the current conflict. Is avoiding war with this distant power worth such a significant loss of colonial territory and prestige?" # (!)
- ww1_japan.4.a: "Проігноруймо їхні нахабні вимоги." 
+ ww1_japan.4.a: "Проігноруймо їхні нахабні вимоги."
  ww1_japan.4.b: "Погодьмося на їхні умови."
  ww1_japan.5.t: "Імперітор Мейджі помирає"
  ww1_japan.5.d:0 "On July 30th, 1912, the Meiji era concluded with the death of Emperor Meiji after a reign of 44 years. Credited with modernizing Japan, his passing marks a significant moment in the nation's history. Plans are underway for the Meiji Jingu shrine in Tokyo to honour his legacy. His son, Yoshihito, has ascended the throne as Emperor Taishō." # (!)
@@ -9920,7 +9920,7 @@ ww1_bulgaria.51.d:0 "In recognition of our alliance and our contributions to the
 ww1_bulgaria.51.a: "Орестіада наша!"
 ww1_bulgaria.51.b:0 "We can't broke our trust over tiny territory." # (!)
 
-ww1_bulgaria.52.d:0 "In recognition of our alliance and their contributions in the war, [FROM.GetNameDefCap] requested the return of [200.GetName], a small but symbolically important border region. This gesture could strengthen our bond and rectify a past injustice." # (!) 
+ww1_bulgaria.52.d:0 "In recognition of our alliance and their contributions in the war, [FROM.GetNameDefCap] requested the return of [200.GetName], a small but symbolically important border region. This gesture could strengthen our bond and rectify a past injustice." # (!)
 ww1_bulgaria.52.a: "Вони на нашому боці."
 ww1_bulgaria.52.b:0 "Why would we give up our rightful territory!?" # (!)
 
@@ -11636,52 +11636,52 @@ ww1_alternativehistory.10.d: "Австро-Угорщина вимагала н�
 ww1_alternativehistory.10.a: "У нас немає іншого вибору"
 
 # Франц Фердінанд
- ww1_sarajevo.1.t:0 "Archduke Franz Ferdinand Arrives in Sarajevo"  
- ww1_sarajevo.1.d:0 "Franz Ferdinand and his party traveled by train from Ilidža Spa to Sarajevo. Governor Oskar Potiorek greeted them at the station. Security measures in Sarajevo were minimal. The local military commander, General Michael von Appel, suggested lining the route with troops, but this idea was dismissed to avoid offending the loyal citizens."  
- ww1_sarajevo.1.a:0 "No need to offend the loyal citizens."  
- ww1_sarajevo.1.b:0 "He is right—prepare the troops."  
+ ww1_sarajevo.1.t:0 "Archduke Franz Ferdinand Arrives in Sarajevo"
+ ww1_sarajevo.1.d:0 "Franz Ferdinand and his party traveled by train from Ilidža Spa to Sarajevo. Governor Oskar Potiorek greeted them at the station. Security measures in Sarajevo were minimal. The local military commander, General Michael von Appel, suggested lining the route with troops, but this idea was dismissed to avoid offending the loyal citizens."
+ ww1_sarajevo.1.a:0 "No need to offend the loyal citizens."
+ ww1_sarajevo.1.b:0 "He is right—prepare the troops."
 
- ww1_sarajevo.2.t:0 "Bombing Attempt on Franz Ferdinand!"  
- ww1_sarajevo.2.d:0 "An assassin threw a bomb at Franz Ferdinand's car. Miraculously, it bounced off the folded convertible cover and landed in the street. The timed detonator caused the bomb to explode under the next car, creating a crater, disabling the vehicle, and wounding over a dozen people."  
- ww1_sarajevo.2.a:0 "Proceed to the Town Hall."  
- ww1_sarajevo.2.b:0 "This city is full of assassins—abort the visit!"  
+ ww1_sarajevo.2.t:0 "Bombing Attempt on Franz Ferdinand!"
+ ww1_sarajevo.2.d:0 "An assassin threw a bomb at Franz Ferdinand's car. Miraculously, it bounced off the folded convertible cover and landed in the street. The timed detonator caused the bomb to explode under the next car, creating a crater, disabling the vehicle, and wounding over a dozen people."
+ ww1_sarajevo.2.a:0 "Proceed to the Town Hall."
+ ww1_sarajevo.2.b:0 "This city is full of assassins—abort the visit!"
 
- ww1_sarajevo.3.t:0 "Town Hall Reception"  
- ww1_sarajevo.3.d:0 "At the Town Hall, Franz Ferdinand showed signs of stress, interrupting Mayor Fehim Čurčić's welcome speech to protest:0 'Mr. Mayor, I came here on a visit and am greeted with bombs. It is outrageous.' After a whispered word from Duchess Sophie, he allowed the mayor to continue. His own speech, stained with blood from the earlier attack, included added remarks thanking the people for their support. Officials debated their next steps. Baron Rumerskirch suggested waiting for troops to secure the streets, but Governor Potiorek dismissed the idea, insisting soldiers lacked proper dress uniforms and questioning whether Sarajevo was truly full of assassins."  
- ww1_sarajevo.3.a:0 "Nothing to worry about—continue the program."  
- ww1_sarajevo.3.b:0 "Visit the wounded from the bombing instead."  
- ww1_sarajevo.3.c:0 "Yes, I do think it's full of assassins—get the troops!"  
+ ww1_sarajevo.3.t:0 "Town Hall Reception"
+ ww1_sarajevo.3.d:0 "At the Town Hall, Franz Ferdinand showed signs of stress, interrupting Mayor Fehim Čurčić's welcome speech to protest:0 'Mr. Mayor, I came here on a visit and am greeted with bombs. It is outrageous.' After a whispered word from Duchess Sophie, he allowed the mayor to continue. His own speech, stained with blood from the earlier attack, included added remarks thanking the people for their support. Officials debated their next steps. Baron Rumerskirch suggested waiting for troops to secure the streets, but Governor Potiorek dismissed the idea, insisting soldiers lacked proper dress uniforms and questioning whether Sarajevo was truly full of assassins."
+ ww1_sarajevo.3.a:0 "Nothing to worry about—continue the program."
+ ww1_sarajevo.3.b:0 "Visit the wounded from the bombing instead."
+ ww1_sarajevo.3.c:0 "Yes, I do think it's full of assassins—get the troops!"
 
- ww1_sarajevo.4.t:0 "Franz Ferdinand Killed by a Bomb!"  
- ww1_sarajevo.4.d:0 "An assassin's bomb struck Franz Ferdinand's car, killing the royal couple and Governor Oskar Potiorek, and wounding a dozen others."  
- ww1_sarajevo.4.a:0 "The Serbs will pay for this!"  
+ ww1_sarajevo.4.t:0 "Franz Ferdinand Killed by a Bomb!"
+ ww1_sarajevo.4.d:0 "An assassin's bomb struck Franz Ferdinand's car, killing the royal couple and Governor Oskar Potiorek, and wounding a dozen others."
+ ww1_sarajevo.4.a:0 "The Serbs will pay for this!"
 
- ww1_sarajevo.5.t:0 "Franz Ferdinand Killed on His Way to the Hospital!"  
- ww1_sarajevo.5.d:0 "After a wrong turn, the Archduke's car stalled near an assassin, who shot Franz Ferdinand and Sophie at point-blank range. Sophie collapsed onto Franz Ferdinand's legs, and both lost consciousness. His last words were, 'Sophie, Sophie! Don’t die! Live for our children!' followed by murmurs of 'It is nothing' as he faded."  
+ ww1_sarajevo.5.t:0 "Franz Ferdinand Killed on His Way to the Hospital!"
+ ww1_sarajevo.5.d:0 "After a wrong turn, the Archduke's car stalled near an assassin, who shot Franz Ferdinand and Sophie at point-blank range. Sophie collapsed onto Franz Ferdinand's legs, and both lost consciousness. His last words were, 'Sophie, Sophie! Don’t die! Live for our children!' followed by murmurs of 'It is nothing' as he faded."
 
- ww1_sarajevo.6.t:0 "Franz Ferdinand Killed by a Waiting Assassin!"  
- ww1_sarajevo.6.d:0 "Assassins lined the royal couple's route, making their deaths nearly inevitable. After being shot, Sophie collapsed onto Franz Ferdinand, who whispered, 'Sophie, Sophie! Don’t die! Live for our children!' before succumbing to his wounds."  
+ ww1_sarajevo.6.t:0 "Franz Ferdinand Killed by a Waiting Assassin!"
+ ww1_sarajevo.6.d:0 "Assassins lined the royal couple's route, making their deaths nearly inevitable. After being shot, Sophie collapsed onto Franz Ferdinand, who whispered, 'Sophie, Sophie! Don’t die! Live for our children!' before succumbing to his wounds."
 
- ww1_sarajevo.7.t:0 "Unrest in Sarajevo"  
- ww1_sarajevo.7.d:0 "The royal visit sparked clashes between troops and suspected conspirators, as well as innocent bystanders. The Town Hall speech was poorly received."  
- ww1_sarajevo.7.a:0 "We shouldn’t have come here."  
+ ww1_sarajevo.7.t:0 "Unrest in Sarajevo"
+ ww1_sarajevo.7.d:0 "The royal visit sparked clashes between troops and suspected conspirators, as well as innocent bystanders. The Town Hall speech was poorly received."
+ ww1_sarajevo.7.a:0 "We shouldn’t have come here."
 
- ww1_sarajevo.8.t:0 "Franz Ferdinand Leaves Sarajevo"  
- ww1_sarajevo.8.d:0 "By luck or divine intervention, the royal couple avoided further attacks and departed Sarajevo safely."  
- ww1_sarajevo.8.a:0 "God bless them."  
- 
- ww1_sarajevo.9.t:0 "The Royal Visit Succeeds"  
- ww1_sarajevo.9.d:0 "Through luck or blessing, the royal couple evaded assassins and completed their planned program."  
+ ww1_sarajevo.8.t:0 "Franz Ferdinand Leaves Sarajevo"
+ ww1_sarajevo.8.d:0 "By luck or divine intervention, the royal couple avoided further attacks and departed Sarajevo safely."
+ ww1_sarajevo.8.a:0 "God bless them."
 
- ww1_sarajevo.10.t:0 "Franz Ferdinand Visits the Hospital"  
- ww1_sarajevo.10.d:0 "The royal couple visited the hospital, consoling the victims of the attack. Their resolve shone brightly in this tragic moment."  
+ ww1_sarajevo.9.t:0 "The Royal Visit Succeeds"
+ ww1_sarajevo.9.d:0 "Through luck or blessing, the royal couple evaded assassins and completed their planned program."
 
- ww1_sarajevo.11.t:0 "The Messy Exit"  
- ww1_sarajevo.11.d:0 "The royal couple's departure was marred by clashes between troops, conspirators, and bystanders, tarnishing their image."  
- ww1_sarajevo.11.a:0 "We shouldn’t have come here."  
+ ww1_sarajevo.10.t:0 "Franz Ferdinand Visits the Hospital"
+ ww1_sarajevo.10.d:0 "The royal couple visited the hospital, consoling the victims of the attack. Their resolve shone brightly in this tragic moment."
 
- ww1_sarajevo.12.d:0 "The Archduke's motorcade arrived at the Town Hall, where he and the mayor delivered speeches met with applause."  
- ww1_sarajevo.12.a:0 "It was nice visiting them."  
+ ww1_sarajevo.11.t:0 "The Messy Exit"
+ ww1_sarajevo.11.d:0 "The royal couple's departure was marred by clashes between troops, conspirators, and bystanders, tarnishing their image."
+ ww1_sarajevo.11.a:0 "We shouldn’t have come here."
+
+ ww1_sarajevo.12.d:0 "The Archduke's motorcade arrived at the Town Hall, where he and the mayor delivered speeches met with applause."
+ ww1_sarajevo.12.a:0 "It was nice visiting them."
 
  ww1_franzferdinand.1.t: "Франц Фердінанд і його дружина вбиті в Сараєві"
 ww1_franzferdinand.1.d:0 "Франц Фердінанд, вельмишановний ерцгерцог Австро-Есте та кронпринц Австро-Угорської імперії, лежить мертвий. Його вельможна дружина спочиває поруч з ним. Франц Йозеф втратив іще одного спадкоємця, причому на догоду клятим, підлим сучим синам, якими є серби. Сербський уряд офіційно заперечує свою причетність до вбивці Гаврила Принципа, звинувачуючи Чорну Руку, хоча в непричетність уряду мало хто вірить.\n\nНезадовго після того, як стало відомо, хто організував напад, в Сараєві почалися стихійні заворушення проти сербського населення. Конфлікт між державами [SER.GetName] та [AUS.GetName] досяг точки кипіння."
@@ -16333,7 +16333,7 @@ ww1_liechtenstein.8.a:0 "Безглуздо."
  ww1_bukhara.1.t:0 "Said 'Abd al-Ahad Khan Dies!"
  ww1_bukhara.1.d:0 "The Emir died today in Kermin, possibly from kidney disease. Unlike other emirs of Bukhara, he was buried in Kermin. His son Seyyed Alim Khan became his succesor."
  ww1_bukhara.1.a:0 "Will Alim Khan continue the reforms?"
- 
+
 ### ДАР ЕЛЬ-КУТІ ###
  ww1_kuti.1.t:0 "Muhammad al-Sanussi Dies!"
  ww1_kuti.1.d:0 "Muhammad al-Sanussi died which marks the effective end of the protectorate."
@@ -16358,17 +16358,17 @@ ww1_liechtenstein.8.a:0 "Безглуздо."
 
  ww1_switzerland.4.t:0 "The Border Collapses"
  ww1_switzerland.4.d:0 "Thousands of refugees pour across the border from southern France—fleeing starvation, violence, and the chaos of revolution. Entire families seek shelter in Swiss towns and villages already overwhelmed by strikes and social unrest. Local authorities are unable to cope, and tensions rise between native workers and the new arrivals. The Federal Council faces an impossible choice: deploy the militia to restore order, or attempt a delicate humanitarian response that risks further destabilizing the fragile political balance."
- ww1_switzerland.4.a:0 "Call up the militia—we must protect the Federation."  
+ ww1_switzerland.4.a:0 "Call up the militia—we must protect the Federation."
  ww1_switzerland.4.b:0 "These people need help, not bullets."
 
  ww1_switzerland.5.t:0 "The Savoie Question"
  ww1_switzerland.5.d:0 "The flow of refugees from southern France shows no sign of slowing. Swiss border communities are collapsing under the pressure, and the government fears further incursions or even contagion from the revolution across the border. Within the Federal Council, a controversial proposal gains traction: to authorize a limited military occupation of Haute-Savoie. Framed as a humanitarian and defensive measure, the plan would create a buffer zone and allow the construction of controlled refugee camps. Some nationalists already dream of permanent annexation—but for now, stability remains the official goal."
- ww1_switzerland.5.a:0 "Approve the operation—secure the frontier."  
+ ww1_switzerland.5.a:0 "Approve the operation—secure the frontier."
  ww1_switzerland.5.b:0 "No—crossing the border would destroy our neutrality."
 
  ww1_switzerland.6.t:0 "Swiss Troops Cross the Border"
  ww1_switzerland.6.d:0 "The Swiss government has formally notified us of its decision to occupy Haute-Savoie, citing the refugee crisis, the collapse of regional authority, and the need to establish a humanitarian buffer zone. Though the tone is cautious, the reality is stark: foreign troops now stand on French soil. In normal times, this would be an act of war. But with the nation already fractured by civil conflict, the government must weigh principle against survival."
- ww1_switzerland.6.a:0 "This is an invasion!"  
+ ww1_switzerland.6.a:0 "This is an invasion!"
  ww1_switzerland.6.b:0 "Let them have their buffer... For now."
 
  ww1_switzerland.7.t:0 "France Accepts the Humanitarian Occupation"
@@ -16377,7 +16377,7 @@ ww1_liechtenstein.8.a:0 "Безглуздо."
 
  ww1_switzerland.8.t:0 "France Rejects the Ultimatum"
  ww1_switzerland.8.d:0 "The French government has officially rejected our proposal to temporarily occupy Haute-Savoie for humanitarian purposes. Despite the chaos across the border and the collapse of civil order in the region, Paris views our action as a direct violation of sovereignty. Military resistance is now a possibility. Within the Federal Council, opinions are divided—some call for withdrawal to preserve neutrality, others demand mobilization to protect our security interests."
- ww1_switzerland.8.a:0 "Hold the line—we will not back down."  
+ ww1_switzerland.8.a:0 "Hold the line—we will not back down."
  ww1_switzerland.8.b:0 "Stand down—we cannot afford a war with France."
 
  ww1_switzerland.9.t:0 "Switzerland Humanitarian Zone in Haute-Savoie"
@@ -16401,7 +16401,7 @@ ww1_liechtenstein.8.a:0 "Безглуздо."
 
  ww1_switzerland.13.t:0 "Switzerland Eyes Haute-Savoie"
  ww1_switzerland.13.d:0 "Reports from the Foreign Office confirm that the Swiss Federal Council is preparing a military intervention in Haute-Savoie, citing humanitarian and constitutional justifications. Though the region lies within French territory, the French state is fractured and unable to respond effectively. Within Berlin, some advisers propose offering diplomatic support—and even military guarantees—to the Swiss, to cement our role as guardian of order in postwar Europe. Others warn against provoking a wider conflict so soon after the peace."
- ww1_switzerland.13.a:0 "Support Switzerland"  
+ ww1_switzerland.13.a:0 "Support Switzerland"
  ww1_switzerland.13.b:0 "Let them handle it alone"
 
  ww1_switzerland.14.t:0 "Germany Guarantees Our Sovereignty"

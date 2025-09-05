@@ -75,7 +75,7 @@
  armored_car_nsb_armor_upgrade: "$tank_armor_upgrade$"
 
  title_armored_warfare: "$tank_armor_upgrade$"
- 
+
  #artillery
  ENG_early_artillery:0 "QF 15-pounder gun/BL 5-inch howitzer"
  ENG_early_artillery_short:0 "QF 15-Pdr Gun/BL 5-inch hwt."
@@ -358,7 +358,7 @@
  USA_super_heavy_railway_gun_equipment_1:0 "14 inch M1920"
  FRA_super_heavy_railway_gun_equipment_1:0 "Obusier de 520 modèle 1916"
  FRA_super_heavy_railway_gun_equipment_1_short:0 "Obusier de 520"
- 
+
  #armor
  ENG_tank_design:0 "Little Willie"
  ENG_tank_design_short:0 "Little Willie"
@@ -394,10 +394,10 @@
  ENG_super_heavy_tank_equipment_1:1 "Flying Elephant"
  ENG_super_heavy_tank_equipment_1_short:0 "Flying Elephant"
  ENG_armored_support_vehicle_1:0 "Gun Carrier Mk.I Crane"
- 
+
  ENG_alternative_heavy_tank_default:0 "Mark IV Female"
  ENG_alternative_heavy_tank_default2:0 "Mark IV Male"
- 
+
 
  USA_tank_design:0 "Holt Gas-Electric Tank"
  USA_tank_design_short:0 "Holt Gas-Electric"
@@ -425,7 +425,7 @@
  #USA_super_heavy_tank_equipment_1_short:0 ""
  USA_steam_tank:0 "Steam Tank"
  USA_steam_tank_short:0 "Steam Tank"
- 
+
  FRA_tank_design:0 "Souain tracteur blindé et armé"
  FRA_tank_design_short:0 "Souain"
 ####################################################################################################### FRANCE FRENCH CHARS
@@ -524,7 +524,7 @@
 
  wide_tracks:0 "Wide Tracks"
  wide_tracks_desc:0 "The tracks are widened, which increases the vehicle's crossing capacity and makes it more reliable on difficult terrain."
- 
+
  GER_tank_design:0 "Orion-Wagen"
  GER_tank_design_short:0 "Orion-Wagen"
  GER_light_tank_equipment_1:0 "Leichter Kampfwagen I"
@@ -552,7 +552,7 @@
  GER_super_heavy_tank_equipment_1:1 "Großkampfwagen"
  GER_super_heavy_tank_equipment_1_short:0 "K-Wagen"
  GER_armored_support_vehicle_1:0 "A7V-Schützengrabenbagger LMG"
- 
+
  AUS_tank_design:0 "Burstyn-Motorgeschütz"
  AUS_tank_design_short:0 "Motorgeschütz"
  AUS_light_tank_equipment_1:0 "Leichter Kampfwagen I"
@@ -575,7 +575,7 @@
  #AUS_heavy_tank_equipment_3_short:1 ""
  AUS_super_heavy_tank_equipment_1:1 "Großkampfwagen"
  AUS_super_heavy_tank_equipment_1_short:0 "K-Wagen"
- 
+
  RUS_tank_design: "Царь-танк"
  RUS_tank_design_short: "Царь-танк"
  RUS_light_tank_equipment_1: "Вездеход"
@@ -598,7 +598,7 @@
  #RUS_heavy_tank_equipment_3_short: ""
  RUS_super_heavy_tank_equipment_1: "Танк Менделеева"
  RUS_super_heavy_tank_equipment_1_short: "Танк Менделеева"
- 
+
  SOV_tank_design: "Царь-танк"
  SOV_tank_design_short: "Царь-танк"
  SOV_light_tank_equipment_1: "Вездеход"
@@ -621,7 +621,7 @@
  #SOV_heavy_tank_equipment_3_short: ""
  SOV_super_heavy_tank_equipment_1: "Танк Менделеева"
  SOV_super_heavy_tank_equipment_1_short: "Танк Менделеева"
- 
+
  ITA_tank_design:0 "Fiat 2000"
  ITA_tank_design_short:0 "Fiat 2000"
  ITA_light_tank_equipment_1:0 "Renault FT"
@@ -646,7 +646,7 @@
  #ITA_heavy_tank_equipment_3_short:1 ""
  #ITA_super_heavy_tank_equipment_1:1 ""
  #ITA_super_heavy_tank_equipment_1_short:0 "k"
- 
+
  CAN_tank_design:0 "Little Willie"
  CAN_tank_design_short:0 "Little Willie"
  #CAN_light_tank_equipment_1:0 ""
@@ -669,7 +669,7 @@
  CAN_heavy_tank_equipment_3_short:1 "Mark X"
  CAN_super_heavy_tank_equipment_1:1 "Flying Elephant"
  CAN_super_heavy_tank_equipment_1_short:0 "Flying Elephant"
- 
+
  AST_tank_design:0 "Little Willie"
  AST_tank_design_short:0 "Little Willie"
  #AST_light_tank_equipment_1:0 ""
@@ -692,7 +692,7 @@
  AST_heavy_tank_equipment_3_short:1 "Mark X"
  AST_super_heavy_tank_equipment_1:1 "Flying Elephant"
  AST_super_heavy_tank_equipment_1_short:0 "Flying Elephant"
- 
+
  NZL_tank_design:0 "Little Willie"
  NZL_tank_design_short:0 "Little Willie"
  #NZL_light_tank_equipment_1:0 ""
@@ -715,7 +715,7 @@
  NZL_heavy_tank_equipment_3_short:1 "Mark X"
  NZL_super_heavy_tank_equipment_1:1 "Flying Elephant"
  NZL_super_heavy_tank_equipment_1_short:0 "Flying Elephant"
- 
+
  RAJ_tank_design:0 "Little Willie"
  RAJ_tank_design_short:0 "Little Willie"
  #RAJ_light_tank_equipment_1:0 ""
@@ -738,7 +738,7 @@
  RAJ_heavy_tank_equipment_3_short:1 "Mark X"
  RAJ_super_heavy_tank_equipment_1:1 "Flying Elephant"
  RAJ_super_heavy_tank_equipment_1_short:0 "Flying Elephant"
- 
+
  SAF_tank_design:0 "Little Willie"
  SAF_tank_design_short:0 "Little Willie"
  #SAF_light_tank_equipment_1:0 ""
@@ -761,7 +761,7 @@
  SAF_heavy_tank_equipment_3_short:1 "Mark X"
  SAF_super_heavy_tank_equipment_1:1 "Flying Elephant"
  SAF_super_heavy_tank_equipment_1_short:0 "Flying Elephant"
- 
+
  HUN_tank_design:0 "Burstyn-Motorgeschütz"
  HUN_tank_design_short:0 "Motorgeschütz"
  HUN_light_tank_equipment_1:0 "Leichter Kampfwagen LK.I"
@@ -794,7 +794,7 @@
  BEL_armored_car_equipment_4: "AMC P 16"
  BEL_light_tank_equipment_1: "T15"
  BEL_light_tank_equipment_1_short: "T15"
- 
+
  FRA_armored_car_equipment_1: "Automitrailleuse Charron"
  FRA_armored_car_equipment_1_short: "Charron AM"
  FRA_armored_car_equipment_2: "Automitrailleuse Peugeot"
@@ -814,19 +814,19 @@
  ITA_armored_car_equipment_4:0 "Autoblinda AB 611"
  ITA_armored_car_equipment_5_short:0 "AB 40"
  ITA_armored_car_equipment_5:0 "Autoblinda AB 40"
- 
+
  GER_armored_car_equipment_1:0 "Kraftwagen BAK"
  GER_armored_car_equipment_2:0 "Ehrhardt E-V/4"
  GER_armored_car_equipment_3:0 "Büssig A5P"
  GER_armored_car_equipment_4:0 "Daimler DZVR"
  GER_armored_car_equipment_5:0 "Sd.Kfz. 13"
- 
+
  USA_armored_car_equipment_1:0 "Davidson-Cadillac"
  USA_armored_car_equipment_2:0 "Jeffrey No.1"
  USA_armored_car_equipment_3:0 "White AEF"
  USA_armored_car_equipment_4:0 "M1 Armoured Car"
  USA_armored_car_equipment_5:0 "Willys Jeep"
- 
+
  ENG_armored_car_equipment_1:0 "Rolls Royce Silver Ghost"
  ENG_armored_car_equipment_1_short:0 "Silver Ghost"
  ENG_armored_car_equipment_2:0 "Austin"
@@ -834,24 +834,24 @@
  ENG_armored_car_equipment_4:0 "Lanchester 6×4"
  ENG_armored_car_equipment_5:0 "Daimler Dingo Scout Car"
  ENG_armored_car_equipment_5_short:0 "Daimler Dingo"
- 
+
  #RUS_armored_car_equipment_1:0 "Nakashidze-Charron"
  #RUS_armored_car_equipment_2:0 "Austin"
  #RUS_armored_car_equipment_3:0 "Mgebrov-Renault"
  #RUS_armored_car_equipment_4:0 "Austin-Putilov"
  #RUS_armored_car_equipment_5:0 "BA-3"
- 
+
  AUS_armored_car_equipment_1:0 "Austro-Daimler Panzerwagen"
  AUS_armored_car_equipment_1_short:0 "Austro-Daimler"
  AUS_armored_car_equipment_2:0 "Junovicz P.A.1"
  AUS_armored_car_equipment_3:0 "Romfell P.A.2"
  AUS_armored_car_equipment_4:0 "Daimler DZVR"
- 
+
  TUR_armored_car_equipment_1:0 "Hotchkiss"
  TUR_armored_car_equipment_2:0 "Panhard-Genty"
  TUR_armored_car_equipment_3:0 "Büssig A5P"
  TUR_armored_car_equipment_4:0 "Daimler DZVR"
- 
+
  CAN_armored_car_equipment_1:0 "Rolls Royce Silver Ghost"
  CAN_armored_car_equipment_1_short:0 "Silver Ghost"
  CAN_armored_car_equipment_2:0 "Austin"
@@ -859,7 +859,7 @@
  CAN_armored_car_equipment_4:0 "Lanchester 6×4"
  CAN_armored_car_equipment_5:0 "Daimler Dingo Scout Car"
  CAN_armored_car_equipment_5_short:0 "Daimler Dingo"
- 
+
  AST_armored_car_equipment_1:0 "Rolls Royce Silver Ghost"
  AST_armored_car_equipment_1_short:0 "Silver Ghost"
  AST_armored_car_equipment_2:0 "Austin"
@@ -867,7 +867,7 @@
  AST_armored_car_equipment_4:0 "Lanchester 6×4"
  AST_armored_car_equipment_5:0 "Daimler Dingo Scout Car"
  AST_armored_car_equipment_5_short:0 "Daimler Dingo"
- 
+
  NZL_armored_car_equipment_1:0 "Rolls Royce Silver Ghost"
  NZL_armored_car_equipment_1_short:0 "Silver Ghost"
  NZL_armored_car_equipment_2:0 "Austin"
@@ -875,7 +875,7 @@
  NZL_armored_car_equipment_4:0 "Lanchester 6×4"
  NZL_armored_car_equipment_5:0 "Daimler Dingo Scout Car"
  NZL_armored_car_equipment_5_short:0 "Daimler Dingo"
- 
+
  RAJ_armored_car_equipment_1:0 "Rolls Royce Silver Ghost"
  RAJ_armored_car_equipment_1_short:0 "Silver Ghost"
  RAJ_armored_car_equipment_2:0 "Austin"
@@ -883,7 +883,7 @@
  RAJ_armored_car_equipment_4:0 "Lanchester 6×4"
  RAJ_armored_car_equipment_5:0 "Daimler Dingo Scout Car"
  RAJ_armored_car_equipment_5_short:0 "Daimler Dingo"
- 
+
  SAF_armored_car_equipment_1:0 "Rolls Royce Silver Ghost"
  SAF_armored_car_equipment_1_short:0 "Silver Ghost"
  SAF_armored_car_equipment_2:0 "Austin"
@@ -891,7 +891,7 @@
  SAF_armored_car_equipment_4:0 "Lanchester 6×4"
  SAF_armored_car_equipment_5:0 "Daimler Dingo Scout Car"
  SAF_armored_car_equipment_5_short:0 "Daimler Dingo"
- 
+
  HUN_armored_car_equipment_1:0 "Austro-Daimler Panzerwagen"
  HUN_armored_car_equipment_1_short:0 "Austro-Daimler"
  HUN_armored_car_equipment_2:0 "Junovicz P.A.1"
@@ -902,7 +902,7 @@
  infantry_equipment_n1: "Застаріле піхотне оснащення"
  infantry_equipment_n1_short: "Застаріле осн."
  infantry_equipment_n1_desc:0 "Obsolete infantryman equipment developed before Franco-Prussian war."
- 
+
  #infantry equipment
  USA_infantry_equipment_n1: "Peabody-Martini"
  USA_infantry_equipment_0:0 "M1892 Springfield"
@@ -913,7 +913,7 @@
  USA_infantry_equipment_2_short:0 "M1917 Enfield"
  USA_infantry_equipment_3:0 "Browning M1918"
  USA_infantry_equipment_3_short:0 "M1918 BAR"
- 
+
  ENG_infantry_equipment_n1: "Martini–Henry"
  ENG_infantry_equipment_0:0 "Lee-Metford MkI"
  ENG_infantry_equipment_0_short:0 "MLM"
@@ -927,7 +927,7 @@
  ENG_infantry_equipment_3:0 "Rifle No. 1 Mk V"
  ENG_infantry_equipment_3_short:0 "SMLE MkV"
  ENG_infantry_equipment_3_desc:0 "The SMLE design was a relatively expensive long arm to manufacture, because of the many forging and machining operations required. In the 1920s, a series of experiments resulting in design changes were carried out to help with these problems, reducing the number of complex parts and refining manufacturing processes. The SMLE Mk V (later Rifle No. 1 Mk V), adopted a new receiver-mounted aperture sighting system, which moved the rear sight from its former position on the barrel."
- 
+
  CAN_infantry_equipment_0:0 "Lee-Metford MkI"
  CAN_infantry_equipment_0_short:0 "MLM"
  CAN_infantry_equipment_1:0 "Ross MkI"
@@ -936,7 +936,7 @@
  CAN_infantry_equipment_2_short:0 "Ross MkIII"
  CAN_infantry_equipment_3:0 "Huot Automatic Rifle"
  CAN_infantry_equipment_3_short:0 "Huot"
- 
+
  AST_infantry_equipment_0:0 "Lee-Metford MkI"
  AST_infantry_equipment_0_short:0 "MLM"
  AST_infantry_equipment_1:0 "Short Magazine Lee-Enfield MkI"
@@ -945,7 +945,7 @@
  AST_infantry_equipment_2_short:0 "Enfield P14"
  AST_infantry_equipment_3:0 "Short Magazine Lee-Enfield MkIII"
  AST_infantry_equipment_3_short:0 "SMLE MkIII"
- 
+
  NZL_infantry_equipment_0:0 "Lee-Metford MkI"
  NZL_infantry_equipment_0_short:0 "MLM"
  NZL_infantry_equipment_1:0 "Short Magazine Lee-Enfield MkI"
@@ -954,7 +954,7 @@
  NZL_infantry_equipment_2_short:0 "Enfield P14"
  NZL_infantry_equipment_3:0 "Short Magazine Lee-Enfield MkIII"
  NZL_infantry_equipment_3_short:0 "SMLE MkIII"
- 
+
  RAJ_infantry_equipment_0:0 "Lee-Metford MkI"
  RAJ_infantry_equipment_0_short:0 "MLM"
  RAJ_infantry_equipment_1:0 "Short Magazine Lee-Enfield MkI"
@@ -963,7 +963,7 @@
  RAJ_infantry_equipment_2_short:0 "Enfield P14"
  RAJ_infantry_equipment_3:0 "Short Magazine Lee-Enfield MkIII"
  RAJ_infantry_equipment_3_short:0 "SMLE MkIII"
- 
+
  SAF_infantry_equipment_0:0 "Lee-Metford MkI"
  SAF_infantry_equipment_0_short:0 "MLM"
  SAF_infantry_equipment_1:0 "Short Magazine Lee-Enfield MkI"
@@ -972,7 +972,7 @@
  SAF_infantry_equipment_2_short:0 "Enfield P14"
  SAF_infantry_equipment_3:0 "Short Magazine Lee-Enfield MkIII"
  SAF_infantry_equipment_3_short:0 "SMLE MkIII"
- 
+
  FRA_infantry_equipment_n1: "Mle 1874 M80"
  FRA_infantry_equipment_n1_short: "Gras Mle 1874 M80"
  FRA_infantry_equipment_0:0 "Lebel Mle 1886 M93"
@@ -983,7 +983,7 @@
  FRA_infantry_equipment_2_short:0 "Mle 1892 M16"
  FRA_infantry_equipment_3:0 "RSC M1917"
  FRA_infantry_equipment_3_short:0 "RSC M1917"
- 
+
  RUS_infantry_equipment_n1:0 "Berdan Model 1868" # (!)
  RUS_infantry_equipment_n1_short:0 "Berdan M1868" # (!)
  #SOV_infantry_equipment_0:0 "Berdan M1870"
@@ -994,7 +994,7 @@
  #SOV_infantry_equipment_2_short:0 "M-N M1907"
  #SOV_infantry_equipment_3:0 "Fedorov Avtomat M1916"
  #SOV_infantry_equipment_3_short:0 "Fedorov Avtomat"
- 
+
  #RUS_infantry_equipment_0:0 "Berdan M1870"
  #RUS_infantry_equipment_0_short:0 "Berdan M1870"
  #RUS_infantry_equipment_1:0 "Mosin-Nagant M1891"
@@ -1003,7 +1003,7 @@
  #RUS_infantry_equipment_2_short:0 "M-N M1907"
  #RUS_infantry_equipment_3:0 "Fedorov Avtomat M1916"
  #RUS_infantry_equipment_3_short:0 "Fedorov Avtomat"
- 
+
  SER_infantry_equipment_n1:0 "Puška sistema Grin" # (!)
  SER_infantry_equipment_0:0 "Mauser M80"
  SER_infantry_equipment_0_short:0 "Mauser M80"
@@ -1013,7 +1013,7 @@
  SER_infantry_equipment_2_short:0 "Mauser M10"
  SER_infantry_equipment_3:0 "Puška M24"
  SER_infantry_equipment_3_short:0 "Puška M24"
- 
+
  GER_infantry_equipment_n1: "Gewehr 71"
  GER_infantry_equipment_n1_short: "Gewehr 71"
  GER_infantry_equipment_0:0 "Gewehr 88"
@@ -1024,7 +1024,7 @@
  GER_infantry_equipment_2_short:0 "Karabiner 98AZ"
  GER_infantry_equipment_3:0 "Bergmann MP18"
  GER_infantry_equipment_3_short:0 "MP18"
- 
+
  BAY_infantry_equipment_0:0 "Gewehr 88"
  BAY_infantry_equipment_0_short:0 "Gewehr 88"
  BAY_infantry_equipment_1:0 "Gewehr 98"
@@ -1033,7 +1033,7 @@
  BAY_infantry_equipment_2_short:0 "Karabiner 98a/b"
  BAY_infantry_equipment_3:0 "Bergmann MP18"
  BAY_infantry_equipment_3_short:0 "MP18"
- 
+
  AUS_infantry_equipment_n1: "Werndl-Holub M1867"
  AUS_infantry_equipment_0:0 "Mannlicher M88"
  AUS_infantry_equipment_0_short:0 "Mannlicher M88"
@@ -1043,7 +1043,7 @@
  AUS_infantry_equipment_2_short:0 "Mannlicher Stutzen M95"
  AUS_infantry_equipment_3:0 "Steyr MP18"
  AUS_infantry_equipment_3_short:0 "Steyr MP18"
- 
+
  HUN_infantry_equipment_n1: "Werndl-Holub M1867"
  HUN_infantry_equipment_0:0 "Mannlicher M88"
  HUN_infantry_equipment_0_short:0 "Mannlicher M88"
@@ -1053,7 +1053,7 @@
  HUN_infantry_equipment_2_short:0 "Mannlicher Stutzen M95"
  HUN_infantry_equipment_3:0 "Steyr MP18"
  HUN_infantry_equipment_3_short:0 "Steyr MP18"
- 
+
  ITA_infantry_equipment_0:0 "Vetterli Mod. 1870"
  ITA_infantry_equipment_0_short:0 "Vetterli M1870"
  ITA_infantry_equipment_1:0 "Carcano Mod. 91"
@@ -1062,7 +1062,7 @@
  ITA_infantry_equipment_2_short:0 "Vetterli M87/15"
  ITA_infantry_equipment_3:0 "Beretta MAB 18"
  ITA_infantry_equipment_3_short:0 "Beretta M1918"
- 
+
  BEL_infantry_equipment_0:0 "Comblain M1882"
  BEL_infantry_equipment_0_short:0 "Comblain M1882"
  BEL_infantry_equipment_1:0 "Mauser M1889"
@@ -1071,7 +1071,7 @@
  BEL_infantry_equipment_2_short:0 "Mle 1892 M16"
  BEL_infantry_equipment_3:0 "RSC M1917"
  BEL_infantry_equipment_3_short:0 "RSC M1917"
- 
+
  LUX_infantry_equipment_0:0 "Comblain M1882"
  LUX_infantry_equipment_0_short:0 "Comblain M1882"
  LUX_infantry_equipment_1:0 "Mauser M1889"
@@ -1080,7 +1080,7 @@
  LUX_infantry_equipment_2_short:0 "Mle 1892 M16"
  LUX_infantry_equipment_3:0 "RSC M1917"
  LUX_infantry_equipment_3_short:0 "RSC M1917"
- 
+
  JAP_infantry_equipment_0:0 "Murata Type 22 Rifle"
  JAP_infantry_equipment_0_short:0 "Type 22"
  JAP_infantry_equipment_1:0 "Arisaka Type 38 Rifle"
@@ -1089,7 +1089,7 @@
  JAP_infantry_equipment_2_short:0 "Type 44"
  JAP_infantry_equipment_3:0 "Bergmann MP18"
  JAP_infantry_equipment_3_short:0 "MP18"
- 
+
  TUR_infantry_equipment_n1: "Peabody-Martini"
  TUR_infantry_equipment_0:0 "Mauser M1887"
  TUR_infantry_equipment_0_short:0 "Mauser M1887"
@@ -1099,7 +1099,7 @@
  TUR_infantry_equipment_2_short:0 "Mauser M1905"
  TUR_infantry_equipment_3:0 "Bergmann MP18"
  TUR_infantry_equipment_3_short:0 "MP18"
- 
+
  CHI_infantry_equipment_0:0 "Hanyang Type 88 Rifle"
  CHI_infantry_equipment_0_short:0 "Hanyang 88"
  CHI_infantry_equipment_1:0 "Mauser Type 1"
@@ -1108,7 +1108,7 @@
  CHI_infantry_equipment_2_short:0 "Mauser Type 4"
  CHI_infantry_equipment_3:0 "Bergmann MP18"
  CHI_infantry_equipment_3_short:0 "MP18"
- 
+
  QIN_infantry_equipment_0:0 "Hanyang Type 88 Rifle"
  QIN_infantry_equipment_0_short:0 "Hanyang 88"
  QIN_infantry_equipment_1:0 "Mauser Type 1"
@@ -1117,7 +1117,7 @@
  QIN_infantry_equipment_2_short:0 "Mauser Type 4"
  QIN_infantry_equipment_3:0 "Bergmann MP18"
  QIN_infantry_equipment_3_short:0 "MP18"
- 
+
  SWE_infantry_equipment_0:0 "Jarmann m/84"
  SWE_infantry_equipment_0_short:0 "Jarmann m/84"
  SWE_infantry_equipment_1:0 "Mauser m/96"
@@ -1135,7 +1135,7 @@
  NOR_infantry_equipment_2_short:0 "Krag m/12"
  NOR_infantry_equipment_3:0 "Bergmann MP18"
  NOR_infantry_equipment_3_short:0 "MP18"
- 
+
  DEN_infantry_equipment_0:0 "Gevaer m/89"
  DEN_infantry_equipment_0_short:0 "Gevaer m/89"
  DEN_infantry_equipment_1:0 "Gevaer m/96"
@@ -1144,7 +1144,7 @@
  DEN_infantry_equipment_2_short:0 "Gevaer m/98a"
  DEN_infantry_equipment_3:0 "Bergmann MP18"
  DEN_infantry_equipment_3_short:0 "MP18"
- 
+
  MEX_infantry_equipment_0:0 "Mondragón M87"
  MEX_infantry_equipment_0_short:0 "Mondragón M87"
  MEX_infantry_equipment_1:0 "Mondragón M93"
@@ -1153,7 +1153,7 @@
  MEX_infantry_equipment_2_short:0 "Mondragón M08"
  MEX_infantry_equipment_3:0 "Mendoza RM2"
  MEX_infantry_equipment_3_short:0 "Mendoza RM2"
- 
+
  CZE_infantry_equipment_0:0 "Mannlicher vz.88"
  CZE_infantry_equipment_0_short:0 "Mannlicher vz.88"
  CZE_infantry_equipment_1:0 "Mannlicher vz.95"
@@ -1180,7 +1180,7 @@
  HOL_infantry_equipment_2_short:0 "Enfield P14"
  HOL_infantry_equipment_3:0 "Bergmann MP18"
  HOL_infantry_equipment_3_short:0 "MP18"
- 
+
  ROM_infantry_equipment_0:0 "Mannlicher M88"
  ROM_infantry_equipment_0_short:0 "Mannlicher M88"
  ROM_infantry_equipment_1:0 "Mosin-Nagant M1891"
@@ -1189,7 +1189,7 @@
  ROM_infantry_equipment_2_short:0 "Mle 1892 M16"
  ROM_infantry_equipment_3:0 "Zbrojovka vz.26"
  ROM_infantry_equipment_3_short:0 "vz.26"
- 
+
  GRE_infantry_equipment_0:0 "Fusil Gras Modèle 1874"
  GRE_infantry_equipment_0_short:0 "Gras 1874"
  GRE_infantry_equipment_1:0 "Mannlicher-Schönauer Y1903"
@@ -1198,7 +1198,7 @@
  GRE_infantry_equipment_2_short:0 "Mannlicher M1895"
  GRE_infantry_equipment_3:0 "Fusil Mitrailleur Modele 1915 CSRG"
  GRE_infantry_equipment_3_short:0 "FM Chauchat"
- 
+
  BUL_infantry_equipment_0:0 "Berdan M1870"
  BUL_infantry_equipment_0_short:0 "Berdan M1870"
  BUL_infantry_equipment_1:0 "Mannlicher M95"
@@ -1207,7 +1207,7 @@
  BUL_infantry_equipment_2_short:0 "Mannlicher Stutzen M95"
  BUL_infantry_equipment_3:0 "Bergmann MP18"
  BUL_infantry_equipment_3_short:0 "MP18"
- 
+
  BRA_infantry_equipment_0:0 "Itajuba Mauser Model 1894"
  BRA_infantry_equipment_0_short:0 "Mauser M1894"
  BRA_infantry_equipment_1:0 "Itajuba Mauser Model 1908"
@@ -1216,7 +1216,7 @@
  BRA_infantry_equipment_2_short:0 "Mauser M1912"
  BRA_infantry_equipment_3:0 "Madsen Model 1918"
  BRA_infantry_equipment_3_short:0 "Madsen M1918"
- 
+
  ARG_infantry_equipment_0:0 "Mauser M91"
  ARG_infantry_equipment_0_short:0 "Mauser M91"
  ARG_infantry_equipment_1:0 "Mauser M98"
@@ -1225,7 +1225,7 @@
  ARG_infantry_equipment_2_short:0 "Mauser M09"
  ARG_infantry_equipment_3:0 "Beretta MAB 18"
  ARG_infantry_equipment_3_short:0 "Beretta M1918"
- 
+
  SPR_infantry_equipment_0:0 "Oviedo Mauser M1893"
  SPR_infantry_equipment_0_short:0 "Mauser M1893"
  SPR_infantry_equipment_1:0 "Oviedo Mauser M1893"
@@ -1234,7 +1234,7 @@
  SPR_infantry_equipment_2_short:0 "Mle 1909"
  SPR_infantry_equipment_3:0 "Browning M1918"
  SPR_infantry_equipment_3_short:0 "M1918 BAR"
- 
+
  POR_infantry_equipment_0:0 "Kropatschek m/1886"
  POR_infantry_equipment_0_short:0 "Kropatschek m/1886"
  POR_infantry_equipment_1:0 "Mannlicher m/96"
@@ -1243,7 +1243,7 @@
  POR_infantry_equipment_2_short:0 "Espingarda m/04"
  POR_infantry_equipment_3:0 "Short Magazine Lee-Enfield MkIII"
  POR_infantry_equipment_3_short:0 "SMLE MkIII"
- 
+
  SWI_infantry_equipment_n1: "Vetterli Modell 69"
  SWI_infantry_equipment_n1_short: "Vetterli M69"
  SWI_infantry_equipment_0:0 "Vetterli M69"
@@ -1272,7 +1272,7 @@
  KOR_infantry_equipment_2_short:0 "Mauser Type 4"
  KOR_infantry_equipment_3:0 "Bergmann MP18"
  KOR_infantry_equipment_3_short:0 "MP18"
- 
+
  ANC_infantry_equipment_0:0 "Hanyang Type 88 Rifle"
  ANC_infantry_equipment_0_short:0 "Hanyang 88"
  ANC_infantry_equipment_1:0 "Mauser Type 1"
@@ -1546,7 +1546,7 @@
 
  generic_infantry_tank_and_armored_car_organization:0 "Light Tank/Armored Car Manufacturer"
  generic_mio_initial_trait_infantry_tank_and_armored_car_designer:0 "Light Tank/Armored Car Manufacturer"
- 
+
  generic_mio_trait_light_tank_improvements:0 "AP/HE Light Caliber Shells"
  generic_mio_trait_medium_tank_improvements:0 "AP/HE Medium Caliber Shells"
  generic_mio_trait_production_division:0 "Standardized Production"
