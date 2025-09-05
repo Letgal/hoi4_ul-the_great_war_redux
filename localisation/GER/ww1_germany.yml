@@ -1515,7 +1515,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_force_economic_integration_desc: "The Dual Monarchy is our primary ally, but its industrial weakness is a liability we can no longer afford. We will present Vienna with a non-negotiable offer of deep economic integration, providing our technology and capital on our terms."
   GER_propose_joint_military_exercises: "Спільні військові навчання"
   GER_propose_joint_military_exercises_desc: "The Dual Alliance is the bedrock of our security. To ensure our armies can fight as a single, cohesive force, we must coordinate our doctrines through joint exercises. By sharing our latest arms research, we will guarantee technological superiority for the Central Powers."
-  GER_pursue_british_neutrality: "Домагатися нейтралітету Британії"
+  GER_pursue_british_neutrality: "Домогтися нейтралітету Британії"
   GER_pursue_british_neutrality_desc: "The time has come! We have successfully engaged in good relations with the British who wish for our new special relationship to develop further. Now we must prepare and negotiate a treaty with the British that would ensure their neutrality in future conflicts. After all, why should Germanics fight against each other?"
   GER_influencing_balkan_powers: "Вплив на балканські держави"
   GER_influencing_balkan_powers_desc: "The Balkans have long been a battleground for the Great Powers. While Serbias in the Russian orbit, the same can't be said for the others. Each has the potential to be a useful ally, or another threat. We must tread carefully."
@@ -1930,12 +1930,12 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
  ww1_german_victory.14.d: "Despite recent diplomatic warmth and a shared interest in stability, the U.S. has rejected our proposed economic partnership. Officials in Washington cite domestic priorities and political caution. The refusal is a setback, but Berlin remains committed to securing other trade partners and ensuring food security through alternative means."
  ww1_german_victory.14.a: "Disappointing, but not the end."
 
- GER_USA_trade_deal_interwar: "Trade Treaty with Germany"
- GER_USA_trade_deal_interwar_GER: "Trade Treaty with USA"
+ GER_USA_trade_deal_interwar: "Торговельна угода з Німеччиною"
+ GER_USA_trade_deal_interwar_GER: "Торговельна угода зі США"
 
- GER_supervize_belgium_focus_free: "Permanent Embassy in Belgium"
+ GER_supervize_belgium_focus_free: "Постійне посольство в Бельгії"
  GER_supervize_belgium_focus_free_desc: "Although Belgium was liberated, it must remain under the influence of the empire, so as not to be influenced again by its French and British neighbors."
- GER_supervize_belgium_focus_puppet: "Align [BEL.GetName]"
+ GER_supervize_belgium_focus_puppet: "Зблизити державу [BEL.GetName]" # (&+)
  GER_supervize_belgium_focus_puppet_desc: "As stipulated in the September Program, Belgium is to be a satellite of the Reich, subject to our will. To ensure the subservience of the Belgians, their economy must be subjugated to that of the empire."
  GER_supervize_belgium: "[GER_supervize_belgium_focus_name]"
 
@@ -1989,15 +1989,15 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
  ww1_german_victory.25.a: "Accept the invitation—cooperation brings growth."
  ww1_german_victory.25.b: "Decline — we will not sacrifice our sovereignty."
 
- GER_mitteleuropa_project: "Mitteleuropa Project"
+ GER_mitteleuropa_project: "Проєкт «Міттельойропа»"
  GER_mitteleuropa_project_desc: "To revive the European economy, we can launch an economic sphere, a kind of customs union to our advantage that would define how European trade works."
- GER_mitteleuropa_category: "Mitteleuropa"
- GER_mitteleuropa_germany: "Mitteleuropa Founder"
- GER_mitteleuropa_member: "Mitteleuropa Member"
- GER_invite_from_in_mitteleuropa_fake_tt: "Unlock Decision: £decision_icon_small §YInvite Friendly Country in Mitteleuropa§!"
- GER_invite_from_in_mitteleuropa: "Invite [FROM.GetName]"
+ GER_mitteleuropa_category: "Міттельойропа"
+ GER_mitteleuropa_germany: "Засновник Міттельойропи"
+ GER_mitteleuropa_member: "Член Міттельойропи"
+ GER_invite_from_in_mitteleuropa_fake_tt: "Відмикає рішення: £decision_icon_small §YЗапросити дружню країну до Міттельойропи§!."
+ GER_invite_from_in_mitteleuropa: "Запросити державу [FROM.GetName]"
 
- GER_tsingtao_accord: "Tsingtau Accords"
+ GER_tsingtao_accord: "Цинтауські угоди"
  GER_tsingtao_accord_desc: "Japan is a distant country that was not invaded during the Great War, and is therefore only a proxy loser. This situation makes it a potential adversary in Asia with whom it would be better to be friends."
 
  ww1_german_victory.26.t: "[FROM.GetName] Joins Mittleuropa"
@@ -2023,9 +2023,9 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
  ww1_german_victory.30.d2: "The Japanese delegation arrived safely in Tsingtau, and the meeting lasted three days to discuss German-Japanese relations and the status of territorial concessions following the end of the conflict. The most contentious issue was the status of Tsingtau, a territory that the Empire of the Rising Sun had conquered during the war and had been reluctant to return in the Frankfurt Peace Treaty. Fortunately, Germany's advantageous position quickly forced the hand of the Japanese authorities, who recognized German sovereignty over the territory."
  ww1_german_victory.30.a: "At least we signed something"
 
- GER_renact_relation_with_losers: "Reestablish Relations with Defeated Nations"
- GER_contact_loser_gain_tt: "\n§YFor each nation that accepts:§!\n"
- GER_foe_can_become_a_fool: "§LThe defeated nation may eventually agree to resume diplomatic relations.§!"
+ GER_renact_relation_with_losers: "Відновити відносини з переможеними державами"
+ GER_contact_loser_gain_tt: "\n§YЗа кожну державу, котра погодиться:§!\n"
+ GER_foe_can_become_a_fool: "§LПереможена держава з часом може погодитися продовжити дипломатичні відносини.§!"
 
  GER_decision_frustration_among_general_staff: "Frustration Among General Staff"
  GER_decision_frustration_among_general_staff_desc: "The OHL and the Seekriegsleitung are frustrated by the state of the war, most notably the low support in the population. To achieve a decisive victory, they are ready to take their own initiative, even if the government doesn't agree with it..."
