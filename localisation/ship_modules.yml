@@ -60,8 +60,8 @@
  ship_light_battery_4: "130-мм скорострільна гармата"
  ship_light_battery_4_short: "Легка батарея IV"
  ship_light_battery_4_desc:0 "The pinnacle of light destroyer armament, often featuring twin mounts or enhanced rates of fire for superior performance."
- dp_light_battery:0 "105mm Cannon (HA)" # HA = High Angle
- dp_light_battery_short:0 "HA Light Gun"
+ dp_light_battery: "105-мм гармата (висококутова)"
+ dp_light_battery_short: "Висококутова легка батарея" # АЛ: гармата
  dp_light_battery_desc:0 "Light guns fitted with experimental high-angle mounts, allowing for limited engagement of aerial targets alongside surface duties."
  ship_heavy_battery_1: "280-мм гармата"
  ship_heavy_battery_1_short: "Важка батарея I"
@@ -108,7 +108,7 @@
  ship_secondaries_2: "120-мм скорострільна гармата"
  ship_secondaries_2_short: "Допоміжна батарея II"
  ship_secondaries_2_desc:0 "Larger secondary guns providing more substantial defense against destroyers and light cruisers, mounted on later capital ships."
- dp_ship_secondaries:0 "105mm RF. Cannon (HA)"
+ dp_ship_secondaries: "105-мм скорострільна гармата (висококутова)"
  dp_ship_secondaries_short: "Універсальна допоміжна батарея"
  dp_ship_secondaries_desc:0 "Secondary guns in high-angle mounts capable of engaging both surface and air threats."
  ship_fire_control_system_0: "Центральний дальномір"
@@ -117,10 +117,10 @@
  ship_fire_control_system_1: "Спрямовувач вогню"
  ship_fire_control_system_1_short: "Система керування вогнем I"
  #ship_fire_control_system_1_desc:0 "A central director station fires all guns simultaneously at the command of the gunnery officer."
- ship_fire_control_system_2: "Механічний лічильно-вирішальний прилад"
+ ship_fire_control_system_2: "Механічний лічильно-вирішальний прилад" # (&?)
  ship_fire_control_system_2_short: "Система керування вогнем II"
  #ship_fire_control_system_2_desc:0 "A mechanical computer in the ship continuously updates range and bearing to target from information fed to it by rangefinders and other sensors."
- ship_fire_control_system_3:0 "Electromechanical Rangekeeper"
+ ship_fire_control_system_3: "Електро-механічний лічильно-вирішальний прилад" # (&?)
  ship_fire_control_system_3_short: "Система керування вогнем III"
  ship_fire_control_system_3_desc:0 "This advanced electromechanical computer processes data from rangefinders and plotting tables to calculate firing solutions. By integrating basic target movement and ship's course data, we can improve our accuracy in naval engagements, particularly against moving targets at medium ranges."
  ship_torpedo_1: "3 x 450-мм торпедний апарат"
@@ -165,16 +165,16 @@
  #ship_mine_sweeper_1_desc:0 "Gear to deploy the various sweeping equipments."
  ship_mine_layer_sub: "Мінний апарат"
  #ship_mine_layer_sub_desc:0 "Modifications to the hull of a submarine, allowing it to deploy a number of mines."
- #ship_depth_charge_1:0 "Depth Charge Rails"
+ ship_depth_charge_1: "Направляючі для глибинних бомб" # (&)
  ship_depth_charge_1_short: "Глибинні бомби I"
  #ship_depth_charge_1_desc:0 "A simple set of rails allows depth charges to be rolled off the stern of the ship when the ship drives over the submerged target."
- #ship_depth_charge_2:0 "Depth Charge Thrower"
+ ship_depth_charge_2: "Скидач глибинних бомб" # (&)
  ship_depth_charge_2_short: "Глибинні бомби II"
  #ship_depth_charge_2_desc:0 "Using a small explosive charge, this device throws a depth charge quite some distance, allowing a single ship to drop a pattern of depth charges across a larger area."
- #ship_depth_charge_3:0 "Anti-submarine Mortar"
+ ship_depth_charge_3: "Протичовнова мортира" # (&)
  ship_depth_charge_3_short: "Глибинні бомби III"
  #ship_depth_charge_3_desc:0 "A projector for a smaller depth charge with a contact fuze, allowing the ship to engage a target without breaking sonar contact."
- #ship_depth_charge_4:0 "Advanced Anti-submarine Mortar"
+ ship_depth_charge_4: "Удосконалена протичовнова мортира" # (&)
  ship_depth_charge_4_short: "Глибинні бомби IV"
  #ship_depth_charge_4_desc:0 "An evolution of the previous model, this mortar can fire a significantly larger charge over a longer distance."
  ship_sub_snorkel_1: "Базовий шноркель"
@@ -269,12 +269,12 @@
  carrier_ship_engine_4: "Двигун 210 000 к. с. н. в."
  #carrier_ship_engine_4_short: "Двигун авіаносця IV"
  #carrier_ship_engine_4_desc:0 "This powerplant was designed to equip a modern 'fast carrier' intended to function as the centerpiece of a carrier group."
- ship_engine_sub_aip_1:0 "Air-Independent Propulsion" # (!) — за ваніллою
- ship_engine_sub_aip_1_desc:0 "First iteration of the new engine types, allowing submarine to remain operational underwater for a longer time, at the cost of vastly increased fuel consumption and reduced ship range."
- ship_engine_sub_aip_2:0 "AIP-Diesel Combination Engine"
- ship_engine_sub_aip_2_desc:0 "New version of the air-independent propulsion systems, offering better performance at the lower fuel consumption."
- ship_engine_sub_aip_3:0 "High Speed Walter Engines"
- ship_engine_sub_aip_3_desc:0 "We have reached the pinnacle of what we think can be achieved with AIP Engines. This engine offers excellent speed, while at the same time retaining fuel consumption at acceptable levels."
+ ship_engine_sub_aip_1: "Повітрянонезалежний рушій"
+ ship_engine_sub_aip_1_desc:0 "Перша версія нових типів двигунів, що дозволяє підводному човну залишатися в робочому стані під водою протягом більш тривалого часу, за рахунок значно збільшеного споживання палива та зменшеної дальності плавання." # (@!)
+ ship_engine_sub_aip_2: "Поєднаний дизельно-повітрянонезалежний двигун" # (&?)
+ ship_engine_sub_aip_2_desc:0 "Нова версія незалежних від повітря систем руху, що забезпечують кращі характеристики при меншому споживанні палива." # (@!)
+ ship_engine_sub_aip_3: "Високошвидкісні двигуни «Walter»"
+ ship_engine_sub_aip_3_desc:0 "Ми досягли вершини того, що, на нашу думку, можна досягти за допомогою двигунів AIP. Цей двигун забезпечує чудову швидкість, одночасно зберігаючи споживання палива на прийнятному рівні." # (@!)
  ship_armor_bb_1: "200-мм пояс/40-мм палуба"
  ship_armor_bb_1_short: "Броня лінкора I"
  #ship_armor_bb_1_desc:0 "Designed to protect a ship against guns of its own caliber, this armor scheme ensures that every part of the ship is well-protected according to its usefulness."
@@ -407,7 +407,6 @@
 ### СТАРИЙ ПЕРЕКЛАД ###
  ### ОБЛАДНАННЯ ###
  ship_heavy_battery_1_desc:1 "Набір великокаліберних гармат у важкоброньованій установці. Перепроектування вежі дозволяє збільшити висоту гармати, тим самим збільшуючи дальність стрільби."
-
  ship_fire_control_system_0_desc:0 "Центральна станція високо на щоглі корабля визначає дальність до цілі і передає цю інформацію на гарматні установки."
  ship_fire_control_system_1_desc:0 "Центральна директорська станція стріляє з усіх гармат одночасно за командою артилерійського офіцера."
  ship_fire_control_system_2_desc:0 "Механічний комп'ютер на кораблі безперервно оновлює дальність і пеленг до цілі за інформацією, що надходить на нього з далекомірів та інших датчиків."
@@ -426,13 +425,9 @@
  ship_mine_layer_1_desc:0 "Модифікація для надводного корабля для перевезення і розгортання морських мін."
  ship_mine_sweeper_1_desc:0 "Спорядження для розгортання різного метального обладнання."
  ship_mine_layer_sub_desc:0 "Модифікації корпусу підводного човна, що дають змогу розгорнути на ньому низку мін."
- ship_depth_charge_1:0 "Напрямні для глибинних бомб"
  ship_depth_charge_1_desc:0 "Простий набір рейок дозволяє скидати глибинні бомби з корми корабля, коли корабель проходить над зануреною ціллю."
- ship_depth_charge_2:0 "Метальник глибинних бомб"
  ship_depth_charge_2_desc:0 "Використовуючи невеликий заряд вибухової речовини, цей пристрій кидає глибинну бомбу на досить велику відстань, даючи змогу одному кораблю скинути зразок глибинних бомб на велику площу."
- ship_depth_charge_3:0 "Протичовновий міномет"
  ship_depth_charge_3_desc:0 "Проектор для меншої глибинної бомби з контактним детонатором, що дає змогу кораблю вражати ціль, не порушуючи контакт гідролокатора."
- ship_depth_charge_4:0 "Вдосконалений протичовновий міномет"
  ship_depth_charge_4_desc:0 "Еволюція попередньої моделі, цей міномет може стріляти значно більшим зарядом на більшу відстань."
  ship_sub_snorkel_1_desc:0 "Пристрій, що дає змогу підводному човну запускати свої головні двигуни під водою, даючи йому змогу перезаряджати свої батареї, не наражаючись на атаку, виринаючи на поверхню."
  ship_sub_snorkel_2_desc:0 "Удосконалення конструкції шноркеля зменшують проблеми під час використання головних двигунів у важких морях, одночасно знижуючи ймовірність виявлення підводного човна на радарі."

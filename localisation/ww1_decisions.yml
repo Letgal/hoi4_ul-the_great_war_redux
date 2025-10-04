@@ -46,10 +46,10 @@
  RUS_brusilov_offensive:0 "Брусиловський наступ"
 
  RUS_support_in_civil_war:0 "Втручання в громадянську війну в Росію"
- RUS_support_in_civil_war_desc:0 "З поразкою §Y[OTT.GetFlag]Османської імперії§! ми нарешті забезпечили морський шлях до антибільшовицьких сил на Південному. \n\nПоставки §Yguns§!, §Yartillery§! і §Ymore§! тепер у нашій розпорядженні \n\nДоступні поставки: [?SRA_available_shipments|+0]\n\nДоступні поставки будуть збільшені на §Ytwo§! кожного місяця."
+ RUS_support_in_civil_war_desc:0 "З поразкою §Y[OTT.GetFlag]Османської імперії§! ми нарешті забезпечили морський шлях до антибільшовицьких сил на Південному. \n\nПоставки §Yгвинтівок§!, §Yартилерії§! та §Yбільше§! тепер — у нашому розпорядженні.\n\nДоступні поставки: [?SRA_available_shipments|+0]\n\nДоступні поставки будуть збільшені на §Yдва§! кожного місяця."
 
  FRA_support_in_polish_war:0 "Втручання у польську радянську війну"
- FRA_support_in_polish_war_desc:0 "З поразкою §Y[GER.GetNameWithFlag]§! ми нарешті можемо підтримати антибільшовицькі сили в Східній Європі.\n\nПоставки §Yguns§!, §Yartillery§! та §Ymore§! тепер у нашому розпорядженні \n\nДоступні поставки: [?SRA_available_shipments|+0]\n\nДоступні поставки будуть збільшені на §Ytwo§! кожного місяця."
+ FRA_support_in_polish_war_desc:0 "З поразкою §Y[GER.GetNameWithFlag]§! ми нарешті можемо підтримати антибільшовицькі сили в Східній Європі.\n\nПоставки §Yгвинтівок§!, §Yартилерії§! та §Yбільше§! тепер — у нашому розпорядженні.\n\nДоступні поставки: [?SRA_available_shipments|+0]\n\nДоступні поставки будуть збільшені на §Yдва§! кожного місяця."
  ENT_receive_two_shipments_tt:0 "§G+2§! Доступні відправлення"
  SRA_shipments_timer:0 "Поповнення доставки"
 
@@ -9161,7 +9161,7 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
 
  YEM_annex_NAJ:0 "Анексувати Наджран"
  YEM_annex_BID:0 "Анексувати Ель-Бейду"
- yemeni_attempt_to_annex_najran:0 "§Y[YEM.GetFlag]Yemen§! намагався анексувати §Y[NAJ.GetFlag]Najran§!"
+ yemeni_attempt_to_annex_najran:0 "§Y[YEM.GetFlag]Ємен§! намагався анексувати §Y[NAJ.GetFlag]Наджран§!"
 
  RWL_declare_northern_arabia:0 "Оголосити об'єднання Північної Аравії"
  RWL_join_arab_revolt:0 "Приєднатися до арабського повстання"
