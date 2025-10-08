@@ -170,7 +170,7 @@
  QIN_state_university_desc:0 "Якщо у нас буде достатньо грошей, ми зможемо дозволити собі відродити вищу освіту."
 
  ###from rework
- QIN_continue_new_policies:0 "Continue the Xinzheng"
+ QIN_continue_new_policies:0 "Continue the Xinzheng" # (!)
  QIN_continue_new_policies_tt:0 "§WShould the §GXinzheng Reforms§! not be carried out in time, there will be §RConsequences...§!§!"
  QIN_continue_new_policies_desc:0 "While many in the Qing Imperial Court had initially opposed Guangxu reform and the self-strengthening movement, the defeat following the Boxer Rebellion convinced many in the Qing court that holding on to the past was no longer an option. It has now become a certainty to Regent Zaifeng, that continuing the new policies will bring the Qing closer to a more 'developed' society that will one day crawl itself out of the era of national humiliation"
  QIN_national_currency_regulations:0 "National Currency Regulations"
