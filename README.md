@@ -8,6 +8,7 @@
 + `countries_cosmetic`
 + `strategic_region_names`
 + `ww1_core`
++ `ww1_designer` (майже)
 + `ww1_diplomacy`
 + `ww1_factions`
 + `ww1_focus_filter_tag`
@@ -85,7 +86,6 @@
 
 ## Не перекладено взагалі
 + `ww1_characters`
-+ `ww1_designer`
 + `ww1_equip_air`
 + `ww1_flags`
 + `ww1_morocco`
