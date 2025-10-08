@@ -17,6 +17,8 @@
 + `ww1_war`
 + `GER\ww1_GER_bundesrat` (переклав [*Лицарський хрест*](https://steamcommunity.com/profiles/76561199017049555))
 + `GER\ww1_liman_affair` (переклав *Лицарський хрест*)
++ `ITA\ww1_italy` (переклав *Лицарський хрест*)
++ `ITA\ww1_italy_events` (переклав *Лицарський хрест*)
 + `QIN\ww1_qing` (переклав *Лицарський хрест*)
 + `ROM\ww1_romania` (переклав *Лицарський хрест*)
 
@@ -92,8 +94,6 @@
 + `ww1_unit_limit`
 + `ww1_unit_medals`
 + `ww1_units`
-+ `ITA\ww1_italy`
-+ `ITA\ww1_italy_events`
 
 ### Папка `replace`
 + `replace_buildings`
