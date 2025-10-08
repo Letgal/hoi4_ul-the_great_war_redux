@@ -10,6 +10,7 @@
 + `ww1_core`
 + `ww1_designer` (майже)
 + `ww1_diplomacy`
++ `ww1_equip_air` (майже)
 + `ww1_factions`
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
@@ -86,7 +87,6 @@
 
 ## Не перекладено взагалі
 + `ww1_characters`
-+ `ww1_equip_air`
 + `ww1_flags`
 + `ww1_morocco`
 + `ww1_naval_classes`
