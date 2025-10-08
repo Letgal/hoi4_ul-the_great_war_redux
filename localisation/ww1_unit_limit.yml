@@ -1,0 +1,56 @@
+﻿# == (*) ==
+### ДЕМОБІЛІЗАЦІЯ ###
+ mobilisation_penalty_modifier: "Перевищено межу батальйонів"
+
+ unit_limit_count: "[unit_limit_count_loc]/[?max_divisions|H0]"
+ unit_limit_count_red: "[?num_actual_divisions|R0]"
+ unit_limit_count_yellow: "[?num_actual_divisions|H0]"
+ unit_limit_count_green: "[?num_actual_divisions|G0]"
+
+ unit_limit_factory_bonus: "Бонус до межі батальйонів від заводів" # (&+)
+ unit_limit_bonus: "Межа батальйонів"
+
+ unit_limit_label: "§HВерхня межа підтримуваних батальйонів§!"
+ unit_limit_desc: "Кожна країна має здатність підтримувати лише певне число окремих військових батальйонів, перш ніж її економіці й інфраструктурі стане важко їх утримувати.\n\nВерхнє число підтримуваних військових частин засноване на загальному населенні країни й областях у її володінні, котре тоджі множиться на загальний рівень індустріалізації країни.\n\nПідробні батальйони, батальйони нерегулярної піхоти та нерегулярної кавалерії є винятками з цього рахунку.\n\n§L   - Базова величина від загального населення: [?base_population|G0][unit_limit_noncore_population][unit_limit_puppet_base][unit_limit_crownland_population_bonus]\n   - Базова величина від областей у володінні: [?base_states|G0][unit_limit_crownland_state_bonus]\n   - Підсумклва базова величина: [?base_units|G0]\n\n   - Модифікатор індустріалізації: [?industry_factor|H%][unit_limit_modifier_was_capped][unit_limit_extra_modifier_line_break][unit_limit_is_major][unit_limit_has_civil_war][unit_limit_is_low_level_puppet][unit_limit_great_war][unit_limit_balkan_unit_bonus][unit_limit_red_guard][unit_limit_chinese_unit_bonus][unit_limit_has_war][unit_limit_economy_law][unit_limit_50_unit_bonus][unit_limit_100_unit_bonus][unit_limit_250_unit_bonus][unit_limit_500_unit_bonus][unit_limit_demobilization][unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_upper_limit_used][unit_limit_bonus_used]\n\n   КІНЦЕВИЙ ПІДСУМОК: [?max_divisions|H0]\n\nЗауважте, що змінам величин вище потрібен один ігровий тиждень, перш ніж вони відобразяться в розрахунку.§![above_unit_limit_desc]"
+
+ unit_limit_desc_fake_intel: "(§HПідробні батальйони§! не залічуються до межі батальйонів)"
+
+ unit_limit_desc_above_limit: "\n\n--------------\n\n§RМи наразі перевищили нашу спроможність, і єдиний спосіб полегшити навантаження на нашу країну — це видалити частину наших дивізій.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$ (множник): [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\nБойовий дух армії: [?mobilisation_penalty_var|+=%1]\n£command_power_texticon£ Приріст командної влади: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_MOBILIZATION_SPEED$: [?mobilisation_penalty_var|+=%1]"
+
+ unit_limit_noncore_population_desc: "\n      (§H10%§! від неосердних областей: [?non_core_base|H1])"
+ unit_limit_puppet_base_desc: "\n      (§H20%§! від областей маріонеток низького рівня: [?puppet_base|H1])"
+ 
+ unit_limit_crownland_population_bonus_desc: "\n      ([?crownland_base_units|H0] від §Hкоронних земель§!)"
+ unit_limit_crownland_state_bonus_desc: "\n      ([?crownland_states|H0] від §Hкоронних земель§!)"
+ unit_limit_modifier_was_capped_desc: "\n      (обмежено до щонайменше [?0.5|H%])"
+ unit_limit_faction_leader_desc: "\n   - Лідер альянсу: §G+15%§!"
+ unit_limit_is_major_desc: "\n   - Велика держава: §G+30%§!"
+ unit_limit_has_civil_war_desc: "\n   - У громадянській війні: §G+30%§!"
+ unit_limit_is_low_level_puppet_desc: "\n   - Маріонетка низького рівня: §R-20%§!"
+ unit_limit_great_war_desc: "\n   - Епоха Великої війни: §G+30%§!"
+ unit_limit_has_war_desc: "\n   - У стані війни: §G+25%§!"
+ unit_limit_was_capped_desc: "\n\n   - Необмежений підсумок: [?net_max_divisions|H0]"
+ unit_limit_num_states_used_desc: "\n\n   Оскільки отриманий підсумок менший від числа областей у володінні ([?num_owned_states|H0]), натомість було вжито його." # (&+)
+ unit_limit_default_used_desc: "\n\n   Оскільки отриманий підсумок менший від величини за замовчуванням (§H5§!), натомість було вжито його." # (&+)
+ unit_limit_bonus_used_desc: "\n\n   - Додаткові модифікатори: [?additional_unit_limit|=+0] до межі"
+
+ unit_limit_interwar_recovery: "\n   - §H$interwar_recovery$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_roaring_twenties: "\n   - §H$roaring_twenties$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_undisturbed_isolation: "\n   - §H$undisturbed_isolation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_low_economic_mobilisation: "\n   - §H$low_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_partial_economic_mobilisation: "\n   - §H$partial_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_war_economy: "\n   - §H$war_economy$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_tot_economic_mobilisation: "\n   - §H$tot_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_500_unit_bonus_desc: "\n   - Ідеї: §H+500§!"
+ unit_limit_250_unit_bonus_desc: "\n   - Ідеї: §H+250§!"
+ unit_limit_100_unit_bonus_desc:  "\n   - Ідеї: §H+100§!"
+ unit_limit_demobilization_desc: "\n   - Демобілізація: перекриває підсумок до §R200§!"
+ unit_limit_50_unit_bonus_desc:  "\n   - Ідеї: §H+50§!"
+ unit_limit_balkan_unit_bonus_desc: "\n   - Балканська держава: §G+20%§!"
+ unit_limit_chinese_unit_bonus_desc: "\n   - Китай: §G+20%§!"
+ unit_limit_red_guard_desc: "\n   - Червона гвардія: §R-50%§!"
+ 
+ disband_ten_percent_units: "Розпустити §Y10%§! всіх постійних дивізій, зберігши їхнє оснащення."
+ disband_twenty_percent_units: "Розпустити §Y20%§! всіх постійних дивізій, зберігши їхнє оснащення."
+ disband_twenty_percent_units_delete_equipment: "Розпустити §Y20%§! всіх постійних дивізій."
+ disband_fifty_percent_units: "Розпустити §Y50%§! всіх постійних дивізій, зберігши їхнє оснащення."

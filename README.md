@@ -16,8 +16,10 @@
 + `ww1_frontend`
 + `ww1_music` (умовно)
 + `ww1_scripted_triggers`
++ `ww1_unit_limit`
 + `ww1_war`
 + `GER\ww1_GER_bundesrat` (переклав [*Лицарський хрест*](https://steamcommunity.com/profiles/76561199017049555))
++ `GER\ww1_GER_ideas` (майже)
 + `GER\ww1_liman_affair` (переклав *Лицарський хрест*)
 + `ITA\ww1_italy` (переклав *Лицарський хрест*)
 + `ITA\ww1_italy_events` (переклав *Лицарський хрест*)
@@ -53,7 +55,8 @@
 + `ww1_focus` (більшість переклав *kiryl*)
 + `ww1_ideas` (більшість переклав *kiryl*)
 + `ww1_parliament_gui` (старий переклад видалено)
-+ `GER\ww1_GER_ideas` (умовно)
++ `ww1_tank_modules`
++ `ww1_unit_medals`
 + `GER\ww1_germany`
 
 ### Папка `replace`
@@ -90,9 +93,6 @@
 + `ww1_flags`
 + `ww1_morocco`
 + `ww1_naval_classes`
-+ `ww1_tank_modules`
-+ `ww1_unit_limit`
-+ `ww1_unit_medals`
 + `ww1_units`
 
 ### Папка `replace`
