@@ -14,11 +14,12 @@
 + `ww1_factions`
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
++ `ww1_morocco` (переклав [*Лицарський хрест*](https://steamcommunity.com/profiles/76561199017049555))
 + `ww1_music` (умовно)
 + `ww1_scripted_triggers`
 + `ww1_unit_limit`
 + `ww1_war`
-+ `GER\ww1_GER_bundesrat` (переклав [*Лицарський хрест*](https://steamcommunity.com/profiles/76561199017049555))
++ `GER\ww1_GER_bundesrat` (переклав *Лицарський хрест*)
 + `GER\ww1_GER_ideas` (майже)
 + `GER\ww1_liman_affair` (переклав *Лицарський хрест*)
 + `ITA\ww1_italy` (переклав *Лицарський хрест*)
@@ -91,7 +92,6 @@
 ## Не перекладено взагалі
 + `ww1_characters`
 + `ww1_flags`
-+ `ww1_morocco`
 + `ww1_naval_classes`
 + `ww1_units`
 
