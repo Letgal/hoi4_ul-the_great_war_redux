@@ -1,8 +1,16 @@
 # == (*) ==
- NAME_THEME_HISTORICAL_UNPROTECTED_CRUISERS: "Історичні незахищені крейсери"
+ NAME_THEME_HISTORICAL_DREADNOUGHTS: "Історичні дредноути"
+ NAME_THEME_HISTORICAL_PRE_DREADNOUGHTS: "Історичні додредноути"
+ NAME_THEME_HISTORICAL_IRONCLADS: "Історичні броненосці"
+ NAME_THEME_HISTORICAL_COASTAL_DEFENSE_SHIPS: "Історичні кораблі берегової оборони"
+ NAME_THEME_HISTORICAL_ARMORED_CRUISERS: "Історичні броненосні крейсери"
  NAME_THEME_HISTORICAL_PROTECTED_CRUISERS: "Історичні захищені крейсери"
+ NAME_THEME_HISTORICAL_UNPROTECTED_CRUISERS: "Історичні незахищені крейсери"
+ NAME_THEME_HISTORICAL_GUNBOATS: "Історичні канонерки"
  NAME_THEME_HISTORICAL_COASTAL_SUBMARINES: "Історичні прибережні підводні човни"
  NAME_THEME_HISTORICAL_MINELAYING_SUBMARINES: "Історичні міноносні підводні човни"
+
+ NAME_THEME_DYNASTIES: "Династії"
 
  tank_designer_signal: "Сигнальна машина (рота підтримки)"
  tank_designer_signal_role_disallowed: "Установіть модуль, який дозволяє роль §Hсигнальної машини§!, щоби могти змінити її."

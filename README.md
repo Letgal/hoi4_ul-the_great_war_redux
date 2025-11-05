@@ -66,6 +66,7 @@
 ## Файл оновлено, старий переклад збережено
 + `bookmarks`
 + `equip_air`
++ `equip_naval`
 + `equipment`
 + `parties`
 + `ship_modules`
@@ -84,7 +85,6 @@
 
 ## Тільки старий переклад (оновити)
 ### Папка `replace`
-+ `replace_equip_naval`
 + `replace_events`
 + `replace_peace`
 + `replace_research`
@@ -102,5 +102,6 @@
 + `replace_effects`
 + `replace_equipment`
 + `replace_focus`
++ `replace_mtg_decisions`
 + `replace_traits`
 + `replace_WUW_focus`

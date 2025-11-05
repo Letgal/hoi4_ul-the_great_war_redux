@@ -3464,6 +3464,12 @@
  HBC_communism: "Хубейська радянська зона"
  HBC_communism_DEF: "Хубейська радянська зона"
 
+ ABK: "Абхазія"
+ ABK_DEF: "Абхазія"
+ ABK_AJD: "Абхазьк"
+ ABK_communism: "Радянська Абхазія"
+ ABK_communism_DEF: "Соціалістична радянська республіка Абхазія"
+
  ### Debug Tag ###
  XXA: "Debug Tag"
  XXA_ADJ: "Debug"

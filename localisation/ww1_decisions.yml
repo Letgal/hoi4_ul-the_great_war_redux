@@ -486,8 +486,96 @@
  BEL_apply_the_tripartite_pact:0 "Прийняти Тристоронній пакт"
  BEL_apply_the_tripartite_pact_desc:0 "Ситуація в Європі загрожує територіальній цілісності Бельгії надто серйозно, щоб її ігнорувати. Ми зараз повинні приєднатися до Антанти."
 
+ BEL_reform_prison:0 "Reform the Prisons" # (!)
+ BEL_reform_prison_desc:0 "We will reform the prison staff so that they are less aggresive to inmates."
+ BEL_coalitionlifespan:0 "Liberal-Socialist Coalition Lifespan"
+ BEL_coalitionlifespan_desc:0 "The Liberals and Socialists have some mutual policies, but the liberals are reluctant to pass socialist policies. This creates an unstable government and it is just a matter of time before it collapses."
+ BEL_decision_fall_of_schollaert:0 "The Fall of Schollaert"
+ BEL_decision_fall_of_schollaert_desc:0 "After submitting his school law, Schollaert became extremely unpopular within Belgian politics and is getting pressured to resign as prime minister of Belgium."
+ BEL_maternity_funds:0 "Create Maternity Funds"
+ BEL_maternity_funds_desc:0 "The lower classes aren't able to support their kids because they are poor. This is why we are giving funds to these families so their child doesn't die."
+ BEL_unemployment_benefits:0 "Increase Unemployment Benefits"
+ BEL_unemployment_benefits_desc:0 "We need to help our employed people so they can find a new job."
+ BEL_family_allowances:0 "Implement Family Allowances"
+ BEL_family_allowances_desc:0 "The lower classes aren't able to support their families because they are poor. This is why we are giving funds so they can pay for family-related expenses."
+
+ BEL_decision_albertfunds:0 "Implement the Albertfunds"
+ BEL_decision_albertfunds_desc:0 "The Albertfunds is money set aside to fund the reconstruction of Belgium after the war."
+
+ BEL_learn_from_french:0 "Learn French Doctrine"
+ BEL_learn_from_russians:0 "Learn Russian Doctrine"
+ BEL_save_men_fra:0 "Commence Breakout Operations"
+ BEL_save_men_fra_desc:0 "We are making operations to try and save Belgian POWS from German POW camps."
+ BEL_save_men_ger:0 "Commence Breakout Operations"
+ BEL_save_men_ger_desc:0 "We are making operations to try and save Belgian POWS from German POW camps."
+ BEL_request_german_guns:0 "Request German Guns"
+ BEL_request_german_artillery:0 "Request German Artillery Pieces"
+ BEL_request_german_support_equipment:0 "Request German Support Equipment"
+ BEL_request_french_guns:0 "Request French Guns"
+ BEL_request_french_artillery:0 "Request French Artillery Pieces"
+ BEL_request_french_support_equipment:0 "Request French Support Equipment"
+ BEL_buy_barbed_wire:0 "Acquire Barbed Wire"
+ BEL_create_the_new_uniform:0 "Produce our New Uniforms"
+ BEL_enact_the_war_plan:0 "Enact the War Plan" 
+
+ BEL_the_colony:0 "The Colony"
+ BEL_the_colony_desc:0 "The Belgian Congo is the biggest Belgian colony and known for its many human rights abuses. The colony is seen by most Belgian politicians as land they should extract as much recourses as possible from. They try to achieve this objective by forcing the natives to work for them in really bad working conditions and enforce this by using a deathsquad called the Force Publique. Due to this the reputation of Belgium is low and other countries don't want to interact with us."
+ BEL_belgian_politics:0 "Belgian Politics"
+ BEL_belgian_politics_desc:0 "There are 3 major parties in Belgium. The Socialists want more power to the workers. The Liberals believe religious influence is a problem. The Catholics are conservative and have ruled Belgium for decades. The Socialists and Liberals have one common demand, 1 man 1 vote."
+ BEL_catholic_agenda:0 "The Catholic Agenda"
+
+ BEL_increase_pensions:0 "Increase Police Pensions"
+ BEL_increase_pensions_desc:0 "How do we secure the loyalty of the police? The answer is simple. Money."
+ BEL_fund_new_police_equipment:0 "Fund New Police Equipment"
+ BEL_fund_new_police_equipment_desc:0 "If we want to have loyal police, we're gonna have to fund their equipment so they can work."
+ BEL_confiscate_private_owned_railways:0 "Confiscate Private-Owned Railways"
+ BEL_confiscate_private_owned_railways_desc:0 "We can't rely on private-owned companies to own the lifeblood of the Belgian Economy. It's better for the state to own it."
+ BEL_train_train_staff:0 "Train Railway Staff"
+ BEL_train_train_staff_desc:0 "Most staff don't know all the languages of Belgium. This is bad when they have to go from Flanders to Wallonia and vice-versa."
+ BEL_lower_land_tax:0 "Lower the Land Tax"
+ BEL_lower_land_tax_desc:0 "We can secure the loyalty of the farmers by lowering their taxes."
+ BEL_extra_wages_catholics:0 "Extra Wages for the Clericals"
+ BEL_extra_wages_catholics_desc:0 "We can give extra wages to Clericals so they are more motivated to spread the word of the pope."
+ BEL_work_with_boerenbond:0 "Work with Boerenbond"
+ BEL_work_with_boerenbond_desc:0 "Boerenbond is an organisation for farmers and is willing to work with us. If we work with them, we can increase our power across the rural regions of Belgium."
+
+ BEL_rubber_crisis:0 "Coming Rubber Crisis"
+ BEL_rubber_crisis_desc:0 "There is a ton of rubber inside the Congo. Rubber is very rare and thats why we profit so much from our colony. But what if, it suddenly wasn't rare anymore?"
+ BEL_luba_activity:0 "Luba Activity"
+ BEL_luba_activity_desc:0 "The Luba are attacking Belgian colonists in Katanga. Maybe we should exterminate their rebellion."
+ BEL_crack_down_on_luba:0 "Crack Down on the Luba"
+ BEL_crack_down_on_luba_desc:0 "The Luba have been rebelling against us for the few last years. They are sabotaging the concession companies and we can't just let them do that."
+
+ BEL_link_major_cities_wireless_telegraph:0 "Construct Wireless Telegraphic Networks"
+ BEL_link_major_cities_wireless_telegraph_desc:0 "The Congo is very underdeveloped. Constructing Wireless Telegraphic Networks will help the domestic cities communicate with the port cities."
+ BEL_oil_in_matadi:0 "Connect Oil Pipelines from Matadi"
+ BEL_oil_in_matadi_desc:0 "There has been oil discovered in Matadi, but we haven't yet created pipelines that lead to our ports."
+ BEL_extend_leopoldville_port:0 "Extend the Léopoldville Port"
+ BEL_extend_leopoldville_port_desc:0 "The Léopoldville Port must be expanded to sustain the export economy inside the Congo."
+ BEL_expand_lumbumbashi_railways:0 "Expand Elizabethville Railways"
+ BEL_expand_lumbumbashi_railways_desc:0 "Recently, concession companies have been expanding into the mines of Katanga. We must make railways that go from Boma to Elizabethville."
+ 
+ BEL_apply_belgian_worker_protections:0 "Apply Belgian Worker Protections"
+ BEL_apply_belgian_worker_protections_desc:0 "It is only fair to give the cizitsens of the Belgian Congo the same worker protections as the cizitsens from the Belgian homeland."
+
+ BEL_recover_from_rubber_crisis:0 "Recover from the Rubber Crisis"
+ BEL_recover_from_rubber_crisis_desc:0 "We can recover from the Rubber Crisis if we just give the concession companies lands with rare minerals."
+ BEL_sell_kasai_shares:0 "Sell our Compagnie du Kasaï Shares"
+ BEL_sell_kasai_shares_desc:0 "Compagnie du Kasaï is a rich concession Company in the Kasaï province. We can earn a fortune if we sell our shares of the company."
+ BEL_create_forminiere:0 "Fund the Forminière Company"
+ BEL_create_forminiere_desc:0 "The Forminière Company is a diamant company inside the Congo."
+
+ BEL_create_cf:0 "Create the Congolese Franc"
+ BEL_create_cf_desc:0 "Creating the Congolese Franc will make it so the Belgian Franc doesn't suffer the consequences of what happens inside the Congo."
+ BEL_create_katanga:0 "Create the Katanga Province"
+ BEL_create_katanga_desc:0 "The Katanga Province is a province in the south east of the Congo."
+ BEL_take_over_katanga_services:0 "Take over Katanga Public Services"
+ BEL_take_over_katanga_services_desc:0 "The Katanga Public Services (schools, hospitals, ...) are owned by concession companies. Knowing what they do to Natives, it's probally better that we take over those public services."
+
  BEL_fortifications:0 "Ремонт бельгійських укріплень"
  BEL_fortifications_desc:0 "Ремонт бельгійських військових бастіонів є суттєвим стрімким фактором для нашої оборони, а також для підтримки нашої нейтралітету."
+
+ BEL_army_reform:0 "Army Reform" # (!)
 
  BEL_ethnic_lower_command_initiative:0 "Ініціатива етнічного нижнього командування"
  BEL_ethnic_lower_command_initiative_desc:0 "Щоб бути ефективними, офіцери на фронті повинні вміти проявляти місцеві ініціативи та спілкуватися з двомовним рівнем, здатним почати їх розуміти. Кожен старший офіцер повинен знати, як розмовляти французькою та фламандською мовами."
@@ -818,7 +906,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  AUH_has_invested_in_mavag:0 "Інвестовано у MÁVAG"
  AUH_deploy_deploy_jagdkommandos:0 "\n§Y2 дивізії§! у складі §Y9 гірських підрозділів§! та §YАртилерійської підтримки§! буде розгорнуто до §YВідня§!."
  POL_deploy_polish_legion:0 "Розгорнути польський легіон"
- GRE_entente_wont_help_venizelos:0 "Країни, які перебувають у фракції з §Y[FRA.GetNameWithFlag]§! і §Y[ENG.GetNameWithFlag]§! не допоможуть §CEleftherios Kyriákou Venizélos§! у випадку §RCivil Війна§!"
+ GRE_entente_wont_help_venizelos:0 "Країни, які перебувають у фракції з §Y[FRA.GetName]§! і §Y[ENG.GetName]§!, не допоможуть §Cвенізелістам§! у випадку §Rгромадянської війни§!.\n"
  gre_cp_aid:0 "Допомога центральних держав"
  civil_war_has_been_triggered:0 "Відбулася громадянська війна"
 
@@ -1411,6 +1499,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  SOV_soviet_odessa: "Заснувати Одеську СР"
  SOV_reuinite_soviet_ukraine: "Возз'єднати радянську Україну"
  SOV_soviet_stavrapol:0 "Створити Ставрапольську СР"
+ SOV_soviet_abkhazia:0 "Establish Abkhaz VRK" # (!)
  SOV_soviet_terek:0 "Створити Терек СР"
  SOV_soviet_black_sea:0 "Створити Чорноморську СР"
  SOV_soviet_kuban_black_sea:0 "Створення Кубано-Чорноморської СР"
@@ -1571,7 +1660,7 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
  GRE_return_capital:0 "Повернути столицю до Афін"
  GRE_return_capital_desc:0 "Тепер, коли ми відновили контроль над півостровом Аттика, настав час повернутися до Афін, давньої столиці еллінів."
 
- GRE_expand_influence_venizelists_trigger_tt:0 "The Venizelists have less than §YTotal§! influence over the state."
+ GRE_expand_influence_venizelists_trigger_tt:0 "The Venizelists have less than §YTotal§! influence over the state." # (!)
  GRE_expand_influence_monarchists_trigger_tt:0 "The Monarchists have at least §YWeak§! influence over the state."
  GRE_expand_influence_venizelists_tt:0 "Increase Venizelist influence over the state by one step.\n\n"
  GRE_expand_influence_monarchists_tt:0 "Reduce Monarchist influence over the state by one step.\n\n"
@@ -1579,6 +1668,10 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
  GRE_garrison_control_venizelists_weak_tt:0 "§LCurrent Venizelist influence over the state:§! §OWeak§!\n"
  GRE_garrison_control_venizelists_strong_tt:0 "§LCurrent Venizelist influence over the state:§! §YStrong§!\n"
  GRE_garrison_control_venizelists_total_tt:0 "§LCurrent Venizelist influence over the state:§! §GTotal§!\n"
+ GRE_garrison_control_monarchists_none_tt:0 "§LCurrent Monarchist influence over the state:§! §GTotal§!\n"
+ GRE_garrison_control_monarchists_weak_tt:0 "§LCurrent Monarchist influence over the state:§! §YStrong§!\n"
+ GRE_garrison_control_monarchists_strong_tt:0 "§LCurrent Monarchist influence over the state:§! §OWeak§!\n"
+ GRE_garrison_control_monarchists_total_tt:0 "§LCurrent Monarchist influence over the state:§! §RNone§!\n"
  GRE_already_expanding_influence_flag:0 "Already Expanding Garrison Influence"
 
  GRE_expand_influence_in_the_athens_garrison:0 "Expand Influence in [898.GetName]"
@@ -1646,6 +1739,8 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
  GRE_expand_influence_in_the_smyrna_garrison_mission:0 "Influence Challenged in [339.GetName]"
  GRE_expand_influence_in_the_aydin_garrison_mission:0 "Influence Challenged in [824.GetName]"
  GRE_expand_influence_in_the_mentese_garrison_mission:0 "Influence Challenged in [342.GetName]"
+
+ GRE_garrison_control_venizelists_total_tt2:0 "Current §YVenizelist§! influence over the state: §GTotal§!\n" # (!)
 
  london_conference:0 "Лондонська конференція [GetYear]"
 
@@ -1742,7 +1837,8 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
  SER_attack_AUH_plan:0 "Щоб отримати дійсне обґрунтування для атаки на §Y[AUH.GetNameWithFlag]§!, ми підтримуватимемо декларацію незалежності §Y[GAL.getFlag][GAL.getAdjective]§!. §Y[RUS.GetNameWithFlag]§! і §Y[ROM.GetNameWithFlag]§! можуть підтримати наш приклад \n\n Якщо §Y[AUH.GetNameWithFlag]§! спробує відновити §Y[GAL.GetNameWithFlag]§!, це буде зараховано як §Rнаступальна війна§! для §Y[AUH.GetNameWithFlag]§! їхню §Y[GER.getFlag][GER.getAdjective]у§! підтримку."
 
  SER_investing_the_coup:0 "Інвестиційний переворот"
-
+ SER_united_front_FROM:0 "United Front With [FROM.GetNameWithFlag]" # (!)
+ SER_united_front_FROM_tt:0 "If §Y[CRO.GetFlag]Croatia§!, §Y[SLV.GetFlag]Slovenia§!, or §Y[BOS.GetFlag]Bosnia§! is at war with §Y[AUS.GetFlag]Austria§!, we will be able to establish the united front with them, being their overlord." # (!)
 
 
 
@@ -1916,8 +2012,9 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
  CHI_XSM_take_ningxia:0 "Анексувати Нінся"
  CHI_SHX_take_suiyuan:0 "Анексувати Суйюань"
  CHI_ANC_conquer_mongolia:0 "Приєднати Монголію"
+ CHI_ANC_conquer_mongolia_desc:0 "Outer Mongolia was a real, personal union of the Qing Dynasty, effectively a territory of Qing China, for centuries. We have never recognized Outer Mongolia's independence, and we will implement it at any time, barring external interference." # (!)
  CHI_decision_invade_tibet:0 "Приєднати Тибет"
- CHI_decision_invade_tibet_desc:0 "Тибет ніхто не визнає, оскільки це законна територія Китаю."
+ CHI_decision_invade_tibet_desc:0 "Tibet was a vassal, real union of the Qing Dynasty, effectively a territory of Qing China, for centuries. We have never recognized Tibet's independence, and we will implement it at any time, barring external interference." # (!)
  CHI_unite_china_FROM:0 "Доля [FROM.GetName]"
  national_protection_war:0 "Війна за захист країни"
  CHI_national_protection_flag:0 "Армія національного захисту"
@@ -2087,7 +2184,7 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
  CHI_activate_socialist_influence:0 "Spread Socialism In [FROM.GetName]" # (!)
  CHI_raise_socialist_militia:0 "Raise Socialist Militias In [FROM.GetName]" # (!)
  CHI_long_march:0 "The Great Long March" # (!)
- CHI_long_march_desc:0 "The Revolution in China has encountered a major setback. Due to the relentless suppression and brutal blockade policies of the reactionaries, the Soviet Zone we liberated can no longer survive. To break through the enemy encirclement and establish a base in the mountainous regions, we must march thousands of kilometres... After enduring these hardships and adversities, the chaff will be blown away, leaving only the grain fit to fight as revolutionary warriors." # (!)
+ CHI_long_march_desc:0 "The socialist revolution in China has encountered a major setback. Due to the relentless suppression and brutal blockade policies of the reactionaries, the Soviet Zone can no longer survive. To break through the enemy encirclement and establish a base in the mountainous regions, the socialists march thousands of kilometres... After enduring these hardships and adversities, the chaff will be blown away, leaving only the grain fit to fight as revolutionary warriors." # (!)
 
 ### ОСМАНСЬКА ІМПЕРІЯ ###
  TUR_OPDA_CURRENCY_TOOLTIP:0 "§o Курси валют §!\n§d------------------------------ ----------------------------§!\n§Y3%§! §v Фактор виробництва споживчих товарів =§! §Y0,295 Тисяча лір§!\n§d------------------------------------------ ---------------------§!"
@@ -8795,6 +8892,7 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
  BUL_request_200:0 "Запит [200.GetName]"
  BUL_request_200_desc:0 "Смачного, смачного, територія!"
  lone_liberator_victorious:0 "§Y[BUL.GetFlag]Болгарія§! перемогла в Балканській війні без створення §5Балканської ліги§!"
+ BUL_salonika_armistice_timer:0 "Unilateral Ceasefire" # (!)
 
  korean_independence:0 "Незалежність Кореї"
  KOR_release_korea:0 "Випустити Корею"
@@ -8971,6 +9069,7 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
  HOL_ask_for_dunkirk:0 "Запитувати Duinkerken"
  HOL_spread_socialism:0 "Поширювати соціалізм серед [FROM.GetAdjective] людей"
  HOL_ask_for_colonies:0 "Попросити [FROM.GetAdjective] колонії"
+ HOL_annex_RIA: "Анексувати державу [RIA.GetNameDef]"
 
  ZAN_ali_bin_hamud_abdicate:0 "Зректися престолу на користь Халіфи бін Харуба"
  ZAN_ali_bin_hamud_abdicate_desc:0 "Султан тяжко хворий, він має піти у відставку та пройти лікування."
@@ -8993,7 +9092,7 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
 
 
  GRE_venizelos_assassination:0 "Змова щодо вбивства Венізелоса"
- GRE_venizelos_assassination_desc:0 "Щоб уникнути громадянської війни, ми повинні усунути головного лідера ліберальної опозиції: Елефтеріоса Кіріаку Венізелоса.\n\nНаш поточний рівень підготовки: §Y[?GRE_venizelos_plot_preparation|Y0=]%§!"
+ GRE_venizelos_assassination_desc:0 "Though we've managed to ban the Liberal Party, its leader Elefthérios Venizélos and his supporters are still lurking within the shadows. As their actions will inevitably result in a civil way, only way to avoid it seems to be assasination of their leader. Once Venizélos is out of the picture, their whole movement will come crumbling down." # (!)
 
  GRE_operation_rodi_desc_spec:0 "Операція «Роді» - це секретний план, організований для вторгнення на §YДодеканес§!."
 
@@ -9001,9 +9100,11 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
  probably_lead_to_war_with_rodi_tt:1 "§RЦе, імовірно, призведе до війни з [899.owner.GetNameDef].§!"
  GRE_operation_rodi:0 "Операція «Роді»"
  GRE_marines_deploiement:0 "Розгорнути підрозділ §Yелітних морпіхів§! на §YКриті§!."
- GRE_rodi_operation_plus_20_percents:0 "§GЗбільшити §Y\"Операція «Роді»\"§! шанс успіху на §!§Y20%!§!"
- GRE_venizelos_assassination_plus_20_percents:0 "§GЗбільшити §Y\"Вбивство Венізелоса\"§! шанс успіху на §!§Y20%!§!"
- GRE_venizelos_assassination_plus_40_percents:0 "§GЗбільшити §Y\"Вбивство Венізелоса\"§! шанс успіху на §!§Y40%!§!"
+ GRE_rodi_operation_plus_20_percents:0 "Modify the success of §YOperation Rodi§! by §G+20%§!\n # (!)
+ GRE_venizelos_assassination_plus_10_percents:0 "Modify the success of §YAssasinate Venizélos§! by §G+10%§!\n" # (!)
+ GRE_venizelos_assassination_plus_15_percents:0 "Modify the success of §YAssasinate Venizélos§! by §G+15%§!\n" # (!)
+ GRE_venizelos_assassination_plus_20_percents:0 "Modify the success of §YAssasinate Venizélos§! by §G+20%§!\n" # (!)
+ GRE_venizelos_assassination_plus_40_percents:0 "Modify the success of §YAssasinate Venizélos§! by §G+40%§!\n" # (!)
 
  GRE_operation_rodi_desc:0 "Щоб успішно завершити §Y"Операцію «Роді»"§!, ми повинні підготувати широкомасштабне вторгнення проти [164.getName]. Чим більше ми готові, тим менше §Y[899.owner.GetNameWithFlag] §! спробує відбити атаку.\n\nНаш поточний рівень підготовки: §Y[?GRE_rodi_preparation|Y0=]%§!"
 
@@ -9016,7 +9117,7 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
  commence_the_operation:0 "Почати операцію"
  reserve_convoys:0 "Резервні конвої"
 
- GRE_preparation_in_progress:0 "Уже підготовка операції"
+ GRE_preparation_in_progress:0 "Уже йде підготовка операції"
  GRE_track_venizelos:0 "Відслідковувати Venizélos"
  GRE_gather_the_epistratoi:0 "Зберіть епістратів"
  GRE_purchase_high_efficiency_weapons:0 "Купити високоефективну зброю"
@@ -9024,7 +9125,7 @@ GRE_missions_to_increase_monarchist_support:0 "\nРозблоковує §Yрі�
 
  GRE_assassinate_venizelos:0 "Вбити Венізелоса"
  GRE_venizelos_died:0 "Венізелос помер"
- GRE_thessaloniki_state_formed:0 "Створено державу Салоніки"
+ GRE_thessaloniki_state_formed:0 "Створено §Yдержаву Салоніки§!"
 
  GRE_fund_pontic_rebels:0 "Підтримайте Понтійських повстанців"
  GRE_fund_pontic_rebels_desc:0 "Понтійські греки чинили відважний опір турецьким депортаціям і масовим вбивствам, формуючи нерегулярні загони. Ми можемо скористатися цією силою, фінансувати їх і підтримувати ідею сильної Понтійської держави в Чорному морі."
@@ -9375,11 +9476,11 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  SIB_volunteers_of_constituent_assembly:0 "Зберіть волонтерів Установчих зборів у [FROM.GetName]"
 
  MTG_naval_treaties2: "[MTG_washington_naval_treaty_adherent_sps]"
- MTG_naval_treaties2_desc:0 "Щоб обмежити витрати та уникнути чергової взаємно руйнівної гонки військово-морських озброєнь, великі морські держави світу підписали низку договорів, що обмежують загальний розмір їхніх флотів і розмір кожного окремого корабля. Як підписант ці договори, ми підлягаємо певним обмеженням, але поки наші опоненти також їх дотримуються, баланс сил має бути підтримується.\n\nНа даний момент ми §Y[GetStrengthRatioBritain] [GetRelevantNavalTreatyNation]§! за потужністю великого корабля.\n\n Тоннаж підводних човнів: §Y[?tons_of_submarines] Ктонн§!\n\n Тоннаж есмінців: §Y[? tons_of_destroyers] Ктонн§!\n\n Тоннаж легких крейсерів: §Y[?tons_of_light_cruisers] Ктонн§!\n\n Тоннаж важких крейсерів: §Y[?tons_of_heavy_cruisers] Ктонн§!\n\n Тоннаж бойових крейсерів: §Y[?tons_of_battlecruisers] Ктонн§!\n\n Тоннаж лінкора: §Y[?tons_of_battleships] Ктонн§!\n\n Тоннаж авіаносця: §Y[?tons_of_carriers] Ктонн§!\n\n\nЗагальний тоннаж: §Y[?navy_tons] Ктонн §!\n\nСтоличний тоннаж становить §Y[?capital_tons] Ктонн§! з §Y[?authorized_tons]§!\n(Межу встановлює [MTG_washington_naval_treaty_adherent_sp])"
+ MTG_naval_treaties2_desc:0 "Щоб обмежити витрати та уникнути чергової взаємно руйнівної гонки військово-морських озброєнь, великі морські держави світу підписали низку договорів, що обмежують загальний розмір їхніх флотів і розмір кожного окремого корабля. Як підписант ці договори, ми підлягаємо певним обмеженням, але поки наші опоненти також їх дотримуються, баланс сил має бути підтримується.\n\nНа даний момент ми §Y[GetStrengthRatioBritain] [GetRelevantNavalTreatyNation]§! за потужністю великого корабля.\n\n Тоннаж підводних човнів: §Y[?tons_of_submarines] Ктонн§!\n\n Тоннаж есмінців: §Y[? tons_of_destroyers] Ктонн§!\n\n Тоннаж легких крейсерів: §Y[?tons_of_light_cruisers] Ктонн§!\n\n Тоннаж броненосних крейсерів: §Y[?tons_of_armored_cruisers] Ктонн§!\n\n Тоннаж бойових крейсерів: §Y[?tons_of_battlecruisers] Ктонн§!\n\n Тоннаж лінкора: §Y[?tons_of_battleships] Ктонн§!\n\n Тоннаж авіаносця: §Y[?tons_of_carriers] Ктонн§!\n\n\nЗагальний тоннаж: §Y[?navy_tons] Ктонн §!\n\nСтоличний тоннаж становить §Y[?capital_tons] Ктонн§! з §Y[?authorized_tons]§!\n(Межу встановлює [MTG_washington_naval_treaty_adherent_sp])"
 
  MTG_TGWR_above_authorized_tons:0 "Тоннаж перевищує обмеження Вашингтонського договору"
 
- MTG_scrap_old_heavy_cruiser:0 "Старий крейсер на брухт"
+ MTG_scrap_old_armored_cruiser:0 "Старий крейсер на брухт"
  MTG_scrap_old_battleship:0 "Старий лінкор на брухт"
  MTG_scrap_old_carrier:0 "Старий носій на брухт"
 

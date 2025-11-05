@@ -9,8 +9,9 @@
  QIN_court_appeasement_desc:0 "Велика рада завжди нам допомагала. Що ви маєте на увазі, називаючи їх корумпованими? Геть, прохачі!"
  QIN_restore_military_production:0 "Відновлення військового виробництва"
  QIN_restore_military_production_desc:0 "Після Боксерського повстання нам було заборонено купувати іноземну зброю. Ця заборона вже закінчилася, але ми значно послабшали. Ми повинні діяти швидко."
- QIN_pacify_beiyang_army:0 "Умиротворення армії Бейян"
- QIN_pacify_beiyang_army_desc:0 "Армія Бейян залишається дуже впливовою в нашій політиці, створюючи труднощі для твердого утвердження нашого контролю. Настав час вирішити, як ми з ними впораємося."
+ QIN_form_imperial_guard_corps:0 "Form Imperial Guard Corps" # (!)
+ QIN_form_imperial_guard_corps_desc:0 "The Beiyang Army remains heavily influential in our politics, creating difficulties in firmly asserting our control. The time has come to decide how we shall deal with them." # (!)
+ QIN_form_imperial_guard_corps_tt:0 "Six divisions of the Imperial Guards can be deployed in case of crisis." # (!)
  QIN_shanghai_shipyards:0 "Шанхайські верфі"
  QIN_shanghai_shipyards_desc:0 "Китайське море знову буде під контролем китайського флоту."
  QIN_coastal_defense:0 "Берегова оборона"
@@ -27,6 +28,7 @@
  QIN_reform_ministries_desc:0 "Імператорський кабінет був хорошим початком, але для завершення нашого переходу ми повинні призначити міністрів на ключові посади, а не покладатися на єдиний кабінет."
  QIN_appeal_to_the_militarists:0 "Звернення до мілітаристів"
  QIN_appeal_to_the_militarists_desc:0 "Замість того, щоб боротися з мілітаристами і спричиняти ще більше втрат, давайте переконаємо їх приєднатися до нас. Серед них є блискучі уми, які добре послужать нашій армії."
+ QIN_appeal_to_the_militarists_tt:0 "In times of crisis, we may find some generals of the Beiyang Army to be on our side." # (!)
  QIN_constitutional_monarchy:0 "Реформа монархії"
  QIN_constitutional_monarchy_desc:0 "Імператор достатньо дорослий, щоб бути коронованим, і ми досягли успіху в нашому переході. Слава Сюаньтуну!"
  QIN_cooperation_with_dominions:0 "Співпраця з домініонами"
@@ -207,7 +209,7 @@
  QIN_meeting_with_zhidong_desc:0 "Prince Zaifeng meets with Zhang Zhidong, the only Han minister that the Imperial Court trusted, the two discuss about the fate of Yuan Shikai and the threat he can pose to imperial rule."
  QIN_exile_yuan:0 "Exile Yuan"
  QIN_exile_yuan_tt:0 "§LYuan Shikai§! will be spared from §Rexecution,§! and returned back home to recover. However his influence in the army is still §Rintact.§!"
- QIN_exile_yuan_desc:0 "The contents of the meeting between Zaifeng and Zhang Zhidong was discussed in secret, and Zhang Zhidong opposed Zaifeng's idea of having Yuan killed stating: "Now that the country has just suffered a national mourning, it is not appropriate to kill the old Ministers suddenly.""
+ QIN_exile_yuan_desc:0 "The contents of the meeting between Zaifeng and Zhang Zhidong was discussed in secret, and Zhang Zhidong opposed Zaifeng's idea of having Yuan killed stating: Now that the country has just suffered a national mourning, it is not appropriate to kill the old Ministers suddenly."
  QIN_execute_yuan:0 "Kill Yuan"
  QIN_execute_yuan_tt:0 "§LYuan Shikai§! will be §Rexecuted§! or §Rassassinated§! for suspected §Rtreason...§!"
  QIN_execute_yuan_desc:0 "After becoming regent, Zaifeng held the Imperial court in the Qianqing Palace every day. The first thing he did was to discuss within Royalist and Manchu circles and decide to get rid of Yuan Shikai. After Yuan Shikai learned that Empress Dowager Cixi had died and Zaifeng became the regent, Yuan fled to Tianjin to hide. At this time, some young relatives of the Qing royal family advocated killing him. Despite Zhidong's reasoning to simply exile Yuan Shikai back home, Zaifeng has decided to carry out the removal of the Tiger before it becomes too dangerous for the Empire."
@@ -504,9 +506,6 @@
  ww1_qing.99.d:0 "Ми поступово втрачаємо контроль над Монголією, де нещодавні революціонери вимагають республіку. Звісно, ми придушили будь-яке інакомислення, але очевидно, що зростаючі заклики до демократії вже не вдається зупинити."
  ww1_qing.99.a:0 "Нам доведеться вирішити це найближчим часом"
 
-#Characters
- QIN_yan_xiu:0 "Ян Хью"
- QIN_tieliang:0 "Тьє Лянг"
  #politics
  QIN_democratic_parliament_party:0 "Конституціоналісти"
  #cosmetic tags

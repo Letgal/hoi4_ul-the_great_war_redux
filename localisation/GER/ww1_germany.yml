@@ -1068,9 +1068,9 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
  GER_taken_mob_of_morale_focus: " Фокус §YМобілізація бойового духу§! було звято за останні §Y70 днів§!" # (&+)
  GER_hollweg_empowered: "Бетман-Гольвеґ отримав повноваження внаслідок Цабернської справи"
  GER_vote_in_bundesrat: "Голосує в §YБундесраті§!"
- ww1_haldane_mission_successful: "Місія Голдейна була успішна"
- GER_solf_appointed: "Було призначено Вільгельма Зольфа"
- GER_von_liebert_appointed: "Було призначено Едуарда фон Ліберта"
+ ww1_haldane_mission_successful: "§YМісія Голдейна§! була успішна"
+ GER_solf_appointed: "Було призначено §YВільгельма Зольфа§!"
+ GER_von_liebert_appointed: "Було призначено §YЕдуарда фон Ліберта§!"
 
  GER_HOL_create_4_v105_torpedoes_boats: "Створить §Y4 торпедні катери класу «V-105»§!."
 
@@ -1537,6 +1537,10 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_traditional_plan_desc: "The Großer Generalstab, under Helmuth von Moltke the Younger, propose an aggressive military planning strategy and focus on the quality of arms. They believe that only through decisive action can Germany prevail against enemies on multiple fronts."
   GER_state_munitions: "Програма державного озброєння"
   GER_state_munitions_desc: "To face the combined might of our potential enemies, we must expand state investment in military production. This new funding initiative will focus on ammunition and artillery, without drawing resources away from ongoing naval construction."
+  GER_finance_rheinmetall: "Профінансувати Rheinmetall"
+  GER_finance_rheinmetall_desc: ""
+  GER_subsidise_mauser: "Субсидувати Mauser"
+  GER_subsidise_mauser_desc: ""
   GER_qualitative_superiority: "Якісна перевага"
   GER_qualitative_superiority_desc: "Victory will come not through numbers alone, but through superior weaponry and tactics. By focusing on technological advancement in artillery, machine guns, and other modern weapons, we can ensure our forces maintain their qualitative edge over our opponents."
   GER_wealth_tax_laws: "Wehrbeitrag"
@@ -1730,17 +1734,17 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_push_for_prussian_electoral_reform: "Просунути прусську виборчу реформу"
   GER_push_for_prussian_electoral_reform_desc: "Prussia is the largest of the entities within the broader German Empire, and as such holds the largest power. Though the smaller kingdoms and regions may embrace reform, without Prussia following suit, it means little. By proposing a radical alteration to the way elections are held in the Reich, Germany can stand proud forever more."
   GER_gorlice_tarnow: "Горлицький прорив"
-  GER_gorlice_tarnow_desc: ""
+  GER_gorlice_tarnow_desc: "With the Russians advancing deep through Galicia, its only a matter of time before they break through to the Danubian plain. If the Russian's lacklustre performance against our forces is anything to go by, driving them out shall prove easy."
   GER_capture_poland: "\n§RВи мусите захопити §Y[RUS.GetFlag]російську Польщу§! раніше, ніж спливе час.§!\n"
   GER_capture_baltics: "\n§RВи мусите захопити §Y[RUS.GetFlag]російську Балтію§! раніше, ніж спливе час.§!\n"
   GER_baltics_offensive: "Балтійська офензива" # (&?)
   GER_capture_poland_desc: ""
   GER_focus_on_italian_front: "Зосередитися на італійському фронті"
-  GER_focus_on_italian_front_desc: ""
+  GER_focus_on_italian_front_desc: "Despite our best efforts the front with the Italians has entered a stalemate. The Austrians have barely advanced through Venetia, while Italy holds a mere slice of Tyrol. Reinforcing this theatre could help divert Entente forces away from the Western front."
   GER_karfreit_offensive: "Капореттська офензива" # (&?)
-  GER_karfreit_offensive_desc: ""
+  GER_karfreit_offensive_desc: "The advance into Venetia has stalled. Luckily, we've found the perfect location for a breakthrough. Using poison gas, our forces will advance through their defences, forcing their troops into a rout."
   GER_lki_project: "Проєкт «LK I»"
-  GER_lki_project_desc: "The Entente's steel beasts present a new challenge on the battlefield. We must answer with a design of our own. The Leichter Kampfwagen project will develop a light, fast tank to support our stormtroopers and restore momentum to our offensives."
+  GER_lki_project_desc: "The Entente's steel beasts present a new challenge on the battlefield. We must answer with a design of our own. The Leichter Kampfwagen project will develop a light, fast tank to support our Stormtroopers and restore momentum to our offensives."
   GER_invest_in_tak: "Вкластися в розробку TAK"
   GER_invest_in_tak_desc: "Enemy tanks are a growing menace that our current equipment cannot counter. We must invest in the development of Tankabwehrkanonen, dedicated cannons for destroying tanks. This 'TAK' program will give our soldiers the tools they need to halt any armored assault."
   GER_maritime_warfare_command: "Командування морської війни" # (&?)
@@ -1756,9 +1760,9 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_secure_loyalty_of_unions: "Забезпечити вірність профспілок"
   GER_secure_loyalty_of_unions_desc: ""
   GER_restoration_of_belgium: "Відновлення Бельгії"
-  GER_restoration_of_belgium_desc: ""
-  GER_commiting_to_the_september_programme: "Притриматися Вересневої програми"
-  GER_commiting_to_the_september_programme_desc: ""
+  GER_restoration_of_belgium_desc: "Expanding our influence into Belgium serves little purpose. The plans for Belgium outlined in the Septemberprogramm would only serve to outrage the British in peace negotiations. If Belgian is restored as an independent state, The Entent may be more amenable to accepting demands elsewhere..."
+  GER_commiting_to_the_septemberprogramm: "Притриматися Вересневої програми"
+  GER_commiting_to_the_septemberprogramm_desc: ""
   GER_the_enabling_act: "Закон про надзвичайні повноваження"
   GER_the_enabling_act_desc: ""
   GER_keeping_the_bundesrat_in_check: "Тримати Бундесрат під контролем"
@@ -1823,7 +1827,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
  GER_election1_desc: "§WПередбачені результати виборів:\n$GER_leftist_factions_prediction_text$\n$GER_leftist_factions_prediction_list_text$\n$GER_centrist_factions_prediction_text$\n$GER_centrist_factions_prediction_list_text$\n$GER_rightist_factions_prediction_text$\n$GER_rightist_factions_prediction_list_text$\n$GER_neutral_factions_prediction_text$\n$GER_neutral_factions_prediction_list_text$§!"
 
  ## Події (Райхстаґ)
-  ww1_german_reichstag.1.t: "[?reichstag_election_date] Reichstag Election"
+  ww1_german_reichstag.1.t: "[GetYear] Reichstag Election"
   ww1_german_reichstag.1.d: "Outside of wartime, the Reichstag is renewed every five years following elections of its deputies. During the reign of the lower house, the Reichstag is essential for the development of German legislation, as well as for passing budgets and exceptional credits."
   ww1_german_reichstag.1.a: "Now the work begins"
   ww1_german_reichstag.2.t: "Elections to be Postponed by the Reichstag"
@@ -1990,7 +1994,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
  ww1_german_victory.25.b: "Decline — we will not sacrifice our sovereignty."
 
  GER_mitteleuropa_project: "Проєкт «Міттельойропа»"
- GER_mitteleuropa_project_desc: "To revive the European economy, we can launch an economic sphere, a kind of customs union to our advantage that would define how European trade works."
+ GER_mitteleuropa_project_desc: "To revive the European economy, we can launch an economic sphere, a kind of customs union to our advantage that would redefine how European trade works."
  GER_mitteleuropa_category: "Міттельойропа"
  GER_mitteleuropa_germany: "Засновник Міттельойропи"
  GER_mitteleuropa_member: "Член Міттельойропи"
@@ -2005,11 +2009,11 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
  ww1_german_victory.26.a: "Good."
 
  ww1_german_victory.27.t: "[FROM.GetName] Refused to join Mittleuropa"
- ww1_german_victory.27.d: "[FROM.GetAdjective] government refused our proposal to join our economyc sphere. They argued that this initiative may break the balace of Europe in German Advantage and denied any fuhrer participation to such project."
+ ww1_german_victory.27.d: "[FROM.getAdjective] government refused our proposal to join our economic sphere. They argued that this initiative may break the balance of power in Europe to Berlin's advantage and denied any further participation in such a project."
  ww1_german_victory.27.a: "Regrettable."
 
  ww1_german_victory.28.t: "[FROM.GetName] Leaves Mittleuropa"
- ww1_german_victory.28.d: "[FROM.GetAdjective] government sent us a letter about a radical change in their economic stance toward us. Explained in a diplomatic way, the document announce that [FROM.GetName] is leaving Mitteleuropa, denouncing the full-German control of this institution."
+ ww1_german_victory.28.d: "[FROM.getAdjective] government sent us a letter about a radical change in their economic stance toward us. Explained in a diplomatic way, the document announced that [FROM.getName] is leaving Mitteleuropa, denouncing the full-German control of this institution."
  ww1_german_victory.28.a: "Regrettable."
  GER_leaves_mitteleuropa: "Leave Mitteleuropa"
 
