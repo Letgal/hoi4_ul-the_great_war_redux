@@ -99,10 +99,10 @@ end_tt: "§OВміст, який ми підготували, закінчуєт
  ww1_generic.33.t: "[FROM.GetName] погрожує втрутитися!"
  ww1_generic.33.d: "Наші зусилля щодо переозброєння не залишилися непоміченими. [FROM.GetNameDefCap] вимагав від нас припинити наші спроби переозброєння та готується вторгнутися в нашу країну. Будьте готові протистояти гнітючій орді наших колишніх ворогів."
  ww1_generic.33.a: "Знову."
- ww1_generic.34.t: "Морський договір [USA.Capital.GetCapitalVictoryPointName]"
- ww1_generic.34.d: "Було запропоновано підписати військово-морський договір, щоб запобігти гарячій конкуренції з морських озброєнь. Усі великі держави, які мають значні військово-морські сили, запрошуються до цього договору про роззброєння."
- ww1_generic.34.a: "Ми можемо забезпечити більший мир шляхом підписання."
- ww1_generic.34.b: "Цей флот призначений для нашої оборони, ми відкидаємо договір!"
+ ww1_generic.34.t: "Лондонський морський договір"
+ ww1_generic.34.d: "Representatives of all the great powers gathered in London to finalize the agreements that had not been reached in the previous naval treaty." # (!)
+ ww1_generic.34.a: "For the sake of peace." # (!)
+ ww1_generic.34.b: "We reject to sign!" # (!)
  ww1_generic.34.b.tt: "§RІнші держави вважатимуть нас ворогом світового миру!§R"
  ww1_generic.35.t: "[From.GetNameDefCap] вимагає нашої анексії"
  ww1_generic.35.d: "Сьогодні ми отримали вимогу від [From.GetLeader]. Вони висунули список вимог, які означатимуть нашу анексію. Наше прийняття не призведе до втрати людських життів, уникнення потенційно руйнівної війни, але наш суверенітет розвіявся б у повітрі, погодившись на пропозицію [From.GetLeader]. [Root.GetNameDef] територія [From.GetNameDef], і наш уряд буде розпущено, замінено провінційним управлінням.\n\nХоча ми б не хотіли віддавати нашу незалежність хулігану через кордон, існує певна загроза в їх повідомлення, яке змушує нас повірити, що якщо ми не приймемо вимоги [From.GetLeader], то незабаром опинимося в стані війни з [From.GetNameDef]."
@@ -464,8 +464,8 @@ end_tt: "§OВміст, який ми підготували, закінчуєт
 
 ### АВСТРІЯ ###
  ww1_auh.1.t: "Франц Йосиф I помер"
- ww1_auh.1.d: "З Відня надійшли трагічні новини. Улюблений кайзер Франц Йосиф після довгого перебування на посаді та життя помер від запалення легенів. За його правління імперія зазнала великих змін. Австрія без нього виглядатиме так, як багато людей дивуються і хвилюються, що багато хто в уряді боїться, що їхня імперія не переживе його. [AUS.GetLeader] сходить на невизначений трон."
- ww1_auh.1.c: "З Відня надійшли трагічні новини. Улюблений колишній кайзер Франц Йосиф після довгого перебування на посаді та життя помер від запалення легенів. Під час його правління імперія зазнала великих змін. Як виглядатиме Австрія без нього те, чого багато людей очікують і про що хвилюються."
+ ww1_auh.1.d:0 "Tragic news has arrived from Vienna. The beloved Kaiser Franz Josef, after a reign of 68 years and a long life, has succumbed to pneumonia at age 86. Ten days ago he caught a cold while while walking in Schönbrunn Park and pneumonia began developing in his right lung. He began his day today normally, but his condition began deteriorating in the evening with his temperature rising and his physicians realised the inevitable was happening, and he passed away later in the evening. Under his long reign, the empire underwent great changes, including the establishment of Austria-Hungary with the 1867 compromise. His successor, [AUS.GetLeader] has now ascended to the throne of the empire." # (!)
+ ww1_auh.1.c:0 "Tragic news has arrived from Vienna. The beloved former Kaiser Franz Josef, after a long reign and life, has succumbed to pneumonia at age 86. Ten days ago he caught a cold while while walking in Schönbrunn Park and pneumonia began developing in his right lung. He began his day today normally, but his condition began deteriorating in the evening with his temperature rising and his physicians realised the inevitable was happening, and he passed away later in the evening. Under his long reign, the empire underwent great changes, including the establishment of Austria-Hungary with the 1867 compromise." # (!)
  ww1_auh.1.a: "Gott Erhalte, Gott Beschütze..."
  ww1_auh.1.b: "F"
  ww1_auh.2.t: "Трентінська угода"
@@ -916,6 +916,7 @@ end_tt: "§OВміст, який ми підготували, закінчуєт
  ww1_france.18.t:0 "Битва під Верденом"
  ww1_france.18.d:0 "Через кілька тижнів жахливих боїв у регіоні Верден французькі війська зазнали тисячі втрат. Бойові дії мають форму кривавої, повільної бійні, а звіти з фронту більше не надихають патріотизму в населення, тільки тривога.\n\nВерденська м'ясорубка продовжуватиме забирати людські життя до кінця війни, якщо хтось із протилежні сторони не перемагають у цій безглуздій битві."
  ww1_france.18.a:0 "Нехай Бог дасть нам перемогу."
+ ww1_france.18.b: "Стільки мертвих заради одного місця..."
  ww1_france.19.t:0 "Битва на Соммі"
  ww1_france.19.d:0 "Британські війська провели скоординований наступ на Західному фронті в районі річки Сомма. Найбільшою операцією на сьогоднішній день мала стати вирішальна битва, метою якої було вибити німецькі війська своїх окопів і укріплень Успішний скоординований наступ усіх союзників Британії змусив Німеччину відступити, але ціна перемоги була надзвичайною. високий.\n\nНімці чинили серйозний опір, що вплинуло на боєздатність британської армії та можливість подальшого наступу на всьому Західному фронті."
  ww1_france.19.a:0 "Господи, допоможи нам."
@@ -2954,8 +2955,8 @@ end_tt: "§OВміст, який ми підготували, закінчуєт
  ww1_belgium.64.a: "Зрештою, ми велика держава"
 
  ww1_belgium.65.t: "Візит короля до Франції та Німеччини"
- ww1_belgium.65.d: "Король Альберт поїхав до Франції, потім до Німеччини, щоб нагадати нашим сусідам про нейтралітет Бельгії, а також попередити їх, що якщо вони порушать бельгійську територію, країна захищатиметься. Альберт нагадав [GER.getLeader] про його німецьке походження, додаючи, що він був перш за все бельгійцем."
- ww1_belgium.65.a: "Тепер вони налякані"
+ ww1_belgium.65.d: "Король Альберт поїхав на дипломатичну подорож до Франції, потім до Німеччини, щоб нагадати нашим сусідам про нейтралітет Бельгії, а також попередити їх, що якщо вони порушать бельгійську територію, країна захищатиметься. Альберт нагадав [GER.GetLeader] про його німецьке походження, додаючи, що він був перш за все бельгійцем."
+ ww1_belgium.65.a: "Тепер вони напевне налякані"
 
  ww1_belgium.66.t: "Голосування за Закон про другий військовий обов'язок"
  ww1_belgium.66.d: "Завдяки допомозі католицької партії та значної частини ліберальних демократів розширений закон про призов був прийнятий без інцидентів. Підписаний негайно королем, він негайно набув чинності, звільнивши резервуар чоловіків нам потрібно було поповнити ряди. Але, незважаючи на цю перемогу, громадська опозиція розкритикувала ухвалення закону, обіцяючи, що він буде непопулярним і таким великим. відбудуться демонстрації."
@@ -3099,9 +3100,56 @@ end_tt: "§OВміст, який ми підготували, закінчуєт
  ww1_belgium.99.a:0 "We must secure the vote"
  ww1_belgium.99.b:0 "The POB cannot be trusted!"
 
+ ww1_belgium.101.t:0 "Liberal-Socialist Coalition Falls Apart"
+ ww1_belgium.101.d:0 "The ruling liberal-socialist coalition has fallen apart. The coalition looked like it had a ton of potential, both parties wanting to pass the same policies. The Socialists claim that the Liberals didn't want to work with them on their policies which made them leave the government. The Liberals claim that the Socialists tried to sabotage the government. The people wait for the King to appoint a new government."
+ ww1_belgium.101.a:0 "The king appoints a catholic"
+
  ww1_belgium.100.t:0 "Defeat"
  ww1_belgium.100.d:0 "With the end of the war in the West, the German Empire ended their military occupation, and settled a collaboration government in Belgium."
- ww1_belgium.100.a:0 "At least, we are still there"
+
+ ww1_belgium.104.t:0 "Rubber Crisis"
+ ww1_belgium.104.d:0 "Due to companies extracting rubber in Malaysia, the prices for rubber have fallen. This leads to Congolese companies losing its monopoly on rubber and thus they are less profitable."
+ ww1_belgium.104.a:0 "Oh no..."
+ ww1_belgium.103.t:0 "Status of the Force Publique"
+ ww1_belgium.103.d:0 "The Force Publique is a colonial army ruled by Belgian officers. They were made to take over the Congo in the 1890s. Now their role has changed to suppresing the natives and defending the colony from external threaths. The threath of invasion has been deemed unlikely by alot of politicians but recently tensions have flared. Politicians want the Congo defended at all costs if the war comes to Belgium. Thats why some have proposed modernizing and reorganising the Force Publique."
+ ww1_belgium.103.a:0 "Reorganise the Colonial Army"
+ ww1_belgium.105.t:0 "A Wallonian Nationalist group assembles"
+ ww1_belgium.105.d:0 "A group called "Assemblée Wallone" has had its first congress. It wants to combat the increasing Flamingtanism, they think the Flemish movement is a threath to Wallonia. Some members only want Wallonia to be autonomous while other members call for the splitting of Belgium. They have made their own parlement for Wallonia in an effort to be more indenpendent. The Walloons, which are known to support the liberals and socialists and dislike the catholic party. Blame the Flemish people for the victory of the catholic party during the 1912 elections. The Flemish side is known for their support of the Catholic party."
+ ww1_belgium.105.a:0 "Waals Belang?"
+ ww1_belgium.106.t:0 "The Congo Reform Association Disbands"
+ ww1_belgium.106.d:0 "The Congo Reform Association is an organization that stands up for human rights in the Belgian Congo. They have made reports on many human rights abuses inside the colony. They have disbanded because they claim that the conditions of natives have improved."
+ ww1_belgium.106.a:0 "Okay"
+ ww1_belgium.107.t:0 "The 3 Kraaiende Hanen"
+ ww1_belgium.107.d:0 "3 Politicians, each from a different party have started protesting for the usage of Dutch language in schools and universities. Flamingants want Belgian education to utilize the Dutch language in the Flemish region. Even though they have been protesting for the last 10 years for change, a law that satifies these demands has not passed."
+ ww1_belgium.107.a:0 "Really?"
+ ww1_belgium.108.t:0 "Belgian Nationalism"
+ ww1_belgium.108.d:0 "After the announcement that Belgium is going to war with Germany, Many started enlisting. This celebration of the Belgian identity has never been seen before. The parlement was full of Belgian flags as the politicians chanted patriotic phrases. The liberal and catholic party has announced their support for the defense of Belgium. The socialists are still quiet as they are ideologically opposed to war."
+ ww1_belgium.108.a:0 "For king and country!"
+ ww1_belgium.109.t:0 "Socialists Announces Support for the War"
+ ww1_belgium.109.d:0 "After a discussion between prominent Socialist politicians, they have decided to support the defense of Belgium. They see it as their duty. They have encouraged followers of their party to join the war or undermine the German invasion."
+ ww1_belgium.109.a:0 "The country unites against German aggresion!"
+ ww1_belgium.110.t:0 "Belgian Nationalism"
+ ww1_belgium.110.d:0 "After the announcement that Belgium is going to war with Germany, Many started enlisting. This celebration of the Belgian identity has never been seen before. The parlement was full of Belgian flags as the politicians chanted patriotic phrases. The liberal, socialist and catholic party has announced their support for the defense of Belgium."
+ ww1_belgium.110.a:0 "For king and country!"
+ ww1_belgium.111.t:0 "The Garde Civique"
+ ww1_belgium.111.d:0 "The Garde Civique is a military police and consists of about 20000 men. In the early days of Belgian indenpendence they were neccesary to defend the cities from foreign aggresion but now they aren't really needed. We could integrate them into the military but the Garde Civique could be great for holding the peace in cities if there was war."
+ ww1_belgium.111.a:0 "Let them stay"
+ ww1_belgium.111.b:0 "Merge it into The Army"
+ ww1_belgium.112.t:0 "Breakout Operation is a Succes"
+ ww1_belgium.112.d:0 "Our troops have been able to infiltrate a POW camp and free Belgian POWS. Our infiltrators have also been able to take a few guns with them which they found in their armories."
+ ww1_belgium.112.a:0 "Nice"
+ ww1_belgium.113.t:0 "Breakout Operation is a Failure"
+ ww1_belgium.113.d:0 "Our troops have failed to infiltrate the POW camps of our enemy. We haven't heard back from them in a while."
+ ww1_belgium.113.a:0 "Sad"
+ ww1_belgium.114.t:0 "Belgian-Dutch Conference is a Succes"
+ ww1_belgium.114.d:0 "After meeting with Dutch representatives, they were happy with the trade proposal and accepted it. There were also discussions about defense of both countries or disputes the nations had with each other."
+ ww1_belgium.114.a:0 "Nice"
+ ww1_belgium.115.t:0 "Belgian-Dutch Conference is a Failure"
+ ww1_belgium.115.d:0 "After meeting with Dutch representatives, the Dutch delegations left without a deal being made. They didn't like that we had disputes with their country. They saw this trade deal as a way for Belgium to influence their nation."
+ ww1_belgium.115.a:0 "Sad"
+ ww1_belgium.116.t:0 "The Luba Attack Belgian Colonists"
+ ww1_belgium.116.d:0 "A Belgian Settler recently reported that a few Congolese militants in the Katanga region has attacked him and his property. This attack strikes fear in the Colonist population of Katanga. Daily activities are sometimes impossible due to the Luba attacks."
+ ww1_belgium.116.a:0 "Oh no"
 
 ### БРАЗИЛІЯ ###
  ww1_brazil.1.t: "Вибори 1910 року: Гермес да Фонсека проти Руї Барбози"
@@ -3831,7 +3879,7 @@ end_tt: "§OВміст, який ми підготували, закінчуєт
  GRE_core_claims: "Інтеграція новопридбаних територій"
  GRE_core_claims_sp: "Інтегрувати [FROM.getName]"
  GRE_reinforce_name: "Посилити адміністрування в [FROM.getName]"
- GRE_hagia_sophia_name:0 "Status of the Hagia Sophia" # (!)
+ GRE_hagia_sophia_decision:0 "Status of the Hagia Sophia" # (!)
  GRE_decisions_to_core_new_territories: "§YUnlock Decisions§! для основних заявлених територій."
 
  GRE_arm_region: "Опір зброї в [FROM.getName]"
@@ -3870,30 +3918,30 @@ end_tt: "§OВміст, який ми підготували, закінчуєт
  ww1_greece.88.d2: "Допомога, надана Центральним державам, викликала невдоволення новообраного прем’єр-міністра Венізелоса, великого ліберала та прихильника справи Антанти. У результаті король Костянтин був змушений вимагати від нього відставки, і тепер король бере на себе повну владу."
  ww1_greece.88.d3: "Допомога, надана Центральним державам, викликала невдоволення члена демократичної опозиції Венізелоса, великого ліберала та прихильника справи Антанти. У результаті король Костянтин мав відправити у відставку фактичного міністра Венізелоса, і тепер король бере на себе повну владу."
  ww1_greece.88.a: "Антанта буде розчарована!"
- GRE_national_schism_flag: "Стався [ROOT.getFlag]§RNational Schism§!"
+ GRE_national_schism_flag: "Стався §YНаціональний розкол§!"
 
  ww1_greece.89.t: "Національний розкол"
- ww1_greece.89.d: "Після усунення прем’єр-міністра Венізелоса на всіх нових північних грецьких територіях відбулося багато мітингів. Місцеве населення в основному підтримує Елефтеріоса Венізелоса та його позицію щодо приєднання до Антанти, тоді як жителі «Старої Греції» бажали залишатися нейтралітетними, підтримуючи антивоєнні настрої, і зібралися навколо Костянтина. Ця напруга призвела до дедалі важливіший розкол не лише грецької політики, а й населення."
+ ww1_greece.89.d.1: "Після усунення прем’єр-міністра Венізелоса на всіх нових північних грецьких територіях відбулося багато мітингів. Місцеве населення в основному підтримує Елефтеріоса Венізелоса та його позицію щодо приєднання до Антанти, тоді як жителі «Старої Греції» бажали залишатися нейтралітетними, підтримуючи антивоєнні настрої, і зібралися навколо Костянтина. Ця напруга призвела до дедалі важливіший розкол не лише грецької політики, а й населення."
+ ww1_greece.89.d.2:0 "Since the defacto assumption of power by king Constantine, many rallies have taken place in all the new northern Greek territories. The local populations there mainly support $GRE_eleftherios_venizelos$, and his position to join the Entente, while the inhabitans of "Old Greece" wish to remain neutral, under an anti-war sentiment and have sticked loyal to Constantine. This tension has led to an increasingly important split of not only Greek politics, but the population as well." # (!)
  ww1_greece.89.a: "Погіршується..."
 
- GRE_balance_venizelos: "§CEleftherios Kyriákou Venizélos§!"
- venizelos_high: "§YVenizelists Dominant§!"
- venizelos_medium: "§YСильний венізелістський настрій§!"
- venizelos_low: "§YПомірні венізелістські настрої§!"
-
- GRE_balance_constantine: "§gКостянтин I§!"
- constantine_high: "§YRoyalists Dominant§!"
- constantine_medium: "§YСильні роялістські настрої§!"
- constantine_low: "§YПомірні роялістські настрої§!"
+ GRE_balance_venizelos: "Eleftherios Kyriákou Venizélos" # (!)
+ venizelos_high: "Venizelists Dominant" # (!)
+ venizelos_medium: "Сильний венізелістський настрій"
+ venizelos_low: "Помірні венізелістські настрої"
+ GRE_balance_constantine: "Костянтин I"
+ constantine_high: "Royalists Dominant" # (!)
+ constantine_medium: "Сильні роялістські настрої"
+ constantine_low: "Помірні роялістські настрої"
 
  GRE_venizelos_constantine_balanced: "Рівновага"
  GRE_venizelos_constantine: "Баланс національного розколу"
  GRE_local_venizelist_support: "Локальна підтримка Venizelist"
  GRE_local_venizelists_support: "Локальна підтримка Venizelist"
 
- GRE_train_irregulars_create_unit_tt: "Створіть §Y[ROOT.GetFlag][ROOT.GetAdjective]§! нерегулярний блок у §Y[ROOT.capital.GetName]§!."
- GRE_train_irregulars_create_unit_tt_qte_7: "Створіть §Y7 [ROOT.GetFlag][ROOT.GetAdjective] нерегулярні одиниці§! у 4 випадкових контрольованих областях."
- GRE_train_irregulars_create_unit_tt_qte_8: "Створіть §Y3 [ROOT.GetFlag][ROOT.GetAdjective] нерегулярні одиниці§! у Смірні."
+ GRE_train_irregulars_create_unit_tt: "Створить §Y[ROOT.GetAdjective]§! частину §Yополчення§! у §Y[ROOT.capital.GetName]§!."
+ GRE_train_irregulars_create_unit_tt_qte_7: "Створить 7 §Y[ROOT.GetAdjective]§! частин §Yополчення§! у §Y4 випадкових контрольованих областях§!."
+ GRE_train_irregulars_create_unit_tt_qte_8: "Створить 3 §Y[ROOT.GetAdjective]§! частини §Yополчення§! в області §Y[339.GetName]§!."
  GRE_greek_intelligence_idea: "Розвідка армії [GRE.getAdjective]"
 
  ww1_greece.90.t: "Нові вибори!"
@@ -3923,15 +3971,17 @@ end_tt: "§OВміст, який ми підготували, закінчуєт
  GRE_will_lose_1: "Поточна дія знизить значення вірності на §R1§!"
  GRE_will_gain_1: "Поточна дія збільшить значення вірності на §R1§!"
  GRE_escalating_schism:0 "Escalating Schism" # (!)
- battle_of_influence: "§C[GRE.getDemocraticLeader]§! і §g[GRE.GetNeutralLeader]§! політично борються один з одним"
- battle_of_influence_royalist_side: "§C[GRE.getDemocraticLeader]§! і §g[GRE.GetNeutralLeader]§! політично борються один з одним"
+ GRE_escalating_schism_desc:0 "What started as disagreements in several policy areas have grown to a total national division. As Venizélists and Royalists are fighting each other in which side of war they should allign with, it seems as this decision won't be settled through peaceful means." # (!)
+ GRE_provisional_government_of_national_defence:0 "Provisional Government of National Defence" # (!)
+ GRE_provisional_government_of_national_defence_desc:0 "Seeing that national schism is growing out of control, Venizélos and his supporters have decided to flee north to their stronghold of Thessaloniki and create a rivaling government to ours." # (!)
+ battle_of_influence: "§Y$GRE_eleftherios_venizelos$§! і §Y$GRE_constantine_i$§! політично борються один з одним"
+ battle_of_influence_royalist_side: "§Y$GRE_eleftherios_venizelos$§! і §Y$GRE_constantine_i$§! політично борються один з одним"
  gather_popular_support: "Зберіть популярну підтримку"
- form_the_thessaloniki_state: "Створити державу Салоніки"
- GRE_local_constantine_support: "Локальна підтримка Костянтина"
+ GRE_suppress_venizelists:0 "Suppress Venizelists" # (!)
 
  is_expanding_influence: "Вже розширює вплив"
  GRE_unlock_decisions_to_suppress_venizelists: "§YUnlock Decision§! щоб придушити Venizelists у штатах і збільшити відданість державі."
- GRE_unlock_decisions_to_kill_venizelos: "§YUnlock Decision§! планувати вбивство Елефтеріоса Кіріаку Венізелоса."
+ GRE_unlock_decisions_to_kill_venizelos: "§YUnlock Decision§! планувати вбивство §YЕлефтеріоса Кіріаку Венізелоса§!.\n"
 
  GRE_retreat_from_new_territories: "Відступ з нових територій"
 
@@ -3943,7 +3993,7 @@ end_tt: "§OВміст, який ми підготували, закінчуєт
 
  GRE_FRA_expansion_of_macedonian_front: "Франція розширила Македонський фронт"
  GRE_national_defense_flag: "Національний штат оборони сформовано"
- gre_epistratoi: "Епістратой"
+ GRE_epistratoi: "Епістратой"
  gre_federacion_kicked: "Федерацію вигнано"
  gre_limited_neutrality_flag: "Грецький обмежений нейтралітет"
  GRE_pr_elections: "Нова виборча система"
@@ -4353,7 +4403,7 @@ end_tt: "§OВміст, який ми підготували, закінчуєт
  ww1_greece.193.d: "Наші війська дуже звикли воювати на пагорбах і рівнинах, але ця анатолійська місцевість, заповнена горами та пустелею, значно перешкоджала Малоазійській кампанії. Це стає для нас усе важчим, але повинно бути легко перемогти кілька турецьких нерегулярних формувань, правда?"
  ww1_greece.193.a: "Ми е-е-е..."
 
- GRE_deploy_2_elite_divisions: "Розгорніть 2 §Y[GER.getFlag][GER.getAdjective] елітні дивізії§! у складі §Yз 9 піхотою та артилерією, розвідувальною та інженерною підтримкою§! в §YАфінах§!."
+ GRE_deploy_2_elite_divisions: "Розгорніть 2 §Y[GER.getAdjective]§! частини §Yштурмових загонів§! у складі §Yз 9 піхотою та артилерією, розвідувальною та інженерною підтримкою§! в області §Y[GRE.capital.GetName]§!."
  GRE_rebuilding_the_nation: "Відбудова нації"
  gre_do_ur_focuses_dumbass: "§RВи повинні завершити всі свої фокуси, перш ніж завершити цей!§!"
  gre_stop_turkish_raids: "На нас більше не будуть §Yнабіги§! §Yтурецьких нерегулярних сил§!."
@@ -4486,6 +4536,11 @@ generic.102.a: "Розчаровує."
  kis_news.143.d:0 "З’явилися новини з Нідерландів, у яких розповідається про невдалу спробу розпочати соціалістичну революцію після тижня хаосу. Невдала революція є наслідком постійного дефіциту продовольства в Нідерландах, а також різке зростання безробіття та бідності в країні за останні кілька років. Оскільки нація страждає, соціалісти вирішили скористатися своїм шансом, викликавши масові протести в Нідерландська поліція швидко підкріпила міста, які зіткнулися з масовими протестами, поліцейськими, які швидко затримали та заарештували соціалістичних агітаторів. повстання в своїх націях."
  kis_news.143.a:0 "Чи пошириться революція на Західну Європу?"
 
+ ww1_holland.14.t:0 "The Belgians Invite us to a Conference" # (!)
+ ww1_holland.14.d:0 "Belgian representatives have invited us to a conference to discuss the relations between Holland and Belgium. They wanted to talk about defense and disputes but they proposed we have a mutually beneficial trade agreement first." # (!)
+ ww1_holland.14.a:0 "Sure" # (!)
+ ww1_holland.14.b:0 "We don't talk to Belgians" # (!)
+
 ### МЕКСИКА ###
  mexican_revolution: "Мексиканська революція"
  ww1_mexico.1.t: "Мексиканська революція"
@@ -4557,12 +4612,18 @@ generic.102.a: "Розчаровує."
  ww1_montenegro.2.a: "Зрадники."
  ww1_montenegro.3.t: "Верховне командування Чорногорії"
  ww1_montenegro.3.d: "Чорногорія, наш союзник, не має верховного командування. У них ніколи не було офіцерів, і це може їх приректи. Ми повинні надіслати їм когось, щоб допомогти організувати їхній захист, оскільки вони не мають достатнього досвіду, щоб організувати свою боротьбу. Чи можемо ми послати до них одного з наших більш досвідчених генералів?"
- ww1_montenegro.3.a: "Так, ми можемо відправити їм генерала Янковича, ми не без генералів"
- ww1_montenegro.3.b: "Ні, ми вже на останньому кінці"
+ ww1_montenegro.3.a: "Так, ми можемо відправити їм генерала Янковича, ми не без генералів."
+ ww1_montenegro.3.b: "Ні, ми вже на останньому кінці."
  ww1_montenegro.4.t: "Асамблея Подгориці"
- ww1_montenegro.4.d: "Асамблея вимагає зречення монарха за його нездатність врятувати країну від поразки у Великій війні."
- ww1_montenegro.4.d2: "Тепер, коли наші південнослов’янські брати здобули перемогу у Великій війні та отримали радість незалежності, ми будемо йти шляхом єдності, але це прийшло раніше, ніж ми очікували. На асамблеї в Подгориці, яка зібрався для національної єдності, партії, які підтримує сербський уряд, вимагають зречення нашого короля і негайної анексії Сербії."
- ww1_montenegro.4.a: "Добре."
+ ww1_montenegro.4.d:0 "After the Great War, an ad hoc popular assembly was convened in Podgorica, Montenegro, while King Nikola had not yet returned to his homeland. Their goal was to force Nikola to abdicate and push unconditional union with Serbia. The Whites, who support unification, and the Greens, who oppose the Whites, favoring independence or union with Serbia as an equal partner. Theyn amed after the color of the paper used to print Podgorica Assembly candidate lists. As a result of the vote, the Whites secured a majority in the assembly." # (!)
+ ww1_montenegro.4.a:0 "Present the resolution to Serbia!" # (!)
+ ww1_montenegro.5.t:0 "The Podgorica Assembly Decides to Union With Serbia" # (!)
+ ww1_montenegro.5.d:0 "The Podgorica Assembly in Montenegro sent a fifteen-member delegation led by Bishop of the Serbian Orthodox Church Gavrilo Dožić, which now are presenting the resolution of union with Serbia and Montenegro." # (!)
+ ww1_montenegro.5.a:0 "Wonderful!" # (!)
+ ww1_montenegro.6.t:0 "The Greens Uprising" # (!)
+ ww1_montenegro.6.d:0 "Dissatisfied with annexation of Montenegro, the Greens led an uprising in Montenegro. Pro-annexation Whites and our troops joined forces to stop them, leading to fighting near Cetinje and Podgorica." # (!)
+ ww1_montenegro.6.a:0 "What a lamentable fratricide." # (!)
+ ww1_montenegro.6.b:0 "Slava Crnoj Gori!\n(Play as [MNT.GetFlag]Montenegro)" # (!)
  ww1_montenegro.15.t: "Проголошено Королівство Чорногорія"
  ww1_montenegro.15.d: "Князь Чорногорії Микола проголосив Королівство Чорногорія сьогодні в Цетіньє, піднявши країну з рангу князівства. З 1860 року принц правив країною та ініціював кілька модернізаційних реформ."
  ww1_montenegro.15.a: "Нехай він царює"
@@ -4733,7 +4794,7 @@ ww1_turkey.24.t: "Повернення Енвера"
 ww1_turkey.24.d: "Паша, який раніше був у вигнанні, Ісмаїл Енвер Паша, чекав свого часу, щоб остаточно скинути керівництво Національного руху. Оскільки нинішнє керівництво так далеко відступило, Енвер нарешті може зробити свій крок і консолідувати свою владу над рухом."
 ww1_turkey.24.a: "Подивіться, як ми боремося один з одним замість того, щоб боротися з ворогом."
 ww1_turkey.25.t: "Карський договір"
-ww1_turkey.25.d: "Турецький національний рух звернувся до нас з наміром остаточно визначити кордони між нашими двома націями на Кавказі. Ми можемо погодитися на їхні кордони "Ahd-ı Milli», що означає, що ми дамо їм [855.GetName], [816.GetName] і [789.GetName] для забезпечення безпеки нашого південного кордону, або ми можемо вимагати, щоб кордони були встановлені на лінії старої Російської імперії та Османської імперії, якщо обидва варіанти нас не задовольняють, ми можемо просто залишити зустріч."
+ww1_turkey.25.d: "Турецький національний рух звернувся до нас з наміром остаточно визначити кордони між нашими двома націями на Кавказі. Ми можемо погодитися на їхні кордони "Ahd-ı Milli», що означає, що ми дамо їм [855.GetName], [816.GetName] і [806.GetName] для забезпечення безпеки нашого південного кордону, або ми можемо вимагати, щоб кордони були встановлені на старі російські й османські лінії, якщо обидва варіанти нас не задовольняють, ми можемо просто залишити зустріч."
 ww1_turkey.25.a: "Ми можемо погодитися на ці кордони."
 ww1_turkey.25.b: "Ми будемо задоволені лише старими кордонами."
 ww1_turkey.25.c: "Немає угоди з турками."
@@ -5215,17 +5276,17 @@ ottoman.47.a: "Спочатку ми повинні запитати Росію.
 ottoman.47.b: "Впусти їх."
 ottoman.47.c: "У нас інші плани щодо них..."
 ottoman.471.t: "Османи в Антанті?"
-ottoman.471.d: "Османи нещодавно попросили французів приєднатися до Антанти та виступити на нашому боці в майбутніх конфліктах. Проте, будучи головним французьким союзником на сході, вони потребують нашого схвалення з цього питання. Наше рішення вирішить, чи ми Подружишся з хворим або знайдеш нового супротивника на сході."
+ottoman.471.d: "Османи нещодавно попросили приєднатися до Антанти та виступити на нашому боці в майбутніх конфліктах. Наше рішення вирішить, чи ми Подружишся з хворим або знайдеш нового супротивника на сході."
 ottoman.471.a: "Союзник завжди залишається союзником."
 ottoman.471.b: "Вимагати доступу через протоки."
 ottoman.471.c: "Вимагайте їх підпорядкування"
 ottoman.471.e: "Вони не впустять."
 ottoman.472.t: "Російський прохід через протоки?"
-ottoman.472.d: "Оскільки ми попросили приєднатися до Антанти, провідного французького альянсу, французи повинні були попросити свого головного східного партнера Росію про наш вступ до альянсу. З цього приводу Росія висуває власні вимоги до нашого вхід.\nЯкщо ми хочемо приєднатися до Антанти, заявляє Росія, Османи повинні відкрити свої протоки для російських військових суден і погодитися на причалювання морських суден до своїх портів."
+ottoman.472.d: "Оскільки ми попросили приєднатися до Антанти, [ENT.GetName] повинна була попросити свого головного східного партнера, Росію, про наш вступ до альянсу. З цього приводу Росія висуває власні вимоги до нашого вхід.\nЯкщо ми хочемо приєднатися до Антанти, заявляє Росія, Османи повинні відкрити свої протоки для російських військових суден і погодитися на причалювання морських суден до своїх портів."
 ottoman.472.a: "Ми можемо погодитися на це."
 ottoman.472.b: "Ці вимоги є неприйнятними."
 ottoman.473.t: "Російський прохід через протоки?"
-ottoman.473.d: "Оскільки ми попросили приєднатися до Антанти, провідного французького альянсу, французи повинні були попросити свого головного східного партнера Росію про наш вступ до альянсу. З цього приводу Росія висуває власні вимоги до нашого вступ.\nЯкщо ми хочемо приєднатися до Антанти, заявляє Росія, Османам доведеться наслідувати приклад Росії в зовнішніх справах, де-факто носити повідок і стати росіянами протекторат."
+ottoman.473.d: "Оскільки ми попросили приєднатися до Антанти, [ENT.GetName] повинна була попросити свого головного східного партнера, Росію, про наш вступ до альянсу. З цього приводу Росія висуває власні вимоги до нашого вступ.\nЯкщо ми хочемо приєднатися до Антанти, заявляє Росія, Османам доведеться наслідувати приклад Росії в зовнішніх справах, де-факто носити повідок і стати російським протекторатом."
 ottoman.473.a: "Ми можемо погодитися з цим."
 ottoman.473.b: "Ці вимоги є неприйнятними."
 ottoman.474.t: "Османи погоджуються на вимоги Росії"
@@ -5237,11 +5298,11 @@ ottoman.475.a: "Не можу змусити їх це зробити."
 ottoman.476.t: "Османська війна за незалежність"
 ottoman.476.d: "Османи потрапили під нашу сферу в рамках угоди щодо їхнього приєднання до Антанти. Проте наша нещодавня війна з німцями залишила нас не в змозі тримати наших нових османських «партнерів» на відстані. Оскільки німці просуваються на нашому фронті османи скористалися цією можливістю, щоб проголосити власну незалежність."
 ottoman.476.a: "Ці божевільні турки."
-ottoman.48.t: "Франція приймає нас до свого альянсу"
-ottoman.48.d: "Побачивши в нас потенціал, французи погодилися на наш вступ до їхньої фракції."
+ottoman.48.t: "[ENT.GetName] приймає нас до свого альянсу"
+ottoman.48.d: "Побачивши в нас потенціал, [ENT.GetName] погодилася на наш вступ до їхньої фракції."
 ottoman.48.a: "Ми більше не ізольовані!"
-ottoman.49.t: "Франція забороняє нам в'їзд"
-ottoman.49.d: "Французи відмовили нам у вступі до нашого альянсу. Виявляється, у них «інші» плани щодо нас..."
+ottoman.49.t: "[ENT.GetName] забороняє нам в'їзд"
+ottoman.49.d: "[ENT.GetName] відмовила нам у вступі до нашого альянсу. Виявляється, у них «інші» плани щодо нас..."
 ottoman.49.a: "Я думаю, ми спробуємо наш шанс з німцями."
 ottoman.50.t: "Османи просять приєднатися до нашої фракції"
 ottoman.50.d: "З наростанням напруженості в Європі османи боялися, що їхня дипломатична ізоляція призведе до падіння їхньої імперії. Тому з наміром врятувати свою імперію вони звернулися до нас із проханням приєднатися до нашого альянсу."
@@ -6406,9 +6467,9 @@ ww1_qing.1.t: "Ми візьмемо Париж"
 ww1_qing.1.d: "Ми офіційно перебуваємо у стані війни з Францією. Найталановитіші командири імперської армії готові очолити війська та здійснити цей великий похід через всю Євразію!"
 ww1_qing.1.a: "Так, бой!"
 ww1_qing.2.t: "Доля армії Бейян"
-ww1_qing.2.d: "Армія Бейян є дуже впливовою частиною Нової армії. Їхній вплив на нашу політику ускладнює ефективне управління. Існує загальний страх, що ці мілітаристи спробують захопити владу. їхня служба і вміння є безцінними для наших збройних сил чи, можливо, ми повинні прийняти їх до нашого уряду."
-ww1_qing.2.a: "Виконайте їх."
-ww1_qing.2.b: "Деполітизуйте їх."
+ ww1_qing.2.d:0 "This morning, troops from the Beiyang Army surrounded the imperial court completely during the morning assembly. The commander of the Beiyang Army, Yuan Shikai, personally petitioned the emperor, claiming that there were 'subversive' elements within the court plotting a coup to establish a republic. He demanded permission for his troops to escort the emperor and oversee anti-revolutionary affairs directly. They took this action, which bordered on military rebellion, because the court's recent policies had moved towards eliminating the influence of the Beiyang Army.\nTheir demands are devastating. Yuan Shikai accused reformist officials such as Kang Youwei and Liang Qichao of being the ringleaders of the conspiracy, and requested the dismissal and exile of Manchu high officials such as Zaifeng, who had 'aided' the reformists." # (!)
+ ww1_qing.2.a:0 "We must get rid of them..." # (!)
+ ww1_qing.2.b:0 "Just make sure they don't get upset..." # (!)
 puyi_age: "Пуї 16 років"
 ww1_qing.3.t: "Імператор росте"
 ww1_qing.3.d: "Пуї досяг свого 20-річчя, тому він має право взяти на себе більшість обов’язків Імператора. До цього дня було багато злетів і падінь і криз, але він нарешті успадкував усі обов’язки справжнього імператора."
@@ -6448,8 +6509,8 @@ ww1_qing.12.t: "Смерть Іцюаня"
 ww1_qing.12.d: "Aisin Gioro Yi Quang, колишній прем'єр-міністр, який служив імператору та відповідав за державні справи, помер від хвороби. Він виступав проти вторгнення західної культури, і разом з Лі Хунчжаном він був одним із Уповноважені особи підписання Боксерського протоколу. В останні роки свого перебування на посаді прем’єр-міністра він пережив Сіньхайську революцію."
 ww1_qing.12.a: "Спочивай з миром."
 ww1_qing.13.t: "Юань Шикай убитий!"
-ww1_qing.13.d: "Лідер кліки Beiyang, Юань Шикай, був застрелений нападником. Це сталося через три дні після того, як він пішов у відставку з усіх державних посад за пропозицією імператора та залишився у своєму домі. знайшли мертвим, коли доглядач його будинку перевірив його, і багато генералів і чиновників збираються в Пекіні, щоб запропонувати Співчуття.\nПісля його смерті вже вся країна кипить від чуток і тривоги, дехто каже, що помічено багато підозрілих військових дій."
-ww1_qing.13.a: "Шокуюче!"
+ ww1_qing.13.d:0 "Yuan Shikai, the leader of the Beiyang Clique, was shot and killed by an assailant. This occurred a few days after he staged a military coup to 'assist' the emperor. The caretaker of his home found him dead when he checked on him, and many generals and officials have gathered in Beijing to offer condolences.\nFollowing his death, the whole country is already boiling with rumours and anxiety. The Beiyang Army has interpreted this as instigation by the imperial court, openly and presumptuously clamouring for the Emperor's deposition. Meanwhile, the revolutionaries, which had lain low since the last civil war, is once again stirring up the subjects. Some say that many suspicious military activities have been spotted." # (!)
+ ww1_qing.13.a:0 "I didn't do that!" # (!)
  ww1_qing.15.t:0 "Negotiations Collapse" # (!)
  ww1_qing.15.d:0 "The North-South Conference in Shanghai has ended without any agreement. The deep distrust between the old regime and the revolutionaries could not be overcome. The last hope of avoiding bloodshed through a peaceful compromise has vanished, and the time for diplomacy is over. From now on, the fate of China will be decided not at the negotiating table, but on the battlefield."
  ww1_qing.15.a:0 "Sweep away the rebels!"
@@ -6671,7 +6732,7 @@ ww1_china.47.a: "Проклятий Чень і ці революціонери!
 ww1_china.47.b: "Громадянський націоналізм, права на управління, права на добробут!"
 ww1_china.47.b.tt: "§YВи можете грати за §BKuomintang§! або §3Zhigongdang§! у цій опції.§!"
 ww1_china.48.t: "Інцидент Юн Фенг"
- ww1_china.48.d:0 "Chen Jiongming, a Guangdong warlord vehemently opposed to Sun Yat-sen's plans for a Northern Expedition, launched a coup in Guangzhou. Chen believed that Sun Yat-sen, by disregarding his vision of 'federated autonomy' and pushing for a reckless Northern Expedition, would only bring greater hardship to Guangdong. Following the assassination of Sun Yat-sen's close aide, Deng Keng, Chen decisively moved to seize control of Guangzhou as the Northern Expeditionary Army headed to the front lines.\nSun Yat-sen, however, was in disbelief at the time. He had remarked, "Chen Jiongming may not be a good man, but he wouldn't do such a thing. And surely his subordinates aren't so devoid of human decency as to participate in such an evil act." He went to sleep, only to be awakened by the shocking sound of enemy guns advancing in the early hours of the morning. Chen Jiongming's forces swiftly besieged and attacked the Presidential Palace and the Guangdong Government offices. Sun Yat-sen was forced into a desperate escape from the palace, fleeing overland to take refuge aboard the Yongfeng warship. From there, he urgently ordered the Northern Expeditionary Army to return.\nDuring this critical period of crisis, Sun Yat-sen remained on the Yongfeng warship, personally directing the defense. It was then that Chiang Kai-shek, a revolutionary party member, immediately joined him on board. For over 40 days, Chiang provided close assistance to Sun Yat-sen, proving his unwavering loyalty and earning Sun Yat-sen's profound trust. Despite this, the Kuomintang forces on the ground were defeated before the Northern Expeditionary Army could return, forcing Sun Yat-sen to temporarily retreat to Shanghai. Nevertheless, the Northern Expeditionary Army remained intact and was now advancing towards Guangzhou under Sun Yat-sen's orders." # (!)
+ ww1_china.48.d:0 "Chen Jiongming, a Guangdong warlord vehemently opposed to Sun Yat-sen's plans for a Northern Expedition, launched a coup in Guangzhou. Chen believed that Sun Yat-sen, by disregarding his vision of 'federated autonomy' and pushing for a reckless Northern Expedition, would only bring greater hardship to Guangdong. Following the assassination of Sun Yat-sen's close aide, Deng Keng, Chen decisively moved to seize control of Guangzhou as the Northern Expeditionary Army headed to the front lines.\nSun Yat-sen, however, was in disbelief at the time. He had remarked, "Chen Jiongming may not be a good man, but he wouldn't do such a thing. And surely his subordinates aren't so devoid of human decency as to participate in such an evil act." He went to sleep, only to be awakened by the shocking sound of enemy guns advancing in the early hours of the morning. Chen Jiongming's forces swiftly besieged and attacked the Presidential Palace and the Guangdong Government offices. Sun Yat-sen was forced into a desperate escape from the palace, fleeing overland to take refuge aboard the Yungfeng warship. From there, he urgently ordered the Northern Expeditionary Army to return.\nDuring this critical period of crisis, Sun Yat-sen remained on the Yungfeng warship, personally directing the defense. It was then that Chiang Kai-shek, a revolutionary party member, immediately joined him on board. For over 40 days, Chiang provided close assistance to Sun Yat-sen, proving his unwavering loyalty and earning Sun Yat-sen's profound trust. Despite this, the Kuomintang forces on the ground were defeated before the Northern Expeditionary Army could return, forcing Sun Yat-sen to temporarily retreat to Shanghai. Nevertheless, the Northern Expeditionary Army remained intact and was now advancing towards Guangzhou under Sun Yat-sen's orders." # (!)
 ww1_china.48.a: "Дурень!"
 ww1_china.48.a.tt: "§YГрати за [KMT.GetFlag]§BKuomintang§! і дотриматися ідеї Північної експедиції, щоб возз'єднати Китай.§!"
  ww1_china.48.b:0 "Realpolitik is better than pathetic Sun Yat-sen's ideology!" # (!)
@@ -6700,10 +6761,8 @@ ww1_china.54.d_alt: "Сунь Ятсен, один із провідних ді�
 ww1_china.54.a: "Всі сумують в пам'ять про нього..."
 ww1_china.54.b: "Почесний головний дух для кожного китайця."
 ww1_china.55.t: "Крах великого Цин"
-ww1_china.55.d: "Після серії громадянських війн і незалежності клік Великий Цин, який мав лише форму, був повністю розділений на кілька клік і урядів. Ви можете вибрати, куди очолити і знову об’єднати Китай."
-ww1_china.55.a: "[QIN.GetNameDef] ще не мертвий!"
-ww1_china.55.b: "[JNC.GetNameDef] є наступником Сіньхайської революції."
-ww1_china.55.c: "[FNG.GetNameDef] підглядає за можливістю."
+ww1_china.55.d:0 "The Qing Empire, a house of cards, ultimately collapsed into numerous factions and regional governments. The authority of the Qing dynasty is limited to the vicinity of Peking. In the absence of a single dominant force - whether the imperial court, warlords, or revolutionaries - China's future has become uncertain, and the nation has entered a complex and intricate situation." # (!)
+ww1_china.55.a: "[QIN.GetNameDefCap] іще не мертва!"
 ww1_china.56.t: "Ера воєначальників"
 ww1_china.56.d: "Після серії громадянських війн і незалежності клік Об’єднаний Китай, який мав лише форму, знову був повністю знищений."
 ww1_china.56.a: "Хто об’єднає Центральні рівнини?"
@@ -6716,13 +6775,10 @@ ww1_china.58.t: "Революційні соціалісти повстають!
 ww1_china.58.d: "Революційні соціалісти підняли бунт у Цзянсі, захопивши урядові установи та арсенали, щоб проголосити свою незалежність. Вони проголосили радянську республіку та вимагали знову об’єднати весь Китай під керівництвом революційно-соціалістичної партії та її ідеології."
 ww1_china.58.a: "Виметіть цих щурів!"
 ww1_china.58.b: "Робітники та селяни всього Китаю, єднайтеся!\n(Грати за [PRC.GetNameWithFlag])"
-ww1_china.59.t: "Війна з Гоміньцзюном"
-ww1_china.59.d: "Під час останньої війни проти [ZHC.GetName] у [FNG.GetName] не було іншого вибору, як поділити окуповані території з [GMJ.GetName]. Однак альянс було реорганізовано, і ми збираючись забрати в них ці провінції..."
-ww1_china.59.a: "Давайте все-таки битися."
-ww1_china.59.b: "Н-а."
-ww1_china.60.t: "Кінець війни Чжилі-Фентянь-ФенЮшан"
-ww1_china.60.d: "Гуоміньцзюнь зазнав поразки від різних угруповань і втратив свою базу в Пекіні. Кліка Фентянь знову в центрі уваги. Але, схоже, щось готується на Півдні, поки вони жорстоко борються між собою..."
-ww1_china.60.a: "Гоміндан уже в дорозі..."
+ ww1_china.59.d:0 "Chen Jiongming, a Guangdong warlord vehemently opposed to KMT plans for a Northern Expedition, launched a coup in Guangzhou. Chen believed that the party, by disregarding his vision of 'federated autonomy' and pushing for a reckless Northern Expedition, would only bring greater hardship to Guangdong. Following the funeral of Sun Yat-sen, Chen decisively moved to seize control of Guangzhou as the party was paralyzed the president's absence.\nThe party leadership shocked and tried to convince him for good will, but Chen Jiongming's forces swiftly besieged and attacked the Presidential Palace and the Guangdong Government offices. [ROOT.GetLeader] was forced into a desperate escape from the office, fleeing overland to take refuge aboard the Yungfeng warship. From there, he urgently ordered the Northern Expeditionary Army to return.\nDuring this critical period of crisis, the provisional president office remained on the Yungfeng warship, directing the defense. It was then that Chiang Kai-shek, a revolutionary party member, immediately joined him on board. For over 40 days, Chiang provided close assistance to the leadership, leading the troops, proving his unwavering loyalty and earning profound trust within the party leadership. Army was in chaos, nevertheless, the revolutionaries remained intact and was secured Guangzhou under command orders."
+ ww1_china.60.t: "Окупація Монґолії" # ((#))
+ ww1_china.60.d:0 "No one can interfere with our reintegration of Outer Mongolia, our legitimate territory. We will notify the Mongolian leadership through the Chinese consul in Mongolia of the abolition of Outer Mongolian autonomy and the dispatch of Chinese troops."
+ ww1_china.60.a:0 "Kowtow before our might and the national flag!"
 ww1_china.61.t: "Кінець Північної експедиції"
 ww1_china.61.d: "Китай повернувся під правління Гоміньдану після розпуску уряду Бейяна в північному Китаї. Хоча вплив воєначальників і політична нестабільність ще не закінчилися, Гоміньдан зараз є фактично провідною партією в китайському центральному уряді."
 ww1_china.61.a: "Китайська єдність..."
@@ -7605,6 +7661,9 @@ ww1_china.229.a: "Прокляті зрадники!"
  ww1_china.322.t:0 "Founding of 'Youth Magazine'"
  ww1_china.322.d:0 "The intellectual Chen Duxiu, a prominent figure in our nation, has founded 'Youth Magazine' in Shanghai. The magazine declares a complete break from what it calls 'old and rotten' traditional Confucian thought, issuing a clarion call for an awakening among the youth of China.\n\nIn his inaugural address, 'A Call to Youth,' Chen Duxiu passionately argues that only 'Mr. De' (Democracy) and 'Mr. Sai' (Science) can save China from the diseases of its ancient past. His arguments are resonating with countless intellectuals and students, heralding the beginning of the great 'New Culture Movement'—a movement dedicated to critiquing old ideas and exploring Western concepts of liberalism and individualism.\n\nAs a standard-bearer of new ideas against an old era, Chen Duxiu is now emerging as a figure who will greatly influence the future of our nation."
  ww1_china.322.a:0 "The dawn of a new era."
+ ww1_china.323.t:0 "Nine-Power Treaty"
+ ww1_china.323.d:0 "The major powers that signed the Naval Treaty also agreed to the Open Door Policy in China for the sake of peace and prosperity. Each country agreed to respect China's sovereignty and independence, and to ensure the establishment of a stable regime and equal commercial and industrial opportunities for all countries within China. They also agreed to refrain from granting any special privileges or benefits in the future."
+ ww1_china.323.a:0 "A peace in East Asia?"
 
 ww1_xinjiang.1.t: "Ян Цзенсінь убитий"
 ww1_xinjiang.1.d: "Ян Цзенсінь, правитель провінції Сіньцзян, яка зберегла свою фактичну незалежність від центральної частини Китаю, став мішенню та вбитий націоналістами. Після внутрішньої політичної боротьби один із поплічників Яна, Цзінь Шурень, захопив контроль над провінцією."
@@ -8234,9 +8293,9 @@ ww1_usa.167.a:0 "Демократи повертаються до консерв
 ww1_usa.168.t:0 "Роберт М. Ла Фоллет обраний президентом!"
 ww1_usa.168.d:0 "За підсумками виборів прогресивний кандидат Роберт М. Ла Фоллетт був обраний 30-м президентом держави [USA.GetNameDef], перемігши республіканця Келвіна Куліджа та кандидата від Демократичної партії Джона В. Девіса. Ла Фоллетт, затятий прихильник прав працівників і державного регулювання великого бізнесу, проводив кампанію на амбітній платформі економічних реформ, антимонопольного законодавства та соціальних Його перемога свідчить про різкі зміни в американській політиці, коли виборці згуртувалися навколо його обіцянки кинути виклик корпоративній владі та підтримати профспілки. робітничий клас, знаменуючи нову еру в політиці США."
 ww1_usa.168.a:0 "США починають радикальний прогресивізм"
-ww1_usa.169.t:0 "Роберт М. Ла Фоллет переобраний президентом!"
-ww1_usa.169.d:0 "Історичним досягненням є те, що президент Роберт М. Ла Фоллетт отримав другий термін на посаді, перемігши свого опонента від республіканців і демократів на цих виборах. регулювання та соціального забезпечення, отримав значну підтримку виборців робітничого класу, профспілок і сільських громад. Його перемога підтверджує Сильна підтримка Америки його прогресивної програми, що свідчить про продовження зусиль щодо стримування корпоративної влади, підтримки економічної рівності та розширення соціального захисту. У той час як Ла Фоллетт готується до свого другого терміну, очікується, що його адміністрація просуватиметься ще далі, маючи амбітні плани щодо націоналізації послуг. справедливі заробітні плати та сильніший державний нагляд залишаються активними, з Ла Фоллеттом на чолі, який веде націю через епоху. перетворення."
-ww1_usa.169.a:0 "Америка рухається до ще чотирьох років реформ"
+ ww1_usa.169.t:0 "Champ Clark Wins the [GetYear] U.S. Election" # (!)
+ ww1_usa.169.d:0 "Democratic nominee for president Champ Clark has won the 1916 US presidential election. Clark, a representative from Missouri ran for the democratic nomination for president in 1912 but lost to his main contender, Woodrow Wilson.\nClark supports many of the policies of progressive leaning democrats, such as tariff reductions and antitrust measures.However, he is not without his controversies, making controversial statements in the past, especially about Canada, saying the “American flag will fly over every square foot of British North America up to the North Pole.”\nClark’s presidency will certainly be an interesting one with his support for an annexation of Canada and his more neutral foreign policy." # (!)
+ ww1_usa.169.a:0 "The Democrats finally have their victory" # (!)
 ww1_usa.170.t:0 "Джеймс М. Кокс переобраний президентом!"
 ww1_usa.170.d:0 "Президент Джеймс М. Кокс був переобраний на другий термін, перемігши республіканського претендента на виборах 1924 року. Перший термін Кокса зосереджувався на прогресивних реформах, включаючи захист праці, розвиток інфраструктури та підтримку освіти, які викликали резонанс у виборців по всій країні. Акцент його адміністрації на соціальному забезпеченні та економічній модернізації зміцнив його підтримку, особливо серед міських робітників Очікується, що з цією перемогою Кокс продовжить просувати свою прогресивну програму, зосереджуючись на покращенні прав працівників, розширенні соціальних програм і стабілізації економіки, нація готується до наступних чотирьох років амбітних реформ, спрямованих на побудову більш справедливої та процвітаючої Америки."
 ww1_usa.170.a:0 "Прогресивний порядок денний продовжується"
@@ -8411,7 +8470,7 @@ ww1_kiautschou.6.t: "Цинтау впав!"
 ww1_kiautschou.6.d: "Бухта Кіаучу та Цінтау захопили японці! Яка ганьба у нас тут..."
 ww1_kiautschou.6.a: "Scheiße!"
 ww1_kiautschou.7.t: "Повернення Шаньдуна"
-ww1_kiautschou.7.d: "Нам не дозволено продовжувати окупацію Шаньдуна, оскільки ми підписали Вашингтонський договір."
+ww1_kiautschou.7.d: "Нам не дозволено продовжувати окупацію Шаньдуна, оскільки ми підписали Договір дев'яти держав."
 ww1_kiautschou.7.a: "Ми повернемося..."
 ww1_kiautschou.8.t: "Двадцять одна вимога"
 ww1_kiautschou.8.d: "Ми взяли під контроль німецьку затоку Кіаучу та володіння Шаньдун під час війни. Як сторона-переможець у Великій війні ми тепер формально вимагатимемо, щоб китайський уряд поступився нам усім."
@@ -8473,8 +8532,8 @@ ww1_russia.32.t:0 "Створення Закавказького комісар�
 ww1_russia.32.d:0 "Тимчасовий коаліційний уряд Закавказзя за участю грузинських меншовиків, правих есерів, вірменських дашнаків і азербайджанських мусаватів створено в Тифлісі.\n\nЗростає етична напруга. все вище і вище, а солдати дезертирують масами, невідомо, як довго проіснує це політичне утворення."
 ww1_russia.32.a:0 "Малоймовірний союз."
 ww1_russia.33.t:0 "Утворення Закавказької Демократичної Федеративної Республіки"
-ww1_russia.33.d:0 "Комісаріат вирішив зміцнити грузино-вірмено-азербайджанський союз шляхом скликання загальних зборів."
-ww1_russia.33.a:0 "Крок у правильному напрямку."
+ ww1_russia.33.d:0 "In the face of relentless Ottoman military advances, the Transcaucasian Seim has made a historic decision. With the Ottomans offering to resume peace talks only if we declare ourselves an independent state, the Georgian National Council has championed the cause of independence. Despite initial opposition from some Armenian and Azerbaijani factions, a motion was put forth to proclaim the Transcaucasian Democratic Federative Republic. The motion was passed with few dissents, as many deputies who opposed the idea chose to leave the chamber rather than vote against it. This new federated state has now been formally established, and we have immediately informed the Ottomans that we are ready to accept the terms of the Treaty of Brest-Litovsk in a bid to secure peace." # (!)
+ ww1_russia.33.a: "Дорогий, але необхідний крок."
 ww1_russia.38.t:0 "Криза Держдуми"
 ww1_russia.38.d:0 "Ситуація в Думі різко погіршилася. Монархічні партії утворюють в Думі єдину коаліцію, у відповідь на це кадети-конституціоналісти і помірковані ліберали несподівано об'єднуються з соціалістами, яким заборонили брати участь у зборах Думи ця політична криза вже вважається найбільшою з 1905 р. І якщо царю не вдасться послабити демокр. коаліції, то революція може знову шокувати Росію."
 ww1_russia.38.a:0 "Російської революції ніхто не очікує."
@@ -8918,23 +8977,23 @@ ww1_cer_rcw.2.d: "На вимогу Дмитра Хорвата китайськ
 ww1_cer_rcw.2.a: "Дякуємо за відновлення порядку!"
 
 ww1_rcw_unification.1.t: "Відновлення цілісності Росії"
-ww1_rcw_unification.1.d: "З закінченням громадянської війни центральний уряд Москви на чолі з [FROM.getLeader] попросив нас розглянути всеросійський союз."
+ww1_rcw_unification.1.d: "З закінченням громадянської війни центральний уряд міста [FROM.Capital.GetCapitalVictoryPointName] на чолі з [FROM.getLeader] попросив нас розглянути всеросійський союз."
 ww1_rcw_unification.1.a: "Звичайно!"
 ww1_rcw_unification.1.b: "Ми відмовляємося!"
-ww1_rcw_unification.2.t: "[FROM.getName] приєднатися до нової Росії"
-ww1_rcw_unification.2.d: "[FROM.getAdjective] Уряд [FROM.getName] погодився приєднатися до наших зусиль з відновлення країни!"
-ww1_rcw_unification.2.a: "Чудово!"
-ww1_rcw_unification.3.t: "[FROM.getName] не хоче приєднуватися до нас!"
-ww1_rcw_unification.3.d: "[FROM.getAdjective] Уряд [FROM.getName] відмовився приєднатися до наших зусиль з відновлення країни!"
+ww1_rcw_unification.2.t: "[FROM.GetName] приєднатися до нової Росії"
+ww1_rcw_unification.2.d: "[FROM.GetAdjective] уряд міста [FROM.Capital.GetCapitalVictoryPointName] погодився приєднатися до наших зусиль з відновлення країни!"
+ ww1_rcw_unification.2.a:0 "Great!" # (!)
+ ww1_rcw_unification.3.t:0 "[FROM.GetName] Breaks Away!" # (!)
+ ww1_rcw_unification.3.d: "The [FROM.Capital.GetCapitalVictoryPointName] Government of [FROM.GetNameDef] refused to join our effort to rebuild the country, and declared they will withdraw from the Constituent Assembly!" # (!)
 ww1_rcw_unification.3.a: "Вони заплатять!"
 RUS_reunite_russia: "Возз'єднайте Росію"
 ww1_rcw_unification.4.t: "Питання нового режиму"
 ww1_rcw_unification.4.d: "Громадянська війна глибоко потрясла російський політичний світ, що призвело до створення нових і різних урядів протягом кількох місяців. Тепер, коли мир повернувся, необхідно вирішити, яким буде остаточний режим нової Росії бути."
 ww1_rcw_unification.4.a: "Республіка!"
 ww1_rcw_unification.4.b: "Імперія!"
-ww1_rcw_unification.4.c: "[FROM.getName] правитиме в тимчасовому стратократичному режимі"
+ww1_rcw_unification.4.c: "[FROM.GetLeader] правитиме в тимчасовому стратократичному режимі..."
 ww1_rcw_unification.5.t: "Результати голосування"
-ww1_rcw_unification.5.d: "Усі білі штати висловили свої погляди під час голосування, що дало початок офіційній більшості в установчих зборах."
+ww1_rcw_unification.5.d: "Усі білі штати висловили свої погляди під час голосування, що дало початок офіційній більшості в Установчих зборах."
 ww1_rcw_unification.5.a: "Республіка!"
 ww1_rcw_unification.5.b: "Царство!"
 RUS_republic_vote_on: "Росія буде республікою!"
@@ -8946,22 +9005,22 @@ ww1_rcw_unification.6.d: "Після громадянської війни ба�
 ww1_rcw_unification.6.a: "Ми маємо залишити їх на спокої."
 ww1_rcw_unification.6.b: "Вони можуть бути автономією в межах держави."
 ww1_rcw_unification.6.c: "Об'єднана. Велика. Неподільна." # наново перекладено вручну
-RUS_let_them_won: "Вони можуть залишатися незалежними"
-RUS_puppet_them_won: "Давайте запропонуємо їм автономію"
+RUS_let_them_won: "Вони можуть залишатися незалежними."
+RUS_puppet_them_won: "Давайте запропонуємо їм автономію."
 RUS_annex_them_won: "Ми повинні відновити контроль над втраченими територіями!"
 we_cant_accept: "Ми не можемо прийняти цей результат!"
-ww1_rcw_unification.8.t: "[FROM.getName] хоче інтегрувати нас"
-ww1_rcw_unification.8.d: "[FROM.getName] хоче зробити нас автономними в новій Росії."
-ww1_rcw_unification.8.a: "Згодено"
+ww1_rcw_unification.8.t: "[FROM.GetName] хоче інтегрувати нас"
+ww1_rcw_unification.8.d: "[FROM.GetNameDefCap] хоче зробити нас автономними в новій Росії."
+ww1_rcw_unification.8.a: "Прийняти умови."
 ww1_rcw_unification.8.b: "Ні!"
-ww1_rcw_unification.9.t: "[FROM.getName] відмовитися від інтеграції!"
-ww1_rcw_unification.9.d: "[FROM.getName] відмовився бути частиною Російської Федерації."
-ww1_rcw_unification.9.a: "Pf."
-ww1_rcw_unification.10.t: "[FROM.getName] Прийняти інтеграцію!"
-ww1_rcw_unification.10.d: "[FROM.getName] прийнято бути частиною Російської Федерації."
-ww1_rcw_unification.10.a: "Добре"
-ww1_rcw_unification.11.t: "[FROM.getName] скасовує голосування!"
-ww1_rcw_unification.11.d: "[FROM.getName] скасував голосування установчих зборів! Сам вирішив майбутнє Росії."
+ww1_rcw_unification.9.t: "[FROM.GetName] відмовитися від інтеграції!"
+ww1_rcw_unification.9.d: "[FROM.GetNameDefCap] відмовилася бути частиною Російської Федерації. Схоже, що сила — єдиний спосіб домогтися виконання наших вимог."
+ww1_rcw_unification.9.a: "Пф."
+ww1_rcw_unification.10.t: "[FROM.GetName] приймає інтеграцію!"
+ww1_rcw_unification.10.d: "[FROM.GetNameDefCap] погодилася бути частиною Російської Федерації. Як ми і обіцяли, їм буде надано регіональну автономію."
+ww1_rcw_unification.10.a: "Вітаємо вдома."
+ww1_rcw_unification.11.t: "[FROM.GetName] скасовує голосування!"
+ww1_rcw_unification.11.d: "[FROM.GetNameDefCap] скасувала голосування Установчих зборів! Сам вирішив майбутнє Росії."
 ww1_rcw_unification.12.t:0 "Zemsky Sobor"
 ww1_rcw_unification.12.d:0 "With the choice of restoring the monarchy comes the question of choosing the monarch. After the ungodly and the terrible  murder of the Royal Family the options are limited by several pretenders. Grand Duke Kirill Vladimirocih is the most willing and the highest in line of succession, however there is a controversy over his marrage which cause some to argue that Grand Duke Dmitriy Pavlovich is the legal succesor, however both of them supported the revolution that brought the monarchy down so it might be in out best intrests to choose the oldest and the most well-known Grand Duke, Nikolai Nikolaevich the younger."
 ww1_rcw_unification.12.a:0 "Kirill Vladimirocih is the righful heir to the throne!"
@@ -9954,6 +10013,26 @@ ww1_bulgaria.64.a: "Мир після смерті."
  ww1_bulgaria.67.t:0 "The Bulgarian Ultimatum"
  ww1_bulgaria.67.d:0 "As if our defeat at the hands of the Balkan League wasn't humiliating enough, the Bulgarians now see an opportunity to pick at our carcass. They have issued an ultimatum, demanding the immediate cession of all border states that we still hold. With our armies in no state to fight another war, we are in no position to refuse their demands. The vultures are circling."
  ww1_bulgaria.67.a:0 "We have no choice..."
+
+ ww1_bulgaria.68.t:0 "Macedonian Opportunity"
+ ww1_bulgaria.68.d:0 "We ask Serbia to allow us annex Macedonia and offer our neutrality in this war."
+ ww1_bulgaria.68.a:0 "Send offer"
+ ww1_bulgaria.68.b:0 "We dont need that"
+ ww1_bulgaria.69.t:0 "Bulgarian offer"
+ ww1_bulgaria.69.d:0 "Bulgaria asks to allow them to annex Macedonia region in exchange their neutrality, what can we say?"
+ ww1_bulgaria.69.a:0 "Deal"
+ ww1_bulgaria.69.b:0 "No way!"
+ ww1_bulgaria.70.t:0 "Serbia agreed"
+ ww1_bulgaria.70.d: ""
+ ww1_bulgaria.70.a:0 "That was easy"
+ ww1_bulgaria.71.t:0 "Serbia refused"
+ ww1_bulgaria.71.d: ""
+ ww1_bulgaria.71.a:0 "They know what that means"
+ ww1_bulgaria.72.t:0 "Macedonian Question"
+ ww1_bulgaria.72.d:0 "With the outbreak of hostilities against Serbia, our government has authorized the immediate and full integration of the Macedonian Republic. This necessary action will secure our western flank and finally unite all Bulgarian lands under one banner."
+ ww1_bulgaria.72.a:0 "This is our land!"
+ BUL_SER_agreed_annex_MAC:0 "Serbia agreed Macedonian deal"
+ BUL_SER_refused_annex_MAC:0 "Serbia refused Macedonia deal"
 
 #АНГЛІЯ
 ww1_england.1.t: "Титанік затонув"
@@ -11412,7 +11491,7 @@ kis_news.109.d: "Жан Жорес із Франції був убитий у п
 kis_news.109.a: "Не пощастило."
 
 kis_news.111.t: "Мону Лізу було вкрадено" # ((#))
-kis_news.111.d: "Минулої ночі злодій викрав знамениту Мону Лізу з Лувру! Сьогодні вранці Луї Беру зайшов до частини музею «Salon Carré», де «Мона Ліза» виставлялася протягом п'яти років, і побачив на стіні чотири залізні кілочки. Місцеві охоронці стверджували, що витвір мистецтва фотографували, що виявилося неправдою. Наразі музей зачинений для проведення розслідування." # (@!)
+kis_news.111.d: "Учора невідомий злодій викрав знамениту картину «Мона Ліза» з музею «Лувр» у Парижі! Вчора вранці злодій проник до майже порожнього музею і викрав «Мону Лізу» з Салону Карре, де вона виставлялася протягом 5 років, прикріплена до стіни лише чотирма залізними кілками. Музей був настільки порожній, що крадіжку виявили лише наступного дня, коли художник помітив її зникнення.\nРозпочато розслідування з метою встановлення особи злодія, а Лувр закрито для відвідувачів, оскільки поліція збирає докази." # (@!)
 kis_news.111.a: "І він просто пішов з нею?" # ((#))
 
 kis_news.112.t: "[TUR.GetName] приєднується до Центральних держав"
@@ -11963,6 +12042,7 @@ you_should_have_completed_HUN_focuses_to_gain_their_support:0 "[HUN.GetFlag] у�
 you_should_have_favored_the_slav_autorities:0 "Інвестування в [CRO.GetFlag]Хорватію без §Rруйнування її автономії§! ТА боротьба з [BOS.GetFlag]боснійським тероризмом §Rбез придушення слов'ян§! §Дозволила б кращу підтримку з їх боку§!."
 you_should_have_invested_in_galicia_and_complete_investement_decisions:0 "§RВам слід було§! інвестувати в [GAL.GetFlag]Галіцію та прийняти кілька рішень щодо §Yборотьби з бідністю§!."
 you_shouldnt_have_dissolved_czech_parliament:0 "Вам не слід було розпускати §R[CZE.GetFlag]чеський парламент§! або §Підривати його автономію§!."
+you_should_have_developed_czech:0 "You should have develop them via §Y$AUH_develop_austrian_cisleithania$§! focus." # (!)
 
 ww1_auh.97.t:0 "Великий Віденський конгрес"
 ww1_auh.97.d:0 "Представники Богемської корони прибули трохи раніше. Делегацію очолює імперський радник Алоїз Рашін, ранній демократ. Перший контакт з ними відразу підняв їм настрій..."
@@ -12140,7 +12220,7 @@ ww1_auh.158.d: "Цього тижня відбулися вибори мініс
 ww1_auh.158.a: "Вітаємо, Пол!"
 
 ww1_auh.159.t: "Дорогі харчові бунти"
-ww1_auh.159.d: "Високі ціни на продовольство, які є загальними в Європі через посуху, стали причиною великого насильства на вулицях Відня цієї неділі. Демонстрація протесту, організована соціалістами, відбулася в другій половині дня. 50 000 заворушників послідували, коли мітинг розігнався, і побудували барикади під час боротьби з поліцейськими заворушеннями 170 арештів."
+ww1_auh.159.d: "Високі ціни на продовольство, які є загальними в Європі через посуху, стали причиною великого насильства на вулицях Відня цієї неділі. Демонстрація протесту, організована соціалістами, відбулася в другій половині дня. 50 000 заворушників послідували, коли мітинг розігнався, і побудували барикади під час боротьби з поліцейськими. Бунти спричинили 3 смерті та 170 арештів."
 ww1_auh.159.a: "Ми не встановлюємо ринкові ціни!"
 
 remove_paul_gautsch: "Звільнити [AUS.getFlag]§YPaul Gautsch Freiherr von Frankenthurn§! з §Y[AUS.getName]§!"
@@ -12479,6 +12559,9 @@ ww1_finland.10.a:0 "До біса!"
 ww1_finland.11.t:0 "EN Setälä йде у відставку"
 ww1_finland.11.d:0 "Сенат Сеталя подав заяву про відставку відразу після того, як було вирішено питання правлячої влади. Відставку було надано, коли було призначено Сенат Свінхуфвуд, або Сенат незалежності."
 ww1_finland.11.a:0 "До незалежності!"
+ ww1_finland.12.t:0 "Finnish Navy" # (!)
+ ww1_finland.12.d:0 "The Russian Revolution left some Baltic Fleet ships abandoned in our ports. We acquired them and finally established our own fleet."
+ ww1_finland.12.a:0 "How glorious."
 
 # СЕРБІЯ
 not_join_balkan_league: "Не приєднався до Балканської ліги"
@@ -12629,6 +12712,7 @@ ww1_serbia.42.a: "Відмінно"
 ww1_serbia.43.t: "Сербські вигнанці на Корфу"
 ww1_serbia.43.d: "Оскільки сербська армія зазнала великої поразки та була витіснена зі своєї батьківщини, вони звернулися до нашого уряду з проханням дозволити їм відступити на нашу територію та продовжити боротьбу звідти.\nСоюзницькі війська та Серби вже розмістили базу на острові, і грецький уряд не бажає цьому протидіяти."
 ww1_serbia.43.a: "Просто так?"
+ ww1_serbia.43.b:0 "Kick them out of our island!" # (!)
 ww1_serbia.44.t: "Вибори 1914 року"
 ww1_serbia.44.d: "Загальні вибори відбулися вчора. Після перерахунку голосів, незважаючи ні на що, об’єднаній опозиції вдалося забезпечити більшість у парламенті. Новий уряд очолить Любомир Давидович, який буде прем’єр-міністром. Новий уряд буде сформовано найближчими днями."
 ww1_serbia.44.a: "Цікава розробка"
@@ -13629,6 +13713,38 @@ ww1_poland.21.a: "Вітаю справжнього польського кор�
 ww1_poland.22.t: "Останній засіб"
 ww1_poland.22.d: "Війна близька до поразки. Нація розколеться та буде видалена з землі після того, як ми впадемо на землю. Але ми ніколи не здамося!"
 ww1_poland.22.a: "На смерть! До перемоги!"
+ ww1_poland.23.t:0 "Danzig Has Been Retrieved" # (!)
+ ww1_poland.23.d:0 "Although Poland maintained supervision of the Free City of Danzig under an international treaty for a time, geopolitical shifts have returned the proud German city in West Prussia to German hands."
+ ww1_poland.23.a:0 "Welcome back!"
+
+ ww1_poland.25.t:0 "[97.GetCapitalVictoryPointName] Under Siege"
+ ww1_poland.25.d:0 "The Polish forces have crossed the border and launched a military intervention in [97.GetCapitalVictoryPointName]. We must instruct the garrison immediately on how to respond."
+ ww1_poland.25.a:0 "Withdrawal to avoid further escalation."
+ ww1_poland.25.b:0 "Hold them back!"
+ ww1_poland.26.t:0 "Battle of [97.GetCapitalVictoryPointName]"
+ ww1_poland.26.d:0 "Today, Polish forces took complete control of the city of [97.GetCapitalVictoryPointName]. Due to the volatility of borders and the turmoil in the international situation following the war, the area's ownership remains unclear, but for now, it is Polish territory."
+ ww1_poland.26.a:0 "Hurra!"
+ ww1_poland.26.b:0 "We shall return someday."
+ ww1_poland.27.t:0 "Battle of [97.GetCapitalVictoryPointName]"
+ ww1_poland.27.d:0 "The Polish forces failed to capture the city of [97.GetCapitalVictoryPointName]. The local garrison repelled them, resulting in a shameful defeat for Poland that will be remembered in history."
+ ww1_poland.27.a:0 "Damn it!"
+ ww1_poland.27.b:0 "Well done!"
+ ww1_poland.28.t:0 "Treaty of Bialystok"
+ ww1_poland.28.d:0 "Following their defeat in the Great War, German forces began to withdraw from the Eastern Front. A similar situation occurred in Białystok and Grodno, which were earmarked for transfer to the Kingdom of Lithuania. The soldiers' council of the garrison negotiated with the local Polish residents' committee to secure a peaceful withdrawal. Despite some misconduct by soldiers and deliberate sabotage by officers, the new Polish state ultimately assumed de facto control of the region."
+ ww1_poland.28.a:0 "The era of foreign domination is over!"
+ ww1_poland.28.b:0 "Farewell."
+ ww1_poland.29.t:0 "[773.GetCapitalVictoryPointName] Under Siege"
+ ww1_poland.29.d:0 "The Polish forces have crossed the border and launched a military intervention in [773.GetCapitalVictoryPointName]. We must instruct the garrison immediately on how to respond."
+ ww1_poland.29.a:0 "Withdrawal to avoid further escalation."
+ ww1_poland.29.b:0 "Hold them back!"
+ ww1_poland.30.t:0 "Battle of [773.GetCapitalVictoryPointName]"
+ ww1_poland.30.d:0 "Today, Polish forces took complete control of the city of [773.GetCapitalVictoryPointName]. Due to the volatility of borders and the turmoil in the international situation following the war, the area's ownership remains unclear, but for now, it is Polish territory."
+ ww1_poland.30.a:0 "Hurra!"
+ ww1_poland.30.b:0 "We shall return someday."
+ ww1_poland.31.t:0 "Battle of [773.GetCapitalVictoryPointName]"
+ ww1_poland.31.d:0 "The Polish forces failed to capture the city of [773.GetCapitalVictoryPointName]. The local garrison repelled them, resulting in a shameful defeat for Poland that will be remembered in history."
+ ww1_poland.31.a:0 "Damn it!"
+ ww1_poland.31.b:0 "Well done!"
 
 #Угорщина
 ww1_hungary_auh.3.t: "Смерть Ференца Кошута"
@@ -13909,7 +14025,7 @@ canada.70.b: "Яке це має відношення до нас?"
 canada.71.a: "Ласкаво просимо!"
 canada.72.t: "Вибух у Галіфаксі"
 canada.72.d: "Неочікуваний вибух стався в Галіфаксі, одному з найбільших портових міст на Сході. Це, здається, найбільший рукотворний вибух, який будь-коли зареєстровано. Влада починає рятувати тих, хто вижив, відновлювати збитки та розслідувати причина."
-canada.73.d: "У Галіфаксі, Нова Шотландія, Канада, стався вибух. Французьке вантажне судно SS Mont Blanc, завантажене порохом для використання під час війни, зіткнулося з норвезьким вантажним судном SS Imo в протоці, що з'єднує затоку Бедфорд і Верхній порт Галіфакса був повністю знищений Потужність вибуху в Канаді досягла 2,9 кілотонн. Цей вибух став найбільшим за всю історію."
+ canada.73.d:0 "Today a massive explosion has occurred in Halifax, Nova Scotia, Canada. The French freighter SS Mont-Blanc, loaded with gunpowder and explosives, collided with the Norwegian freighter SS Imo in the Halifax harbour. Barrels of benzol on the SS Mont-Blanc were knocked over and spilled all over the deck by the collision, and sparks from the SS Imo ignited the fuel. The crew of the Mont-Blanc abandoned the ship and tried to warn other ships that an explosion was about to occur but they could not be heard. A gigantic explosion then occured, causing a tsunami, destroying buildings in a 1,600 kilometre radius, and killing 1,600 people and injuring 9,000 more. The city of Richmond has been completely destroyed by the blast, including the Royal Naval College of Canada. The explosion released energy equivalent to 2.9 kilotons of TNT, setting the record for the largest man-made explosion." # (!)
 canada.72.a: "Яка катастрофа."
 canada.73.b: "Шкода. Ті, хто виступає проти нас, будуть так страждати."
 canada.74.t: "Британська реставрація"
@@ -14214,9 +14330,9 @@ ww1_ubd.3.d: "Генералу Рюдіґеру наказано очолити 
 ww1_ubd.3.a: "Добре подали."
 
 #ЕСТОНІЯ
-ww1_estonia.1.t: "Розпад балтійських герцогств"
-ww1_estonia.1.d: "Балтика протягом століть була місцем німецької експансії через балтійські хрестові походи німецького народу. І під час Великої війни ми намагалися повернути Балтику у Російської імперії та встановити німецький протекторат під назвою Але оскільки ми програли Велику війну, Естонська Республіка та Латвійська Республіка проголосили незалежність розвал Deutschordensstaat.\nУ розпал усього цього генерал Рюдіґер все ще перебуває в Курляндії, очолюючи Балтійський ландесвер, наказав своїм військам залишити, але він чекає часу і продовжує битися."
-ww1_estonia.1.a: "Тисяча років зусиль були докладені марно..."
+ ww1_estonia.1.t:0 "A Gift from the Royal Navy" # (!)
+ ww1_estonia.1.d:0 "As the Russian Civil War rages, supporting our cause, the British Royal Navy's Baltic squadron has been active in our waters. They captured two Russian destroyers, the Kapitan I ranga Miklouho-Maclay and the Avtroil, during an engagement near Tallinn. As a sign of their support for our independence, the British have handed over these two warships to the our government. They will be renamed Wambola and Lennuk respectively, forming the core of our new navy and serving as the primary defenders of our coastline."
+ ww1_estonia.1.a:0 "A great step towards independence!"
 ww1_estonia.2.t: "Північно-західна армія"
 ww1_estonia.2.d: "Біла Росія хоче створити армію на нашій території. Що нам робити?"
 ww1_estonia.2.a: "Звичайно, разом проти більшовизму!"
@@ -14349,6 +14465,21 @@ ww1_lithuania.4.a: "Він може бути занадто лівим для д
 ww1_lithuania.5.t: "Державний переворот [GetYear] року в Литві"
 ww1_lithuania.5.d: "Військовий переворот призвів до заміни демократичного уряду націоналістичним режимом на чолі з Антанасом Сметоною. Переворот був здебільшого організований військовими, він призвів до Литовського націоналістичного союзу, найбільш консервативної партії на той час до влади."
 ww1_lithuania.5.a: "Ми врятували Литву від більшовизму!"
+ ww1_lithuania.7.t:0 "Lithuanian-[ROOT.GetAdjective] Treaty" # (!)
+ ww1_lithuania.7.d:0 "We could redefine the territorial borders of the newly formed Lithuania and, in exchange for transferring several villages under their administration where our citizens reside, grant them a small port of Palanga and access to the sea through it. This would be the good signal of friendship between our two great nations."
+ ww1_lithuania.7.a:0 "Toast to our friendship!"
+ ww1_lithuania.7.b:0 "I disagree."
+ ww1_lithuania.8.t:0 "Lithuanian-[FROM.GetAdjective] Treaty"
+ ww1_lithuania.8.d:0 "[FROM.Capital.GetCapitalVictoryPointName] government agreed to redefine the territorial borders and, in exchange for transferring several villages under our administration where their citizens reside, grant us a small port of Palanga and access to the sea through it. This would be the good signal of friendship between our two great nations."
+ ww1_lithuania.8.a:0 "Toast to our friendship!"
+ ww1_lithuania.9.t:0 "Germany Hands Over Vilnius To Poland"
+ ww1_lithuania.9.d:0 "Following the Great War, the German troops stationed in our capital city, Vilnius, were forced to retreat to Germany. Naturally, we had expected local administration to be transferred to our authorities, but we were betrayed. Instead, the Germans handed over authority to the Poles, prompting our citizens to flee in order to avoid the ensuing conflict.\nAs formal borders have not yet been established, we have to assert at the post-war peace negotiations and to the treaty parties that Vilnius rightfully belongs to Lithuania as our capital, despite this treacherous and disastrous demarcation line."
+ ww1_lithuania.9.c:0 "Following the Great War, the German troops stationed in Wilno were forced to withdraw to Germany. Naturally, the Lithuanians had expected the local administration to be transferred to their authorities, but the Germans decided to hand the city over to the Poles instead.\nAs over 50% of the city's population are Polish citizens, this is a logical and rightful decision."
+ ww1_lithuania.9.a:0 "How could they commit this betrayal?"
+ ww1_lithuania.9.b:0 "Right decision they've made."
+ ww1_lithuania.10.t:0 "Wilno Has Fallen"
+ ww1_lithuania.10.d:0 "Following the end of the Great War, we assumed administrative control of Wilno and gradually incorporated it into our formal territory. However, this beautiful old city, which has a large Polish population, fell to Soviets and our local authorities were forced to flee."
+ ww1_lithuania.10.a:0 "We shall come back!"
 
 # САЙКС-ПІКО
 ww1_sykes_picot.1.t: "Розділ [TUR.GetNameDef]"
@@ -14438,6 +14569,7 @@ ww1_liberia.15.a: "Я не дозволю моїм людям померти в�
 ww1_liberia.15.b: "Відправте війська для колонізації."
 
 # ГРУЗІЯ
+ ww1_georgia.2.d:0 "The war has concluded with our decisive victory. With the enemy forces in full retreat and their empire teetering on the brink of collapse, the Transcaucasian Commissariat has seized this historic opportunity to secure our future. A general assembly has been convoked to officially proclaim the Transcaucasian Democratic Federative Republic, cementing the hard-won unity of our diverse peoples and establishing our authority on the international stage as a victorious, sovereign state. This is not merely an end to the war, but the dawn of a new era for all of Transcaucasia." # (!)
 ww1_georgia.3.t: "Закликати до британського захисту?"
 ww1_georgia.3.d: "Тепер, коли Німеччина зазнала поразки, ми знову зіткнулися з загрозою з боку Росії. Натомість ми могли б привернути увагу Британії та попросити захисту."
 ww1_georgia.3.a: "Давайте спробуємо."
@@ -14488,6 +14620,27 @@ ww1_georgia.16.a: "Ой."
 ww1_georgia.17.t: "Британська окупація"
 ww1_georgia.17.d: "Грузія зараз перебуває під британською військовою окупацією. Але вони визнають наш уряд."
 ww1_georgia.17.a: "Тепер ми повинні зосередитися на стабілізації."
+ ww1_georgia.18.t:0 "Armistice With The Ottomans?" # (!)
+ ww1_georgia.18.d:0 "Russia and our enemy, the Ottomans, have signed a armistice to negotiate peace treaty. It appears the Russian army no longer has the capacity to station the Caucasus front. We too must enter into a truce with the Ottomans."
+ ww1_georgia.18.a:0 "Send terms to them."
+ ww1_georgia.19.t:0 "Armistice In Transcaucasia?"
+ ww1_georgia.19.d:0 "[FROM.GetNameDefCap] has requested an armistice. They claim to be the new government in the Caucasus, but to us they appear merely an extension of the Russian regional authorities. However, with the Eastern Front now stabilising, an armistice does not seem unwise. The demarcation line will be drawn based on the current occupied territories."
+ ww1_georgia.19.a:0 "Accept the terms."
+ ww1_georgia.20.t:0 "The Betrayal of Brest-Litovsk"
+ ww1_georgia.20.d:0 "Following the Bolsheviks' signing of the Treaty of Brest-Litovsk with the Central Powers, the Transcaucasian Seim is in a state of turmoil. The treaty ceded former Russian territories to the Ottoman Empire, including the provinces of Ardahan, Kars, and Batumi. However, the Seim, a governing body composed of Georgian, Armenian, and Azerbaijani representatives, views this as a betrayal. We have no intention of relinquishing our lands to the Ottomans, and war seems all but inevitable as their forces continue to advance into our territory."
+ ww1_georgia.20.a:0 "We will not yield our lands!"
+ ww1_georgia.21.t:0 "Transcaucasia Rejects Our Demands"
+ ww1_georgia.21.d:0 "Following the Treaty of Brest-Litovsk, the Transcaucasian Seim has proven recalcitrant, refusing to honor the terms that grant us control over the provinces of Batum, Kars, and Ardahan. Despite our diplomatic efforts, their stubborn refusal has left us with no choice but to escalate. Our forces are now advancing into their territory to enforce the treaty by military means. We will take what is rightfully ours."
+ ww1_georgia.21.a:0 "They will be made to accept our terms."
+ ww1_georgia.22.t:0 "The Transcaucasian Seim Rejects the Ottoman Ultimatum"
+ ww1_georgia.22.d:0 "The Ottoman Empire's continued advance has left the Transcaucasian Seim in turmoil. Ottoman officials, tired of fruitless negotiations, have issued an ultimatum to surrender Batum. While our Georgian delegates, led by Irakli Tsereteli, argue for a full-scale war to defend the city and denounce the Treaty of Brest-Litovsk, the Azerbaijani faction is hesitant to fight their fellow Muslims. The Armenian delegates, still reeling from the tragedies of the past, are resolute in their support for armed resistance. After a passionate debate, a vote is held. Despite the opposition from the Azerbaijanis, the majority of the Seim has voted to go to war, shattering the fragile peace."
+ ww1_georgia.22.a:0 "We will defend our land!"
+ ww1_georgia.23.t:0 "Batum Peace Conference: New Demands"
+ ww1_georgia.23.d:0 "The Transcaucasian Seim's futile resistance has been crushed, and their forces are in disarray. We have forced them to the negotiating table in Batum. Now is our opportunity to not only secure the territories promised in the Treaty of Brest-Litovsk, but also to demand even greater concessions. Our military dominance allows us to press for significant portions of what remains of Armenian territory. A decisive victory is within our grasp."
+ ww1_georgia.23.a:0 "We shall claim what is due to us."
+ ww1_georgia.24.t:0 "Batum Peace Conference Concludes"
+ ww1_georgia.24.d:0 "With the Ottoman forces advancing and now dangerously close to our capital of Tiflis, the Transcaucasian Seim is on the brink of collapse. Desperate for a solution, we reached out to Germany, hoping they would act as a counterweight against their Ottoman allies. Berlin has its own strategic interests in the Caucasus, but however shows no interest in intervening on our behalf. In the face of this external pressure and the irreconcilable differences among our constituent peoples, it is clear that our unified efforts have failed. The time has come for each of our peoples to choose their own path."
+ ww1_georgia.24.a:0 "We must pursue our own path."
 
 # РІФ
 ww1_rif.1.t: "Члени рифійського племені чинять опір"
@@ -14542,6 +14695,8 @@ ww1_balkan.4.d: "Болгарія представилася нам у рамк�
 ww1_balkan.4.a: "Це найкраще компромісне рішення"
 ww1_balkan.4.b: "Ми не можемо прийняти це, але залишаємо наші варіанти відкритими"
 autonomous_macedonia: "Автономна Македонія"
+ autonomous_macedonia_happened: "Балканська ліга створила автономну Македонію після перемоги над Туреччиною" # (#)
+ autonomous_macedonia_happened_NOT: "Балканська ліга не створила автономну Македонію після перемоги над Туреччиною" # (#)
 autonomous_macedonia_tt: "Після Балканської війни буде утворено автономну Македонію під захистом усіх націй, що підписали договір, для збереження миру."
 
 ww1_balkan.5.t: "Сербія приймає нашу пропозицію"
@@ -14816,7 +14971,7 @@ GRE_get_out_of_epirus: "§Якщо ми не підкоримося до кін�
 
 GRE_will_have_150_days_to_free_epirus: "[GRE.getNameWithFlag] §Yматиме 250 днів, щоб залишити територію.§!"
 
-completed_once_thessaloniki_state_is_formed: "Цей фокус буде завершено, коли §YСалоніки буде утворено§!."
+completed_once_thessaloniki_state_is_formed: "Цей фокус буде завершено, коли §YСалоніцьку державу§! буде утворено.\n"
 gre_we_shall_not_perish: "Ми не загинемо"
 
 ww1_firstbalkan.102.t: "Сербія отримала берег!"
@@ -15298,7 +15453,7 @@ ww1_azerbaijan.3.t: "Ісламська армія Кавказу"
 ww1_azerbaijan.3.d: "Турки вирішили підтримати наші військові зусилля проти Червоної армії. Ми будемо разом прагнути врятувати мусульман Кавказу. Першою ціллю для знищення мають бути більшовики в Баку."
 ww1_azerbaijan.3.a: "До Баку!"
 ww1_azerbaijan.4.t: "Dunsterforce"
-ww1_azerbaijan.4.d: "Британо-індійська армія вирішила допомогти нам проти турецького наступу на Кавказі та більшовицького наступу на південь. Генерал-майор Лайонел Чарлз Данстервілл очолює експедиційний корпус."
+ ww1_azerbaijan.4.d:0 "The British Indian Army decided to help Baku against the Turkish offensive in the Caucasus and the Bolshevik southward offensive. Major General Lionel Charles Dunsterville is leading the expeditionary force. We also commandeered and converted several Russian transport ships to form an auxiliary cruiser flotilla to protect our interests in the Caspian Sea." # (!)
 ww1_azerbaijan.4.a: "До перемоги!"
 ww1_azerbaijan.5.t: "Рішення щодо Республіки Карс?"
 ww1_azerbaijan.5.d: "Республіка Карс перебуває під військовою окупацією, але ми не визнаємо республіку. Оскільки етнічний конфлікт між грузинами, турками та вірменами продовжує зростати через те, що ми можемо впоратися, ми повинні вийти з республіки шляхом демонтажу їхній уряд і парламент."
@@ -15607,6 +15762,15 @@ ww1_greece.246.a: "Наші невдачі продовжують обтяжув
  ww1_greece.249.a:0 "We really can't afford this right now."
  ww1_greece.249.b:0 "The Hagia Sophia shall become a church again."
  ww1_greece.249.c:0 "Convert it into a museum instead."
+
+ ww1_greece.250.t:0 "Greek Civil War"
+ ww1_greece.250.d:0 "Ever since the start of the great war, the Greek nation has been defacto divided into two. As the liberals under the leadership of $GRE_eleftherios_venizelos$ seek to allign themselves with their traditional allies Britain, the king and his supporters seek to stay neutral or even side with the Central Powers due to the dynastic ties of the royal family.\nAs both sides tried to sway the nation in the expense of the general stability in the politics, this came at a cost of the entire nation falling into a civil war as both sides took up arms to resolve their differences.\nWhile their leadership is keen on crushing the other side, the general public is not so interested in taking up arms to support the politicians' goals. As it seems, the civil war will drag on for war due to neither side's willingness to kill their brothers."
+ ww1_greece.250.a:0 "Was it worth brother killing brother?"
+ ww1_greece.250.b:0 "Will Greece ever manage to come to terms with its differences?"
+
+ ww1_greece.251.t:0 "Georgios Averof Has Arrived"
+ ww1_greece.251.d:0 "On a bright May morning in 1911, the Piraeus harbour welcomed the formidable sight of the newly-built armored cruiser Georgios Averof. The ship, purchased through the generous legacy of the late philanthropist Georgios Averof, now stands as the most powerful warship in the Aegean, a guardian of our islands and a promise of security for the nation."
+ ww1_greece.251.a:0 "Now tell me Turks, what about this ship?"
 
 # БІРМА
 ww1_burma.1.t:0 "Тібо помер!"
@@ -16281,8 +16445,8 @@ ww1_liechtenstein.8.a:0 "Безглуздо."
  ww1_libya.8.d:0 "The entry of the Ottoman Empire into the war has caused the opening of a wide front in the Middle East, but also the agitation of the Senussi Order, already in the midst of a colonial war with Italy. This complex situation threatens the Egyptian western front, which could be the victim of violent attacks from Libya.\n\nTo counteract this threat, we should launch an expeditionary force into the region. Major General William Peyton has shown himself to be a volunteer and a favorite, having already served in Egypt, notably in Dongola alongside the Egyptian army."
  ww1_libya.8.a:0 "Prepare an Expedition"
 
- ww1_libya.9.t:0 "[FROM.getAdjective] Offensive"
- ww1_libya.9.d:0 "[FROM.getAdjective] forces have begun maneuvers near our borders and sporadic clashes have begun. We should immediately reinforce our borders to prevent enemy infiltration."
+ ww1_libya.9.t:0 "[FROM.getAdjective] Offensive in [FROM.FROM.GetName]"
+ ww1_libya.9.d:0 "[FROM.getAdjective] forces have begun maneuvers near our borders and sporadic clashes have begun. We should immediately reinforce [FROM.FROM.GetName] to prevent enemy infiltration."
  ww1_libya.9.a:0 "Prepare the defences!"
 
  ww1_libya.10.t:0 "Conquest of Northern Chad"
@@ -16368,8 +16532,8 @@ ww1_liechtenstein.8.a:0 "Безглуздо."
 
  ww1_switzerland.6.t:0 "Swiss Troops Cross the Border"
  ww1_switzerland.6.d:0 "The Swiss government has formally notified us of its decision to occupy Haute-Savoie, citing the refugee crisis, the collapse of regional authority, and the need to establish a humanitarian buffer zone. Though the tone is cautious, the reality is stark: foreign troops now stand on French soil. In normal times, this would be an act of war. But with the nation already fractured by civil conflict, the government must weigh principle against survival."
- ww1_switzerland.6.a:0 "This is an invasion!"
- ww1_switzerland.6.b:0 "Let them have their buffer... For now."
+ ww1_switzerland.6.a:0 "Let them have their buffer... For now."
+ ww1_switzerland.6.b:0 "This is an invasion!"
 
  ww1_switzerland.7.t:0 "France Accepts the Humanitarian Occupation"
  ww1_switzerland.7.d:0 "In a formal reply, the French authorities have agreed to our proposal to temporarily occupy Haute-Savoie. The arrangement is framed as a humanitarian necessity: to stem the flow of refugees, ensure security, and provide relief in a region where governance has collapsed. While the agreement is provisional, voices within the Federal Council already consider the strategic and political implications of a more permanent presence."
@@ -16463,3 +16627,49 @@ ww1_liechtenstein.8.a:0 "Безглуздо."
  ww1_mongolia.14.d:0 "Russian and Chinese diplomatic delegations have signed a treaty in Kyakhta regarding Mongolian autonomy. The treaty does not recognize Mongolian independence and affirms China's rights over Mongolia. In return, it recognizes the autonomy of the Mongols in Outer Mongolia, prohibits the entry of Chinese or other foreign troops into Outer Mongolia, and allows for a small Mongolian army for defense."
  ww1_mongolia.14.a:0 "It has been concluded well."
  ww1_mongolia.14.b:0 "China and Russia are both greedy bastards!"
+ ww1_mongolia.15.t:0 "China Revocates Outer Mongolian Autonomy"
+ ww1_mongolia.15.d:0 "China has announced that it will abrogate all previous treaties and refuse to recognize Outer Mongolia's autonomy or independence. The Chinese consul has already ordered that they are sending the station troops in Outer Mongolia and that a ceremony to abolish autonomy will be held upon the general's arrival. Furthermore, they are demanding that the Mongolian leadership kowtow before the general and the Chinese flag!"
+ ww1_mongolia.15.a:0 "It won't last long..."
+ ww1_mongolia.15.b:0 "Such unreasonable demands are unacceptable!"
+
+### КОСТА-РІКА ###
+ ww1_costa_rica.1.t:0 "Innaguration of Ricardo Jiménez Oreamuno"
+ ww1_costa_rica.1.d:0 "Liberal lawyer Ricardo Jiménez Oreamuno was elected on 7 April. Jiménez is very popular in part because of his struggles against the United Fruit Company's abusive operations in the country. He was proclaimed candidate in the Teatro Variedades during the first Republican National Convention, Costa Rica's first primary election. Jiménez won easily over the other candidate, former president Rafael Yglesias Castro who ruled an authoritarian, though short-lived, regime."
+ ww1_costa_rica.1.a:0 "Let's get to work."
+ ww1_costa_rica.2.t:0 "[GetYear] Costa Rican General Election"
+ ww1_costa_rica.2.d:0 "The first direct elections since 1844, and also the first elections to have universal male suffrage. Durán and Yglesias had agreed to support each other if the minimum required to win in the first round was not achieved. However, after the elections and as was effectively anticipated, none reached the minimum. The ruling party argues that having resigned the two most voted candidates of the elections; Fernández and Durán, it is legitimate for the Congress to choose others."
+ ww1_costa_rica.2.a:0 "Cromwell is at the gates..."
+ ww1_costa_rica.3.t:0 "Compromise Dark Horse Candidate"
+ ww1_costa_rica.3.d:0 "After long and complex negotiations between Fernández, Durán, President Jiménez Oreamuno and a new political figure that appeared in the negotiations, Federico Tinoco, the Republicans decide finely make a bold political move and appoint Alfredo González Flores who had not been a candidate, to prevent the triumph of Yglesias."
+ ww1_costa_rica.3.a:0 "Dictatorship avoided!"
+ ww1_costa_rica.4.t:0 "[GetYear] Morning Coup d'état"
+ ww1_costa_rica.4.d:0 "President Alfredo González Flores, was overthrown by his Minister of War and Navy Federico "Pelico" Tinoco and his brother and army commander José Joaquín Tinoco, supported of the oligarchy —mainly the bankers and coffee growers— affected by González's tax reform, particularly a greater tax burden for the big capital."
+ ww1_costa_rica.4.a:0 "It's over..."
+ ww1_costa_rica.5.d:0 "General Federico Tinoco Granados stands as the sole candidate in the presidential election. Although former president Rafael Yglesias Castro received 259 votes, they were recorded as invalid ballots."
+ ww1_costa_rica.5.a:0 "Fair and square."
+ ww1_costa_rica.6.t:0 "Collapsing Dictatorship"
+ ww1_costa_rica.6.d:0 "Though the government won support from the upper classes, it failed to win the recognition of the United States. Popular sentiment against Tinoco, quickly came to a head, and his brother was assassinated in early August."
+ ww1_costa_rica.6.a:0 "Let's bounce."
+ ww1_costa_rica.6.b:0 "You will pay for this!"
+
+### ЛАТВІЯ ###
+ ww1_latvia.3.t:0 "Virsaitis, Our Flagship"
+ ww1_latvia.3.d:0 "The Imperial German Navy's M68 minesweeper, launched in 1917, was sunk near Riga in 1918 towards the end of the Great War. After the war, the ship was raised and taken to Riga for repairs. In the ensuing chaos, the ship went through a tumultuous period, passing through the hands of numerous battlegroups. Finally, the Latvian Provisional Government, having retaken Riga, officially acquired the vessel and, after completing repairs, incorporated it into the Latvian Navy in [GetYear]. With the new name 'Virsaitis', meaning 'Chieftain', this ship will become the flagship of our fledgling navy and defend the shores of our homeland."
+ ww1_latvia.3.a:0 "A proud day for the Latvian Navy!"
+
+### АБХАЗІЯ ###
+ ww1_abkhazia.1.t:0 "Formation of the People's Council"
+ ww1_abkhazia.1.d:0 "In Sukhum, сongress of abkhaz people formed the Abkhaz People's Council—the local governing body of the Highlanders' Union—led by Simon Basaria. On the same day, the "Declaration" and "Constitution of the Abkhaz People's Council," drafted by S. Basaria, A. Sheripov, M. Tsaguria, Mikheil Tarnava, D. Alania, A. Shervashidze, and T. Marshania, were adopted. They spoke of the self-determination of the Abkhaz people.\nOn the day of this congress, former State Duma deputy and prominent Georgian Social Democrat Akaki Chkhenkeli and other figures arrived in Sukhum. They were "informed of the planned unification of Abkhazia with the North Caucasian Highlanders' State, and they came specifically to prevent this unification..." Two opposing camps spoke out. The Georgian delegates urged Abkhazia to join Georgia, while the North Caucasian delegates urged Abkhazia to join the North Caucasus. No matter how hard Chkhenkeli tried to dissuade the Abkhazians from this decision, he was ultimately unable to prevent the congress from deciding to annex Abkhazia to the North Caucasian (Mountain) State. This congress decision was indeed adopted by a majority vote, although here, as with the church issue, the Gali delegates urged Abkhazia to join Georgia and threatened to withdraw from Abkhazia if it "did not join Georgia.""
+ ww1_abkhazia.1.a:0 "Aiaara!"
+ ww1_abkhazia.2.t:0 "Treaty with Georgia"
+ ww1_abkhazia.2.d:0 "While friendship and alliance with the United Republics of the North Caucasus are valuable, our long-standing relationship with Georgia, a neighboring nation, is also important. We will conclude a treaty with Georgia on the following terms:\n1. The re-creation of a unified and indivisible Abkhazia within the boundaries from the Ingur to the Mzymta Rivers, including Abkhazia proper and the Samurzakhan Autonomous Okrug\n2. The future political structure of a unified Abkhazia (to be developed) in accordance with the principle of national self-determination by the Abkhaz Constituent Assembly, convened under democratic principles.\n3. If Abkhazia and Georgia conclude a political treaty with another state, they mutually undertake to engage in preliminary negotiations on this matter."
+ ww1_abkhazia.2.a:0 "Toast to our long friendship!"
+ ww1_abkhazia.3.t:0 "Treaty with Abkhazia"
+ ww1_abkhazia.3.d:0 "The Abkhaz people, who are pursuing independence and establishing an autonomous political entity in the Sokhumi region, have signed a treaty with the Georgian authority. Recognizing the autonomy of these people, who share a long history, will pave the way for a future of shared prosperity. The terms are:\n1. The re-creation of a unified and indivisible Abkhazia within the boundaries from the Ingur to the Mzymta Rivers, including Abkhazia proper and the Samurzakhan Autonomous Okrug\n2. The future political structure of a unified Abkhazia (to be developed) in accordance with the principle of national self-determination by the Abkhaz Constituent Assembly, convened under democratic principles.\n3. If Abkhazia and Georgia conclude a political treaty with another state, they mutually undertake to engage in preliminary negotiations on this matter."
+ ww1_abkhazia.3.a:0 "Toast to our long friendship!"
+ ww1_abkhazia.4.t:0 "Bolshevik Revolt!"
+ ww1_abkhazia.4.d:0 "A Bolshevik Military Revolutionary Committee siezed power in Sukhumi and established a soviet government in Abkhazia."
+ ww1_abkhazia.4.a:0 "Workers of Abkhazia, unite!"
+ ww1_abkhazia.5.t:0 "Bolsheviks in Abkhazia!"
+ ww1_abkhazia.5.d:0 "A Bolshevik Military Revolutionary Committee siezed power in Sukhumi and established a soviet government in Abkhazia."
+ ww1_abkhazia.5.a:0 "Put out the wildfire!"

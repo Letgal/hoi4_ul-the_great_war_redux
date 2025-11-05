@@ -1,5 +1,5 @@
 # Українська локалізація *The Great War Redux*
-Оновлено для версії моду ***0.15.4.2*** (версія гри&nbsp;— *1.16*)
+Оновлено для версії моду ***0.15.5*** (версія гри&nbsp;— *1.16*)
 
 Локалізація доступна до завантаження в [Майстерні *Steam*](https://steamcommunity.com/workshop/filedetails/?id=2880535545).
 
@@ -93,6 +93,7 @@
 + `ww1_characters`
 + `ww1_flags`
 + `ww1_naval_classes`
++ `ww1_special_projects`
 + `ww1_units`
 
 ### Папка `replace`
