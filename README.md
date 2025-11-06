@@ -6,6 +6,7 @@
 ## Завершені файли
 + `countries`
 + `countries_cosmetic`
++ `loading_tips`
 + `strategic_region_names`
 + `ww1_core`
 + `ww1_designer` (майже)
@@ -46,7 +47,6 @@
 + `replace_unit_medals`
 
 ## У процесі перекладу
-+ `loading_tips`
 + `state_names`
 + `ww1_adjacency_rules`
 + `ww1_autonomy`
