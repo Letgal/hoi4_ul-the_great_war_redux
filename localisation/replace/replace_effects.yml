@@ -1,0 +1,5 @@
+﻿# == (*) ==
+ EFFECT_UNLOCK_DECISION: "Відмикає рішення: £decision_icon_small $NAME|H$.$EFFECT$"
+ EFFECT_UNLOCK_DECISION_CATEGORY: "Відмикає сукупність рішень £decision_icon_small $NAME|H$."
+ EFFECT_ACTIVATE_DECISION: "Активовує рішення: £decision_icon_small $NAME|H$."
+ EFFECT_REMOVE_DECISION: "Видаляє рішення: £decision_icon_small $NAME|H$."

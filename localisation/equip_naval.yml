@@ -1,7 +1,7 @@
 ﻿# == (*) ==
  naval_equipment:0 "Флот"
- screen_ship:0 "Screens" # (!)
- capital_ship:0 "Capital Ships" # (!)
+ screen_ship: "Кораблі прикриття"
+ capital_ship: "Великі кораблі"
  submarine_1:0 "Підводний човен I"
  submarine_2:0 "Підводний човен II"
  submarine_3:0 "Підводний човен III"

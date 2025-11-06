@@ -33,6 +33,7 @@
 + `replace_core`
 + `replace_designer`
 + `replace_diplomacy`
++ `replace_effects`
 + `replace_frontend`
 + `replace_military_industrial_organization`
 + `replace_modifiers`
@@ -100,7 +101,6 @@
 + `replace_buildings`
 + `replace_characters`
 + `replace_decisions`
-+ `replace_effects`
 + `replace_equipment`
 + `replace_focus`
 + `replace_mtg_decisions`
