@@ -1202,7 +1202,7 @@
  SOV_idea_focus_infantry_equipment:0 "Покращене виробництво піхотного спорядження"
  SOV_idea_focus_support_equipment:0 "Покращене виробництво допоміжного обладнання"
  SOV_idea_focus_artillery_equipment:0 "Покращене виробництво артилерійського обладнання"
- SOV_idea_focus_plane_equipment:0 "Покращене виробництво обладнання для винищувачів"
+ SOV_idea_focus_fighter_equipment:0 "Покращене виробництво обладнання для винищувачів"
  SOV_idea_famine:0 "Великий голод"
  SOV_idea_NEP:0 "Нова економічна політика"
  SOV_idea_first_five_year_plan:0 "Перший п'ятирічний план"
