@@ -58,6 +58,8 @@
  SAU_SCHLIEFFEN_DESC:0 "The Emirate of Nejd and Ihsa'a, or the Third Saudi State, has risen from the ashes of its predecessor. However, this resurgence does not signify the complete restoration of Saudi might from bygone eras. The state now spans only half of its former territory, undergoing modernization. Conflict between urbanized populations and tribes has escalated, and not all factions, particularly within the family, are content with the Emir. While the Saudis have indeed returned, the reform of the Saudi State remains unfinished."
  OTHER_SCHLIEFFEN_DESC: "Інші країни цієї доби."
 
+ COUNTRY_SELECTION_CHARACTER_DESC: "$NAME|Y$ $DESC|$\n$TRAITS_DESC|$"
+
 ### СТАРИЙ ПЕРЕКЛАД ###
  MEX_POWDERKEG_DESC:0 "Мексика 1910 року — це справді дивний випадок. Порфіріато був великим благом для Мексики з 1876 року, але тепер, коли спека піднялася, здається, що час президента Діаса може бути обмежений. Звичайно, уряд розглядає це як кусання руки.\n\nФрансіско Мадеро активно і явно змовляється проти уряду Діаса. Якщо він виявиться досить амбітним, він може побачити Мексику в задній кишені."
  JAP_POWDERKEG_DESC:0 "Менш ніж за 50 років Японія перетворилася з відсталого деспота, керованого сьогуном, на справжню сучасну імперію, таку ж могутню, як і будь-яка інша країна Європи. Імператор Мейдзі повинен подякувати за це, але на жаль, він старий і хворий — і не може прожити довго.\n\nПерш ніж наслідний принц Йосіхіто візьме корону, потрібно залагодити ще кілька питань. Літній імператор повинен вирішити, де Японія перебуває у відносинах з Росією, і що робити з корейським васалом."

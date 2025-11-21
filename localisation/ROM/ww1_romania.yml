@@ -2010,6 +2010,7 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  HUN_romania_will_advance.tt: "§YРумунія§! негайно розпочне новий наступ до Тиси."
  HUN_romania_will_advance_surrender.tt: "§YРумунія§! просуватиметься, доки ми не §Rздамося§!."
  HUN_take_presov.tt: "Ми мусимо захопити §YПряшів§!, інакше наш уряд втратить підтримку, і §Yрумуни просуватимуться§!."
+ HUN_capture_presov:0 "Capture Prešov" # (!)
  HUN_desperate_rom_offensive: "Румунський наступ"
  HUN_army_collapse: "Розвал армії"
  HUN_invade_cze_mission: "Наступ проти чехів"

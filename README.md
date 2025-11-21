@@ -92,6 +92,7 @@
 
 ## Не перекладено взагалі
 + `ww1_characters`
++ `ww1_collections`
 + `ww1_flags`
 + `ww1_naval_classes`
 + `ww1_special_projects`

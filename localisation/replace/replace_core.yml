@@ -27,4 +27,5 @@
  CREATING_CHKSUM: "Бомбардуємо Лондон"
  GENERATING_GRADIENT_BORDERS: "Обстрілюємо Верден"
  MENU_DISCORD: "Знайдіть інших гравців і поспілкуйтеся з розробниками на нашому Discord-сервері"
+ COUNTRY_SELECTION_CHARACTER_DESC: "$NAME|Y$\n$TRAITS_DESC|$"
  rail_way: "Залізниця"
