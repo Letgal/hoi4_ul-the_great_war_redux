@@ -308,11 +308,34 @@ spriteTypes = {
 		alwaystransparent = yes
 		effectFile = "gfx/FX/buttonstate_blendframes.lua"
 	}
-
 	spriteType = {
 		name = "forum"
 		texturefile = "gfx//interface//icon_forum.dds"
 		noOfFrames = 1
+	}
+	spriteType = {
+		name = "steam"
+		texturefile = "gfx/interface/icon_steam.png"
+		noOfFrames = 1
+	}
+	spriteType = {
+		name = "reddit"
+		texturefile = "gfx/interface/icon_reddit.png"
+		noOfFrames = 1
+	}
+	spriteType = {
+		name = "vkontakte"
+		texturefile = "gfx/interface/icon_vkontakte.png"
+		noOfFrames = 1
+	}
+	spriteType = {
+		name = "paradoxmods"
+		texturefile = "gfx/interface/icon_paradoxmods.png"
+		noOfFrames = 1
+	}
+	spriteType = {
+		name = "discord"
+		texturefile = "gfx/interface/icon_discord.png"
 	}
 	spriteType = {
 		name = "homepage"
@@ -737,7 +760,7 @@ objectTypes = {
 		textblock = {
 			text = "txt"
 			color = { 0.9 0.9 0.0 }
-			font = "DebugFont"
+			font = "hoi_36header"
 			position = { x=0 y=40 }
 			size = { x=1256 y = 164  }
 			format = centre
@@ -1662,7 +1685,8 @@ bitmapfonts = {
 	bitmapfont_override = {
 		name = "tahoma_60"
 		fontfiles = {
-			"gfx/fonts/japanese/hoi_mapfont4"
+			"gfx/fonts/japanese/hoi_mapfont4_0"
+			"gfx/fonts/japanese/hoi_mapfont4_1"
 		}
 		languages = { "l_japanese" }
 	}
@@ -1799,65 +1823,7 @@ bitmapfonts = {
 		name = "GFX_red_cross_small"
 		textureFile = "gfx//interface//red_cross_small.dds"
 	}
-
 	
-	spriteType = {
-		name = "GFX_crisis_alert_icons"
-		texturefile = "gfx/interface/alerts/crisis_alert_icon.png"
-		noOfFrames = 1
-	}
-
-	spriteType = {
-		name = "GFX_warscore_progressbar_frame_medium"
-		texturefile = "gfx/interface/warscore_progressbar_frame_medium.png"
-	}
-
-	progressbartype = {
-		name = "GFX_warscore_progressbar_medium"
-		color = { 1.0 1.0 1.0 }
-		colortwo = { 1.0 1.0 1.0 }
-		textureFile1 = "gfx/interface/warscore_progressbar_medium.png"
-		textureFile2 = "gfx/interface/warscore_progressbar_bg_medium.png"
-		size = { x = 296 y = 26 }
-		effectFile = "gfx/FX/progress.lua"
-		steps = 10000
-	}
-
-	spriteType = {
-		name = "GFX_landcombat_defender_progress_large"
-		texturefile = "gfx/interface/landcombat_defender_progress_large.png"
-	}
-
-	spriteType = {
-		name = "GFX_landcombat_progress_frame_large"
-		texturefile = "gfx/interface/landcombat_progress_frame_large.png"
-	}
-
-	
-
-	progressbartype = {
-		name = "GFX_landcombat_attacker_progress_large"
-		color = { 1.0 1.0 1.0 }
-		colortwo = { 1.0 1.0 1.0 }
-		textureFile1 = "gfx/interface/landcombat_attacker_progress_large.png"
-		textureFile2 = "gfx/interface/landcombat_defender_progress_large.png"
-		size = { x = 358 y = 14 }
-		effectFile = "gfx/FX/progress.lua"
-		steps = 10000
-	}
-
-	progressbartype = {
-		name = "GFX_positive_progressbar"
-		color = { 1.0 1.0 1.0 }
-		colortwo = { 1.0 1.0 1.0 }
-		textureFile1 = "gfx/interface/positive_progressbar.png"
-		textureFile2 = "gfx/interface/empty_progressbar.png"
-		size = { x = 358 y = 14 }
-		effectFile = "gfx/FX/progress.lua"
-		steps = 10000
-	}
-	
-
 	textSpriteType = {
 		name = "GFX_preset_button_open"
 		texturefile = "gfx//interface//equipmentdesigner//preset_button.dds"
@@ -1892,5 +1858,44 @@ bitmapfonts = {
 		noOfFrames = 4
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-}
 
+
+
+	# TGWR
+	spriteType = {
+		name = "GFX_warscore_progressbar_frame_medium"
+		texturefile = "gfx/interface/warscore_progressbar_frame_medium.png"
+	}
+
+	progressbartype = {
+		name = "GFX_warscore_progressbar_medium"
+		color = { 1.0 1.0 1.0 }
+		colortwo = { 1.0 1.0 1.0 }
+		textureFile1 = "gfx/interface/warscore_progressbar_medium.png"
+		textureFile2 = "gfx/interface/warscore_progressbar_bg_medium.png"
+		size = { x = 296 y = 26 }
+		effectFile = "gfx/FX/progress.lua"
+		steps = 10000
+	}
+
+	spriteType = {
+		name = "GFX_landcombat_defender_progress_large"
+		texturefile = "gfx/interface/landcombat_defender_progress_large.png"
+	}
+
+	spriteType = {
+		name = "GFX_landcombat_progress_frame_large"
+		texturefile = "gfx/interface/landcombat_progress_frame_large.png"
+	}
+
+	progressbartype = {
+		name = "GFX_positive_progressbar"
+		color = { 1.0 1.0 1.0 }
+		colortwo = { 1.0 1.0 1.0 }
+		textureFile1 = "gfx/interface/positive_progressbar.png"
+		textureFile2 = "gfx/interface/empty_progressbar.png"
+		size = { x = 358 y = 14 }
+		effectFile = "gfx/FX/progress.lua"
+		steps = 10000
+	}
+}

@@ -1391,6 +1391,8 @@
  CZE_infantry_equipment_2_short:0 "vz.24"
  CZE_infantry_equipment_3:0 "Bergmann MP18"
  CZE_infantry_equipment_3_short:0 "MP18"
+ CZE_machine_gun_equipment_0: "Škoda nehéz géppuska C/93"
+ CZE_machine_gun_equipment_0_short: "Nehéz géppuska C/93"
 
  POL_infantry_equipment_0:0 "Karabin wz.88"
  POL_infantry_equipment_0_short:0 "Kb wz.88"
