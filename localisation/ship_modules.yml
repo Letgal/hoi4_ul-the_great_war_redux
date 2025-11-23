@@ -312,6 +312,11 @@
  ship_armor_carrier_deck_short: "Броня льотної палуби"
  #ship_armor_carrier_deck_desc:0 "Heavy armor plates protect the hangar spaces against hits by enemy bombers at the cost of less working space."
  SHIP_DESIGNER_MODULE_SELECTION: "Оберіть модуль"
+
+ ship_light_battery_sub:0 "200mm Battery"
+ ship_light_battery_sub_desc:0 "A formidable deck gun of a caliber more commonly found on light cruisers."
+ EQ_MOD_CAT_ship_light_battery_sub_TITLE:0 "Deck Guns"
+
  ### Nation Specific Modules
  ## Німеччина
   # Легкі батареї
@@ -402,7 +407,27 @@
   ENG_dp_ship_secondaries:0 "QF 4\"/45 Mk XVI (HA)"
 
  ## Росія
- RUS_ship_light_battery_1: "10.5-см убергармата"
+  # Легкі батареї
+  RUS_ship_light_battery_1:0 "75mm/50 Pattern 1892"
+  RUS_ship_light_battery_2:0 "102mm/60 Pattern 1911"
+  # Зенітні батареї
+  RUS_ship_anti_air_1:0 "76mm AA gun M1914/1915"
+  # Легкі середні батареї
+  RUS_ship_light_medium_battery_0:0 "6\"/35 naval gun 1877"
+  RUS_ship_light_medium_battery_1:0 "152mm/45 Pattern 1892"
+  RUS_ship_light_medium_battery_2:0 "130mm/55 Pattern B7 1913"
+  # Середні батареї
+  RUS_ship_medium_battery_0:0 "254mm/45 Pattern 1891"
+  RUS_ship_medium_battery_1:0 "203mm/50 Pattern 1905"
+  # Важкі батареї
+  RUS_ship_heavy_battery_0:0 "12\"/30 Obukhov Model 1877"
+  RUS_ship_heavy_battery_1:0 "12\"/40 Obukhov gun"
+  RUS_ship_heavy_battery_2:0 "12\"/52 Pattern 1907"
+  # Для кораблів берегової оборони
+  RUS_ship_heavy_battery_coastal_defense_ship:0 "254mm/45 Pattern 1891"
+  # Допоміжні батареї
+  RUS_ship_secondaries_1:0 "75mm/50 Pattern 1892"
+  RUS_ship_secondaries_2:0 "120mm/50 Pattern 1905"
 
 ### СТАРИЙ ПЕРЕКЛАД ###
  ### ОБЛАДНАННЯ ###

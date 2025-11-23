@@ -2,72 +2,72 @@
  bundesrat_name: "Бундесрат"
  reichsrat_name: "Райхсрат"
 
- GER_bundesrat_category_desc: "§Y[GetBundesratName]§! — це найвищий законодавчий орган у державі @GER [GER.GetName]. Його члени призначаються урядами федеральних держав Німеччини для представлення їхніх інтересів у німецькому парламенті.\n\nЩоб §Gухвалити§! закони в §Y[GetBundesratName]§!, ми мусимо заробляти £influence_texticon §YОчки впливу§! у його членів, щоб отримати їхню підтримку під час голосування."
+ GER_bundesrat_category_desc: "§Y[GetBundesratName]§! — це найвищий законодавчий орган у державі @GER [GER.GetName]. Його члени призначаються урядами федеральних держав Німеччини для представлення їхніх інтересів у німецькому парламенті.\n\nЩоб §Gухвалити§! закони в §Y[GetBundesratName]§!, ми мусимо заробляти £GER_influence_texticon §YОчки впливу§! у його членів, щоб отримати їхню підтримку під час голосування."
  GER_bundesrat_unavailable_tt: "§tНЕДОСТУПНО§!"
 
  GER_bundesrat_prussia_tt: "@PRE §Y[PRE.GetName]§!"
  GER_bundesrat_prussia_desc: "Голоси: [?GER_votes_of_prussia|Y0]\nВплив: [?GER_influence_in_prussia|Y0]"
- GER_bundesrat_prussia_desc_tt: "Ми маємо [?GER_influence_in_prussia] §Y£influence_texticon балів впливу§! у §Y[PRE.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_prussia|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_prussia_desc_tt: "Ми маємо [?GER_influence_in_prussia] §Y£GER_influence_texticon балів впливу§! у §Y[PRE.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_prussia|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_prussia_swayed_desc: "Голоси: [?GER_votes_of_prussia|Y0]\n§GЗа§!"
  GER_bundesrat_prussia_lore: "§LДомінування [PRE.GetNameWithFlag] над імперією майже таке ж абсолютне, як було за часів Північнонімецької конфедерації. Вона охоплює дві третини території імперії та три п’ятих її населення. Завдяки великій кількості місць у [GetBundesratName], Пруссія може ефективно контролювати процеси за підтримки своїх союзників у другорядних державах. Лише король Пруссії може бути імператором, і ніхто інший.§!\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цією федеральною державою.\n§GShift + клацніть§!, щоби §Hзакликати§! цю федеральну державу під час голосування."
 
  GER_bundesrat_bavaria_tt: "@BAY §Y[BAY.GetName]§!"
  GER_bundesrat_bavaria_desc: "Голоси: [?GER_votes_of_bavaria|Y0]\nВплив: [?GER_influence_in_bavaria|Y0]"
- GER_bundesrat_bavaria_desc_tt: "Ми маємо [?GER_influence_in_bavaria] §Y£influence_texticon балів впливу§! у §Y[BAY.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_bavaria|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_bavaria_desc_tt: "Ми маємо [?GER_influence_in_bavaria] §Y£GER_influence_texticon балів впливу§! у §Y[BAY.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_bavaria|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_bavaria_swayed_desc: "Голоси: [?GER_votes_of_bavaria|Y0]\n§GЗа§!"
  GER_bundesrat_bavaria_lore: "§LВхід [BAY.GetNameWithFlag] до Німецької імперії змінився від радості через поразку Франції до розчарування через напрямок, який Німеччина обрала під керівництвом Отто фон Бісмарка. За регентства принца-регента Леопольда відносини між Баварією та Пруссією залишалися холодними, адже баварці пам’ятають антикатолицьку політику Бісмарка під час Культуркампфу, а також стратегічне домінування Пруссії над імперією.§!\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цією федеральною державою.\n§GShift + клацніть§!, щоби §Hзакликати§! цю федеральну державу під час голосування."
 
  GER_bundesrat_saxony_tt: "@SAX §Y[SAX.GetName]§!"
  GER_bundesrat_saxony_desc: "Голоси: [?GER_votes_of_saxony|Y0]\nВплив: [?GER_influence_in_saxony|Y0]"
- GER_bundesrat_saxony_desc_tt: "Ми маємо [?GER_influence_in_saxony] §Y£influence_texticon балів впливу§! у §Y[SAX.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_saxony|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_saxony_desc_tt: "Ми маємо [?GER_influence_in_saxony] §Y£GER_influence_texticon балів впливу§! у §Y[SAX.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_saxony|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_saxony_swayed_desc: "Голоси: [?GER_votes_of_saxony|Y0]\n§GЗа§!"
  GER_bundesrat_saxony_lore: "§L[SAX.GetNameWithFlag] підтримувала Австрію в боротьбі між Пруссією та Австрією за верховенство в Німеччині. Як наслідок, у війні 1866 року, коли Пруссія перемогла, незалежність Саксонії знову опинилася під загрозою; лише втручання австрійського імператора врятувало Саксонію від повного поглинання Пруссією. Однак королівство було змушене приєднатися до Північнонімецької конфедерації на чолі з Пруссією, а згодом стало однією з держав Німецької імперії. П’ята за площею і третя за населенням держава Райху; найгустозаселена держава імперії, а також усієї Європи.§!\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цією федеральною державою.\n§GShift + клацніть§!, щоби §Hзакликати§! цю федеральну державу під час голосування."
 
  GER_bundesrat_wurttemberg_tt: "@WUR §Y[WUR.GetName]§!"
  GER_bundesrat_wurttemberg_desc: "Голоси: [?GER_votes_of_wurttemberg|Y0]\nВплив: [?GER_influence_in_wurttemberg|Y0]"
- GER_bundesrat_wurttemberg_desc_tt: "Ми маємо [?GER_influence_in_wurttemberg] §Y£influence_texticon балів впливу§! у §Y[WUR.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_wurttemberg|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_wurttemberg_desc_tt: "Ми маємо [?GER_influence_in_wurttemberg] §Y£GER_influence_texticon балів впливу§! у §Y[WUR.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_wurttemberg|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_wurttemberg_swayed_desc: "Голоси: [?GER_votes_of_wurttemberg|Y0]\n§GЗа§!"
  GER_bundesrat_wurttemberg_lore: "§L[WUR.GetNameWithFlag] зберігає контроль над власною поштою, телеграфами та залізницями. Вона також має певні особливі привілеї щодо оподаткування та утримує свою армію автономно в складі імперської німецької армії.§!\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цією федеральною державою.\n§GShift + клацніть§!, щоби §Hзакликати§! цю федеральну державу під час голосування."
 
  GER_bundesrat_baden_tt: "@BAD §Y[BAD.GetName]§!"
  GER_bundesrat_baden_desc: "Голоси: [?GER_votes_of_baden|Y0]\nВплив: [?GER_influence_in_baden|Y0]"
- GER_bundesrat_baden_desc_tt: "Ми маємо [?GER_influence_in_baden] §Y£influence_texticon балів впливу§! у §Y[BAD.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_baden|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_baden_desc_tt: "Ми маємо [?GER_influence_in_baden] §Y£GER_influence_texticon балів впливу§! у §Y[BAD.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_baden|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_baden_swayed_desc: "Голоси: [?GER_votes_of_baden|Y0]\n§GЗа§!"
  GER_bundesrat_baden_lore: "§L[BAD.GetNameWithFlag] — найбільше велике герцогство імперії. У 1871 році, під час проголошення Німецької імперії Вільгельмом I у Версальському палаці, за ідеєю Отто фон Бісмарка, зять імператора, архікнязь Фрідріх Баденський, узяв на себе ключову роль.§!\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цією федеральною державою.\n§GShift + клацніть§!, щоби §Hзакликати§! цю федеральну державу під час голосування."
 
  GER_bundesrat_hesse_tt: "@HES §Y[HES.GetName]§!"
  GER_bundesrat_hesse_desc: "Голоси: [?GER_votes_of_hesse|Y0]\nВплив: [?GER_influence_in_hesse|Y0]"
- GER_bundesrat_hesse_desc_tt: "Ми маємо [?GER_influence_in_hesse] §Y£influence_texticon балів впливу§! у §Y[HES.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_hesse|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_hesse_desc_tt: "Ми маємо [?GER_influence_in_hesse] §Y£GER_influence_texticon балів впливу§! у §Y[HES.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_hesse|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_hesse_swayed_desc: "Голоси: [?GER_votes_of_hesse|Y0]\n§GЗа§!"
  GER_bundesrat_hesse_lore: "§L[HES.GetNameWithFlag] утворено з ландграфства Гессен-Дармштадт у 1806 році як Велике герцогство Гессен. У 1816 році воно отримало назву Гессен і при Райні, щоб відрізнитися від курфюрства Гессен, утвореного із сусіднього Гессен-Касселя. У побуті велике герцогство продовжувало називатися Гессен-Дармштадт.§!\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цією федеральною державою.\n§GShift + клацніть§!, щоби §Hзакликати§! цю федеральну державу під час голосування."
 
  GER_bundesrat_mecklenburg_tt: "@MEK §YМекленбурзькі великі герцогства§!"
  GER_bundesrat_mecklenburg_desc: "Голоси: [?GER_votes_of_mecklenburg|Y0]\nВплив: [?GER_influence_in_mecklenburg|Y0]"
- GER_bundesrat_mecklenburg_desc_tt: "Ми маємо [?GER_influence_in_mecklenburg] §Y£influence_texticon балів впливу§! у @MEK §Yмекленбурзьких великих герцогствах§! і вони мають §Y[?GER_votes_of_mecklenburg|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_mecklenburg_desc_tt: "Ми маємо [?GER_influence_in_mecklenburg] §Y£GER_influence_texticon балів впливу§! у @MEK §Yмекленбурзьких великих герцогствах§! і вони мають §Y[?GER_votes_of_mecklenburg|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_mecklenburg_swayed_desc: "Голоси: [?GER_votes_of_mecklenburg|Y0]\n§GЗа§!"
  GER_bundesrat_mecklenburg_lore: "§LУ 1815 році два @MEK мекленбурзькі герцогства були підвищені до великих герцогств, @MEK Велике герцогство Мекленбурґ-Шверин і @MEC Велике герцогство Мекленбурґ-Штрелиц, і відтоді існують окремо в Німецькій імперії під просвітленим, але абсолютним правлінням. Життя в Мекленбурзі може бути досить суворим. Практики, як-от необхідність отримувати дозвіл від великого герцога на шлюб чи еміграцію, досі зберігаються, хоча в інших німецьких регіонах їх давно скасовано.§!\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цими федеральними державами.\n§GShift + клацніть§!, щоби §Hзакликати§! ці федеральні держави під час голосування."
 
  GER_bundesrat_brunswick_tt: "@BRU §Y[BRU.GetName]§!"
  GER_bundesrat_brunswick_desc: "Голоси: [?GER_votes_of_brunswick|Y0]\nВплив: [?GER_influence_in_brunswick|Y0]"
- GER_bundesrat_brunswick_desc_tt: "Ми маємо [?GER_influence_in_brunswick] §Y£influence_texticon балів впливу§! у §Y[BRU.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_brunswick|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_brunswick_desc_tt: "Ми маємо [?GER_influence_in_brunswick] §Y£GER_influence_texticon балів впливу§! у §Y[BRU.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_brunswick|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_brunswick_swayed_desc: "Голоси: [?GER_votes_of_brunswick|Y0]\n§GЗа§!"
  GER_bundesrat_brunswick_lore: "§LЗа законом 1879 року [BRU.GetNameWithFlag] створила тимчасову раду регентства, яка взяла на себе управління після смерті герцога. Після смерті Вільгельма у 1884 році лінія Вольфенбюттель припинила існування. Герцог Камберлендський проголосив себе Ернстом Августом, герцогом Брауншвейзьким. Однак, оскільки він продовжував претендувати на трон Ганновера, Федеральна рада постановила, що його вступ до Брауншвейгу порушить мир у Німецькій імперії. Тривалі переговори не дали результатів.§!\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цією федеральною державою.\n§GShift + клацніть§!, щоби §Hзакликати§! цю федеральну державу під час голосування."
 
  GER_bundesrat_alsace_lorraine_tt: "@ALS §Y[ALS.GetName]§!"
  GER_bundesrat_alsace_lorraine_desc: "Голоси: [?GER_votes_of_alsace_lorraine|Y0]\nВплив: [?GER_influence_in_alsace_lorraine|Y0]"
- GER_bundesrat_alsace_lorraine_desc_tt: "Ми маємо [?GER_influence_in_alsace_lorraine] §Y£influence_texticon балів впливу§! у §Y[ALS.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_alsace_lorraine|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_alsace_lorraine_desc_tt: "Ми маємо [?GER_influence_in_alsace_lorraine] §Y£GER_influence_texticon балів впливу§! у §Y[ALS.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_alsace_lorraine|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_alsace_lorraine_swayed_desc: "Голоси: [?GER_votes_of_alsace_lorraine|Y0]\n§GЗа§!"
  GER_bundesrat_alsace_lorraine_lore: "§L[ALS.GetNameWithFlag] було створено у 1871 році Німецькою імперією після окупації регіону під час Франко-прусської війни. Регіон офіційно передано Німецькій імперії за Франкфуртським договором.§!\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цими федеральними державами.\n§GShift + клацніть§!, щоби §Hзакликати§! ці федеральні держави під час голосування."
 
  GER_bundesrat_austria_tt: "@AUS §Y[AUS.GetName]§!"
  GER_bundesrat_austria_desc: "Голоси: [?GER_votes_of_austria|Y0]\nВплив: [?GER_influence_in_austria|Y0]"
- GER_bundesrat_austria_desc_tt: "Ми маємо [?GER_influence_in_austria] §Y£influence_texticon балів впливу§! у §Y[AUS.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_austria|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_austria_desc_tt: "Ми маємо [?GER_influence_in_austria] §Y£GER_influence_texticon балів впливу§! у §Y[AUS.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_austria|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_austria_swayed_desc: "Голоси: [?GER_votes_of_austria|Y0]\n§GЗа§!"
  GER_bundesrat_austria_lore: "§L§![AUS.GetNameWithFlag]\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цією федеральною державою.\n§GShift + клацніть§!, щоби §Hзакликати§! цю федеральну державу під час голосування."
 
  GER_bundesrat_luxembourg_tt: "@LUX §Y[LUX.GetName]§!"
  GER_bundesrat_luxembourg_desc: "Голоси: [?GER_votes_of_luxembourg|Y0]\nВплив: [?GER_influence_in_luxembourg|Y0]"
- GER_bundesrat_luxembourg_desc_tt: "Ми маємо [?GER_influence_in_luxembourg] §Y£influence_texticon балів впливу§! у §Y[LUX.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_luxembourg|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_luxembourg_desc_tt: "Ми маємо [?GER_influence_in_luxembourg] §Y£GER_influence_texticon балів впливу§! у §Y[LUX.GetNameWithFlag]§! і вона має §Y[?GER_votes_of_luxembourg|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_luxembourg_swayed_desc: "Голоси: [?GER_votes_of_luxembourg|Y0]\n§GЗа§!"
  GER_bundesrat_luxembourg_lore: "§L§![LUX.GetNameWithFlag]\n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цією федеральною державою.\n§GShift + клацніть§!, щоби §Hзакликати§! цю федеральну державу під час голосування."
 
@@ -75,7 +75,7 @@
  GER_bundesrat_thuringia_unavailable: "§gТюринґія§!"
  GER_bundesrat_thuringia_tt: "§YТюринзькі держави§!"
  GER_bundesrat_thuringia_desc: "Голоси: [?GER_votes_of_thuringia|Y0]\nВплив: [?GER_influence_in_thuringia|Y0]"
- GER_bundesrat_thuringia_desc_tt: "Ми маємо [?GER_influence_in_thuringia] §Y£influence_texticon балів впливу§! у §YТюринзьких державах§! і вони мають §Y[?GER_votes_of_thuringia|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_thuringia_desc_tt: "Ми маємо [?GER_influence_in_thuringia] §Y£GER_influence_texticon балів впливу§! у §YТюринзьких державах§! і вони мають §Y[?GER_votes_of_thuringia|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_thuringia_swayed_desc: "Голоси: [?GER_votes_of_thuringia|Y0]\n§GЗа§!"
  GER_bundesrat_thuringia_lore: "§LТюринзькі герцогства, які стали частиною Німецької імперії у 1871 році під час об’єднання Німеччини під проводом Пруссії, включають Саксен-Ваймар-Айзенах, Саксен-Майнінґен, Саксен-Альтенбурґ, Саксен-Кобурґ-Гота, Шварцбурґ-Зондерсгаузен, Шварцбурґ-Рудольштадт і два князівства Ройсс Старшої лінії та Ройсс Молодшої лінії.§!" # \n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цими федеральними державами.\n§GShift + клацніть§!, щоби §Hзакликати§! ці федеральні держави під час голосування.
 
@@ -83,7 +83,7 @@
  GER_bundesrat_minor_states_unavailable: "§gМалі\nдержави§!"
  GER_bundesrat_minor_states_tt: "§YМалі держави§!"
  GER_bundesrat_minor_states_desc: "Голоси: [?GER_votes_of_minor_states|Y0]\nВплив: [?GER_influence_in_minor_states|Y0]"
- GER_bundesrat_minor_states_desc_tt: "Ми маємо [?GER_influence_in_minor_states] §Y£influence_texticon балів впливу§! у §YМалих державах§! і вони мають §Y[?GER_votes_of_thuringia|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_minor_states_desc_tt: "Ми маємо [?GER_influence_in_minor_states] §Y£GER_influence_texticon балів впливу§! у §YМалих державах§! і вони мають §Y[?GER_votes_of_thuringia|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_minor_states_swayed_desc: "Голоси: [?GER_votes_of_minor_states|Y0]\n§GЗа§!"
  GER_bundesrat_minor_states_lore: "§LІмперія включає численні менші держави, часто звані 'малими державами'. Ці менші держави мають різний ступінь автономії.§!" # \n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цими федеральними державами.\n§GShift + клацніть§!, щоби §Hзакликати§! ці федеральні держави під час голосування.
 
@@ -91,10 +91,10 @@
  GER_bundesrat_free_cities_unavailable: "§gВільні\nміста§!"
  GER_bundesrat_free_cities_tt: "§YВільні та ганзейські міста§!"
  GER_bundesrat_free_cities_desc: "Голоси: [?GER_votes_of_free_cities|Y0]\nВплив: [?GER_influence_in_free_cities|Y0]"
- GER_bundesrat_free_cities_desc_tt: "Ми маємо [?GER_influence_in_free_cities] §Y£influence_texticon балів впливу§! у §YВільних та ганзейських містах§! і вони мають §Y[?GER_votes_of_free_cities|Y0]§! голосів у §Y[GetBundesratName]§!."
+ GER_bundesrat_free_cities_desc_tt: "Ми маємо [?GER_influence_in_free_cities] §Y£GER_influence_texticon балів впливу§! у §YВільних та ганзейських містах§! і вони мають §Y[?GER_votes_of_free_cities|Y0]§! голосів у §Y[GetBundesratName]§!."
  GER_bundesrat_free_cities_swayed_desc: "Голоси: [?GER_votes_of_free_cities|Y0]\n§GЗа§!"
  GER_bundesrat_free_cities_lore: "§LВільні та ганзейські міста, на відміну від інших держав, конституційно організовані як республіки.§!" # \n\n§GКлацніть лівою кнопкою§!, щоби перейти до §Hпереговорів§! із цими федеральними державами.\n§GShift + клацніть§!, щоби §Hзакликати§! ці федеральні держави під час голосування.
 
 ### ГОЛОСИ ###
  GER_bundesrat_votes_desc: "Голоси: [getGermanBundesratMajority]/[?GER_total_bundesrat_votes]"
- GER_bundesrat_extra_influence_desc: "£influence_texticon_large Додатковий вплив: §Y[?GER_extra_influence]§!"
+ GER_bundesrat_extra_influence_desc: "£GER_influence_texticon_large Додатковий вплив: §Y[?GER_extra_influence]§!"
