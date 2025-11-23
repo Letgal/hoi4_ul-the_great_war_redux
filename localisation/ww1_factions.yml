@@ -31,6 +31,10 @@
  TUR_turan_faction: "Тюркський союз"
  TUR_konstantiniyye_tokyo_faction: "Константінійсько-Токійська угода"
  anti_bulgarian_league: "Антиболгарська ліга"
+ entente_continentale:0 "Entente Continentale" # (!)
+ north_american_union:0 "North American Union" # (!)
+ imperial_authority_treaty_organization:0 "Imperial Authority Treaty Organization" # (!)
+ FOCUS_FILTER_STABILITY_FACTION_GOAL_FILTER: "Стабільність"
 
  # Chinese factions
  republic_of_china: "Китайська республіка" #中華民國
@@ -52,3 +56,58 @@
  asia_independence_accord: "Угода про незалежність Азії" #亞洲獨立協定
  chinese_red_army: "Червона армія Китаю" #中國工農紅軍
  anti_qing_coalition: "Антицінська коаліція" #反淸同盟
+
+### ЦІЛІ ###
+ ## Довгострокові
+ balkan_league_defeat_turkey_goal_name:0 "Defeat [TUR.getName]"
+ balkan_league_defeat_turkey_goal_desc: ""
+ balkan_league_defeat_bulgaria_goal_name:0 "Defeat [BUL.getName]"
+ balkan_league_defeat_bulgaria_goal_desc: ""
+ become_victors_great_war_goal_name:0 "Win the next big war"
+ become_victors_great_war_goal_desc: ""
+ xinhai_defeat_qing_goal_name:0 "Defeat the Qing dynasty"
+ xinhai_defeat_qing_goal_desc: ""
+ national_protection_restore_republic_goal_name:0 "Restore the Republic"
+ national_protection_restore_republic_goal_desc: ""
+ constitutional_protection_restore_constitution_goal_name:0 "Restore the constitution"
+ constitutional_protection_restore_constitution_goal_desc: ""
+ win_in_russian_civil_war_goal_name:0 "Win the Russian Civil War"
+ win_in_russian_civil_war_goal_desc: ""
+
+ ## Середньострокові
+ balkan_league_train_army_goal_name:0 "Big army"
+ balkan_league_train_army_goal_desc: ""
+ xinhai_take_nanjing_goal_name:0 "Take Nanjing"
+ xinhai_take_nanjing_goal_desc: ""
+ national_protection_spread_revolution_goal_name:0 "Spread the revolution"
+ national_protection_spread_revolution_goal_desc: ""
+ constitutional_protection_take_fujian_goal_name:0 "Take Fujian"
+ constitutional_protection_take_fujian_goal_desc: ""
+ recover_russian_empire_industry_goal_name:0 "Recover Russian Empire's industry"
+ recover_russian_empire_industry_goal_desc: ""
+
+ ## Короткострокові
+ balkan_league_collect_them_all_goal_name:0 "Strength in quantity"
+ balkan_league_collect_them_all_goal_desc: ""
+ xinhai_spread_revolution_goal_name:0 "Spread the revolution"
+ xinhai_spread_revolution_goal_desc: ""
+ national_protection_secure_xinan_goal_name:0 "Secure Xinan"
+ national_protection_secure_xinan_goal_desc: ""
+ constitutional_protection_defend_hunan_goal_name:0 "Defend Hunan"
+ constitutional_protection_defend_hunan_goal_desc: ""
+ build_big_industry_goal_name:0 "Build a strong industry"
+ build_big_industry_goal_desc: ""
+ sign_peace_with_central_powers_goal_name:0 "Leave the imperialist war"
+ sign_peace_with_central_powers_goal_desc: ""
+ 
+ ## Маніфести (&?)
+ return_our_lands_goal_name:0 "Return our historical lands"
+ return_our_lands_goal_desc: ""
+ xinhai_revolution_goal_name:0 "Expel Tatar barbarians, revive Zhonghua" #驅除韃虜 恢復中華
+ xinhai_revolution_goal_desc: ""
+ national_protection_goal_name:0 "Defend the nation and protect the people" #護國佑民
+ national_protection_goal_desc: ""
+ constitutional_protection_goal_name:0 "Protect the constitution and save the nation" #護法救國
+ constitutional_protection_goal_desc: ""
+ unite_russia_goal_name:0 "Unite Russia under our Rule"
+ unite_russia_goal_desc: ""

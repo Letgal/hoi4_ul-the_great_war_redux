@@ -6485,10 +6485,11 @@ ww1_qing.5.t: "[FROM.GetName] відмовляється залишати Кит
 ww1_qing.5.d: "[FROM.GetAdjective] імперіалісти відмовилися скасувати свої нерівні поступки в Китаї та почали готуватися до війни, щоб зберегти свої ножі та виделки на китайських землях. Тепер у нас є законний аргумент для повернення наших національні ядра."
 ww1_qing.5.a: "Дракон прокидається."
 ww1_qing.5.b: "Ми не можемо ризикувати війною."
-ww1_qing.6.t: "Майбутнє конституційної династії Цін"
-ww1_qing.6.d: "Тепер ми збираємося проголосити сучасну та гідну конституцію від імені Імператора. Але спрямованість цього є різною для політиків."
-ww1_qing.6.a: "Конституційна монархія в німецькому стилі, яка має сильну імперську владу, є хорошою."
-ww1_qing.6.b: "Як у Сполученому Королівстві, імператор має царювати, але не керувати."
+ww1_qing.6.t: "Майбутнє конституційної Цін"
+ ww1_qing.6.d:0 "The Chinese Empire has endured for over two millennia, surviving the collapse of countless monarchies and the raging tide of republican revolutions that threatened to engulf all civilizations in an age of transformation. With the Xuantong Emperor, already matured into a reliable scholar and sovereign, assuming personal rule, the Prince Regent and the Premier have stepped down, ending the previous era.\nNow, it is time to decide who shall assist the Emperor in leading this new chapter of Qing China's history. It may be beneficial to maintain a constitution that clearly stipulates strong imperial authority, conducting a rule of virtue (Daoxue Zhengzhi) by which the sovereign cares for the subjects through imperial power. However, it may also be wise to entrust the Cabinet and the Premier, submitting to the current of the age and following the expedients of the ancient sages. The Xuantong Emperor, Puyi, shall make this momentous decision." # (!)
+ ww1_qing.6.a:0 "The Constitution exists, but it shall not restrain the Imperial Authority" # (!)
+ ww1_qing.6.b:0 "Power to the wisest!" # (!)
+ ww1_qing.6.c:0 "Kang Youwei shall lead the Reformation to success this time." # (!)
 ww1_qing.7.t: "Кабінет Юань Шикай"
 ww1_qing.7.d: "Щоб придушити ці масові повстання та заворушення, ми повинні викликати генерала Юань Шикая, щоб він командував армією Бейян. Він наполягав, що хворий, і відхилив нашу пропозицію про підвищення. Однак не було нікого, хто б розв’язав хаос без нього. Нарешті він зажадав призначити його прем’єр-міністром, тому ми вирішили піти у відставку принца Ціна, а новим прем’єр-міністром призначено Шикая. міністра, без будь-яких інших засобів."
 ww1_qing.7.a: "Єдина людина, яка врятує Династію..."
@@ -7264,7 +7265,7 @@ ww1_china.196.d:0 "Zhejiang sympathizes with our cause and chooses to stand by o
 ww1_china.197.t: "Чжан Цзунчан у Шаньдуні"
 ww1_china.197.d: "Через нещодавню громадянську війну ми отримали Шаньдун як нашу територію, і [ROOT.GetLeader] вирішив послати Чжан Цзунцяна, уродженця Шаньдуна та відомого жорстокого генерала Фентяня, губернатором Шаньдун, регіон далеко від Фентяня."
 ww1_china.197.a: "Успіхів і не плутай."
-ww1_china.197.b: "Настав час! (Грати за [SDC.GetNameWithFlag])"
+ww1_china.197.b: "Настав час! (Грати за [SND.GetNameWithFlag])"
 ww1_china.198.t: "Проблема губернатора Цзянсу"
 ww1_china.198.d: "Ми здобули перемогу над Чжілі, але не захистили провінцію Цзянсу, а оскільки кліка Чжілі розпадається, Цзянсу є легкою мішенню."
 ww1_china.198.a: "Вперед!"

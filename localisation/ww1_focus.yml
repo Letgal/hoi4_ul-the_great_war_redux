@@ -3978,12 +3978,12 @@
  TUR_promote_loyal_pashas:0 "Просування вірних паш"
  TUR_promote_loyal_pashas_desc:0 "Наша армія розділена багатьма способами, але все ще є кілька лояльних. Ми повинні їх консолідувати."
  TUR_trial_of_itf:0 "Випробування İTF"
- TUR_trial_of_itf_desc:0 "Влада İttihat ve Terakki, безсумнівно, величезна. І ідеї молодотурків також не збігаються з нами. Що ж, не погоджуватися з султаном є злочином, і вони повинні це знати."
+ TUR_trial_of_itf_desc:0 "Влада İttihat ve Terakki, безсумнівно, величезна. І ідеї молодотурків також не збігаються з нами. Що ж, не протистояння султанові є злочином, і вони повинні це знати."
  TUR_trial_of_hif:0 "[TUR.trial_of_hif]"
  TUR_trial_of_hif_desc:0 "[TUR.trial_of_hif_desc]"
  trial_of_hif1:0 "Суд над лібералами"
  trial_of_hif2:0 "Випробування HİF"
- trial_of_hif_desc1:0 "Хоча вони проти дій, вжитих İttihat ve Terakki, ліберали беруть участь у змові проти нашого султана. Ми повинні подбати про них."
+ trial_of_hif_desc1:0 "Хоча вони проти дій, вжитих İttihat ve Terakki, ліберали беруть участь у змові проти нашого султана. Їх буде стерто."
  trial_of_hif_desc2:0 "Хоча Hürriyet ve İtilaf Fırkası за назвою "Свобода" бере участь у змові проти нашого султана. Ми повинні подбати про них."
  TUR_end_of_the_young_turks:0 "Кінець молодотурків"
  TUR_end_of_the_young_turks_desc:0 "Рух молодих турків був шипою на нашому боці. Вони змусили султана відмовитися від своєї влади та все ще намагаються підірвати його ще більше. Тепер, коли ми отримали контроль над країною, ми можемо покласти край їхнім так званим «реформам» і готуватися до повернення султана."
@@ -6735,7 +6735,7 @@
  FRA_ww1_modernisation_of_the_battlefleet_desc:0 "Many navy ships are obsolete and need to be scrapped, but it is possible to renovate most of them by investing in a few shipyards."
 
  FRA_ww1_naval_experience: "Спадщина jeune école"
- FRA_ww1_naval_experience_desc:0 "Військово-морська історія Франції є однією з найбагатших у світі та однією з найдосконаліших. Наші важкі кораблі перевершують за якістю більшість своїх супротивників, якщо ми переможемо могутній королівський флот. Ми повинні скористатися нашим минулого досвіду для розробки сучасних доктрин."
+ FRA_ww1_naval_experience_desc:0 "Військово-морська історія Франції є однією з найбагатших у світі та однією з найдосконаліших. Наші важкі кораблі перевершують за якістю більшість своїх супротивників, якщо ми переможемо могутні Королівські ВМС. Ми повинні скористатися нашим минулого досвіду для розробки сучасних доктрин."
 
  FRA_ww1_doctrine_effort:0 "Anglo-French Naval Agreement"
  FRA_ww1_doctrine_effort_desc:0 "As allies, the British and the French must cooperate in the defense of the English Channel and the Mediterranean. Mastery of the sea facing the Empire of Austria-Hungary, including the new threats posed by the “aero-submarine” struggle, are essential."
@@ -7003,8 +7003,8 @@
  FRA_interwar_fortress_tangier:0 "Фортеця Танжер"
  FRA_interwar_fortress_tangier_desc:0 "Місто Танжер є стратегічною позицією, подібною до Гілбалтару чи Сеути. Ми не можемо відмовитися від цієї провіденційної основи. За допомогою спеціальних коштів ми могли б зробити його справжньою укріпленою позицією, здатною підготувати сили можливого вторгнення."
 
- FRA_ww1_mission_in_soviet_russia:0 "Місія до радянської Росії"
- FRA_ww1_mission_in_soviet_russia_desc:0 "Росія ледь звільнилася від ланцюгів імперіалізму, коли стала мішенню для пройдисвітів п’ятої колони. Необхідно терміново надати першокласну військову підтримку, щоб завдати нищівної поразки контрреволюціонерам!"
+ FRA_mission_to_soviet_russia:0 "Місія до радянської Росії"
+ FRA_mission_to_soviet_russia_desc:0 "Росія ледь звільнилася від ланцюгів імперіалізму, коли стала мішенню для пройдисвітів п’ятої колони. Необхідно терміново надати першокласну військову підтримку, щоб завдати нищівної поразки контрреволюціонерам!"
 
  FRA_ww1_the_world_is_saved:0 "Світ врятовано"
  FRA_ww1_decision_on_losers:0 "Рішення про тих, хто програв"
@@ -7068,7 +7068,7 @@
  FRA_instrumentalize_the_senate:0 "Інструменталізація Сенату"
  FRA_instrumentalize_the_senate_desc:0 "Сенат не підходить для сучасної адміністрації, подібної до тієї, яку бажає новий уряд. Замість того, щоб служити верхньою палатою, Сенат слід реформувати в конституційну палату, щоб члени призначалися главою держави, Наполеон."
 
- FRA_bonapartiste_referundum:0 "Реферундум про відновлення"
+ FRA_bonapartiste_referundum:0 "Референдум про відновлення"
  FRA_bonapartiste_referundum_desc:0 "Воля народу, парламенту та уряду йде в тому ж напрямку: відновлення Французької імперії. Тепер, коли всі правові апарати знаходяться під нашим контролем, ми можемо розпочати референдум, виграний заздалегідь, щоб виправдати нашу дія."
 
  FRA_ministery_of_national_defense:0 "Міністерство національної оборони"
@@ -8909,7 +8909,7 @@
  POL_increase_army_funding_desc:0 ""
  POL_peoples_party_victory:0 "Перемога Народної партії"
  POL_peoples_party_victory_desc:0 ""
- POL_support_from_the_marshall:0 "Підтримка від Маршала"
+ POL_support_from_the_marshall:0 "Підтримка від маршала"
  POL_support_from_the_marshall_desc:0 ""
  POL_for_the_people:0 "Для людей"
  POL_for_the_people_desc:0 ""
@@ -8922,7 +8922,7 @@
  POL_polish_king:0 "Польський король"
  POL_polish_king_desc:0 "Звичайно, Королівству Польському потрібен польський король."
  POL_galicia_transfer:0 "Трансфер Галіції"
- POL_galicia_transfer_desc:0 "Оскільки наш король із Габсбургів, ми можемо просити Австрію віддати нам Галичину. Але наш сузеренітет буде наданий Австрії."
+ POL_galicia_transfer_desc:0 "Оскільки наш король є з династії Габсбургів, ми можемо просити Австрію віддати нам Галичину. Але наш сузеренітет буде наданий Австрії."
  POL_take_galicia:0 "Узяти Галичину"
  POL_take_galicia_desc:0 "Вся Галичина є нашою законною територією."
  POL_old_borders:0 "Старі межі"
@@ -9179,6 +9179,8 @@
  # Congo Focuses
   BEL_where_belgium_is_big:0 "Where Belgium is Big"
   BEL_where_belgium_is_big_desc:0 "Belgium inside of Europe is a small irrelevant country, but when we go to a continent down south, we can see that we own a large amount of territory. Inside the Congo, the Belgians are the strongest and the natives are too weak to resist us. In that continent, we are no longer a speedbump."
+  BEL_create_the_katanga_province:0 "Create the Katanga Province"
+  BEL_create_the_katanga_province_desc:0 "Katanga is a region rich of underground minerals. In order to better manage the South-Eastern part of our colony, we can create a new province out of it."
   BEL_deal_with_the_luba_rebellion:0 "Deal with the Luba Rebellion"
   BEL_deal_with_the_luba_rebellion_desc:0 "The Luba is an ethnic group in Katanga, their leader is against our rule and has told his tribe to attack and terrorise colonizers. They disrupt our copper production and it is a bad look for investors. To solve this problem we must eliminate the ethnic group."
   BEL_appoint_lorrand:0 "Appoint Bertrand as Governor"
@@ -9282,11 +9284,10 @@
 
  ## Службова локалізація
   # tooltips that aint effects
-  BEL_tooltip_reduce_rubber_crisis:0 "This will §Greduce§! the effects of the §YRubber Crisis§!."
-  BEL_tooltip_unlock_congo_decisions:0 "This will unlock £decision_icon_small §Ydecisions§! related to the §YCongo§!."
-  BEL_tooltip_unlock_economy_decisions:0 "This will unlock £decision_icon_small §Yinvestment decisions§! for the §YCongo§!."
-  BEL_tooltip_reduces_luba:0 "§GReduces§! the effects of the §YLuba rebellion§! in §YKatanga§!."
-  BEL_tooltip_reduces_luba2:0 "§GRemoves§! the effects of the §YLuba rebellion§! in §YKatanga§!."
+  BEL_tooltip_reduce_rubber_crisis:0 "Modifies Mission £decision_icon_small  §YComing Rubber Crisis§! by\n"
+  BEL_tooltip_unlock_congo_decisions:0 "This will unlock £decision_icon_small  §Ydecisions§! related to the §YCongo§!."
+  BEL_tooltip_unlock_economy_decisions:0 "This will unlock £decision_icon_small  §Yinvestment decisions§! for the §YCongo§!."
+  BEL_tooltip_reduces_luba:0 "Modify §YLuba Rebellion§! by\n£manpower_texticon  Local Manpower: §G+5%§!\n£supply_texticon  Local Supplies: §G+5%§!\n£civ_factory_sabotage  Chance to Sabotage Constructions: §G-5%§!\n£political_violence_texticon  Resistance Target: §G-5%§!\n£compliance_gain_texticon  Compliance Growth Speed: §G+15%§!\n£attacker_speed_texticon  Divisions speed: §G+5.00%§!\n£resources_texticon  Local Available Resources: §G+15%§!\n\n"
   BEL_tooltip_better_colony:0 "Will remove §YThe Colonial Policy state modifier§! from Colonial States."
   BEL_for_100_days_cgf:0 "§CEffect when selected§! for §Y100 days§!:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-5.0%§!"
   BEL_tooltip_deletes_costs:0 "§GThis focus will remove the cost modifier from military-related focuses§!."
@@ -9299,15 +9300,15 @@
   BEL_tooltip_remove_schollaert:0 "§GCompleting this focus will start a timer to remove Schollaert as country leader§!"
   # tooltips for labour conditions idea
   BEL_tooltip_fsl: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5.00%§!\n\n"
-  BEL_tooltip_profpo: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_STABILITY_FACTOR$: §G+7.50%§!\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+2.00%§!\n\n"
+  BEL_tooltip_profpo: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+2%§!\n$MODIFIER_STABILITY_FACTOR$: §G+7.50%§!\n\n"
   BEL_tooltip_lonv: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+5.00%§!\n\n"
   BEL_tooltip_cfvu: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+7.50%§!\n$MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR$: §R-5.00%§!\n\n"
-  BEL_tooltip_bwnw: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_STABILITY_FACTOR$: §G+5.00%§!\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!\n\n"
-  BEL_tooltip_bclm: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+10%§!\n$MODIFIER_STABILITY_FACTOR$: §G+2.50%§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+5.0%§!\n\n"
-  BEL_tooltip_minerpen: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+5.0%§!\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+2.50%§!\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§!\n\n"
+  BEL_tooltip_bwnw: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!\n$MODIFIER_STABILITY_FACTOR$: §G+5.00%§!\n\n"
+  BEL_tooltip_bclm: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+10%§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+5.0%§!\n$MODIFIER_STABILITY_FACTOR$: §G+2.50%§!\n\n"
+  BEL_tooltip_minerpen: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+2%§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+5.0%§!\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§!\n\n"
   BEL_tooltip_bcln: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+5.0%§!\n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5.00%§!\n\n"
   BEL_tooltip_pss: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5.00%§!\n\n"
-  BEL_tooltip_nppr: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5.00%§!\n$MODIFIER_STABILITY_FACTOR$: §G+5.00%§!\n\n"
+  BEL_tooltip_nppr: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!\n$MODIFIER_STABILITY_FACTOR$: §G+5.00%§!\n\n"
   BEL_tooltip_mlp: "Змінює ідею §Y$BEL_modifier_belgian_exploitative_labour_conditions$§!:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+2.5%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+7.50%§!\n\n"
   # tooltips for army focuses
   BEL_tooltip_cwr: "Змінює ідею §Y$BEL_modifier_belgian_army$§!:\n$MODIFIER_ORG_LOSS_WHEN_MOVING$: §G-5.00%§!\n$MODIFIER_ARMY_ORG_FACTOR$: §G+5.00%§!\n$MODIFIER_XP_GAIN_ARMY_UNIT_FACTOR$: §G+5.00%§!\n$MODIFIER_XP_GAIN_ARMY_FACTOR$: §G+5.00%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+5.00%§!\n\n"
@@ -10390,7 +10391,7 @@
  ALB_annex_northern_epirus:0 "Додавання Північного Епіру"
  ALB_annex_northern_epirus_desc:0 "Північний Епір — це суб’єктна територія, яка не має майбутнього як незалежна одиниця, цей регіон з албанською більшістю має бути анексований."
 
- ALB_congress_of_trieste:0 "Кронгрес Трієста"
+ ALB_congress_of_trieste:0 "Конгрес Трієста"
  ALB_congress_of_trieste_desc:0 "Трієстський конгрес має на меті поставити короля на чолі країни. Однак Албанія не має королівського походження, що змушує нас звертатися до іноземних кандидатів, запропонованих великими європейськими державами."
 
  ALB_preserve_neutrality:0 "Зберігати нейтралітет"

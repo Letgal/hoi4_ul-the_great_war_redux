@@ -12,7 +12,6 @@
 + `ww1_designer` (майже)
 + `ww1_diplomacy`
 + `ww1_equip_air` (майже)
-+ `ww1_factions`
 + `ww1_focus_filter_tag`
 + `ww1_frontend`
 + `ww1_morocco` (переклав [*Лицарський хрест*](https://steamcommunity.com/profiles/76561199017049555))
@@ -54,6 +53,7 @@
 + `ww1_buildings`
 + `ww1_decisions` (більшість переклав [*kiryl*](https://steamcommunity.com/profiles/76561199575098265), допереклав *Лицарський хрест*)
 + `ww1_events` (більшість переклав *kiryl*)
++ `ww1_factions`
 + `ww1_focus` (більшість переклав *kiryl*)
 + `ww1_ideas` (більшість переклав *kiryl*)
 + `ww1_parliament_gui` (старий переклад видалено)
