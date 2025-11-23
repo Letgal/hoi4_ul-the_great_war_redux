@@ -82,7 +82,7 @@
  #eng_hand_of_king:0 "§OMr. Speaker§!"
  #eng_archaic_rule:0 "§RNon-Existant Government§!"
  eng_asquith_trait: "П'яний геній"
- SRW_white_rajah: "Білий раджа"
+ SAR_white_rajah: "Білий раджа"
  #prohibitionist:0 "Prohibitionist"
  #prohibitionist_desc:0 "This person supports traditional politics. And he is ready to stand alone against radical progressivism."
  bull_moose: "Сохатий"
@@ -313,7 +313,6 @@
  proto_fascist: "Протофашист"
  armoured_warfare_theorist: "Теоретик танкової війни"
  afrika_herzog: "«Der Afrika-Herzog»"
- liberal_economist: "Ліберальний економіст"
  LIB_puppet_of_barclay: "§OМаріонетка Артура Барклі§!"
  #strong_woman_of_the_italian_socialism:0 "Strong Woman of the Italian Socialism"
  revolutionary_syndicalist: "Революційний синдикаліст"
@@ -492,6 +491,7 @@
  beiyang_dragon: "Бейянський дракон"
  beiyang_tiger: "Бейянський тигр"
  beiyang_dog: "Бейянський собака"
+ perverted_control_freak:0 "Perverted Control Freak"
 
  dogged_investigator:0 "Dogged Investigator"
  reformist_monarch: "Монарх-реформіст"
@@ -653,6 +653,8 @@
  progressive_educator:0 "Progressive Educator"
  COS_compromise_dark_horse:0 "Compromise Dark Horse"
  COS_cromwell_of_vaudeville:0 "Cromwell of Vaudeville"
+ BLOCKADE_RUNNER_TRIGGER_TT:0 "Have a task force in combat where every ship in it has over 27 knots speed"
+ eng_bertie: "Bertie"
 
 ### СТАРИЙ ПЕРЕКЛАД ###
  artillery_officer:0 "Офіцер артилерії"
