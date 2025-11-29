@@ -1118,6 +1118,7 @@
  ENG_machine_gun_equipment_2:0 "Lewis automatic machine gun"
  ENG_machine_gun_equipment_2_short:0 "Lewis gun"
 
+ CAN_infantry_equipment_n1: "Martini–Henry"
  CAN_infantry_equipment_0:0 "Lee-Metford MkI"
  CAN_infantry_equipment_0_short:0 "MLM"
  CAN_infantry_equipment_1:0 "Ross MkI"
@@ -1127,6 +1128,7 @@
  CAN_infantry_equipment_3:0 "Huot Automatic Rifle"
  CAN_infantry_equipment_3_short:0 "Huot"
 
+ AST_infantry_equipment_n1: "Martini–Henry"
  AST_infantry_equipment_0:0 "Lee-Metford MkI"
  AST_infantry_equipment_0_short:0 "MLM"
  AST_infantry_equipment_1:0 "Short Magazine Lee-Enfield MkI"
@@ -1136,6 +1138,7 @@
  AST_infantry_equipment_3:0 "Short Magazine Lee-Enfield MkIII"
  AST_infantry_equipment_3_short:0 "SMLE MkIII"
 
+ NZL_infantry_equipment_n1: "Martini–Henry"
  NZL_infantry_equipment_0:0 "Lee-Metford MkI"
  NZL_infantry_equipment_0_short:0 "MLM"
  NZL_infantry_equipment_1:0 "Short Magazine Lee-Enfield MkI"
@@ -1145,6 +1148,7 @@
  NZL_infantry_equipment_3:0 "Short Magazine Lee-Enfield MkIII"
  NZL_infantry_equipment_3_short:0 "SMLE MkIII"
 
+ RAJ_infantry_equipment_n1: "Martini–Henry"
  RAJ_infantry_equipment_0:0 "Lee-Metford MkI"
  RAJ_infantry_equipment_0_short:0 "MLM"
  RAJ_infantry_equipment_1:0 "Short Magazine Lee-Enfield MkI"
@@ -1154,6 +1158,7 @@
  RAJ_infantry_equipment_3:0 "Short Magazine Lee-Enfield MkIII"
  RAJ_infantry_equipment_3_short:0 "SMLE MkIII"
 
+ SAF_infantry_equipment_n1: "Martini–Henry"
  SAF_infantry_equipment_0:0 "Lee-Metford MkI"
  SAF_infantry_equipment_0_short:0 "MLM"
  SAF_infantry_equipment_1:0 "Short Magazine Lee-Enfield MkI"
@@ -1275,8 +1280,10 @@
  HUN_machine_gun_equipment_1: "Maschinengewehr 07/12"
  HUN_machine_gun_equipment_1_short: "MG 07/12"
 
- ITA_infantry_equipment_0:0 "Vetterli Mod. 1870"
- ITA_infantry_equipment_0_short:0 "Vetterli M1870"
+ ITA_infantry_equipment_n1: "Vetterli Mod. 1870"
+ ITA_infantry_equipment_n1_short: "Vetterli M1870"
+ ITA_infantry_equipment_0: "Vetterli Mod. 1870/87"
+ ITA_infantry_equipment_0_short: "Vetterli M1870/87"
  ITA_infantry_equipment_1:0 "Carcano Mod. 91"
  ITA_infantry_equipment_1_short:0 "Carcano M91"
  ITA_infantry_equipment_2:0 "Vetterli-Vitali Mod. 1870/87/15"
@@ -1306,6 +1313,8 @@
  LUX_infantry_equipment_3:0 "RSC M1917"
  LUX_infantry_equipment_3_short:0 "RSC M1917"
 
+ JAP_infantry_equipment_n1: "Гвинтівка «Murata», тип 13"
+ JAP_infantry_equipment_n1_short: "Тип 13"
  JAP_infantry_equipment_0:0 "Murata Type 22 Rifle"
  JAP_infantry_equipment_0_short:0 "Type 22"
  JAP_infantry_equipment_1:0 "Arisaka Type 38 Rifle"

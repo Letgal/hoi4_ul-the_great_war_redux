@@ -3727,6 +3727,10 @@
  VICTORY_POINTS_13273: "Tikrit" # (!)
  VICTORY_POINTS_13399: "Ramadi" # (!)
  VICTORY_POINTS_6441: "Wittenberg" # (!)
+ VICTORY_POINTS_2017: "Фараг"
+ VICTORY_POINTS_5082: "Ґардез"
+ VICTORY_POINTS_12831: "Джелалабад"
+ VICTORY_POINTS_10781: "Баглан"
 
  PETROGRAD_PROV: "Petrograd"
  LENINGRAD_PROV: "Leningrad"

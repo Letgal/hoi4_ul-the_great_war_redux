@@ -135,7 +135,7 @@
   ww1_germanrework.103.b: "Ніколи!"
 
   ww1_germanrework.104.t: "Тіроль в обмін на гарантії?"
-  ww1_germanrework.104.d: "Ми прийняли австрійську делегацію, яка запропонувала пом'якшити територіальні напруження в Тіролі. Австро-угорська імперія, здається, серйозно підходить до цього питання і запропонувала віддати частину своєї території, а саме весь Тіроль, в обмін на відновлення дружніх відносин між двома країнами. Більш формально, це дозволило б нам, щонайменше, уникнути оголошення війни." # (@!)
+  ww1_germanrework.104.d: "Ми прийняли австрійську делегацію, яка запропонувала пом'якшити територіальні напруження в Тіролі. Австро-угорська монархія, здається, серйозно підходить до цього питання і запропонувала віддати частину своєї території, а саме весь Тіроль, в обмін на відновлення дружніх відносин між двома країнами. Більш формально, це дозволило б нам, щонайменше, уникнути оголошення війни." # (@!)
   ww1_germanrework.104.a: "Це є справедлива угода."
   ww1_germanrework.104.b: "Ніколи!"
 
@@ -887,7 +887,11 @@ GER_prospone_snap_elections: "Перенести дострокові вибор
 GER_election_1919: "Дострокові вибори [GetYear] року"
 tt_GER_new_constitution: "Буде розроблено §Yнову конституцію§! та почато §Yнові вибори до Райхстаґу§!." # (&+)
 GER_republic_of_weimar: "Ваймарські збори"
+GER_veteran_organisation:0 "Veteran Organisation" # (!)
+GER_veteran_organisation_desc:0 "The paramilitary Frei Corps, mostly former soldiers, goes in action. They will be the government-inspired organization of the Weimar Republic, which quells the uprising of the far left." # (!)
 GER_crush_communist_councils: "Розбити комуністичні ради"
+GER_form_reichswehr:0 "Form Reichswehr" # (!)
+GER_form_reichswehr_desc: "Імперську армію потрібно розпустити."
 effect_if_success: "Ефект у разу успіху:\n"
 effect_if_completed: "\n§YЕфекти після виконання:§!\n"
 effect_when_gone: "\n§YЕфекти після видалення:§!\n"
