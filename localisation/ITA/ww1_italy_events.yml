@@ -176,12 +176,12 @@
   ww1_italy.304.d: "Сьогодні дипломати [ITA.GetLeader] звернулися до нас, заявивши, що ми будемо приєднані до колонії Італійського Сомаліленду. Звісно, у нас немає вибору, окрім як підкоритися вимогам Італії."
   ww1_italy.304.a: "Чому ви граєте за цю націю?"
   ww1_italy.304.b: "Ми мусимо чинити опір!"
-  ww1_italy.305.t: "Annexation of [FROM.GetName]" # (!)
-  ww1_italy.305.d: "Just as expected, [FROM.GetName] has responded positively to our demands. As a result, their integration to the Italian Somaliland has been commenced." # (!)
-  ww1_italy.305.a: "Welcome to the empire." # (!)
-  ww1_italy.306.t: "[FROM.GetName] Resists Annexation" # (!)
-  ww1_italy.306.d: "Despite our superiority over them, [FROM.GetName] has foolishly chose to resist our demands. It shall be no problem for us and our army to switfly invade them." # (!)
-  ww1_italy.306.a: "They stand no chance" # (!)
+  ww1_italy.305.t: "Анексія [FROM.GetName]" 
+  ww1_italy.305.d: "Як і очікувалося, [FROM.GetName] позитивно відповів на наші вимоги. Як результат, розпочато його інтеграцію до Італійського Сомаліленду."
+  ww1_italy.305.a: "Ласкаво просимо до Імперії." 
+  ww1_italy.306.t: "[FROM.GetName] Чинить Опір Анексії" 
+  ww1_italy.306.d: "Попри нашу перевагу над ними, [FROM.GetName] нерозумно обрав чинити опір нашим вимогам. Для нас та нашої армії не буде проблемою швидко вторгнутися до них." 
+  ww1_italy.306.a: "Вони не мають жодного шансу." 
   ww1_red_italy.72.t: "Запальна промова викликає напруженість із парламентом"
   ww1_red_italy.72.d: "Недавня промова [ITA.GetLeader] викликала обурення серед деяких членів парламенту. У частині промови [ITA.GetLeader] відкрито критикував парламентську традицію в Італії, заявляючи, що справжня демократія буде досягнута через диктатуру пролетаріату, а не через сварливий і розколотий парламент. Це змусило багатьох членів парламенту боятися за свої посади, хоча наразі вони мало що можуть зробити."
   ww1_red_italy.72.a: "Це правда. Те, що ми маємо зараз, навряд чи є справжньою демократією."
@@ -670,8 +670,8 @@
  ww1_italy.235.d: "У відповідь на нашу офіційну анексію Лівії османи вигнали тисячі італійців зі своїх домівок по всій імперії. Це спричинило хаос серед італійської меншини, яка тепер живе в страху, багато хто втратив усе — і все це, здається, без жодної причини. На щастя, частину з них нам вдалося прийняти."
  ww1_italy.235.a: "Яка жорстокість!"
  unknown_lands: "Невідомі землі"
- unknown_lands_desc: "The lands we're fighting in are not well-mapped and unknown to our high command. This proves to make our hold in the area rather weak by limiting our offensive and defensive capabilities." # (!)
- unknown_lands_tt: "Upon §Ycontrolling§! the land, this modifier will be §Yremoved§! within §Y180 days§!" # (!)
+ unknown_lands_desc: "Землі, на яких ми воюємо, погано картографовані та невідомі нашому вищому командуванню. Це робить наш контроль над територією досить слабким, обмежуючи наші наступальні та оборонні можливості."
+unknown_lands_tt: "Після §Yвстановлення контролю§! над цією землею, цей модифікатор буде §Yвидалено§! протягом §Y180 днів§!"
  unknown_lands_2: "$unknown_lands$"
  unknown_lands_2_desc: "$unknown_lands_desc$"
  ww1_italy.234.t: "Парламент голосує за анексію Лівії"

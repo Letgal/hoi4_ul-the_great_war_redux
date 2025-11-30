@@ -588,13 +588,13 @@
  ITA_harass_austrian_shipping: "Переслідувати австрійське судноплавство"
  ITA_aus_harass_ship: "Переслідування судноплавства"
  ITA_mobile_command_centres: "Мобільні командні центри"
- ITA_mobile_command_centres_desc: "Currently our command centers are set in place and cannot move quickly if there are changes on the frontline. We should solve this issue by making our command centers mobile by using motorized vehicles such as trucks." # (!)
+ ITA_mobile_command_centres_desc: "Наразі наші командні центри стаціонарні й не можуть швидко переміщуватися, якщо на лінії фронту відбуваються зміни. Ми повинні вирішити цю проблему, зробивши наші командні центри мобільними за допомогою моторизованих транспортних засобів, таких як вантажівки."
  ITA_utilize_heavy_artillery: "Використати важку артилерію"
  ITA_utilize_heavy_artillery_desc: "Використання важчих і кращих моделей артилерії буде корисним, оскільки вони показують кращі результати, ніж легкі аналоги."
  ITA_great_war_austria: "Італійський фронт"
  AUS_blockade_italy: "Переслідувати італійське судноплавство"
- ITA_the_knock_out_blow: "Launch an offensive against Italy" # (!)
- ITA_against_alps: "March through the Alps" # (!)
+ ITA_the_knock_out_blow: "Розпочати наступ проти Італії"
+ ITA_against_alps: "Альпійський марш"
 
  ITA_camillo_finocchiaro_aprile: "Камілло Фіноччіаро Апріле"
  ITA_ministry_of_italian_africa_tgwr: "Заснувати Міністерство колоній"
@@ -717,7 +717,7 @@
  ITA_sacred_egoism: "Священний егоїзм"
  ITA_sacred_egoism_desc: ""
  ITA_negotiations_with_entente: "Переговори з Антантою"
- ITA_negotiations_with_entente_desc: "While on paper we are allied with Berlin and Vienna, there's much more to be gained  by joining the war on the side of the Entente. Diplomats will travel to London to see what concessions they're willing to make." # (!)
+ ITA_negotiations_with_entente_desc: "Хоча формально ми є союзниками Берліна та Відня, ми можемо отримати набагато більше, приєднавшись до війни на боці Антанти. Дипломати вирушать до Лондона, щоб дізнатися, на які поступки вони готові піти." 
  ITA_river_fortifications: "Річкові укріплення"
  ITA_river_fortifications_desc: ""
  ITA_salandra: "Консервативне відродження"
@@ -743,7 +743,7 @@
  ITA_italian_spahis: "Італійські спагі"
  ITA_italian_spahis_desc: ""
  ITA_cycling_divisions: "Велосипеди в армії"
- ITA_cycling_divisions_desc: "Bicycles have begun being used in certain parts of the army on small scales and have proved effective increasing mobility. With these signs of success we should adapt bicycles on a more widespread scale across our army, for our divisions aswell as our supply deliveries." # (!)
+ ITA_cycling_divisions_desc: "Велосипеди почали використовуватися в окремих частинах армії в невеликих масштабах і довели свою ефективність у підвищенні мобільності. Бачачи ці ознаки успіху, ми повинні адаптувати велосипеди у ширших масштабах по всій нашій армії, як для наших дивізій, так і для постачання."
  ITA_mountain_artillery: "Гірська артилерія"
  ITA_mountain_artillery_desc: ""
  ITA_fund_breda: "Фінансувати Товариство Ернесто Бреда"
@@ -774,7 +774,7 @@
  ITA_create_a_plan_for_the_south: "Створити план для півдня"
  ITA_create_a_plan_for_the_south_desc: ""
  ITA_push_back_against_the_church: "Протистояти церкві"
- ITA_push_back_against_the_church_desc: "The Catholic Church was a staunch opponent of Italian Unification, rejecting the legitimacy of our government entirely. Perhaps it's time to follow in the footstepps of the French and adopt laws similar to those passed in 1905." # (!)
+ ITA_push_back_against_the_church_desc: "Католицька церква була затятим противником єдиної Італії, повністю відкидаючи легітимність нашого уряду. Можливо, настав час піти стопами французів та ухвалити закони, подібні до тих, що були прийняті у 1905 році."
  ITA_fight_internationalist_propaganda: "Боротися з інтернаціоналістською пропагандою"
  ITA_utilize_public_works: "Використовувати громадські роботи"
  ITA_utilize_public_works_desc: ""
@@ -786,7 +786,7 @@
  ITA_agricultural_developments_italian_somaliland_desc: "Багато італійців емігрували до Сомаліленду, щоб заснувати ферми на родючих ґрунтах регіону. Ці поселенці значно сприяють місцевій економіці та нашій колонізації регіону. Ми маємо підтримати їх, надаючи гранти, а також пропонуючи гранти всім, хто бажає емігрувати до регіону."
  ITA_italian_settlers: "Італійські поселенці"
  ITA_mogasidishu_villabruzi_railway: "Залізниця Моґадішо-Віллабруцці"
- ITA_mogasidishu_villabruzi_railway_desc: "Across Somaliland are Italian agricultural settlements that are quite isolated from the port city of Mogadishu, making it difficult to export agricultural products. We should build a railway from Mogadishu stopping through some settlements before ending at the Italian agricultural settlement of Villabruzi, which will allow Italian farmers to easily transport their agricultural goods to Mogadishu to be brought to Italy." # (!)
+ ITA_mogasidishu_villabruzi_railway_desc: "По всій території Сомаліленду розташовані італійські сільськогосподарські поселення, які досить ізольовані від портового міста Могадішо, що ускладнює експорт сільськогосподарської продукції. Ми повинні побудувати залізницю, що пролягатиме від Могадішо через низку поселень до італійського сільськогосподарського поселення Віллабруцці. Це дозволить італійським фермерам легко транспортувати свої сільськогосподарські товари до Могадішо для подальшої відправки до Італії."
  #ITA_mogasidishu_villabruzi_railway_desc: "У Сомаліленді існує багато італійських сільськогосподарських поселень, які досить ізольовані від портового міста Моґадішо. Ми маємо побудувати залізницю від Моґадішо, яка проходитиме через деякі міста, перш ніж завершиться в італійському сільськогосподарському поселенні Віллабруцці, що дозволить італійським фермерам легко транспортувати свої сільськогосподарські товари до Моґадішо для відправки до Італії." # об’єднати, патч 0.15.5
  ITA_expand_somali_agriculture: "Розширити сомалійське сільське господарство"
  ITA_expand_somali_agriculture_desc: "З новою залізницею, що проходить через Сомаліленд і здатна транспортувати багато товарів на експорт, а також з численними італійськими фермерами, ми маємо суттєво інвестувати в сільськогосподарську промисловість регіону, оскільки вона має великий потенціал стати дуже прибутковою колонією для нас."
@@ -820,7 +820,7 @@
  ITA_support_farmers_desc: "Нашим фермерам потрібно більше від уряду. З багатьма, що борються за виживання, крах фермерського сектору призведе до краху самої економіки. Через щедрі програми допомоги ми сподіваємося підтримати цей сектор."
  ITA_artillery_modernisations: "Придбати модернізовану артилерію"
  ITA_invite_southern_labourers: "Запросити південних робітників"
- ITA_invite_southern_labourers_desc: "In the south there are a lot of peasants working on farms and many workers who are unemployed who could do with a new job. With the growing war industry in the north, we need more workers for the factories and we can bring these workers from the south." # (!)
+ ITA_invite_southern_labourers_desc: "На Півдні є багато селян, які працюють на фермах, та багато безробітних робітників, яким не завадила б нова робота. З огляду на зростання військової промисловості на Півночі, нам потрібно більше працівників для фабрик, і ми можемо залучити цих робітників із Півдня."
  ITA_mass_shell_produciton: "Масове виробництво снарядів"
  ITA_electronical_tech_in_warfare: "Електронна технологія у війні"
  ITA_new_research_facilities: "Фінансувати нові дослідницькі установи"
@@ -924,16 +924,16 @@
  ITA_negotiations_with_germany: "Переговори з Німеччиною"
  ITA_negotiations_with_germany_desc: "Австро-італо-німецький Тройний союз існує з 1882 року. Разом із німецькими спробами оновити союз, нарешті настав час вступити у війну пліч-о-пліч з нашими союзниками... але не без додаткових вимог, оскільки між нами та австрійцями існує певна напруга. Якщо ми зможемо використати наш вступ в обмін на додаткові території, або навіть спірні італо-австрійські землі, це буде нашим пріоритетом."
  ITA_our_traditional_allies: "Виправити помилки 1881 року"
- ITA_our_traditional_allies_desc: "We never forgot the Slap of Tunis. It was hoped " # (!)
+ ITA_our_traditional_allies_desc: "Ми ніколи не забували цинічну крадіжку Тунісу. Час повернути своє."
  ITA_confront_vienna: "Вимагати австрійської компенсації"
- ITA_confront_vienna_desc: "During the Bosnian Crisis Austria recieved support from us in exchange for territorial compensation elsewhere. Its time we made Vienna fufill its promise." # (!)
+ ITA_confront_vienna_desc: "Під час Боснійської кризи Австрія отримала від нас підтримку в обмін на територіальну компенсацію в іншому місці. Настав час змусити Відень виконати свою обіцянку."
  ITA_the_great_war_redux: "Велика війна"
  communist_theorist_2: "Комуністичний теоретик"
  ITA_the_great_war_redux_desc: ""
  ITA_testing_the_waters: "Перевіряти води"
  ITA_testing_the_waters_desc: ""
  ITA_occupy_valore: "Окупація Валлони"
- ITA_occupy_valore_desc: "Vlore or Valona in Italian, is strategically placed at the mouth of the Adiratic. It cannot be left in enenmy hands." # (!)
+ ITA_occupy_valore_desc: "Вльора, або Валлона італійською, стратегічно розташована у гирлі Адріатики. Її не можна залишати в руках ворога."
  ITA_military_industrial_complex: "Захопити контроль над приватними заводами озброєнь"
  ITA_military_industrial_complex_desc: ""
  ITA_cost_cutting_measures: "Заходи з скорочення витрат"
@@ -1172,8 +1172,8 @@
  ITA_build_francesco_caracciolo_class: "Побудувати клас 'Франческо Караччоло'"
  ITA_build_weather_monitoring_stations: "Побудувати метеостанції"
  ITA_build_weather_monitoring_stations_desc: "Погода на морі може повністю змінити результат будь-якої морської битви, знищуючи флоти, тому критично важливо бути обережними. З новим використанням радіотехнологій у нашому флоті ми можемо побудувати метеостанції для повідомлення про погоду нашим флотам і допомогти уникнути катастрофічних штормів."
- ITA_prevent_AUS_shell_venice: "This focus will §GPrevent§! §RThe bombing of Venice§! by §YThe Austrian Navy§! during the war!" # (!)
-ITA_prevent_AUS_harass_shipping: "This focus will §GPrevent§! §YThe Austrian Navy§! from §RRaiding Our Supplies§! during the war!" # (!)
+ ITA_prevent_AUS_shell_venice: "Цей фокус §Gзапобігатиме§! §Rбомбардуванню Венеції§! з боку §YАвстрійського Флоту§! під час війни!"
+ ITA_prevent_AUS_harass_shipping: "Цей фокус §Gзапобігатиме§! §YАвстрійському флоту§! §Rрейдерству наших припасів§! під час війни!"
  ITA_train_new_naval_officers: "Навчити нових морських офіцерів"
  ITA_train_new_naval_officers_desc: "Наш флот сильно розширюється, і зараз потребує набагато більше нових морських офіцерів для належного комплектування. З нашим новим досвідом із сучасними кораблями ми маємо навчити сучасних офіцерів, які знатимуть, як ідеально керувати цими недавніми інноваціями, такими як підводні човни та дредноути."
  ITA_develop_new_hydrophones: "Розробити нові гідрофони"
@@ -1367,11 +1367,11 @@ ITA_prevent_AUS_harass_shipping: "This focus will §GPrevent§! §YThe Austrian 
  ITA_apply_for_foreign_loans: "Подати заявку на іноземні позики"
  ITA_sell_military_industry: "Продати військову промисловість"
  ITA_a_two_pronged_approach: "Двосторонній підхід"
- ITA_i_dont_care_if_it_hurts: "Cut Social Spending" # (!)
+ ITA_i_dont_care_if_it_hurts: "Скоротити соціальні витрати"
  ITA_i_dont_care_if_it_hurts_desc: ""
- ITA_i_wanna_have_control: "Fund Social Policies" # (!)
+ ITA_i_wanna_have_control: "Профінансувати соціальну політику"
  ITA_i_wanna_have_control_desc: ""
- ITA_let_it_run_hot: "Let Inflation Rise" # (!)
+ ITA_let_it_run_hot: "Дозволити зростання інфляції"
  ITA_let_it_run_hot_desc: ""
  ITA_control_wage_growth: "Забагато хорошого"
  ITA_not_enough_suppress: "§LOur capability to §NSuppress§! revolutionary activity is too low to attempt this. If it was higher, this event option would have a different effect.§!"
@@ -1551,7 +1551,7 @@ ITA_prevent_AUS_harass_shipping: "This focus will §GPrevent§! §YThe Austrian 
  ITA_war_powers: "Надзвичайні воєнні повноваження"
  ITA_workers_councils_focus: "Змінити §YСоціальні заворушення§!:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §R-5%§!\n£political_advisor_cost_texticon Вартість політичного радника: §G-10%§!\n$communism_drift$: §G+0.01§!"
 
- ITA_arise_workers_of_italy: "Повстаньте, працівники Італії!"
+ ITA_arise_workers_of_italy: "Повстаньте, робітники Італії!"
  ITA_arise_workers_of_italy_desc: "Час парламентських ігор минув. Монархія та ліберали зрадили робітничий клас, залишивши гнилу систему. Ми повинні відкинути ілюзії та взятися за зброю. Лише революція зможе розірвати наші кайдани та побудувати нову державу для пролетаріату. Майбутнє Італії — в наших руках!"
 
  ITA_the_moral_highground: "Моральна перевага"
@@ -2357,7 +2357,7 @@ ITA_prevent_AUS_harass_shipping: "This focus will §GPrevent§! §YThe Austrian 
  ITA_fund_gas_warfare_research: "Фінансувати дослідження газової війни"
  ITA_forts_on_austria: "Укріпити регіон Венето"
  ITA_reinforce_lake_garda_fortifications: "Посилити укріплення біля озера Гарда"
- ITA_reinforce_lake_garda_fortifications_desc: "West of Lake Garda, our current fortifications are outdated and would not stand up against an Austrian attack. We must reinforce this area, with new fortifications and modernization of old ones to make sure the Austrians make no advance into Lombardy." # (!)
+ ITA_reinforce_lake_garda_fortifications_desc: "На Захід від озера Гарда наші нинішні укріплення є застарілими і не витримають австрійської атаки. Ми мусимо посилити цей район, збудувавши нові укріплення та модернізувавши старі, щоб переконатися, що Австрійці не просунуться в Ломбардію."
  ITA_forts_on_france: "Укріпити Французькі Альпи"
  ITA_establish_mobile_command_centers: "Сформувати Корпус швидкої допомоги"
  ITA_establish_the_health_sector: "Виконано рішення £decision_icon_small§Y«Створити сектор охорони здоров’я»§!"
@@ -2376,7 +2376,7 @@ ITA_prevent_AUS_harass_shipping: "This focus will §GPrevent§! §YThe Austrian 
  ITA_democratic_coalition: "Загально-демократична коаліція"
  ITA_revive_trade: "Відродити зовнішню торгівлю"
 
- ITA_adapt_to_mountain_warfare.tt: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+5.00%§!\n$MODIFIER_XP_GAIN_ARMY$: §G+7.00%§!\n$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-10.00%§!"
+ ITA_adapt_to_mountain_warfare.tt: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+5.00%§!\n$MODIFIER_XP_GAIN_ARMY$: §G+7.00%§!\n$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-11.00%§!"
  ITA_arditi.tt: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+10.00%§!"
  ITA_inf_techniques: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_ARMY_ORG_REGAIN$: §G+15.00%§!"
  ITA_new_dumb_commanders: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_ARMY_ORG$: §G+10.0%§!\n$MODIFIER_XP_GAIN_ARMY_FACTOR$: §R-5.0%§!"
@@ -2384,7 +2384,7 @@ ITA_prevent_AUS_harass_shipping: "This focus will §GPrevent§! §YThe Austrian 
 
  ITA_coord_militia: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+10.00%§!"
  ITA_accept_u_suck: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-10.00%§!\n$MODIFIER_BREAKTHROUGH$: §G+5.00%§!"
- ITA_form_compagnie_della_morte.tt: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_BREAKTHROUGH$: §G+5.00%§!"
+ ITA_form_compagnie_della_morte.tt: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_BREAKTHROUGH$: §G+7.00%§!"
  ITA_i_would_cough: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-10.00%§!\n\n$MODIFIER_ARMY_ORG_REGAIN$: §G+7.00%§!"
  ITA_let_people_do_their_job: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_PLANNING_SPEED$: §G+10.00%§!"
 
@@ -2399,7 +2399,7 @@ ITA_prevent_AUS_harass_shipping: "This focus will §GPrevent§! §YThe Austrian 
  ITA_fight_nep: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_BREAKTHROUGH$: §G+5.00%§!\n$MODIFIER_ARMY_ORG_REGAIN$: §G+10.00%§!\nПриріст досвіду армії: §G+10.0%§!"
  ITA_chain_of_command: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_ARMY_ORG$: §G+10.0%§!"
  ITA_stupid_ca: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_ARMY_ORG_REGAIN$: §R-5.00%§!\n$MODIFIER_ARMY_ORG$: §R-5.0%§!"
- ITA_reform_supreme_com: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_ARMY_ORG$: §G+5.0%§!"
+ ITA_reform_supreme_com: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_ARMY_ORG_REGAIN$: §G+5.00%§!\n$MODIFIER_ARMY_ORG$: §G+5.0%§!"
  ITA_promote_new_commanders: "Просунути нових командирів"
  ITA_ascension_of_the_destra: "Піднесення Дестри"
  ITA_ascension_of_the_destra_desc: "Коли стара система занепадає, багато хто звертається до Дестри (правих) — традиційних консервативних сил. Вони обіцяють відновити порядок, підтримати традиційні цінності та вести рішучу зовнішню політику. Це означає відхід від ліберальних компромісів до більш авторитарного й націоналістичного курсу, що прагне оновити Італію через дисципліну та ієрархію."
@@ -2422,7 +2422,7 @@ ITA_prevent_AUS_harass_shipping: "This focus will §GPrevent§! §YThe Austrian 
  ITA_prepare_for_a_war_in_the_mountains.tt: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+5.00%§!\n$MODIFIER_ARMY_ORG_REGAIN$: §G+7.00%§!"
  ITA_prepare_for_mountain_combat: "Підготуватися до боїв у горах"
  ITA_bersaglieri_cyclists: "Оснастити берсальєрів велосипедами"
- ITA_bersaglieri_cyclists_desc: "The bersaglieri are elite skirmisher units intended to be fast moving and mobile. We should equip the bersaglieri with bicycles and form bicycle units in them to improve the mobility of the soldiers." # (!)
+ ITA_bersaglieri_cyclists_desc: "Берсальєри — це елітні підрозділи легких військ, призначені для швидкого пересування та мобільності. Ми повинні оснастити берсальєрів велосипедами та сформувати у їхньому складі велосипедні підрозділи, щоб підвищити мобільність солдатів."
  ITA_utilize_terrain_knowledge_to_advance_faster: "Використати знання місцевості для швидшого просування"
  ITA_attack_defesne: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+5.00%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+5.00%§!"
  ITA_bersaglieri.tt: "Змінює §Y[ITA_army_name_thing]§! на\n$MODIFIER_ARMY_ORG$: §G+5.00%§!\n$MODIFIER_XP_GAIN_ARMY_FACTOR$: §G+5.0%§!\n$MODIFIER_BREAKTHROUGH$: §G+5.00%§!"
@@ -2627,7 +2627,7 @@ ITA_prevent_AUS_harass_shipping: "This focus will §GPrevent§! §YThe Austrian 
  ITA_increase_police_presence_in_the_south: "Посилити поліцейську присутність на півдні"
  ITA_science: "Змінити §YПлоди реформ§!:\n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5.00%§!"
  ITA_science_gold: "Змінити §YПлоди реформ§!:\n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+10.00%§!"
- ITA_public_pressure: "Rejuvenated Movement" # (!)
+ ITA_public_pressure: "Відродження руху"
  blank: "\n\n"
  ITA_oppose_the_new_right: "Протистояти «Новим правим»"
  ITA_sway_economic_experts: "Проти антиінтелектуалізму"
