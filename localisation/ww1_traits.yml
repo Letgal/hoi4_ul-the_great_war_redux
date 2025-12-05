@@ -641,9 +641,9 @@
  MEX_espiritista: "Espiritista"
  MEX_connected_landowner:0 "Connected Landowner"
  MEX_el_chacal: "El Chacal"
- ETH_disliked_by_nobles:0 "Disliked By Nobles"
- ETH_admirer_of_ottomans:0 "Admirer Of The Ottomans"
- MEX_apostle_of_democracy:0 "Apostle Of Democracy"
+ ETH_disliked_by_nobles:0 "Disliked by Nobles"
+ ETH_admirer_of_ottomans:0 "Admirer of the Ottomans"
+ MEX_apostle_of_democracy:0 "Apostle of Democracy"
  laborite_reformer:0 "Laborite Reformer"
  tridemism_is_socialism:0 "Tridemist Reformer"
  second_pillar_of_the_revolution:0 "Second Pillar of the Revolution"
@@ -655,6 +655,7 @@
  COS_cromwell_of_vaudeville:0 "Cromwell of Vaudeville"
  BLOCKADE_RUNNER_TRIGGER_TT:0 "Have a task force in combat where every ship in it has over 27 knots speed"
  eng_bertie: "Bertie"
+ blue_sultan:0 "The Blue Sultan"
 
 ### СТАРИЙ ПЕРЕКЛАД ###
  artillery_officer:0 "Офіцер артилерії"

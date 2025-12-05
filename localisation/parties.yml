@@ -1518,8 +1518,8 @@
  KUT_neutrality_party: "Сануссіти" # інак. аль-Сануссійя
  KUT_fascism_party: "Сануссіти" # інак. аль-Сануссійя
 
- #VLN_communism_party:0 "Makhnovtsі"
- #VLN_communism_party_long:0 "Makhnovskiy Rukh"
+ VLN_communism_party:0 "VRS"
+ VLN_communism_party_long:0 "Voyenno-revolyutsionny Sovet"
 
  #CRI_neutrality_party:0 "Qurultay"
  #CRI_democratic_party:0 "Milliy Firqa"
@@ -1705,6 +1705,7 @@
  #PHI_democratic_party_long:0 "Partido Nacionalista"
  #PHI_communism_party:0 "COF"
  #PHI_communism_party_long:0 "Congreso Obrero de Filipinas"
+ PHI_neutrality_party:0 "Irreconcilables"
  #PHI_neutrality_party:0 "IFI"
  #PHI_neutrality_party_long:0 "Iglesia Filipina Independiente"
 
@@ -3141,9 +3142,6 @@
  LBA_neutrality_party:0 "Аль Сануссійя"
  LBA_fascism_party:0 "Аль Сануссійя"
 
- VLN_communism_party:0 "Махновці"
- VLN_communism_party_long:0 "Махновський рух"
-
  CRI_neutrality_party:0 "Курултай"
  CRI_democratic_party:0 "Міллій Фірка"
 
@@ -3270,8 +3268,6 @@
  PHI_democratic_party_long:0 "Націоналістична Партія"
  PHI_communism_party:0 "ФКТ"
  PHI_communism_party_long:0 "Філіппінський Конгрес Трудящих"
- PHI_neutrality_party:0 "ФНЦ"
- PHI_neutrality_party_long:0 "Філіппінська Незалежна Церква"
 
  RHN_fascism:0 "Військова Адміністрація"
  RHN_fascism_long:0 "Французька військова адміністрація"

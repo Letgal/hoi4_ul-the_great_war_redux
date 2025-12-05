@@ -1842,6 +1842,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  BOS_diet_desc:0 "Консультативний сейм є єдиним демократичним органом держави, який складається з етнічного та релігійного представництва населення.\n\nБільша частина влади зосереджена в руках губернатора §Y[BOS.getLeader] §!, сам нездатний вести переговори про вказівки подвійної монархії"
  AUH_condominium:0 "Австро-Угорський кондомініум"
  AUH_condominium_desc:0 "Боснія та Герцеговина спільно управляються Австрією та Угорщиною через спільне Міністерство фінансів."
+ BOS_agrarian_colonists:0 "Agrarian Colonists" # (!)
+ BOS_agrarian_colonists_desc:0 "What started as an advertisment in a religious magazine by a German preist calling for pious farmers to settle Bosnia has now turned into a full agricultural policy. German families, mostly from Silesia and the Rhineland, have started to settle Bosnia and created settlements such as Rudolfstal. German Protestants from Hungary also jumped on and created a settlement named Franzjosefsfeld. In 1890 a law was created to grant these families tax concessions and offered up to 12 hectares per family, rent-free for the first three years and a low mortgage which would only last 10 years if they adopted a Bosnian citizenship. Following this more Poles, Czechs and Ruthenians started to migrate. As more migrate into Bosnia and increase the religious and ethnic boiling pot, local leaders are starting to get worried and oppose this policy..." # (!)
 
  AUH_polish_separatism:0 "Галицька бідність"
  AUH_polish_separatism_desc:0 "Регіон Галичини був об'єктом повсюдної бідності під час австрійської адміністрації. Голод, хвороби та алкоголізм нестримні, тоді як уряд Австро-Угорщини та клас заможних землевласників експлуатують регіон для отримання природних ресурсів. Галичина переживає жахливий стан нещастя, і ми повинні виділити ресурси в регіоні, щоб запобігти поступовому падінню довіри до наших інституцій"
@@ -2919,6 +2921,9 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  #Japan
  JAP_uncontrollable_military: "Некерована армія"
  JAP_uncontrollable_military_desc:0 "Японська армія готова включити конфлікти та війну, щоб отримати власні колонії та продемонструвати свою можливість. Уряд не в змозі добре керувати та підтримувати свою армію, і навіть армія не може контролювати себе"
+ kawasaki_shipbuilding:0 "Kawasaki Senpaku Kaiyō Kanpanī"
+ kawasaki_aerospace:0 "Kawasaki Kōkūuchū Kanpanii"
+ tokyo_arsenal:0 "Tokyo Arsenal"
 
  # Venezuela
  VEN_hacienda: "Асьенди"

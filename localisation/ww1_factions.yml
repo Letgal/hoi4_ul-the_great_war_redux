@@ -105,10 +105,6 @@
  build_big_industry_goal_desc: ""
  sign_peace_with_central_powers_goal_name:0 "Leave the imperialist war"
  sign_peace_with_central_powers_goal_desc: ""
- central_powers_a_footing_in_morocco:0 "Win over Morocco"
- central_powers_a_footing_in_morocco_desc:0 "We have been tussling over Morocco with France for quite a bit now. The 1905-1906 Moroccan crisis is still fresh in our minds. Establishing an alliance with Morocco or at the very least stopping the French will assist us greatly in North Africa"
- entente_secure_morocco:0 "Secure Morocco"
- entente_secure_morocco_desc:0 "We have been tussling over Morocco with Germany for quite a bit now. The 1905-1906 Moroccan crisis is still fresh in our minds. We can't let the Triple Alliance gain a footing in North Africa. Morocco has our name written all over it and is essential to our African and Naval hegemon."
  
  ## Маніфести (&?)
  return_our_lands_goal_name:0 "Return our historical lands"

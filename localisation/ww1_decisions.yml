@@ -8656,6 +8656,10 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  USA_ww1_sell_rifles:0 "Продати піхотну зброю [FROM.GetName]"
  USA_ww1_sell_arts:0 "Продати артилерію [FROM.GetName]"
  USA_ww1_sell_foods:0 "Продати їжу [FROM.GetName]"
+ USA_build_hales_bar_dam:0 "Build Hales Bar Dam" # (!)
+ USA_build_medina_dam:0 "Build Medina Dam" # (!)
+ USA_build_theodor_roosevelt_dam:0 "Build [ROOT.GetLeader] Dam" # (!)
+ USA_build_keokuk_dam:0 "Build Keokuk Dam" # (!)
 
  MEX_revolution_1910_mission:0 "Мексиканська революція"
  MEX_border_war:0 "Прикордонна війна"
@@ -8815,6 +8819,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  CAN_integrating_the_frontier_cat: "Інтеграція фронтиру"
  make_northern_mantitoba_core: "Інтегрувати північну Манітобу як провінцію"
  make_ungava_core: "Інтегрувати Унґаву як провінцію"
+ CAN_build_horse_shoe_bend_dam:0 "Build Horse Shoe Bend Dam" # (!)
 
  BRA_military_interventions_category:0 "Política das Salvações"
  BRA_military_interventions_category_desc:0 "Політика Спасіння полягала у військових втручаннях з метою послаблення олігархії."
@@ -9688,6 +9693,8 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  GER_center_sway_40_percent:0 "§gMore Centrists§! already swayed" # (!)
  GER_left_sway_20_percent:0 "§tЛівих§! уже переконано"
  GER_neutral_sway_20_percent:0 "§LНейтральних§! уже переконано"
+ GER_build_edersee_dam:0 "Build Edersee Dam" # (!)
+GER_build_mohnetalsperre:0 "Build Möhnetalsperre" # (!)
 
  FRA_vote_will_fail:0 "§RГолосування, ймовірно, буде невдалим.§!"
  FRA_vote_will_pass:0 "§GГолосування пройде!§!"

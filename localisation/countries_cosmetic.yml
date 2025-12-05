@@ -1978,6 +1978,11 @@
  GAL_liquidation_comitte: "Галичина"
  GAL_liquidation_comitte_DEF: "Галичина та Цєшинська Сілезія"
 
+ MOR_hibist_neutrality: "Гібійське Марокко" # https://en.wikipedia.org/wiki/Ahmed_al-Hiba
+ MOR_hibist_neutrality_DEF: "Гібійський султанат Марокко"
+ MOR_hibist_fascism: "Гібійське Марокко"
+ MOR_hibist_fascism_DEF: "Гібійський султанат Марокко"
+
  TAZ: "Тазеруалт"
  TAZ_DEF: "Тазеруалт"
  TAZ_ADJ: "Тазеруалтськ"
@@ -2068,3 +2073,13 @@
 
  GDC_tongmenghui: "Ґуандунський військовий уряд"
  GDC_tongmenghui_DEF: "Ґуандунський військовий уряд"
+
+ SYR_arabia: "Північна Аравія"
+ SYR_arabia_DEF: "Північна Аравія"
+ SYR_arabia_ADJ: "Аравійськ"
+ SYR_arabia_neutrality: "Королівство Північна Аравія" # (&?)
+ SYR_arabia_neutrality_DEF: "Королівство Північна Аравія"
+ SYR_arabia_fascism: "Халіфат Північна Аравія" # (&?)
+ SYR_arabia_fascism_DEF: "Халіфат Північна Аравія"
+ SYR_arabia_communism: "Північноарабський Союз" # (&?)
+ SYR_arabia_communism_DEF: "Північноарабський Союз"
