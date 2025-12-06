@@ -77,18 +77,18 @@
 + `ww1_equipment`
 + `ww1_game_rules`
 + `ww1_modifiers`
-+ `ww1_research` (частину переклав *Лицарський хрест*)
++ `ww1_research` (окремі рядки переклав *Лицарський хрест*)
 + `ww1_traits`
 
 ### Папка `replace`
 + `replace_game_rules`
++ `replace_research`
 + `replace_wtt_decisions`
 
 ## Тільки старий переклад (оновити)
 ### Папка `replace`
 + `replace_events`
 + `replace_peace`
-+ `replace_research`
 
 ## Не перекладено взагалі
 + `ww1_characters`

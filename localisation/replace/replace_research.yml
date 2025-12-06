@@ -3,33 +3,33 @@
  nsb_armour_folder_desc: "$armour_folder_desc$"
  artillery_folder_desc: "Польові гармати, гаубиці, мортири, протитанкові та протиповітряні гармати для підтримки дивізій."
 
- infantry_weapons2: "Піхотне спорядження I"
- infantry_weapons2_desc:0 "Індивідуальна і колективна стрілецька зброя, а також інші елементи екіпіровки піхотинця. Покращені моделі зброї та більш спеціалізоване екіпірування."
- improved_infantry_weapons_2: "Піхотне спорядження II"
- improved_infantry_weapons_2_desc:0 "Індивідуальна і колективна стрілецька зброя, а також інші елементи екіпіровки піхотинця. Покращені моделі зброї та більш спеціалізоване екіпірування."
- advanced_infantry_weapons2: "Піхотне спорядження III"
- advanced_infantry_weapons2_desc:0 "Індивідуальна і колективна стрілецька зброя, а також інші елементи екіпіровки піхотинця. Включає штурмові гвинтівки і протитанкові гранатомети. Зброя, яка раніше поставлялася в обмеженій кількості, тепер більш доступна."
- advanced_infantry_weapons3: "Піхотне спорядження IV"
+ infantry_weapons2: "Піхотне спорядження I"
+ #infantry_weapons2_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. The equipment must include infantry grenades and modern rifles."
+ improved_infantry_weapons_2: "Піхотне спорядження II"
+ #improved_infantry_weapons_2_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. The equipment kit includes quick-firing rifles, as well as a bulky light machine gun."
+ advanced_infantry_weapons2: "Піхотне спорядження III"
+ #advanced_infantry_weapons2_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. The new equipment includes infantry armor for assault squads and a set of new types of grenades and rapid-fire weapons."
+ advanced_infantry_weapons3: "Піхотне спорядження IV"
  advanced_infantry_weapons3_desc: "$advanced_infantry_weapons2_desc$"
- advanced_infantry_weapons4: "Піхотне спорядження V"
+ advanced_infantry_weapons4: "Піхотне спорядження V"
  advanced_infantry_weapons4_desc: "$advanced_infantry_weapons2_desc$"
 
- infantry_at: "Піхотна протитанкова зброя I"
- infantry_at_desc:0 "Оснастивши нашу піхоту протитанковими рушницями, ми дозволимо їй знищувати легку бронетехніку, не втрачаючи мобільності."
- infantry_at2: "Піхотна протитанкова зброя II"
- infantry_at2_desc:0 "Щоб піхота могла ефективніше вести бій з важкою бронетехнікою, протитанкові рушниці повинні стати меншими і легшими."
+ infantry_at: "Піхотна протитанкова зброя I"
+ #infantry_at_desc:0 "Arming our infantry units with anti-tank rifles will allow them to take out lighter armored vehicles while maintaining mobility."
+ infantry_at2: "Піхотна протитанкова зброя II"
+ #infantry_at2_desc:0 "For infantry to effectively engage heavier armored units, high-explosive anti-tank weapons need to be made smaller and lighter."
 
- support_weapons_desc:0 "Автоматична зброя стає все більш портативною. Пістолети-кулемети вже довели свою ефективність. Необхідно продовжувати розробку ручної зброї вогневої підтримки."
- support_weapons2_desc:0 "Розробка моделей, що поєднують властивості легкої та важкої автоматичної зброї, дає змогу більш гнучко екіпірувати нашу піхоту."
- support_weapons3_desc:0 "Покращуючи надійність автоматичної зброї, ми можемо також експериментувати з вищою скорострільністю, щоб безперервний потік куль став ще смертоноснішим."
- support_weapons4: "Зброя вогневої підтримки IV"
- support_weapons4_desc:0 "У міру поширення штурмових гвинтівок розробка надійної автоматичної зброї, яку будь-який солдат зможе застосовувати в будь-яких умовах, стає головним завданням сучасної армії."
- support_weapons5: "Зброя вогневої підтримки V"
- support_weapons5_desc:0 "Розміри кулемета значно зменшені. Нові кулемети можуть використовуватися як зброя підтримки, а також у складі штурмових груп."
- support_weapons6: "Зброя вогневої підтримки VI"
- support_weapons6_desc:0 "Досвід Великої війни дасть змогу вдосконалити конструкцію кулемета і реорганізувати групи підтримки."
- support_weapons7: "Зброя вогневої підтримки VII"
- support_weapons7_desc:0 "Надійність, скорострільність, мобільність кулеметів досягли найвищого рівня завдяки інженерному досвіду післявоєнного періоду."
+ #support_weapons_desc:0 "Standardized machine guns of the pre-war era."
+ #support_weapons2_desc:0 "Advanced optics for sniper rifles and surveillance devices."
+ #support_weapons3_desc:0 "Easel machine guns now have upgraded locks, the spread of fire is minimized."
+ support_weapons4: "Зброя вогневої підтримки IV"
+ #support_weapons4_desc:0 "Flamethrowers are especially effective for smoking the enemy out of trenches."
+ support_weapons5: "Зброя вогневої підтримки V"
+ #support_weapons5_desc:0 "Machine gun dimensions are greatly reduced. New machine guns can be used as a support weapon, as well as in assault groups."
+ support_weapons6: "Зброя вогневої підтримки VI"
+ #support_weapons6_desc:0 "The experience of the Great War will improve the design of the machine gun and reorganize support groups."
+ support_weapons7: "Зброя вогневої підтримки VII"
+ #support_weapons7_desc:0 "Reliability, rate of fire, mobility of machine guns reached the highest levels thanks to the engineering experience of the post-war period."
 
  marines_desc:0 "Troops specializing in amphibious warfare are growing ever more indispensable. Improvised methods and equipment become things of the past as our naval infantry is supported by specialized landing craft and training." # (!)
  marines2_desc:0 "The Marine Corps is now not only trained in a marine landing, but also equipped for this. Special tools will allow you to quickly make a breakthrough and knock the enemy off the shore." # (!)
@@ -39,58 +39,57 @@
  tech_mountaineers3_desc: "$tech_mountaineers_desc$"
 
  #KiS
- electronic_mechanical_engineering:0 "Електротехніка"
- electronic_mechanical_engineering_desc:0 "Електротехніка - це галузь техніки, яка зазвичай займається вивченням і застосуванням електрики, електроніки та електромагнетизму."
+ electronic_mechanical_engineering: "Електротехніка"
+ #electronic_mechanical_engineering_desc:0 "Електротехніка - це галузь техніки, яка зазвичай займається вивченням і застосуванням електрики, електроніки та електромагнетизму."
 
- electronic_ww2:0 "Електроніка та машинобудування"
- electronic_ww2_desc:0 "Ми живемо в епоху, коли електричні механізми не тільки зігрівають і освітлюють нас, а й допомагають мислити та спілкуватися. Електроніка стане наріжним каменем військової розвідки в прийдешньому столітті."
+ electronic_ww2: "Електронне машинобудування" # vnl.
+ electronic_ww2_desc: "Ми живемо в епоху, коли електричні машини здатні не лише зігрівати й освітлювати нас, але й допомагати нам мислити та спілкуватися. Електроніка стане наріжним каменем військової розвідки в прийдешньому столітті." # vnl.
 
  radio:0 "Wireless Telegraphy" # (!)
  radio_desc:0 "By harnessing electromagnetic waves for wireless transmission, we can establish communication networks free from the constraints of physical telegraph lines. This breakthrough will revolutionize our military coordination and open new possibilities for civilian applications." # (!)
-
- radio2:0 "Покращене радіо"
- radio2_desc:0 "Прийняття винаходів радіоаматорів і розширення використання FM-радіо зменшить радіоперешкоди і дасть нам змогу знайти нове застосування радіотехнологій."
-
- radio3:0 "Просунуте радіо"
- radio3_desc:0 "Прийняття винаходів радіоаматорів і розширення використання FM-радіо зменшить радіоперешкоди та дасть нам змогу знайти нове застосування радіотехнологій."
+ radio2: "Поліпшене радіо"
+ radio2_desc: "Упровадження винаходів радіолюбителів і розширення вжитку FM-радіо зменшить радіоперешкоди та дозволить нам знайти нові застосування радіотехнологій." # vnl.
+ radio3: "Удосконалене радіо"
+ radio3_desc: "$radio2_desc$"
 
 
- radio_detection:0 "Радіовиявлення"
+ radio_detection: "Радіовиявлення"
 
- AIR_TITLE_CAS:0 "Штурмова\nавіація"
- AIR_TITLE_NAV:0 "Морський\nбомбардувальник"
- AIR_TITLE_HEAVY_FIGHTER:0 "Важкий\nвинищувач"
- AIR_TITLE_MEDIUM_BOMBER:0 "Тактичний\nбомбардувальник"
- AIR_TITLE_STRAT_BOMBER:0 "Стратегічний\nбомбардувальник"
+ AIR_TITLE_CAS: "Штурмовики"
+ AIR_TITLE_NAV: "Гідролітаки"
+ AIR_TITLE_HEAVY_FIGHTER: "Важкий винищувач"
+ AIR_TITLE_MEDIUM_BOMBER: "Легкий бомбардувальник"
+ AIR_TITLE_STRAT_BOMBER: "Важкий бомбардувальник"
+ AIR_TITLE_SCOUT_PLANE: "Літаки-\nрозвідники"
 
- tactical_bomber:0 "Моделі тактичних бомбардувальників"
+ tactical_bomber: "Моделі легких бомбардувальників"
  strategic_bomber: "Моделі важких бомбардувальників"
- cat_strategic_bomber:0 "Моделі стратегічних бомбардувальників"
+ cat_strategic_bomber: "Моделі важких бомбардувальників"
  cas_bomber: "Моделі штурмових літаків" # (&?)
- cat_scout_plane:0 "Літак розвідник" 
+ cat_scout_plane: "Літаки спостереження"
  radio_tech: "Радіо-технології"
 
- INFANTRY_TITLE_CHEMICAL_WARFARE: "ХІМІЧНА ВІЙНА" # ((#))
- INFANTRY_TITLE_MOTORISED:0 "МОТОРИЗОВАНА ПІХОТА"
- ARMOUR_TITLE:0 "ТАНКИ"
- ARMORED_TITLE_MEDIUM:0 "СЕРЕДНІЙ ТАНК"
- ARMORED_TITLE_HEAVY:0 "ВАЖКИЙ ТАНК"
- ARMORED_TITLE_LIGHT:0 "ЛЕГКИЙ ТАНК"
- ARMORED_TITLE_ARMORED_CAR:0 "БРОНЕМАШИНИ"
- NAVAL_TITLE_TRANSPORTS:0 "ТРАНСПОРТ"
- INDUSTRY_TITLE_OIL:0 "СИНТЕТИЧНЕ ПАЛИВО"
- INDUSTRY_TITLE_CONSTRUCTION:0 "БУДІВНИЦТВО"
+ INFANTRY_TITLE_CHEMICAL_WARFARE: "ХІМІЧНА ВІЙНА"
+ #INFANTRY_TITLE_MOTORISED:1 "VEHICLES & MOTORIZED"
+ ARMOUR_TITLE: "ТАНКИ"
+ ARMORED_TITLE_MEDIUM: "СЕРЕДНІ ТАНКИ"
+ ARMORED_TITLE_HEAVY: "ВАЖКІ ТАНКИ"
+ ARMORED_TITLE_LIGHT: "ЛЕГКІ ТАНКИ"
+ ARMORED_TITLE_ARMORED_CAR: "БРОНЕМАШИНИ"
+ NAVAL_TITLE_TRANSPORTS: "ТРАНСПОРТ"
+ INDUSTRY_TITLE_OIL: "РЕСУРСИ"
+ INDUSTRY_TITLE_CONSTRUCTION: "БУДІВНИЦТВО"
 
- basic_naval_mines:0 "Контактна міна"
- basic_naval_mines_desc:0 "Звичайна плавуча бомба, прикріплена ланцюгом до морського дна. Вибухає при зіткненні з кораблем."
- improved_naval_mines:0 "Магнітна міна"
- improved_naval_mines_desc:0 "Ця складна міна вибухає, коли виявляє зміни в магнітному полі, викликані кораблем, що проходить повз."
- advanced_naval_mines:0 "Акустична міна"
- advanced_naval_mines_desc:0 "Ця морська міна вибухає, вловивши шуми корабля, що знаходиться поруч."
+ basic_naval_mines: "Базові контактні міни"
+ #basic_naval_mines_desc:0 "A simple explosive charge, anchored to the seabed and designed to detonate on contact with a ship's hull. The devastating effectiveness of these weapons was first demonstrated on a massive scale during the Russo-Japanese War."
+ improved_naval_mines: "Поліпшені контактні міни"
+ #improved_naval_mines_desc:0 "A more dependable contact mine utilizing superior detonators, such as the 'Hertz Horn' chemical fuze. This enhanced reliability makes the mass production and deployment of large-scale mine barrages a practical reality."
+ advanced_naval_mines: "Дистанційні міни" # (&?)
+ #advanced_naval_mines_desc:0 "A contact mine specifically adapted for anti-submarine warfare. A long, buoyant antenna extends vertically from the mine body, creating a deep trigger radius to catch submerged vessels passing overhead."
 
- early_ship_hull_carrier:0 "Конверсія палуби"
- early_ship_hull_carrier_short:0 "Конверсія палуби"
- early_ship_hull_carrier_desc:0 "Конверсія старих корпусів дає змогу з мінімальними витратами будувати експериментальні зразки авіаносців і набиратися цінних навичок у галузі палубної авіації. Перероблені кораблі поступатимуться "справжнім" авіаносцям, але створювати їх набагато швидше."
+ early_ship_hull_carrier: "Конверсія палуби"
+ early_ship_hull_carrier_short: "Конверсія палуби"
+ #early_ship_hull_carrier_desc:0 "Conversions of old hulls allow for cheap experiments with naval aviation to gain experience in building and operating carriers. These ships will be less capable than a purpose-built carrier, but far quicker to create."
  basic_ship_hull_heavy: "Корпус пізнього дредноута"
  basic_ship_hull_heavy_short: "Корпус пізнього дредноута"
  basic_ship_hull_cruiser: "Корпус крейсера 1890 року"
@@ -103,11 +102,39 @@
 
  advanced_fire_control_system_desc:0 "A large and complex mechanical computer that tracks a large number of inputs about both the target, the firing ship as well as weather conditions and sea state allows very accurate ballistic calculations." # (!)
 
- sonar:0 "Пасивний сонар"
+ sonar: "Ранній гідрофон"
+
+ #mtg_transport:0 "Landing Transport"
+ #mtg_transport_desc:0 "An ordinary boat, but equipped for sea landings."
+ #mtg_landing_craft:0 "Landing Barge"
+ #mtg_landing_craft_desc:0 "Large barge, specialized for large-scale sea landing."
+
+ advanced_radio_desc:0 "Further development of the radio consists not only in enhancing the signal power, the appearance of duplex communication, but also in reducing the dimensions of the stations, which made them more mobile." # (!)
+
+### СТАРИЙ ПЕРЕКЛАД ###
+ infantry_weapons2_desc:0 "Індивідуальна і колективна стрілецька зброя, а також інші елементи екіпіровки піхотинця. Покращені моделі зброї та більш спеціалізоване екіпірування."
+ improved_infantry_weapons_2_desc:0 "Індивідуальна і колективна стрілецька зброя, а також інші елементи екіпіровки піхотинця. Покращені моделі зброї та більш спеціалізоване екіпірування."
+ advanced_infantry_weapons2_desc:0 "Індивідуальна і колективна стрілецька зброя, а також інші елементи екіпіровки піхотинця. Включає штурмові гвинтівки і протитанкові гранатомети. Зброя, яка раніше поставлялася в обмеженій кількості, тепер більш доступна."
+ infantry_at_desc:0 "Оснастивши нашу піхоту протитанковими рушницями, ми дозволимо їй знищувати легку бронетехніку, не втрачаючи мобільності."
+ infantry_at2_desc:0 "Щоб піхота могла ефективніше вести бій з важкою бронетехнікою, протитанкові рушниці повинні стати меншими і легшими."
+ support_weapons_desc:0 "Автоматична зброя стає все більш портативною. Пістолети-кулемети вже довели свою ефективність. Необхідно продовжувати розробку ручної зброї вогневої підтримки."
+ support_weapons2_desc:0 "Розробка моделей, що поєднують властивості легкої та важкої автоматичної зброї, дає змогу більш гнучко екіпірувати нашу піхоту."
+ support_weapons3_desc:0 "Покращуючи надійність автоматичної зброї, ми можемо також експериментувати з вищою скорострільністю, щоб безперервний потік куль став ще смертоноснішим."
+ support_weapons4_desc:0 "У міру поширення штурмових гвинтівок розробка надійної автоматичної зброї, яку будь-який солдат зможе застосовувати в будь-яких умовах, стає головним завданням сучасної армії."
+ support_weapons5_desc:0 "Розміри кулемета значно зменшені. Нові кулемети можуть використовуватися як зброя підтримки, а також у складі штурмових груп."
+ support_weapons6_desc:0 "Досвід Великої війни дасть змогу вдосконалити конструкцію кулемета і реорганізувати групи підтримки."
+ support_weapons7_desc:0 "Надійність, скорострільність, мобільність кулеметів досягли найвищого рівня завдяки інженерному досвіду післявоєнного періоду."
+
+ electronic_mechanical_engineering_desc:0 "Електротехніка - це галузь техніки, яка зазвичай займається вивченням і застосуванням електрики, електроніки та електромагнетизму."
+
+ INFANTRY_TITLE_MOTORISED:0 "МОТОРИЗОВАНА ПІХОТА"
+
+ basic_naval_mines_desc:0 "Звичайна плавуча бомба, прикріплена ланцюгом до морського дна. Вибухає при зіткненні з кораблем."
+ improved_naval_mines_desc:0 "Ця складна міна вибухає, коли виявляє зміни в магнітному полі, викликані кораблем, що проходить повз."
+ advanced_naval_mines_desc:0 "Ця морська міна вибухає, вловивши шуми корабля, що знаходиться поруч."
+ early_ship_hull_carrier_desc:0 "Конверсія старих корпусів дає змогу з мінімальними витратами будувати експериментальні зразки авіаносців і набиратися цінних навичок у галузі палубної авіації. Перероблені кораблі поступатимуться "справжнім" авіаносцям, але створювати їх набагато швидше."
 
  mtg_transport:0 "Транспортний корабель"
  mtg_transport_desc:0 "Корабель, створений тільки для перекидання військ, у нього немає оборонних можливостей."
  mtg_landing_craft:0 "Десантний корабель"
  mtg_landing_craft_desc:0 "Судно, спеціально розроблене для висадки десанту на ворожу територію, злегка спростить завдання."
-
- advanced_radio_desc:0 "Further development of the radio consists not only in enhancing the signal power, the appearance of duplex communication, but also in reducing the dimensions of the stations, which made them more mobile." # (!)
