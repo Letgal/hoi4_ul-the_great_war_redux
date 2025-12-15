@@ -38,6 +38,7 @@
 + `replace_modifiers`
 + `replace_music`
 + `replace_operatives` (умовно, аааааа)
++ `replace_peace` (бле)
 + `replace_politics`
 + `replace_state`
 + `replace_stats` (аааааа)
@@ -81,14 +82,10 @@
 + `ww1_traits`
 
 ### Папка `replace`
++ `replace_events`
 + `replace_game_rules`
 + `replace_research`
 + `replace_wtt_decisions`
-
-## Тільки старий переклад (оновити)
-### Папка `replace`
-+ `replace_events`
-+ `replace_peace`
 
 ## Не перекладено взагалі
 + `ww1_characters`
