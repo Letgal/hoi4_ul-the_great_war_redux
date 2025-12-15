@@ -47,12 +47,12 @@
  custom_diff_weak_rom: "@ROM Послабити Румунію"
  custom_diff_weak_raj: "@RAJ Послабити Індію"
 
-#GAME SETUP
- #Superevent
- #RULE_SUPEREVENT:0 "Super Events"
- #RULE_OPTION_DEFAULT_SUPEREVENT_DESC:0 "Super events are enabled."
- #RULE_OPTION_SUPEREVENT_DISABLED:0 "Disabled Super Events"
- #RULE_OPTION_SUPEREVENT_DISABLED_DESC:0 "Super events are disabled."
+### НАЛАШТУВАННЯ ПОЧАТКУ ГРИ ###
+ ## Суперподії
+  RULE_SUPEREVENT: "Суперподії"
+  RULE_OPTION_DEFAULT_SUPEREVENT_DESC: "Суперподії ввімкнено."
+  RULE_OPTION_SUPEREVENT_DISABLED: "Суперподії вимкнено"
+  RULE_OPTION_SUPEREVENT_DISABLED_DESC: "Суперподії вимкнено."
 
  ## Роздробленість
   RULE_OPTION_ITA_KR: "Спадщина Вельткріґу"
@@ -62,14 +62,14 @@
   RULE_OPTION_AUH_FRAGMENTED_DESC:0 "Кордони Австро-Угорщини будуть перекроєні за етнічною ознакою."
   GER_FRAGMENTATION_STATUS: "Роздробленість @GER Німеччини"
   RULE_OPTION_GER_FRAGMENTED: "Федеральні землі"
-  RULE_OPTION_GER_FRAGMENTED_DESC:0 "Кордони Німеччини будуть перекроєні за федеральними державами."
+  RULE_OPTION_GER_FRAGMENTED_DESC:0 "Кордони Німеччини будуть перекроєні за федеральними штатами."
   TUR_FRAGMENTATION_STATUS: "Роздробленість @TUR Османської імперії"
   RULE_OPTION_TUR_FRAGMENTED: "Етнічні границі"
   RULE_OPTION_TUR_FRAGMENTED_DESC:0 "Кордони Османської імперії будуть перекроєні за етнічною ознакою."
   RULE_OPTION_TUR_NATIONAL_OATH: "Національна присяга"
   RULE_OPTION_TUR_NATIONAL_OATH_DESC:0 "Кордони Османської імперії будуть перекроєні відповідно до національної присяги Османського парламенту."
   RULE_OPTION_TUR_BYZANTINE: "Візантофілія"
-  RULE_OPTION_TUR_BYZANTINE_DESC:0 "У 1453 році в столиці Візантії нічого не відбулося..."
+  RULE_OPTION_TUR_BYZANTINE_DESC: "Ніщо не сталося в Константинополі в 1453 році..."
   USA_FRAGMENTATION_STATUS: "Роздробленість @USA Сполучених Штатів"
   RULE_OPTION_USA_FRAGMENTED: "Поразка Американської революції"
   RULE_OPTION_USA_FRAGMENTED_DESC:0 "Кордони Сполучених Штатів будуть перекроєні відповідно до часової лінії, в якій Американська Революція зазнала невдачі."
@@ -93,61 +93,61 @@
   RULE_ARMISTICE_CANT_JUSTIFY:0 "Правило гри: §RЦілі війни не можна витворювати під час перемир'я.§!"
   RULE_CIVIL_WAR_CANT_JUSTIFY:0 "Правило гри: §RЦілі війни не можна витворювати в розпал громадянської війни.§!"
 
- #Ultimatum
-  #ULTIMATUM_ON_AGADIR:0 "Ultimatum On Agadir"
-  #RULE_OPTION_DEFAULT_ULTIMATUM_ON_AGADIR_DESC:0 "AI will follow to mimic historical events in their conditions."
-  #RULE_OPTION_WAR_ON_AGADIR:0 "War On Agadir"
-  #RULE_OPTION_WAR_ON_AGADIR_DESC:0 "The Great War will be fired on Agadir."
-  #ULTIMATUM_ON_ALBANIA:0 "Ultimatum On Albania"
-  #RULE_OPTION_DEFAULT_ULTIMATUM_ON_ALBANIA_DESC:0 "AI will follow to mimic historical events in their conditions."
-  #RULE_OPTION_WAR_ON_ALBANIA:0 "War On Albania"
-  #RULE_OPTION_WAR_ON_ALBANIA_DESC:0 "The Great War will be fired on Albania."
+ ## Ультиматум
+  ULTIMATUM_ON_AGADIR: "Аґадірський ультиматум"
+  RULE_OPTION_DEFAULT_ULTIMATUM_ON_AGADIR_DESC: "ШІ намагатиметься наслідувати історичні події в їхніх умовах."
+  RULE_OPTION_WAR_ON_AGADIR: "Війна в Аґадірі"
+  RULE_OPTION_WAR_ON_AGADIR_DESC: "Велика війна спалахне в Аґадірі."
+  ULTIMATUM_ON_ALBANIA: "Албанський ультиматум"
+  RULE_OPTION_DEFAULT_ULTIMATUM_ON_ALBANIA_DESC: "ШІ намагатиметься наслідувати історичні події в їхніх умовах."
+  RULE_OPTION_WAR_ON_ALBANIA: "Війна в Албанії"
+  RULE_OPTION_WAR_ON_ALBANIA_DESC: "Велика війна спалахне в Албанії."
 
   MOROCCAN_REVOLUTION:0 "@MOR @FRA Анексія Марокко"
   MOROCCAN_REVOLUTION_FIRED:0 "@MOR Марокканська революція"
   MOROCCAN_REVOLUTION_FIRED_DESC:0 "ШІ Марокко відмовиться від протекторату, що спричинить війну з Францією."
   RULE_OPTION_DEFAULT_MOROCCAN_REVOLUTION_DESC:0 "ШІ дотримуватиметься історичних подій відповідно до їхніх умов."
 
- #Fate of Franz Fedinand
-  #FATE_OF_FRANZ_FERDINAND:0 "Fate of Franz Ferdinand"
-  #RULE_OPTION_DEFAULT_FRANZ_FERDINAND_DESC:0 "The fate of Franz Ferdinand will be decided by in-game choices."
-  #RULE_OPTION_FRANZ_FERDINAND_SURVIVES:0 "Franz Ferdinand Survives"
-  #RULE_OPTION_FRANZ_FERDINAND_SURVIVES_DESC:0 "Franz Ferdinand will survive no matter the in-game choices."
-  #RULE_OPTION_FRANZ_FERDINAND_DIES:0 "Franz Ferdinand Dies"
-  #RULE_OPTION_FRANZ_FERDINAND_DIES_DESC:0 "Franz Ferdinand will die no matter the in-game choices unless Serbia doesn't exist or is a puppet."
+ ## Доля Франца Фердінанда
+  FATE_OF_FRANZ_FERDINAND: "Доля Франца Фердінанда"
+  RULE_OPTION_DEFAULT_FRANZ_FERDINAND_DESC: "Доля Франца Фердінанда буде визначена внутрішньоігровими рішеннями."
+  RULE_OPTION_FRANZ_FERDINAND_SURVIVES: "Франц Фердінанд виживає"
+  RULE_OPTION_FRANZ_FERDINAND_SURVIVES_DESC: "Франц Фердінанд виживе незалежно від внутрішньоігрових рішень."
+  RULE_OPTION_FRANZ_FERDINAND_DIES: "Франц Фердінанд помирає"
+  RULE_OPTION_FRANZ_FERDINAND_DIES_DESC: "Франц Фердінанд помре незалежно від внутрішньоігрових рішень, окрім як якщо Сербія не існує або є маріонеткою." # (&+)
 
- #Fate of Pyotr Stolypin
-  #FATE_OF_STOLYPIN:0 "Fate of Pyotr Stolypin"
-  #RULE_OPTION_DEFAULT_STOLYPIN_DESC:0 "The fate of Stolypin will be random unless the historical focuses are on."
-  #RULE_OPTION_STOLYPIN_SURVIVES:0 "Stolypin Survives"
-  #RULE_OPTION_STOLYPIN_SURVIVES_DESC:0 "Stolypin will survive the assassination plot."
-  #RULE_OPTION_STOLYPIN_DIES:0 "Stolypin Dies"
-  #RULE_OPTION_STOLYPIN_DIES_DESC:0 "Stolypin will be assassinated."
+ ## Доля Петра Столипіна
+  FATE_OF_STOLYPIN: "Доля Петра Столипіна"
+  RULE_OPTION_DEFAULT_STOLYPIN_DESC: "Доля Столипіна буде випадкова, якщо тільки не ввімкнено історичні фокуси."
+  RULE_OPTION_STOLYPIN_SURVIVES: "Столипін виживає"
+  RULE_OPTION_STOLYPIN_SURVIVES_DESC: "Столипін переживе змову з ціллю вбивства."
+  RULE_OPTION_STOLYPIN_DIES: "Столипін помирає"
+  RULE_OPTION_STOLYPIN_DIES_DESC: "Столипіна буде вбито."
 
- #Fate of Theodore Roosevelt
-  #FATE_OF_ROOSEVELT:0 "Fate of Theodore Roosevelt"
-  #RULE_OPTION_DEFAULT_ROOSEVELT_DESC:0 "The fate of Roosevelt will be random unless the historical focuses are on."
-  #RULE_OPTION_ROOSEVELT_SURVIVES:0 "Roosevelt Survives"
-  #RULE_OPTION_ROOSEVELT_SURVIVES_DESC:0 "Roosevelt will survive the assassination attempt."
-  #RULE_OPTION_ROOSEVELT_DIES:0 "Roosevelt Dies"
-  #RULE_OPTION_ROOSEVELT_DIES_DESC:0 "Roosevelt will be assassinated."
+ ## Доля Теодора Рузвелта
+  FATE_OF_ROOSEVELT: "Доля Теодора Рузвелта"
+  RULE_OPTION_DEFAULT_ROOSEVELT_DESC: "Доля Рузвелта буде випадкова, якщо тільки не ввімкнено історичні фокуси."
+  RULE_OPTION_ROOSEVELT_SURVIVES: "Рузвелт виживає"
+  RULE_OPTION_ROOSEVELT_SURVIVES_DESC: "Рузвелт переживе замах."
+  RULE_OPTION_ROOSEVELT_DIES: "Рузвелт помирає"
+  RULE_OPTION_ROOSEVELT_DIES_DESC: "Рузвелта буде вбито."
 
- #Fate of Tsar
-  #FATE_OF_TSAR:0 "Fate of the Tsar"
-  #RULE_OPTION_DEFAULT_TSAR_FATE_DESC:0 "The Bolsheviks will execute the Tsar and his family."
-  #RULE_OPTION_TSAR_IN_BRITAIN:0 "Tsar Escapes"
-  #RULE_OPTION_TSAR_IN_BRITAIN_DESC:0 "Tsar Escapes to Britain."
-  #RULE_OPTION_TSAR_RETURNED:0 "Tsar Restored"
-  #RULE_OPTION_TSAR_RETURNED_DESC:0 "The Tsar will be saved and restored to power by White Guards."
+ ## Доля царя
+  FATE_OF_TSAR: "Доля царя"
+  RULE_OPTION_DEFAULT_TSAR_FATE_DESC: "Більшовики стратять царя та його родину."
+  RULE_OPTION_TSAR_IN_BRITAIN: "Цар утікає"
+  RULE_OPTION_TSAR_IN_BRITAIN_DESC: "Цар утікає до Британії."
+  RULE_OPTION_TSAR_RETURNED: "Царя повернуто"
+  RULE_OPTION_TSAR_RETURNED_DESC: "Біла гвардія врятує та поверне царя до влади."
 
- # Прапор Росії
+ ## Прапор Росії
   RULE_RUSSIAN_FLAG: "£ww1_game_rule_flag_RUS£ Прапор Росії"
-  #RULE_OPTION_DEFAULT_RUSSIAN_FLAG:0 "£ww1_game_rule_flag_RUS  Historical Flag"
-  #RULE_OPTION_DEFAULT_RUSSIAN_FLAG_DESC:0 "The §Y"historical"§! tricolor flag will be used."
-  #RULE_OPTION_AHISTORICAL_RUSSIAN_FLAG:0 "£ww1_game_rule_flag_RUS_ahistorical  Ahistorical Flag"
-  #RULE_OPTION_AHISTORICAL_RUSSIAN_FLAG_DESC:0 "The §Y"Unity of the Tsar with the people"§! flag will be used."
-  #RULE_OPTION_IMPERIAL_RUSSIAN_FLAG:0 "£GFX_ww1_game_rule_flag_RUS_absulutusm  Imperial Flag"
-  #RULE_OPTION_IMPERIAL_RUSSIAN_FLAG_DESC:0 "The §Y"imperial"§! flag will be used."
+  RULE_OPTION_DEFAULT_RUSSIAN_FLAG: "£ww1_game_rule_flag_RUS£ Історичний прапор"
+  RULE_OPTION_DEFAULT_RUSSIAN_FLAG_DESC: "Буде вжито §Yісторичний§! трибарвний прапор."
+  RULE_OPTION_AHISTORICAL_RUSSIAN_FLAG: "£ww1_game_rule_flag_RUS_ahistorical£ Ahistorical Flag"
+  RULE_OPTION_AHISTORICAL_RUSSIAN_FLAG_DESC: "Буде вжито прапор §YЄдність царя з народом§!."
+  RULE_OPTION_IMPERIAL_RUSSIAN_FLAG: "£GFX_ww1_game_rule_flag_RUS_absulutusm£ Imperial Flag"
+  RULE_OPTION_IMPERIAL_RUSSIAN_FLAG_DESC: "Буде вжито §Yімперський§! прапор."
 
  #AUH_civil_war_intervention
   AUH_CIVIL_WAR_INTERVENTIONS:0 "@AUS Громадянська війна в Австро-Угорщині"
@@ -163,12 +163,12 @@
   AUSTRIA_SECURE_PEACE:0 "Австрія укладає мир"
   AUSTRIA_SECURE_PEACE_DESC:0 "Австрія проведе таємні переговори з Францією та спробує укласти сепаратний мир з Антантою."
 
- # Прапор Кайзеррайху
+ ## Прапор Кайзеррайху
   RULE_KAISERREICH_FLAG: "£ww1_game_rule_flag_GER_kaiserreich£ Прапор Кайзеррайху"
-  #RULE_OPTION_DEFAULT_KAISERREICH_FLAG:0 "£ww1_game_rule_flag_GER_kaiserreich  Reichskriegsflagge"
-  #RULE_OPTION_DEFAULT_KAISERREICH_FLAG_DESC:0 "The §Y"Reichskriegsflagge"§! will be used."
-  #RULE_OPTION_HISTORICAL_KAISERREICH_FLAG:0 "£ww1_game_rule_flag_GER  State Flag"
-  #RULE_OPTION_HISTORICAL_KAISERREICH_FLAG_DESC:0 "The §Y"State flag"§! will be used."
+  RULE_OPTION_DEFAULT_KAISERREICH_FLAG: "£ww1_game_rule_flag_GER_kaiserreich£ Reichskriegsflagge"
+  RULE_OPTION_DEFAULT_KAISERREICH_FLAG_DESC: "Буде вжито §YReichskriegsflagge§!."
+  RULE_OPTION_HISTORICAL_KAISERREICH_FLAG: "£ww1_game_rule_flag_GER£ Державний прапор"
+  RULE_OPTION_HISTORICAL_KAISERREICH_FLAG_DESC: "Буде вжито §Yдержавний прапор§!."
 
  #Scripted Peace Treaty
   RULE_SCRIPTED_PEACE_TREATY: "Скриптові мирні договори"
@@ -210,15 +210,15 @@
   INVASION_OF_HAINAN_DESC:0 "Французький уряд чинитиме тиск на Китай, щоб анексувати острів Хайнань."
 
 ### ПОВЕДІНКА ШІ ###
- #RULE_OPTION_PROTO_FASCIST:0 "Proto-Fascist"
- #RULE_OPTION_JUNTA:0 "Military Junta"
- #RULE_OPTION_SOCIALIST:0 "Socialist"
- #RULE_OPTION_SYNDICALIST:0 "Syndicalist"
- #RULE_OPTION_CP:0 "Central Powers"
- #RULE_OPTION_ENTENTE:0 "Entente"
- #RULE_OPTION_AUTOCRATIC:0 "Autocratic"
- #RULE_OPTION_ISLAMIST:0 "Islamist"
- #RULE_OPTION_DEMOCRATIC_SOCDEM:0 "Democratic - SocDem"
+ RULE_OPTION_PROTO_FASCIST: "Протофашизм"
+ RULE_OPTION_JUNTA: "Військова хунта"
+ RULE_OPTION_SOCIALIST: "Соціалізм"
+ RULE_OPTION_SYNDICALIST: "Синдикалізм"
+ RULE_OPTION_CP: "Центральні держави"
+ RULE_OPTION_ENTENTE: "Антанта"
+ RULE_OPTION_AUTOCRATIC: "Автократія"
+ RULE_OPTION_ISLAMIST: "Ісламізм"
+ RULE_OPTION_DEMOCRATIC_SOCDEM: "Демократія: соціал-демократія"
 
  SER_AI_BEHAVIOR: "@SER Сербія"
 
@@ -298,26 +298,26 @@
 
  # Болгарія
   #RULE_OPTION_HISTORICAL_BUL_WW1_AI_DESC:0 "The Bulgarian AI will attempt to follow the historical chain of events as much as possible."
-  #RULE_OPTION_BORIS_III:0 "Boris III Rule"
+  RULE_OPTION_BORIS_III: "Правління Боріса III"
   #RULE_OPTION_BORIS_III_AI_DESC:0 "The Bulgarian AI will attempt to put Boris III in power early and stay neutral during the Great War by going down the relevant path in the national focus tree."
-  #RULE_OPTION_LIBERALIST_BUL:0 "Liberalist"
+  RULE_OPTION_LIBERALIST_BUL: "Ліберізм"
   #RULE_OPTION_LIBERALIST_BUL_AI_DESC:0 "The Bulgarian AI will attempt to put liberals in power and join the Central Powers during the Great War by going down the relevant path in the national focus tree."
-  #RULE_OPTION_AGRARIANIST_BUL:0 "Agrarianist"
+  RULE_OPTION_AGRARIANIST_BUL: "Аграризм"
   #RULE_OPTION_AGRARIANIST_BUL_AI_DESC:0 "The Bulgarian AI will attempt to put agrarianists in power early and join the Entente during the Great War by going down the relevant path in the national focus tree."
   #RULE_OPTION_SOCILAIST_BUL_AI_DESC:0 "The Bulgarian AI will attempt to put narrow socialists in power by going down the relevant path in the national focus tree."
   #RULE_OPTION_FASCIST_BUL_WW1_AI_DESC:0 "The Bulgarian AI will attempt to put reactionaries in power early and join the Central Powers during the Great War by going down the relevant path in the national focus tree."
-  #RULE_OPTION_RADOMIR_REPUBLIC:0 "Radomir Republic"
+  RULE_OPTION_RADOMIR_REPUBLIC: "Радомірська республіка"
   #RULE_OPTION_RADOMIR_REPUBLIC_BUL_AI_DESC:0 "The Bulgarian AI will attempt to follow the chain of events needed to establish the Radomir Republic."
 
  # Сербія
-  RULE_OPTION_YUGOSLAVIA:0 "Сформувати £ww1_game_rule_flag_YUG Югославію"
+  RULE_OPTION_YUGOSLAVIA: "Утворення £ww1_game_rule_flag_YUG Югославії"
   RULE_OPTION_YUGOSLAVIA_AI_DESC:0 "Сербія підтримає формування югославської держави, обравши відповідний шлях у дереві національних фокусів."
 
  # Німеччина
   #RULE_OPTION_HISTORICAL_GER_AI_DESC:0 "The German AI will attempt to follow the historical chain of events as much as possible."
-  #RULE_OPTION_CONTAIN_THE_KAISER:0 "Contain The Kaiser"
+  RULE_OPTION_CONTAIN_THE_KAISER: "Стримання кайзера"
   #RULE_OPTION_CONTAIN_THE_KAISER_GER_AI_DESC:0 "The German AI will attempt to contain the Kaiser and turt to Asia by going down the relevant path in the national focus tree."
-  #RULE_OPTION_BACKSTAB:0 "Backstab"
+  RULE_OPTION_BACKSTAB: "Удар у спину"
   #RULE_OPTION_BACKSTAB_GER_AI_DESC:0 "The German AI will attempt to break the alliance with Austria-Hungary and turt to Asia by going down the relevant path in the national focus tree."
   GER_POSTWAR_PATH: "@GER Післявоєнна Німеччина"
   RULE_OPTION_HITLER:0 "Фашисти при владі"
@@ -395,15 +395,15 @@
  # Росія
   RUS_AI_BEHAVIOR: "@RUS Росія"
   #RULE_OPTION_HISTORICAL_RUS_AI_DESC:0 "The Russian AI will attempt to follow the historical chain of events as much as possible."
-  #RULE_OPTION_KAISER_RUS:0 "Rapprochement with Kaiser"
+  RULE_OPTION_KAISER_RUS: "Зближення з кайзером"
   #RULE_OPTION_KAISER_RUS_AI_DESC:0 "The Russian AI will attempt to leave the Entente and focus on eastern claims by going down the relevant path in the national focus tree."
-  #RULE_OPTION_TSAR_RUS:0 "Absolutist"
+  RULE_OPTION_TSAR_RUS: "Абсолютизм"
   #RULE_OPTION_TSAR_RUS_AI_DESC:0 "The Russian AI will attempt to to oppose the Duma and reinstall the absolute rule of the Tsar by going down the relevant path in the national focus tree."
-  #RULE_OPTION_CONSTITUTIONALIST_RUS:0 "Constitutionanlist - Moderate"
-  #RULE_OPTION_CONSTITUTIONALIST_RUS_AI_DESC:0 "The Russian AI will attempt to put constitutionalize Russia by going down the relevant path in the national focus tree."
-  #RULE_OPTION_CONSTITUTIONALIST_RADICAL_RUS:0 "Constitutionalist - Radical"
-  #RULE_OPTION_CONSTITUTIONALIST_RADICAL_RUS_AI_DESC:0 "The Russian AI will attempt to put revolutionaries in Duma and establish a constitutionalize Russia by going down the relevant path in the national focus tree."
-  #RULE_OPTION_DEMOCRATIC_RUS:0 "Democratic Republic"
+  RULE_OPTION_CONSTITUTIONALIST_RUS: "Конституціоналізм: помірковані"
+  RULE_OPTION_CONSTITUTIONALIST_RUS_AI_DESC:0 "The Russian AI will attempt to put constitutionalize Russia by going down the relevant path in the national focus tree."
+  RULE_OPTION_CONSTITUTIONALIST_RADICAL_RUS: "Конституціоналізм: радикали"
+  RULE_OPTION_CONSTITUTIONALIST_RADICAL_RUS_AI_DESC:0 "The Russian AI will attempt to put revolutionaries in Duma and establish a constitutionalize Russia by going down the relevant path in the national focus tree."
+  RULE_OPTION_DEMOCRATIC_RUS: "Демократична республіка"
   #RULE_OPTION_DEMOCRATIC_RUS_AI_DESC:0 "The Russian AI will attempt to put revolutionaries in Duma and establish a Russian Republic by going down the relevant path in the national focus tree."
 
  # Російська революція
@@ -426,11 +426,11 @@
   RULE_OPTION_THIRD_FORCE_SOVIET_AI_DESC:0 "ШІ Радянського Союзу визнає Установчі збори і приведе до влади 'Зелений рух', пізніше заснувавши З'їзд Народних Депутатів та об'єднавши Росію, обравши відповідний шлях у дереві національних фокусів."
 
  # Канада
-  #CAN_ai_behavior:0 "@CAN Canada"
+  CAN_ai_behavior: "@CAN Канада"
   #RULE_OPTION_DEMOCRATIC_HISTORICAL_CANADA_DESC:0 "The Canadian AI will attempt to follow the historical chain of events as much as possible."
-  #RULE_OPTION_BRITISH_COMPROMISE:0 "British Compromise"
+  RULE_OPTION_BRITISH_COMPROMISE: "Компроміс із Британією"
   #RULE_OPTION_BRITISH_COMPROMISE_DESC:0 "The Canadian AI will attempt to become free while remaining friendly with United Kingdom by going down the relevant path in the national focus tree."
-  #RULE_OPTION_REPUBLICAN:0 "Republican"
+  RULE_OPTION_REPUBLICAN: "Республіканізм"
   #RULE_OPTION_REPUBLICAN_DESC:0 "The Canadian AI will attempt to become free while pursuing policy of friendship with United States by going down the relevant path in the national focus tree."
   #RULE_OPTION_MONARCHIST_CAN_DESC:0 "The Canadian AI will attempt to become free while forming it's own monarchy by going down the relevant path in the national focus tree."
 
@@ -438,21 +438,21 @@
   #RULE_OPTION_HISTORICAL_SWE_DESC:0 "The Swedish AI will attempt to follow the historical chain of events as much as possible."
   #RULE_OPTION_CP_SWE_AI_DESC:0 "The Swedish AI will attempt to join the Central Powers by going down the relevant path in the national focus tree."
   #RULE_OPTION_ENTENTE_SWE_DESC:0 "The Swedish AI will attempt to join the Entente by going down the relevant path in the national focus tree."
-  #RULE_OPTION_MONARCHIST_SWE:0 "Royal Dictatorship"
+  RULE_OPTION_MONARCHIST_SWE: "Королівська диктатура"
   #RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "The Swedish AI will attempt to establish the Royal Dictatorship by going down the relevant path in the national focus tree."
-  #RULE_OPTION_FASCIST_SWE:0 "Personal Dictatorship"
+  RULE_OPTION_FASCIST_SWE: "Особиста диктатура"
   #RULE_OPTION_FASCIST_SWE_AI_DESC:0 "The Swedish AI will attempt to establish Lutheran Personal Dictatorship by going down the relevant path in the national focus tree."
   #RULE_OPTION_SYNDICALIST_SWE_AI_DESC:0 "The Swedish AI will attempt to to go syndicalist by going down the relevant path in the national focus tree."
 
  # Китай
-  #CHI_WW1_AI_BEHAVIOR:0 "@CHI Republic of China"
+  CHI_WW1_AI_BEHAVIOR: "@CHI Китайська республіка"
   #RULE_OPTION_DEMOCRATIC_CHI_AI_DESC:0 "The Chinese AI will attempt to get Tongmenghui in power and oppose the Beijing Clique by going down the relevant path in the national focus tree."
 
  # Індокитай
   IND_AI_BEHAVIOR: "@IND Індокитайський союз"
   RULE_OPTION_HISTORICAL_IND_AI: "@IND Історичний шлях"
-  RULE_OPTION_HISTORICAL_IND_AI_DESC:0 "ШІ Індокитаю призначить Фолленговена і залишиться лояльним до Франції, обравши відповідний шлях у дереві національних фокусів." 
-  RULE_OPTION_IND_COOPERATIVE_EMPIRE: "@VIN Імперія у співробітництві"
+  RULE_OPTION_HISTORICAL_IND_AI_DESC:0 "ШІ Індокитаю призначить Волленговена і залишиться лояльним до Франції, обравши відповідний шлях у дереві національних фокусів." 
+  RULE_OPTION_IND_COOPERATIVE_EMPIRE: "@VIN Імперія у співробітництві" # (&+)
   RULE_OPTION_IND_COOPERATIVE_EMPIRE_IND_AI_DESC:0 "ШІ Індокитаю дозволить Нгуєну Фук Биу Дао правити як Імператору-губернатору. Він залишиться лояльним до Франції, обравши відповідний шлях у дереві національних фокусів." 
   RULE_OPTION_IND_VIETNAMESE_REVOLUTION: "@VIN В'єтнамська революція"
   RULE_OPTION_IND_VIETNAMESE_REVOLUTION_AI_DESC:0 "ШІ Індокитаю дозволить Фан Бой Тяу сформувати успішне повстання, обравши відповідний шлях у дереві національних фокусів."
@@ -490,77 +490,12 @@
  RULE_OPTION_DEMOB_OFF_DESC:0 "Ні гравцеві, ні ШІ ніколи не буде запропоновано знижувати свої економічні закони та/або закони про призов у мирний час.\n\n§RРекомендується робити це лише в тому випадку, якщо Ви не проти значного уповільнення швидкості гри з часом, або якщо у Вас є ДУЖЕ потужний комп'ютер для запуску гри.§!"
 
 ### СТАРИЙ ПЕРЕКЛАД ###
- RULE_SUPEREVENT:0 "Суперподії"
- RULE_OPTION_DEFAULT_SUPEREVENT_DESC:0 "Суперподії будуть включені."
- RULE_OPTION_SUPEREVENT_DISABLED:0 "Вимкнути суперподії"
- RULE_OPTION_SUPEREVENT_DISABLED_DESC:0 "Суперподії будуть вимкнені."
-
- ULTIMATUM_ON_AGADIR:0 "Ультиматум Аґадіру"
- RULE_OPTION_DEFAULT_ULTIMATUM_ON_AGADIR_DESC:0 "ШІ слідуватиме, щоб імітувати історичні події в їх умовах."
- RULE_OPTION_WAR_ON_AGADIR:0 "Війна з Аґадіром"
- RULE_OPTION_WAR_ON_AGADIR_DESC:0 "Велика війна вибухне в Аґадірі."
- ULTIMATUM_ON_ALBANIA:0 "Ультиматум Албанії"
- RULE_OPTION_DEFAULT_ULTIMATUM_ON_ALBANIA_DESC:0 "ШІ слідуватиме, щоб імітувати історичні події в їх умовах."
- RULE_OPTION_WAR_ON_ALBANIA:0 "Війна з Албанією"
- RULE_OPTION_WAR_ON_ALBANIA_DESC:0 "Велика війна вибухне в Албанії."
-
- FATE_OF_FRANZ_FERDINAND:0 "Доля Франца Фердинанда"
- RULE_OPTION_DEFAULT_FRANZ_FERDINAND_DESC:0 "Доля Франца Фердинанда вирішуватиметься вибором у грі."
- RULE_OPTION_FRANZ_FERDINAND_SURVIVES:0 "Франц Фердинанд виживає"
- RULE_OPTION_FRANZ_FERDINAND_SURVIVES_DESC:0 "Франц Фердинанд виживе незалежно від вибору у грі."
- RULE_OPTION_FRANZ_FERDINAND_DIES:0 "Франц Фердинанд вмирає"
- RULE_OPTION_FRANZ_FERDINAND_DIES_DESC:0 "Франц Фердинанд помре незалежно від вибору в грі, якщо Сербія не існує або не є маріонеткою."
-
- FATE_OF_STOLYPIN:0 "Доля Петра Столипіна"
- RULE_OPTION_DEFAULT_STOLYPIN_DESC:0 "Доля Столипіна буде випадковою, якщо історичні фокуси не будуть взяті."
- RULE_OPTION_STOLYPIN_SURVIVES:0 "Столипін виживає"
- RULE_OPTION_STOLYPIN_SURVIVES_DESC:0 "Столипін переживе змову з метою вбивства."
- RULE_OPTION_STOLYPIN_DIES:0 "Столипін вмирає"
- RULE_OPTION_STOLYPIN_DIES_DESC:0 "Столипін буде вбитий."
-
- FATE_OF_ROOSEVELT:0 "Доля Теодора Рузвелта"
- RULE_OPTION_DEFAULT_ROOSEVELT_DESC:0 "Доля Рузвелта буде випадковою, якщо історична увага не буде взята."
- RULE_OPTION_ROOSEVELT_SURVIVES:0 "Рузвелт виживає"
- RULE_OPTION_ROOSEVELT_SURVIVES_DESC:0 "Рузвелт переживе замах на вбивство."
- RULE_OPTION_ROOSEVELT_DIES:0 "Рузвелт вмирає"
- RULE_OPTION_ROOSEVELT_DIES_DESC:0 "Рузвелт буде вбитий."
-
- FATE_OF_TSAR:0 "Доля царя"
- RULE_OPTION_DEFAULT_TSAR_FATE_DESC:0 "Більшовики стратять царя та його родину."
- RULE_OPTION_TSAR_IN_BRITAIN:0 "Цар тікає"
- RULE_OPTION_TSAR_IN_BRITAIN_DESC:0 "Цар тікає до Британії."
- RULE_OPTION_TSAR_RETURNED:0 "Цар повернувся"
- RULE_OPTION_TSAR_RETURNED_DESC:0 "Цар буде врятований і повернений до влади білогвардійцями."
-
- RULE_OPTION_DEFAULT_RUSSIAN_FLAG:0 "£ww1_game_rule_flag_RUS Історичний Прапор"
- RULE_OPTION_DEFAULT_RUSSIAN_FLAG_DESC:0 "§Y"Історичний"§! використовуватиметься триколірний прапор."
- RULE_OPTION_AHISTORICAL_RUSSIAN_FLAG:0 "Антіїісторичний прапор"
- RULE_OPTION_AHISTORICAL_RUSSIAN_FLAG_DESC:0 "§Y"Єдність царя з народом"§!прапор буде використовуватися.."
- RULE_OPTION_IMPERIAL_RUSSIAN_FLAG:0 "Імперський прапор"
- RULE_OPTION_IMPERIAL_RUSSIAN_FLAG_DESC:0 "§Y"Імперський"§! прапор буде використовуватись."
-
- RULE_OPTION_DEFAULT_KAISERREICH_FLAG:0 "£ww1_game_rule_flag_GER_kaiserreich Імперський військовий прапор"
- RULE_OPTION_DEFAULT_KAISERREICH_FLAG_DESC:0 "§Y"Імперський"§! використовуватиметься військовий прапор."
- RULE_OPTION_HISTORICAL_KAISERREICH_FLAG:0 "Історичний прапор"
- RULE_OPTION_HISTORICAL_KAISERREICH_FLAG_DESC:0 "§Y"Історичний"§! використовуватиметься триколірний прапор."
-
- RULE_OPTION_PROTO_FASCIST:0 "Протофашистський режим"
- RULE_OPTION_JUNTA:0 "Військова хунта"
- RULE_OPTION_SOCIALIST:0 "Соціалізм"
- RULE_OPTION_SYNDICALIST:0 "Синдикалізм"
- RULE_OPTION_CP:0 "Центральні держави"
- RULE_OPTION_ENTENTE:0 "Антанта"
- RULE_OPTION_AUTOCRATIC:0 "Автократія"
- RULE_OPTION_ISLAMIST:0 "Ісламізм"
- RULE_OPTION_DEMOCRATIC_SOCDEM:0 "Демократичний - СоцДем"
-
  RULE_OPTION_DEMOCRATIC_HISTORICAL_BEL_AI_DESC:0 "Бельгійський ШІ спробує максимально точно простежити історичний ланцюжок подій."
  RULE_OPTION_DEMOCRATIC_LIBERAL_BEL_AI_DESC:0 "Бельгійський ШІ спробує стати лібералом та інтегрувати Конго, вибравши відповідний шлях у національному дереві фокусів."
  RULE_OPTION_NEUTRALITY_MONARCHIST_BEL_AI_DESC:0 "Бельгійський ШІ спробує встановити абсолютистський режим, пройшовши відповідний шлях у національному дереві фокусів."
  RULE_OPTION_DEMOCRATIC_SOCDEM_BEL_AI_DESC:0 "Бельгійський ШІ спробує стати соціал-демократичним та вільним Конго, вибравши відповідний шлях у національному дереві фокусів."
  RULE_OPTION_SOCIALIST_BEL_AI_DESC:0 "Бельгійський ШІ спробує стати соціалістом і скасувати монархію, вибравши відповідний шлях у дереві національних фокусів."
 
- BRA_AI_BEHAVIOR:0 "@BRA Бразилія"
  RULE_OPTION_DEMOCRATIC_HISTORICAL_BRA_AI_DESC:0 "Бразильський штучний інтелект намагатиметься максимально точно повторити історичний ланцюжок подій."
  RULE_FASCIST_BRA_AI_DESC:0 "Бразильський ШІ спробує встановити флоріанську військову диктатуру."
  RULE_OPTION_NEUTRALITY_MONARCHIST_BRA_AI_DESC:0 "Бразильський ШІ спробує відновити Бразильську імперію, пройшовши відповідним шляхом у дереві національних фокусів."
@@ -587,21 +522,15 @@
  RULE_OPTION_ALL_THE_KINGS_MEN_AUWI_ENG_AI_DESC:0 "Британський ШІ спробує привести принца Гогенцоллерна до влади після невдалої республіканської революції, пройшовши відповідним шляхом у дереві національного фокусу."
 
  RULE_OPTION_HISTORICAL_BUL_WW1_AI_DESC:0 "Болгарський ШІ намагатиметься максимально повторити історичний ланцюжок подій."
- RULE_OPTION_BORIS_III:0 "Правління Бориса III"
  RULE_OPTION_BORIS_III_AI_DESC:0 "Болгарський ШІ спробує рано привести Бориса III до влади і зберегти нейтралітет під час Великої війни, пройшовши відповідний шлях у дереві національних фокусів."
- RULE_OPTION_LIBERALIST_BUL:0 "Лібералізм"
  RULE_OPTION_LIBERALIST_BUL_AI_DESC:0 "Болгарський ШІ спробує привести лібералів до влади і приєднатися до Центральних держав під час Великої війни, пройшовши відповідний шлях у дереві національних фокусів."
- RULE_OPTION_AGRARIANIST_BUL:0 "Аграрії"
  RULE_OPTION_AGRARIANIST_BUL_AI_DESC:0 "Болгарський ШІ спробує рано привести аграріїв до влади і приєднатися до Антанти під час Великої війни, пройшовши відповідний шлях у дереві національних фокусів."
  RULE_OPTION_SOCILAIST_BUL_AI_DESC:0 "Болгарський ШІ спробує привести до влади вузьких соціалістів, пройшовши відповідним шляхом у дереві національних фокусів."
  RULE_OPTION_FASCIST_BUL_WW1_AI_DESC:0 "Болгарський ШІ спробує рано привести реакціонерів до влади і приєднатися до Центральних держав під час Великої війни, пройшовши відповідний шлях у дереві фокусів."
- RULE_OPTION_RADOMIR_REPUBLIC:0 "Республіка Радомир"
  RULE_OPTION_RADOMIR_REPUBLIC_BUL_AI_DESC:0 "Болгарський ШІ спробує простежити ланцюжок подій, необхідних для створення Республіки Радомир."
 
  RULE_OPTION_HISTORICAL_GER_AI_DESC:0 "Німецький ШІ спробує максимально простежити історичний ланцюжок подій."
- RULE_OPTION_CONTAIN_THE_KAISER:0 "Стримати Кайзера"
  RULE_OPTION_CONTAIN_THE_KAISER_GER_AI_DESC:0 "Німецький ШІ спробує стримати кайзера та турта в Азії, пройшовши відповідним шляхом у дереві національних пріоритетів."
- RULE_OPTION_BACKSTAB:0 "Удар у спину"
  RULE_OPTION_BACKSTAB_GER_AI_DESC:0 "Німецький ШІ спробує розірвати союз з Австро-Угорщиною і вирушити до Азії, пройшовши відповідний шлях у дереві національних пріоритетів."
 
  RULE_OPTION_HISTORICAL_ITA_AI_DESC:0 "Італійський ШІ спробує максимально простежити історичний ланцюжок подій."
@@ -613,43 +542,29 @@
  RULE_OPTION_NEUTRALITY_MONARCHIST_HOL_AI_DESC:0 "Голландський ШІ спробує розширити повноваження монарха і об'єднати Бенілюкс, пройшовши відповідним шляхом у дереві національних пріоритетів."
 
  RULE_OPTION_HISTORICAL_RUS_AI_DESC:0 "Російський ШІ спробує максимально простежити історичний ланцюжок подій."
- RULE_OPTION_KAISER_RUS:0 "Зближення з кайзером"
  RULE_OPTION_KAISER_RUS_AI_DESC:0 "Російський ШІ спробує залишити Антанту і зосередитися на східних претензіях, пройшовши відповідним шляхом у дереві національних пріоритетів."
- RULE_OPTION_TSAR_RUS:0 "Абсолютизм"
  RULE_OPTION_TSAR_RUS_AI_DESC:0 "Російський ШІ спробує протистояти думі і відновити абсолютне правління царя, пройшовши відповідним шляхом у дереві національного фокусу."
- RULE_OPTION_CONSTITUTIONALIST_RUS:0 "Constitutionanlist - Moderate"
- RULE_OPTION_CONSTITUTIONALIST_RUS_AI_DESC:0 "The Russian AI will attempt to put constitutionalize Russia by going down the relevant path in the national focus tree."
- RULE_OPTION_CONSTITUTIONALIST_RADICAL_RUS:0 "Constitutionalist - Radical"
- RULE_OPTION_CONSTITUTIONALIST_RADICAL_RUS_AI_DESC:0 "The Russian AI will attempt to put revolutionaries in Duma and establish a constitutionalize Russia by going down the relevant path in the national focus tree."
- RULE_OPTION_DEMOCRATIC_RUS:0 "Демократична Республіка"
  RULE_OPTION_DEMOCRATIC_RUS_AI_DESC:0 "Російський ШІ спробує провести революціонерів у думу і створити Російську Республіку, пройшовши відповідним шляхом у дереві національних пріоритетів."
 
- RULE_OPTION_TSAR_MIKHAIL_CROWNED:0 "Михайло II короновано"
+ RULE_OPTION_TSAR_MIKHAIL_CROWNED:0 "Михайла II короновано"
  RULE_OPTION_TSAR_MIKHAIL_CROWNED_DESC:0 "У разі Російської революції Микола II зречеться престолу на користь свого брата Михайла. Михайла II."
  RULE_OPTION_KORNILOV_IN_POWER:0 "Справа Корнілова увінчалася успіхом"
  RULE_OPTION_KORNILOV_IN_POWER_DESC:0 "Під загрозою більшовиків Корнілову вдасться повалити тимчасовий уряд, щоб врятувати республіку."
  RULE_OPTION_KERENSKY_DICTATORSHIP:0 "Диктатор Керенський"
  RULE_OPTION_KERENSKY_DICTATORSHIP_DESC:0 "Під загрозою більшовиків і Корнілова Дума надасть Керенському диктаторські повноваження."
 
- CAN_ai_behavior:0 "@CAN Канада"
  RULE_OPTION_DEMOCRATIC_HISTORICAL_CANADA_DESC:0 "Канадський штучний інтелект спробує максимально простежити історичний ланцюжок подій."
- RULE_OPTION_BRITISH_COMPROMISE:0 "Британський компроміс"
  RULE_OPTION_BRITISH_COMPROMISE_DESC:0 "Канадський ШІ спробує стати вільним, залишаючись при цьому дружнім Сполученому Королівству, пройшовши відповідний шлях у дереві національних пріоритетів."
- RULE_OPTION_REPUBLICAN:0 "Республіканський"
  RULE_OPTION_REPUBLICAN_DESC:0 "Канадський ШІ спробує стати вільним, проводячи політику дружби зі Сполученими Штатами, пройшовши відповідний шлях у дереві національних пріоритетів."
  RULE_OPTION_MONARCHIST_CAN_DESC:0 "Канадський ШІ спробує стати вільним, одночасно формуючи власну монархію, пройшовши відповідним шляхом у дереві національних пріоритетів."
 
- SWE_AI_BEHAVIOR:0 "@SWE Швеція"
  RULE_OPTION_HISTORICAL_SWE_DESC:0 "Шведський ШІ спробує максимально точно дотримуватися історичного ланцюжка подій."
  RULE_OPTION_CP_SWE_AI_DESC:0 "Шведський ШІ спробує приєднатися до Центральних держав, вибравши відповідний шлях у національному дереві фокусів."
  RULE_OPTION_ENTENTE_SWE_DESC:0 "Шведський ШІ спробує приєднатися до Антанти, пройшовши відповідним шляхом у національному дереві фокусів."
- RULE_OPTION_MONARCHIST_SWE:0 "Королівська диктатура"
  RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "Шведський ШІ спробує встановити королівську диктатуру, вибравши відповідний шлях у національному дереві фокусів."
- RULE_OPTION_FASCIST_SWE:0 "Особиста диктатура"
  RULE_OPTION_FASCIST_SWE_AI_DESC:0 "Шведський ШІ спробує встановити особисту лютеранську диктатуру, вибравши відповідний шлях у національному дереві фокусів."
  RULE_OPTION_SYNDICALIST_SWE_AI_DESC:0 "Шведський ШІ спробує стати синдикалістом, вибравши відповідний шлях у національному дереві фокусів."
 
- CHI_WW1_AI_BEHAVIOR:0 "@CHI Китайська Республіка"
  RULE_OPTION_DEMOCRATIC_CHI_AI_DESC:0 "Китайський ШІ спробує привести Тунменхой до влади і протистояти пекінській кліці, вибравши відповідний шлях у національному дереві фокусів."
 
  RULE_KICK_FROM_FACTION_ALLOWED_TOOLTIP:0 "Правило гри: §YЛідер альянсу може виключити будь-яку країну з альянсу після Великої війни.§!"

@@ -76,7 +76,7 @@
 + `tgwr_achievements`
 + `ww1_country_ideas`
 + `ww1_equipment`
-+ `ww1_game_rules`
++ `ww1_game_rules` (частину переклав *Лицарський хрест*)
 + `ww1_modifiers`
 + `ww1_research` (окремі рядки переклав *Лицарський хрест*)
 + `ww1_traits`
