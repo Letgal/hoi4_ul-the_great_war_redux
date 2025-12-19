@@ -52,6 +52,7 @@
 + `state_names`
 + `ww1_autonomy`
 + `ww1_buildings`
++ `ww1_characters`
 + `ww1_decisions` (більшість переклав [*kiryl*](https://steamcommunity.com/profiles/76561199575098265), допереклав *Лицарський хрест*)
 + `ww1_events` (більшість переклав *kiryl*)
 + `ww1_factions`
@@ -63,6 +64,7 @@
 + `GER\ww1_germany`
 
 ### Папка `replace`
++ `replace_characters`
 + `replace_ideas`
 
 ## Файл оновлено, старий переклад збережено
@@ -88,7 +90,6 @@
 + `replace_wtt_decisions`
 
 ## Не перекладено взагалі
-+ `ww1_characters`
 + `ww1_collections`
 + `ww1_flags`
 + `ww1_naval_classes`
@@ -97,7 +98,6 @@
 
 ### Папка `replace`
 + `replace_buildings`
-+ `replace_characters`
 + `replace_decisions`
 + `replace_equipment`
 + `replace_focus`
