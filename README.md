@@ -44,6 +44,7 @@
 + `replace_state`
 + `replace_stats` (аааааа)
 + `replace_tank_modules`
++ `replace_traits`
 + `replace_triggers`
 + `replace_unit`
 + `replace_unit_medals`
@@ -102,5 +103,4 @@
 + `replace_equipment`
 + `replace_focus`
 + `replace_mtg_decisions`
-+ `replace_traits`
 + `replace_WUW_focus`
