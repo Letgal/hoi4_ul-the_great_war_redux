@@ -162,32 +162,32 @@
  kuwait_oil_developed_2:0 "Розроблені нафтові родовища Кувейту"
  develop_guangdong_deposits:0 "Розробка родовищ корисних копалин Гуандун"
  develop_guangxi_deposits:0 "Розробка родовищ корисних копалин Гуандун"
- develop_kuzbass_deposits:0 "Develop Kuzbass Coal Fields" # (!)
- develop_kuzbass_deposits_2:0 "Develop Kuzbass Coal Field" # (!)
- kuzbass_coal_developed:0 "Kuzbass Coal Fields Developed" # (!)
- kuzbass_coal_developed_2:0 "Kuzbass Coal Fields Developed" # (!)
- develop_donbas_deposits:0 "Develop Donbas Coal Fields" # (!)
- develop_donbas_deposits_2:0 "Develop Donbas Coal Field" # (!)
- donbas_coal_developed:0 "Donbas Coal Fields Developed" # (!)
- donbas_coal_developed_2:0 "Donbas Coal Fields Developed" # (!)
- develop_karaganda_deposits:0 "Develop Karaganda Coal Fields" # (!)
- karaganda_coal_developed:0 "Karaganda Coal Fields Developed" # (!)
- develop_fushun_deposits:0 "Develop Fushun Coal Fields" # (!)
- fushun_coal_developed:0 "Fushun Coal Fields Developed" # (!)
- develop_hokkaido_deposits:0 "Develop Hokkaido Coal Fields" # (!)
- hokkaido_coal_developed:0 "Hokkaido Coal Fields Developed" # (!)
- develop_kempenland_deposits:0 "Develop Kempenland Coal Fields" # (!)
- kempenland_coal_developed:0 "Kempenland Coal Fields Developed" # (!)
- develop_enugu_deposits:0 "Develop Enugu Coal Fields" # (!)
- enugu_coal_developed:0 "Enugu Coal Fields Developed" # (!)
- develop_durban_deposits:0 "Develop Durban Coal Fields" # (!)
- durban_coal_developed:0 "Durban Coal Fields Developed" # (!)
- develop_witbank_deposits:0 "Develop Witbank Coal Fields" # (!)
- witbank_coal_developed:0 "Witbank Coal Fields Developed" # (!)
- develop_south_limburg_deposits:0 "Develop South Limburg Coal Fields" # (!)
- south_limburg_coal_developed:0 "South Limburg Coal Fields Developed" # (!)
- develop_zonguldak_deposits:0 "Develop Zonguldak Coal Fields" # (!)
- zonguldak_coal_developed:0 "Zonguldak Coal Fields Developed" # (!)
+ develop_kuzbass_deposits: "Розробити Кузнецький вугільний басейн"
+ develop_kuzbass_deposits_2: "$develop_kuzbass_deposits$"
+ kuzbass_coal_developed: "Кузнецький вугільний басейн розроблено"
+ kuzbass_coal_developed_2: "$kuzbass_coal_developed$"
+ develop_donbas_deposits: "Розробити Донецький вугільний басейн"
+ develop_donbas_deposits_2: "$develop_donbas_deposits$"
+ donbas_coal_developed: "Донецький вугільний басейн розроблено"
+ donbas_coal_developed_2: "$donbas_coal_developed$"
+ develop_karaganda_deposits: "Розробити Караґандинський вугільний басейн"
+ karaganda_coal_developed: "Караґандинський вугільний басейн розроблено"
+ develop_fushun_deposits: "Розробити Фушуньський вугільний басейн"
+ fushun_coal_developed: "Фушуньський вугільний басейн розроблено"
+ develop_hokkaido_deposits: "Розробити Хоккайдський вугільний басейн"
+ hokkaido_coal_developed: "Хоккайдський вугільний басейн розроблено"
+ develop_kempenland_deposits: "Розробити Кемпенський вугільний басейн"
+ kempenland_coal_developed: "Кемпенський вугільний басейн розроблено"
+ develop_enugu_deposits: "Розробити Енуґуський вугільний басейн"
+ enugu_coal_developed: "Енуґуський вугільний басейн розроблено"
+ develop_durban_deposits: "Розробити Дурбанський вугільний басейн"
+ durban_coal_developed: "Дурбанський вугільний басейн розроблено"
+ develop_witbank_deposits: "Розробити Вітбанкський вугільний басейн"
+ witbank_coal_developed: "Вітбанкський вугільний басейн розроблено"
+ develop_south_limburg_deposits: "Розробити Південно-Лімбурзький вугільний басейн"
+ south_limburg_coal_developed: "Південно-Лімбурзький вугільний басейн розроблено"
+ develop_zonguldak_deposits: "Розробити Зонґулдацький вугільний басейн"
+ zonguldak_coal_developed: "Зонґулдацький вугільний басейн розроблено"
 
  neutrality_on_the_rise:0 "Авторитаризм на підйомі"
  neutrality_on_the_rise_desc:0 "Голосні політичні елементи почали висловлюватися на користь авторитарних цінностей, знаючи підтримку все більшої кількості населення. Шлях нації до авторитаризму відкритий, лише чекаючи вибору між мирним або насильницьким переходом."
@@ -220,7 +220,7 @@
 ### НІМЕЧЧИНА ###
  GER_great_war:0 "Велика війна"
  GER_great_war_desc:0 "Велика війна глобально змінить долю націй у всьому світі. Якщо лідер альянсу здасться, переможці мають проблеми, на яких умовах вони готові встановити мир.\n\n§GПереможний альянс отримає області з претензіями й осердні області після конференції§!"
- GER_dual_alliance:0 "Пошанувати подвійний альянс"
+ GER_dual_alliance:0 "Ушанувати подвійний альянс"
  GER_dual_alliance_desc:0 "Наш союз з Австро-Угорщиною означає, що ми обіцяємо підтримувати один у разі нападу з боку Росії. Ми допоможемо нашим австрійським друзям перемогти Росію."
  GER_setup_belgian_occupation_zone:0 "Налаштувати Kaiserliches Deutsches Generalgouvernement Belgien"
  GER_schliffenmoltkeplan:0 "План Шліффена-Мольтке"
@@ -247,46 +247,46 @@
  GER_agadir_crisis_desc:0 "Французькі війська увійшли до Феса, прикриваючись допомогою султану, але ми розглядаємо це як очевидну спробу встановити повний контроль над Марокко. Ці дії порушують Акт Альхесірасу, загрожуючи нашим економічним інтересам і міжнародному авторитету. Ми маємо вирішити, чи стане рішуча демонстрація сили в марокканських водах необхідним кроком для захисту наших прав."
  agadir_crisis:0 "Аґадірська криза"
  agadir_crisis_ends:0 "Аґадірська криза закінчилася"
- agadir_crisis_send_demands:0 "Поступки для Агадіра"
- agadir_crisis_escolation:0 "Ескалація кризи в Агадірі"
+ agadir_crisis_send_demands:0 "Поступки для Аґадіра"
+ agadir_crisis_escolation:0 "Ескалація кризи в Аґадірі"
  GER_misison_agadir_crisis:0 "Актуальність кризи"
  GER_agadir_crisis_send_demands:0 "Надіслати запити"
  GER_agadir_crisis_escalation:0 "Ескалація кризи"
  GER_decison_colonial_exploitation:0 "Колоніальна експлуатація"
  GER_decision_joint_staff:0 "Об'єднаний штаб центральних держав"
  GER_control_austrian_planning:0 "Контроль австрійського планування"
- GER_decision_federal_army:0 "Бундесвер"
- GER_organize_civil_defense:0 "Організувати Zivilschutz"
- GER_federal_corps_saxony:0 "Створити Bundeskorps у Саксонії"
- GER_federal_corps_bavaria:0 "Підвищити Bundeskorps у Баварії"
- GER_federal_corps_hannover:0 "Підвищити Bundeskorps у Ганновері"
- GER_federal_corps_mecklenburg:0 "Підвищити Bundeskorps у Мекленбурзі"
- GER_decision_abwehr_operations:0 "Операції абверу"
- GER_support_separatism_in_warsaw:0 "Підтримати сепаратизм у Варшаві"
- GER_support_separatism_in_helsenki:0 "Підтримати сепаратизм у Фінмарку"
- GER_support_separatism_in_lithuania:0 "Підтримати сепаратизм у Литві"
- GER_support_separatism_in_latvia:0 "Підтримати сепаратизм у Латвії"
- GER_support_separatism_in_estonia:0 "Підтримати сепаратизм в Естонії"
- GER_decision_puppet_kingdoms:0 "Маріонеткові монархії"
- GER_form_poland:0 "Сформувати Королівство Польське"
- GER_form_lithuania:0 "Сформувати Литву"
- GER_form_courland:0 "Сформувати Курляндію"
- GER_form_baltic_duchy:0 "Сформувати Балтійське Герцогство"
- GER_form_georgia:0 "Сформувати Королівство Грузія"
- GER_form_netherlands:0 "Сформувати Нідерланди"
- GER_form_ireland:0 "Сформувати Королівство Ірландія"
- GER_unite_baltics:0 "Об'єднати Прибалтику"
- GER_help_white_russia:0 "Допоможіть Білій Русі"
+ GER_decision_federal_army: "Bundeswehr"
+ GER_organize_civil_defense: "Організувати Zivilschutz"
+ GER_federal_corps_saxony: "Зібрати бундескор у Саксонії"
+ GER_federal_corps_bavaria: "Зібрати бундескор у Баварії"
+ GER_federal_corps_hannover: "Зібрати бундескор у Ганновері"
+ GER_federal_corps_mecklenburg: "Зібрати бундескор у Мекленбурзі"
+ GER_decision_abwehr_operations: "Операції Абверу"
+ GER_support_separatism_in_warsaw: "Підтримати сепаратизм у Варшаві"
+ GER_support_separatism_in_helsenki: "Підтримати сепаратизм у Фінській марці"
+ GER_support_separatism_in_lithuania: "Підтримати сепаратизм у Литві"
+ GER_support_separatism_in_latvia: "Підтримати сепаратизм у Латвії"
+ GER_support_separatism_in_estonia: "Підтримати сепаратизм у Естонії"
+ GER_decision_puppet_kingdoms: "Маріонеткові монархії"
+ GER_form_poland: "Утворити Королівство Польське"
+ GER_form_lithuania: "Утворити Литву"
+ GER_form_courland: "Утворити Курляндію"
+ GER_form_baltic_duchy: "Утворити Балтійське герцогство"
+ GER_form_georgia: "Утворити Королівство Грузія"
+ GER_form_netherlands: "Утворити Нідерланди"
+ GER_form_ireland: "Утворити Королівство Ірландія"
+ GER_unite_baltics: "Об'єднати Балтію"
+ GER_help_white_russia: "Допомогти білій Росії"
  GER_help_white_russia_desc:0 "Хоча Ленін і його більшовики забезпечили нашу перемогу на Східному фронті своїм саботажем військових сил і подальшим переворотом, їх режим і витівка більше не потрібні. Їхні ідеали комунізму та світової революції загрожують самій основі німецький європейський порядок і, таким чином, прямо повідомляти нашій владі. Краще нейтралізувати цю загрозу на наших східних флангах і провести червоний приплив."
- GER_help_nationalist_france:0 "Допоможіть націоналістичній Франції"
+ GER_help_nationalist_france: "Допомогти націоналістичній Франції"
  GER_help_nationalist_france_desc:0 "Франція перебуває в сум'ятті після поразки у Великій війні. Хоча нам байдужа внутрішня політика Франції, комунари Парижа становлять унікальну загрозу для нашої позиції в Європі. Комунари дотримуються особливої експансіоністської та агресивної позиції в їх філософії, і вони мають намір повернути Франції її колишню славу превентивного удару, ми зможемо далі послабити нашого суперника і повернути жалюгідні залишки старого французького режиму до влади."
- GER_german_east_asia:0 "Утворити Остазію"
- GER_german_east_asia_expand:0 "Розгорнути Остазіен"
- GER_OST_demand_annex:0 "Запропонувати [FROM.GetAdjective] наш захист"
- GER_decision_mittelafrika:0 "Утворити Миттельафріку"
+ GER_german_east_asia: "Утворити Остазію"
+ GER_german_east_asia_expand: "Розширити Остазію"
+ GER_OST_demand_annex: "Запропонувати державі [FROM.GetNameDef] наш захист" # (&+?)
+ GER_decision_mittelafrika: "Утворити Міттельафріку"
  GER_decision_mittelafrika_desc:0 "Великі африканські колонії, здобуті після перемоги у Великій війні, можна об'єднати під єдиною колоніальною адміністрацією Миттельафріка. Це принесе славу та багатство нашої імперії."
- GER_decision_expand_mittelafrika:0 "Розширити Миттельафріку"
- GER_decision_military_advisers:0 "Військові радники"
+ GER_decision_expand_mittelafrika: "Розширити Міттельафріку"
+ GER_decision_military_advisers: "Військові радники"
  GER_internal_affairs: "Внутрішні справи"
  GER_elsass_lothringen_constitution: "Дозволити Ельзасу-Лотринґену конституцію"
  GER_elsass_lothringen_constitution_desc:0 "Ельзас-Лотринґен — це райхсланд, тобто імперська земля, що перебуває під безпосереднім управлінням Німецької імперії від самої її анексії у 1871 році. Регіон, яким керує призначений імператором штатгальтер, не має автономії, якою наділені інші федеральні землі. Його населення, яке в основному складається з ельзасько- та франкомовних жителів, вже давно висловлює невдоволення центральним контролем і поточною політикою ґерманізації, що впливає на освіту і суспільне життя.\n\nЗ прийняттям нової конституції та створенням регіонального парламенту, будуть надані деякі обмежені законодавчі повноваження з місцевих питань. Територія також отримає представництво в Бундесраті та Райхстазі, що посилить її участь у загальноімперських справах. Хоча ключові повноваження залишаються в Берліні, ця реформа може стати значним кроком до інтеграції в рамках федеральної структури і широко розглядається як крок, спрямований на вирішення давніх регіональних проблем."
@@ -312,9 +312,9 @@
  GER_decision_paying_reparations:0 "Виплата відшкодування"
  GER_decision_reparations:0 "Сплатити репарації"
  GER_decision_reparations_desc:0 "Німецька імперія зазнала поразки у Великій війні. Антанта вимагала, щоб ми повернули воєнні репарації розміром 132 мільярдів марок золота. Доки всі репарації не будуть виплачені, наша економіка не може оговтатися від трясовини поразки..."
- GER_decision_reparations_2:0 "Сплатити репарації"
+ GER_decision_reparations_2: "$GER_decision_reparations$"
  GER_decision_reparations_2_desc:0 "Оскільки ми не в змозі виплатити репарації, погоджені Версальським договором через надзвичайну інфляцію та економічні краї, Антанта послабила умови. У результаті Райхсбанк було відновлено в [GER.GetNameDef], і нам надається кредит у 800 мільйонів марок."
- GER_decision_reparations_3:0 "Сплатити репарації"
+ GER_decision_reparations_3: "$GER_decision_reparations$"
  GER_decision_reparations_3_desc:0 "Враховуючи глобальний економічний спад і економічну невдачу в Німеччині, загальну суму репарацій було зменшено до 35,8 мільярдів золотих марок, а розстрочку платежу прийнято на 59 років."
  GER_decision_moratorium:0 "Мораторій"
  GER_decision_moratorium_desc:0 "Поки що ми не платимо жодних репарацій. Можливо, через десятиліття?"
@@ -322,11 +322,11 @@
  GER_interwar_reichspakt_category:0 "Reichspakt"
  GER_interwar_reichspakt_category_desc:0 "Німецьке домінування в Центральній Європі вільно набирає сили для встановлення найсильнішої німецької сфери в історії. Для досягнення нашого ідеалу, ми можемо запросити країни, які є стратегічно вигідними для Reichspakt, і подружитися з ними."
  GER_interwar_invite_in_reichspakt:0 "Запросити [FROM.GetNameDef] до [ROOT.GetFactionName]"
- GER_prussian_blue_category:0 "Прусська блакитна"
+ GER_prussian_blue_category:0 "Прусська блакить"
  GER_prussian_blue_category_desc:0 "Німецька імперія зазнала поразки у Великій війні. Країни-переможці розірвали її на менші країни. Цей результат призведе до багатьох крайнощів. І одного дня німецький народ знову намагається об'єднатися."
  BAY_reunite_germany:0 "Возз'єднати німецький народ"
  BAY_reunite_germany_desc:0 "Німецький народ знову об'єднався під червоним прапором! Нарешті німецька революція 1848 року завершена нашими твердими руками!"
- GER_prussia_reunite_germany:0 "Три ура Німеччини!"
+ GER_prussia_reunite_germany:0 "Три ура Німеччині!"
  GER_prussia_reunite_germany_desc:0 "Батьківщина під нашим контролем і готова знову об'єднатися як єдина німецька нація!"
  GER_prussian_russian_withdrawal:0 "Вихід Антанти через німецьку окупацію"
  prussian_withdrawal:0 "Антанта вийшла з-під німецької окупації"
@@ -336,7 +336,7 @@
  GER_prussian_support_radicalism_desc:0 "Через складну проблему в країні люди підтримують екстремістську ідеологію."
  GER_prussian_appoint_hitler:0 "Марш на Берлін"
  GER_prussian_appoint_hitler_desc:0 "Національно-соціалістичний рух Адольфа Гітлера набирає популярність. Вони хочуть відродити німецький народ із глибини поразки. Хто класифікує їх як ультралівих, а хтось як ультраправих через їхні крайні та невідомі ідеї, але, можливо, вони можуть знову зробити Німеччину великою. \nІ з невеликою допомогою вони прийдуть до влади без крові."
- GER_landsturm_deployment:0 "\nВідкриє новий шаблон дивізії — §Y"Landsturm"§! у складі §Y9 ополчення§! та §Yроти підтримувати§!."
+ GER_landsturm_deployment:0 "\nВідкриє новий шаблон дивізії — §Y"Landsturm"§! у складі §Y9 ополчення§! та §Yроти підтримки§!."
  back_in_30_days:0 "Це §Yрішення§! з'явиться знову через §Y30 днів§!."
  back_in_45_days:0 "Це §Yрішення§! з'явиться знову через §Y45 днів§!."
  back_in_60_days:0 "Це §Yрішення§! з'явиться знову через §Y60 днів§!."
@@ -346,8 +346,8 @@
  back_in_120_days:0 "Це §Yрішення§! з'явиться знову через §Y120 днів§!."
  back_in_160_days:0 "Це §Yрішення§! з'явиться знову через §Y160 днів§!."
  back_in_360_days:0 "Це §Yрішення§! з'явиться знову через §Y360 днів§!."
- ifc_wont_accept:0 "§R IFC не відповідає нашим вимогам, якщо наш борг перевищує 15% споживчих товарів!§!"
- GRE_ifc_event_decision:0 "Ми пропонуємо подію на основі суми вашого боргу §Grepaid.§!"
+ ifc_wont_accept:0 "§RМФК не відповідає нашим вимогам, якщо наш борг перевищує 15% споживчих товарів!§!"
+ GRE_ifc_event_decision:0 "Ми пропонуємо подію на основі §Gвиплаченої§! суми вашого боргу."
  GER_mobilization_campaign:0 "Мобілізаційна кампанія"
  GER_mobilization_campaign_desc:0 "Набір наших резервістів впливає на моральний дух армії. Уряд має підвищити моральний дух, обіцяючи бонуси, пільги та інші мотиваційні дії."
  GER_mission_famine_timer:0 "Зима розчарування"
@@ -395,13 +395,13 @@
  GER_defensive_line_in_verdun_desc:0 "Верден розташований на обох берегах річки Маас, у північній частині департаменту Маас. Він був заснований галлами, а назва місця означає "сильний форт" галльною. Тому це був стратегічний пункт назад, тоді це також важлива фортеця для Німеччини для боротьби з Францією військами."
  GER_defensive_line_in_verdun_tt:0 "Додає §Y1 наземне укріплення§! у §Y[863.GetName]§! та §Y1 наземне укріплення§! у §Y[17.GetName].§!"
  GER_restore_schantung_bahn_control:0 "Відновити керування залізницею Шаньдун у [FROM.GetName]"
- GER_restore_schantung_bahn_control_desc:0 "Залізниця Циндао-Цінань зараз зайнята [FROM.GetNameDef], нам потрібно негайно відновити контроль над нею."
- GER_locarno_treaties_timer:0 "Мир для нашого часу?"
+ GER_restore_schantung_bahn_control_desc:0 "Залізниця Ціндао-Цінань зараз зайнята [FROM.GetNameDef], нам потрібно негайно відновити контроль над нею."
+ GER_locarno_treaties_timer:0 "Мир у наш час?"
  GER_hre_cat:0 "Відродити Священну Римську імперію"
  GER_hre_cat_desc:0 "Блиск нашого Кайзера не знає меж, як і кордони нашої нації. Тепер вони виросли до межі старої Священної Римської імперії, і нації на нашому шляху більше не в змозі заперечуючи проти нашої політики, кайзер постановив, що нинішня можливість має бути використана, і що нація має взяти на себе роль духовного спадкоємця Священної Римської імперії Акіла Елегіт Іовіс Омнія Вінцит!"
  GER_german_east_asia_cat:0 "Наші території у Східній Азії"
  GER_german_east_asia_cat_desc:0 "Після нашої перемоги у Великій війні було зроблено пропозицію щодо розширення колоніальної діяльності у Східній Азії. Наші колоніальні адміністратори мають на меті створити велику колоніальну адміністрацію, включивши до неї численні окуповані Німеччиною території в регіоні. Успіх у цій справі обіцяє величезні багатства для Райху, однак невдача загрожує жахливими наслідками, включаючи поширений хаос і потенційний крах нашої колоніальної влади."
- GER_instant_react_to_agadir:0 "Надіслати SMS Panther до Агадіру в Марокко"
+ GER_instant_react_to_agadir:0 "Надіслати SMS Panther до Аґадіру в Марокко"
  GER_instant_react_to_agadir_tt:0 "Це рішення корисне, коли ви зробите інший фокус, але немає часу, щоб зробити фокус §Y$GER_agadir_crisis$§!. З цим ви витратите більше §Y£pol_power політичної влади§!, ніж на фокус."
 
  GER_retire_from_morocco:0 "Відступити з Марокко"
@@ -418,31 +418,31 @@
  GER_restore_austrian_bohemia:0 "Відновити богемські корони"
  GER_restore_austrian_hungary:0 "Відновити Угорське королівство"
  GER_restore_austrian_illyria:0 "Відновити іллірійські корони"
- GER_restore_austrian_galicia:0 "Відновити Королівство Галіція-Лодомерія"
+ GER_restore_austrian_galicia:0 "Відновити Королівство Галичини та Володимирії"
 
- LIE_approach_switzerland:0 "Наближення до Швайцарії"
+ LIE_approach_switzerland: "Підступити до Швайцарії"
 
 ### ФРАНЦІЯ ###
  FRA_parliament_dissolved:0 "Парламент розпущено"
- FRA_parliament_dissolved_tt:0 "§RThe parliament will be suspended§!. Deputies will not be allowed to vote et debate until we allow them to."
- FRA_you_reformed_the_high_command_and_have_high_popularity:0 "Our popular support and the loyalty of the army allow us takeover the coalition and form a new §tEmergency Government§!.\n\n"
+ FRA_parliament_dissolved_tt:0 "§RThe parliament will be suspended§!. Deputies will not be allowed to vote et debate until we allow them to." # (!)
+ FRA_you_reformed_the_high_command_and_have_high_popularity:0 "Our popular support and the loyalty of the army allow us takeover the coalition and form a new §tEmergency Government§!.\n\n" # (!)
 
  FRA_1910_legislative_elections_done:0 "Вибори до законодавчих органів 1910 року завершено"
  FRA_1914_legislative_elections_done:0 "Вибори до законодавчих органів 1914 року завершено"
  FRA_1918_legislative_elections_done:0 "Вибори до законодавчих органів 1918 року завершено"
  FRA_1910_disposition:0 "Вибори до парламенту [GetYear] року"
  FRA_1910_disposition_desc:0 "Національна асамблея формується протягом 4 років. Незабаром відбудуться вибори, які переопределят розподіл місць."
- FRA_jaures_speech_desc:0 "§YЖан Жорес§! організовує великий соціалістичний мітинг напередодні виборів, забезпечуючи більшу підтримку з боку людей для крайніх лівих партій. \n\n§RSFIO§! прийнято §Y50§! додаткові місця."
+ FRA_jaures_speech_desc:0 "§YЖан Жорес§! організовує великий соціалістичний мітинг напередодні виборів, забезпечуючи більшу підтримку з боку людей для крайніх лівих партій. \n\n§RФСРІ§! прийнято §Y50§! додаткові місця."
  FRA_aristide_briand_rally:0 "Мітинг Арістіда Бріана"
  FRA_aristide_briand_rally_desc:0 "§YАрістід Бріан§! організовує мітинг поміркованих соціалістичних партій і лівих демократів. \n\n§YАльянс демократичних республіканців§! Випустив §Y50§! Додаткове місце."
- FRA_aristide_briand_rally_citation:0 ""Il est un droit supérieur à tous les autres, c'est le droit de vivre d'une collectivité nationale. Pour défendre l'existence de la nation, s'il avait fallu aller jusqu'à l'illégalité, je n'aurais pas hésité.""
+ FRA_aristide_briand_rally_citation: "«Il est un droit supérieur à tous les autres, c'est le droit de vivre d'une collectivité nationale. Pour défendre l'existence de la nation, s'il avait fallu aller jusqu'à l'illégalité, je n'aurais pas hésité»."
 
  FRA_royalist_demonstration_in_versailles:0 "Демонстрація роялістів Леона Доде у Версалі"
  FRA_royalist_demonstration_in_versailles_desc:0 "§YЛеон Доде§! збере прихильників монархії та розпочато масовий процес у Версалі.\n\n§gНародна ліберальна акція§! Виповніть §Y50§! Додаткові місця"
- Jacques_piou_citation:0 ""Le peuple a besoin d'une figure d'autorité supérieure, gardienne de la nation, gardée par la nation. C'est un ouvrage mérité par les Français, offert par Dieu.“"
+ Jacques_piou_citation: "«Le peuple a besoin d'une figure d'autorité supérieure, gardienne de la nation, gardée par la nation. C'est un ouvrage mérité par les Français, offert par Dieu»."
 
- FRA_1914_disposition:0 "[GetYear] Disposition" # (!)
- FRA_1918_disposition:0 "[GetYear] Disposition" # (!)
+ FRA_1914_disposition: "Постанова [GetYear] року"
+ FRA_1918_disposition: "Постанова [GetYear] року"
  FRA_hold_verdun:0 "Верден не потрапляє в руки німців."
  FRA_defense_of_france:0 "Наступ на Францію"
  FRA_battle_of_verdun:0 "Утримувати Верден"
@@ -454,7 +454,7 @@
 
  FRA_jaures_speech:0 "Промова Жана Жореса"
  FRA_jaures_speech_citation: "«L’histoire enseigne aux hommes la difficulté des grandes tâches et la lenteur des accomplissements, mais elle justifie l’invincible espoir»."
- FRA_SFIO_gain_50_seat:0 "§RSFIO§! отримає додаткові §Y50§! місць."
+ FRA_SFIO_gain_50_seat:0 "§RФСРІ§! отримає додаткові §Y50§! місць."
  FRA_capitulation:0 "§Y[GetEntenteLeader]§! подала пропозицію миру"
  FRA_great_war:0 "Велика війна"
  FRA_great_war_desc:0 "Війна. Війна ніколи не змінюється. Німеччина готується до наступальної війни, і нам потрібно зміцнити Антанту до того, як німці перетнуть кордон. Від нас залежить, коли світ опиниться у вогні світової війни."
@@ -477,15 +477,15 @@
  FRA_suppress_army_rebellion:0 "Придушіть армійське повстання!"
  FRA_rebellious_army:0 "Повстанська армія"
  FRA_rebellious_army_desc:0 "Заколот переріс у повномасштабне повстання у французькій армії."
- FRA_wadai_war:0 "Війна Вадай"
- FRA_wadai_war_timer:0 "Вторгнення у Вадай"
- FRA_pull_out_from_wadai:0 "Вийти з Вадая"
- wadai_war_end:0 "Війна Вадай закінчилася."
+ FRA_wadai_war: "Вадайська війна"
+ FRA_wadai_war_timer: "Вторгнення у Вадай"
+ FRA_pull_out_from_wadai: "Вийти з Вадая"
+ wadai_war_end: "Вадайська війна закінчилася"
 
- FRA_pull_out_from_mali:0 "Покинути Верхню Вольту"
- mali_war_end:0 "Війна Волта-Бані закінчилася"
- FRA_restore_order_in_tunisia:0 "Відновити порядок у Тунісі"
- FRA_tunisia_war_timer:0 "Війна в Тунісі"
+ FRA_pull_out_from_mali: "Покинути Верхню Вольту"
+ mali_war_end: "Війна у Вольта-Бані закінчилася"
+ FRA_restore_order_in_tunisia: "Відновити порядок у Тунісі"
+ FRA_tunisia_war_timer: "Війна в Тунісі"
 
  FRA_nationalist_france_flag:0 "Націоналістична Франція"
  NFA_occupy_malta:0 "Захопити Мальту"
@@ -877,14 +877,14 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  AUH_lift_embargo:0 "Зняти ембарго"
  AUH_terrorism:0 "Активізм меншин"
  AUH_terrorism_desc:0 "Різноманітність Австро-Угорської монархії є як її головною сильною стороною, так і головною слабкістю. Кілька народів відчувають себе осторонь через великі розбіжності в розгляді авторитетів імперського уряду. Як наслідок, сепаратистські, полемічні а іноді терористичні акти проявляються у боротьбі за владу."
- AUH_german_states: "Клацніть, щоби побачити [AUS.getFlag] німецькі області"
- AUH_hungarian_states: "Клацніть, щоби побачити [HUN.getFlag] угорські області"
- AUH_slovak_states: "Клацніть, щоби побачити [SLO.getFlag] словацькі області"
- AUH_czech_states: "Клацніть, щоби побачити [CZE.getFlag] чеські області"
- AUH_polish_states: "Клацніть, щоби побачити [POL.getFlag] польські області"
- AUH_ukrainian_states: "Клацніть, щоби побачити [UKR.getFlag] українські області"
- AUH_serbo_croat_states: "Клацніть, щоби побачити [CRO.getFlag] сербо-хорватські області"
- AUH_slovene_states: "Клацніть, щоби побачити [SLV.getFlag] словенські області"
+ AUH_german_states: "Клацніть, аби побачити [AUS.getFlag] німецькі області"
+ AUH_hungarian_states: "Клацніть, аби побачити [HUN.getFlag] угорські області"
+ AUH_slovak_states: "Клацніть, аби побачити [SLO.getFlag] словацькі області"
+ AUH_czech_states: "Клацніть, аби побачити [CZE.getFlag] чеські області"
+ AUH_polish_states: "Клацніть, аби побачити [POL.getFlag] польські області"
+ AUH_ukrainian_states: "Клацніть, аби побачити [UKR.getFlag] українські області"
+ AUH_serbo_croat_states: "Клацніть, аби побачити [CRO.getFlag] сербо-хорватські області"
+ AUH_slovene_states: "Клацніть, аби побачити [SLV.getFlag] словенські області"
  SLO_destabilize_region:0 "Дестабілізувати [SLO.getFlag] Словацький регіон"
  SLO_focus_on_state:0 "Підготуйте операції опору в [SLO.getFlag] Словаччині"
  SLO_pacified:0 "Словаччина була умиротворена"
@@ -1284,8 +1284,8 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  FRA_less_strike_will_occur:0 "У майбутньому буде менше §RStrike§!."
 
  FRA_second_security_act:0 "Другий акт безпеки"
- FRA_second_security_act_desc:0 "Депутат §YHumbert§! запропонував переписати закон про безпеку, прийнятий нещодавно обома палатами. Через другу справу очевидно, що закон проти масонських лож і закон про безпеку поліції можна об'єднати в новий, ширший закон засуджує політичні організації, які виступають проти національних інтересів, таких як армія, освіта, територіальна цілісність тощо. широко французькі інтереси за кордоном.\n\nЦе також дозволяє нам офіційно враховувати зв'язки між соціалістами та картковою справою, вводячи санкції до цих груп."
- FRA_second_security_act_undermine_SFIO:0 "Цей закон звинувачує §RSFIO§! і §Орадикальних лівих§! в обох §справах YCards§!, §Gвтрачаючи їх популярність і місця на наступних виборах.§!"
+ FRA_second_security_act_desc:0 "Депутат §YЕмбер§! запропонував переписати закон про безпеку, прийнятий нещодавно обома палатами. Через другу справу очевидно, що закон проти масонських лож і закон про безпеку поліції можна об'єднати в новий, ширший закон засуджує політичні організації, які виступають проти національних інтересів, таких як армія, освіта, територіальна цілісність тощо. широко французькі інтереси за кордоном.\n\nЦе також дозволяє нам офіційно враховувати зв'язки між соціалістами та картковою справою, вводячи санкції до цих груп."
+ FRA_second_security_act_undermine_SFIO:0 "Цей закон звинувачує §RФСРІ§! і §Орадикальних лівих§! в обох §YСправах фішок§!, §Gвтрачаючи їх популярність і місця на наступних виборах.§!"
 
  FRA_women_rights_code_penal_update:0 "Закон про подружню зраду"
  FRA_women_rights_code_penal_update_desc:0 "§YLouis Martin§! Пропозиція намагається видалити статті 337, 338, 339 і частково 324 з кримінального кодексу. Ці статті датуються до Французької революції 1789 року, і, наприклад, просять вибачення перед чоловіком, який убив свою дружина за подружню зраду також планує врегулювати співжиття, яке в даний час карається набагато серйозніше для жінок, ніж для чоловіків."
@@ -1299,7 +1299,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  AUH_negotiate_with_france:0 "Домовитися про сепаратний мир із Францією"
  AUH_negotiate_with_france_desc:0 "Війна триває і не йде на нашу користь на заході. Франція не впала, як планували німці, і голод почав з’їдати деякі міські райони нашої імперії. Хоча російська кампанія йде добре для Німецька імперія, ми не в такому зручному становищі, можливо, ми могли б домовитися про вихід із цієї війни через почесний мир? запобігти тисячам додаткових смертей."
 
- AUH_bosnian_states:0 "Натисніть, щоб побачити [BOS.getFlag] Боснійські області"
+ AUH_bosnian_states: "Клацніть, аби побачити [BOS.getFlag] боснійські області"
  BOS_focus_on_state:0 "Підготуйте операції опору в [BOS.getFlag] Боснії"
  BOS_pacified:0 "Боснія була умиротворена"
  BOS_is_under_focus:0 "Цей регіон націлений боснійськими активними відвідувачами"
@@ -1312,9 +1312,9 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  BOS_suspend_bosnian_diet:0 "Призупинити боснійський сейм"
  BOS_suspend_bosnian_diet_desc:0 "Ситуація на Балканах стала надто складною, щоб ми дозволяли соціальні чи демократичні рухи, які суперечать нашим інтересам."
 
- AUH_italian_states:0 "Натисніть, щоб побачити [ITA.getFlag] італійські області"
- AUH_romanian_states:0 "Натисніть, щоб побачити [ROM.getFlag] румунські області"
- ITA_focus_on_state:0 "Підготуйте операції опору в [ITA.getFlag] Італійському Тіролі"
+ AUH_italian_states: "Клацніть, аби побачити [ITA.getFlag] італійські області"
+ AUH_romanian_states: "Клацніть, аби побачити [ROM.getFlag] румунські області"
+ ITA_focus_on_state:0 "Підготувати операції опору в [ITA.getFlag] італійському Тіролі"
  ITA_pacified:0 "Італійський Тіроль умиротворено"
  ITA_is_under_focus:0 "Цей регіон націлений італійськими активними відвідувачами"
  ITA_focus_this_region:0 "\n§YЦей регіон§! стане мішенню §Rіталійських активістів§!"
@@ -1325,14 +1325,14 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  AUH_civil_war:0 "Громадянська війна в Австро-Угорщині"
  AUH_famine_decisions:0 "Заходи проти голоду"
  AUH_famine_decisions_desc:0 "Наша країна страждає від масового голоду, спричиненого блокадою нашої країни під час Великої війни. Він швидко загострюється та поширюється по нашій країні, ми повинні вжити заходів проти нього."
- AUH_buy_ukrainian_grain:0 "Імпортне українське зерно"
- AUH_purchase_romanian_grain:0 "Купити румунське зерно"
+ AUH_buy_ukrainian_grain: "Імпортувати українське зерно"
+ AUH_purchase_romanian_grain: "Придбати румунське зерно"
 
 ### МИРНІ УГОДИ ###
  member_of_entente_armistice:0 "Відмова капітулювати"
  member_of_entente:0 "Ворог Центральних держав\n"
  member_of_centre_armistice:0 "Відмова здатися"
- refuse_to_surrender_tt:0 "Ви §Yзалишатиметеся у війні без миру§!.\n\n§ФУНКЦІЯ RARCADE. Це може призвести до небажаних результатів. (наприклад, порушення кордонів, політичні події).§!"
+ refuse_to_surrender_tt:0 "Ви §Yзалишатиметеся у війні без миру§!.\n\n§RАРКАДНА ФУНКЦІЯ. Це може призвести до небажаних результатів. (наприклад, порушення кордонів, політичні події).§!"
  compiegne_armistice_signed: "§YКомп'єнське перемир'я§! було §Yпідписано§!"
  compiegne_armistice:0 "Комп'єнське перемир'я\n"
  compiegne_armistice_mission:0 "Комп'єнське перемир'я"
@@ -1365,13 +1365,13 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  no_scripted_peace_warning_tt:0 "§RПопередження: за допомогою цієї опції військові перемир’я більше не будуть доступні, і будь-який підготовлений міжвоєнний вміст не працюватиме належним чином. Це означає, що вам доведеться продовжувати війну, доки всі ворожі великі країни не будуть переможені, доступ до ванільна мирна конференція.§!"
  RUS_surrender_alone:0 "§YРосія§! капітулювала перед §YЦентральними державами§!"
 
- pos_has_been_founded:0 "Соціалістичну партію Обреро було засновано\n"
+ pos_has_been_founded: "Соціалістичну робітничу партію було засновано\n"
 
 ### РОСІЯ ###
- RUS_rename_petersburg:0 "Перейменувати Санкт-Петербурґ"
- RUS_rename_tsargrad:0 "Перейменувати Константинополь"
- RUS_border_conflict_warning_PER_1911:0 "Російське втручання"
- RUS_border_conflict_won:0 "Російське втручання успішне"
+ RUS_rename_petersburg: "Перейменувати Санкт-Петербурґ"
+ RUS_rename_tsargrad: "Перейменувати Константинополь"
+ RUS_border_conflict_warning_PER_1911: "Російська інтервенція"
+ RUS_border_conflict_won: "Російська інтервенція успішна"
  RUS_escalate_incident_to_border_conflict_PER_1911:0 "Продовжити Перську кампанію 1909 року"
  RUS_tsar_decision:0 "Російське самодержавство"
  RUS_suppress_the_rebellious_garrisons:0 "Придушити повстанські гарнізони"
@@ -8774,8 +8774,8 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  ENG_british_civil_war_category_desc:0 "Революція народжується в окопах, коли безперервна бійня Великої війни знищила волю цілого покоління. Відчай в окопах перетворився на нестримну лють, лють проти державного апарату, який пожертвував би багатьма Британські чоловіки."
  ENG_foreign_support_GBR:0 "Підтримка [GBR.GetNameDef]"
  ENG_foreign_support_UOB:0 "Підтримка [UOB.GetNameDef]"
- ENG_agadir_involvement:0 "Відправити лінкор до Агадіру"
- ENG_agadir_involvement_desc:0 "На думку Британії, французький уряд цілком відповідальний за спровокування Агадірської кризи. По-перше, ми вирішили спостерігати за ними здалеку, але Франція заперечила, що неприйнятно, щоб британці дозволяли німецькому впливу в Марокко, далеко від Підтримуючи Францію після англо-французького договору 1904 року, ми повинні діяти помірковано, щоб уникнути кризи війни. відправка лінкора в Агадір помірно стримає обидві країни та уникне загрози повної війни."
+ ENG_agadir_involvement:0 "Відправити лінкор до Аґадіру"
+ ENG_agadir_involvement_desc:0 "На думку Британії, французький уряд цілком відповідальний за спровокування Аґадірської кризи. По-перше, ми вирішили спостерігати за ними здалеку, але Франція заперечила, що неприйнятно, щоб британці дозволяли німецькому впливу в Марокко, далеко від Підтримуючи Францію після англо-французького договору 1904 року, ми повинні діяти помірковано, щоб уникнути кризи війни. відправка лінкора в Аґадір помірно стримає обидві країни та уникне загрози повної війни."
  ENG_scottish_revolt_timer:0 "Шотландське повстання"
  ENG_integrate_orange_order:0 "Інтегрувати [NIR.GetName]"
  ENG_israel_uganda:0 "Розпочати план Ізраїль-Уганда"
@@ -9661,38 +9661,38 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  liman_crisis_french_claim: "§Y[FRA.GetNameWithFlag]§! жадає відкликати §Y[GER.getFlag][GER.getAdjective]их радників§! у державі §Y[TUR.getFlag][TUR.getNameDef]§!." # інак. вимагає
  liman_crisis_german_claim: "§Y[GER.GetNameWithFlag]§! жадає скоротити §Y[RUS.getFlag][RUS.getAdjective]ий§! вплив в §YАнатолії§!." # інак. прагне
 
- GER_important_law_that_will_comeback:0 "\nЯкщо закон не буде прийнятий, його внесуть повторно через 60 днів, доки §YРайхстаґ§! не схвалить його."
- GER_vote_strengh_tt:0 "§Y[?merged_vote_strengh|0]/[?GER_total_reichstag_seats] ([?merged_vote_percent|%%0]) депутатів§! проголосують за цей закон."
- GER_sway_left_will_vote_20_percent:0 "§Y[?left_ratio_sway_ratio|0%]§! §tлівих депутатів§! підтримають (§Y[?left_vote|0] місць§!)"
- GER_sway_center_will_vote_20_percent:0 "§Y[?center_ratio_sway_ratio|0%]§! §gцентристських депутатів§! підтримають (§Y[?center_vote|0] місць§!)"
- GER_sway_right_will_vote_20_percent:0 "§Y[?right_ratio_sway_ratio|0%]§! §2правих депутатів§! підтримають (§Y[?right_vote|0] місць§!)"
- GER_sway_neutral_will_vote_20_percent:0 "§Y[?neutral_ratio_sway_ratio|0%]§! §Lнейтральних депутатів§! підтримають (§Y[?neutral_vote|0] місць§!)"
- GER_sway_left_will_vote:0 "Ви переконаєте §Y20%§! §tлівих депутатів§! підтримати закон"
- GER_sway_center_will_vote:0 "Ви переконаєте §Y20%§! §gцентристських депутатів§! підтримати закон"
- GER_sway_right_will_vote:0 "Ви переконаєте §Y20%§! §2правих депутатів§! підтримати закон"
- GER_sway_neutral_will_vote:0 "Ви переконаєте §Y20%§! §Lнейтральних депутатів§! підтримати закон"
- GER_law_pass:0 "§GЗакон буде прийнято§!"
- GER_law_dont_pass:0 "§RЗакон не буде прийнято без додаткового переконання депутатів§!"
+ GER_important_law_that_will_comeback: "\nЯкщо цей закон не ухвалили, його буде знов запропоновано за 60 днів, аж поки §YРайхстаґ§! його не ухвалить." # (&+)
+ GER_vote_strengh_tt: "§Y[?merged_vote_strengh|0]/[?GER_total_reichstag_seats] ([?merged_vote_percent|%%0]) депутатів§! проголосує на користь цього закону."
+ GER_sway_left_will_vote_20_percent: "§Y[?left_ratio_sway_ratio|0%]§! §tдепутатів-ліваків§! проголосує за нього (§Y[?left_vote|0] місць§!)." # (&+)
+ GER_sway_center_will_vote_20_percent: "§Y[?center_ratio_sway_ratio|0%]§! §gдепутатів-центристів§! проголосує за нього (§Y[?center_vote|0] місць§!)." # (&+)
+ GER_sway_right_will_vote_20_percent: "§Y[?right_ratio_sway_ratio|0%]§! §2депутатів-праваків§! проголосує за нього (§Y[?right_vote|0] місць§!)." # (&+)
+ GER_sway_neutral_will_vote_20_percent: "§Y[?neutral_ratio_sway_ratio|0%]§! §Lдепутатів-нейтралів§! проголосує за нього (§Y[?neutral_vote|0] місць§!)." # (&+)
+ GER_sway_left_will_vote: "Ви переконаєте §Y20%§! §tдепутатів-ліваків§! підтримати поточний закон." # (&+)
+ GER_sway_center_will_vote: "Ви переконаєте §Y20%§! §gдепутатів-центристів§! підтримати поточний закон." # (&+)
+ GER_sway_right_will_vote: "Ви переконаєте §Y20%§! §2депутатів-праваків§! підтримати поточний закон." # (&+)
+ GER_sway_neutral_will_vote: "Ви переконаєте §Y20%§! §Lдепутатів-нейтралів§! підтримати поточний закон." # (&+)
+ GER_law_pass: "§GЗакон буде ухвалено§!"
+ GER_law_dont_pass: "§RЗакон не буде ухвалено без залучення більшого числа депутатів у Райхстаґу§!"
  GER_effect_if_it_pass: "\n\n§YЕфекти в разі ухвалення закону:§!"
  GER_vote_left_law: "Це вважається лівацьким законом. За нього проголосують §Y100%§! §tлівих депутатів§!, §Y25%§! §gцентральних депутатів§! і §Y25%§! §Lнейтральних депутатів§!.\n\n"
  GER_vote_center_law: "Це вважається центристським законом. За нього проголосують §Y100%§! §gцентральних депутатів§!, §Y15%§! §tлівих депутатів§!,§Y15%§! §2правих депутатів§! і §Y15%§! §Lнейтральних депутатів§!.\n\n"
  GER_vote_coalition_law: "§GОскільки Райхстаґ об'єднаний§!, за цей закон проголосують §Y100%§! §Yдепутатів§!.\n\n"
  GER_vote_right_law: "Це вважається правацьким законом. За нього проголосують §Y100%§! §2правих депутатів§!, §Y25%§! §gцентральних депутатів§! і §Y25%§! §Lнейтральних депутатів§!.\n\n"
  GER_vote_wartime_law: "Це вважається законом воєнного часу. За нього проголосують §Y90%§! §2правих депутатів§!, §Y70%§! §gцентральних/нейтральних депутатів§! і §Y30%§! §tлівих депутатів§!.\n\n"
- GER_temp_sway_left:0 "Вплинути на лівих"
- GER_temp_sway_center:0 "Вплинути на центристів"
- GER_temp_sway_center_even_more:0 "Додатково вплинути на центристів"
- GER_temp_sway_right:0 "Вплинути на правих"
- GER_temp_sway_neutral:0 "Вплинути на нейтральних"
+ GER_temp_sway_left: "Вплинути на депутатів-ліваків" # (&+)
+ GER_temp_sway_center: "Вплинути на депутатів-центристів" # (&+)
+ GER_temp_sway_center_even_more: "Вплинути на ще більше депутатів-центристів" # (&+)
+ GER_temp_sway_right: "Вплинути на депутатів-праваків" # (&+)
+ GER_temp_sway_neutral: "Вплинути на депутатів-нейтралів" # (&+)
  left_vote_in_progress: "Іде голосування щодо §tлівацького§! закону" # (&+)
  center_vote_in_progress: "Іде голосування щодо §gцентристського§! закону" # (&+)
  right_vote_in_progress: "Іде голосування щодо §2правацького§! закону" # (&+)
  wartime_vote_in_progress: "Іде голосування щодо закону §8воєнного часу§!" # (&+)
- GER_right_sway_20_percent:0 "§2Правих§! уже переконано"
- GER_center_sway_20_percent:0 "§gЦентристів§! уже переконано"
- GER_center_sway_40_percent:0 "§gMore Centrists§! already swayed" # (!)
- GER_left_sway_20_percent:0 "§tЛівих§! уже переконано"
- GER_neutral_sway_20_percent:0 "§LНейтральних§! уже переконано"
+ GER_right_sway_20_percent: "Уже вплинуто на §2ліваків§!" # (&+)
+ GER_center_sway_20_percent: "Уже вплинуто на §gцентристів§!" # (&+)
+ GER_center_sway_40_percent: "Уже вплинуто на §gще більше центристів§!" # (&+)
+ GER_left_sway_20_percent: "Уже вплинуто на §tправаків§!" # (&+)
+ GER_neutral_sway_20_percent: "Уже вплинуто на §Lнейтралів§!" # (&+)
  GER_build_edersee_dam: "Побудувати греблю Едерзее"
  GER_build_mohnetalsperre: "Побудувати Мьонетальшперре"
 
@@ -9725,8 +9725,8 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  FRA_we_have_enough_bombers: "Ми маємо достатньо §Yбомбардувальників§!, тому не отримаємо жодний штраф навіть якщо провалимо завдання."
 
  FRA_duval_plan_tt: "§RМи мусимо скористатися цими заводами, щоби виробити великі ВПС.§!" # (&?)
- FRA_duval_plan:0 "Duval Plan"
- FRA_duval_plan_desc:0 "In order to achieve victory in the air, France must produce a staggering amount of material, enough to be able to bomb the Rhine. General Marie Charles Duval is convinced that air superiority will guarantee our victory."
+ FRA_duval_plan: "План Дюваля"
+ FRA_duval_plan_desc: "Аби здобути перемогу в повітрі, Франція мусить виробити вражаючу кількість матеріалів, достатню для бомбардування Райну. Генерал Марі Шарль Дюваль переконаний, що перевага в повітрі забезпечить нашу перемогу." # (@)
 
  FRA_french_war_industry_seller:0 "§LЩоб зберегти нашу військову промисловість, ми повинні зробити її прибутковою, продаючи частину нашої продукції іноземним торговим партнерам.§!"
 
@@ -9745,32 +9745,32 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
 
  FRA_is_being_refunded_plus_extra:0 "Відшкодовується Францією"
 
- FRA_front_populaire_party_name:0 "[getPopularFrontPartyName]"
+ FRA_front_populaire_party_name: "[getPopularFrontPartyName]"
 
- hardline_SFIO:0 "§rHardline SFIO§!"
- moderate_SFIO:0 "§OModerate SFIO§!"
- liberal_socialists:0 "§8Ліберальні соціалісти§!"
- radical_party:0 "§CРадикальні соціалісти§!"
+ hardline_SFIO: "§rРадикальні члени ФСРІ§!"
+ moderate_SFIO: "§OПомірковані члени ФСРІ§!"
+ liberal_socialists: "§8Ліберальні соціалісти§!"
+ radical_party: "§CРадикальні соціалісти§!"
 
- FRA_loyalty_percent:0 "[getPopularFrontLoyaltyPercent]"
+ FRA_loyalty_percent: "[getPopularFrontLoyaltyPercent]"
 
- hardline_SFIO_loyalty:0 "[?hardline_SFIO_loyalty|0%%]"
- moderate_SFIO_loyalty:0 "[?moderate_SFIO_loyalty|0%%]"
- liberal_socialists_loyalty:0 "[?liberal_socialists_loyalty|0%%]"
- radical_party_loyalty:0 "[?radical_party_loyalty|0%%]"
+ hardline_SFIO_loyalty: "[?hardline_SFIO_loyalty|0%%]"
+ moderate_SFIO_loyalty: "[?moderate_SFIO_loyalty|0%%]"
+ liberal_socialists_loyalty: "[?liberal_socialists_loyalty|0%%]"
+ radical_party_loyalty: "[?radical_party_loyalty|0%%]"
 
  FRA_front_populaire_explanation:0 "Ви повинні зберегти стабільність коаліції. Якщо один із її компонентів має менше ніж §Y20%§! stability£stability_icon£, §Rкоаліція розвалиться!§!"
  FRA_front_populaire_mechanics:0 "Будуть активовані рішення §CFront Populaire§!. Використовуйте її, щоби гарантувати стабільність коаліції та лояльність кожного її компонента."
 
- FRA_three_hardline_sfio_law_to_pass:0 "[?SFIO_law_passed|+0]/§Y3§! §tHardline SFIO§! Закони прийняті"
+ FRA_three_hardline_sfio_law_to_pass: "Ухвалено [?SFIO_law_passed|+0]/§Y3§! законів §tрадикального крила ФСРІ§!"
 
- vote_three_hardline_sfio_laws:0 "Поступки SFIO"
- vote_three_hardline_sfio_laws_desc:0 "Ліве крило SFIO, що складається з анархістів, комуністів і профспілкових діячів, спільно вимагає посилення реформ, спрямованих на надання більших повноважень робітникам."
+ vote_three_hardline_sfio_laws:0 "Поступки ФСРІ"
+ vote_three_hardline_sfio_laws_desc:0 "Ліве крило ФСРІ, що складається з анархістів, комуністів і профспілкових діячів, спільно вимагає посилення реформ, спрямованих на надання більших повноважень робітникам."
  party_coalition_lose_loyalty:0 "[getPopularFrontPartyName] втратить до §R[?loyalty_lose|%%0] лояльності§!"
  party_coalition_gain_loyalty:0 "[getPopularFrontPartyName] отримає до §G[?loyalty_gain|%%0] лояльності§!"
  FRA_collective_labor_agreement:0 "Колективний трудовий договір"
  FRA_collective_labor_agreement_desc:0 "Закон про колективні договори, запропонований членом парламенту §YLouis Bubreuilh§! пропонує створення угод для кожного сектора промисловості.\n\nУгоди дозволяють встановлювати конкретні статуси щодо винагороди, умов праці чи кваліфікації. Основні Професійними галузями зацікавлених є металісти UIMM, фермери, шахтарі, обробники та незалежні виробники."
- FRA_communist_want_more_reforms:0 "§tHardline SFIO§! хочуть реформ"
+ FRA_communist_want_more_reforms: "§tРадикальні члени ФСРІ§! хочуть реформ"
 
  FRA_hostile_motion_de_censure:0 "Ворожий вотум недовіри"
  FRA_hostile_motion_de_censure_desc:0 "Наш уряд є меншістю, а інші фракції парламенту сформували стійку більшість проти нас. Вони планують прийняти вотум недовіри, що призведе до падіння нашого уряду."
@@ -9828,7 +9828,7 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  FRA_massive_utilization_of_the_cards:0 "Масове використання політичних досьє"
  FRA_massive_utilization_of_the_cards_desc:0 "Для контролю політичних поглядів офіцерів та підтримки республіканських цінностей було запроваджено систему політичних досьє, які відстежують погляди та обмежують просування антиреспубліканських елементів. Ця система, створена 1904 року після «справи каструлі», досі функціонує.\n\nМи повинні повністю активувати цю систему та посилити політичні критерії просування."
 
- FRA_sfio_are_leaving_the_coalition:0 "Лояльність SFIO низька"
+ FRA_sfio_are_leaving_the_coalition:0 "Лояльність ФСРІ низька"
  FRA_independant_socialist_are_leaving_the_coalition:0 "Лояльність незалежних соціалістів низька"
  FRA_democratic_alliance_are_leaving_the_coalition:0 "Лояльність Демократично-республіканського альянсу низька"
  FRA_radical_party_are_leaving_the_coalition:0 "Лояльність Радикальної партії низька"
@@ -9840,7 +9840,7 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  FRA_far_right_are_leaving_the_coalition:0 "Лояльність Націоналістів низька"
 
  independent_socialist_allied:0 "£parliament_party_icon|2 Незалежні соціалісти стали союзниками"
- FRA_sfio_ally:0 "Укласти союз із £parliament_party_icon|1 §RSFIO§!"
+ FRA_sfio_ally:0 "Укласти союз із £parliament_party_icon|1 §RФСРІ§!"
  FRA_independent_socialists_ally:0 "Укласти союз із £parliament_party_icon|2 §OНезалежними соціалістами§!"
  FRA_radical_party_ally:0 "Укласти союз із £parliament_party_icon|3 §CРадикальною партією§!"
  FRA_democratic_alliance_ally:0 "Укласти союз із £parliament_party_icon|4 §8Демократично-республіканським альянсом§!"

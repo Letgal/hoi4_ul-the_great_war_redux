@@ -1199,8 +1199,8 @@
  #CHL_democratic_coalition_liberal_alliance_party:0 "Coalición-Alianza Liberal"
  #CHL_democratic_coalition_liberal_alliance_party_long:0 "Coalición Conservadora - Alianza Liberal"
  #CHL_democratic_national_union_party:0 "Unión Nacional"
- #CHL_communism_pos_party:0 "POS"
- #CHL_communism_pos_party_long:0 "Partido Obrero Socialista"
+ CHL_communism_pos_party: "СРП"
+ CHL_communism_pos_party_long: "Соціалістична робітнича партія"
 
  #ETH_neutrality_party:0 "Selomoni Bēti"
 
@@ -2811,8 +2811,6 @@
  CHL_democratic_coalition_liberal_alliance_party:0 "Коаліція-Ліберальний Альянс"
  CHL_democratic_coalition_liberal_alliance_party_long:0 "Консервативна Коаліція — Ліберальний Альянс"
  CHL_democratic_national_union_party:0 "Національний Союз"
- CHL_communism_pos_party:0 "СРП"
- CHL_communism_pos_party_long:0 "Соціалістична Робітнича Партія"
 
  ETH_neutrality_party:0 "Дім Соломонів"
 
