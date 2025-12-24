@@ -364,13 +364,13 @@
  montreal_locomotive_works: "Montreal Locomotive Works"
  bell_canada: "Bell Canada"
  kaiping_coal_mine_CGX:0 "Кайпінська вугільна шахта"
- kailan_mining_administration__CGX:0 "Адміністрація майнінгу Kailan "
+ kailan_mining_administration__CGX: "$kailan_mining_administration__CHI$"
  han_ye_ping_coal_and_iron_company:0 "Han-Ye-Ping Coal and Iron Company"
  kaiping_coal_mine_CHI:0 "Кайпінська вугільна шахта"
- kailan_mining_administration__CHI:0 "Адміністрація видобутку Kailan"
+ kailan_mining_administration__CHI:0 "Адміністрація видобутку Кайланя"
  zhong_xing_coal_company_CHI:0 "Вугільна компанія Zhong Xing"
  tianjin_belgian_tram_and_electric_co_CHI:0 "Tianjin Belgian Tram & Electric Co."
- electric_traction_company_of_hong_kong__CHI:0 "Компанія електричної тяги Гонконгу "
+ electric_traction_company_of_hong_kong__CHI:0 "Компанія електричної тяги Гонконгу"
  hong_kong_tramways_ltd__CHI: "Hong Kong Tramways Ltd"
  hong_kong_electric_co_ltd__CHI: "Hong Kong Electric Co. Ltd"
  yunnan_tin_company_CHI:0 "Yunnan Tin Company"
@@ -3006,7 +3006,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  LIB_german_staff: "Прусська муштра"
 
  # South Africa
- SAF_mining_reliant_economy:0 "Економіка, що залежить від майнінгу"
+ SAF_mining_reliant_economy: "Залежна від гірництва економіка" # (&+?)
  SAF_mining_reliant_economy_desc:0 "Основа економіки держави [ROOT.GetName] лежить глибоко під землею, де золото, діаманти та дорогоцінні мінерали сприяють як процвітанню, так і вразливості. Будучи джерелом багатства нації, гірничодобувна промисловість домінує в усіх аспектах економічного життя, починаючи від зайнятості. Однак ця залежність має певну ціну — економічна стабільність є головною Коливання світового попиту та робочі заворушення на шахтах можуть сколихнути криху промислову базу країни"
 
  SAF_cape_qualified_franchise:0 "Qualified Franchise" # (!)

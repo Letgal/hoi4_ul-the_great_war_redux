@@ -1669,7 +1669,7 @@
  PRC_STATE_894:0 "Takelemagan Shamo"
  STATE_895: "Сіккім"
  STATE_896: "Північне Борнео"
- STATE_897: "Брунай"
+ STATE_897: "Бруней" # фонет. Брунай
  STATE_898: "Афіни"
  STATE_899: "Родос"
  TUR_STATE_899: "Родос" 

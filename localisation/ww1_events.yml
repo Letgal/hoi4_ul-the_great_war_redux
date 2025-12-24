@@ -3722,7 +3722,7 @@ end_tt: "§OВміст, який ми підготували, закінчуєт
  ww1_greece.60.a: "Подати заявку на зменшення боргу"
  ww1_greece.60.b: "Продовжити позику"
  ww1_greece.60.tt1:0 "Modify §YDebt to the I.F.C.§! by\n£construction_speed_texticon  Construction Speed: §G+10.00%§!\n\n" # (!)
- ww1_greece.60.c: "Запит на інвестиції в майнінг в Аттиці"
+ ww1_greece.60.c: "Запит на інвестиції у видобувну промисловість в Аттиці"
  ww1_greece.60.tt2:0 "Modify §YDebt to the I.F.C.§! by\n£steel_texticon  Steel: §G+12§!\n£chromium_texticon  Chromium: §G+4§!\n\n" # (!)
 
  GRE_debt_reduce_2: "Зменшити §YМФК§! Споживчі товари на §G2.0%§!"

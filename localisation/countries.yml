@@ -2829,14 +2829,14 @@
  SAR_communism: "Комуни Сараваку"
  SAR_communism_DEF: "Конфедерація комун Сараваку"
 
- BRN: "Брунай"
- BRN_DEF: "Брунай"
- BRN_ADJ: "Брунайськ"
- BRN_neutrality_DEF: "Брунай Даруссалам"
- BRN_fascism: "Брунай Даруссалам"
- BRN_fascism_DEF: "Держава Брунай Даруссалам" # Negara Brunei Darussalam
- BRN_communism: "Народна республіка Брунай"
- BRN_communism_DEF: "Народна республіка Брунай"
+ BRN: "Бруней" # фонет. Брунай
+ BRN_DEF: "Бруней"
+ BRN_ADJ: "Брунейськ"
+ BRN_neutrality_DEF: "Бруней Даруссалам"
+ BRN_fascism: "Бруней Даруссалам"
+ BRN_fascism_DEF: "Держава Бруней Даруссалам" # Negara Brunei Darussalam
+ BRN_communism: "Народна республіка Бруней"
+ BRN_communism_DEF: "Народна республіка Бруней"
 
  SKK: "Сіккім"
  SKK_DEF: "Сіккім"

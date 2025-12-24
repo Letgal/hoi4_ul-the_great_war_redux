@@ -9693,8 +9693,8 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  GER_center_sway_40_percent:0 "§gMore Centrists§! already swayed" # (!)
  GER_left_sway_20_percent:0 "§tЛівих§! уже переконано"
  GER_neutral_sway_20_percent:0 "§LНейтральних§! уже переконано"
- GER_build_edersee_dam:0 "Build Edersee Dam" # (!)
-GER_build_mohnetalsperre:0 "Build Möhnetalsperre" # (!)
+ GER_build_edersee_dam: "Побудувати греблю Едерзее"
+ GER_build_mohnetalsperre: "Побудувати Мьонетальшперре"
 
  FRA_vote_will_fail:0 "§RГолосування, ймовірно, буде невдалим.§!"
  FRA_vote_will_pass:0 "§GГолосування пройде!§!"
