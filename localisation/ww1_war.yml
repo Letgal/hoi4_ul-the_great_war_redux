@@ -79,12 +79,12 @@
  WAR_NAME_GDC_ZHE: "Північний похід"
  WAR_NAME_GDC_ZHC: "Північний похід"
  WAR_NAME_GDC_FJN: "Північний похід"
- WAR_NAME_GXC_GDC: "Лянґуанська війна"  #兩廣戰爭
- WAR_NAME_GDC_GXC: "Лянґуанська війна"  #兩廣戰爭
- WAR_NAME_GDC_GZC: "Західний похід"  #西征
- WAR_NAME_GDC_YUN: "Західний похід"  #西征
- WAR_NAME_ZGP_GDC: "Юнфенський інцидент"  #永豐艦事件
- WAR_NAME_GDC_ZGP: "Східний похід"  #東征
+ WAR_NAME_GXC_GDC: "Лянґуанська війна" # 兩廣戰爭
+ WAR_NAME_GDC_GXC: "Лянґуанська війна" # 兩廣戰爭
+ WAR_NAME_GDC_GZC: "Західний похід" # 西征
+ WAR_NAME_GDC_YUN: "Західний похід" # 西征
+ WAR_NAME_ZGP_GDC: "Юнфенський інцидент" # 永豐艦事件
+ WAR_NAME_GDC_ZGP: "Східний похід" # 東征
  WAR_NAME_JNC_ZHE: "Цзянсусько-чжецзянська війна"
  WAR_NAME_ZHE_JNC: "Цзянсусько-чжецзянська війна"
  WAR_NAME_MAN_FNG: "Мукденський інцидент"

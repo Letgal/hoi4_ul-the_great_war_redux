@@ -817,11 +817,11 @@
  VICTORY_POINTS_8248: "Луанда"
  VICTORY_POINTS_10966: "Новий Лісабон"
  VICTORY_POINTS_10929: "Солсбері"
- VICTORY_POINTS_191: "Елізабетвілль"
+ VICTORY_POINTS_191: "Елізабетвіль"
  GER_VICTORY_POINTS_191: "Елізабетштадт"
  MAF_VICTORY_POINTS_191: "Елізабетштадт"
  VICTORY_POINTS_4515:0 "Tenke"
- VICTORY_POINTS_13413: "Леопольдвілль"
+ VICTORY_POINTS_13413: "Леопольдвіль"
  GER_VICTORY_POINTS_13413: "Леопольдштадт"
  MAF_VICTORY_POINTS_13413: "Леопольдштадт"
  VICTORY_POINTS_13412:0 "Thysville"
@@ -833,8 +833,8 @@
  VICTORY_POINTS_2024:0 "Demba"
  VICTORY_POINTS_9986:0 "Luluabourg"
  VICTORY_POINTS_13427:0 "Dibaya"
- VICTORY_POINTS_5139: "Лібревілль"
- VICTORY_POINTS_8193: "Браззавілль"
+ VICTORY_POINTS_5139: "Лібревіль"
+ VICTORY_POINTS_8193: "Браззавіль"
  VICTORY_POINTS_5210: "Момбаса"
  VICTORY_POINTS_2050: "Лаґос"
  VICTORY_POINTS_7959: "Монровія"
@@ -1041,7 +1041,7 @@
  VICTORY_POINTS_4989: "Банжул"
  VICTORY_POINTS_12891: "Біссау"
  VICTORY_POINTS_1909: "Конкарі"
- VICTORY_POINTS_10803: "Бенжервілль" # інак. Бінжервілль
+ VICTORY_POINTS_10803: "Бенжервіль" # інак. Бінжервіль
  VICTORY_POINTS_4927: "Бамако"
  VICTORY_POINTS_10836: "Уаґадуґу"
  VICTORY_POINTS_2056: "Ніамей"
@@ -3211,12 +3211,12 @@
  VICTORY_POINTS_12100: "Надор"
  VICTORY_POINTS_9943: "Baja" # (!)
  VICTORY_POINTS_1974: "N'Délé" # (!)
- VICTORY_POINTS_13449: "Кокіявілль"
+ VICTORY_POINTS_13449: "Кокіявіль"
  GER_VICTORY_POINTS_13449: "Кокіяштадт"
  MAF_VICTORY_POINTS_13449: "Кокіяштадт"
  VICTORY_POINTS_13450:0 "Inongo"
  VICTORY_POINTS_10883:0 "Lisala"
- VICTORY_POINTS_1950: "Стенлівілль"
+ VICTORY_POINTS_1950: "Стенлівіль"
  GER_VICTORY_POINTS_1950: "Стенліштадт"
  MAF_VICTORY_POINTS_1950: "Стенліштадт"
  VICTORY_POINTS_13474:0 "Ponthierville"
@@ -3229,7 +3229,7 @@
  VICTORY_POINTS_13480:0 "Mungbere"
  VICTORY_POINTS_13471:0 "Goma"
  VICTORY_POINTS_13468:0 "Costermansville"
- VICTORY_POINTS_4941: "Альбервілль"
+ VICTORY_POINTS_4941: "Альбервіль"
  GER_VICTORY_POINTS_4941: "Альбертштадт"
  MAF_VICTORY_POINTS_4941: "Альбертштадт"
  VICTORY_POINTS_10858:0 "Kindu"
@@ -3450,7 +3450,7 @@
  VICTORY_POINTS_3679: "Констанц"
  #GER_VICTORY_POINTS_3679: "Konstanz" # інак. Конштанц
  #BAD_VICTORY_POINTS_3679: "Konstanz"
- VICTORY_POINTS_9559: "Тьойнвілль"
+ VICTORY_POINTS_9559: "Тьойнвіль"
  GER_VICTORY_POINTS_9559: "Diedenhofen" # (!)
  ALS_VICTORY_POINTS_9559: "Diedenhofen" # (!)
  VICTORY_POINTS_3653: "Батум"

@@ -966,7 +966,7 @@
  MODIFIER_SCREENING_EFFICIENCY: "£armor_texticon£ Ефективність прикриття"
  MODIFIER_POSITIONING: "£ships_contact_texticon£ Розміщення"
  MODIFIER_SCREENING_WITHOUT_SCREENS: "£armor_texticon£ Бонус до прикриття при використанні лише великих кораблів"
- MODIFIER_WEEKLY_MANPOWER: "£manpower_texticon£ Weekly Щотижневі людські ресурси"
+ MODIFIER_WEEKLY_MANPOWER: "£manpower_texticon£ Щотижневі людські ресурси"
  MODIFIER_EXILED_MAPOWER_GAIN_FACTOR: "£manpower_exiles_texticon£ Щоденні людські ресурси у вигнанні"
  MODIFIER_RESISTANCE_TICK_IN_STATES_CONTROLLED_BY_ENEMY: "£political_violence_gain_texticon£ Resistance Growth Ріст спротиву в областях у власності"
  MODIFIER_NAVAL_ENEMY_FLEET_SIZE_RATIO_PENALTY_FACTOR: "£fleet_texticon£ Штраф за ворожий розмір флоту"
