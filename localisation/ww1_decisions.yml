@@ -142,26 +142,26 @@
  10_tank_equipment: "£fighter_texticon §H10§!"
  10_tank_equipment_blocked: "£fighter_texticon §R10§!"
 
- ask_help_to_someone:0 "Звернутися за допомогою до [FROM.getName]"
+ ask_help_to_someone: "Попросити допомогу в держави [FROM.getName]"
 
  decision_cost_25CP_and_500_infantry_equipment: "£command_power §Y25§! £rifle_texticon §H500§!"
  decision_cost_25CP_and_500_infantry_equipment_blocked: "£command_power §R25§! £rifle_texticon §R500§!"
  decision_cost_25CP_and_500_infantry_equipment_tooltip: "Прийняття цього рішення коштує £command_power §Y25§! та £rifle_texticon §H500§!"
 
- develop_brunei_deposits:0 "Дослідити нафтові родовища Серії"
- develop_brunei_deposits_2:0 "Дослідити нафтові родовища Серії"
- brunei_oil_developed_1:0 "Розроблені нафтові родовища Серії"
- brunei_oil_developed_2:0 "Розроблені нафтові родовища Серії"
- develop_sarawak_deposits:0 "Дослідити нафтові родовища Саравак"
- develop_sarawak_deposits_2:0 "Дослідити нафтові родовища Саравак"
- sarawak_oil_developed_1:0 "Розробка нафтових родовищ Саравак"
- sarawak_oil_developed_2:0 "Розробка нафтових родовищ Саравак"
- develop_kuwait_deposits:0 "Дослідити нафтові родовища Кувейту"
- develop_kuwait_deposits_2:0 "Дослідити нафтові родовища Кувейту"
- kuwait_oil_developed_1:0 "Розроблені нафтові родовища Кувейту"
- kuwait_oil_developed_2:0 "Розроблені нафтові родовища Кувейту"
- develop_guangdong_deposits:0 "Розробка родовищ корисних копалин Гуандун"
- develop_guangxi_deposits:0 "Розробка родовищ корисних копалин Гуандун"
+ develop_brunei_deposits: "Дослідити нафтове родовище Серіа" # АЛ: нафтові родовища
+ develop_brunei_deposits_2: "$develop_brunei_deposits$"
+ brunei_oil_developed_1: "Нафтове родовище Серіа розроблено"
+ brunei_oil_developed_2: "$brunei_oil_developed_1$"
+ develop_sarawak_deposits: "Дослідити саравацькі нафтові родовища" # (&?)
+ develop_sarawak_deposits_2: "$develop_sarawak_deposits$"
+ sarawak_oil_developed_1: "Саравацькі нафтові родовища розроблено"
+ sarawak_oil_developed_2: "$sarawak_oil_developed_1$"
+ develop_kuwait_deposits: "Дослідити кувейтські нафтові родовища" # (&?)
+ develop_kuwait_deposits_2: "$develop_kuwait_deposits$"
+ kuwait_oil_developed_1: "Кувейтські нафтові родовища розроблено"
+ kuwait_oil_developed_2: "$kuwait_oil_developed_1$"
+ develop_guangdong_deposits: "Develop мінеральні родовища Ґуандуну" # (&?)
+ develop_guangxi_deposits: "$develop_guangdong_deposits$"
  develop_kuzbass_deposits: "Розробити Кузнецький вугільний басейн"
  develop_kuzbass_deposits_2: "$develop_kuzbass_deposits$"
  kuzbass_coal_developed: "Кузнецький вугільний басейн розроблено"
@@ -189,33 +189,33 @@
  develop_zonguldak_deposits: "Розробити Зонґулдацький вугільний басейн"
  zonguldak_coal_developed: "Зонґулдацький вугільний басейн розроблено"
 
- neutrality_on_the_rise:0 "Авторитаризм на підйомі"
+ neutrality_on_the_rise: "Авторитаризм на підйомі"
  neutrality_on_the_rise_desc:0 "Голосні політичні елементи почали висловлюватися на користь авторитарних цінностей, знаючи підтримку все більшої кількості населення. Шлях нації до авторитаризму відкритий, лише чекаючи вибору між мирним або насильницьким переходом."
- ready_for_authoritarian_civil_war:0 "Приготуватися до громадянської війни"
- ready_for_authoritarian_civil_war_desc:0 "У нас немає часу чекати вільних змін у свідомості людей. Заради них самих ми маємо форсувати цю справу швидко, навіть якщо деякі можуть втратити життя під час процесу. На відміну від мирного референдуму, наша громадянська війна завдає величезних руйнувань нашим збройним силам, промисловості та інфраструктурі країни, але вона також швидше і гарантує, що ми можемо змусити згодом буде ще сильніше."
- expand_civil_neutrality_support:0 "Розширити підтримку громадян"
- expand_civil_neutrality_support_desc:0 "Ми повинні забезпечити постійну підтримку підтримки нашої справи серед людей і заохочувати їх публічно кинути виклик влади нинішнього уряду. Ця позиція уряду все більше підривається, а громадянські заворушення продовжують наростати, це буде Нам стане легше досягти наших цілей. Це особливо вірно, якщо, на відміну від законної зміни уряду, ці цілі передбачають більш... зловісні засоби зміни режиму."
- army_support_for_authoritarian_civil_war:0 "Розширити військову підтримку"
- army_support_for_authoritarian_civil_war_desc:0 "Без достатньої підтримки військових будь-яка надія на перемогу в збройній ідеологічній боротьбі була б марною. Ми повинні забезпечити лояльність добре розташованих підрозділів наших військових сил."
- secure_general_loyalty_for_authoritarian_civil_war:0 "Забезпечити лояльність нижчого командування армії"
- secure_general_loyalty_for_authoritarian_civil_war_desc:0 "Цілком можливо, що певні генерали матимуть таємні лояльні настрої. Ми повинні підійти до них і забезпечити їхню лояльність, коли початися бойові дії."
- secure_marshal_loyalty_for_authoritarian_civil_war:0 "Забезпечити лояльність верховного командування армії"
- secure_marshal_loyalty_for_authoritarian_civil_war_desc:0 "Цілком можливо, що певні фельдмаршали матимуть таємні лояльні настрої. Ми повинні підійти до них і забезпечити їхню лояльність, коли починатимуться бойові дії."
- siphon_equipment_stockpiles_for_authoritarian_civil_war:0 "Переспрямувати оснащення"
- siphon_equipment_stockpiles_for_authoritarian_civil_war_desc:0 "Збираючи запаси національного благополуччя, ми можемо створити невеликий запас зброї, який допоможе нам у нашій майбутній боротьбі."
- formulate_surprise_attack_plan_for_authoritarian_civil_war:0 "Сформулювати план раптової атаки"
- formulate_surprise_attack_plan_for_authoritarian_civil_war_desc:0 "Ворог не має жодного явлення про наближення лиха. Ми повинні переконатися, що це й надалі, весь час спрямовуючи наші бойові плани на максимальне використання елементів раптовості."
- ignite_the_authoritarian_civil_war:0 "Розпалити громадянську війну"
- ignite_the_authoritarian_civil_war_desc:0 "Настав час зробити рішучий крок. Усі препарати, які ми вважали за потрібне, зроблено. Тепер дороги назад немає."
- rebuild_the_nation_neutrality:0 "Відновити націю"
- rebuild_the_nation_neutrality_desc:0 "Після громадянської війни настав час відновити нашу зруйновану націю."
- open_up_political_discourse_neutrality:0 "Відкритий політичний дискурс"
- open_up_political_discourse_neutrality_desc:0 "Ми повинні відкрити для прийняття різних точок зору в уряді. Можливо, це зрештою дозволити вплинути на мирні зміни в політиці нашої країни."
- diskredit_government_neutrality:0 "Дискредитація уряду"
- diskredit_government_neutrality_desc:0 "Вказуючи на численні недоліки нашого нинішнього уряду, ми можемо змусити людей задуматися про ідеологічні причини цих невдач."
- hold_the_authoritarian_national_referendum:0 "Провести національний референдум"
- hold_the_authoritarian_national_referendum_desc:0 "З достатньою підтримкою ми можемо безпечно провести референдум, щоб вплинути на зміну уряду, без кровопролиття."
- military_support_for_authoritarian_civil_war:0 "Має військову підтримку громадянської війни.\n"
+ ready_for_authoritarian_civil_war: "$prepare_for_fascist_civil_war$"
+ ready_for_authoritarian_civil_war_desc: "$prepare_for_fascist_civil_war_desc$"
+ expand_civil_neutrality_support: "$expand_civil_fascism_support$"
+ expand_civil_neutrality_support_desc: "$expand_civil_fascism_support_desc$"
+ army_support_for_authoritarian_civil_war: "$army_support_for_fascist_civil_war$"
+ army_support_for_authoritarian_civil_war_desc: "$army_support_for_fascist_civil_war_desc$"
+ ensure_general_loyalty_for_authoritarian_civil_war: "$ensure_general_loyalty_for_fascist_civil_war$"
+ ensure_general_loyalty_for_authoritarian_civil_war_desc: "Може бути, певні генерали мають таємні лоялістські настрої. Ми мусимо підступити до них і забезпечити їхню вірність на випадок, якщо почнеться боротьба." # (&+?)
+ ensure_marshal_loyalty_for_authoritarian_civil_war: "$ensure_marshal_loyalty_for_fascist_civil_war$"
+ ensure_marshal_loyalty_for_authoritarian_civil_war_desc: "Може бути, певні фельдмаршали мають таємні лоялістські настрої. Ми мусимо підступити до них і забезпечити їхню вірність на випадок, якщо почнеться боротьба." # (&+?)
+ siphon_equipment_stockpiles_for_authoritarian_civil_war: "$siphon_equipment_stockpiles_for_fascist_civil_war$"
+ siphon_equipment_stockpiles_for_authoritarian_civil_war_desc: "$siphon_equipment_stockpiles_for_fascist_civil_war_desc$"
+ formulate_surprise_attack_plan_for_authoritarian_civil_war: "$formulate_surprise_attack_plan_for_fascist_civil_war$"
+ formulate_surprise_attack_plan_for_authoritarian_civil_war_desc: "$formulate_surprise_attack_plan_for_fascist_civil_war_desc$"
+ ignite_the_authoritarian_civil_war: "$ignite_the_fascist_civil_war$"
+ ignite_the_authoritarian_civil_war_desc: "$ignite_the_fascist_civil_war_desc$"
+ rebuild_the_nation_neutrality: "$rebuild_the_nation_fascism$"
+ rebuild_the_nation_neutrality_desc: "$rebuild_the_nation_fascism_desc$"
+ open_up_political_discourse_neutrality: "$open_up_political_discourse_fascism$"
+ open_up_political_discourse_neutrality_desc: "$open_up_political_discourse_fascism_desc$"
+ diskredit_government_neutrality: "$discredit_government_fascism$"
+ diskredit_government_neutrality_desc: "$discredit_government_fascism_desc$"
+ hold_the_authoritarian_national_referendum: "$hold_the_fascist_national_referendum$"
+ hold_the_authoritarian_national_referendum_desc: "$hold_the_fascist_national_referendum_desc$"
+ military_support_for_authoritarian_civil_war: "$military_support_for_fascist_civil_war$"
 
 ### НІМЕЧЧИНА ###
  GER_great_war:0 "Велика війна"
@@ -499,15 +499,15 @@
  full_embargo:0 "Повне ембарго"
  puppet_embargo_too:0 "\n§YНаші суб'єкти§! також накладуть на них ембарго.\n\n"
 
- fra_deployment_of_railway_guns:0 "§YРішення про розблокування§! Не дозволити §YСтворення залізничних гармат§! в обмін на £command_power §Y50§! і £civ_factory §Y5§! за шкірну гармату.\n\n"
+ fra_deployment_of_railway_guns:0 "§YРозблокувати рішення§!, які дозволяють §Yстворювати залізничні гармати§! в обмін на £command_power §Y50§! і £civ_factory §Y5§! за кожну гармату.\n\n"
 
- fra_fortifications_decisions:0 "§YРозблокувати рішення§! дозволяючи §Yремонтувати французькі форти§! в обміні на £command_power §Y25§! за кожен форт.\n\n"
+ fra_fortifications_decisions:0 "§YРозблокувати рішення§!, які дозволяють §Yремонтувати французькі форти§! в обмін на £command_power §Y25§! за кожен форт.\n\n"
 
  FRA_railway_guns:0 "Залізничні гармати"
  FRA_railway_guns_desc:0 "Щоб прорвати ворожі лінії та розбити кошмар окопної війни, необхідно використовувати надважку «розривну» артилерію. Використання рейкових гармат є кроком у переході нашої армії на схід."
 
  FRA_fortifications:0 "Французькі укріплення"
- FRA_fortifications_desc:0 "Багато фортів було побудовано відповідно до плану оборони Сере-де-Рів'єр між 1870 і 1890 роками. Більшість із цих фортець більше не використано або застаріло через обслуговування або застаріле обладнання. Після деяких реконструкцій ці споруди можна буде відновити."
+ FRA_fortifications_desc:0 "Багато фортів було побудовано відповідно до плану оборони Сере де Рів'єр між 1870 і 1890 роками. Більшість із цих фортець більше не використано або застаріло через обслуговування або застаріле обладнання. Після деяких реконструкцій ці споруди можна буде відновити."
 
 ### БЕЛЬГІЯ ###
  BEL_1912_talks_success:0 "§YАнгло-бельгійські переговори§! були успішними"
@@ -619,30 +619,30 @@
  BEL_new_uniforms:0 "Нова уніформа"
  BEL_new_uniforms_desc:0 "Бельгійська уніформа використовується з 1830 року, головні убори мають бути замінені на шоломи, а туніки мають бути адаптовані для поняття камуфляжу, надійності та стійкості."
 
- BEL_hollogne_fort:0 "Форт Холлонь"
- BEL_hollogne_fort_desc:0 "Форт був побудований між 1888 і 1892 роками під командуванням генерала Бріалмонта, батька сучасної фортифікації. На основі французьких фортів того часу, Форт Холлон був побудований повністю з неармованого бетону, зробленого з нового матеріалу на той час."
+ BEL_hollogne_fort:0 "Форт Оллонь"
+ BEL_hollogne_fort_desc:0 "Форт був побудований між 1888 і 1892 роками під командуванням генерала Бріальмона, батька сучасної фортифікації. На основі французьких фортів того часу, форт Оллонь був побудований повністю з неармованого бетону, зробленого з нового матеріалу на той час."
  BEL_wallonia_fort_text:0 "Додає §Y1 наземне укріплення§! у §Y[34.GetName].§!"
  BEL_flanders_fort_text:0 "Додає §Y1 наземне укріплення§! у §Y[6.GetName].§!"
  BEL_flemalle_fort:0 "Форт Флемаль"
- BEL_flemalle_fort_desc:0 "Побудований між 1888 і 1892 роками під командуванням генерала Бріалмонта, форт Флемал став одним із 12 фортів поясу укріплень Льєжа. Завдяки своїй чотирикутній формі, дивовижній для свого часу, він також є одним із наймасовіших. Як Більшість Льєжських фортів була побудована повністю з неарм Розташований приблизно в десяти кілометрах на південний захід від Льєжа, він має стратегічне положення, щоб блокувати доступ до долини Маас у разі нападу противника."
- BEL_barchon_fort:0 "Форт Барчон"
- BEL_barchon_fort_desc:0 "Форт Баршон, розташований на північному сході Льєжа, є одним із 12 фортів укріпленої позиції Льєжа. Його архітектуру та озброєння можна порівняти з фортом Лонсін."
+ BEL_flemalle_fort_desc:0 "Побудований між 1888 і 1892 роками під командуванням генерала Бріальмона, форт Флемал став одним із 12 фортів поясу укріплень Льєжа. Завдяки своїй чотирикутній формі, дивовижній для свого часу, він також є одним із наймасовіших. Як Більшість Льєжських фортів була побудована повністю з неарм Розташований приблизно в десяти кілометрах на південний захід від Льєжа, він має стратегічне положення, щоб блокувати доступ до долини Маас у разі нападу противника."
+ BEL_barchon_fort:0 "Форт Баршон"
+ BEL_barchon_fort_desc:0 "Форт Баршон, розташований на північному сході Льєжа, є одним із 12 фортів укріпленої позиції Льєжа. Його архітектуру та озброєння можна порівняти з фортом Лонсен."
  BEL_namur_fortress_ring:0 "Кільце фортеці Намюр"
- BEL_namur_fortress_ring_desc:0 "Перші сучасні форти в Намюрі були побудовані між 1888 і 1892 роками з ініціативи бельгійського генерала Анрі Бріалмонта. Форти були побудовані в кільці навколо Намюра приблизно в 7 км від центру міста.\n\nФорти були побудовані за стандартними планами і раніше були трикутними, щоб мінімізувати кількість оборонних батарей у оборонних фортів Будівництво почалося 28 липня 1888 року французьким консорціумом Хальє, Летелліє Фрера та Жуля Барату.
+ BEL_namur_fortress_ring_desc:0 "Перші сучасні форти в Намюрі були побудовані між 1888 і 1892 роками з ініціативи бельгійського генерала Анрі Бріальмона. Форти були побудовані в кільці навколо Намюра приблизно в 7 км від центру міста.\n\nФорти були побудовані за стандартними планами і раніше були трикутними, щоб мінімізувати кількість оборонних батарей у оборонних фортів Будівництво почалося 28 липня 1888 року французьким консорціумом із Адрієна Альє, братів Летельє та Жюля Барату.
  BEL_antwerpen_fortress_ring:0 "Кільце Антверпенської фортеці"
- BEL_antwerpen_fortress_ring_desc:0 "Офіційна назва фортеці Антверпен була "Position fortifiée d'Anvers" або "PFA". Вона складалася з внутрішнього та зовнішнього оборонних поясів, що складалися з фортець і бра. Вона мала як старші, так і нові споруди, збудовані та вдосконалено. з 1859 року та заслуговують на остаточну модернізацію"
+ BEL_antwerpen_fortress_ring_desc:0 "Офіційна назва фортеці Антверпен була Position fortifiée d'Anvers, або PFA. Вона складалася з внутрішнього та зовнішнього оборонних поясів, що складалися з фортець і бра. Вона мала як старші, так і нові споруди, збудовані та вдосконалено. з 1859 року та заслуговують на остаточну модернізацію."
  BEL_citadel_of_dinant:0 "Цитадель Дінана"
- BEL_citadel_of_dinant_desc:0 "Ніннішній форт був побудований у 1815 році на місці, яке спочатку було укріплено в 1051 році, коли регіоном керував князь-єпископ Льєжа. З цитаделі відкривається вид на місто Дінан і стратегічну річку Маас, яка протікає через місто."
+ BEL_citadel_of_dinant_desc:0 "Нинішній форт був побудований у 1815 році на місці, яке спочатку було укріплено в 1051 році, коли регіоном керував князь-єпископ Льєжа. З цитаделі відкривається вид на місто Дінан і стратегічну річку Маас, яка протікає через місто."
 
 ######
  FRA_340mm_mle_1893:0 "Збірка 340-мм гармати моделі 1893"
  FRA_use_gaz_shells:0 "Використовувати газофосгенові снаряди"
  FRA_send_janin_to_russia:0 "Місія союзників у Росії"
 
- fight_phan_xich_long_loyalists_in_indochina:0 "Бійся з лоялістами Фан Січа Лонг"
+ fight_phan_xich_long_loyalists_in_indochina: "Боротися з лоялістами Фана Сіка Лонґа"
 
- VIN_gather_guns:0 "Gather Guns"
- VIN_train_militia:0 "Train Militia"
+ VIN_gather_guns: "Зібрати рушниці"
+ VIN_train_militia: "Вишколити ополчення"
 
  AUS_republic_flag: "Є [AUS.getFlag] §YРеспублікою Австрія§!"
  BUL_AUH_could_support_us:0 "([AUS.getFlag]) §Y[AUS.getName]§! отримає пропозицію щодо економічної та військової співпраці, §Rщо дозволить їм підтримати наші вимоги§!.\n\n"
@@ -656,11 +656,11 @@
  AUH_investment_in_BUL:0 "Інвестиції в Болгарії"
  AUH_investment_in_BUL_desc:0 "Рівень залежності Болгарії від [AUS.getName] становить §R[?BUL_vassalisation]§!\n\n Чим вища залежність, тим більше переваг отримає Австрія. \n\n [BUL.getAdjective] MALUSES [BUL.getFlag] \n §R0-2§! -> Нічого \n §R3-6§! §R7-10§! §R-2§! n \n\n [AUS.getAdjective] БОНУСИ [AUS.getFlag] \n §G0-2§! -> Нічого \n §G3-6§! §G7-10§! §G+2§! n"
 
- FRA_french_intervention_in_china:0 "Французьке втручання в Китай"
- FRA_leave_CHI:0 "Таймер французького втручання"
- FRA_war_on_hainan_flag:0 "Планує вторгнення на Хайнань"
- FRA_start_intervention_in_china:0 "Почати втручання в Китай"
- FRA_target_of_france:0 "Оригінальний власник Хайнань"
+ FRA_french_intervention_in_china: "Французьке втручання в Китай"
+ FRA_leave_CHI: "Таймер французького втручання"
+ FRA_war_on_hainan_flag: "Планує вторгнутися на Хайнань"
+ FRA_start_intervention_in_china: "Почати втручання в Китай"
+ FRA_target_of_france: "Первісний власник Хайнаню"
 
  BUL_tighten_private_companies_control:0 "Посилити контроль над приватними компаніями"
  BUL_nationalize_foreign_industry:0 "Націоналізація іноземної промисловості"
@@ -703,27 +703,27 @@
  FRA_fund_engineering_corps_desc:0 "Відновлення оборонних споруд — складна справа. За допомогою державних субсидій можна було б пришвидшити ремонтні роботи."
 
  FRA_leveau_fort:0 "Відновити форт Лево"
- FRA_leveau_fort_desc:0 "Форт розташований між Ліллем і Шарлеруа. Цей форт є типовим прикладом системи Séré de Rivières, побудованої з 1882 по 1884 роки, з низькою стіною, оточеною ровом, який, у свою чергу, захищають капоніри."
+ FRA_leveau_fort_desc:0 "Форт розташований між Ліллем і Шарлеруа. Цей форт є типовим прикладом системи Сере де Рів'єр, побудованої з 1882 по 1884 роки, з низькою стіною, оточеною ровом, який, у свою чергу, захищають капоніри."
  FRA_leveau_fort_text:0 "Додає §Y2 наземні укріплення§! у §Y[29.GetName].§!"
 
  FRA_montbart_fort:0 "Відновити форт Мон-Барт"
- FRA_montbart_fort_desc:0 "Цей форт був побудований між листопадом 1874 і липнем 1877 як частина системи укріплень Сере-де-Рів'єр. П'ятикутний форт оточений ровом, через який ведеться вогонь з капонірів."
+ FRA_montbart_fort_desc:0 "Цей форт був побудований між листопадом 1874 і липнем 1877 як частина системи укріплень Сере де Рів'єр. П'ятикутний форт оточений ровом, через який ведеться вогонь з капонірів."
  FRA_montbart_fort_text:0 "Додає §Y2 наземні укріплення§! у §Y[27.GetName].§!"
 
  FRA_croixdebretagne_fort:0 "Відновити форт Круа-де-Бретань"
- FRA_croixdebretagne_fort_desc:0 "Цей форт був побудований як частина системи укріплень Сере-де-Рів'єр у 1876-79 роках для захисту Франції від вторгнення з Італії, вартістю 1 416 642 франки."
+ FRA_croixdebretagne_fort_desc:0 "Цей форт був побудований як частина системи укріплень Сере де Рів'єр у 1876-79 роках для захисту Франції від вторгнення з Італії, вартістю 1 416 642 франки."
  FRA_croixdebretagne_fort_text:0 "Додає §Y2 наземні укріплення§! у §Y[21.GetName].§!"
 
- FRA_uxegney_fort:0 "Відновити форт Уксегні"
- FRA_uxegney_fort_desc:0 "Форт Uxegney, або форт Руссель, є частиною укріплень Епіналь. Він був побудований поблизу села Uxegney між 1882 і 1884 роками. Це приклад укріплення системи Séré de Rivières."
+ FRA_uxegney_fort:0 "Відновити форт Уксеньє" # устал. Юксеньє
+ FRA_uxegney_fort_desc:0 "Форт Уксеньє, або форт Руссель, є частиною укріплень Епіналь. Він був побудований поблизу села Уксеньє між 1882 і 1884 роками. Це приклад укріплення системи Сере де Рів'єр."
  FRA_uxegney_fort_text:0 "Додає §Y2 наземні укріплення§! у §Y[17.GetName].§!"
 
- FRA_telegraphe_fort:0 "Відновити Télégraphe Fort"
- FRA_telegraphe_fort_desc:0 "Форт дю Телеграф був завершений між 1886 і 1890 роками як частина системи укріплень Сере-де-Рів'єр. Форт розташований на висоті 1585 метрів."
+ FRA_telegraphe_fort:0 "Відновити форт Телеґраф"
+ FRA_telegraphe_fort_desc:0 "Форт дю Телеґраф був завершений між 1886 і 1890 роками як частина системи укріплень Сере де Рів'єр. Форт розташований на висоті 1585 метрів."
  FRA_telegraphe_fort_text:0 "Додає §Y2 наземні укріплення§! у §Y[735.GetName].§!"
 
  FRA_boulemont_fort:0 "Відновити форт Бурлемон"
- FRA_boulemont_fort_desc:0 "Форт де Бурлемон, або форт Шуазель, був побудований між 1878 і 1881 роками. Форт був побудований як частина системи укріплень Сере-де-Рів'єр."
+ FRA_boulemont_fort_desc:0 "Форт де Бурлемон, або форт Шуазель, був побудований між 1878 і 1881 роками. Форт був побудований як частина системи укріплень Сере де Рів'єр."
  FRA_boulemont_fort_text:0 "Додає §Y2 наземні укріплення§! у §Y[18.GetName].§!"
 
  FRA_ayvelles_fort:0 "Відновити форт Айвель"
@@ -731,7 +731,7 @@
  FRA_ayvelles_fort_text:0 "Додає §Y2 наземні укріплення§! у §Y[18.GetName].§!"
 
  FRA_fort_of_maulde:0 "Відновити форт Маулде"
- FRA_fort_of_maulde_desc:0 "Форт системи Séré de Rivières був побудований у 1881-1884 роках. Форт складається з низької стіни, оточеної ровом, який, у свою чергу, захищають два капоніри. Відносно невеликий форт, оснащений 90-мм гарматами."
+ FRA_fort_of_maulde_desc:0 "Форт системи Сере де Рів'єр був побудований у 1881-1884 роках. Форт складається з низької стіни, оточеної ровом, який, у свою чергу, захищають два капоніри. Відносно невеликий форт, оснащений 90-мм гарматами."
  FRA_fort_of_maulde_text:0 "Додає §Y2 наземні укріплення§! у §Y[29.GetName].§!"
 
  FRA_fort_douaumont:0 "Відновити форт Дуомон"
@@ -745,7 +745,7 @@
  fra_at_least_1_railwaygun:0 "Принаймні §Y1 залізнична гармата§!"
 
  FRA_salbert_fort: "Відновити форт Сальбер"
- FRA_salbert_fort_desc:0 "Форт дю Сальбер, також відомий як Форт Лефевр, був побудований між 1874 і 1877 роками. Він був названий на честь генерала Франсуа Жозефа Лефевра. Він є частиною укріплень системи Сере де Рів'єр в укріпленому регіоні Бельфор.\n\nПочаткова вартість будівництва становила 2 120 332 франків золотом. Початкова чисельність особового складу становила 460 осіб. Озброєння у 1882 році складалося з п'яти 155-мм гармат, восьми 120-мм гармат, а також різноманітних невеликих мінометів і малокаліберних гармат для ближньої оборони."
+ FRA_salbert_fort_desc:0 "Форт дю Сальбер, також відомий як форт Лефевр, був побудований між 1874 і 1877 роками. Він був названий на честь генерала Франсуа Жозефа Лефевра. Він є частиною укріплень системи Сере де Рів'єр в укріпленому регіоні Бельфор.\n\nПочаткова вартість будівництва становила 2 120 332 франків золотом. Початкова чисельність особового складу становила 460 осіб. Озброєння у 1882 році складалося з п'яти 155-мм гармат, восьми 120-мм гармат, а також різноманітних невеликих мінометів і малокаліберних гармат для ближньої оборони."
  FRA_salbert_fort_text: "Додає §Y2 наземні укріплення§! в області §Y[864.GetName].§!"
 
  FRA_roppe_fort: "Відновити форт Ропп"
@@ -817,7 +817,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  FRA_occupy_ruhr_desc:0 "Щоб бути захищеними, ми повинні підготуватися. І це жування — це наша суверенна територія. Тимчасова окупація цього регіону має бути встановлена, доки ці гуни не заплатять свою ціну за прокляту криваву війну всіх війн."
  FRA_withdraw_from_ruhr:0 "Вийти з Руру"
  FRA_withdraw_from_ruhr_desc:0 "Досить. Давайте повернемося додому і з’їмо гарячого кекса, розпочнемо вечірку, щоб привітати Францію з перевагою!"
- FRA_occupy_baden_wurttemberg:0 "Захопити Баден-Вюртемберг"
+ FRA_occupy_baden_wurttemberg:0 "Захопити Баден-Вюртемберґ"
  FRA_occupy_baden_wurttemberg_desc:0 "Щоб бути захищеними, ми повинні підготуватися. І це жування для нашої суверенної території. Тимчасова окупація цього регіону має бути встановлена, поки ці гуни не прокинуться від свого дикого, мокрого сну."
  FRA_separate_germany_from_austria:0 "Звільнити Австрію від німецької агресії"
  FRA_separate_germany_from_austria_desc:0 "Не смійте німці! Їх потрібно тримати подалі від держави Австрія через Версальський договір, але вони просто такі руйнівні щодо будь-яких мирних заходів. Настав час їх вирізати."
@@ -920,7 +920,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  in_600_days: "Ця подія відбудеться за §Y600 днів§!."
  cant_be_replaced: "§RНе можна замінити§!"
 
- AUH_wehrpflichtige_abteilung:0 "\nДозволити розгортання дивізій §Y"Wehrpflichtige Abteilung"§! у складі §Y9 піхоти§! та §Яртилерійської роти§!.\n\n"
+ AUH_wehrpflichtige_abteilung:0 "\nДозволити розгортання дивізій §YWehrpflichtige Abteilung§! у складі §Y9 піхоти§! та §Яртилерійської роти§!.\n\n"
  AUH_form_AUH_wehrpflichtige_abteilung:0 "Формація Wehrpflichtige Abteilung"
  AUH_wehrpflichtige_abteilung_recruitement:0 "Формування Wehrpflichtige Abteilung"
 
@@ -931,9 +931,9 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  POL_fight_poverty_in_lemkivshchyna:0 "Поборотися з бідністю на Лемківщині"
  POL_reinforce_railway_network_in_przemysl:0 "Посилення залізничної мережі поблизу Перемишля"
  POL_expand_stanislau_oil_fiels:0 "Розширити Станіславські нафтові родовища"
- POL_lemberg_urbanisation:0 "Урбанізація Лемберга"
+ POL_lemberg_urbanisation:0 "Урбанізація Лемберґа"
  AUH_POL_state:0 "Це [GAL.getFlag]§Yгалицька§! область"
- AUH_has_invested_in_cisleithania:0 "Інвестовано у Cisleithania"
+ AUH_has_invested_in_cisleithania:0 "Інвестовано у Цислайтанію"
  cat_scout_plane_research:0 "Швидкість дослідження літака-розвідника"
  AUH_has_invested_in_skoda:0 "Інвестовано у Škoda"
  AUH_has_invested_in_steyr:0 "Інвестовано у Steyr"
