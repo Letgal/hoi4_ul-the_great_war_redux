@@ -35,6 +35,7 @@
 + `replace_frontend`
 + `replace_military_industrial_organization`
 + `replace_modifiers`
++ `replace_mtg_decisions`
 + `replace_music`
 + `replace_operatives` (умовно, аааааа)
 + `replace_peace` (бле)
@@ -46,6 +47,7 @@
 + `replace_triggers`
 + `replace_unit`
 + `replace_unit_medals`
++ `replace_WUW_focus`
 
 ## Незавершені
 + `loading_tips`
@@ -66,7 +68,9 @@
 + `GER\ww1_germany`
 
 ### Папка `replace`
++ `replace_buildings`
 + `replace_characters`
++ `replace_decisions`
 + `replace_ideas`
 
 ## Незавершені, де збережено старий переклад
@@ -101,9 +105,5 @@
 + `ww1_units`
 
 ### Папка `replace`
-+ `replace_buildings`
-+ `replace_decisions`
-+ `replace_equipment`
 + `replace_focus`
-+ `replace_mtg_decisions`
-+ `replace_WUW_focus`
++ `replace_special_projects`
