@@ -18,6 +18,7 @@
  autonomy_tgwr_real_union: "Справжня унія"
  autonomy_tgwr_real_union_desc:0 "Real Union is a union of two or more monarchies, that share the same monarch and have some common institutions. In real unions, one state is clearly is weaker than the other, and thus subordinate to it."
  autonomy_tgwr_condominium: "Кондомініум"
+ autonomy_tgwr_self_governing_colony: "Самоврядна колонія"
 
  protectorate_call_ally_rule_tt: "§RНе можна закликати суб'єктів цього типу до війн!§!"
  protectorate_join_ally_rule_tt: "§RСуб'єкт цього типу не може приєднуватися до війн!§!"

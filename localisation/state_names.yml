@@ -508,7 +508,6 @@
  TUR_STATE_225: "Уструмджа"
  STATE_226: "Єкатеринослав"
  UKR_STATE_226: "Катеринослав"
- VLN_STATE_226: "Катеринослав"
  STATE_227: "Донбас"
  #UKR_STATE_227: "Donbas"
  STATE_228: "Старобєльськ"
@@ -2248,10 +2247,8 @@
  #ALB_STATE_1214: "Mirditë"
  TUR_STATE_1214: "Мердіта"
  ITA_STATE_1214: "Мірдіція"
- STATE_1215: "Фіері"
- #ALB_STATE_1215: "Fieri"
- TUR_STATE_1215: "Фереджік"
- #SER_STATE_1215: "Fieri"
+ STATE_1215: "Ельбасан"
+ TUR_STATE_1215: "Ільбасан"
  STATE_1216: "Ліґурія"
  STATE_1217: "Апулія"
  STATE_1218: "Базіліката"
@@ -2266,6 +2263,15 @@
  FRA_STATE_1221:0 "District de Lualaba"
  KATANGA_STATE: "Катанґа"
  STATE_1222: "Внутрішній Борнео"
+ STATE_1223: "Тонґа"
+ STATE_1224:0 "Yongning" #永宁 # (!)
+ STATE_1225: "Корча" # АЛ (Koritsa) має грецьку назву?
+ #ALB_STATE_1225: "Korçë"
+ TUR_STATE_1225:0 "Görice" # (!)
+ GRE_STATE_1225: "Коріца"
+ ITA_STATE_1225: "Коріца"
+ SER_STATE_1225:0 "Goritsa" # (!)
+ FRA_STATE_1225: "Коріца"
 
  LEVGRAD_STATE: "Левград"
  LEVINSK_STATE: "Левинськ"

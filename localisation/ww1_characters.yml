@@ -116,7 +116,7 @@
  AST_harold_elliott:0 "Harold Elliott"
  AST_james_w_mccay:0 "James W. McCay"
  AST_william_bridges:0 "William Bridges"
- AST_charles_cox:0 "Charles Cox"
+ AST_charles_cox:0 "Charles Frederick Cox"
  AST_charles_rosenthal:0 "Charles Rosenthal"
  AST_william_holmes:0 "William Holmes"
  AST_charles_brand:0 "Charles Brand"
@@ -926,6 +926,7 @@
  CHI_hu_ying:0 "Hu Ying"
  CHI_peng_risheng:0 "Peng Risheng"
  CHI_li_hairu:0 "Li Hairu"
+ CHI_li_zhilong:0 "Li Zhilong"
 
 ### CHILE ###
  CHL_pedro_montt:0 "Pedro Montt"
@@ -942,7 +943,7 @@
  CHL_jose_maria_bari:0 "José Maria Bari"
  CHL_guillermo_armstrong:0 "Guillermo Armstrong Ramirez"
  CHL_luis_felipe_brieba:0 "Luis Felipe Brieba"
- CHL_indalicio_tellez_carcamo:0 "Indalicio Tellez Carcamo"
+ CHL_indalicio_tellez_carcamo:0 "Indalicio Téllez Cárcamo"
  CHL_sofanor_parra_hermosilla:0 "Sofanor Parra Hermosilla"
  CHL_roberto_silva_renard:0 "Roberto Silva Renard"
  CHL_vicente_palacios:0 "Vicente Palacios"
@@ -995,7 +996,7 @@
 
 ### COSTA RICA ###
  COS_ricardo_jimenez_oreamuno:0 "Ricardo Jiménez Oreamuno"
- COS_jaoquin_jose_tinoco_granados:0 "Jaoquin Jose Tinoco Granados"
+ COS_jaoquin_jose_tinoco_granados:0 "José Joaquín Tinoco Granados"
  COS_juan_bautista_quiros_segura:0 "Juan Bautista Quirós Segura"
  COS_alfredo_gonzalez_flores:0 "Alfredo González Flores"
  COS_gederico_tinoco_granados:0 "Federico Tinoco Granados"
@@ -1213,7 +1214,6 @@
  ENG_bertie_munro_staig:0 "Bertie Munro Staig"
  ENG_montagu_de_pomeroy_webb:0 "Montagu de Pomeroy Webb"
  ENG_john_arthur_godley:0 "John Arthur Godley"
- ENG_garrett_o_moore_creagh:0 "Garrett O'Moore Creagh"
  ENG_beauchamp_duff:0 "Beauchamp Duff"
  ENG_edmund_george_barrow:0 "Edmund George Barrow"
  ENG_herbert_cox:0 "Herbert Cox"
@@ -1257,7 +1257,7 @@
  ENG_edward_reynolds_pease:0 "Edward Reynolds Pease"
  ENG_edward_vii: "Едуард VII" # англ. Едвард/Едўард
  ENG_edward_vii_desc:0 "His Majesty Edward VII, by the Grace of God, King of the United Kingdom of Great Britain and Ireland and of the British Dominions beyond the Seas, Defender of the Faith, Emperor of India."
- ENG_edward_vii_override_instant: "§H$ENG_edward_vii$§!"
+ ENG_edward_vii_override_instant: "§H$ENG_edward_vii$§!\n§Y$eng_bertie$§!\n  - $MODIFIER_DRIFT_DEFENCE_FACTOR$: §G+50.0%§!"
  ENG_edward_vii_override_delayed: "§L$ENG_edward_vii_desc$§!"
  ENG_george_v: "Георг V" # англ. Джордж
  ENG_george_v_desc:0 "His Majesty George V, by the Grace of God, of the United Kingdom of Great Britain and Ireland and of the British Dominions beyond the Seas, King, Defender of the Faith, Emperor of India."
@@ -1416,12 +1416,12 @@
  FRA_urbain_gohier:0 "Urbain Gohier"
  FRA_maurice_pujo:0 "Maurice Pujo"
  FRA_gouvernement_provisoire:0 "Gouvernement Provisoire"
- FRA_victoire:0 "Victoria-Louise de Prusse"
+ FRA_victoire:0 "Victoire-Louise I"
  FRA_charles_lutaud:0 "Charles Lutaud"
  FRA_charles_lanrezac:0 "Charles Lanrezac"
  FRA_emile_fayolle:0 "Émile Fayolle"
  FRA_hubert_lyautey:0 "Hubert Lyautey"
- FRA_michel_maunoury:0 "Michel Maunoury"
+ FRA_michel_maunoury:0 "Michel-Joseph Maunoury"
  FRA_paul_leblois:0 "Paul Leblois"
  FRA_henri_gouraud:0 "Henri Gouraud"
  FRA_henri_berthelot: "Анрі Бертело"
@@ -1559,8 +1559,14 @@
  FRA_jean_baptiste_marchand:0 "Jean-Baptiste Marchand"
  FRA_armand_fallieres: "Арман Фальєр"
  FRA_armand_fallieres_desc:0 "Armand Fallières is a member of the §8Democratic Republican Alliance§!, a gathering of moderate liberals, independent Radicals.\n\n After a long career as Prime Minister then Minister of the Interior under the administration of §YМоріса Рув'є§! then various cabinets between 1885 and 1892. In 1906, he won the presidential election and has holds this position until now. He showed himself to be a formidable observer and adviser."
- FRA_armand_fallieres_override_instant: "§H$FRA_armand_fallieres$§!\nПрезидент Французької республіки"
+ FRA_armand_fallieres_override_instant: "§H$FRA_armand_fallieres$§!\n§H$le_pere_fallieres$§!\n  - $MODIFIER_STABILITY_FACTOR$: §G+10.00%§!"
  FRA_armand_fallieres_override_delayed: "§L$FRA_armand_fallieres_desc$§!"
+ FRA_eitel_friedrich:0 "Frédéric I"
+ FRA_joseph_paul_eydoux:0 "Joseph-Paul Eydoux"
+ FRA_emile_bertin:0 "Louis-Émile Bertin"
+ FRA_maxime_laubeuf:0 "Maxime Laubeuf"
+ FRA_gustave_ferrie:0 "Gustave Ferrié"
+ FRA_albin_haller:0 "Albin Haller"
 
 ### GALICIA ###
  GAL_diet: "Галицький сейм"
@@ -1714,7 +1720,7 @@
  GER_eduard_von_liebert:0 "Eduard von Liebert"
  GER_jordan_von_krocher:0 "Jordan von Kröcher"
  GER_otto_wels:0 "Otto Wels"
-
+ GER_fritz_haber: "Фріц Габер"
 
  SAX_friedrich_august_iii: "Фрідрих Ауґуст III"
  SAX_rudolf_heinze:0 "Rudolf Heinze"
@@ -1926,7 +1932,7 @@
  HUN_gyula_gombos: "Дюла Ґьомбьош"
  HUN_franz_joseph_i: "$AUH_franz_joseph_i$" # угор. Ференц Йожеф I
  HUN_franz_joseph_i_desc: "$AUH_franz_joseph_i_desc$"
- HUN_franz_joseph_i_override_instant: "§H$HUN_franz_joseph_i$§!"
+ HUN_franz_joseph_i_override_instant: "§H$HUN_franz_joseph_i$§!\n§H$oldschool_kaiser$§!\n  - $MODIFIER_STABILITY_FACTOR$: §G+10.00%§!\n  - $MODIFIER_OPINION_GAIN_MONTHLY_SAME_IDEOLOGY_FACTOR$: §G+50.00%§!\n  - $MODIFIER_DRIFT_DEFENCE_FACTOR$: §G+50.0%§!"
  HUN_franz_joseph_i_override_delayed: "§L$HUN_franz_joseph_i_desc$§!"
  HUN_franz_ferdinand: "$AUH_franz_ii$" # угор. Ференц II
  HUN_karl_i: "Карл IV" # угор. Карой IV
@@ -2098,6 +2104,7 @@
  FIU_riccardo_gigante:0 "Riccardo Gigante"
  FIU_giovanni_host_venturi:0 "Giovanni Host-Venturi"
  FIU_sante_ceccherini:0 "Sante Ceccherini"
+ FIU_luigi_rizzo:0 "Luigi Rizzo"
 
 ### TWO-SICILES ###
  TTS_nicola_barbato:0 "Nicola Barbato"
@@ -2194,7 +2201,7 @@
  JKS_pratap_singh:0 "Pratap Singh"
 
 ### JOHOR ###
- JOH_ibrahim_of_johor:0 "Ibrahim of Johor"
+ JOH_ibrahim_of_johor:0 "Ibrahim Al-Masyhur"
 
 ### KALAT ###
  KLT_mir_mahmud_khan_ii_ahmadzai:0 "Mir Mahmud Khan II Ahmadzai"
@@ -2775,7 +2782,7 @@
  PHI_hermenegildo_cruz:0 "Hermenegildo Cruz"
 
 ### PERLIS ###
- PLS_syed_alwi_jamalullali:0 "Alwi II"
+ PLS_syed_alwi_jamalullali:0 "Alwi"
 
 ### PONTUS ###
  PON_matthaios_kofidis:0 "Matthaìos Kofìdis"
@@ -3772,7 +3779,7 @@
  TUR_salih_hulusi:0 "Salih Hulusi Paşa"
  TUR_mehmed_v: "Мехмед V"
  TUR_mehmed_v_desc:0 "Sultan Mehmed V holds a ceremonial role, as real political power is held by the Young Turks and the government. He is a figurehead during a period of political instability, modernization efforts, and rising nationalism within the empire."
- TUR_mehmed_v_override_instant: "§H$TUR_mehmed_v$§!"
+ TUR_mehmed_v_override_instant: "§H$TUR_mehmed_v$§!\n§H$mehmed_v$§!\n  - $MODIFIER_STABILITY_FACTOR$: §G+15.00%§!\n  - $MODIFIER_IMPROVE_RELATIONS_MAINTAIN_COST_FACTOR$: §G-50%§!\n  - $MODIFIER_DRIFT_DEFENCE_FACTOR$: §G+50.0%§!\n  - $political_advisor_cost_factor$: §G-5%§!"
  TUR_mehmed_v_override_delayed: "§L$TUR_mehmed_v_desc$§!"
  TUR_abdulhamid_ii: "Абдул-Хамід II"
  TUR_vahideddin_mehmed:0 "Şehzade Vahdettin"
@@ -4155,6 +4162,7 @@
 
  ALS_landtag: "Ландтаґ"
  ALS_council_of_strasbourg: "Страсбурзька рада"
+ ALS_johannes_rebholz:0 "Johannes Rebholz"
 
 ### MONACO ###
  MCO_albert_i:0 "Albert I"
@@ -4232,3 +4240,7 @@
  KYR_mokush_shabdanov:0 "Mokuş Şabdanov"
  KYR_talip_baybolot_uulu:0 "Talıp Baybolot uulu"
  KYR_imanali_aydarbekov:0 "İmanalı Aydarbekov"
+
+ TON_siaosi_tupou_ii:0 "Siaosi Tupou II"
+ TON_salote_mafileo_pilolevu:0 "Sālote Mafile'o Pilolevu"
+ TON_salote_tupou_iii:0 "Sālote Tupou III"

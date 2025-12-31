@@ -1,12 +1,11 @@
 # Українська локалізація *The Great War Redux*
-Оновлено для версії моду ***0.15.9*** (версія гри&nbsp;— *1.17*)
+Оновлено для версії моду ***0.15.9***, патчу від *31&nbsp;грудня 2025* (версія гри&nbsp;— *1.17*)
 
 Локалізація доступна до завантаження в [Майстерні *Steam*](https://steamcommunity.com/workshop/filedetails/?id=2880535545).
 
 ## Завершені файли
 + `countries`
 + `countries_cosmetic`
-+ `loading_tips`
 + `strategic_region_names`
 + `ww1_adjacency_rules`
 + `ww1_core`
@@ -19,7 +18,6 @@
 + `ww1_music` (умовно)
 + `ww1_scripted_triggers`
 + `ww1_unit_limit`
-+ `ww1_war`
 + `GER\ww1_GER_bundesrat` (переклав *Лицарський хрест*)
 + `GER\ww1_GER_ideas` (майже)
 + `GER\ww1_liman_affair` (переклав *Лицарський хрест*)
@@ -49,8 +47,10 @@
 + `replace_unit`
 + `replace_unit_medals`
 
-## У процесі перекладу
+## Незавершені
++ `loading_tips`
 + `state_names`
++ `victory_points`
 + `ww1_autonomy`
 + `ww1_buildings`
 + `ww1_characters`
@@ -62,13 +62,14 @@
 + `ww1_parliament_gui` (старий переклад видалено)
 + `ww1_tank_modules`
 + `ww1_unit_medals`
++ `ww1_war`
 + `GER\ww1_germany`
 
 ### Папка `replace`
 + `replace_characters`
 + `replace_ideas`
 
-## Файл оновлено, старий переклад збережено
+## Незавершені, де збережено старий переклад
 + `bookmarks`
 + `equip_air`
 + `equip_naval`
@@ -90,8 +91,10 @@
 + `replace_research`
 + `replace_wtt_decisions`
 
-## Не перекладено взагалі
+## Не початі
++ `division namelists`
 + `ww1_collections`
++ `ww1_doctrines`
 + `ww1_flags`
 + `ww1_naval_classes`
 + `ww1_special_projects`

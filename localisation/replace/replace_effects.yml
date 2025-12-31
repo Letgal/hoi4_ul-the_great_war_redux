@@ -3,3 +3,5 @@
  EFFECT_UNLOCK_DECISION_CATEGORY: "Відмикає сукупність рішень £decision_icon_small $NAME|H$."
  EFFECT_ACTIVATE_DECISION: "Активовує рішення: £decision_icon_small $NAME|H$."
  EFFECT_REMOVE_DECISION: "Видаляє рішення: £decision_icon_small $NAME|H$."
+ EFFECT_UNLOCK_DECISION_SELECT_HEADER: "§CПри виборі рішення:§!"
+ EFFECT_UNLOCK_DECISION_REMOVE_HEADER: "§CПри видаленні рішення:§!"

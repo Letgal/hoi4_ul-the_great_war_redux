@@ -80,9 +80,9 @@
  decision_cost_CP_50_5_civ: "£command_power §Y50§! £civ_factory£ §Y5§!"
  decision_cost_CP_50_5_civ_blocked: "£command_power §R50§! £civ_factory£ §R5§!"
  decision_cost_CP_50_5_civ_tooltip: "Прийняття цього рішення коштує £command_power §Y50§! £civ_factory£ §Y5§!"
- decision_cost_CP_25_10_civ: "£command_power §Y25§! £civ_factory£ §Y10§!"
- decision_cost_CP_25_10_civ_blocked: "£command_power §R25§! £civ_factory£ §R10§!"
- decision_cost_CP_25_10_civ_tooltip: "Прийняття цього рішення коштує £command_power §Y25§! £civ_factory£ §Y10§!"
+ decision_cost_CP_25_4_civ: "£command_power §Y25§! £civ_factory£ §Y4§!"
+ decision_cost_CP_25_4_civ_blocked: "£command_power §R25§! £civ_factory£ §R4§!"
+ decision_cost_CP_25_4_civ_tooltip: "Прийняття цього рішення коштує £command_power §Y25§! £civ_factory£ §Y4§!"
  decision_cost_CP_50_10_civ: "£command_power §Y50§! £civ_factory£ §Y10§!"
  decision_cost_CP_50_10_civ_blocked: "£command_power §R50§! £civ_factory£ §R10§!"
  decision_cost_CP_50_10_civ_tooltip: "Прийняття цього рішення коштує £command_power §Y50§! £civ_factory£ §Y10§!"
@@ -223,10 +223,6 @@
  GER_dual_alliance:0 "Ушанувати подвійний альянс"
  GER_dual_alliance_desc:0 "Наш союз з Австро-Угорщиною означає, що ми обіцяємо підтримувати один у разі нападу з боку Росії. Ми допоможемо нашим австрійським друзям перемогти Росію."
  GER_setup_belgian_occupation_zone:0 "Налаштувати Kaiserliches Deutsches Generalgouvernement Belgien"
- GER_schliffenmoltkeplan:0 "План Шліффена-Мольтке"
- GER_schliffenmoltkeplan_desc:0 "План Шліффена-Мольтке означає, що ми атакуємо Бельгію та Люксембург, щоб ввійти прямо в Париж."
- GER_schliffen1905plan:0 "План Шліффена"
- GER_schliffen1905plan_desc:0 "План Шліффена передбачає, що ми порушимо до вворіт Парижа через вторгнення через Бельгію, після чого ми не можемо пройти крізь укріплення Франції без незамінних жертв і втрат. Ми розтоптаємо цю пригноблену, відсталу країну."
  GER_armistice:0 "Запропонувати Антанті умови капітуляції"
  GER_armistice_desc:0 "Ця війна була невдалою. Армія не в змозі воювати довше, нам потрібно негайно просити перемир'я. Я боюся, що Антанта вимагатиме величезних репарацій."
  GER_armitice_flag:0 "Запропонувати Франції умови капітуляції"
@@ -234,6 +230,7 @@
  GER_german_offensive_mission_desc:0 "Більшовики, здається, перебувають у неприємному стані з їхньою громадянською війною, однак це нам анітрохи не хвилюється. Європу під наш чобіт."
  GER_german_offensive_mission_tt:0 "Німеччина атакує більшовиків"
  GER_capitulation:0 "§Y[GER.GetFlag]Німеччина§! подала пропозицію миру"
+ ENT_accepts_GER_capitulation: "Держава §Y[GetEntenteLeader]§! прийняла пропозицію миру від §Y[GER.GetFlag]Німеччини§!" # (&+)
  GER_decision_central_powers_conference:0 "Конференція центральних держав"
  GER_misison_central_powers_conference:0 "Конференція триває"
  GER_italian_request:0 "Запросити [ITA.GetName]"
@@ -292,7 +289,7 @@
  GER_elsass_lothringen_constitution_desc:0 "Ельзас-Лотринґен — це райхсланд, тобто імперська земля, що перебуває під безпосереднім управлінням Німецької імперії від самої її анексії у 1871 році. Регіон, яким керує призначений імператором штатгальтер, не має автономії, якою наділені інші федеральні землі. Його населення, яке в основному складається з ельзасько- та франкомовних жителів, вже давно висловлює невдоволення центральним контролем і поточною політикою ґерманізації, що впливає на освіту і суспільне життя.\n\nЗ прийняттям нової конституції та створенням регіонального парламенту, будуть надані деякі обмежені законодавчі повноваження з місцевих питань. Територія також отримає представництво в Бундесраті та Райхстазі, що посилить її участь у загальноімперських справах. Хоча ключові повноваження залишаються в Берліні, ця реформа може стати значним кроком до інтеграції в рамках федеральної структури і широко розглядається як крок, спрямований на вирішення давніх регіональних проблем."
  NFA_sue_for_peace_GER:0 "Оголосити нашу поразку та прийняти долю"
  NFA_sue_for_peace_GER_desc:0 "Франція зазнала повної поразки. Майбутнього більше немає."
- FRC_sue_for_peace_NFA:0 "Капітуляція перед імперіалістами"
+ FRC_sue_for_peace_GER:0 "Капітуляція перед імперіалістами"
  NFA_third_franco_german_war_tt:0 "§RКоролівство Франції, яким керуватиме німецький монарх, буде створено...§!"
  GER_anti_war_revolt:0 "Загальнонаціональні антивоєнні протести"
  GER_anti_war_revolt_desc:0 "Здається, це поганий вибір — вести занадто жорстоку війну відразу після кривої Великої війни. Громадяни та солдати були стріляні триваючою війною. Масштабні протести відбуваються в усіх великих містах."
@@ -455,7 +452,8 @@
  FRA_jaures_speech:0 "Промова Жана Жореса"
  FRA_jaures_speech_citation: "«L’histoire enseigne aux hommes la difficulté des grandes tâches et la lenteur des accomplissements, mais elle justifie l’invincible espoir»."
  FRA_SFIO_gain_50_seat:0 "§RФСРІ§! отримає додаткові §Y50§! місць."
- FRA_capitulation:0 "§Y[GetEntenteLeader]§! подала пропозицію миру"
+ ENT_capitulation:0 "§Y[GetEntenteLeader]§! подала пропозицію миру"
+ GER_accepts_ENT_capitulation: "§Y[GER.GetFlag]Німеччина§! прийняла пропозицію миру від держави §Y[GetEntenteLeader]§!"
  FRA_great_war:0 "Велика війна"
  FRA_great_war_desc:0 "Війна. Війна ніколи не змінюється. Німеччина готується до наступальної війни, і нам потрібно зміцнити Антанту до того, як німці перетнуть кордон. Від нас залежить, коли світ опиниться у вогні світової війни."
  FRA_armistice:0 "Запропонувати Німеччині умови капітуляції"
@@ -690,7 +688,7 @@
  BUL_united_headquarters:0 "Об'єднаний болгарський штаб"
  BUL_macedonia_influence_battle:0 "Кожна держава [MAC.getFlag]§YMacedonian§! буде предметом переговорів про союз між [SER.getFlag]§YСербією§! та [BUL.getFlag]§YБолгарією§!."
  BUL_macedonian_deal:0 "Пропонує [SER.getFlag]§YСербії§! створення автономної [MAC.getFlag]§Yмакедонської§! держави."
- BUL_macedonian_deal_if_accepted:0 "Якщо вони приймуть, фокус §YАнтиосманська священна війна§! буде автоматично завершено!"
+ BUL_macedonian_deal_if_accepted:0 "Якщо вони приймуть, фокус §Y$BUL_anti_ottoman_crusade$§! буде автоматично завершено!"
 
  BUL_slower_industrial_expansion:0 "§YЦя філія§! надасть §GРізноманітні бонуси§!, але також §RSуповільнить нашу індустріалізацію§!.\n"
  BUL_faster_industrial_expansion:0 "§YЦя філія§! забезпечить §GШвидшу індустріалізацію§! за ціною §Rрізних зловмисників§!.\n"
@@ -948,12 +946,12 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  AUH_federation_needs_preparation:0 "\n\n§RЯкщо до конгресу не буде змінено політику щодо меншин, це може мати негативні наслідки!§!"
 
  AUH_unlock_polish_legions:0 "\n\n§Y2 дивізії§! у складі §Y12 піхотних підрозділів§! і §YАртилерія/розвідувальна підтримка§! будуть розгорнуті в §YКраків§! і §YLemberg§!."
- AUH_unlock_polish_legions_focus:0 "Відкриває фокус §Y\"Польський Східний Легіон\"§!."
+ AUH_unlock_polish_legions_focus:0 "Відкриває фокус §Y\"$AUH_polish_legion$\"§!."
  AUH_unlock_polish_legions_focus_unlocked:0 "сформовано [POL.getFlag]§Y\"Польський верховний національний комітет\"§!."
  AUH_polish_legions_unlocked:0 "Польські легіони авторизовані"
 
  AUH_unlock_ukrainian_legions:0 "\n\n§YЄдина дивізія§! у складі §Y12 піхотних підрозділів§! та §YArtillery/Recon support§! буде розгорнуто в §YLemberg§!."
- AUH_unlock_ukrainian_legions_focus:0 "Відкриває фокус §Y\"Український східний легіон\"§!."
+ AUH_unlock_ukrainian_legions_focus:0 "Відкриває фокус §Y\"$AUH_ukranian_sich_riflemen$\"§!."
  AUH_unlock_ukrainian_legions_focus_unlocked:0 "утворив [POL.getFlag]§Y\"Український Найвищий Національний Комітет\"§!."
  AUH_ukrainian_legions_unlocked:0 "Українські легіони авторизовані"
 
@@ -1336,7 +1334,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  compiegne_armistice_signed: "§YКомп'єнське перемир'я§! було §Yпідписано§!"
  compiegne_armistice:0 "Комп'єнське перемир'я\n"
  compiegne_armistice_mission:0 "Комп'єнське перемир'я"
- compiegne_armistice_message:0 "§YФранція§! і §YАнтанта§! перемагають. §YНімеччина§! та §Yїї союзники§! повинні будуть заплатити ціни, яких вимагають переможці в післявоєнному договорі."
+ compiegne_armistice_message:0 "§Y@FRA Франція§! і §YАнтанта§! перемагають. §Y@GER Німеччина§! та §Yїї союзники§! повинні будуть заплатити ціни, яких вимагають переможці в післявоєнному договорі."
  versallies_conference:0 "Паризька мирна конференція"
  versallies_conference_desc:0 "Політики з країн Антанти та націоналісти приймають важливі рішення, такі як заснування Ліги Націй, укладення договорів із переможеними країнами та встановлення мандатів, за якими країна-переможниця керує іноземними територіями переможеної країни, помсти проти Німеччини, також обговорити відновлення державних кордонів, які відображають національні кордони."
  versailles_treaty_signed: "§YВерсальський договір§! було §Yпідписано§!"
@@ -1347,7 +1345,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  frankfurt_armistice:0 "Франкфуртське перемир'я\n"
  frankfurt_armistice_mission:0 "Франкфуртське перемир'я"
  frankfurt_armistice_tt:0 "Велика війна закінчилася поразкою Антанти."
- frankfurt_armistice_message:0 "§YНімеччина§! та §YЦентральні держави§! перемагають. §YФранція§! та §Yїї союзники§! повинні будуть заплатити ціни, яких вимагають переможці у післявоєнному договорі."
+ frankfurt_armistice_message:0 "§Y@GER Німеччина§! та §YЦентральні держави§! перемагають. §Y@FRA Франція§! та §Yїї союзники§! повинні будуть заплатити ціни, яких вимагають переможці у післявоєнному договорі."
  frankfurt_conference:0 "Франкфуртська мирна конференція"
  frankfurt_conference_desc:0 "Політики з Центральних держав обговорюють, як розділити території та колонії переможених країн і розширити їхні імперії та гегемонії."
  frankfurt_treaty_signed: " §YФранкфуртський договір§! "
@@ -1723,6 +1721,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  GRE_expand_influence_in_the_kerkyra_garrison: "Розширити вплив в області [187.GetName]"
  GRE_expand_influence_in_the_olympos_garrison: "Розширити вплив в області [826.GetName]"
  GRE_expand_influence_in_the_northern_epirus_garrison: "Розширити вплив в області [803.GetName]"
+ GRE_expand_influence_in_the_korce_garrison: "Розширити вплив в області [1225.GetName]"
  GRE_expand_influence_in_the_central_macedonia_garrison: "Розширити вплив в області [731.GetName]"
  GRE_expand_influence_in_the_thessaloniki_garrison: "Розширити вплив в області [345.GetName]"
  GRE_expand_influence_in_the_eastern_macedonia_garrison: "Розширити вплив в області [184.GetName]"
@@ -1756,6 +1755,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  GRE_expand_influence_in_the_kerkyra_garrison_mission: "Вплив в області [187.GetName] оспорюються"
  GRE_expand_influence_in_the_olympos_garrison_mission: "Вплив в області [826.GetName] оспорюються"
  GRE_expand_influence_in_the_northern_epirus_garrison_mission: "Вплив в області [803.GetName] оспорюються"
+ GRE_expand_influence_in_the_korce_garrison_mission: "Вплив в області [1225.GetName] оспорюються"
  GRE_expand_influence_in_the_central_macedonia_garrison_mission: "Вплив в області [731.GetName] оспорюються"
  GRE_expand_influence_in_the_thessaloniki_garrison_mission: "Вплив в області [345.GetName] оспорюються"
  GRE_expand_influence_in_the_eastern_macedonia_garrison_mission: "Вплив в області [184.GetName] оспорюються"
@@ -9679,11 +9679,11 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  GER_vote_coalition_law: "§GОскільки Райхстаґ об'єднаний§!, за цей закон проголосують §Y100%§! §Yдепутатів§!.\n\n"
  GER_vote_right_law: "Це вважається правацьким законом. За нього проголосують §Y100%§! §2правих депутатів§!, §Y25%§! §gцентральних депутатів§! і §Y25%§! §Lнейтральних депутатів§!.\n\n"
  GER_vote_wartime_law: "Це вважається законом воєнного часу. За нього проголосують §Y90%§! §2правих депутатів§!, §Y70%§! §gцентральних/нейтральних депутатів§! і §Y30%§! §tлівих депутатів§!.\n\n"
- GER_temp_sway_left: "Вплинути на депутатів-ліваків" # (&+)
- GER_temp_sway_center: "Вплинути на депутатів-центристів" # (&+)
- GER_temp_sway_center_even_more: "Вплинути на ще більше депутатів-центристів" # (&+)
- GER_temp_sway_right: "Вплинути на депутатів-праваків" # (&+)
- GER_temp_sway_neutral: "Вплинути на депутатів-нейтралів" # (&+)
+ GER_temp_sway_left: "Вплинути на депутатів-§tліваків§!" # (&+)
+ GER_temp_sway_center: "Вплинути на депутатів-§gцентристів§!" # (&+)
+ GER_temp_sway_center_even_more: "Вплинути на ще більше депутатів-§gцентристів§!" # (&+)
+ GER_temp_sway_right: "Вплинути на депутатів-§2праваків§!" # (&+)
+ GER_temp_sway_neutral: "Вплинути на депутатів-§Lнейтралів§!" # (&+)
  left_vote_in_progress: "Іде голосування щодо §tлівацького§! закону" # (&+)
  center_vote_in_progress: "Іде голосування щодо §gцентристського§! закону" # (&+)
  right_vote_in_progress: "Іде голосування щодо §2правацького§! закону" # (&+)

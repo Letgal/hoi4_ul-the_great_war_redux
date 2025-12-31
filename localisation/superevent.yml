@@ -12,7 +12,7 @@
   SE_BATTLE_OF_VERDUN_A: "Вони не пройдуть!"
 
   SE_great_war_T: "Велика війна"
-  SE_great_war_D: "\n«Я думаю, на мені мусить лежати прокляття, бо я люблю цю війну. Я знаю, що вона щомиті нищить і розбиває життя тисяч осіб, а все ж ніщо не можу з цим удіяти — я насолоджуюся кожною її секундою».\n(Вінстон Черчилл)"
+  SE_great_war_D:0 "\n"So the Lord said, "I will wipe from the face of the earth the human race I have created—and with them the animals, the birds and the creatures that move along the ground—for I regret that I have made them."\n- Genesis 6:7"
   SE_great_war_A: "Війна, що покладе кінець усім війнам."
 
   SE_great_depression_T: "Велика депресія"
