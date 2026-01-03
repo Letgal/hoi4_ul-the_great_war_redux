@@ -3398,7 +3398,7 @@
 
 ### SOVIET RUSSIA ###
  SOV_nikolai_krylenko:0 "Nikolai Krylenko"
- SOV_pavel_dybenko:0 "Pavel Dybenko"
+ SOV_pavel_dybenko:0 "Pavlo Dybenko"
  SOV_nikolai_podvoisky:0 "Nikolai Podvoisky"
  SOV_georgiy_chicherin:0 "Georgy Chicherin"
  SOV_felix_dzerzhinsky: "Фелікс Дзєржинський" # польською
@@ -3927,6 +3927,8 @@
  UKR_vsevolod_petriv:0 "Vsevolod Petriv"
  UKR_oleksandr_udovichenko:0 "Oleksandr Udovichenko"
  UKR_yevgenia_bosch:0 "Yevhenia Bosch"
+ UKR_vladimir_ovseenko: "$SOV_vladimir_ovseenko$"
+ UKR_pavel_dybenko: "$SOV_pavel_dybenko$"
 
 ### RUMCHEROD - ODESSA SOVIET REPUBLIC ###
  RUC_ivane_lordkipanidze:0 "Ivane Lordkipanidze"
