@@ -73,16 +73,16 @@
  EQUIPMENT_SUPPORT: "Підтримка"
  EQUIPMENT_ANTI_AIR: "Зенітна артилерія"
  EQUIPMENT_ARTILLERY: "Артилерія"
- EQUIPMENT_ANTI_TANK: "ПТА"
+ EQUIPMENT_ANTI_TANK: "ПТ-артилерія"
  EQUIPMENT_ROCKET: "Міномети"
  EQUIPMENT_FLAME: "Вогнемети"
  EQUIPMENT_COMMANDER: "Командувачі"
  EQUIPMENT_SIGNAL: "Зв'язок"
  EQUIPMENT_MISSILE: "Керовані ракети"
- EQUIPMENT_LAND: "Наземне обладання"
- EQUIPMENT_NAVAL: "Морське обладання"
- EQUIPMENT_AIR: "Повітряне обладання"
- EQUIPMENT_VERSION: "зраз. $VERSION|0$"
+ EQUIPMENT_LAND: "Оснащення армії" # vnl.
+ EQUIPMENT_NAVAL: "Оснащення флоту" # vnl.
+ EQUIPMENT_AIR: "Оснащення авіації" # vnl.
+ EQUIPMENT_VERSION: "зраз. $VERSION|0$"
  EQUIPMENT_VEHICLE: "Техніка"
  EQUIPMENT_WEIGHT_LIGHT: "Легкі"
  EQUIPMENT_WEIGHT_MEDIUM: "Середні"
