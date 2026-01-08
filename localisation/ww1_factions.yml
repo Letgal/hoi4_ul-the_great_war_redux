@@ -31,9 +31,9 @@
  TUR_turan_faction: "Тюркський союз"
  TUR_konstantiniyye_tokyo_faction: "Константінійсько-Токійська угода"
  anti_bulgarian_league: "Антиболгарська ліга"
- entente_continentale:0 "Entente Continentale" # (!)
- north_american_union:0 "North American Union" # (!)
- imperial_authority_treaty_organization:0 "Imperial Authority Treaty Organization" # (!)
+ entente_continentale: "Континентальна Антанта"
+ north_american_union: "Північноамериканський союз"
+ imperial_authority_treaty_organization: "Організація Договору імперського авторитету" # (&)
  FOCUS_FILTER_STABILITY_FACTION_GOAL_FILTER: "Стабільність"
 
  # Chinese factions
@@ -59,7 +59,7 @@
 
 ### ЦІЛІ ###
  ## Довгострокові
- balkan_league_defeat_turkey_goal_name:0 "Defeat [TUR.getName]"
+ balkan_league_defeat_turkey_goal_name:0 "Defeat [TUR.getName]" # (!)
  balkan_league_defeat_turkey_goal_desc: ""
  balkan_league_defeat_bulgaria_goal_name:0 "Defeat [BUL.getName]"
  balkan_league_defeat_bulgaria_goal_desc: ""

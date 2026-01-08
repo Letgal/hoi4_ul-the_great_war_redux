@@ -54,19 +54,19 @@
  mio_cat_eq_railway_guns: "Залізнична артилерія"
  mio_cat_eq_howitzers: "Гаубиці"
  field_gun_equipment: "Польова гармата"
- field_gun_equipment_desc:0 "Field Guns are long-range artillery pieces that fire at a relatively low angle, as opposed to howitzers which can fire at higher angles." # (!)
+ field_gun_equipment_desc:0 "Польові гармати — це артилерійські знаряддя великої дальності, які стріляють під відносно малим кутом, на відміну від гаубиць, які можуть стріляти під більшим кутом." # (@!)
  field_gun_equipment_0: "Рання польова гармата"
  field_gun_equipment_1: "Базова польова гармата"
  field_gun_equipment_2: "Поліпшена польова гармата"
- field_gun_equipment_2_desc:0 "New cannon designs, taking advantage of new hydraulic recoil devices and longer barrels." # (!)
+ field_gun_equipment_2_desc:0 "Нові конструкції гармат, що використовують нові гідравлічні пристрої віддачі та довші стволи." # (@!)
  field_gun_equipment_3: "Удосконалена польова гармата"
- field_gun_equipment_3_desc:0 "Light-weight cannon capable of being broken down for transport, making it possible to bring artillery support to areas previously difficult to reach." # (!)
+ field_gun_equipment_3_desc:0 "Легка гармата, яку можна розібрати для транспортування, що дозволяє надавати артилерійську підтримку в районах, до яких раніше було важко дістатися." # (@!)
  howitzer_equipment: "Гаубиця"
- howitzer_equipment_desc:0 "The howitzer primary function is to provide effective and accurate fire support to infantry during assaults and advances across the battlefield. It's a valuable asset to infantry divisions, offering superior firepower, tactical versatility, relative mobility, and significant psychological impact." # (!)
+ howitzer_equipment_desc:0 "Основна функція гаубиці полягає в забезпеченні ефективної та точної вогневої підтримки піхоти під час штурму та просування по полю бою. Вона є цінним надбанням для піхотних дивізій, забезпечуючи чудову вогневу потужність, тактичну універсальність, відносну мобільність та значний психологічний вплив." # (@!)
  howitzer_equipment_0: "Рання гаубиця"
  howitzer_equipment_1: "Базова гаубиця"
  howitzer_equipment_2: "Поліпшена гаубиця"
- howitzer_equipment_2_desc:0 "Long-barreled howitzers were generally heavier and had a longer range than short-barreled howitzers. They were used for attacking fortified positions and for long-range support." # (!)
+ howitzer_equipment_2_desc:0 "Гаубиці з довгим стволом, як правило, були важчі і мали більшу дальність стрільби, ніж гаубиці з коротким стволом. Вони використовувалися для атаки укріплених позицій і для підтримки на великій відстані." # (@!)
  howitzer_equipment_3: "Удосконалена гаубиця"
  howitzer_equipment_3_desc: "$howitzer_equipment_2_desc$"
  EQUIPMENT_MODULE_NOT_ALLOWED: "§RНедоступно§!"

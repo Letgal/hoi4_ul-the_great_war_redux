@@ -7,93 +7,93 @@
 
  RAILWAY_TITLE: "ЗАЛІЗНИЦІ"
  construction0: "Сучасна інфраструктура"
- construction0_desc:0 "Продумане проектування інфраструктури з'явилося на початку 19 століття як частина робіт з розвитку європейських мегаполісів." # (!)
+ construction0_desc:0 "Продумане проектування інфраструктури з'явилося на початку 19 століття як частина робіт з розвитку європейських мегаполісів." # (@!)
 
  basic_railways: "Базова залізниця"
- basic_railways_desc:0 "Railways appeared during the industrialization of Europe and played an essential role in the transport of goods and people. It is also an efficient way of supplying large armed forces."
+ basic_railways_desc:0 "Залізниці з'явилися під час індустріалізації Європи і відігравали важливу роль у перевезенні вантажів і людей. Вони також є ефективним засобом постачання великих збройних сил." # (@!)
  narrow_gauge_railway: "Вузькоколійна залізниця"
- narrow_gauge_railway_desc:0 "Since narrow-gauge railways are usually built with tighter curves, smaller structure gauges, and lighter rails, they can be less costly to build, equip, and operate than standard- or broad-gauge railways."
+ narrow_gauge_railway_desc:0 "Оскільки вузькоколійні залізниці зазвичай будуються з більш крутими поворотами, меншими габаритами споруд і легшими рейками, їх будівництво, обладнання та експлуатація можуть бути менш витратними, ніж у випадку стандартних або ширококолійних залізниць." # (@!)
  standard_gauge_railway: "Залізниця зі стандартною колією" # (&+?)
- standard_gauge_railway_desc:0 "The standard-gauge railway is a railway with a track gauge of 1,435 mm (4 ft 8+(1/2) in). The standard gauge is also called Stephenson gauge or international gauge."
- flexible_rail_network:0 "Flexible Rail Networks"
- flexible_rail_network_desc:0 "The construction of double or triple coupled railway tracks makes it possible to organize transport and optimize the space consumed by the railway tracks."
- diesel_electric_control_system:0 "Diesel Electric Control System"
- diesel_electric_control_system_desc:0 "Early internal combustion locomotives and railcars used kerosene and gasoline as their fuel. Rudolf Diesel patented his first compression-ignition engine in 1898, and steady improvements to the design of diesel engines reduced their physical size and improved their power-to-weight ratios to a point where one could be mounted in a locomotive."
- triple_gauge_system:0 "Triple Gauge System"
- triple_gauge_system_desc:0 "In rare situations, three different gauges may converge on to a rail yard and triple-gauge track is needed to meet the operational needs of the break-of-gauge station - most commonly where there is insufficient space to do otherwise."
- maintenance_standard:0 "Maintenance Standard"
- maintenance_standard_desc:0 "Infrastructure owners specify permitted variances from the nominal gauge, and the required interventions when non-compliant gauge is detected."
+ standard_gauge_railway_desc:0 "Залізниця зі стандартною колією — це залізниця з шириною колії 1435 мм (4 фут. 8+(1/2) дюйм.). Стандартна колія також називається колією Стівенсона або міжнародною колією." # (@!)
+ flexible_rail_network: "Гнучкі залізничні мережі"
+ flexible_rail_network_desc:0 "Будівництво подвійних або потрійних залізничних колій дозволяє організувати транспорт і оптимізувати простір, який займають залізничні колії." # (@!)
+ diesel_electric_control_system: "Електрична система управління дизельним двигуном" # підглянуто в РЛ
+ diesel_electric_control_system_desc:0 "Ранні локомотиви та залізничні вагони з двигунами внутрішнього згоряння використовували як паливо гас та бензин. Рудольф Дізель запатентував свій перший двигун із запалюванням від стиснення в 1898 році, а постійні вдосконалення конструкції дизельних двигунів зменшили їх фізичні розміри та поліпшили співвідношення потужності до ваги до такого рівня, що їх можна було встановлювати на локомотивах." # (@!)
+ triple_gauge_system: "Система потрійної колії" # (&+?)
+ triple_gauge_system_desc:0 "У рідкісних випадках три різні колії можуть сходитися на залізничному роз'їзді, і для задоволення експлуатаційних потреб станції з переходом колії необхідна колія з трьома ширинами колії — найчастіше там, де немає достатньо місця для іншого варіанту." # (@!)
+ maintenance_standard: "Стандарт обслуговування"
+ maintenance_standard_desc:0 "Власники інфраструктури визначають допустимі відхилення від номінальної ширини колії та необхідні заходи у разі виявлення невідповідності колії." # (@!)
 
- powder_type_b:0 "Powder Type B"
- powder_type_b_desc:0 "Poudre B was the first practical smokeless gunpowder created in 1884. It was perfected between 1882 and 1884 at "Laboratoire Central des Poudres et Salpêtres" in Paris, France."
- double_base_propellant:0 "Double Base Propellant"
- double_base_propellant_desc:0 "Propellants mixtures containing nitrocellulose and nitroglycerin as explosive propellant ingredients are known as double-base powder. "
- synthetic_nitrogen:0 "Synthetic Nitrogen"
- synthetic_nitrogen_desc:0 "For a long time, sources of nitrogen compounds were limited. Natural sources originated either from biology or deposits of nitrates produced by atmospheric reactions. Nitrogen fixation by industrial processes like the Frank-Caro process and Haber-Bosch process eased this shortage of nitrogen compounds, to the extent that half of global food production now relies on synthetic nitrogen fertilisers."
- improved_synthetisation:0 "Improved Nitrogen Synthetisation"
- improved_synthetisation_desc:0 "Improvements has been made in the quality of the synthetical Nitrogen process, thanks to Haber-Bosch method of production."
- advanced_synthetisation:0 "Advanced Nitrogen Synthetisation"
- advanced_synthetisation_desc:0 "Improvements has been made in the quality of the synthetical Nitrogen process, thanks to Haber-Bosch method of production."
- interwar_synthetisation:0 "Interwar Nitrogen Synthetisation"
- interwar_synthetisation_desc:0 "Improvements has been made in the quality of the synthetical Nitrogen process, thanks to Haber-Bosch method of production."
+ powder_type_b: "Poudre B"
+ powder_type_b_desc:0 "Poudre B був першим практичним бездимним порохом, створеним у 1884 році. Він був вдосконалений між 1882 і 1884 роками в Laboratoire Central des Poudres et Salpêtres в Парижі, Франція." # (@!)
+ double_base_propellant: "Двоосновний пропелент" # підглянуто в РЛ
+ double_base_propellant_desc:0 "Суміші пропелентів, що містять нітроцелюлозу та нітрогліцерин як вибухові компоненти пропеленту, відомі як порошки з подвійною основою." # (@!)
+ synthetic_nitrogen: "Синтетичний азот"
+ synthetic_nitrogen_desc:0 "Довгий час джерела азотних сполук були обмеженими. Природні джерела походили або з біології, або з відкладень нітратів, утворених в результаті атмосферних реакцій. Фіксація азоту за допомогою промислових процесів, таких як процес Франка–Каро та процес Габера–Боша, полегшила цю нестачу азотних сполук настільки, що зараз половина світового виробництва продуктів харчування залежить від синтетичних азотних добрив." # (@!)
+ improved_synthetisation: "Поліпшене синтезування азоту"
+ improved_synthetisation_desc:0 "Завдяки методу виробництва Габера–Боша було досягнуто поліпшення якості процесу синтетичного отримання азоту." # (@!)
+ advanced_synthetisation: "Удосконалене синтезування азоту"
+ advanced_synthetisation_desc: "$improved_synthetisation_desc$"
+ interwar_synthetisation: "Міжвоєнне синтезування азоту"
+ interwar_synthetisation_desc: "$improved_synthetisation_desc$"
 
  UNLOCK_TRAINS: "Відмикає дослідження §Yцивільного поїзда§!."
  electric_railway: "Електрична залізниця"
- electric_railway_desc:0 "Railway electrification is the use of electric power for the propulsion of rail transport. Electricity is typically generated in large and relatively efficient generating stations, transmitted to the railway network and distributed to the trains."
+ electric_railway_desc:0 "Електрифікація залізниць — це використання електроенергії для руху залізничного транспорту. Електроенергія зазвичай виробляється на великих і відносно ефективних електростанціях, передається до залізничної мережі та розподіляється між поїздами." # (@!)
  haber_process: "Процес Габера"
  haber_process_desc:0 "Процес Габера є основною промисловою процедурою виробництва аміаку." # (@!)
  advanced_oil_plant: "Удосконалений нафтопереробний завод"
  advanced_oil_plant_desc:0 "Нові експериментальні методи очищення, такі як гідроочищення, можуть бути використані у виробництві нафти для значного покращення кінцевого продукту." # (@!)
 
  stainless_steel: "Нержавіюча сталь"
- stainless_steel_desc:0 "Stainless steel, also known as inox, corrosion-resistant steel and rustless steel, is an alloy of iron that is resistant to rusting and corrosion. It contains iron with chromium and other elements such as molybdenum, carbon, nickel and nitrogen depending on its specific use and cost."
+ stainless_steel_desc:0 "Нержавіюча сталь, також відома як інокс, корозієстійка сталь і нержавіюча сталь, є сплавом заліза, стійким до іржавіння та корозії. Вона містить залізо з хромом та іншими елементами, такими як молібден, вуглець, нікель та азот, залежно від конкретного застосування та вартості." # (@!)
 
  early_machine_tools: "Ранні верстати"
- early_machine_tools_desc:0 "A variety of tools can be used in our military production lines to increase the efficency of our production."
+ early_machine_tools_desc:0 "На наших військових виробничих лініях можна використовувати різноманітні інструменти для підвищення ефективності виробництва." # (@!)
  machine_tools2: "Верстати II"
- machine_tools2_desc:0 "A variety of basic machines can be used in military production, to help increase production."
+ machine_tools2_desc:0 "Для збільшення обсягів виробництва у військовій промисловості можна використовувати різноманітні базові машини." # (@!)
  machine_tools3: "Верстати III"
- machine_tools3_desc:0 "By using improved machinery in all our production lines, we can increase our military output."
+ machine_tools3_desc:0 "Використовуючи вдосконалене обладнання на всіх наших виробничих лініях, ми можемо збільшити військове виробництво." # (@!)
  machine_tools4: "Верстати IV"
- machine_tools4_desc:0 "By using more conveyors in our production lines, we can increase our efficency and make more equipment."
+ machine_tools4_desc:0 "Використовуючи більше конвеєрів на наших виробничих лініях, ми можемо підвищити ефективність і виготовити більше обладнання." # (@!)
  machine_tools5: "Верстати V"
- machine_tools5_desc:0 "With new advanced machinery, we can increase our military production more then ever before."
+ machine_tools5_desc:0 "Завдяки новим сучасним машинам ми можемо збільшити військове виробництво більше, ніж будь-коли раніше." # (@!)
  industrial_complex1: "Спорудження промислових комплексів I"
- industrial_complex1_desc:0 "Industry functions much better when centralized around key locations, we have discovered. This should be how we build new factories from now on."
+ industrial_complex1_desc:0 "Ми виявили, що промисловість функціонує набагато краще, коли вона зосереджена навколо ключових локацій. Саме так ми повинні будувати нові заводи відтепер." # (@!)
  industrial_complex2: "Спорудження промислових комплексів II"
- industrial_complex2_desc:0 "The eruption of war necesitates increased factory output, which means larger and more factories."
+ industrial_complex2_desc:0 "Вибух війни вимагає збільшення обсягів виробництва, а це означає, що потрібно більше збільшених заводів." # (@!)
  industrial_complex3: "Спорудження промислових комплексів III"
- industrial_complex3_desc:0 "Labor conditions? Bah! More machinery, tighter spaces, and extra buildings! Let our industrial capacity grow evermore!"
+ industrial_complex3_desc:0 "Умови праці? Пха! Більше машин, тісніші приміщення та додаткові будівлі! Нехай наша промислова потужність зростає все більше і більше!" # (@!)
  industrial_complex4: "Спорудження промислових комплексів IV"
- industrial_complex4_desc:0 "More! More! The demands of our country's population and military increase ever further, as should the centralization of our industry."
+ industrial_complex4_desc:0 "Більше! Більше! Потреби населення та збройних сил нашої країни постійно зростають, як і централізація нашої промисловості." # (@!)
  fortification_tech: "Фортифікаційні технології"
  fortification1: "Фортифікація I"
- fortification1_desc:0 "By building basic defensive positions, we can easily increase our defensive capabilities."
+ fortification1_desc:0 "Створюючи базові оборонні позиції, ми можемо легко підвищити наші оборонні можливості." # (@!)
  fortification2: "Фортифікація II"
- fortification2_desc:0 "With more advanced defensive positions, such as protected bunkers, it will be hard for any enemy to break through."
+ fortification2_desc:0 "Завдяки більш досконалим оборонним позиціям, таким як захищені бункери, будь-якому ворогу буде важко прорватися." # (@!)
  fortification3: "Фортифікація III"
- fortification3_desc:0 "With metal structures placed in front of our defensive positions, the enemy will have trouble advancing to our fortified positions we can easily defend."
+ fortification3_desc:0 " З металевими конструкціями, розміщеними перед нашими оборонними позиціями, ворог матиме труднощі з просуванням до наших укріплених позицій, які ми можемо легко захищати." # (@!)
  anti_air_building1: "Протиповітряна оборона I"
- anti_air_building1_desc:0 "Large guns capable of automatic fire and long ranges will hopefully defend us from the aeriel menace."
+ anti_air_building1_desc:0 "Великі гармати, здатні вести автоматичний вогонь і стріляти на великі відстані, сподіваємося, захистять нас від повітряної загрози." # (@!)
  anti_air_building2: "Протиповітряна оборона II"
- anti_air_building2_desc:0 "As the sky is clouded with enemy planes we must in turn expand our defenses against these bombers."
+ anti_air_building2_desc:0 "Оскільки небо затягнуте ворожими літаками, ми повинні, у свою чергу, розширити нашу оборону проти цих бомбардувальників." # (@!)
  oil_production1: "Виробництво нафти I"
- oil_production1_desc:0 "With advancements in oil drilling techniques, we can drill more oil then we could before."
+ oil_production1_desc:0 "Завдяки вдосконаленню технологій буріння нафти ми можемо видобувати більше нафти, ніж раніше." # (@!)
  oil_production2: "Виробництво нафти II"
- oil_production2_desc:0 "Progress in geology helps us determine where the largest oil reserves are and we can focus our efforts in places where larger oil deposits will be located."
+ oil_production2_desc:0 "Прогрес у геології допомагає нам визначити, де знаходяться найбільші запаси нафти, і ми можемо зосередити наші зусилля на тих місцях, де будуть розташовані більші родовища нафти." # (@!)
  oil_production3: "Виробництво нафти III"
- oil_production3_desc:0 "Advancements in key processes in how we drill oil will make all our drilling sites much more efficient."
+ oil_production3_desc:0 "Прогрес у ключових процесах буріння нафти зробить усі наші бурові майданчики набагато ефективнішими." # (@!)
  basic_armored_car: "Базова бронемашина"
 
 ### ГРАНАТИ ###
  early_grenades: "Ранні гранати"
- early_grenades_desc:0 "Around the turn of the 20th century, the ineffectiveness of the available types of hand grenades, coupled with their levels of danger to the user and difficulty of operation, meant that they were regarded as increasingly obsolete pieces of military equipment."
+ early_grenades_desc:0 "На рубежі 20 століття неефективність існуючих типів ручних гранат, а також їх небезпечність для користувача і складність у використанні призвели до того, що вони стали вважатися застарілим видом військового спорядження." # (@!)
  basic_grenades: "Ручні гранати"
- basic_grenades_desc:0 "Following the success of improvised grenades in the trench warfare conditions, a reassessment was quickly made to develop a practical hand grenade."
+ basic_grenades_desc:0 "Після успіху імпровізованих гранат в умовах позиційної війни було швидко проведено переоцінку з метою розробки практичної ручної гранати." # (@!)
  improved_grenades: "Осколкові гранати"
- improved_grenades_desc:0 "The first "safe grenade". Explosive-filled steel canisters with a triggering pin and a distinctive deeply notched surface. The segmentation is often erroneously thought to aid fragmentation,"
+ improved_grenades_desc:0 "Перша «безпечна граната». Сталеві каністри, наповнені вибуховою речовиною, з детонаційним штифтом і характерною поверхнею з глибокими виїмками. Часто помилково вважається, що сегментація сприяє фрагментації." # (@!)
  advanced_grenades: "Газові гранати"
- advanced_grenades_desc:0 "26 mm grenades filled with ethyl bromoacetate or chloroacetone."
+ advanced_grenades_desc:0 "26-міліметрові гранати, наповнені етилбромоацетатом або хлорацетоном." # (@!)
  recon_armored_car: "Розвідувальна бронемашина"
 
 ### АРТИЛЕРІЯ+ ###

@@ -1,17 +1,17 @@
 ﻿# == (*) ==
  airship_equipment: "Дирижабль"
- airship_equipment_desc:0 "Airships were the first aircraft capable of controlled powered flight but their use decreased over time as their capabilities were surpassed by those of aeroplanes." # (!)
+ airship_equipment_desc:0 "Дирижаблі були першими літальними апаратами, здатними здійснювати керований політ, але з часом їх використання зменшилося, оскільки їхні можливості були перевершені літаками." # (@!)
  airship_equipment_1: "Дирижабль I"
  airship_equipment_2: "Дирижабль II"
  airship_equipment_3: "Дирижабль III"
  airship_bomber_equipment: "Жорсткий дирижабль-бомбардувальник" # (&): додати коротку форму
- airship_bomber_equipment_desc:0 "In rigid airships the envelope is supported by an internal framework. Rigid airships can be tasked with various military duties, which includes participation strategic bombing campaigns." # (!)
+ airship_bomber_equipment_desc:0 "У жорстких дирижаблях оболонка підтримується внутрішнім каркасом. Жорсткі дирижаблі можуть виконувати різні військові завдання, включаючи участь у стратегічних бомбардуваннях." # (@!)
  airship_bomber_equipment_1: "Жорсткий дирижабль-бомбардувальник I"
  airship_bomber_equipment_2: "Жорсткий дирижабль-бомбардувальник II"
  airship_bomber_equipment_3: "Жорсткий дирижабль-бомбардувальник III"
  mio_cat_eq_airships: "Дирижаблі"
  intercontinental_airship_equipment_1: "Міжконтинентальний дирижабль"
- intercontinental_airship_equipment_1_desc:0 "A long-range rigid airship for long-distance resupply or bombing missions." # (!)
+ intercontinental_airship_equipment_1_desc:0 "Жорсткий дирижабль великої дальності для постачання або бомбардування на великі відстані." # (@!)
 
 ### НІМЕЧЧИНА ###
  GER_scout_plane_equipment_1: "Etrich Taube" #1910

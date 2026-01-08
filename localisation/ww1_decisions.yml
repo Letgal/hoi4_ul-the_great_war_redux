@@ -421,8 +421,8 @@
 
 ### ФРАНЦІЯ ###
  FRA_parliament_dissolved:0 "Парламент розпущено"
- FRA_parliament_dissolved_tt:0 "§RThe parliament will be suspended§!. Deputies will not be allowed to vote et debate until we allow them to." # (!)
- FRA_you_reformed_the_high_command_and_have_high_popularity:0 "Our popular support and the loyalty of the army allow us takeover the coalition and form a new §tEmergency Government§!.\n\n" # (!)
+ FRA_parliament_dissolved_tt: "§RПарламент буде розпущено.§! Депутати не зможуть голосувати та проводити дебати, поки ми не дозволимо їм."
+ FRA_you_reformed_the_high_command_and_have_high_popularity: "Наші народна підтримка та вірність армії дозоляють нам узяти владу над коаліцією й утворити §tнадзвичайний уряд§!.\n\n"
 
  FRA_1910_legislative_elections_done:0 "Вибори до законодавчих органів 1910 року завершено"
  FRA_1914_legislative_elections_done:0 "Вибори до законодавчих органів 1914 року завершено"
@@ -1872,8 +1872,8 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  SER_attack_AUH_plan:0 "Щоб отримати дійсне обґрунтування для атаки на §Y[AUH.GetNameWithFlag]§!, ми підтримуватимемо декларацію незалежності §Y[GAL.getFlag][GAL.getAdjective]§!. §Y[RUS.GetNameWithFlag]§! і §Y[ROM.GetNameWithFlag]§! можуть підтримати наш приклад \n\n Якщо §Y[AUH.GetNameWithFlag]§! спробує відновити §Y[GAL.GetNameWithFlag]§!, це буде зараховано як §Rнаступальна війна§! для §Y[AUH.GetNameWithFlag]§! їхню §Y[GER.getFlag][GER.getAdjective]у§! підтримку."
 
  SER_investing_the_coup:0 "Інвестиційний переворот"
- SER_united_front_FROM:0 "United Front With [FROM.GetNameWithFlag]" # (!)
- SER_united_front_FROM_tt:0 "If §Y[CRO.GetFlag]Croatia§!, §Y[SLV.GetFlag]Slovenia§!, or §Y[BOS.GetFlag]Bosnia§! is at war with §Y[AUS.GetFlag]Austria§!, we will be able to establish the united front with them, being their overlord." # (!)
+ SER_united_front_FROM: "Об'єднаний фронт із державою [FROM.GetNameWithFlag]"
+ SER_united_front_FROM_tt: "Якщо §Y[CRO.GetFlag]Хорватія§!, §Y[SLV.GetFlag]Словенія§! або §Y[BOS.GetFlag]Боснія§! опиняться у війні з §Y[AUS.GetFlag]Австрією§!, ми зможемо заснувати з ними об'єднаний фронт, будучи їхнім володарем." # (&+)
 
  european_crisis_mission2:0 "Галицька криза"
  AUH_franzjoseph:0 "Галицька криза"
@@ -1978,7 +1978,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
 
 ### КИТАЙ ###
  CHI_xinhai_revolution:0 "Сіньхайська революція"
- CHI_xinhai_revolution_desc:0 "An era is coming to an end. A revolution is coming that will topple an old, corrupt, and incompetent barbarian dynasty and completely end the Chinese Empire dynasties as it has existed for over four millennia. Nothing will be able to stem the tide." # (!)
+ CHI_xinhai_revolution_desc:0 "Епоха добігає кінця. Настає революція, яка повалить стару, корумповану та некомпетентну варварську династію і повністю покладе край династіям Китайської імперії, які існували понад чотири тисячоліття. Ніщо не зможе зупинити цю хвилю." # (@!)
  CHI_xinhai_revolution_mission: "Китайська революція"
  CHI_xinhai_revolution_mission_desc: "$CHI_xinhai_revolution_desc$"
  CHI_call_yuan_shikai:0 "Подзвонити Юань Шикаю"
@@ -2039,9 +2039,9 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  CHI_XSM_take_ningxia:0 "Анексувати Нінся"
  CHI_SHX_take_suiyuan:0 "Анексувати Суйюань"
  CHI_ANC_conquer_mongolia:0 "Приєднати Монголію"
- CHI_ANC_conquer_mongolia_desc:0 "Outer Mongolia was a real, personal union of the Qing Dynasty, effectively a territory of Qing China, for centuries. We have never recognized Outer Mongolia's independence, and we will implement it at any time, barring external interference." # (!)
+ CHI_ANC_conquer_mongolia_desc:0 "Зовнішня Монголія протягом століть була реальною, особистою унією династії Цін, фактично територією Китаю династії Цін. Ми ніколи не визнавали незалежність Зовнішньої Монголії і будемо її реалізовувати в будь-який час, за винятком зовнішнього втручання." # (@!)
  CHI_decision_invade_tibet:0 "Приєднати Тибет"
- CHI_decision_invade_tibet_desc:0 "Tibet was a vassal, real union of the Qing Dynasty, effectively a territory of Qing China, for centuries. We have never recognized Tibet's independence, and we will implement it at any time, barring external interference." # (!)
+ CHI_decision_invade_tibet_desc:0 "Тибет протягом століть був васалом, реальним союзом династії Цін, фактично територією Китаю династії Цін. Ми ніколи не визнавали незалежність Тибету і будемо її реалізовувати в будь-який час, за винятком зовнішнього втручання." # (@!)
  CHI_unite_china_FROM:0 "Доля [FROM.GetName]"
  CHI_national_protection_flag:0 "Армія національного захисту"
  CHI_sue_for_peace_NPA:0 "Скасувати декларацію про створення Китайської імперії"
@@ -8734,7 +8734,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  spanish_flu_vaccine_tt_NOT:0 "Вакцина недоступна"
  humanitarian_aid:0 "Надано гуманітарну допомогу"
  humanitarian_aid_rejection:0 "Відмовлено в наданні гуманітарної допомоги"
- spanish_flu_spreads:0 "Spanish Flu has been spreaded" # (!)
+ spanish_flu_spreads: "Було поширено іспанський грип" # (&): тобто?
 
  ENG_imperial_federation_coring:0 "Запровадження Імперської федерації"
  ENG_imperial_federation_coring_desc:0 "Після утворення Імперської федерації ми повинні реорганізувати та відновити стару адміністрацію, щоб запобігти будь-якій тяганині та опору."
@@ -8919,7 +8919,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  BUL_request_200:0 "Запит [200.GetName]"
  BUL_request_200_desc:0 "Смачного, смачного, територія!"
  lone_liberator_victorious:0 "§Y[BUL.GetFlag]Болгарія§! перемогла в Балканській війні без створення §5Балканської ліги§!"
- BUL_salonika_armistice_timer:0 "Unilateral Ceasefire" # (!)
+ BUL_salonika_armistice_timer: "Одностороннє припинення вогню"
 
  korean_independence:0 "Незалежність Кореї"
  KOR_release_korea:0 "Випустити Корею"
@@ -9119,7 +9119,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
 
 
  GRE_venizelos_assassination:0 "Змова щодо вбивства Венізелоса"
- GRE_venizelos_assassination_desc:0 "Though we've managed to ban the Liberal Party, its leader Elefthérios Venizélos and his supporters are still lurking within the shadows. As their actions will inevitably result in a civil way, only way to avoid it seems to be assasination of their leader. Once Venizélos is out of the picture, their whole movement will come crumbling down." # (!)
+ GRE_venizelos_assassination_desc:0 "Хоча нам вдалося заборонити Ліберальну партію, її лідер Елефтеріос Венізелос і його прихильники все ще ховаються в тіні. Оскільки їхні дії неминуче призведуть до громадянської війни, єдиним способом уникнути цього, здається, є вбивство їхнього лідера. Як тільки Венізелос зникне з політичної арени, весь їхній рух розвалиться." # (@!)
 
  GRE_operation_rodi_desc_spec:0 "Операція «Роді» - це секретний план, організований для вторгнення на §YДодеканес§!."
 
@@ -9127,11 +9127,11 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  probably_lead_to_war_with_rodi_tt:1 "§RЦе, імовірно, призведе до війни з [899.owner.GetNameDef].§!"
  GRE_operation_rodi:0 "Операція «Роді»"
  GRE_marines_deploiement:0 "Розгорнути підрозділ §Yелітних морпіхів§! на §YКриті§!."
- GRE_rodi_operation_plus_20_percents:0 "Modify the success of §YOperation Rodi§! by §G+20%§!\n # (!)
- GRE_venizelos_assassination_plus_10_percents:0 "Modify the success of §YAssasinate Venizélos§! by §G+10%§!\n" # (!)
- GRE_venizelos_assassination_plus_15_percents:0 "Modify the success of §YAssasinate Venizélos§! by §G+15%§!\n" # (!)
- GRE_venizelos_assassination_plus_20_percents:0 "Modify the success of §YAssasinate Venizélos§! by §G+20%§!\n" # (!)
- GRE_venizelos_assassination_plus_40_percents:0 "Modify the success of §YAssasinate Venizélos§! by §G+40%§!\n" # (!)
+ GRE_rodi_operation_plus_20_percents: "Змінює успіх §Yоперації «Роді»§! на §G+20%§!.\n"
+ GRE_venizelos_assassination_plus_10_percents: "Змінює успіх §Yубивства Венізелоса§! на §G+10%§!.\n"
+ GRE_venizelos_assassination_plus_15_percents: "Змінює успіх §Yубивства Венізелоса§! на §G+15%§!.\n"
+ GRE_venizelos_assassination_plus_20_percents: "Змінює успіх §Yубивства Венізелоса§! на §G+20%§!.\n"
+ GRE_venizelos_assassination_plus_40_percents: "Змінює успіх §Yубивства Венізелоса§! на §G+40%§!.\n"
 
  GRE_operation_rodi_desc:0 "Щоб успішно завершити §Y"Операцію «Роді»"§!, ми повинні підготувати широкомасштабне вторгнення проти [164.getName]. Чим більше ми готові, тим менше §Y[899.owner.GetNameWithFlag] §! спробує відбити атаку.\n\nНаш поточний рівень підготовки: §Y[?GRE_rodi_preparation|Y0=]%§!"
 
@@ -9526,10 +9526,10 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  IND_reduce_resistance_by_1: "\nЗменшить рівень опору на §Y1§!."
  FROM_name: "Ціль — [FROM.getName]"
  THIS_name: "Ціль — [THIS.getName]"
- IND_get_equipment_auto:0 "Expansion of the Nationalist Movement" # (!)
- long_jiguang_intervention:0 "§YLong Jiguang§! Intervention"
- IND_end_of_nationalist_resistance:0 "Nationalist Movement §Y\"Quang Phuc Hôi\"§! Ends."
- unlock_focus_return_to_japan:0 "Unlock National Focus: §YReturn to Japan§!"
+ IND_get_equipment_auto: "Розширення націоналістичного уряду"
+ long_jiguang_intervention: "Втручання §YЛуна Цзіґуана§!"
+ IND_end_of_nationalist_resistance: "Націоналістичний рух §Y«Ліга відновлення В'єтнаму»§! закінчується."
+ unlock_focus_return_to_japan: "Відмикає національний фокус §Y$IND_return_to_japan$§!."
 
  RUS_remove_aland_dmz: "Ремілітаризувати Аландські острови"
  FRA_move_capital_in_bordeaux:0 "Перенести капітал у Бордо"
