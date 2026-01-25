@@ -195,17 +195,26 @@
  POL_STATE_85: "Помор'я"
  STATE_86: "Позен"
  POL_STATE_86: "Познань"
+ RUS_STATE_86: "Познань"
  STATE_87: "Каліш"
+ #RUS_STATE_87: "Kalish"
+ #GER_STATE_87: "Kalisch"
  STATE_88: "Краків"
  AUS_STATE_88: "Кракау"
+ GER_STATE_88: "Кракау"
+ #POL_STATE_88: "Kraków"
+ #GAL_STATE_88: "Kraków"
+ #RUS_STATE_88: "Krakov"
  STATE_89: "Штаніслау"
  POL_STATE_89: "Станіславів"
  UKR_STATE_89: "Станіславів"
  WUK_STATE_89: "Станіславів"
  RUS_STATE_89: "Станіславів"
  STATE_90: "Кєльці"
+ #RUS_STATE_90: "Keltsy"
  STATE_91: "Лемберґ"
  STATE_92: "Люблін"
+ #RUS_STATE_92: "Lyublin"
  STATE_93: "Волинь"
  #RUS_STATE_93: "Volyn"
  #UKR_STATE_93: "Volyn"
@@ -236,6 +245,8 @@
  GER_STATE_97: "Б'єлосток"
  LIT_STATE_97: "Балстоґє"
  STATE_98: "Плоцьк"
+ #RUS_STATE_98: "Plotsk"
+ #GER_STATE_98: "Plock"
  STATE_99: "Ютландія"
  STATE_100: "Ісландія"
  STATE_101: "Ґренландія"
@@ -538,6 +549,7 @@
  #UKR_STATE_241: "Homel"
  LIT_STATE_241: "Ґомєліс"
  STATE_242: "Смоленськ"
+ BLR_STATE_242: "Смалєнськ"
  STATE_243: "Орша"
  #POL_STATE_243: "Orsza"
  #LIT_STATE_243: "Orša"
@@ -546,6 +558,7 @@
  STATE_245: "Новочеркаськ"
  STATE_246: "Кабінда"
  STATE_247: "Твер"
+ KAR_STATE_247: "Твері"
  STATE_248: "Ярославль"
  STATE_249: "Казань"
  STATE_250: "Симбірськ"
@@ -694,10 +707,7 @@
  STATE_329: "Танну-Урянхай"
  QIN_STATE_329: "Хайляндао Нутан" # (?)
  CHI_STATE_329: "Хайляндао Нутан" # (?)
- STATE_330: "Зовнішня Монґолія"
- QIN_STATE_330: "Вай Менґу"
- MON_STATE_330: "Монґолія"
- TAN_STATE_330: "Монґолія"
+ STATE_330: "Халха"
  STATE_331: "Ньюфаундленд"
  STATE_332: "Лабрадорське узбережжя"
  STATE_333: "Саравак"
@@ -782,7 +792,7 @@
  STATE_396: "Індіана"
  STATE_397: "Кострома"
  STATE_398: "Перм"
- STATE_399: "Іжевськ"
+ STATE_399: "Прикам'я"
  STATE_400: "Вятка"
  STATE_401: "Покровськ"
  STATE_402: "Турґай"
@@ -1005,6 +1015,8 @@
  #UKR_STATE_562: "Peremyshl"
  #WUK_STATE_562: "Peremyshl"
  STATE_563: "Чита"
+ MON_STATE_563:0 "Dauriya" # (!)
+ MEN_STATE_563:0 "Dauriya" # (!)
  STATE_564: "Верхньоудинськ"
  STATE_565: "Дагестан"
  STATE_566: "Іркутськ"
@@ -1067,7 +1079,8 @@
  XKC_STATE_589: "Вайсібей" #外西北
  KHM_STATE_589: "Вайсібей" #外西北
  QZC_STATE_589: "Вайсібей" #外西北
- STATE_590: "Букеєвська орда" # Букеєвськ в АЛ
+ STATE_590: "Букей"
+ #KAZ_STATE_590: "Bökei"
  STATE_591: "Цюн'я" #瓊崖
  STATE_592: "Ґуанчжоу" #廣州
  STATE_593: "Ґуандун" #廣東
@@ -1122,6 +1135,7 @@
  STATE_610: "Ченде" #承德
  STATE_611: "Коубей" #口北
  STATE_612: "Шилін-Ґол" #Шилийн Гол/錫林郭勒
+ QIN_STATE_612:0 "Zhangyuan" # (!) #張垣
  STATE_613: "Шанхай" #上海
  STATE_614: "Баодін" #保定
  STATE_615: "Шаньсі" #山西
@@ -1133,6 +1147,8 @@
  KUM_STATE_619: "Кумул"
  ETS_STATE_619: "Кумул"
  MON_STATE_619: "Кумул"
+ MEN_STATE_619: "Кумул"
+ BYA_STATE_619: "Кумул"
  STATE_620: "Хубей" #湖北
  STATE_621: "Суйюань"
  QIN_STATE_622: "Шеньбей" #陕北
@@ -1149,11 +1165,20 @@
  STATE_631: "Атол Мідуей"
  STATE_632: "Острів Уейк"
  STATE_633: "Маршаллові острови"
- #GER_STATE_633: "Marshallinseln"
- #OST_STATE_633: "Marshallinseln"
+ #GER_STATE_633: "Marshall-Inseln"
+ #OST_STATE_633: "Marshall-Inseln"
  STATE_634: "Соломонові острови"
+ #GER_STATE_634: "Salomon-Inseln"
+ #OST_STATE_634: "Salomon-Inseln"
+ #FRA_STATE_634: "Îles Salomon"
  STATE_635: "Нова Каледонія"
+ #FRA_STATE_635: "Nouvelle-Calédonie"
+ #GER_STATE_635: "Neu-Kaledonien"
+ #OST_STATE_635: "Neu-Kaledonien"
  STATE_636: "Фіджі"
+ #FRA_STATE_636: "Fidji"
+ #GER_STATE_636: "Fidschi"
+ #OST_STATE_636: "Fidschi"
  STATE_637: "Камчатка"
  STATE_638: "Ґуам"
  STATE_639: "Острови Ґілберта"
@@ -1164,8 +1189,8 @@
  STATE_644: "Північно-Східний Сибір"
  STATE_645: "Іото"
  STATE_646: "Маріанські острови"
- GER_STATE_646: "Маріани"
- OST_STATE_646: "Маріани"
+ #GER_STATE_646: "Marianen-Inseln"
+ #OST_STATE_646: "Marianen-Inseln"
  STATE_647: "Палау"
  STATE_648: "Острів Маркуса"
  JAP_STATE_648: "Мінаміторішіма"
@@ -1222,8 +1247,8 @@
  STATE_682: "Острів Принца Едварда"
  STATE_683: "Північна Манітоба"
  STATE_684: "Каролінські острови"
- GER_STATE_684: "Кароліни"
- OST_STATE_684: "Кароліни"
+ #GER_STATE_684: "Karolinen-Inseln"
+ #OST_STATE_684: "Karolinen-Inseln"
  STATE_685: "Зона Панамського каналу"
  STATE_686: "Пуерто-Ріко"
  USA_STATE_686: "Порто-Ріко"
@@ -1913,7 +1938,7 @@
  UBD_STATE_1015: "Сувалькен"
  STATE_1016: "Сюйхай" #徐海
  STATE_1017: "Дрогічин"
- RUS_STATE_1017: "Дрохічин"
+ RUS_STATE_1017: "Дроґічин"
  LIT_STATE_1017: "Дрогічінас"
  BLR_STATE_1017: "Дарагічин"
  STATE_1018: "Чаталджа"
@@ -2210,10 +2235,13 @@
  GER_STATE_1200: "Зюдмерен"
  STATE_1201: "Радом"
  STATE_1202: "Пьотркув"
+ RUS_STATE_1202: "Пєтроков"
  GER_STATE_1202: "Петрикау"
  STATE_1203: "Ломжа"
+ #RUS_STATE_1203: "Lomzha"
  GER_STATE_1203: "Ломша"
  STATE_1204: "Влоцлавек"
+ #RUS_STATE_1204: "Vlotslavek"
  GER_STATE_1204: "Леслау"
  STATE_1205: "Приморська Чорногорія"
  #MNT_STATE_1205: "Primorje Crne Gore"
@@ -2257,7 +2285,6 @@
  STATE_1220: "Чамдо"
  QIN_STATE_1220: "Чанду"
  CHI_STATE_1220: "Чанду"
- STATE_1221: "Чамдо"
  STATE_1221:0 "Lualaba District"
  BEL_STATE_1221:0 "District de Lualaba"
  FRA_STATE_1221:0 "District de Lualaba"
@@ -2272,6 +2299,37 @@
  ITA_STATE_1225: "Коріца"
  SER_STATE_1225:0 "Goritsa" # (!)
  FRA_STATE_1225: "Коріца"
+ STATE_1226:0 "Hulunbuyuer" # (!)
+ MON_STATE_1226: "Хулун-Буїр"
+ MEN_STATE_1226: "Хулун-Буїр"
+ BYA_STATE_1226: "Хулун-Буїр"
+ STATE_1227:0 "Xuanhua" # (!) #宣化
+ STATE_1228: "Східна Халха" #喀爾喀東
+ QIN_STATE_1228:0 "Setsen" # (!)
+ MON_STATE_1228:0 "Setsen" # (!)
+ MEN_STATE_1228:0 "Setsen" # (!)
+ BYA_STATE_1228:0 "Setsen" # (!)
+ STATE_1229: "Західна Халха" #喀爾喀西
+ QIN_STATE_1229:0 "Jasaghtu" # (!)
+ MON_STATE_1229:0 "Jasaghtu" # (!)
+ MEN_STATE_1229:0 "Jasaghtu" # (!)
+ BYA_STATE_1229:0 "Jasaghtu" # (!)
+ STATE_1230: "Каттаро"
+ SER_STATE_1230: "Котор"
+ MNT_STATE_1230: "Котор"
+ CRO_STATE_1230: "Котор"
+ BOS_STATE_1230: "Котор"
+ GRE_STATE_1230:0 "Askrèvion" # (!)
+ STATE_1231: "Стародуб"
+ BLR_STATE_1231: "Старадуб"
+ STATE_1232: "В'язьма"
+ BLR_STATE_1232: "Вязьма"
+ STATE_1233: "Речиця"
+ #BLR_STATE_1233: "Rechytsa"
+ POL_STATE_1233: "Жечиця"
+ LIT_STATE_1233: "Речіца"
+ GER_STATE_1233: "Речіца"
+ UKR_STATE_1233: "Річиця"
 
  LEVGRAD_STATE: "Левград"
  LEVINSK_STATE: "Левинськ"
