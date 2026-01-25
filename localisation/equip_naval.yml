@@ -109,7 +109,6 @@
  SH_battleship_2:0 "Великий лінкор II"
  SH_battleship_1_desc:0 "У нинішньому стані світу більше немає місця для дотримання морських договорів. Без цих обмежень ми можемо повністю зосередитися на створенні найважчих, найкраще озброєних лінкорів усіх часів і народів, здатних вступати в бій з меншими суднами."
  SH_battleship_2_desc:0 "Удосконалення нашої більш ранньої надважкої конструкції з потужнішим озброєнням і поліпшеними системами управління вогнем."
- #ship_hull_super_heavy_1_desc: "The current state of the world no longer has any room for abiding by naval treaties. Without these limitations, we can focus entirely on creating the heaviest, most well-armed battleships of all time, able to engage multiple lesser vessels."
  ship_hull_torpedo_boat: "Торпедний катер"
  ship_hull_gunboat: "Пізня канонерка"
  ship_hull_light_1: "Ранній есмінець"

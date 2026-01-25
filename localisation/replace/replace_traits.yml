@@ -16,3 +16,4 @@
  nazi_sympathizer: "Прусський симпатик" # (&+?)
  duke_of_aosta: "Герцог Аости"
  CAS_manufacturer: "Конструктор штурмовиків" # vnl.
+ BLOCKADE_RUNNER_TRIGGER_TT:0 "Have a task force in combat where every ship in it has over 27 knots speed" # (!)

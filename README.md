@@ -103,6 +103,7 @@
 + `ww1_naval_classes`
 + `ww1_special_projects`
 + `ww1_units`
++ `RUS\ww1_russian_revolution`
 
 ### Папка `replace`
 + `replace_focus`

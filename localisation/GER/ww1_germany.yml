@@ -820,12 +820,13 @@
   ww1_germanrework.194.b:0 "Issue the ultimatum to Belgium."
 
   ww1_germanrework.195.t:0 "Belgium Rejects Ultimatum"
-  ww1_germanrework.195.d:0 "A formal reply has arrived from Brussels. King Albert I and the Belgian government have categorically rejected our ultimatum. Citing their nation's sovereignty and its guaranteed neutrality under the 1839 Treaty of London, they refuse to grant passage to any foreign army.\n\nTheir response is firm, stating they will defend their neutrality with all means at their disposal. This foolish pride will cost them dearly. The invasion must commence at once."
+  ww1_germanrework.195.d:0 "A formal reply has arrived from Brussels. King Albert and the Belgian government have categorically rejected our ultimatum. Citing their nation's sovereignty and its guaranteed neutrality under the 1839 Treaty of London, they refuse to grant passage to any foreign army.\n\nTheir response is firm, stating they will defend their neutrality with all means at their disposal. This foolish pride will cost them dearly. The invasion must commence at once."
   ww1_germanrework.195.a:0 "So be it."
 
   ww1_germanrework.196.t:0 "Passage Through Belgium Secured"
-  ww1_germanrework.196.d:0 "Our ambassador in Brussels reports that the Belgian government has yielded to our demands. Faced with the overwhelming might of the German Army and the promise of devastation, King Albert I has reluctantly agreed to grant our forces unimpeded passage through his country to strike at [FRA.GetNameDefCap].\n\nWhile they have submitted, their cooperation is born of duress, not friendship. Our forces must remain vigilant, but the strategic advantage is undeniable. The path to northern France lies open."
+  ww1_germanrework.196.d:0 "Our ambassador in Brussels reports that the Belgian government has yielded to our demands. Faced with the overwhelming might of the German Army and the promise of devastation, King Albert has reluctantly agreed to grant our forces unimpeded passage through his country to strike at [FRA.GetNameDefCap].\n\nWhile they have submitted, their cooperation is born of duress, not friendship. Our forces must remain vigilant, but the strategic advantage is undeniable. The path to northern France lies open."
   ww1_germanrework.196.a:0 "The plan proceeds perfectly."
+  BEL_granted_german_passage:0 "§YBelgium§! granted passage to §YGermany§!"
 
   ww1_germanrework.197.t:0 "The Netherlands Defies Us"
   ww1_germanrework.197.d:0 "A dispatch from The Hague has arrived. Despite our insistence, the government of the Netherlands has refused our request for military access. Their stubborn commitment to neutrality now stands firmly in the way of our operational plans. This defiance, while perhaps admirable to some, is an obstacle that must be dealt with."
@@ -1435,23 +1436,23 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_saving_germany: "Урятувати Німеччину"
   GER_saving_germany_desc: ""
   GER_sideline_the_admiralty: "Відсторонити адміралтейство"
-  GER_sideline_the_admiralty_desc: "Tirpitz and his cronies have interfered with foreign policy for too long. It should be easy to convince the Kaiser to expell him from the Naval Office." # (!)
+  GER_sideline_the_admiralty_desc: "Tirpitz and his cronies have interfered with foreign policy for too long. It should be easy to convince the Kaiser to expel him from the Naval Office." # (!)
   GER_the_kaisers_trip: "Кайзерова подорож"
   GER_the_kaisers_trip_desc: ""
   GER_nationalise_key_industries: "Націоналізувати ключові індустрії"
   GER_nationalise_key_industries_desc: ""
   GER_first_mobilisation_law: "Перший мобілізаційний закон"
-  GER_first_mobilisation_law_desc: "The German Army shall be further expanded, to prepare the nation in the event of a major conflict."
+  GER_first_mobilisation_law_desc: "The main focus may be on the Kaiserlich Marine but the Heer is just as crucial. therefore a mobilisation act shall be passed in the Reichstag." # (!)
   GER_country_and_steel: "Країна та сталь"
   GER_country_and_steel_desc: ""
   GER_second_mobilisation_law: "Черговий мобілізаційний закон"
-  GER_second_mobilisation_law_desc: ""
+  GER_second_mobilisation_law_desc: "The First Mobilisation Law has been greatly beneficial, but another one is needed to keep up with our rivals. The Russians alone field an army of over 1.3 million. The Heer must be expanded in response." # (!)
   GER_prussian_suffrage_hollweg: "Чергова спроба дати прусське виборче право" # (&+)
   GER_prussian_suffrage_hollweg_desc: "У Пруссії голосування побудоване на трикласовому виборчому праві, де виборці групуються за економічним класом, а не за географією чи населенням. Цю систему критикують СДПН та націонал-ліберали за сприяння багатим і за виборчий вік 25 років. Можливо, настав час реформувати цей закон?"
   GER_social_initatives: "Соціальні ініціативи"
   GER_social_initatives_desc: ""
   GER_approach_the_unions: "Підступити до профспілок"
-  GER_approach_the_unions_desc: ""
+  GER_approach_the_unions_desc: "At its most recent conferences the Second International has prioritised preventing war between the Great Powers, deeming such an event as being an attempt to pit workers each other on national lines. However, some trade unions and elements of the SPD disagree with this approach and have taken a more patriotic stance. The government shall negotiate a secret deal whereb the socialists will support the war effort by disavowing strikes, receiving generous concessions on issues such as pay and working conditions. It will be expensive but has the potential to disorient the socialist movement in the event war does break out." # (!)
   GER_out_with_bismarkism: "Геть бісмаркізм"
   GER_out_with_bismarkism_desc: ""
 
@@ -1974,7 +1975,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
 
  GER_supervize_belgium_focus_free: "Постійне посольство в Бельгії"
  GER_supervize_belgium_focus_free_desc: "Хоча Бельгія була звільнена, вона повинна залишатися під впливом імперії, щоб знову не потрапити під вплив своїх Французьких та Британських сусідів."
- GER_supervize_belgium_focus_puppet: "Зблизити державу [BEL.GetName]" # (&+)
+ GER_supervize_belgium_focus_puppet: "Зблизити державу [BEL.GetNonIdeologyName]" # (&+)
  GER_supervize_belgium_focus_puppet_desc: "Як передбачено у Вересневій програмі, Бельгія має бути сателітом Райху, підвладним нашій волі. Щоб забезпечити підпорядкування Бельгійців, їхня економіка має бути підкорена економіці імперії."
  GER_supervize_belgium: "[GER_supervize_belgium_focus_name]"
 
@@ -2259,3 +2260,5 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
 
  GER_schlieffen_plan_show_buffs:0 "Current War Plan" # (!)
  current_schlieffen_plan_buffs:0 "Current plan is §Y[GER_current_plan]§!, You will receive these §Gbonuses§! when it is launched:" # (!)
+
+ GER_idea_high_seas_fleet: "Флот відкритого моря"
