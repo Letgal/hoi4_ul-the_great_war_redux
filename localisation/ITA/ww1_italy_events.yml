@@ -2105,6 +2105,11 @@ unknown_lands_tt: "Після §Yвстановлення контролю§! н
  ww1_italy.456.t: "[FROM.GetName] приймає наші вимоги!"
  ww1_italy.456.d: "[FROM.GetName] погодилися на нашу вимогу відновити договори, які ми підписали з ними до початку громадянської війни та їхнього відступу від зобов’язань."
  ww1_italy.456.a: "Мудре рішення!"
+ ww1_italy.457.t:0 "Italian Invasion of Ethiopia" # (!)
+ ww1_italy.457.d:0 "Today, Italian forces have began an invasion of Ethiopia with the goal of conquering the nation. The government of [ITA.GetLeader] began the campaign as part of their imperialist ambitions in Africa and avenging their defeat in the 1895-1896 which humiliated Italy on the world stage. The Ethiopians are bravely fighting off the invasion with all their courage just like they previously did, but Italian military power may just overwhelm them this time. The world watches and wonders if Italy will be able to fulfill their African ambitions, or if they will be humiliated once again?" # (!)
+ ww1_italy.457.a:0 "Surely they'll win?" # (!)
+ ww1_italy.457.b:0 "This will be easy!" # (!)
+ ww1_italy.457.c:0 "We beat them once, and we'll do it again!" # (!)
 
 ######################################
 ############## TUTORIAL ##############
