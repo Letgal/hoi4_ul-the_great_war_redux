@@ -1506,7 +1506,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_fund_ag_weser: "Дати позики AG Weser"
   GER_fund_ag_weser_desc: "Заснована у 1872 році, AG Weser здебільшого будує судна для цивільного використання, але звернулася до нас із проханням про позику для будівництва нових військових кораблів. Надання цієї позики стане додатковим бонусом у гонці озброєнь."
   GER_gruss_an_kiel: "Gruß an Kiel"
-  GER_gruss_an_kiel_desc: ""
+  GER_gruss_an_kiel_desc: "The Kiel shipyards are a major player in the naval arms race. Tirpitz has asked for them to be expanded promptly!" # (!)
   GER_develop_light_cruisers: "Розробити легкі крейсери"
   GER_develop_light_cruisers_desc: "Легкі крейсери мають переваги захищених крейсерів, але вони швидші та краще оснащені, а також дешевші у будівництві. Потрібна нова партія, щоб не відставати від Королівського Флоту."
   GER_develop_seaplane_carriers: "Розробити гідроавіаносець"
@@ -1740,7 +1740,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_on_offensive: "Уже в наступі"
   GER_on_offensive_desc: ""
   GER_establish_elastic_defense_doctrine: "Заснувати доктрину гнучкої оборони" # (&?)
-  GER_establish_elastic_defense_doctrine_desc: ""
+  GER_establish_elastic_defense_doctrine_desc: "Instead of holding the line at all costs, it's better to implement a strategy of defence in depth, or elastic defence, where the force of the enemy attack is absorbed until they are weakened, leaving them vulnerable to counterattacks." # (!)
   GER_setup_the_kra: "Заснувати ВідВС" # Відділення воєнної сировини
   GER_setup_the_kra_desc: "Блокада Антанти загрожує «задушити» нашу військову машину. Ми повинні створити Kriegsrohstoffabteilung (RKA), або Відділення воєнної сировини (ВідВС), щоб узяти централізований контроль над усіма стратегічними ресурсами. Ця організація керуватиме запасами та знаходитиме замінники, забезпечуючи безперебійну роботу нашої промисловості."
   GER_establish_kingdom_of_poland: "Заснувати Королівство Польське"
