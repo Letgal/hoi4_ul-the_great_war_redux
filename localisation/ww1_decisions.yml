@@ -2233,7 +2233,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  TUR_economy_name_text:0 "§oОсманський зовнішній борг§!"
  TUR_economy_name_text2: "§d---------------------------------§!"
  TUR_economy_name_lira:0 "§vНаша поточна сума боргу:§!"
- UR_economy_name_lira2: "$MODIFIER_CONSUMER_GOODS_FACTOR$: [?opda_consumer_goods|.1%Y$]" #§Y[?opda_lira] Thousand Liras§!
+ TUR_economy_name_lira2: "Множник заводів на спож. товари: [?opda_consumer_goods|.1%Y$]" #§Y[?opda_lira] Thousand Liras§!
  TUR_economy_dissolved_name_lira2: "§Y*РОЗПУЩЕНО*§!"
  TUR_OPDA_TOOLTIP: "[TUR_OPDA_TOOLTIP]"
  TUR_OPDA_TOOLTIP1: "§Y$TUR_ottoman_public_debt_administration$§!\n\n$MODIFIER_POLITICAL_POWER_COST$: §R+0.05§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?opda_consumer_goods|.1%Y$]\n$MODIFIER_IMPROVE_RELATIONS_MAINTAIN_COST_FACTOR$: §G-10%§!\n$MODIFIER_MIN_EXPORT_FACTOR$: §Y+20%§!\n$MODIFIER_CIVILIAN_INTEL_TO_OTHERS$: §R+20.0%§!"
