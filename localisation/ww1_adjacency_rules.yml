@@ -1,7 +1,7 @@
 ﻿# == (*) ==
  PANAMA_CANAL_IS_NOT_BUILT: "Панамський канал не збудовано"
  MESSINA_STRAIT: "Мессінська протока"
- GULF_ADEN: "Аденська протока"
+ GULF_ADEN: "Баб-ель-Мандеб"
  MALACCA_STRAIT: "Малаккська протока"
  KAISER_WILHELM_KANAL: "Канал кайзера Вільгельма"
  CER_ROUTE: "Китайсько-Східна залізниця"
@@ -24,3 +24,5 @@
  LIMFJORD_STRAIT: "Лім-фйорд"
  WHITE_SEA_STRAIT: "Горло Білого моря"
  THAMES_ESTUARY: "Гирло Темзи"
+ ADAMS_BRIDGE:0 "Adam's Bridge" # (!)
+ ADAMS_BRIDGE_TT_NOT:0 "the shallow waters.\nLarger ocean-going vessels from the west have to navigate around Sri Lanka to reach India's eastern coast." # (!)

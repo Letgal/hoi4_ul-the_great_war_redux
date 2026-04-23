@@ -634,6 +634,8 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_pillage_hungary_desc: "Угорщина слабка. Роздерта Тріаноном, вона стоїть самотньо проти зграї стерв’ятників, одним із яких є ми. Давайте попируемо на трупі в’язня народів."
  ROM_form_the_little_entente: "Формалізація Малої Антанти"
  ROM_form_the_little_entente_desc: "Формування Малої Антанти є ключовим заходом для захисту наших національних інтересів і забезпечення стабільності наших кордонів проти угорського ревізіонізму та потенційного відродження впливу Габсбургів в Австрії чи Угорщині. Об’єднавшись із Чехословаччиною, ми створимо єдиний фронт, присвячений збереженню територіальних надбань, що визначають наш післявоєнний суверенітет і забезпечують регіональний мир. Франція оголосила про підтримку нашого майбутнього альянсу, надаючи необхідні дипломатичні та безпекові гарантії. Цей союз є не лише пактом взаємної оборони, а й чіткою заявою, що ми будемо дотримуватися договорів і захищати баланс, встановлений після Великої війни, забезпечуючи нашу незалежність і стабільність у Східній Європі проти будь-яких сил, що намагаються його оскаржити."
+ ROM_ally_poland:0 "Ally Poland" # (!)
+ ROM_ally_poland_desc: ""
  ROM_anti_hungarian_propaganda: "Антиугорська пропаганда"
  ROM_anti_hungarian_propaganda_desc: "Наш обов’язок — протидіяти угорським спробам підірвати наш суверенітет і стабільність Східної Європи. Ми повідомимо нашому народу та західним союзникам, що угорський ревізіонізм становить явну загрозу кордонам, закріпленим Тріанонським договором. Прагнення Угорщини повернути Трансільванію є прямим викликом цілісності Великої Румунії, і ми представимо це як небезпеку не лише для нашої нації, а й для миру в усьому регіоні."
  ROM_retry_to_secure_banat: "Вимагати Західний Банат"
@@ -1682,6 +1684,13 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ww1_romania.212.t: "Hungarian Surrender" # (!)
  ww1_romania.212.d: "Hungary has given up on fighting the war any longer and has ceded most of their lands in Transylvania, which are rightfully ours. With this victory, our armies can return hoem and the integration of the new lands into the Romanian nation can begin." # (!)
  ww1_romania.212.a: "Transylvania has been liberated!" # (!)
+ ww1_romania.213.t:0 "Romania proposes an alliance" # (!)
+ ww1_romania.213.d:0 "Romania has came to us with an offer proposing to form an alliance with us so we can better defend ourselves in case of an invasion by a stronger nation." # (!)
+ ww1_romania.213.a:0 "Sure" # (!)
+ ww1_romania.213.b:0 "We don't need it" # (!)
+ ww1_romania.214.t:0 "[FROM.GetName] Accepted the Alliance" # (!)
+ ww1_romania.214.d:0 "The [FROM.GetAdjective] government accepted our proposal for mutual guarantees. This seemingly small treaty is a huge step in securing peace and stability in the balkans." # (!)
+ ww1_romania.214.a:0 "Great!" # (!)
 # EVENTS_END
 
 ## -- IDEAS -- ##

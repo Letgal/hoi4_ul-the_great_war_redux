@@ -49,6 +49,13 @@
  prussia_of_the_balkans_ww1_DESC:0 "As Bulgaria, own North Dobrudjia, Morava, Solun, and Tsargrad."
  our_place_in_the_rising_sun_NAME:0 "Our Place In The Rising Sun"
  our_place_in_the_rising_sun_DESC:0 "As Germany, capitulate Japan."
+ our_place_in_the_rising_sun_flag:0 "Has capitulated Japan as Germany"
+ no_road_through_belgium_NAME:0 "You Shall Not Pass!"
+ no_road_through_belgium_DESC:0 "As Belgium, survive the Great War wihout losing control of a single core state."
+ viva_il_re_NAME: "Viva il Re!"
+ viva_il_re_DESC:0 "As Italy, survive the communist civil war and restore permanent monarchic rule."
+ greatest_romania_NAME:0 "The Greatest Romania"
+ greatest_romania_DESC:0 "Own and control all states related to Greater Romania and have Hungary as a subject."
 
 ### СТАРИЙ ПЕРЕКЛАД ###
  how_happy_is_the_one_who_says_im_a_turk_NAME:0 "Який щасливий той, хто каже, що я турок"

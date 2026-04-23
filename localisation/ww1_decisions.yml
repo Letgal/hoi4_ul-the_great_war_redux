@@ -8969,6 +8969,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  JAP_cat_siberian_intervention:0 "Інтервенція в Сибір"
  JAP_take_northern_sakhalin:0 "Взяти Кіта-Карафуто"
  JAP_start_siberian_intervention:0 "Почати втручання в [FROM.GetName]"
+ JAP_send_manpower_to_siberia:0 "Надіслати робочу силу до [FROM.GetName]"
  JAP_send_rifles_to_siberia:0 "Надіслати гвинтівки [FROM.GetName]"
  JAP_end_siberian_intervention:0 "Закінчити втручання в [FROM.GetName]"
  JAP_soviet_japanese_war_timer:0 "Siberian Intervention Timeout"
@@ -9325,6 +9326,7 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  rejected_by_league_of_nations:0 "Було відхилено §4Лігою Націй§! протягом 365 днів"
  leave_the_league_of_nations:0 "Вийти з Ліги Націй"
  leave_the_league_of_nations_desc:0 "Ліга Націй — це лише ілюзія з хорошою метою, і це лише безпорадна організація, яка не має жодної фактичної влади примусити мир у світі. Все, що вони роблять, це гортати звіти, попивати каву та розважатися, зберігаючи колоніальний імперії зі збереженням своїх інтересів."
+ is_league_of_nations_member_tt_NOT: "Не є членом Ліги Націй"
  left_from_league_of_nations:0 "Вийшов із §4Ліги Націй§! протягом 365 днів"
  embargo_threatening_country:0 "Заклик до ембарго на [FROM.GetName]"
  embargo_threatening_country_desc:0 "Необхідно засудити [FROM.GetNameDef], який порушує світовий порядок і мир, і заборонити експорт військових матеріалів."
@@ -9536,6 +9538,7 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  NWA_raise_reserve_regiments:0 "Збільшити резервні полки"
 
  FRA_IND_shared_tree:0 "§YЦе дерево§! спільно використовується між §Y[FRA.getFlag]Франція§! та §Y[IND.getFlag]Індокитай§!."
+ IND_separatism: "Індокитайський сепаратизм"
  IND_gather_guns: "Зібрати рушниці"
  IND_prepare_equipment: "Підготувати оснащення"
  IND_train_partisans: "Тренувати партизанів"

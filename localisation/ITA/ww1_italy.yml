@@ -1337,7 +1337,7 @@
  ITA_raid_churches: "Рейди на церкви"
 
  ITA_prioritize_domestic_stability: "Уникнення кривавого конфлікту"
- ITA_prioritize_domestic_stability_desc: ""
+ ITA_prioritize_domestic_stability_desc:0 "Why should the Italian people bleed for the sake of others? its likely in the event of victory we may end up getting shortchanged in favour of other states anyway. Our economy would suffer by joining the fray, but neutrality is quite profitable!" # (!)
  ITA_prioritize_economic_growth: "Пріоритет економічного зростання"
  ITA_prioritize_economic_growth_desc: ""
 
@@ -1413,7 +1413,7 @@
  ITA_unify_all_sides_desc: ""
  ITA_war_powers2: "Коаліційний уряд"
  ITA_union_war_board: "Участь профспілок у мобілізації"
- ITA_union_war_board_desc: ""
+ ITA_union_war_board_desc:0 "Working with the trade unions will help greatly with mobilising a war economy, with unions promising to avoid going on strike and making sure key workers important to certain industries arent conscripted" # (!)
  ITA_soc_fire_faster2: "Місія §YВиснаження підтримки соціалістів§! спрацює на §Y15§! днів раніше"
  ITA_rad_fire_faster: "Місія §YВиснаження підтримки радикалів§! спрацює на §Y10§! днів раніше"
  ITA_all_fire_faster: "Місія §YВиснаження підтримки соціалістів§! спрацює на §Y5§! днів раніше\nМісія §YВиснаження підтримки радикалів§! спрацює на §Y5§! днів раніше\nМісія §YВиснаження підтримки лівих§! спрацює на §Y5§! днів раніше\nМісія §YВиснаження підтримки правих§! спрацює на §Y5§! днів раніше"
@@ -1536,7 +1536,7 @@
  ITA_combos_with_oppose_new_right: "Цей фокус §Cпоєднується§! з фокусом §Y$ITA_oppose_the_new_right$§!. Завершення обох відкриє наступне:"
  ITA_combos_with_catholic_rhetoric: "Цей фокус §Cпоєднується§! з фокусом §YПрийняти католицьку риторику§!. Завершення обох відкриє наступне:"
  ITA_national_syndicalism: "Корпоративна модель"
- ITA_national_syndicalism_desc: ""
+ ITA_national_syndicalism_desc:0 "In contrast to the Marxist idea of class struggle, corporatism emphasizes getting the classes to work together for the greater good, by having various interest groups represented in government." # (!)
  ITA_nationalize_healthcare: "Націоналізувати медичних постачальників"
  ITA_how_to_get_salandra_tt: "Щоб отримати §YАнтоніо Саландру§! як наступника §YДжованні Джолітті§!, ви повинні мати наступне:"
  ITA_sal_suces: "Король призначить §YАнтоніо Саландру§! сформувати новий уряд."
@@ -1576,7 +1576,7 @@
  ITA_church_collaboration: "Зв’язки з церквою"
  ITA_tiring_radical_support: "Згасаюча підтримка радикалів"
  ITA_church_as_tool_of_the_state: "Прийняти католицьку риторику"
- ITA_church_as_tool_of_the_state_desc: ""
+ ITA_church_as_tool_of_the_state_desc:0 "The Catholic Church has often spoken out on social issues, and emulating some of their talking points would help attract Catholic voters who are weary of the Radicals." # (!)
 
  ITA_modify_socialist_support_tt: "$RIGHT|=+0$ £ITA_socialist_faction_texticon §oСоціалістична§! підтримка в парламенті\n"
  ITA_socialist_split: "§oPSI§! перейшла під контроль §Qмаксималістів§!"

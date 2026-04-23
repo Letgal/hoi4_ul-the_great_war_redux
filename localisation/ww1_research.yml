@@ -42,7 +42,7 @@
  electric_railway: "Електрична залізниця"
  electric_railway_desc:0 "Електрифікація залізниць — це використання електроенергії для руху залізничного транспорту. Електроенергія зазвичай виробляється на великих і відносно ефективних електростанціях, передається до залізничної мережі та розподіляється між поїздами." # (@!)
  haber_process: "Процес Габера"
- haber_process_desc:0 "Процес Габера є основною промисловою процедурою виробництва аміаку." # (@!)
+ haber_process_desc:0 "The Haber process, developed by Fritz Haber and Carl Bosch, is the main industrial procedure for the production of ammonia. It converts atmospheric nitrogen to ammonia by a reaction with hydrogen using finely divided iron metal as a catalyst." # (!)
  advanced_oil_plant: "Удосконалений нафтопереробний завод"
  advanced_oil_plant_desc:0 "Нові експериментальні методи очищення, такі як гідроочищення, можуть бути використані у виробництві нафти для значного покращення кінцевого продукту." # (@!)
 

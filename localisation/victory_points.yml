@@ -653,14 +653,19 @@
  VICTORY_POINTS_12268: "Палембанґ"
  VICTORY_POINTS_12371: "Голландія"
  VICTORY_POINTS_7798: "Мелбурн"
+ GER_VICTORY_POINTS_7798:0 "Zeppelinburg"
  VICTORY_POINTS_12406: "Сідней"
+ GER_VICTORY_POINTS_12406:0 "Nietschheburg"
  VICTORY_POINTS_1652: "Перт"
+ GER_VICTORY_POINTS_1652:0 "Tirpitzburg"
  VICTORY_POINTS_7520: "Ньюкасл"
  VICTORY_POINTS_7564: "Брисбен"
+ GER_VICTORY_POINTS_7564:0 "Bernhardiburg"
  VICTORY_POINTS_7566: "Таунсвілл"
  VICTORY_POINTS_4520: "Кернз" # устал. Кернс
  VICTORY_POINTS_7669: "Палмерстон" # Renamed to Darwin by event ww1_australia.27 in 1911
  VICTORY_POINTS_12910: "Аделаїда"
+ GER_VICTORY_POINTS_12910:0 "Hindenburg"
  VICTORY_POINTS_1814: "Веллінґтон"
  VICTORY_POINTS_2197: "Крайстчерч"
  VICTORY_POINTS_2211: "Данедин"
@@ -711,52 +716,81 @@
  VICTORY_POINTS_10737: "Кабул"
  VICTORY_POINTS_4893: "Герат"
  VICTORY_POINTS_3957: "Вашинґтон"
+ GER_VICTORY_POINTS_3957:0 "New Berlin"
  VICTORY_POINTS_3878: "Нью-Йорк"
+ GER_VICTORY_POINTS_3878:0 "New Potsdam"
  VICTORY_POINTS_9450: "Чикаґо"
+ GER_VICTORY_POINTS_9450:0 "Schlauterhaus"
  VICTORY_POINTS_9814: "Лос-Анджелес"
+ JAP_VICTORY_POINTS_9814:0 "Yokohanjalee"
  VICTORY_POINTS_10337: "Г'юстон"
+ GER_VICTORY_POINTS_10337:0 "New Bremen"
  VICTORY_POINTS_788: "Норфолк"
  VICTORY_POINTS_853: "Фіникс"
+ MEX_VICTORY_POINTS_853:0 "Fénix"
  VICTORY_POINTS_1562: "Сан-Дієґо"
  VICTORY_POINTS_1595: "Індіанаполіс"
  VICTORY_POINTS_1690: "Спокен"
  VICTORY_POINTS_1747: "Репід-Сіті"
  VICTORY_POINTS_1770: "Де-Мойн"
+ GER_VICTORY_POINTS_1770:0 "Kaiser Bluffs"
  VICTORY_POINTS_1806: "Талса"
  VICTORY_POINTS_1827: "Денвер"
+ GER_VICTORY_POINTS_1827:0 "Denverburg"
  VICTORY_POINTS_1836: "Бісмарк"
  VICTORY_POINTS_1843: "Маямі"
+ TUR_VICTORY_POINTS_1843:0 "Paalahm Beach"
  VICTORY_POINTS_1866: "Міннеаполіс"
+ GER_VICTORY_POINTS_1866:0 "Heineapolis"
  VICTORY_POINTS_3960: "Даллас"
+ GER_VICTORY_POINTS_3960:0 "Kaiserkase"
  VICTORY_POINTS_4569: "Сент-Луїс"
+ GER_VICTORY_POINTS_4569:0 "Ach Looey"
  VICTORY_POINTS_4860: "Ґрейт-Фоллс"
  VICTORY_POINTS_4865: "Солт-Лейк-Сіті"
+ GER_VICTORY_POINTS_4865:0 "Salzkalenburg"
  VICTORY_POINTS_6696: "Луїсвілл"
  VICTORY_POINTS_6710: "Детройт"
+ GER_VICTORY_POINTS_6710:0 "Rausmit"
  VICTORY_POINTS_6732: "Бостон"
+ GER_VICTORY_POINTS_6732:0 "Kulturplatz"
  VICTORY_POINTS_6845: "Філаделфія"
+ GER_VICTORY_POINTS_6845:0 "Traumburg"
  VICTORY_POINTS_6855: "Колумбус"
+ GER_VICTORY_POINTS_6855:0 "Hohenzollern"
  VICTORY_POINTS_6890: "Клівленд"
+ GER_VICTORY_POINTS_6890:0 "Hindenburg"
  VICTORY_POINTS_7138: "Шарлотт"
  VICTORY_POINTS_7202: "Чарлзтон"
+ GER_VICTORY_POINTS_7202:0 "Karltown"
  VICTORY_POINTS_7315: "Сіеттл"
+ JAP_VICTORY_POINTS_7315:0 "Nagaseattle"
  VICTORY_POINTS_7480: "Мобіл"
  VICTORY_POINTS_7552: "Новий Орлеан"
+ GER_VICTORY_POINTS_7552:0 "New Hamborg"
  VICTORY_POINTS_9671: "Сан-Франциско"
+ JAP_VICTORY_POINTS_9671:0 "San Sisco"
  VICTORY_POINTS_9713: "Сакраменто"
  VICTORY_POINTS_10370: "Спринґфілд"
  VICTORY_POINTS_10717: "Канзас-Сіті"
+ GER_VICTORY_POINTS_10717:0 "Zweistein"
  VICTORY_POINTS_11654: "Баффало"
+ GER_VICTORY_POINTS_11654:0 "Kruppsburg"
  VICTORY_POINTS_11800: "Піттсбурґ"
  VICTORY_POINTS_3513: "Портленд"
+ JAP_VICTORY_POINTS_3513:0 "New Kobe"
  VICTORY_POINTS_12357: "Мілуокі"
+ GER_VICTORY_POINTS_12357:0 "Prosit"
  VICTORY_POINTS_12384: "Атланта"
  VICTORY_POINTS_12459: "Банґор"
  VICTORY_POINTS_12489: "Літтл-Рок"
+ GER_VICTORY_POINTS_12489:0 "Wienerschnitzelplatz"
  VICTORY_POINTS_12501: "Нешвілл"
  VICTORY_POINTS_12586: "Омага"
+ GER_VICTORY_POINTS_12586:0 "Omahoch"
  VICTORY_POINTS_12735: "Бірмінґгем"
  VICTORY_POINTS_12782: "Сан-Антоніо"
+ GER_VICTORY_POINTS_12782:0 "Nietzsche"
  VICTORY_POINTS_13090: "Уналашка"
  VICTORY_POINTS_13091: "Анкоридж" # фонет. Енкоридж
  VICTORY_POINTS_3778: "Оттава"
@@ -823,7 +857,6 @@
  VICTORY_POINTS_191: "Елізабетвіль"
  GER_VICTORY_POINTS_191: "Елізабетштадт"
  MAF_VICTORY_POINTS_191: "Елізабетштадт"
- VICTORY_POINTS_4515:0 "Tenke"
  VICTORY_POINTS_13413: "Леопольдвіль"
  GER_VICTORY_POINTS_13413: "Леопольдштадт"
  MAF_VICTORY_POINTS_13413: "Леопольдштадт"
@@ -949,6 +982,7 @@
  VICTORY_POINTS_9147: "Гапаранда"
  VICTORY_POINTS_9458: "Портсмут"
  VICTORY_POINTS_9832: "Провиденс"
+ GER_VICTORY_POINTS_9832:0 "Gottmituns"
  VICTORY_POINTS_9907: "Флоренція"
  ITA_VICTORY_POINTS_9907: "Фіренце"
  GER_VICTORY_POINTS_9907: "Фльоренц"
@@ -1024,6 +1058,7 @@
  VICTORY_POINTS_8057: "Кульякан"
  VICTORY_POINTS_10895: "Масатлан"
  VICTORY_POINTS_12736: "Ла-Пас"
+ AUS_VICTORY_POINTS_12736:0 "New Vienna"
  VICTORY_POINTS_10830: "Чіуауа"
  VICTORY_POINTS_1892: "Енсенада"
  VICTORY_POINTS_4908: "Ґуаймас"
@@ -1033,6 +1068,7 @@
  VICTORY_POINTS_12811: "П'єдрас-Неграс"
  VICTORY_POINTS_10730: "Акапулько-де-Хуарес"
  VICTORY_POINTS_10172: "Ґуадалахара"
+ GER_VICTORY_POINTS_10172:0 "Mackensenillo"
  VICTORY_POINTS_4887: "Морелія"
  VICTORY_POINTS_8032: "Мансанільйо"
  VICTORY_POINTS_12746: "Пуерто-Вальярта"
@@ -1370,6 +1406,7 @@
  VICTORY_POINTS_4740: "Вічито"
  VICTORY_POINTS_7834: "Топіка"
  VICTORY_POINTS_9616: "Бойсе"
+ GER_VICTORY_POINTS_9616:0 "Boy-Ed City"
  VICTORY_POINTS_9515: "Реґенсбурґ"
  VICTORY_POINTS_11234: "Великі Луки"
  VICTORY_POINTS_9098: "Луґа"
@@ -1644,7 +1681,7 @@
  VICTORY_POINTS_11371: "Слайґо"
  VICTORY_POINTS_385: "Лондондеррі"
  IRE_VICTORY_POINTS_385: "Деррі"
- VICTORY_POINTS_303: "Тулламор"
+ #VICTORY_POINTS_303: "Тулламор" #got replaced by Athone. Thanks Sussy!
  VICTORY_POINTS_11218: "Дамфріс"
  VICTORY_POINTS_11332: "Карлайл"
  VICTORY_POINTS_407: "Суонсі"
@@ -1686,6 +1723,7 @@
  VICTORY_POINTS_7912: "Джірен"
  VICTORY_POINTS_13244: "Ґамбела"
  VICTORY_POINTS_13246: "Кульякан"
+ GER_VICTORY_POINTS_13246:0 "Bertha"
  VICTORY_POINTS_8019: "Ябело"
  VICTORY_POINTS_13247: "Агуаскальєнтес"
  VICTORY_POINTS_10775: "Аусса"
@@ -2193,6 +2231,7 @@
  CRO_VICTORY_POINTS_11580: "Сріємська Мітровиця"
  VICTORY_POINTS_12755: "Мехіко"
  #MEX_VICTORY_POINTS_12755: "Ciudad de México"
+ GER_VICTORY_POINTS_12755:0 "Wilhelmsburg"
  VICTORY_POINTS_7973: "Saltillo" # (!)
  VICTORY_POINTS_10746: "Torreón" # (!)
  VICTORY_POINTS_13220: "Тустла-Ґутьєррес"
@@ -2353,6 +2392,7 @@
  BEL_VICTORY_POINTS_6504: "Камерейк"
  HOL_VICTORY_POINTS_6504: "Камерейк"
  VICTORY_POINTS_5005: "Ель-Мухаммара"
+ PER_VICTORY_POINTS_5005:0 "Khorramshahr"
  VICTORY_POINTS_10585: "Занзібар"
  VICTORY_POINTS_4609: "Решт"
  VICTORY_POINTS_11700: "Мелітополь"
@@ -2561,6 +2601,7 @@
  VICTORY_POINTS_11776: "Дейтон"
  VICTORY_POINTS_4601: "Цинциннаті"
  VICTORY_POINTS_9693: "Олбані"
+ GER_VICTORY_POINTS_9693:0 "Hyphenburg"
  VICTORY_POINTS_492: "Монтґомері"
  VICTORY_POINTS_1453: "Батон-Руж"
  VICTORY_POINTS_1352: "Топіка"
@@ -2572,13 +2613,16 @@
  VICTORY_POINTS_4518: "Fresno" # (!)
  VICTORY_POINTS_610: "Eureka" # (!)
  VICTORY_POINTS_7388: "Тампа"
+ TUR_VICTORY_POINTS_7388:0 "Constantinople Junction"
  VICTORY_POINTS_12381: "Джексонвілл"
+ TUR_VICTORY_POINTS_12381:0 "Bağdat Corners"
  VICTORY_POINTS_11975: "Саванна"
  VICTORY_POINTS_7118: "Оґаста"
  VICTORY_POINTS_10492: "Macon" # (!)
  VICTORY_POINTS_7012: "Columbia" # (!)
  VICTORY_POINTS_1132: "Вілмінґтон"
  VICTORY_POINTS_3823: "Ричмонд"
+ GER_VICTORY_POINTS_3823:0 "Strafeburg"
  VICTORY_POINTS_9864: "Atlantic City" # (!)
  VICTORY_POINTS_3897: "Scranton" # (!)
  VICTORY_POINTS_3687: "Erie" # (!)
@@ -2587,6 +2631,7 @@
  VICTORY_POINTS_6874: "Akron" # (!)
  VICTORY_POINTS_11669: "Bay City" # (!)
  VICTORY_POINTS_1734: "Дулут"
+ GER_VICTORY_POINTS_1734:0 "Hoch"
  VICTORY_POINTS_12312: "Рокфорд"
  VICTORY_POINTS_1527: "Peoria" # (!)
  VICTORY_POINTS_10478: "Davenport" # (!)
@@ -2606,15 +2651,19 @@
  VICTORY_POINTS_6971: "Гантинґтон"
  VICTORY_POINTS_9727: "Лексинґтон"
  VICTORY_POINTS_7797: "Мемфіс"
+ GER_VICTORY_POINTS_7797:0 "New Bingen"
  VICTORY_POINTS_7791: "Ноксвілл"
  VICTORY_POINTS_10909: "Чаттануґа"
  VICTORY_POINTS_5022: "Остін"
  VICTORY_POINTS_10740: "Ель-Пасо"
  VICTORY_POINTS_9920: "Fort Worth" # (!)
  VICTORY_POINTS_3834: "Тусон"
+ MEX_VICTORY_POINTS_3834:0 "Tucsón"
  VICTORY_POINTS_6699: "Stockton" # (!)
  VICTORY_POINTS_10422: "Ріно"
+ GER_VICTORY_POINTS_10422:0 "Wilhelmplatz"
  VICTORY_POINTS_10582: "Оґден"
+ GER_VICTORY_POINTS_10582:0 "Achdenn"
  VICTORY_POINTS_10588: "Колорадо-Спринґс"
  VICTORY_POINTS_4328: "Сейлем"
  VICTORY_POINTS_10687: "Walla Walla" # (!)
@@ -2625,6 +2674,7 @@
  SER_VICTORY_POINTS_12700: "Драч"
  ITA_VICTORY_POINTS_12700: "Дураццо"
  VICTORY_POINTS_1719: "Сент-Пол"
+ GER_VICTORY_POINTS_1719:0 "St. Karl"
  VICTORY_POINTS_3678: "Оукленд"
  VICTORY_POINTS_11900: "Камден"
  VICTORY_POINTS_10391: "St. Joseph" # (!)
@@ -2632,6 +2682,7 @@
  VICTORY_POINTS_9708: "Ютика"
  VICTORY_POINTS_12437: "Terry Haute" # (!)
  VICTORY_POINTS_4723: "Шеєнн"
+ GER_VICTORY_POINTS_4723:0 "Scheuenne"
  VICTORY_POINTS_3710: "Вустер"
  VICTORY_POINTS_3906: "Fall River" # (!)
  VICTORY_POINTS_6909: "New Haven" # (!)
@@ -2651,6 +2702,7 @@
  VICTORY_POINTS_6887: "Grand Junction" # (!)
  VICTORY_POINTS_12585: "Billings" # (!)
  VICTORY_POINTS_7779: "Гелена"
+ GER_VICTORY_POINTS_7779:0 "Heilener"
  VICTORY_POINTS_528: "Юджін"
  VICTORY_POINTS_10595: "Су-Фолз"
  VICTORY_POINTS_3699: "О-Клер"
@@ -2724,6 +2776,7 @@
  VICTORY_POINTS_12778: "Fort Smith" # (!)
  VICTORY_POINTS_7543: "Pine Bluff" # (!)
  VICTORY_POINTS_10410: "Jackson" # (!)
+ GER_VICTORY_POINTS_10410:0 "Gotterdammerungham"
  VICTORY_POINTS_12429: "Meridian" # (!)
  VICTORY_POINTS_1615: "Hattiesburg" # (!)
  VICTORY_POINTS_4653: "Greenville" # (!)
@@ -2794,6 +2847,7 @@
  HUN_VICTORY_POINTS_3649: "Resicabánya" # (!)
  SER_VICTORY_POINTS_3649: "Rešice" # (!)
  VICTORY_POINTS_8185: "Аннаполіс"
+ GER_VICTORY_POINTS_8185:0 "Heidelbergapolis"
  VICTORY_POINTS_9929: "Айдин"
  GRE_VICTORY_POINTS_9929: "Aidinio" # (!)
  VICTORY_POINTS_3876: "Испарта"
@@ -3135,6 +3189,7 @@
  VICTORY_POINTS_7254: "Бассейн"
  VICTORY_POINTS_1403: "Молам'яйн"
  VICTORY_POINTS_3208: "Кі-Уест"
+ TUR_VICTORY_POINTS_3208:0 "West Turkey"
  VICTORY_POINTS_3342: "Кілкенні"
  VICTORY_POINTS_3359: "Дандолк"
  VICTORY_POINTS_3242: "Ньюрі"
@@ -3405,6 +3460,16 @@
  VICTORY_POINTS_11604: "Люцерн" # Луцерн
  VICTORY_POINTS_9622: "La Chaux-de-Fonds" # (!)
  VICTORY_POINTS_11623: "Санкт-Ґаллен" # Занкт
+ VICTORY_POINTS_3414: "Брунтал"
+ AUS_VICTORY_POINTS_3414:0 "Freudenthal" # (!)
+ GER_VICTORY_POINTS_3414:0 "Freudenthal" # (!)
+ VICTORY_POINTS_6590: "Новий Їчін"
+ GER_VICTORY_POINTS_6590:0 "Neutitschein" # (!)
+ AUS_VICTORY_POINTS_6590:0 "Neutitschein" # (!)
+ VICTORY_POINTS_6690:0 "Baden" # (!) #Baden bei Wien
+ VICTORY_POINTS_421:0 "Rýmařov" # (!)
+ AUS_VICTORY_POINTS_421:0 "Römerstadt" # (!)
+ GER_VICTORY_POINTS_421:0 "Römerstadt" # (!)
  VICTORY_POINTS_6236: "Landsberg an der Warthe" # (!)
  POL_VICTORY_POINTS_6236: "Ґожув"
  VICTORY_POINTS_11415: "Котбус"
@@ -3858,7 +3923,6 @@
  VICTORY_POINTS_4400:0 "Sarapul" # (!)
  VICTORY_POINTS_1543:0 "Irbit" # (!)
  VICTORY_POINTS_12216:0 "Kungur" # (!)
- VICTORY_POINTS_12216:0 "Kungur" # (!)
  VICTORY_POINTS_12106:0 "Shadrinsk" # (!)
  VICTORY_POINTS_291:0 "Birsk" # (!)
  BSK_VICTORY_POINTS_291:0 "Börö" # (!)
@@ -3943,11 +4007,23 @@
  VICTORY_POINTS_6483: "Дрогобич"
  #POL_VICTORY_POINTS_6431: "Drohobycz"
  #AUS_VICTORY_POINTS_6431: "Drohobytsch"
- #GER_VICTORY_POINTS_6483: "Drohobytsch"
+ #GER_VICTORY_POINTS_6431: "Drohobytsch"
  VICTORY_POINTS_6483: "Стрий"
  #POL_VICTORY_POINTS_6483: "Stryj"
  #AUS_VICTORY_POINTS_6483: "Stryj"
  #GER_VICTORY_POINTS_6483: "Stryj"
+ VICTORY_POINTS_3423:0 "Bingen am Rhein" # (!)
+ FRA_VICTORY_POINTS_3423:0 "Bingen-sur-Rhin" # (!)
+ VICTORY_POINTS_1736:0 "Butte" # (!)
+ GER_VICTORY_POINTS_1736:0 "Von Papen" # (!)
+ VICTORY_POINTS_704:0 "St. Pölten" # (!)
+ VICTORY_POINTS_6552:0 "Krems an der Donau" # (!)
+ VICTORY_POINTS_11651:0 "Amstetten" # (!)
+ VICTORY_POINTS_5283: "Крумау"
+ CZE_VICTORY_POINTS_5283: "Чеський Крумлов"
+ VICTORY_POINTS_11432: "Ауссиґ"
+ CZE_VICTORY_POINTS_11432: "Усті-над-Лабем"
+ VICTORY_POINTS_12895:0 "Zabol" # (!)
 
  PETROGRAD_PROV: "Petrograd"
  LENINGRAD_PROV: "Leningrad"
