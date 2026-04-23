@@ -1904,9 +1904,9 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  SER_integrated_count:0 "У вас є інтегровані §Y[?SER_integrated_nations]§! країни."
 
  SER_form_yugoslavia_desc:0 "Для того, щоб нас визнали материнською нацією югославів, ми повинні переконатися, що приймаємо якомога більше народів, щоб отримати міжнародний авторитет."
- SER_form_yugoslavia2:0 "Форма £ww1_game_rule_flag_YUG Югославія"
+ SER_form_yugoslavia2:0 "Форма Югославія"
  SER_asked_us_to_merge:0 "Вже запитали про об'єднання"
- SER_yugoslavia_formed:0 "£ww1_game_rule_flag_YUG Югославія утворена"
+ SER_yugoslavia_formed: "§YЮгославію§! було утворено\n"
 
  SER_form_the_general_staff:0 "Сформувати Генеральний штаб"
  SER_recall_old_officers:0 "Відкликати старих офіцерів"

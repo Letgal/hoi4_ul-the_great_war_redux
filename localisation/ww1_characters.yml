@@ -2640,11 +2640,11 @@
  HOL_albert_copes_van_hasselt:0 "Albert Copes van Hasselt"
  HOL_cornelis_snijders:0 "Cornelis Snijders"
  HOL_nicolaas_bosboom:0 "Nicolaas Bosboom"
- HOL_p_forbes_wels:0 "P. Forbes Wels"
- HOL_jean_rambonnet:0 "Jean Rambonnet"
+ HOL_mda_forbes_wels:0 "M.D.A. Forbes Wels" #Marcus Daniël Aalbert Forbes Wels
+ HOL_jean_rambonnet:0 "Jean Jacques Rambonnet"
  HOL_willem_naudin_ten_cate:0 "Willem Naudin ten Cate"
  HOL_gustaaf_van_hecking_colenbrander:0 "Gustaaf van Hecking Colenbrander"
- HOL_eduard_elias_dullemond:0 "Eduard Dullemond"
+ HOL_eduard_elias_dullemond:0 "Eduard Elias Dullemond"
  HOL_fritz_bauduind:0 "Fritz Bauduind"
  HOL_herman_van_karnebeek:0 "Herman van Karnebeek"
  HOL_pieter_cort_van_der_linden: "Пітер Корт ван дер Лінден"
@@ -2665,13 +2665,9 @@
  HOL_david_wijnkoop:0 "David Wijnkoop"
  HOL_hubertus_van_mook:0 "Hubertus Van Mook"
  HOL_j_ramaer:0 "J. Ramaer"
- HOL_murk_boerstra:0 "Murk Boerstra"
- HOL_gerardus_berenschot:0 "Gerardus Berenschot"
- HOL_ludolph_van_oyen:0 "Ludolph van Oyen"
  HOL_lukman_dan_sardjono:0 "Lukman dan Sardjono"
  HOL_suryono_suripno:0 "Suryono Suripno"
  HOL_ruskak:0 "Ruskak"
- HOL_tan_malaka:0 "Tan Malaka"
  HOL_theo_heemskerk: "Тео Геемскерк" # Теодорюс
  HOL_pieter_jelles_troelstra:0 "Pieter Jelles Troelstra"
  HOL_harm_kolthek:0 "Harm Kolthek"
@@ -2685,10 +2681,7 @@
  HOL_willem_august_henri_doorman:0 "Willem Doorman"
  HOL_adiraan_loenard_klerk_de_reus:0 "Adriaan Klerk de Reus"
  HOL_prince_hendrik:0 "Hendrik van Mecklenburg-Schwerin"
- HOL_abraham_george_ellis:0 "Abraham George Ellis"
  HOL_jan_wentholt:0 "Jan Wentholt"
- HOL_jacob_roell:0 "Jacob Röell"
- HOL_william_cohen_stuart:0 "William Cohen Stuart"
  HOL_cornelis_lely: "Корнеліс Лелі"
  HOL_willem_iv:0 "Willem IV"
 
@@ -2786,7 +2779,7 @@
 
 ### PERSIA ###
  PER_ahmad_shah_qajar: "Ахмад-шах Каджар"
- PER_reza_khan:0 "Reza Khan Pahlavi"
+ PER_reza_khan:0 "Reza Khan"
  PER_abdollah_amir_tahmasebi:0 "Abdollah Amir Tahmasebi"
  PER_karim_buzarjomehri:0 "Karim Buzarjomehri"
  PER_mohammad_taqi_pessian:0 "Mohammad Taqi Pessian"

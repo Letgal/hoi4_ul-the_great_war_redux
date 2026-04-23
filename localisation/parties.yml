@@ -534,8 +534,8 @@
 
  #AUS_neutrality_party:0 "Haus Habsburg"
  #AUS_neutrality_party_long:0 "Haus Habsburg-Lothringen"
- #AUS_democratic_party:0 "SDAPÖ"
- #AUS_democratic_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs"
+ #AUS_democratic_party:0 "SDAP"
+ #AUS_democratic_party_long:0 "Sozialdemokratische Arbeiterpartei"
  #AUS_christian_social_party:0 "CS"
  #AUS_christian_social_party_long:0 "Christlichsoziale Partei"
  #AUS_communism_party:0 "Linksradikale"
@@ -2539,8 +2539,8 @@
 
  AUS_neutrality_party:0 "Дім Габсбурґів"
  AUS_neutrality_party_long:0 "Дім Габсбурґів-Лотаринзьких"
- AUS_democratic_party:0 "СДРПА"
- AUS_democratic_party_long:0 "Соціал-Демократична Робітнича Партія Австрії"
+ AUS_democratic_party:0 "СДРП"
+ AUS_democratic_party_long:0 "Соціал-Демократична Робітнича Партія"
  AUS_christian_social_party:0 "ХСП"
  AUS_christian_social_party_long:0 "Християнська Соціальна Партія"
  AUS_communism_party:0 "Радикальні Ліві"

@@ -1295,6 +1295,8 @@
  ITA_machine_gun_equipment_1: "Fiat-Revelli Mod. 1914"
  ITA_machine_gun_equipment_1_short: "Fiat Mod. 14
 
+ BEL_infantry_equipment_n1: "Comblain M1870"
+ BEL_infantry_equipment_n1_short: "Comblain M1870"
  BEL_infantry_equipment_0:0 "Comblain M1882"
  BEL_infantry_equipment_0_short:0 "Comblain M1882"
  BEL_infantry_equipment_1:0 "Mauser M1889"
@@ -1448,6 +1450,8 @@
  BUL_infantry_equipment_3:0 "Bergmann MP18"
  BUL_infantry_equipment_3_short:0 "MP18"
 
+ BRA_infantry_equipment_n1: "Comblain M1873"
+ BRA_infantry_equipment_n1_short: "Comblain M1873"
  BRA_infantry_equipment_0:0 "Itajuba Mauser Model 1894"
  BRA_infantry_equipment_0_short:0 "Mauser M1894"
  BRA_infantry_equipment_1:0 "Itajuba Mauser Model 1908"
@@ -1495,6 +1499,8 @@
  SWI_infantry_equipment_3:0 "SIG MP18"
  SWI_infantry_equipment_3_short:0 "SIG MP18"
 
+ PER_infantry_equipment_n1: "Comblain M1881"
+ PER_infantry_equipment_n1_short: "Comblain M1881"
  PER_infantry_equipment_0:0 "Mauser M1887"
  PER_infantry_equipment_0_short:0 "Mauser M1887"
  PER_infantry_equipment_1:0 "Mosin-Nagant M1891"
@@ -1729,6 +1735,8 @@
  HBC_infantry_equipment_3:0 "Bergmann MP18"
  HBC_infantry_equipment_3_short:0 "MP18"
 
+ CHL_infantry_equipment_n1: "Comblain M1874"
+ CHL_infantry_equipment_n1_short: "Comblain M1874"
  CHL_infantry_equipment_0:0 "Mauser 1895"
  CHL_infantry_equipment_0_short:0 "Mauser 1895"
  CHL_infantry_equipment_1:0 "Mauser 1898"
@@ -1737,6 +1745,12 @@
  CHL_infantry_equipment_2_short:0 "Steyr MP18"
  CHL_infantry_equipment_3:0 "Maxim 02"
  CHL_infantry_equipment_3_short:0 "Maxim 02"
+
+ BOL_infantry_equipment_n1: "Comblain M1870"
+ BOL_infantry_equipment_n1_short: "Comblain M1870"
+
+ PRU_infantry_equipment_n1: "Comblain M1870"
+ PRU_infantry_equipment_n1_short: "Comblain M1870"
 
  AFG_infantry_equipment_n1: "Jezail"
 

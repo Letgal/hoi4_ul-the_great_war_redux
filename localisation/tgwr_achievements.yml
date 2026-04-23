@@ -56,6 +56,15 @@
  viva_il_re_DESC:0 "As Italy, survive the communist civil war and restore permanent monarchic rule."
  greatest_romania_NAME:0 "The Greatest Romania"
  greatest_romania_DESC:0 "Own and control all states related to Greater Romania and have Hungary as a subject."
+ liberation_day_NAME:0 "Liberation Day"
+ liberation_day_DESC:0 "As Italy, apply all possible tariffs from the \"Moderate Protectionism\" branch."
+ has_liberation_day_ACHIEVEMENT_tt:0 "Has applied all tariffs (Currently [?ITA_total_tariffs])"
+ ultimate_balancing_act_NAME:0 "The Ultimate Balancing Act"
+ ultimate_balancing_act_DESC:0 "As Italy, have Giolitti in power, have the Reformists win the PSI conference and form the Liberal Union."
+ libya_with_a_side_of_greek_NAME:0 "A Bite of Libya and a Side of Greek"
+ libya_with_a_side_of_greek_DESC:0 "As Italy, conquer Libya, the Dodecanese and Rhodes from the Ottomans."
+ cadornas_italy_NAME:0 "Cadorna's Italy"
+ cadornas_italy_DESC:0 "As Italy, have Luigi Cadorna lead a Military Dictatorship."
 
 ### СТАРИЙ ПЕРЕКЛАД ###
  how_happy_is_the_one_who_says_im_a_turk_NAME:0 "Який щасливий той, хто каже, що я турок"

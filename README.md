@@ -96,3 +96,4 @@
 + [x] `replace_unit_medals`
 + [ ] `replace_wtt_decisions` — (збер. ст. пер.)
 + [x] `replace_WUW_focus`
++ [ ] ~~`ww1_lend_lease_name_change`~~
