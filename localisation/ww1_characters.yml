@@ -3624,7 +3624,7 @@
  SWE_fredrik_von_otter:0 "Fredrik von Otter"
  SWE_johan_ramstedt:0 "Johan Ramstedt"
  SWE_christian_lundeberg:0 "Christian Lundeberg"
- SWE_karl_staaff:0 "Karl Staaff"
+ SWE_karl_staaff: "Карль Стаафф" # Стофф?
  SWE_hjalmar_hammarskjold: "Яльмар Гаммаршьольд"
  SWE_carl_swartz:0 "Carl Swartz"
  SWE_nils_eden:0 "Nils Edén"
