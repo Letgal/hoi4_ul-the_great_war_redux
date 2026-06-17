@@ -23,7 +23,6 @@
  ITA_reparations_to_war: "Репарації Османам"
  ITA_invest_in_southern_states: "Інвестувати в [FROM.GetName]"
  ITA_spread_unions_down_south: "Поширити профспілки на південь"
- ITA_reparations_to_war2: "Воєнні репарації від Італії"
  ITA_francesco_coal_and_energy_law: "Закон про вугілля та енергетику"
  ITA_francesco_coal_and_energy_law_desc: ""
  ITA_army_preperations: "Підготовка до війни в Лівії"
@@ -148,7 +147,7 @@
  ITA_sack_cadorna: "Звільнити Кадорну"
  ITA_sack_cadorna_desc: "Кадорна виявився некомпетентним командувачем, який не здатен керувати армією. Його жорстокі стратегії коштували нам багатьох життів і техніки та серйозно підірвали наші воєнні зусилля. Його буде усунуто з посади, а замість нього призначено Армандо Діаца."
  ITA_an_army_of_trust: "Формувати армію довіри"
- ITA_an_army_of_trust_desc: ""
+ ITA_an_army_of_trust_desc: "Cadorna was a ruthless paranoid who instituted a widespread feeling of mistrust amongst the high command. If we are to claim victory, this must stop. We will restore officer autonomy and once again value skill above blind loyalty." # (!)
  ITA_hearten_morale: "Підняти бойовий дух"
  ITA_hearten_morale_desc:0 "Armaments and manpower mean nothing if morale is low. The army must know what they fight for and why." # (!)
  ITA_update_tactical_norms: "Оновити тактичні настанови"
@@ -196,7 +195,7 @@
  ITA_southern_question_idea: "Південне питання"
  ITA_southern_question_idea_desc: "Південна Італія значно відстала від індустріалізованої півночі через десятиліття урядового нехтування. Уряди минулого ігнорували економічні та соціальні потреби півдня, зосереджуючись на розвитку півночі — це проявлялось у високих тарифах і мізерних інвестиціях в інфраструктуру півдня. Хоча експлуатація півдня приносить вигоду промисловості півночі, вона призвела до масової еміграції, особливо до Америки."
  ITA_let_our_star_power_shine: "Нехай засяє наша зіркова сила"
- ITA_let_our_star_power_shine_desc: ""
+ ITA_let_our_star_power_shine_desc: "Luzzati might not be the most shrewd politician, but no one can deny him being universally respected as an economist. We shall use our prime minister's expertise to draw more prominent economists to our government and use their knowledge to modernize our financial system." # (!)
  ITA_southern_debt_plam: "Націоналізувати борг півдня"
  ITA_southern_debt_plam_desc: "Величезний борг, що паралізує південні провінції, — це не просто регіональна проблема, а загальнонаціональна криза. Щоб досягти справжньої єдності та розкрити економічний потенціал Меццоджорно, держава повинна втрутитись. Ми візьмемо на себе цей борг — сміливий крок, який стабілізує південь і повністю інтегрує його в національну економіку."
  ITA_cooling_of_employer_worker_relations: "Безкомпромісний лібералізм"
@@ -302,7 +301,7 @@
  ITA_produce_lower_quality_flour: "Виробляти борошно нижчої якості"
  ITA_issue_war_bonds_d: "Випустити військові облігації"
  ITA_take_on_debt: "Взяти на себе борг"
- ITA_take_on_debt_desc: ""
+ ITA_take_on_debt_desc: "Our previous measures have not been enough and we budget more for the war effort. It had been our last option, but we'll start to take loans from allies to sustain our economy until the war ends. We can only hope the war ends soon, or we'll have to look forward to a mountain of debt after it." # (!)
  ITA_war_score_red: "§R[?ITA_percieved_usefulness]§!"
  ITA_war_score_orange: "§O[?ITA_percieved_usefulness]§!"
  ITA_war_score_light_orange: "§9[?ITA_percieved_usefulness]§!"
@@ -415,7 +414,7 @@
  ITA_trasformismo_focus: "Трасформізм"
  ITA_trasformismo_focus_desc: "Трасформізм — найвідоміший і найсуперечливіший інструмент Джолітті. Це процес крайньої політичної гнучкості — союз із будь-ким, від радикальних соціалістів до ревних католицьких консерваторів, якщо це політично вигідно. Коаліція Джолітті рідко буває стабільною, і хоча дехто називає це опортунізмом, сам Джолітті вважає це політичною зрілістю."
  ITA_increase_taxes_focus: "Підвищити податки"
- ITA_increase_taxes_focus_desc: ""
+ ITA_increase_taxes_focus_desc: "Our government has been implementing several new reforms, but our budget is far from endless. It won't be popular with the people, but we must implement higher taxes to afford current and future reforms." # (!)
  ITA_universal_suffrage: "Запропонувати загальне виборче право"
  ITA_universal_suffrage_desc: "Прогресивна коаліція повинна без проблем провести законопроєкт про загальне виборче право через парламент, якщо ми зуміємо домовитись із центристськими лівими. Його ухвалення стане величезним досягненням — варто спробувати."
  ITA_male_suffrage: "Запропонувати загальне чоловіче виборче право"
@@ -431,7 +430,7 @@
  ITA_nationalist_journalist: "Націоналістичний журналіст"
  ITA_harass_anti_war_news_papers: "Переслідувати антивоєнні газети"
  ITA_increase_agricultural_subsidies: "Збільшити аграрні субсидії"
- ITA_increase_agricultural_subsidies_desc: ""
+ ITA_increase_agricultural_subsidies_desc: "While certainly not enough to solve all of the south's many problems, implementing some subsidies for the many farmers in the south will surely do some good and will hopefully reduce the amount of people leaving Italy every year due to the rural poverty." # (!)
  ITA_walk_down_south: "Підготуватись до походу на південь"
  ITA_walk_down_south_desc: "Османська Триполітанія, або Лівія, вже кілька десятиліть перебуває в полі нашої уваги. Після того як французи відібрали у нас Туніс, а британці відмовились ділитись Східною Африкою, Лівія стала очевидним напрямком для розширення колоніальної імперії. Там уже живуть тисячі італійців, а місцеві жителі з нетерпінням чекають на визволення."
  ITA_nationalized_insurance: "Istituto Nazionale Delle Assicurazioni"
@@ -486,7 +485,7 @@
  ITA_loans_to_the_south: "Кредити для півдня"
  ITA_loans_to_the_south_desc: "Щедрі кредити місцевим урядам на півдні можуть допомогти їм наздогнати північ. Працюймо над затвердженням щедрих кредитних програм для них."
  ITA_lipservice_to_unions: "Віддати перевагу робітникам над роботодавцями"
- ITA_lipservice_to_unions_desc: ""
+ ITA_lipservice_to_unions_desc: "There is no better way to win over socialist support and to ensure they remain a moderate and reasonable opposition than give them some concessions. Sure it will anger some on the right, but keeping the socialist willing to negotiate with us will be better for our government in the long term." # (!)
  ITA_non_intervention_in_strikes: "Невтручання у страйки"
  ITA_non_intervention_in_strikes_desc:0 "Deploying troops to deal with striking workers would push people towards the extreme left, while siding with them would lead to voters thinking wer're soft on socialism. A position of neutrality is the most practical solution." # (!)
  ITA_begin_army_reforms: "[ITA_army_name_thing]"
@@ -542,7 +541,7 @@
  ITA_fall_of_the_great_desc: "Політична система Трасформізму, заснована на створенні гнучких центристських коаліцій, перетворилась на джерело цинічного патронажу та парламентського паралічу. Угоди укладаються заради особистої вигоди, а не національного блага, залишаючи глибокі розділення в Італії невирішеними. Такий застій сприяє корупції та загальному розчаруванню, дозволяючи радикальним ідеологіям набирати силу."
 
  ITA_radicals_in_power: "Шанс для радикалів"
- ITA_radicals_in_power_desc: ""
+ ITA_radicals_in_power_desc: "The Italian Radical Party has always been one of the main political forces representing left-wing progressivism in Italy. Thanks to the formation of the leftist union and Giolitti's support, we can form a new government focused on improving civil rights and social justice." # (!)
  ITA_separation_of_church_and_state: "Повне відокремлення церкви від держави"
  ITA_separation_of_church_and_state_desc:0 "The Catholic Church holds large influence over many aspects of our nation including our government institutions and politics. This must change, and we should move towards the complete separation of church and state and eliminate the political influence of the church." # (!)
 
@@ -576,7 +575,7 @@
  ITA_local_socialist_revolts: "Локальні соціалістичні повстання"
  ITA_crush_revolutionaries_decisions: "Боротися з революціонерами"
  ITA_fight_the_revolution: "Боротися з революцією"
- ITA_fight_the_revolution_desc: ""
+ ITA_fight_the_revolution_desc: "Disaster! The socialists have seized upon our moment of weakness and are taking their chance to spread their vile ideology to all corners of Italy. We must rally the army and the people around the flag and the king. Italy shall never fall to socialism as long as there are loyal men willing to fight for all we hold sacred." # (!)
  ITA_purge_the_revolutionary_traitors: "Очистити революційних зрадників"
  ITA_purge_the_revolutionary_traitors_desc: ""
  ITA_crackdowns_in_cities: "Придушення в містах"
@@ -606,23 +605,23 @@
  ITA_restore_civil_liberties: "Відновити громадянські свободи"
  ITA_restore_civil_liberties_desc: ""
  ITA_recover_from_the_civil_war: "Відновлюватися після громадянської війни"
- ITA_recover_from_the_civil_war_desc: ""
+ ITA_recover_from_the_civil_war_desc: "These past months of fighting have pitted brother against brother and have splintered Italian society. While peace may have returned, there are many scars of the fighting left, some of which might take decades if not longer to truly heal, but now all we can do is try to rebuild and ensure a tragedy like this never happens again." # (!)
  ITA_rebuilding_the_nation_idea_monarchist: "Відбудова нації"
  ITA_disband_the_militias: "Розпустити міліції"
- ITA_disband_the_militias_desc: ""
+ ITA_disband_the_militias_desc: "The men who volunteered to fight for us during our darkest hours are a shining example of loyalty and patriotism, but the fighting is done, and it's time they put down their rifles and were allowed to return to their farms and families where they are most needed so they can serve Italy both in war and peace." # (!)
  ITA_repair_cities: "Відремонтувати міста"
  ITA_repair_cities_desc: "Багато міст сильно постраждали від масштабних руйнувань під час громадянської війни, з численними будівлями, зруйнованими вщент, та інфраструктурою в занепаді, оскільки ці міста були бастіонами революційної справи й зазнали запеклих боїв. Ці міста життєво важливі для нашої економіки, і їх відновлення має стати нашим найвищим пріоритетом, якщо ми прагнемо відбудувати економіку."
  ITA_reparing_city_infrastructure: "Відновлення міської інфраструктури"
  ITA_empower_the_king: "Посилити короля"
- ITA_empower_the_king_desc: ""
+ ITA_empower_the_king_desc: "The war is over, but Italy lies in ruins and now the last man with any remaining support and legitimacy is the king. While Victor Emmanuel has never been a man prone to involving himself in politics or asserting his royal prerogatives, it seems fate has decided it for him. For the foreseeable future, a non-partisan royal government will lead the reconstruction of the nation." # (!)
  ITA_utilize_the_power_of_the_royal_decree: "Використовувати силу королівських указів"
- ITA_utilize_the_power_of_the_royal_decree_desc: ""
+ ITA_utilize_the_power_of_the_royal_decree_desc: "With parliament being dismissed and with the political climate being far too polarized for any election to be called, it seems the only way a semblance of normal governance can return is to use the power of royal decree to put the government back in working order." # (!)
  ITA_royal_decree_on_extremism: "Королівський указ про екстремізм"
  ITA_unlock_focus_crackdown_on_extremists: "§GРозблоковує§! фокус '§YПридушення екстремістів§!'."
  ITA_spread_monarchist_propaganda: "Поширювати монархістську пропаганду"
- ITA_spread_monarchist_propaganda_desc: ""
+ ITA_spread_monarchist_propaganda_desc: "The monarchy is now the only hope of Italy, it must transform from simply an institution or a person into a symbol that all of our people can look up to and admire. Our new propaganda will portray Victor Emmanuel as a caring father of the nation and an enlightened despot like the great monarchs of the past centuries." # (!)
  ITA_crackdown_on_extremists: "Придушення екстремістів"
- ITA_crackdown_on_extremists_desc: ""
+ ITA_crackdown_on_extremists_desc: "Despite the recent bloodshed of the civil war, there are still men, both on the left and the right clamoring for more of it and trying to spark another uprising. We can't have a repeat of the tragedy. These agitators will be dealt with before they can once again bring ruin to our nation." # (!)
  ITA_can_do_crackdown_extremists: "Завершено £decision_icon_small '§YКоролівський указ про екстремізм§!'"
  ITA_nationalism_and_monarchism: "Оживити італійський націоналізм"
  ITA_nationalism_and_monarchism_desc: ""
@@ -642,7 +641,7 @@
  ITA_negotiations_with_entente: "Переговори з Антантою"
  ITA_negotiations_with_entente_desc: "Хоча формально ми є союзниками Берліна та Відня, ми можемо отримати набагато більше, приєднавшись до війни на боці Антанти. Дипломати вирушать до Лондона, щоб дізнатися, на які поступки вони готові піти." 
  ITA_salandra: "Консервативне відродження"
- ITA_salandra_desc: ""
+ ITA_salandra_desc: "Thanks to the ever-growing participation of catholics in electoral politics and the support of Giolitti himself, the conservative faction in parliament has been able to form a new government led by Antonio Salandra that aims to foster traditional values and nationalism." # (!)
  ITA_unity_through_nationalism: "Захисник традиційних цінностей"
  ITA_unity_through_nationalism_desc: "Джолітті, хоча й дуже шанована людина, яка робила все можливе, була надто відкритою до соціальних реформ зліва. Ми мусимо захищати консервативні цінності та запобігати ерозії того, що робить нашу країну великою."
  ITA_the_gears_of_war: "Очистити від іржі шестерні війни"
@@ -650,14 +649,14 @@
  ITA_subsidize_shipping: "Субсидувати судноплавство"
  ITA_subsidize_shipping_desc:0 "A merchant marine is vital for the surival of Italy during war. The war industry's endless hunger for resources must be met no matter what." # (!)
  ITA_local_government_reforms: "Проводити відповідальні урядові реформи"
- ITA_local_government_reforms_desc: ""
+ ITA_local_government_reforms_desc: "The past years have seen a steady rise in government spending by the liberals. This is simply unsustainable, and we will take the measures needed to solve this issue before it gets out of control." # (!)
  ITA_undersecretariat_for_arms: "Підсекретаріат з озброєнь"
- ITA_undersecretariat_for_arms_desc: ""
+ ITA_undersecretariat_for_arms_desc: "General Alfredo Dallolio has, since the start of our war in Libya, been responsible for successfully organizing the supply of our troops. To mobilize our war industry, we are offering him lead of the newly created Undersecretariat for Arms and Munitions. Essentially, we will give him more power over his specialty, troop supply." # (!)
  ITA_the_bulwark_of_italy: "Допомогти латіфундистам"
  ITA_destroy_latifondisti: "Знищити латіфундистів"
- ITA_the_bulwark_of_italy_desc:0 "The Latifondisti have excercised a stranglehold on southern agriculture since the Middle Ages. Italy will remain backwards unless their estates are broken up!" # (!)
+ ITA_the_bulwark_of_italy_desc: "The Latifondisti are one of our most important supporters and are key to our government's long-term stability. We must aid them against any attempt at curbing their power and influence, as well as blocking any attempt at land reform in parliament is key to that." # (!)
  ITA_integrate_nationalist_groups: "Інтегрувати націоналістичні групи"
- ITA_integrate_nationalist_groups_desc: ""
+ ITA_integrate_nationalist_groups_desc: "Nationalists had been at odds with the Giolitti government, but now that Italy is led by a conservative and patriotic government, it won't be too hard to draw those men back towards more moderate politics." # (!)
  ITA_savari: "Заснувати саварі"
  ITA_askari_troops: "Набрати аскарі"
  ITA_askari_troops_desc: "Щоб утримувати наші колонії під контролем, ми маємо адаптуватися до них. Буде сформований новий верблюжий корпус, щоб ми могли краще охороняти та захищати наші колонії."
@@ -670,12 +669,12 @@
  ITA_fund_breda: "Фінансувати Товариство Ернесто Бреда"
  ITA_fund_breda_desc: ""
  ITA_develop_military_industry: "Інвестувати в виробників озброєнь"
- ITA_develop_military_industry_desc: ""
+ ITA_develop_military_industry_desc: "Thanks to Giolitti's rapid industrialization, our war industry has significantly improved over the last decade, but it still is not enough. For example, military hardware production is still catching up. To address this issue, we will diversify already existing manufacturers and develop them into bigger complexes to have a more organic and stable major supplier." # (!)
  ITA_cavalry_reform: "Вершники Альп"
  ITA_cavalry_reform_desc:0 "While not ideal for cavalry, mounted infantry could play a key role in the mountains, enabling our troops to outflank the enemy." # (!)
  ITA_distance_from_giolitti: "Відстань від Джолітті"
  ITA_consensus_of_the_divided: "Консенсус розділених"
- ITA_consensus_of_the_divided_desc: ""
+ ITA_consensus_of_the_divided_desc: "The fall of Giolitti and the lack of any clear majority in parliament has led to the return of former prime minister Sidney Sonnino, who, as a widely respected man and moderate conservative, is considered an acceptable candidate by most of the parliament." # (!)
  ITA_land_reform_in_the_south: "Земельна реформа на півдні"
  ITA_land_reform_in_the_south_desc: ""
  ITA_align_with_the_reformist_socialists: "Суміснитися з реформістськими соціалістами"
@@ -683,11 +682,11 @@
  ITA_align_with_the_liberals: "Суміснитися з лібералами"
  ITA_align_with_the_liberals_desc:0 "There are some more liberal groups in Italy who support many of the social reforms that our government is passing. We should request for their support and align ourselves more with them as they could offer valuable help." # (!)
  ITA_continue_progress_of_the_first_reforms: "Продовжити прогрес перших реформ"
- ITA_continue_progress_of_the_first_reforms_desc: ""
+ ITA_continue_progress_of_the_first_reforms_desc: "Sonnino has always been a man that values financial responsibility. His new government will take a series of measures to strengthen the economy in the long term and prepare Italy for future financial troubles it may face." # (!)
  ITA_combat_nationalist_agitators: "Боротися з націоналістичними агітаторами"
- ITA_combat_nationalist_agitators_desc: ""
+ ITA_combat_nationalist_agitators_desc: "There is no bigger Italian nationalist than prime minister Sonnino himself, but these men don't seek to aid Italy, her people, government or success, they are simple violent agitators grasping at a vain attempt at power. This is simply unacceptable, and we will deal with this malcontents without delay or hesitation." # (!)
  ITA_create_a_plan_for_the_south: "Створити план для півдня"
- ITA_create_a_plan_for_the_south_desc: ""
+ ITA_create_a_plan_for_the_south_desc: "Sonnino's first government fell because of his radical plan to transform southern Italy, but now that he has a stable government, he can begin the process of aiding the southern farmers and relieving the widespread poverty." # (!)
  ITA_push_back_against_the_church: "Протистояти церкві"
  ITA_push_back_against_the_church_desc: "Католицька церква була затятим противником єдиної Італії, повністю відкидаючи легітимність нашого уряду. Можливо, настав час піти стопами французів та ухвалити закони, подібні до тих, що були прийняті у 1905 році."
  ITA_utilize_public_works: "Використовувати громадські роботи"
@@ -737,7 +736,7 @@
  ITA_invite_southern_labourers_desc: "На Півдні є багато селян, які працюють на фермах, та багато безробітних робітників, яким не завадила б нова робота. З огляду на зростання військової промисловості на Півночі, нам потрібно більше працівників для фабрик, і ми можемо залучити цих робітників із Півдня."
  ITA_mass_shell_produciton: "Масове виробництво снарядів"
  ITA_electronical_tech_in_warfare: "Електронна технологія у війні"
- ITA_new_research_facilities_desc: ""
+ ITA_new_research_facilities_desc: "Times are changing and warfare is not what it used to be. New research facilities are already being planned. If we wish to enter prepared, in meantime, our main focus should be gas warfare, which is still completely unknown to us." # (!)
  ITA_bersaglieri_focus: "Переорганізовувати берсальєрі"
  ITA_bersaglieri_focus_desc: "Берсальєрі — це елітні солдати італійської армії, які навчені як стрільці, що можуть швидко пересуватися з місця на місце. Ми маємо переорганізовувати батальйони берсальєрі, щоб покращити їхню бойову ефективність."
  ITA_love_daggie: "§YРоудс§! буде передано нам після нашої перемоги."
@@ -762,7 +761,7 @@
  ITA_a_world_class_shipbuilding_industry: "Світова верфова промисловість"
  ITA_a_world_class_shipbuilding_industry_desc: "Наші верфі росли й росли роками, зрештою перевершивши деякі з найсильніших морських держав. Невдовзі розростаючі флоти замовлятимуть у нас оснащення своїх ескадр. Коли той день настане, ми справді закріпимо нашу морську спадщину на роки вперед."
  ITA_strongholds_in_the_mediterranean: "Опорні пункти в Середземномор'ї"
- ITA_strongholds_in_the_mediterranean_desc: ""
+ ITA_strongholds_in_the_mediterranean_desc: "Many faces in the navy claim our Mediterranean bases, especially ones on islands, are in a concerning lack of basic defences. Along with their defences, our bases in the corners of the Mediterranean, must be upgraded to maximise the naval dominance we so wish to establish." # (!)
  ITA_new_naval_innovations: "Нові морські інновації"
  ITA_new_naval_innovations_desc: "Деякі флоти мають присутність, яка просто надто грандіозна, щоб перевершити її без років інвестицій у наші верфі. Однак ми можемо забезпечити технологічну перевагу в будь-якій сутичці, яка може статися."
  ITA_expand_the_light_ship_fleet: "Розширити флот легких кораблів"
@@ -842,7 +841,7 @@
  ITA_confront_vienna_desc: "Під час Боснійської кризи Австрія отримала від нас підтримку в обмін на територіальну компенсацію в іншому місці. Настав час змусити Відень виконати свою обіцянку."
  ITA_the_great_war_redux: "Велика війна"
  communist_theorist_2: "Комуністичний теоретик"
- ITA_the_great_war_redux_desc: ""
+ ITA_the_great_war_redux_desc: "The great war we had been preparing for in recent years is finally upon us. It seems clear this war won't be like any other war in history. If we truly intend to emerge victorious, we will need to mobilize all our resources to achieve this, even if it takes us to the brink of collapse. Avanti Savoia!" # (!)
  ITA_testing_the_waters: "Перевіряти води"
  ITA_testing_the_waters_desc:0 "With Austria's attention diverted elswehere, Albania lies vulnerable. Seizing islands off the Albanian coast could help gauge the international reaction to a full scale takeover of the entire country." # (!)
  ITA_occupy_valore: "Окупація Валлони"
@@ -855,18 +854,18 @@
  ITA_implement_strict_rationing: "Запровадити суворе нормирування"
  ITA_implement_strict_rationing_desc: ""
  ITA_issue_war_bonds: "Видавати воєнні облігації"
- ITA_issue_war_bonds_desc: ""
+ ITA_issue_war_bonds_desc: "We shall start a program of war bonds to get some fast liquidity to fuel the war effort. We'll, of course, have to repay them after the war, but it will be much less dangerous for our economy than taking on foreign loans." # (!)
  ITA_restrict_the_press: "Обмежити пресу"
  ITA_restrict_the_press_desc:0 "Some of the press has been against our entry into the Great War, writing news articles criticizing the government and the the war effort. This negative attitude cannot be tolerated while a war is going on, and as such we will use our powers to restrict the press." # (!)
  ITA_enforce_social_cohesion: "Забезпечити соціальну згуртованість"
  ITA_enforce_social_cohesion_desc: ""
  ITA_war_propaganda: "Воєнна пропаганда"
  ITA_establish_mobilitazione_industriale: "Створити мобілізацію промисловості"
- ITA_establish_mobilitazione_industriale_desc: ""
+ ITA_establish_mobilitazione_industriale_desc: "Despite our previous mobilization efforts, our industry is still lacking the coordination we need for our war industry. It will be expensive and likely take several months until our industry has fully adjusted itself to our new demands, but it's still a necessary process to undertake." # (!)
  ITA_intervene_in_labor_relations: "Втрутитися в трудові відносини"
- ITA_intervene_in_labor_relations_desc: ""
+ ITA_intervene_in_labor_relations_desc: "We are open to cooperating with the unions, but that does not mean we'll allow them to foster domestic agitation against the war effort. We'll coordinate with the unions friendly to our government in an effort to marginalize the radical socialists and keep the support of the workers in this most critical time." # (!)
  ITA_socialist_economics: "Соціалістична економіка"
- ITA_socialist_economics_desc: ""
+ ITA_socialist_economics_desc: "The strains of war have made something clear: We need all the Italian industry at our disposition to win this war. We shall institute "war socialism" and enact price controls and fully take over food distribution and domestic industry. These measures will allow us to take full control of all the resources in the country and to better organize and utilize them for our aims." # (!)
  ITA_expand_carabinieri: "Суворі дисциплінарні заходи"
  ITA_expand_carabinieri_desc: "Дисципліна в нашій армії надзвичайно важлива, оскільки без дисципліни наша армія розпадеться в бою, а солдати будуть надзвичайно деморалізовані. Ми мусимо запровадити деякі дисциплінарні заходи, які можуть здаватися суворими, але вони необхідні."
  ITA_fund_new_coal_mines: "Фінансувати нові вугільні шахти"
@@ -874,62 +873,62 @@
  ITA_solve_the_import_crsis: "Розв'язати кризу імпорту"
  ITA_solve_the_import_crsis_desc: ""
  ITA_combat_defeatism: "Боротися з поразництвом"
- ITA_combat_defeatism_desc: ""
+ ITA_combat_defeatism_desc: "The horrors of the war are leaving big scars on the hearts and minds of our nation. To combat this all-too-common problem, we will improve conditions for soldiers, rebuild morale by relaxing forced discipline and intensify propaganda. The main point we wish to achieve with this, is to make people realize this is not a war of unnecessary expansion, but a defensive war of survival." # (!)
  ITA_intimidate_labour_unions: "Запугувати трудові спілки"
  ITA_intimidate_labour_unions_desc:0 "The unions have been a thorn in the government's side for years." # (!)
 
  ITA_like_father_like_son: "Як батько, так і син"
  ITA_like_father_like_son_desc:0 "It seems history has repeated itself, For Victor Emmanuel has embraced the same autocratic tendencies of his father, albeit reluctantly. His patience with the Italian Parliament has apparently worn thin, for now he essentially rules by decree." # (!)
  ITA_the_new_normal: "Поважати нову норму"
- ITA_the_new_normal_desc: ""
+ ITA_the_new_normal_desc: "Pollio has shown himself more reasonable and willing to work with parliament than was expected of him. After long negotiations and several assurances were made, he has managed to form a coalition of right liberals, Catholic nationalists." # (!)
  ITA_a_firm_hand: "Слава старих днів"
- ITA_a_firm_hand_desc: ""
+ ITA_a_firm_hand_desc: "Parliament was already divided after the fall of Giolitti's government, and they had not taken the king's intervention kindly. Without any workable coalition being possible, it seems the return of military rule is inevitable." # (!)
  ITA_murder_the_leader_of_the_cgl: "Вбити лідера CGL"
  ITA_murder_the_leader_of_the_cgl_desc: ""
  ITA_utilize_the_ani: "Використовувати ANI"
- ITA_utilize_the_ani_desc: ""
+ ITA_utilize_the_ani_desc: "Despite being seen with suspicion by many in our government, the ANI shares many of our same goals and values. We will offer them positions in our government to ensure we can unite all rightists and nationalists behind our government." # (!)
  ITA_parliamentry_dictatorship: "Парламентська диктатура"
- ITA_parliamentry_dictatorship_desc: ""
+ ITA_parliamentry_dictatorship_desc: "While being far from popular in parliament, prime minister Pollio has managed to form a coalition of nationalists and more hardline conservatives around him. And while this isn't enough to form a parliamentary majority, it does give our government some direly needed legitimacy." # (!)
  ITA_form_the_nationalist_block: "Сформувати націоналістичний блок"
- ITA_form_the_nationalist_block_desc: ""
+ ITA_form_the_nationalist_block_desc: "Now that we have secured the support of the hardline conservatives, the ANI and other nationalists, we can unify these groups from a tenuous coalition into a united nationalist bloc and stop the tide of liberalism and socialism." # (!)
  ITA_mobilize_the_public: "Мобілізувати громадськість"
- ITA_mobilize_the_public_desc: ""
+ ITA_mobilize_the_public_desc: "Despite our efforts to achieve stability and legitimacy for our government, we have thus far failed to sway public opinion to our side. We can't allow the mob to become a threat to Italy's stability. We will launch campaigns of nationalist propaganda to ensure our ideals are spread to the population." # (!)
  ITA_on_the_unions_neck: "На шиї профспілок"
- ITA_on_the_unions_neck_desc: ""
+ ITA_on_the_unions_neck_desc: "The CGL is the largest and thus the most dangerous labor union in the country. They have been a thorn in our side since Pollio assumed office. We will take the necessary measures to ensure the current leadership is dealt with and that the new one will be much more cooperative with our government." # (!)
  ITA_a_militarized_society: "Мілітаризоване суспільство"
- ITA_a_militarized_society_desc: ""
+ ITA_a_militarized_society_desc: "We have taken the first steps towards making Italy great again despite the efforts of our many domestic enemies. The next step in our goal is restoring the prestige of the army and creating a militarist cult like that in the other great nations throughout history." # (!)
  ITA_rule_through_decree: "Правити через указ"
- ITA_rule_through_decree_desc: ""
+ ITA_rule_through_decree_desc: "Parliament is rotten to the core. Any attempt at working them has been a failure, so we will fight fire with fire and remind them we don't need them. The only man our government needs for support is the King, and Pollio has his full confidence, so he won't have a problem with using the power of decree as many times as it's needed for our government to function properly." # (!)
  ITA_above_political_parties: "Понад політичними партіями"
- ITA_above_political_parties_desc: ""
+ ITA_above_political_parties_desc: "Our government is an extension of the king's will and thus above reproach and certainly above political parties, but it seems many so-called "conservatives" do not understand this. They will either fall in line and stand behind us or we will consider them enemies like any other liberal or socialist." # (!)
  ITA_strangle_the_corporations: "Задушити корпорації"
- ITA_strangle_the_corporations_desc: ""
+ ITA_strangle_the_corporations_desc: "Many of Italy's great corporations have not welcomed our government's increasing authoritarianism and tendency to intervene in all parts of society, but we can't allow them to stand against us. We will give them a simple ultimatum. They will either work for us or they will be nationalized and taken over." # (!)
  ITA_first_anti_socialist_law: "Регулювати соціалізм в Італії"
- ITA_first_anti_socialist_law_desc: ""
+ ITA_first_anti_socialist_law_desc: "The very fact that the PSI is allowed to operate openly is an affront to Italian honor and morality that came about because of cynical liberal governments. Now that Italy is led by a true conservative, we will finally deal with them permanently, although some in our government believe this could have disastrous consequences and that we should simply clamp down on revolutionary socialists." # (!)
  ITA_conservative_financial_reforms: "Консервативні фінансові реформи"
- ITA_conservative_financial_reforms_desc: ""
+ ITA_conservative_financial_reforms_desc: "For too long, Italy has been led by financially irresponsible liberals. This reckless spending must cease at once before we fall into financial ruin. Austerity and privatization are what Italy needs to revitalize her economy." # (!)
  ITA_the_bread_basket_of_italy: "Хлібний кошик Італії"
- ITA_the_bread_basket_of_italy_desc: ""
+ ITA_the_bread_basket_of_italy_desc: "The south has been the traditional breadbasket of Italy but in recent years it has fallen short of meeting our agricultural demands and, with war in the air, that's simply not something we will accept. We will take the measures needed to ensure they meet our needs for any future conflict." # (!)
  ITA_moderate_the_unions: "Пом'якшити профспілки"
- ITA_moderate_the_unions_desc: ""
+ ITA_moderate_the_unions_desc: "The unions are here to stay and that's a fact we must accept. What we can't accept is them being an extension of the PSI and a front for socialist agitators. We will promote non-socialist unions and subtly undermine the socialist ones." # (!)
  ITA_more_freedom_of_speech_news: "Терпити критику уряду"
  ITA_catholic_education: "Католицька освіта"
- ITA_catholic_education_desc: ""
+ ITA_catholic_education_desc: "Italian politicians have been hostile to the church since the very foundation of our nation, but now that Italy is led by a true conservative, this can finally stop. We will extend an olive branch to the church by enshrining Catholic values in our education system." # (!)
  ITA_quid_pro_quo_with_the_army: "Quid pro quo з армією"
- ITA_quid_pro_quo_with_the_army_desc: ""
+ ITA_quid_pro_quo_with_the_army_desc: "Pollio is a general first and politician second. Now that such a man is in charge of our nation, he will ensure the army gets the funding and respect it deserves and that it has long been owed." # (!)
  ITA_national_defense_law: "Закон про національну оборону"
- ITA_national_defense_law_desc: ""
+ ITA_national_defense_law_desc: "The growing tensions throughout Europe are clear: War is coming. We will pass the necessary laws and make whatever changes are needed to ensure Italy is ready to fight when destiny calls her to arms." # (!)
  ITA_cut_welfare_programs: "Скоротити програми соціального забезпечення"
- ITA_cut_welfare_programs_desc: ""
+ ITA_cut_welfare_programs_desc: "All these welfare policies and laws are only leading Italy towards socialism. We must restore the proper relationship between the state and the people. Besides, these cuts in spending will surely be good for our economy." # (!)
  ITA_supremacy_in_the_balkans: "Верховенство на Балканах"
- ITA_supremacy_in_the_balkans_desc: ""
+ ITA_supremacy_in_the_balkans_desc: "Albania is currently, barely holding its head above the water. With almost no control over its lands, in constant revolts, it is in the perfect state and location for our expansionist goals. We should mop this up fast while we can, as the world lately feels like... on the razor's edge." # (!)
  ITA_levrage_our_neutrality: "Використати нашу нейтральність"
  ITA_levrage_our_neutrality_desc: ""
  ITA_eyes_on_east_africa: "Очі на Східну Африку"
  ITA_eyes_on_east_africa_desc: "У травні 1889 року ми підписали юридичний договір з Ефіопією, який зробив би їх нашим протекторатом і заблокував би їх від представництва без нашого нагляду; однак імператор Менелік не погодився і денонсував договір у 1893 році. Ми вторглися через два роки і зазнали невдачі через некомпетентність вищого командування. Це вже не 19 століття; з реформованим вищим командуванням та досвідом у Лівії ефіопська пригода буде швидкою!"
  ITA_eyes_on_east_africa.tt: "\nАнтанта §Rне схвалить§! цього!"
  ITA_the_glory_in_suffering: "Слава в стражданні"
- ITA_the_glory_in_suffering_desc: ""
+ ITA_the_glory_in_suffering_desc: "The people won't like it, but we should start seizing valuable assets from the people and liquidating them to fund our war effort. It will be painful in the short term, but instituting more radical measures could cause irreparable damage to Italian industry and society" # (!)
  ITA_seek_emergency_powers: "Шукати надзвичайні повноваження"
  ITA_seek_emergency_powers_desc: ""
  ITA_destiny_arrives_all_the_same: "Доля приходить все одно"
@@ -943,9 +942,9 @@
 
  ITA_tide_of_progress_tt: "Зверніть увагу на місію §YХвиля прогресу§!. Якщо ми не виконаємо її вимоги, наш уряд майже гарантовано §Rрозпадеться§!"
  ITA_postpone_farmers_debts: "Відкласти платежі за боргами фермерів"
- ITA_postpone_farmers_debts_desc: ""
+ ITA_postpone_farmers_debts_desc: "The south has been in a debt spiral for a long time. The government must intervene and postpone their debt so our reforms and aid have time to set in, even if it will be painful for our economy in the short term." # (!)
  ITA_fight_southern_illiteracy: "Боротися з неписьменністю на півдні"
- ITA_fight_southern_illiteracy_desc: ""
+ ITA_fight_southern_illiteracy_desc: "While our reforms in the south have already started to show positive results, we still need to deal with the south's largest barrier to it's success: the widespread lack of education and literacy. We will fight this by investing and subsidizing southern schools." # (!)
  ITA_fund_southern_schools: "Фінансувати південні школи"
  ITA_curb_the_power_of_the_latifondisti: "Обмежити владу латіфундистів"
  ITA_curb_the_power_of_the_latifondisti_desc:0 "The largest landowners in the South, the Latifondisti wield considerable power. They pose a threat to our agenda. and their power must be neutralised as much as possible." # (!)
@@ -1271,13 +1270,13 @@
 
  ITA_bail_southern_debts: "Порятунок південних фермерів"
  ITA_assist_employees: "Допомога працівникам"
- ITA_assist_employees_desc: ""
+ ITA_assist_employees_desc: "Luzzati might be a classical liberal, but that does not mean he's completely against government intervention. We shall pursue moderate labour reforms to ensure our workers are treated fairly and with dignity even if this might be slightly detrimental to our economy." # (!)
  ITA_hands_off_approach: "Невтручання"
- ITA_hands_off_approach_desc: ""
+ ITA_hands_off_approach_desc: "There's a simple fact about economics that must be accepted: the more the government intervenes, the worse the economy will fare. We shall allow business owners to dictate terms to their employees as they deem fit or else we risk stifling their productivity." # (!)
  ITA_reverse_our_decline: "Уроки австрійської економічної школи"
  ITA_reverse_our_decline_desc:0 "Though we loath copying economic ideas from Vienna, the Austrian school's emphasis on low regulations and free market forces has the potential to bring economic prosperity to the nation." # (!)
  ITA_trade_deal_with_france: "Оживити Південь"
- ITA_trade_deal_with_france_desc: ""
+ ITA_trade_deal_with_france_desc: "Our government has generally been reluctant to directly intervene in the economy for ideological reasons, but it's clear the south is in dire need of help or else it will never reach economic parity with the north. We will make limit and well planned investments in southern business to help bring it forth into the 20th century." # (!)
  ITA_shore_up_the_classic_liberals: "Принципи класикалізму"
  ITA_shore_up_the_classic_liberals_desc: ""
  ITA_ban_striking: "Криміналізувати страйки"
@@ -1411,7 +1410,7 @@
  ITA_soc_fire_faster: "Місія §YВиснаження підтримки соціалістів§! спрацює на §Y10§! днів раніше"
  ITA_left_fire_fast: "Місія §YВиснаження підтримки лівих§! спрацює на §Y5§! днів раніше"
  ITA_unify_all_sides: "Уряд великої коаліції"
- ITA_unify_all_sides_desc: ""
+ ITA_unify_all_sides_desc: "There is no need to rely on authoritarian war measures when parliament is ready and willing to cooperate with the government to ensure Italy's victory. We shall a grand coalition of all the democratic parties to ensure a stable government whilst not trampling over civil liberties." # (!)
  ITA_war_powers2: "Коаліційний уряд"
  ITA_union_war_board: "Участь профспілок у мобілізації"
  ITA_union_war_board_desc:0 "Working with the trade unions will help greatly with mobilising a war economy, with unions promising to avoid going on strike and making sure key workers important to certain industries arent conscripted" # (!)
@@ -1530,7 +1529,7 @@
  ITA_government_support_of_union_desc: "Попередні уряди придушували профспілки по всій Італії, щоби зупинити їхню діяльність. Це, звісно, неправильний підхід. Ми повинні змінити політику і активно підтримувати профспілки та їхню діяльність, адже це веде до кращих умов праці та захисту прав працівників."
  ITA_persecute_union_busting: "Переслідувати тих, хто розганяє профспілки"
  ITA_taking_care_of_our_workers: "Піклування про наших працівників"
- ITA_taking_care_of_our_workers_desc: ""
+ ITA_taking_care_of_our_workers_desc: "For too long the Italian proletariat was exploited by greedy capitalists, but that shall stop now. We shall introduce several new measures to ensure our workers can enjoy the best working conditions possible." # (!)
  ITA_reduce_working_week_dec: "Скоротити робочий тиждень"
  ITA_mass_nationalization: "Масова націоналізація"
  ITA_mass_nationalization_desc:0 "We cannot trust companies in important sectors to make decisions in the interest of the nation or workers, as they only seek to enrich themselves. If we take over those companies, we can prioritize the needs of the nation and workers first." # (!)
@@ -1636,7 +1635,7 @@
  how_to_fight_rev: "Цей фокус буде §Gавтоматично виконано§!, якщо ви вирішили виступити проти §Rреволюції§!."
  ITA_military_dictatorship: "Уряд національної оборони"
  ITA_the_compromise_that_pleases_none: "Компроміс, що не догодив нікому"
- ITA_the_compromise_that_pleases_none_desc: ""
+ ITA_the_compromise_that_pleases_none_desc: "The return of Luzzati was not the first choice of many in parliament, but with the other leading candidates being deemed unacceptable by large factions of parliament and the recent rise of classical liberals, Luzzati has secured a surprising second mandate." # (!)
  financial_expert3: "Фінансовий експерт"
  economist2: "Економіст"
  ITA_dereg: "Усі £decision_icon_small §YІндустріалізаційні рішення§!:\nВиконуватимуться на §G15§! днів швидше"
@@ -1669,32 +1668,32 @@
  ITA_strangle_OTO_melara: "Задушити «Віккерс-Терні»"
 
  ITA_accept_our_responsibility: "Відповідальність за правління"
- ITA_accept_our_responsibility_desc: ""
+ ITA_accept_our_responsibility_desc: "It seems Giolitti's greatest gambit worked. In the first few weeks of their government, the ANI has shown itself willing and able to cooperate with other factions of parliament, and has also toned down its rhetoric and distanced itself from some of its more radical positions, although they are still far from a truly centrist or moderate party." # (!)
 
  ITA_the_state_weve_dreamed_of: "Італія, на яку ми заслуговуємо"
- ITA_the_state_weve_dreamed_of_desc: ""
+ ITA_the_state_weve_dreamed_of_desc: "This mandate is a once in a lifetime opportunity for our movement. There shall be no negotiation or compromise with the old and corrupt establishment, we shall pursue our complete program no matter who attempts to stand against us." # (!)
 
  ITA_dominate_the_narritive: "Домінувати над суспільним наративом"
- ITA_dominate_the_narritive_desc: ""
+ ITA_dominate_the_narritive_desc: "Now that we have control of Italy, we have all the tools at our disposal to shape Italian society, and now we only have to use them. We shall start a mass propaganda campaign to show the people the glory of warfare and to destroy the pacifist rhetoric of our enemies." # (!)
 
  ITA_reward_our_people: "Підтримувати образ популістів"
- ITA_reward_our_people_desc: ""
+ ITA_reward_our_people_desc: "Our movement was founded first and foremost as a proletarian one. Despite our intentions, elitism has started to slip into the movement, we won't let this continue or else we risk losing the purity of our ideals. We will always remain committed to the people of Italy above all else." # (!)
 
  ITA_naval_support_designer: "Конструктор морської артилерії"
  ITA_pacify_libya: "Підкорення Лівії"
  ITA_pacify_libya_desc:0 "Since 1911, Libya has been a hotbed of resistance. Its time to crush the insurgents and turn this patch of desert into a model colony." # (!)
 
  ITA_board_of_corporations: "Створити раду корпорацій"
- ITA_board_of_corporations_desc: ""
+ ITA_board_of_corporations_desc: "We shall organize a new board to organize the various sectors of Italian society, such as unions and businesses that will allow our government to regulate the relationship between workers and their employers. This will be the start of the process to end class warfare and bring about our corporatist vision." # (!)
 
  ITA_true_national_syndicalism: "Визнати місце пролетаріату"
- ITA_true_national_syndicalism_desc: ""
+ ITA_true_national_syndicalism_desc: "Corradini's vision for Italy has always been as a fundamentally proletarian nation. Unlike other right-wingers, we are not opposed to labor unions or materialist thought. We shall give workers and their unions a say in our government to sway them away from socialism and to fulfill the original vision of our movement." # (!)
 
  ITA_recognize_the_agrarian_group: "Визнати аграрну групу"
- ITA_recognize_the_agrarian_group_desc: ""
+ ITA_recognize_the_agrarian_group_desc: "One of the key sectors of Italian society has always been the farmers. They have been neglected and marginalized for far too long. We won't let this stand any longer. Farmers shall be given direct representation in our government, so their interests can be truly represented." # (!)
 
  ITA_draw_closer_to_the_military: "Зблизитися з армією"
- ITA_draw_closer_to_the_military_desc: ""
+ ITA_draw_closer_to_the_military_desc: "Corradini always hoped the ANI would become a mass proletarian movement, but the fact is that most of the proletarians are at best distrustful of us, but there is another group willing to support us and that's the army. We are not ungrateful and to ensure their continued support, we'll make sure they get the proper funding and respect they are owed." # (!)
 
  ITA_a_fever_of_nationalism: "Розпалити полум’я націоналізму"
  ITA_a_fever_of_nationalism_desc: ""
@@ -1724,7 +1723,7 @@
 
  ITA_press_writes_pro_centrist_articles1: "Преса пише нищівні статті"
  ITA_fight_for_masculinity: "Відновлення мужності"
- ITA_fight_for_masculinity_desc: ""
+ ITA_fight_for_masculinity_desc: "Strength, vigor, determination, nationalism and vitality- Those shall be the values of the new Italian man, the man who will finally allow Italy to grasp the glory she deserves and that has been denied by the tide of history." # (!)
  ITA_crush_religious_propaganda: "Суспільне відторгнення релігії"
  ITA_press_writes_pro_centrist_articles2: "Преса пише статті на підтримку центристів"
  ITA_special_grants_to_collective_farms: "Спеціальні дотації колективним господарствам"
@@ -1751,7 +1750,7 @@
 
  ITA_cut_the_military_budget: "Скоротити військовий бюджет"
  ITA_a_dark_horse_emerges: "Велика комбінація Джолітті"
- ITA_a_dark_horse_emerges_desc: ""
+ ITA_a_dark_horse_emerges_desc: "No one knows what was going through Giolitti's mind when he put forth Enrico Corradini and, by extension, the ANI as his successor, maybe a hope of moderating them like he has attempted with socialists. Now the only certain thing is that, in the coming years, Italy will be molded by a ultranationalist and corporate vision of the future." # (!)
  ITA_consolidate_bloated_ministries: "Об’єднати роздуті міністерства"
  decision_cost_xp_35: "£army_experience §Y35§! "
  decision_cost_xp_35_blocked: "£army_experience §R35§! "
@@ -1760,7 +1759,7 @@
  ITA_war_socialists: "Підтримати соціалістів у війні"
  ITA_war_socialists_desc: ""
  ITA_clash_of_civilizations: "Війна доблесті"
- ITA_clash_of_civilizations_desc: ""
+ ITA_clash_of_civilizations_desc: "This war is unlike any other in history, it won't be decided solely by the strength of our army. Instead, our most important task is rallying the entire nation to the cause of victory." # (!)
  ITA_shield_soys: "Захистити населення від наслідків війни"
  ITA_shield_soys_desc: ""
  ITA_reduce_women_work_hours: "Співпраця з CGL"
@@ -1882,13 +1881,13 @@
  ITA_nationalize_electricity_companies: "Націоналізувати електроенергетичні компанії"
  ITA_nationalize_all_banks: "Націоналізувати всі банки"
  ITA_nationalize_arms_factories: "Націоналізувати збройні фабрики"
- ITA_nationalize_water_companies: "Націоналізація водопостачання"
+ ITA_nationalize_water_companies: "Націоналізація водопостачальних компаній"
  ITA_block_land_reform: "Заблокувати земельну реформу"
  ITA_impending_land_reform: "Наближення земельної реформи"
  ITA_increase_police_presence_in_the_south: "Посилити поліцейську присутність на півдні"
  blank: "\n\n"
  ITA_oppose_the_new_right: "Протистояти «Новим правим»"
- ITA_oppose_the_new_right_desc: ""
+ ITA_oppose_the_new_right_desc: "While Giolitti sees potential in using the nationalist right and is certainly not above lying to get what he wants out of them, he has nonetheless decided that they pose a large potential threat to his government and to Italy's stability, so they must be marginalized and be made as irrelevant as possible in parliament before they can form into a coherent opposition block." # (!)
  ITA_sway_economic_experts: "Проти антиінтелектуалізму"
  ITA_sway_economic_experts_desc:0 "A common tactic used by the populists is to label those who disagree with them as part of a corrupt elite, especially anyone who is part of intelligentsia." # (!)
  ITA_the_effect.tt: "§YНа 30 днів:§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+5.0%§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §R-10.00%§!"
