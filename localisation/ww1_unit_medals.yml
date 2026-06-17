@@ -28,3 +28,16 @@
  KOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Чамджан"
  KOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Пуджан"
  KOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Пуджан"
+
+### МЕДАЛІ ###
+ TUR_war_medal: "War Medal" # (!)
+ TUR_medal_of_merit: "Medal of Merit" # (!)
+ TUR_medal_of_privilege: "Medal of Privilege" # (!)
+ TUR_mecidi_order: "Order of the Mecidiye" # (!)
+ TUR_order_of_glory: "Order of Glory" # (!)
+ TUR_osmanieh_order: "Order of Osmaniye" # (!)
+
+ PER_decoration_of_the_commander_of_the_faithful: "Decoration of the Commander of the Faithful" # (!)
+ PER_order_of_the_lion_and_the_sun: "Order of the Lion and the Sun" # (!)
+ PER_order_of_aqdas: "Order of Aqdas" # (!)
+ PER_order_of_aftab: "Order of Aftab" # (!)

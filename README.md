@@ -1,5 +1,5 @@
 # Українська локалізація *The Great War Redux*
-Оновлено для версії моду ***1.15.16*** (версія гри&nbsp;— *1.19*)
+Оновлено для версії моду ***1.15.17*** (версія гри&nbsp;— *1.19*)
 
 Локалізація доступна до завантаження в [Майстерні *Steam*](https://steamcommunity.com/workshop/filedetails/?id=2880535545).
 ***
@@ -19,6 +19,7 @@
 + [ ] `tgwr_achievements` — (збер. ст. пер.)
 + [ ] `victory_points`
 + [x] `ww1_adjacency_rules`
++ [x] `ww1_army_hq`
 + [ ] `ww1_autonomy`
 + [ ] `ww1_buildings`
 + [ ] `ww1_characters`
