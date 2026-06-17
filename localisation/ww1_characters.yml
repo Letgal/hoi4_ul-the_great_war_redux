@@ -240,6 +240,16 @@
  AUH_stephan_von_ljubicic:0 "Stephan von Ljubičić"
  AUH_johann_ritter_von_friedel:0 "Johann Ritter von Friedel"
  AUH_karl_von_kirchbach_auf_lauterbach:0 "Karl von Kirchbach auf Lauterbach"
+ AUH_viktor_von_scheuchenstuel:0 "Viktor von Scheuchenstuel"
+ AUH_ferdinand_kosak:0 "Ferdinand Kosak"
+ AUH_paul_puhallo_von_brlog:0 "Paul Puhallo von Brlog"
+ AUH_hugo_martiny:0 "Hugo Martiny"
+ AUH_ernst_kletter:0 "Ernst Kletter"
+ AUH_friedrich_von_georgi:0 "Friedrich von Georgi"
+ AUH_johann_ritter_von_henriquez:0 "Johann Ritter von Henriquez"
+ AUH_johann_ulrich_von_salis_seewis:0 "Johann Ulrich von Salis-Seewis"
+ AUH_karl_kritek:0 "Karl Křitek"
+ AUH_karl_tersztyanszky_von_nadas:0 "Karl Tersztyánszky von Nádas"
 
 ### AUSTRIA ###
  AUS_engelbert_dollfuss: "Енґельберт Дольфус"
@@ -1036,6 +1046,7 @@
  CZE_franz_ferdinand: "$AUH_franz_ii$" # чес. Франтішек II
  CZE_karl_i: "Карл III" # чес. Карел III
  CZE_josef_snejdarek: "$CZE_josef_shnejdarek$"
+ CZE_ernst_kletter:0 "Arnošt Kletter"
 
 ### EMILIA-ROMAGNA ###
  EMI_enrico_i:0 "Enrico"
@@ -1968,6 +1979,8 @@
  HUN_ferenc_julier:0 "Ferenc Julier"
  HUN_vilmos_bohm:0 "Vilmos Böhm"
  HUN_gyula_andrassy:0 "Gyula Andrássy Ifj."
+ HUN_emmerich_hadfy_von_livno:0 "Imre Hádfy de Livnó"
+ HUN_karl_tersztyanszky_von_nadas:0 "Károly Tersztyánszky de Nádas"
 
 ### HYDERABAD ###
  HYD_mahbub_ali_khan:0 "Mahbub Ali Khan"
