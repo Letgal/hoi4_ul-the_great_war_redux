@@ -9724,7 +9724,7 @@ EPR_restore_albania_desc:0 "Наше прагнення незалежності
  FRA_vote_will_pass_by_majority:0 "§cМи не можемо змусити закон прийняти, але цей закон схвалено більшістю, §!§Gвони проголосують за нього!§!"
  FRA_effect_if_law_pass:0 "\n§YЕфект, якщо голосування пройде:§!"
  FRA_effect_if_law_fail:0 "\n§RЕфект, якщо голосування не вдасться:§!"
- FRA_effect_if_mission_completed:0 "\n§GEефект, якщо місію виконано:§!"
+ FRA_effect_if_mission_completed:0 "\n§GЕфект, якщо місію виконано:§!"
  FRA_effect_if_mission_failed:0 "\n§РЕфект, якщо місія не виконана:§!"
 
  FRA_fufill_schneider_contract:0 "Виконати контракт Schneider"
