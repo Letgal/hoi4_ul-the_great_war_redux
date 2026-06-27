@@ -1462,7 +1462,7 @@
  SRD_PIE_fascism_DEF: "Сардинсько-п'ємонтська держава"
  SRD_PIE_fascism_ADJ: "Сардинсько-п'ємонтськ"
  LAT_iskolata_communism: "Ісколат"
- LAT_iskolata_communism_DEF:0 "the Executive Committee of the Soviet of Workers, Soldiers, and the Landless in Latvia" # (!)
+ LAT_iskolata_communism_DEF: "Виконавчий комітет Ради робітничих, солдатських і безземельних депутатів Латвії"
  ETH_menelik_neutrality: "Абіссінія"
  ETH_menelik_neutrality_DEF: "Абіссінія"
  ETH_menelik_neutrality_ADJ: "Абіссінськ"

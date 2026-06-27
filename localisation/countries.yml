@@ -2592,9 +2592,9 @@
  EMI_DEF: "Емілія-Романья"
  EMI_ADJ: "Еміліано-романьйольськ"
  EMI_neutrality_DEF:0 "Герцогство Емілія-Романья" # (@VZ)
- EMI_democratic:0 "Cispadane Republic"
- EMI_democratic_DEF:0 "Cispadane Republic"
- EMI_democratic_ADJ:0 "Cispadane"
+ EMI_democratic: "Циспаданська республіка"
+ EMI_democratic_DEF: "Циспаданська республіка"
+ EMI_democratic_ADJ: "Циспаданськ"
  EMI_communism: "Романьйольська комуна"
  EMI_communism_DEF: "Романьйольська комуна"
  EMI_communism_ADJ: "Романьйольськ"
@@ -2942,7 +2942,7 @@
  ORE_fascism: "Оренбурзьке козаче коло"
  ORE_fascism_DEF: "Оренбурзька козача республіка"
  ORE_democratic:0 "Оренбурзька козацька республіка" # (@VZ)
- ORE_democratic_DEF:0 "Orenburg Cossack Republic"
+ ORE_democratic_DEF:0 "Оренбурзька козацька республіка"
  ORE_communism: "ВРК Оренбурґа"
  ORE_communism_DEF: "Військово-революційний комітет Оренбурґа"
 
