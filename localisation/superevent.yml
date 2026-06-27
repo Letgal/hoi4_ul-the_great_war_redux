@@ -12,19 +12,19 @@
   SE_BATTLE_OF_VERDUN_A: "Вони не пройдуть!"
 
   SE_great_war_T: "Велика війна"
-  SE_great_war_D:0 "\n"So the Lord said, "I will wipe from the face of the earth the human race I have created—and with them the animals, the birds and the creatures that move along the ground—for I regret that I have made them."\n- Genesis 6:7"
+  SE_great_war_D: "\n«І промовив Господь: „Вигублю Я людину, яку Я створив, з-над поверхні землі, — від людини аж до скотини, і до плазунів, і до птаства небесного, бо жалію, що їх Я вчинив“».\n— Буття 6:7" # (@VZ)
   SE_great_war_A: "Війна, що покладе кінець усім війнам."
 
   SE_great_depression_T: "Велика депресія"
   #SE_great_depression_D:0 "\n\n"The bank is something more than men, I tell you. It's the monster. Men made it, but they can't control it."\n- John Steinbeck"
-  SE_great_depression_A:0 "In the long run, we are all dead."
+  SE_great_depression_A: "У довгостроковій перспективі всі ми мертві." # (@VZ)
   #Arab
   SE_arab_revolt_T: "Велика арабська революція"
-  SE_arab_revolt_D:0 "\n"I do not care if the presidency were in the hands of a Syrian, and Iraqi, a Najdi or whoever. The goal is that the people of this nation become independent and united."\n- Sharif Hussien"
+  SE_arab_revolt_D: "\n«Мені байдуже, чи буде президентство в руках сирійця, іракця, надждійця чи будь-кого іншого. Мета полягає в тому, щоб народ цієї нації став незалежним і єдиним».\n— Шариф Хусейн" # (@VZ)
   SE_arab_revolt_A: "Ўатані хабібі, аль-ўатан аль-акбар."
   #Greece
   SE_gre_schism_T: "Фессалоніцька держава" # (&?)
-  SE_gre_schism_D:0 "\n"Greece expects you not merely to die for her, for that is little, indeed; she expects you to conquer. That is why each one of you, even in dying, should be possessed by one thought alone - how to conserve your strength to the last so that those who survive may conquer."\n- Elefthérios Venizélos"
+  SE_gre_schism_D: "\n«Греція чекає від вас не просто смерті за неї, бо цього насправді замало; вона чекає від вас перемоги. Ось чому кожен із вас, навіть умираючи, повинен бути одержимий лише однією думкою — як зберегти свої сили до останнього, щоб ті, хто виживе, змогли перемогти».\n— Елефтеріос Венізелос" # (@VZ)
   SE_gre_schism_A: "Зíто о Ефнáрхіс!" # Zíto o Ethnárhis!
 
   SE_burning_of_smyrna_T: "Різанина у Смірні"
@@ -32,11 +32,11 @@
   SE_burning_of_smyrna_A: "І Смíрні мáна кéгете..." # I Smýrni mána kégete...
 
   SE_balkan_war_1_T: "Балканська війна"
-  SE_balkan_war_1_D:0 "\n"One day the great European War will come out of some damned foolish thing in the Balkans."\n- Otto von Bismarck"
-  SE_balkan_war_1_A: "Salonique à tout prix!"
+  SE_balkan_war_1_D: "\n«Колись велика європейська війна розпочнеться через якусь дурість на Балканах».\n— Отто фон Бісмарк" # (@VZ)
+  SE_balkan_war_1_A: "Салоніки будь-якою ціною!" # (@VZ)
 
   SE_balkan_war_2_T: "Друга Балканська війна"
-  SE_balkan_war_2_D:0 "\n"We are used to thinking that the ruling circles know some special art of management, calculation and foresight, and when it turns out that reckless frivolity and self-confident stupidity reign at the top, always amazes."\n- Leon Trotsky"
+  SE_balkan_war_2_D: "\n«Ми звикли думати, що правлячі кола володіють якимось особливим мистецтвом управління, розрахунку та передбачення, і коли виявляється, що нагорі панують безглузда легковажність і самовпевнена дурість, це завжди вражає».\n— Лев Троцький" # (@VZ)
   SE_balkan_war_2_A: "Чи може Болгарія виграти самотужки?"
 
   SE_gre_byzantium_T: "Відродження Східного Риму"
@@ -44,11 +44,11 @@
   SE_gre_byzantium_A: "Зíто о Афтокрáтор!" # Zíto o Aftokrátor!
 
   SE_greeko_turkish_war_T: "Греко-турецька війна"
-  SE_greeko_turkish_war_D:0 "\n\"Greece is not making war against Islam, but against the anachronistic Ottoman Government, and its corrupt, ignominious, and bloody administration, with a view to expelling it from those territories where the majority of the population consists of Greeks."\n- Elefthérios Venizélos"
+  SE_greeko_turkish_war_D: "\n«Греція воює не проти ісламу, а проти анахронічного османського уряду та його корумпованої, ганебної й кривавої адміністрації з метою вигнати її з тих територій, де більшість населення становлять греки».\n— Елефтеріос Венізелос" # (@VZ)
   SE_greeko_turkish_war_A: "Стін Áнґіра!" # Stin Ángira!
 
   SE_balkan_fed_T: "Балкани об'єднуються"
-  SE_balkan_fed_D:0 "\n\"There are seven and a half million South Slavs who, as a result of the victories in the Balkans, have grown bolder than ever in demanding their political rights."\n-Leon Trotsky"
+  SE_balkan_fed_D: "\n«Є сім з половиною мільйонів південних слов'ян, які внаслідок перемог на Балканах стали сміливішими, ніж будь-коли, у вимогах своїх політичних прав».\n— Лев Троцький" # (@VZ)
   SE_balkan_fed_A: "Зíто і Енóтіта!" # Zíto i Enótita!
 
 
@@ -58,7 +58,7 @@
   SE_ENG_REPUBLIC_A: "Боже, бережи народ."
 
   SE_eng_kitchener_T: "Кітченер відновлює порядок"
-  SE_eng_kitchener_D:0 "\n"Every position must be held to the last man. There must be no retirement. With our backs to the wall, and believing in the justice of our cause, each one of us must fight to the end."\n- Douglas Haig"
+  SE_eng_kitchener_D: "\n«Кожну позицію необхідно утримувати до останнього бійця. Жодного відступу. Стоячи спиною до стіни та вірячи у справедливість нашої справи, кожен із нас повинен битися до кінця».\n— Дуглас Гейґ" # (@VZ)
   SE_eng_kitchener_A: "Ви потрібні королю та країні."
 
   SE_eng_george_v_T: "Георг V стверджує королівську прерогативу"
@@ -92,19 +92,19 @@
   SE_rus_civil_war_winner_red_A: "Пролетарі всіх країн, єднайтеся!"
 
   SE_rus_civil_war_winner_eser_T: "Перемога есерів"
-  SE_rus_civil_war_winner_eser_D:0 "\n\n"The word “Utopia” has received a contemptuous connotation from us. This is not entirely fair."\n- Viktor Chernov"
+  SE_rus_civil_war_winner_eser_D: "\n\n«Слово „утопія“ набуло у нас зневажливого відтінку. Це не зовсім справедливо».\n— Віктор Чернов" # (@VZ)
   SE_rus_civil_war_winner_eser_A: "Земля та свобода."
 
   SE_rus_savinkov_revolution_T: "Друга Російська революція"
   #SE_rus_savinkov_revolution_D:0 ""And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see. I looked, and behold, a pale horse, and its rider’s name was Death. And Hell followed after him. They were given the authority of one-fourth of the earth, to kill with sword and with famine and with pestilence and by wild beasts of the earth"\n- Revelation 6:7-8"
   SE_rus_savinkov_revolution_A: "Свобода або смерть!"
 
-  SE_rus_victory_great_war_T:0 "Victory in the Second Patriotic War"
-  SE_rus_victory_great_war_D:0 "\n\n"Once the Russian flag is raised, it should no longer descend."\n- Nikolai I"
-  SE_rus_victory_great_war_A: "Боже, Царя храни!"
+  SE_rus_victory_great_war_T: "Перемога у Другій Вітчизняній війні" # (@VZ)
+  SE_rus_victory_great_war_D: "\n\n«Де раз піднято російський прапор, там він уже не спуститься».\n— Микола I" # (@VZ)
+  SE_rus_victory_great_war_A: "Гойда!" # (@VZ) — було: Боже, Царя храни!
 
-  SE_rus_victory_great_war_republic_D:0 "\n\n"The old Russia is dead. Long live the new, free, great Russia!"\n- Aleksandr Kerensky"
-  SE_rus_victory_great_war_republic_A: "Да здравствует Республика!"
+  SE_rus_victory_great_war_republic_D: "\n\n«Стара Росія мертва. Хай живе нова, вільна, велика Росія!»\n— Олександр Керенський" # (@VZ)
+  SE_rus_victory_great_war_republic_A: "Слава республіці!" # (@VZ) — було: Да здравствует Республика!
 
   ######
   SE_mex_revolution_T: "Мексиканська революція"
@@ -118,7 +118,7 @@
 
   SE_chi_warlord_era_T: "Епоха воєначальників"
   #SE_chi_warlord_era_D:0 "\n\n"A country does not have to worry about poverty and weakness, but if the national morality is lost, the country will certainly collapse and be incurable."\n- Yuan Shikai"
-  SE_chi_warlord_era_A:0 "Yangtze still imperiously flows."
+  SE_chi_warlord_era_A: "Янцзи все так же велично котить свої води." # (@VZ)
 
   #####
   SE_bul_bw2_winner_T: "Перемога Болгарії"
@@ -128,80 +128,80 @@
   #####
   SE_ger_nazi_T: "Підйом нацизму"
   #SE_ger_nazi_D:0 ""Today I will once more be a prophet. If the international Jewish financiers in and outside Europe should succeed in plunging nations once more into a world war, then the result will not be the bolshevization of the earth and this the victory of Jewry, but the annihilation of the Jewish race in Europe!"\n- Adolf Hitler"
-  SE_ger_nazi_A: "Нас охопило чергове божевілля."
+  SE_ger_nazi_A: "Нас охопило божевілля." # (@VZ) — було: Нас охопило чергове божевілля.
 
   SE_ger_civil_war_T: "Німецька возз'єднувальна війна"
   SE_ger_civil_war_D: "\n\n«Бійтеся не стільки смерті, скільки недостатку життя».\n(Бертольт Брехт)"
   SE_ger_civil_war_A: "В ім'я Німеччини!"
 
   SE_ger_victory_T: "Перемога Кайзеррайху"
-  SE_ger_victory_D:0 ""The sword is drawn, and I cannot sheathe it again without victory and honor. All of you shall and will see to it that only in honor is it returned to the scabbard. You are my guaranty that I can dictate peace to my enemies. Up and at the enemy! Down with the enemies of Brandenburg! Three cheers for our army!"\n- Wilhelm II"
+  SE_ger_victory_D: "«Меч оголено, і я не можу знову вкласти його в піхви без перемоги та честі. Усі ви мусите й подбаєте про те, щоб він повернувся до піхов лише в честі. Ви — моя гарантія того, що я зможу диктувати мир своїм ворогам. Уперед і на ворога! Геть ворогів Бранденбурга! Тричі слава нашій армії!»\n— Вільгельм II" # (@VZ)
   SE_ger_victory_A: "Gott mit uns."
 
 #France
   SE_fra_socialist_T: "Четверта Французька республіка"
-  SE_fra_socialist_D:0 "\n\n"Revolution can only exist where there is consciousness."\n- Jean Jaurès"
+  SE_fra_socialist_D: "\n\n«Революція може існувати лише там, де є свідомість».\n— Жан Жорес" # (@VZ)
   SE_fra_socialist_A: "Ах! Ça ira."
 
-  SE_fra_orleanist_T:0 "Orléanist Restoration"
-  SE_fra_orleanist_D:0 "\n"We shall strive to remain in a middle ground, equally removed from the excesses of popular power and the abuses of royal power."\n- Louis-Philippe I"
-  SE_fra_orleanist_A:0 "The Citizen King returns."
+  SE_fra_orleanist_T: "Орлеаністська реставрація" # (@VZ)
+  SE_fra_orleanist_D: "\n«Ми прагнутимемо залишатися на золотій середині, однаково віддаленій від ексцесів народної влади та зловживань королівської влади».\n— Луї-Філіпп I" # (@VZ)
+  SE_fra_orleanist_A: "Король-громадянин повертається." # (@VZ)
 
-  SE_fra_bonapartist_T:0 "Bonapartist Restoration"
-  SE_fra_bonapartist_D:0 "\n"The name of Napoleon is a program in itself. It means: at home, order, authority, religion, the welfare of the people; abroad, national dignity."\n- Louis-Napoleon Bonaparte"
-  SE_fra_bonapartist_A:0 "For the Glory of the Empire!"
+  SE_fra_bonapartist_T: "Бонапартистська реставрація" # (@VZ)
+  SE_fra_bonapartist_D: "\n«Ім'я Наполеона — це сама по собі програма. Воно означає: всередині країни — порядок, авторитет, релігія, добробут народу; за кордоном — національна гідність».\n— Луї-Наполеон Бонапарт" # (@VZ)
+  SE_fra_bonapartist_A: "За славу Імперії!" # (@VZ)
 
-  SE_fra_legitimist_T:0 "Bourbon Restoration"
-  SE_fra_legitimist_D:0 "\n"My person is nothing, my principle is everything. France will see the end of her trials when she chooses to understand this."\n- Henri, Count of Chambord"
-  SE_fra_legitimist_A:0 "The Throne and the Altar are restored."
+  SE_fra_legitimist_T: "Реставрація Бурбонів" # (@VZ)
+  SE_fra_legitimist_D: "\n«Моя особа — ніщо, мій принцип — усе. Франція побачить кінець своїх випробувань, коли забажає це зрозуміти».\n— Анрі, граф де Шамбор" # (@VZ)
+  SE_fra_legitimist_A: "Трон і вівтар відновлено." # (@VZ)
 
-  SE_fra_national_syndicalist_T:0 "Proudhonist Coup"
-  SE_fra_national_syndicalist_D:0 "\n\n"As man seeks justice in equality, so society seeks order in anarchy."\n- Pierre-Joseph Proudhon"
+  SE_fra_national_syndicalist_T: "Прудоністський переворот" # (@VZ)
+  SE_fra_national_syndicalist_D: "\n\n«Як людина шукає справедливості в рівності, так суспільство шукає порядку в анархії».\n— П'єр-Жозеф Прудон" # (@VZ)
   SE_fra_national_syndicalist_A: "Le Français toujours vaincra!"
 
-  SE_fra_victory_T:0 "Entente Victorious"
-  SE_fra_victory_D:0 "\n"Sacred love of the Fatherland, Lead, support our avenging arms\nLiberty, cherished liberty, fight with your defenders!\nUnder our flags may victory, hurry to your manly accents so that your expiring enemies see your triumph and our glory!"\n- La Marseillaise"
+  SE_fra_victory_T: "Перемога Антанти" # (@VZ)
+  SE_fra_victory_D: "\n«Священна любов до Батьківщини, веди, підтримуй наші месними руки.\nСвободо, дорога свободо, борись разом зі своїми захисниками!\nПід нашими прапорами хай перемога поспішає на звуки твого мужнього голосу, щоб твої вмирущі вороги побачили твій тріумф і нашу славу!»\n— Марсельєза" # (@VZ)
   SE_fra_victory_A: "Vive la France!"
 
 ######## Songs
- SE_chi_xinhai_revolution:0 "Indomitable Spirit"
- SE_chi_warlord_era:0 "The Banners are Fluttering"
- SE_mex_revolution:0 "La Pistola y El Corazón"
- SE_eng_republic:0 "The Red Flag"
- SE_war_of_the_worlds:0 "Dead London"
- SE_great_war:0 "Dies irae"
- SE_eng_kitchener:0 "We'll Never Let The Old Flag Fall"
- SE_eng_george_v:0 "Soldiers of the King"
- SE_eng_imperial_federation:0 "Jerusalem"
- SE_rus_february_revolution:0 "Worker's Marseillaise"
- SE_rus_october_revolution:0 "Bravely, Comrades, Let's March!"
- SE_rus_civil_war_winner_white:0 "Slavsya"
- SE_rus_civil_war_winner_white_siberia:0 "March of The Siberian Riflemen"
- SE_rus_civil_war_winner_white_volunteer_army:0 "March of the Kornilov Regiment"
- SE_rus_civil_war_winner_red:0 "Oh, Little Apple!"
- SE_rus_civil_war_winner_eser:0 "Worker's Marseillaise"
- SE_bul_bw2_winner:0 "Farewell of Slavianka"
- SE_rus_savinkov_revolution:0 "The Sea Groaned in Rage"
- SE_eng_fall_of_america:0 "Rule, Britannia!"
- SE_ger_civil_war:0 "From the New World"
- SE_ger_victory:0 "Pariser Einzugsmarsch"
- SE_great_depression:0 "Brother, Can You Spare A Dime?"
- SE_fra_socialist:0 "Ça Ira"
- SE_fra_national_syndicalist:0 "La France Bouge"
- SE_fra_victory:0 "Le Régiment De Sambre Et Meuse"
- SE_fra_legitimist:0 "Ô Richard, ô mon roi"
- SE_fra_orleanist:0 "La Parisienne"
- SE_fra_bonapartist:0 "La Victoire est à Nous"
- SE_gre_schism:0 "O Makedon"
- SE_burning_of_smyrna:0 "İzmir Marşı"
- SE_balkan_war_1:0 "Boyat Nastana"
- SE_balkan_war_2:0 "A Song about the Serbian Savagery in Tikvesh"
- SE_gre_byzantium:0 "Kotsari"
- SE_greeko_turkish_war:0 "Emvatirio Smirnis"
- SE_balkan_fed:0 "Septemberists"
- SE_arab_revolt:0 "Bilād al-Arab Awtānī"
- SE_rus_victory_great_war:0 "Grom Pobedi, Razdavaysa!"
- SE_rus_victory_great_war_republic:0 "Gimn Svobodnoy Rossii"
+ SE_chi_xinhai_revolution: "Незламний дух" # (@VZ) — Indomitable Spirit
+ SE_chi_warlord_era: "Прапори тріпочуть" # (@VZ) — The Banners are Fluttering
+ SE_mex_revolution: "Пістолет і серце" # (@VZ) — La Pistola y El Corazón
+ SE_eng_republic: "Червоний прапор" # (@VZ) — The Red Flag
+ SE_war_of_the_worlds: "Мертвий... Лондон" # (@VZ) — Dead London
+ SE_great_war: "День гніву" # (@VZ) — Dies irae
+ SE_eng_kitchener: "Ми ніколи не дамо впасти старому прапору" # (@VZ) — We'll Never Let The Old Flag Fall
+ SE_eng_george_v: "Солдати короля" # (@VZ) — Soldiers of the King
+ SE_eng_imperial_federation: "Єрусалим" # (@VZ) — Jerusalem
+ SE_rus_february_revolution: "Робоча Марсельєза" # (@VZ) — Worker's Marseillaise
+ SE_rus_october_revolution: "Сміливо, товариші, в ногу!" # (@VZ) — Bravely, Comrades, Let's March!
+ SE_rus_civil_war_winner_white: "Слався" # (@VZ) — Slavsya
+ SE_rus_civil_war_winner_white_siberia: "Марш сибірських стрільців" # (@VZ) — March of The Siberian Riflemen
+ SE_rus_civil_war_winner_white_volunteer_army: "Марш Корніловського полку" # (@VZ) — March of the Kornilov Regiment
+ SE_rus_civil_war_winner_red: "Ех, яблучко!" # (@VZ) — Oh, Little Apple!
+ SE_rus_civil_war_winner_eser: "Робоча Марсельєза" # (@VZ) — Worker's Marseillaise
+ SE_bul_bw2_winner: "Прощання слов'янки" # (@VZ) — Farewell of Slavianka
+ SE_rus_savinkov_revolution: "Гнівно розгулялося бурхливе море" # (@VZ) — The Sea Groaned in Rage
+ SE_eng_fall_of_america: "Правь, Британіє!" # (@VZ) — Rule, Britannia!
+ SE_ger_civil_war: "З Нового Світу" # (@VZ) — From the New World
+ SE_ger_victory: "Паризький зустрічний марш" # (@VZ) — Pariser Einzugsmarsch
+ SE_great_depression: "Брате, знайдеться цент?" # (@VZ) — Brother, Can You Spare A Dime?
+ SE_fra_socialist: "Діло піде" # (@VZ) — Ça Ira
+ SE_fra_national_syndicalist: "Франція рухається" # (@VZ) — La France Bouge
+ SE_fra_victory: "Полк Самбра-і-Мааса" # (@VZ) — Le Régiment De Sambre Et Meuse
+ SE_fra_legitimist: "О Річарде, о мій королю" # (@VZ) — Ô Richard, ô mon roi
+ SE_fra_orleanist: "Парижанка" # (@VZ) — La Parisienne
+ SE_fra_bonapartist: "Перемога за нами" # (@VZ) — La Victoire est à Nous
+ SE_gre_schism: "О Македоніє" # (@VZ) — O Makedon
+ SE_burning_of_smyrna: "Марш Ізміра" # (@VZ) — İzmir Marşı
+ SE_balkan_war_1: "Бій почався" # (@VZ) — Boyat Nastana
+ SE_balkan_war_2: "Пісня про сербські звірства в Тиквеші" # (@VZ) — A Song about the Serbian Savagery in Tikvesh
+ SE_gre_byzantium: "Коцарі" # (@VZ) — Kotsari
+ SE_greeko_turkish_war: "Марш Смирни" # (@VZ) — Emvatirio Smirnis
+ SE_balkan_fed: "Вересневці" # (@VZ) — Septemberists
+ SE_arab_revolt: "Арабські землі — моя батьківщина" # (@VZ) — Bilād al-Arab Awtānī
+ SE_rus_victory_great_war: "Грім перемоги, лунай!" # (@VZ) — Grom Pobedi, Razdavaysa!
+ SE_rus_victory_great_war_republic: "Гімн вільної Росії" # (@VZ) — Gimn Svobodnoy Rossii
 
 ### СТАРИЙ ПЕРЕКЛАД ###
   SE_WAR_OF_THE_WORLDS_D:0 "\n\n'Це не війна, це ніколи не було війною, як і війна між людиною та мурахами.'\n- Артилерист"

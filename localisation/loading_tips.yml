@@ -114,9 +114,9 @@
  LOADING_TIP_112: "«Ця війна переросте у світову війну, в котру Англія також втрутиться. Мало хто має поняття про масштаб, тривалість і кінець цієї війни. Ніхто сьогодні не може мати поняття про те, як вона закінчиться».\n(Гельмут фон Мольтке-молодший, ніч 30 червня – 1 липня 1914 р.)" # (&+)
  LOADING_TIP_113: "«На війні упущена мить ніколи не повертається».\n(Алєксєй Брусілов)"
  LOADING_TIP_114: "«Історія розповість вам невдовзі після війни, як речі справді сталися, але тепер головна річ — це перемогти».\n(Алєксєй Брусілов)" # (&)
- LOADING_TIP_115:0 "I am the last monarch of the old school. It is my duty to protect my people from their politicians!\n- Francis Joseph I to Theodore Roosevelt"
- LOADING_TIP_116:0 "What enterprise that an enlightened community may attempt is more noble and more profitable than the reclamation from barbarism of fertile regions and large populations?\n- Winston Churchill"
- LOADING_TIP_117:0 "Mesopotamia... yes... oil... irrigation... Palestine... Holy Land... Zionism... Syria... h'm... what is there in Syria? Let the French have that.\n- Lloyd George at the Paris conference, 1919"
- LOADING_TIP_118:0 "With no army, no money, no knowledge of the language, surrounded as we are by a pack of desperate associates and dubious influence from abroad, our situation is terrible. Yet we will remain steadfast.\n- Princess Sophie of Albania, June 1914"
- LOADING_TIP_119:0 "War is a fight, today this fight will be with the use of an internal combustion engine, so we don’t need them.\n- Vladimir Sukhomlinov, Russian Minister of War"
- LOADING_TIP_120:0 "Russia loves us no more than she loves any other Great Power. For that we are too strong, too much of a parvenu and just too disgusting.\n- Theovald von Bethmann Hollweg"
+ LOADING_TIP_115: "«Я останній монарх старої школи. Мій обов'язок — захищати мій народ від їхніх політиків!»\n— Франц Йосиф I до Теодора Рузвельта" # (@VZ)
+ LOADING_TIP_116: "«Яке починання з тих, що може спробувати освічене суспільство, є благороднішим і вигіднішим, ніж порятунок від варварства родючих регіонів і численних народів?»\n— Вінстон Черчилль" # (@VZ)
+ LOADING_TIP_117: "«Месопотамія... так... нафта... іригація... Палестина... Свята Земля... сіонізм... Сирія... гм... а що там у Сирії? Нехай це забирають французи».\n— Ллойд Джордж на Паризькій конференції, 1919" # (@VZ)
+ LOADING_TIP_118: "«Без армії, без грошей, без знання мови, оточені зграєю відчайдушних поплічників та сумнівним впливом з-за кордону, наше становище жахливе. Проте ми стоятимемо непохитно».\n— Принцеса Софія Албанська, червень 1914" # (@VZ)
+ LOADING_TIP_119: "«Війна — це боротьба, сьогодні ця боротьба вестиметься з використанням двигуна внутрішнього згоряння, тому вони нам не потрібні».\n— Володимир Сухомлинов, військовий міністр Росії" # (@VZ)
+ LOADING_TIP_120: "«Росія любить нас не більше, ніж будь-яку іншу велику державу. Для цього ми занадто сильні, занадто вискочки і просто занадто огидні».\n— Теобальд фон Бетман-Гольвег" # (@VZ)

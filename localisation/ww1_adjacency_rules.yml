@@ -24,5 +24,5 @@
  LIMFJORD_STRAIT: "Лім-фйорд"
  WHITE_SEA_STRAIT: "Горло Білого моря"
  THAMES_ESTUARY: "Гирло Темзи"
- ADAMS_BRIDGE:0 "Adam's Bridge" # (!)
- ADAMS_BRIDGE_TT_NOT:0 "the shallow waters.\nLarger ocean-going vessels from the west have to navigate around Sri Lanka to reach India's eastern coast." # (!)
+ ADAMS_BRIDGE: "Адамів міст" # (@VZ)
+ ADAMS_BRIDGE_TT_NOT: "Мілководдя.\nВеликим океанським суднам із заходу доводиться огинати Шрі-Ланку, щоб дістатися східного узбережжя Індії." # (@VZ)

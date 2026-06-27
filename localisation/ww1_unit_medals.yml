@@ -5,11 +5,11 @@
  AUS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Фельдмаршал-лейтенант"
  AUS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Генерал роду військ"
 
- HUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Vezérőrnagy" # (!)
- HUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Vezérőrnagy" # (!)
- HUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Altábornagy" # (!)
- HUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Altábornagy" # (!)
- HUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Tábornok" # (!)
+ HUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Генерал-майор" # (@VZ)
+ HUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Генерал-майор" # (@VZ)
+ HUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Генерал-лейтенант" # (@VZ)
+ HUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Генерал-лейтенант" # (@VZ)
+ HUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Генерал" # (@VZ)
 
  RUS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Генерал-майор"
  RUS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Генерал-майор"
@@ -17,11 +17,11 @@
  RUS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Генерал-лейтенант"
  RUS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Генерал-фельдмаршал"
 
- TUR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Mîr-i alay" # (!)
- TUR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Mîr-i livâ" # (!)
- TUR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Ferik" # (!)
- TUR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Birinci ferik" # (!)
- TUR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Müşir" # (!)
+ TUR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Генерал-майор" # (@VZ)
+ TUR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Генерал-лейтенант" # (@VZ)
+ TUR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Генерал-полковник" # (@VZ)
+ TUR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Генерал армії" # (@VZ)
+ TUR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Маршал" # (@VZ)
 
  KOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Чамджан"
  KOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Чамджан"
@@ -30,14 +30,14 @@
  KOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Пуджан"
 
 ### МЕДАЛІ ###
- TUR_war_medal: "War Medal" # (!)
- TUR_medal_of_merit: "Medal of Merit" # (!)
- TUR_medal_of_privilege: "Medal of Privilege" # (!)
- TUR_mecidi_order: "Order of the Mecidiye" # (!)
- TUR_order_of_glory: "Order of Glory" # (!)
- TUR_osmanieh_order: "Order of Osmaniye" # (!)
+ TUR_war_medal: "Військова медаль" # (@VZ)
+ TUR_medal_of_merit: "Медаль «За заслуги»" # (@VZ)
+ TUR_medal_of_privilege: "Медаль «За відзнаку»" # (@VZ)
+ TUR_mecidi_order: "Орден Меджидіє" # (@VZ)
+ TUR_order_of_glory: "Орден Слави" # (@VZ)
+ TUR_osmanieh_order: "Орден Османії" # (@VZ)
 
- PER_decoration_of_the_commander_of_the_faithful: "Decoration of the Commander of the Faithful" # (!)
- PER_order_of_the_lion_and_the_sun: "Order of the Lion and the Sun" # (!)
- PER_order_of_aqdas: "Order of Aqdas" # (!)
- PER_order_of_aftab: "Order of Aftab" # (!)
+ PER_decoration_of_the_commander_of_the_faithful: "Орден Повелителя правовірних" # (@VZ)
+ PER_order_of_the_lion_and_the_sun: "Орден Лева і Сонця" # (@VZ)
+ PER_order_of_aqdas: "Орден Агдас" # (@VZ)
+ PER_order_of_aftab: "Орден Афтаб" # (@VZ)

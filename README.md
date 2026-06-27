@@ -3,30 +3,30 @@
 
 Локалізація доступна до завантаження в [Майстерні *Steam*](https://steamcommunity.com/workshop/filedetails/?id=2880535545).
 ***
-+ [ ] `bookmarks` — (збережено старий переклад)
-+ [x] `countries`
-+ [x] `countries_cosmetic`
++ [x] `bookmarks` — (збережено старий переклад; допереклав [*Rosehip21*](https://github.com/Rosehip21))
++ [x] `countries` (допереклав *Rosehip21*)
++ [x] `countries_cosmetic` (допереклав *Rosehip21*)
 + [ ] ~~`division namelists`~~
 + [ ] `equip_air` — (збер. ст. пер.)
 + [ ] `equip_naval` — (збер. ст. пер.)
 + [ ] `equipment` — (збер. ст. пер.)
-+ [ ] `loading_tips`
-+ [ ] `parties` — (збер. ст. пер.)
++ [x] `loading_tips` (допереклав *Rosehip21*)
++ [x] `parties` — (збер. ст. пер.; допереклав *Rosehip21*)
 + [ ] `ship_modules` — (збер. ст. пер.)
 + [ ] `state_names`
 + [x] `strategic_region_names`
-+ [ ] `superevent` — (збер. ст. пер.)
-+ [ ] `tgwr_achievements` — (збер. ст. пер.)
++ [x] `superevent` — (збер. ст. пер.; допереклав *Rosehip21*)
++ [x] `tgwr_achievements` — (збер. ст. пер.; допереклав *Rosehip21*)
 + [ ] `victory_points`
-+ [x] `ww1_adjacency_rules`
++ [x] `ww1_adjacency_rules` (допереклав *Rosehip21*)
 + [x] `ww1_army_hq`
-+ [ ] `ww1_autonomy`
++ [x] `ww1_autonomy` (допереклав *Rosehip21*)
 + [ ] `ww1_buildings`
 + [ ] `ww1_characters`
 + [ ] ~~`ww1_collections`~~
 + [x] `ww1_core`
 + [ ] `ww1_country_ideas` — (збер. ст. пер.)
-+ [ ] `ww1_decisions` (більшість переклав [*kiryl*](https://steamcommunity.com/profiles/76561199575098265), допереклав *Лицарський хрест*)
++ [ ] `ww1_decisions` (більшість переклав [*kiryl*](https://steamcommunity.com/profiles/76561199575098265), допереклав *Rosehip21*)
 + [x] `ww1_designer` (майже)
 + [x] `ww1_diplomacy`
 + [ ] ~~`ww1_doctrines`~~
@@ -38,31 +38,31 @@
 + [ ] `ww1_focus` (більшість переклав *kiryl*)
 + [x] `ww1_focus_filter_tag`
 + [x] `ww1_frontend`
-+ [ ] `ww1_game_rules` (частину переклав *Лицарський хрест*) — (збер. ст. пер.)
++ [ ] `ww1_game_rules` (частину переклав *Rosehip21*) — (збер. ст. пер.)
 + [ ] `ww1_ideas` (більшість переклав *kiryl*)
 + [ ] ~~`ww1_map_modes`~~
 + [ ] `ww1_modifiers` — (збер. ст. пер.)
-+ [x] `ww1_morocco` (переклав [*Лицарський хрест*](https://steamcommunity.com/profiles/76561199017049555))
++ [x] `ww1_morocco` (переклав *Rosehip21*)
 + [x] `ww1_music` (умовно)
 + [ ] ~~`ww1_naval_classes`~~
 + [ ] `ww1_parliament_gui` (старий переклад видалено)
-+ [ ] `ww1_research` (окремі рядки переклав *Лицарський хрест*) — (збер. ст. пер.)
-+ [x] `ww1_scripted_triggers`
++ [ ] `ww1_research` (окремі рядки переклав *Rosehip21*) — (збер. ст. пер.)
++ [x] `ww1_scripted_triggers` (допереклав *Rosehip21*)
 + [ ] ~~`ww1_special_projects`~~
 + [x] `ww1_unit_limit`
 + [ ] ~~`ww1_units`~~
-+ [ ] `ww1_tank_modules`
++ [x] `ww1_tank_modules` (допереклав *Rosehip21*)
 + [ ] `ww1_traits` — (збер. ст. пер.)
-+ [ ] `ww1_unit_medals`
-+ [ ] `ww1_war`
-+ [x] `GER\ww1_GER_bundesrat` (переклав *Лицарський хрест*)
++ [x] `ww1_unit_medals` (допереклав *Rosehip21*)
++ [x] `ww1_war` (допереклав *Rosehip21*)
++ [x] `GER\ww1_GER_bundesrat` (переклав *Rosehip21*)
 + [x] `GER\ww1_GER_ideas` (майже)
 + [ ] `GER\ww1_germany`
-+ [x] `GER\ww1_liman_affair` (переклав *Лицарський хрест*)
-+ [x] `ITA\ww1_italy` (переклав *Лицарський хрест*)
-+ [x] `ITA\ww1_italy_events` (переклав *Лицарський хрест*)
-+ [x] `QIN\ww1_qing` (переклав *Лицарський хрест*)
-+ [x] `ROM\ww1_romania` (переклав *Лицарський хрест*)
++ [x] `GER\ww1_liman_affair` (переклав *Rosehip21*)
++ [x] `ITA\ww1_italy` (переклав *Rosehip21*)
++ [x] `ITA\ww1_italy_events` (переклав *Rosehip21*)
++ [x] `QIN\ww1_qing` (переклав *Rosehip21*)
++ [x] `ROM\ww1_romania` (переклав *Rosehip21*)
 + [ ] ~~`RUS\ww1_russian_revolution`~~
 
 ## Папка `replace`

@@ -3,10 +3,10 @@
  ottoman_theme: "Fetih marşı"
  russian_empire_theme: "Прощание славянки" # Прощання слов'янки
  british_theme: "It's a Long Way to Tipperary"
- italian_theme:0 "Battle of Isonzo"
- battle_of_marne:0 "Battle of Marne"
- red_baron:0 "Red Baron"
- flanders_field: "In Flanders Fields"
+ italian_theme:0 "Битва на Ізонцо" # (@VZ) — Battle of Isonzo
+ battle_of_marne:0 "Битва на Марні" # (@VZ) — Battle of Marne
+ red_baron:0 "Червоний барон" # (@VZ) — Red Baron
+ flanders_field:0 "У полях Фландрії" # (@VZ) — In Flanders Fields
  main_theme_allies: "Головна тема Hearts of Iron IV"
  motherland: "Рóдина" # Би-2 — Родина
  symphony_funebre_et_triomphale: "Symphonie funèbre et triomphale"

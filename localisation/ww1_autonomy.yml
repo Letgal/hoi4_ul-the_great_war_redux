@@ -1,22 +1,22 @@
 ﻿# == (*) ==
  autonomy_tgwr_integrated_protectorate: "Інтегрований протекторат"
- autonomy_tgwr_integrated_protectorate_desc:0 "An integrated protectorate includes a strong hold by the protector over the external affairs of his client, particularly in his representation on the international scene."
+ autonomy_tgwr_integrated_protectorate_desc: "Інтегрований протекторат передбачає жорсткий контроль з боку протектора над зовнішніми справами свого клієнта, зокрема над його представництвом на міжнародній арені." # (@VZ)
  autonomy_tgwr_protectorate: "Протекторат"
- autonomy_tgwr_protectorate_desc:0 "State is controlled and protected by another sovereign state. Country has been granted autonomy over most internal affairs while still recognizing the suzerainty."
+ autonomy_tgwr_protectorate_desc: "Держава контролюється та захищається іншою суверенною державою. Країні надано автономію у більшості внутрішніх справ, водночас вона визнає сюзеренітет протектора." # (@VZ)
  autonomy_tgwr_informal_protectorate: "Держава під захистом"
- autonomy_tgwr_informal_protectorate_desc:0 "A protected state has a form of protection where it continues to retain an "international personality" and enjoys an agreed amount of independence in conducting its foreign policy."
+ autonomy_tgwr_informal_protectorate_desc: "Держава під захистом — це форма протекції, за якої вона продовжує зберігати свою «міжнародну правосуб'єктність» і користується узгодженим рівнем незалежності у веденні своєї зовнішньої політики." # (@VZ)
  autonomy_tgwr_unilateral_union: "Одностороння унія"
- autonomy_tgwr_unilateral_union_desc:0 "The Cretan deputies declared unilateral union with Greece. The flag of the Cretan State was replaced by the Greek flag, all public servants took an oath to King Geórgios I of Greece, and the Greek constitution and laws were enacted on the island. This act was not recognized internationally, including by Greece."
+ autonomy_tgwr_unilateral_union_desc: "Критські депутати оголосили про односторонню унію з Грецією. Прапор Критської держави замінили на грецький, усі державні службовці склали присягу королю Греції Георгіосу I, а на острові ввели в дію грецьку конституцію та закони. Цей акт не був визнаний на міжнародному рівні, зокрема й самою Грецією." # (@VZ)
  autonomy_tgwr_ottoman_emirate: "Османський емірат"
  autonomy_tgwr_concession: "Концесія"
  autonomy_tgwr_balkan_federal_subject: "Суб'єкт Балканської федерації"
  autonomy_tgwr_regional_government: "Регіональний уряд"
  autonomy_tgwr_governorate_general: "Генерал-губернаторство"
- autonomy_tgwr_governorate_general_desc:0 "Governorate-General is a type of administrative-territorial division in the Russian Empire, ruled by governor-generals, who act as the highest representatives of the Russian Emperor and on a certain territory and receive their instructions directly from Saint-Petersburg."
+ autonomy_tgwr_governorate_general_desc: "Генерал-губернаторство — тип адміністративно-територіального поділу в Російській імперії, керований генерал-губернаторами, які виступають найвищими представниками російського імператора на певній території та отримують інструкції безпосередньо із Санкт-Петербурга." # (@VZ)
  autonomy_tgwr_personal_union: "Особиста унія"
- autonomy_tgwr_personal_union_desc:0 "Personal Union is a union of two or more monarchies, that share the same monarch, while remaining two distinct entities. In personal unions, both states retain their independence and have their interests, though monarch's interests might not always align with the wants of one of the states."
- autonomy_tgwr_real_union: "Справжня унія"
- autonomy_tgwr_real_union_desc:0 "Real Union is a union of two or more monarchies, that share the same monarch and have some common institutions. In real unions, one state is clearly is weaker than the other, and thus subordinate to it."
+ autonomy_tgwr_personal_union_desc: "Особиста унія — це союз двох або більше монархій, які мають одного монарха, але залишаються двома окремими суб'єктами. В особистих уніях обидві держави зберігають свою незалежність і мають власні інтереси, хоча інтереси монарха не завжди збігаються з прагненнями однієї з держав." # (@VZ)
+ autonomy_tgwr_real_union: "Реальна унія" # (@VZ) — було некоректно: Справжня унія
+ autonomy_tgwr_real_union_desc: "Реальна унія — це союз двох або більше монархій, які мають одного монарха та деякі спільні інституції. У реальних уніях одна держава явно є слабшою за іншу, а тому підпорядкована їй." # (@VZ)
  autonomy_tgwr_condominium: "Кондомініум"
  autonomy_tgwr_self_governing_colony: "Самоврядна колонія"
 

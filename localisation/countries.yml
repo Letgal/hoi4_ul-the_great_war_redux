@@ -2591,7 +2591,7 @@
  EMI: "Емілія-Романья"
  EMI_DEF: "Емілія-Романья"
  EMI_ADJ: "Еміліано-романьйольськ"
- EMI_neutrality_DEF:0 "Duchy of Emilia-Romagna" # (!)
+ EMI_neutrality_DEF:0 "Герцогство Емілія-Романья" # (@VZ)
  EMI_democratic:0 "Cispadane Republic"
  EMI_democratic_DEF:0 "Cispadane Republic"
  EMI_democratic_ADJ:0 "Cispadane"
@@ -2941,7 +2941,7 @@
  ORE_neutrality_DEF: "Оренбурзька козача республіка"
  ORE_fascism: "Оренбурзьке козаче коло"
  ORE_fascism_DEF: "Оренбурзька козача республіка"
- ORE_democratic:0 "Orenburg Cossack Republic" # (!)
+ ORE_democratic:0 "Оренбурзька козацька республіка" # (@VZ)
  ORE_democratic_DEF:0 "Orenburg Cossack Republic"
  ORE_communism: "ВРК Оренбурґа"
  ORE_communism_DEF: "Військово-революційний комітет Оренбурґа"
@@ -3492,16 +3492,16 @@
  KAL: "Калмикія"
  KAL_DEF: "Калмикія"
  KAL_ADJ: "Калмицьк"
- KAL_fascism:0 "Kalmyk Host" # (!)
- KAL_fascism_DEF:0 "Kalmyk Host"
- KAL_communism:0 "Kalmyk Socialist Workers Union"
- KAL_communism_DEF:0 "Kalmyk Socialist Workers Union"
- KAL_vanguardism:0 "Kalmyk SSR"
- KAL_vanguardism_DEF:0 "Kalmyk Soviet Socialist Republic"
- KAL_RUS_subject:0 "Kalmyk Host"
- KAL_RUS_subject_DEF:0 "Kalmyk Host"
- KAL_RUS_vanguardism_subject:0 "Kalmyk ASSR"
- KAL_RUS_vanguardism_subject_DEF:0 "Kalmyk Autonomous Soviet Socialist Republic"
+ KAL_fascism:0 "Калмицьке військо" # (@VZ)
+ KAL_fascism_DEF:0 "Калмицьке військо" # (@VZ)
+ KAL_communism:0 "Калмицький соціалістичний союз робітників" # (@VZ)
+ KAL_communism_DEF:0 "Калмицький соціалістичний союз робітників" # (@VZ)
+ KAL_vanguardism:0 "Калмицька ССР" # (@VZ)
+ KAL_vanguardism_DEF:0 "Калмицька Радянська Соціалістична Республіка" # (@VZ)
+ KAL_RUS_subject:0 "Калмицьке військо" # (@VZ)
+ KAL_RUS_subject_DEF:0 "Калмицьке військо" # (@VZ)
+ KAL_RUS_vanguardism_subject:0 "Калмицька АССР" # (@VZ)
+ KAL_RUS_vanguardism_subject_DEF:0 "Калмицька Автономна Радянська Соціалістична Республіка" # (@VZ)
 
  ### Debug Tag ###
  XXA: "Debug Tag"
