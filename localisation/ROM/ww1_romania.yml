@@ -1017,7 +1017,7 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_has_access_through_straits: "Має доступ до проток для торгівлі"
  ROM_remove_access_to_strait.tt: "Це скасує доступ до проток для комерційної торгівлі."
  ROM_khotyn_uprising_happens: "У Бессарабії відбувається повстання"
- ROM_fixing_the_railways.tt: "\nКоли це рішення буде прийнято:\n§YПротягом 190 днів:§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y10.0%§!\n\n§YЕфекти після видалення:§!\nМодифікувати §YПогану залізничну систему§!:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-5.0%§!\$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§!"
+ ROM_fixing_the_railways.tt: "\nКоли це рішення буде прийнято:\n§YПротягом 190 днів:§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y10.0%§!\n\n§YЕфекти після видалення:§!\nМодифікувати §YПогану залізничну систему§!:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-5.0%§!\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§!"
  ROM_adds_offmap_factory.1: "Додає §G1§! позамаповий §Y$arms_factory$§!\n§RЦя ідея буде видалена, якщо ми вступимо у війну з [GER.GetName]!§!" #НІМЕЦЬКИЙ
  ROM_adds_offmap_factory.2: "Додає §G1§! позамаповий §Y$industrial_complex$§!\n§RЦя ідея буде видалена, якщо ми вступимо у війну з [FRA.GetName]!§!"
  ROM_adds_offmap_factory.3: "Додає §G1§! позамаповий §Y$industrial_complex$§! та §G1§! §Y$arms_factory$§!\n§RЦя ідея буде видалена, якщо ми вступимо у війну з [FRA.GetName]!§!"
