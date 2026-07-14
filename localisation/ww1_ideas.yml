@@ -2474,6 +2474,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GRE_idea_national_schism_desc:0 "Національний розкол є єдиним із вихідних подій у Великій війні. Греція опинилася розколота на дві частини, остання країна охопила зовнішньополітичну кризу. Прем'єр-міністр вважає Грецію членом держав Антанти, а Король бачить, що Греція буде кращою з Центральними державами "
  GRE_idea_dual_power:0 "Подвійна сила"
  GRE_venizelos_support_idea:0 "Венізелісти в Афінах"
+ GRE_a_very_greek_civil_war:0 "A Very Greek Civil War" # (!)
+ GRE_a_very_greek_civil_war_desc:0 "As the horrors of war reached home, the average Greek is less than willing to kill his brother for the nation or the king. As both sides are unwilling to advance against eachother, it seems as if the civil war will drag on for long..." # (!)
  GRE_agrarian_society_dynamic_modifier: "Аграрне суспільство"
  GRE_farmer_focused_culture_dynamic_modifier:0 "Культура, орієнтована на фермера"
  GRE_balanced_approach_dynamic_modifier:0 "Збалансований підхід"
@@ -2533,6 +2535,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  gre_federacion_integration:0 "Інтеграція федерації"
  GRE_mass_employment_idea:0 "Програма масової зайнятості"
  GRE_high_morale:0 "Високий бойовий дух армії"
+ GRE_crush_the_venizelists:0 "Crush the Venizelists" # (!)
  gre_naval_supremacy_idea:0 "Морська перевага"
  GRE_bank_loans_idea:0 "Банківські позики"
  GRE_support_to_russia:0 "Інтервенція на південній Росії"

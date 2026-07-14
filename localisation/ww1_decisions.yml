@@ -240,7 +240,7 @@
  GER_german_offensive_mission_tt:0 "Німеччина атакує більшовиків"
  GER_capitulation:0 "§Y[GER.GetFlag]Німеччина§! подала пропозицію миру"
  ENT_accepts_GER_capitulation: "Держава §Y[GetEntenteLeader]§! прийняла пропозицію миру від §Y[GER.GetFlag]Німеччини§!" # (&+)
- GER_decision_central_powers_conference:0 "Конференція центральних держав"
+ GER_decision_central_powers_conference:0 "Конференція Центральних держав"
  GER_misison_central_powers_conference:0 "Конференція триває"
  GER_italian_request:0 "Запросити [ITA.GetName]"
  GER_romanian_request:0 "Запросити [ROM.GetName]"
@@ -259,7 +259,7 @@
  GER_agadir_crisis_send_demands:0 "Надіслати запити"
  GER_agadir_crisis_escalation:0 "Ескалація кризи"
  GER_decison_colonial_exploitation:0 "Колоніальна експлуатація"
- GER_decision_joint_staff:0 "Об'єднаний штаб центральних держав"
+ GER_decision_joint_staff:0 "Об'єднаний штаб Центральних держав"
  GER_control_austrian_planning:0 "Контроль австрійського планування"
  GER_decision_federal_army: "Bundeswehr"
  GER_organize_civil_defense: "Організувати Zivilschutz"
@@ -949,7 +949,7 @@ FRC_attack_nationalist_france:0 "Атакувати націоналістичн
  AUH_deploy_deploy_jagdkommandos:0 "\n§Y2 дивізії§! у складі §Y9 гірських підрозділів§! та §YАртилерійської підтримки§! буде розгорнуто до §YВідня§!."
  POL_deploy_polish_legion:0 "Розгорнути польський легіон"
  GRE_entente_wont_help_venizelos:0 "Країни, які перебувають у фракції з §Y[FRA.GetName]§! і §Y[ENG.GetName]§!, не допоможуть §Cвенізелістам§! у випадку §Rгромадянської війни§!.\n"
- gre_cp_aid:0 "Допомога центральних держав"
+ gre_cp_aid:0 "Допомога Центральних держав"
  civil_war_has_been_triggered:0 "Відбулася громадянська війна"
 
  AUH_you_should_first_beat_hungarian:0 "\n\n§YУгорці§! будуть §Rкатегорично проти такого заходу, який порушує обіцянку Аусґлайху 1867 року\nСпочатку вам слід розгромити §Yугорську опозицію§!"
