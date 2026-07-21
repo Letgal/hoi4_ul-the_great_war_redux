@@ -115,7 +115,7 @@
  vulcan_werke_ag: "AG Vulcan-Werke Hamburg und Stettin"
  krupp_germaniawerft: "Fried. Krupp Germaniawerft"
  ag_weser: "AG Weser"
- varied_shipbuilding:0 "Submarine & Cruiser Designer" # (!)
+ varied_shipbuilding:0 "Конструктор підводних човнів та крейсерів"
  montevideo_dockyard:0 "Верф Монтевідео"
  philadelphia_naval_shipyard:0 "Військово-морська верф Філадельфії"
  light_cruiser_naval_manufacturer:0 "Конструктор легких крейсерів"
@@ -240,90 +240,90 @@
  zhili_industrial_bureau:0 "Промислове бюро Чжилі"
 
 ### ІТАЛІЯ ###
- ITA_vittorio_emanuele_iii_desc:0 "Despite his diminutive stature, Vittorio Emanuele III has ruled Italy since 1900. His father Umberto I once remarked that to be a king, all one needed was to sign his name, read a newspaper, and mount a horse. Though his father was assassinated by an anarchist, Vittorio Emanuele has proven himself a more modern monarch, showing genuine interest in military affairs and maintaining a pragmatic commitment to constitutional government." # (!)
+ ITA_vittorio_emanuele_iii_desc:0 "Попри свій невисокий зріст, Вітторіо Емануеле III править Італією з 1900 року. Його батько Умберто I колись зауважив, що для того, аби бути королем, потрібно лише підписувати документи, читати газети та триматися в сідлі. Хоча його батька вбив анархіст, Вітторіо Емануеле зарекомендував себе як більш сучасний монарх, що виявляє щирий інтерес до військових справ і прагматично дотримується конституційного ладу."
  ITA_vittorio_emanuele_iii_override_instant: "§H$little_saber$§!\n  - $war_support_modifier$: §G+5.00%§!\n  - $MODIFIER_POLITICAL_POWER_GAIN$: §R-0.05§!"
  ITA_vittorio_emanuele_iii_override_delayed: "§L$ITA_vittorio_emanuele_iii_desc$§!"
- idea_italy_triple_alliance: "Напруга з Троїстим союзом" # (!)
- idea_italy_triple_alliance_desc:0 "While §GItaly§! is formally bound to the Triple Alliance with §gGermany§! and §WAustria-Hungary§!, our government maintains a policy of neutrality. The alliance's terms are increasingly at odds with our national interests, particularly regarding territorial aspirations in the §WAustro-Hungarian§! controlled regions." # (!)
+ idea_italy_triple_alliance: "Напруга з Троїстим союзом"
+ idea_italy_triple_alliance_desc:0 "Хоча §GІталія§! формально зв'язана зобов'язаннями Троїстого союзу з §gНімеччиною§! та §WАвстро-Угорщиною§!, наш уряд дотримується політики нейтралітету. Умови союзу все менше відповідають нашим національним інтересам, особливо щодо територіальних претензій на регіони під контролем §WАвстро-Угорщини§!."
  idea_ita_boys_of_99: "Ragazzi del '99"
- idea_ita_boys_of_99_desc:0 "The '§YRagazzi del '99§!' - the Boys of 1899 - represent Italy's youngest class of conscripts. These young men, barely eighteen, have been called to serve their nation in its hour of need. Their courage and sacrifice will forever be remembered in Italian military history." # (!)
+ idea_ita_boys_of_99_desc:0 "«§YRagazzi del '99§!» — хлопці 1899 року народження — це наймолодший призовний клас Італії. Ці юнаки, яким заледве виповнилося вісімнадцять, були призвані служити своїй батьківщині в часи скрути. Їхня мужність і самопожертва назавжди залишаться в італійській військовій історії."
  idea_protect_ports: "Портові укріплення"
  idea_italy_MAS_boat: "Motoscafo Armato Silurante"
- idea_italy_MAS_boat_desc:0 "The §YArmed Torpedo Motorboat§! represents the pinnacle of Italian naval innovation. These swift, agile vessels excel in coastal defense, anti-submarine warfare, and convoy escort duties. Their success has made them a proud symbol of Italian naval engineering." # (!)
+ idea_italy_MAS_boat_desc:0 "§YОзброєний торпедний катер§! є вершиною італійських військово-морських інновацій. Ці швидкі й маневрові судна чудово підходять для берегової оборони, протичовнової боротьби та ескорту конвоїв. Завдяки своїм успіхам вони стали гордим символом італійського кораблебудування."
  ITA_idea_tribunale_speciale: "OVRA"
- ITA_idea_tribunale_speciale_desc:0 "The §YOrganizzazione per la Vigilanza e la Repressione dell'Antifascismo§! (Organization for Vigilance and Repression of Anti-Fascism) serves as our state's secret police force. Through an extensive network of informants, surveillance operations, and targeted arrests, OVRA ruthlessly hunts down and eliminates any opposition to the fascist regime, particularly §ocommunist§! sympathizers. Their methods have proven especially effective at maintaining control in both domestic territories and occupied regions." # (!)
- ITA_active_labor_unions:0 "Active Labor Unions"
- ITA_active_labor_unions_desc:0 "Labor unions present themselves as rather active in our nation. While their influences are limited, they will start their agitation as soon as they find a room for themselves."
- ITA_active_labor_unions_tt:0 "This §YNational Spirit§! will give the following §Ymodifiers§! depending on stability:\nIf §YStability§! is below §R60%§!, Modify §Y$ITA_active_labor_unions$§! by: $communism_drift$: §G+0.01§!\nIf §YStability§! is below §R40%§!, Modify §Y$ITA_active_labor_unions$§! by: $communism_drift$: §G+0.02§!\nIf §YStability§! is below §R20%§!, Modify §Y$ITA_active_labor_unions$§! by: $communism_drift$: §G+0.03§!\n"
+ ITA_idea_tribunale_speciale_desc:0 "§YОрганізація пильності та придушення антифашизму§! (OVRA) служить таємною поліцією нашої держави. Через розгалужену мережу інформаторів, стеження та цілеспрямовані арешти OVRA нещадно вистежує та ліквідує будь-яку опозицію фашистському режиму, особливо прихильників §oкомунізму§!. Їхні методи виявилися надзвичайно ефективними для підтримання контролю як на власних територіях, так і в окупованих регіонах."
+ ITA_active_labor_unions:0 "Активні профспілки"
+ ITA_active_labor_unions_desc:0 "Профспілки проявляють неабияку активність у нашій країні. Хоча наразі їхній вплив обмежений, вони почнуть агітацію, щойно з'явиться слушна нагода."
+ ITA_active_labor_unions_tt:0 "Цей §Yнаціональний дух§! даватиме такі §Yмодифікатори§! залежно від стабільності:\nЯкщо §YСтабільність§! нижче §R60%§!, §Y$ITA_active_labor_unions$§! змінюється на: $communism_drift$: §G+0.01§!\nЯкщо §YСтабільність§! нижче §R40%§!, §Y$ITA_active_labor_unions$§! змінюється на: $communism_drift$: §G+0.02§!\nЯкщо §YСтабільність§! нижче §R20%§!, §Y$ITA_active_labor_unions$§! змінюється на: $communism_drift$: §G+0.03§!\n"
  ITA_active_labor_unions_effect_tt_1: "$communism_drift$: §G+0.01§!\n"
  ITA_active_labor_unions_effect_tt_2: "$communism_drift$: §G+0.02§!\n"
  ITA_active_labor_unions_effect_tt_3: "$communism_drift$: §G+0.03§!\n"
  ITA_active_labor_unions_dm: "[ITA_active_labor_unions_name]"
- ITA_active_labor_unions_name_c:0 "£pol_idea  Active Labor Unions"
- ITA_active_labor_unions_name_d:0 "£pol_idea  Catholic Opposition"
- ITA_catholic_opposition:0 "Catholic Opposition"
- ITA_catholic_opposition_desc:0 "Catholic upringins of our nation poses the greatest threat to our regime so far. While they're politically uninfluential, they will start their agitation as soon as they find a room for themselves."
- ITA_catholic_opposition_tt:0 "[ITA_catholic_opposition_effect_tt]This §YNational Spirit§! will give the following §Ymodifiers§! depending on;\nIf §YStability§! is below §R60%§!, Modify §YCatholic Opposition§! by: $democratic_drift$: §G+0.01§!\nIf §YStability§! is below §R40%§!, Modify §YCatholic Opposition§! by: $democratic_drift$: §G+0.02§!\nIf §YStability§! is below §R20%§!, Modify §YCatholic Opposition§! by: $democratic_drift$: §G+0.03§!\n"
+ ITA_active_labor_unions_name_c:0 "£pol_idea  Активні профспілки"
+ ITA_active_labor_unions_name_d:0 "£pol_idea  Католицька опозиція"
+ ITA_catholic_opposition:0 "Католицька опозиція"
+ ITA_catholic_opposition_desc:0 "Католицькі заворушення в нашій країні наразі становлять найбільшу загрозу для нашого режиму. Хоча вони політично невпливові, вони почнуть агітацію, щойно з'явиться слушна нагода."
+ ITA_catholic_opposition_tt:0 "[ITA_catholic_opposition_effect_tt]Цей §Yнаціональний дух§! даватиме такі §Yмодифікатори§! залежно від:\nЯкщо §YСтабільність§! нижче §R60%§!, §YКатолицька опозиція§! змінюється на: $democratic_drift$: §G+0.01§!\nЯкщо §YСтабільність§! нижче §R40%§!, §YКатолицька опозиція§! змінюється на: $democratic_drift$: §G+0.02§!\nЯкщо §YСтабільність§! нижче §R20%§!, §YКатолицька опозиція§! змінюється на: $democratic_drift$: §G+0.03§!\n"
  ITA_catholic_opposition_effect_tt_1: "$democratic_drift$: §G+0.01§!\n"
  ITA_catholic_opposition_effect_tt_2: "$democratic_drift$: §G+0.02§!\n"
  ITA_catholic_opposition_effect_tt_3: "$democratic_drift$: §G+0.03§!\n"
  ITA_idea_italian_autarky: "Італійська автаркія"
- ITA_idea_italian_autarky_desc:0 "Our policy of economic self-sufficiency aims to reduce §GItaly's§! dependence on foreign imports. While this has spurred domestic industrial development, it has also created significant challenges in resource acquisition and international trade." # (!)
+ ITA_idea_italian_autarky_desc:0 "Наша політика економічної самодостатності спрямована на зменшення залежності §GІталії§! від іноземного імпорту. Хоча це підштовхнуло розвиток внутрішньої промисловості, це також створило суттєві труднощі в отриманні ресурсів та міжнародній торгівлі."
  ITA_idea_mafia: "Вплив сицилійської мафії"
- ITA_idea_mafia_desc:0 "The criminal organizations of Southern Italy, particularly the §YSicilian Mafia§!, maintain a powerful grip on local politics and economy. Their influence extends deep into society, challenging the authority of the central government and hampering our modernization efforts." # (!)
+ ITA_idea_mafia_desc:0 "Злочинні організації Південної Італії, особливо §Yсицилійська мафія§!, міцно утримують контроль над місцевою політикою та економікою. Їхній вплив глибоко проникає в суспільство, кидаючи виклик владі центрального уряду та перешкоджаючи нашим зусиллям із модернізації."
  ITA_idea_camicie_nere: "Чорні сорочки"
- ITA_idea_camicie_nere_desc:0 "The §YBlack Shirts§! serve as a powerful paramilitary force, maintaining order and enforcing political will through both intimidation and direct action. Their distinctive black uniforms have become a symbol of authority and control." # (!)
+ ITA_idea_camicie_nere_desc:0 "§YЧорні сорочки§! виступають як потужна воєнізована сила, що підтримує порядок та нав'язує політичну волю як шляхом залякування, так і за допомогою прямих дій. Їхня характерна чорна уніформа стала символом влади та контролю."
  ITA_death_before_surrender: "Смерть понад капітуляцію"
- ITA_death_before_surrender_desc:0 "Our military doctrine emphasizes absolute commitment to the cause. This unwavering dedication to duty, while inspiring, often leads to costly battles and high casualties as our forces refuse to yield ground." # (!)
+ ITA_death_before_surrender_desc:0 "Наша військова доктрина наголошує на абсолютній відданості справі. Ця непохитна вірність обов'язку хоч і надихає, але часто призводить до виснажливих битв і великих утрат, оскільки наші війська відмовляються відступати."
  vickers_terni: "Vickers-Terni"
- vickers_terni_desc:0 "This §RAnglo§!-§GItalian§! joint venture represents a crucial step in our military industrialization. The company's advanced manufacturing capabilities, particularly in artillery and naval weapons, significantly enhance our military production capacity." # (!)
+ vickers_terni_desc:0 "Це спільне §Rангло§!-§Gіталійське§! підприємство є вирішальним кроком у нашій військовій індустріалізації. Передові виробничі потужності компанії, особливо в царині артилерії та морського озброєння, суттєво збільшують обсяги нашого військового виробництва."
  universita_torino: "Università degli Studi di Torino"
- universita_torino_desc:0 "The §YUniversity of Turin§! stands as one of our premier educational institutions. Its research facilities and academic excellence contribute significantly to our nation's scientific and technological advancement." # (!)
- umberto_ii: "Умберто II"
- umberto_ii_desc:0 "Син і законний наступник Вітторіо Еммануїла III, став королем Італії в суворі часи. Невідомо, чи міг він вести Італію в майбутньому, після посів трон у молодому віці"
+ universita_torino_desc:0 "§YТуринський університет§! є одним із наших провідних навчальних закладів. Його дослідницькі лабораторії та академічні успіхи роблять вагомий внесок у науковий і технологічний прогрес нашої країни."
+ umberto_ii: "Умберто II"
+ umberto_ii_desc:0 "Син і законний наступник Вітторіо Емануеле III, який став королем Італії в суворі часи. Невідомо, чи зміг би він вести Італію в майбутнє, посівши трон у молодому віці."
  ita_SIAI: "SIAI"
- ita_SIAI_desc:0 "The §YSocietà Idrovolanti Alta Italia§! (Upper Italy Seaplane Company) leads our nation's development of naval aviation technology. Their innovative designs have positioned Italy at the forefront of seaplane development." # (!)
+ ita_SIAI_desc:0 "§YТовариство гідролітаків Верхньої Італії§! (SIAI) очолює розвиток технологій морської авіації в нашій країні. Їхні інноваційні проєкти вивели Італію на передові позиції в розробці гідролітаків."
  idea_ITA_moderate_protectionism:0 "Помірний протекціонізм"
- idea_ITA_moderate_protectionism_desc:0 "Our balanced approach to trade protection helps shield developing domestic industries while maintaining necessary international commerce. This policy walks a fine line between fostering industrial growth and preventing economic isolation." # (!)
+ idea_ITA_moderate_protectionism_desc:0 "Наш збалансований підхід до захисту торгівлі допомагає оберігати внутрішні галузі промисловості, що розвиваються, зберігаючи водночас необхідну міжнародну комерцію. Ця політика балансує на тонкій межі між стимулюванням промислового зростання та запобіганням економічній ізоляції."
  ansaldo_aerei: "Ansaldo Aeronautica"
- ansaldo_aerei_desc:0 "As one of Italy's premier aircraft manufacturers, §YAnsaldo Aeronautica§! plays a vital role in our military aviation sector. Their innovative designs and production capabilities are crucial to maintaining our air force's technological edge." # (!)
+ ansaldo_aerei_desc:0 "Як один із провідних виробників літаків в Італії, §YAnsaldo Aeronautica§! відіграє життєво важливу роль у нашому секторі військової авіації. Їхні інноваційні розробки та виробничі потужності мають вирішальне значення для підтримання технологічної переваги наших повітряних сил."
  ITA_moderm_hussars: "Сучасні гусари"
- ITA_moderm_hussars_desc:0 "Our cavalry forces have adapted to modern warfare while maintaining their proud traditions. These modernized units combine classical cavalry tactics with contemporary military doctrine, proving their continued relevance on the battlefield." # (!)
+ ITA_moderm_hussars_desc:0 "Наші кавалерійські частини пристосувалися до умов сучасної війни, зберігши свої славні традиції. Ці модернізовані підрозділи поєднують класичну тактику кавалерії із сучасною військовою доктриною, доводячи свою незмінну ефективність на полі бою."
  ITA_messina_earthquake_aftershock: "Поштовх після Мессінського землетрусу"
- ITA_messina_earthquake_aftershock_desc:0 "The catastrophic earthquake and tsunami of December 28, 1908, remains a deep scar in our national psyche. The destruction of §YMessina§! and §YReggio di Calabria§! claimed over 80,000 lives, marking Europe's deadliest earthquake. The ongoing reconstruction efforts continue to strain our resources and shape our domestic policies." # (!)
+ ITA_messina_earthquake_aftershock_desc:0 "Катастрофічний землетрус і цунамі 28 грудня 1908 року залишили глибокий шрам у нашій національній пам'яті. Руйнування §YМессіни§! та §YРеджо-ді-Калабрія§! забрало понад 80 000 життів, ставши найсмертоноснішим землетрусом у Європі. Поточні зусилля з відбудови продовжують виснажувати наші ресурси та впливати на внутрішню політику."
  ITA_lackluster_industrialisation:0 "Млява індустріалізація"
- ITA_lackluster_industrialisation_desc:0 "Our industrialization efforts face significant challenges, particularly due to the stark contrast between the industrialized §gNorth§! and the agricultural §YSouth§!. This economic divide hampers our overall industrial development and national productivity." # (!)
+ ITA_lackluster_industrialisation_desc:0 "Наші зусилля з індустріалізації стикаються з серйозними викликами, зокрема через різкий контраст між промисловою §gПівніччю§! та аграрним §YПівднем§!. Цей економічний розкол гальмує загальний промисловий розвиток і продуктивність країни."
  ITA_lybia_war_effort:0 "Десантна війна"
- ITA_lybia_war_effort_desc:0 "As we prepare to assert our claims in §YNorth Africa§!, our military has undertaken extensive preparations for overseas operations. Our naval and army commanders have developed new doctrines for amphibious warfare, while our logistics officers have streamlined the complex task of deploying forces across the §BMediterranean§!. These preparations will prove invaluable in securing our colonial ambitions in §YLibya§!." # (!)
+ ITA_lybia_war_effort_desc:0 "Готуючись заявити про свої претензії в §YПівнічній Африці§!, наші збройні сили провели масштабну підготовку до заморських операцій. Командувачі армії та флоту розробили нові доктрини висадки десанту, а офіцери логістики впорядкували складне завдання розгортання військ через §BСередземне море§!. Ця підготовка виявиться безцінною для реалізації наших колоніальних амбіцій у §YЛівії§!."
  ITA_emigrazione_italiana: "Emigrazione Italiana"
- ITA_emigrazione_italiana_desc:0 "The mass exodus of §GItalians§! seeking better opportunities abroad has become a defining feature of our society. While this emigration provides economic relief through remittances, it also represents a significant drain on our workforce and human capital." # (!)
+ ITA_emigrazione_italiana_desc:0 "Масовий вихід §Gіталійців§!, які шукають кращих можливостей за кордоном, став визначальною рисою нашого суспільства. Хоча ця еміграція приносить економічне полегшення завдяки грошовим переказам, вона також означає суттєвий відтік робочої сили та людського капіталу."
  ITA_rapid_unionisation:0 "Швидке об'єднання"
- ITA_rapid_unionisation_desc:0 "Італійські робітники швидко об'єднуються в профспілки, а страйки залишаються все більш і більш актуальними."
+ ITA_rapid_unionisation_desc:0 "Італійські робітники швидко об'єднуються в профспілки, а страйки стають усе більш і більш актуальними."
  ITA_roman_question: "Questione Romana"
- ITA_roman_question_desc:0 "The complex relationship between the §GItalian State§! and the §WHoly See§! remains a delicate political issue. The status of §YRome§! as both our national capital and the seat of papal authority creates ongoing tensions in our domestic and international relations." # (!)
+ ITA_roman_question_desc:0 "Складні відносини між §GІталійською державою§! та §WСвятим Престолом§! залишаються делікатним політичним питанням. Статус §YРима§! як нашої національної столиці та водночас резиденції папської влади створює постійну напругу у внутрішніх і міжнародних відносинах."
  ITA_lateran_treaty:0 "Латеранський договір"
- ITA_lateran_treaty_desc:0 "The historic agreement between §GItaly§! and the §WHoly See§! has finally resolved the §YRoman Question§!. By recognizing Vatican City as an independent state and providing compensation for the lost Papal States, we have achieved a crucial diplomatic breakthrough that stabilizes our internal politics." # (!)
+ ITA_lateran_treaty_desc:0 "Історична угода між §GІталією§! та §WСвятим Престолом§! нарешті розв'язала §YРимське питання§!. Визнавши Ватикан незалежною державою та виплативши компенсацію за втрачену Папську область, ми досягли вирішального дипломатичного прориву, який стабілізує нашу внутрішню політику."
 
  FRA_scientists_exodus:0 "Вихід вчених"
  FRA_scientists_exodus_desc:0 "Після соціалістичного перевороту аристократична та релігійна еліта покинула країну. Цей вік мізків глибоко переслідував новий режим"
 
- FRA_socialist_education:0 "Socialist Education" # (!)
- FRA_socialist_education_desc:0 "To counter the brain drain caused by the revolution, the government made special efforts to reform education. Despite these attempts, France no longer produces as many inventors as it once did."
+ FRA_socialist_education:0 "Соціалістична освіта"
+ FRA_socialist_education_desc:0 "Щоб протидіяти відтоку мізків, спричиненому революцією, уряд доклав особливих зусиль для реформування освіти. Попри ці спроби, Франція більше не виховує стільки винахідників, скільки колись."
 
- FRA_popular_investment_act:0 "Popular Investment Act"
- FRA_popular_investment_act_desc:0 "The Economic Planning Committee has launched a program to support heavy industries, aimed at simplifying production methods. These temporary permits allow factories to adapt more easily to national needs."
+ FRA_popular_investment_act:0 "Закон про народні інвестиції"
+ FRA_popular_investment_act_desc:0 "Комітет економічного планування запустив програму підтримки важкої промисловості, спрямовану на спрощення методів виробництва. Ці тимчасові дозволи дають змогу заводам і фабрикам легше адаптуватися до національних потреб."
 
  FRA_charte_federale_du_travail:0 "Charte Fédérale du Travail"
- FRA_charte_federale_du_travail_desc:0 "The Federal Labor Charter requires state enterprises and regional administrations to exercise popular leadership through a free and autonomous trade union."
+ FRA_charte_federale_du_travail_desc:0 "Федеральна хартія праці вимагає від державних підприємств та регіональних адміністрацій здійснювати народне керівництво через вільну та автономну профспілку."
 
- FRA_central_comite_dictatorship:0 "Central Comite Dictatorship"
- FRA_central_comite_dictatorship_desc:0 "The Paris-based revolutionary committee eliminated all political plurality and dissolved regional and local councils to ensure total control over the administration."
+ FRA_central_comite_dictatorship:0 "Диктатура Центрального комітету"
+ FRA_central_comite_dictatorship_desc:0 "Революційний комітет у Парижі ліквідував будь-який політичний плюралізм і розпустив регіональні та місцеві ради, щоб забезпечити повний контроль над адміністрацією."
 
- FRA_first_five_year_plan:0 "First Five Year Plan"
- FRA_first_five_year_plan_desc:0 "The French government has ordered a massive industrialization plan that mobilizes a large part of the national economy."
+ FRA_first_five_year_plan:0 "Перша п'ятирічка"
+ FRA_first_five_year_plan_desc:0 "Французький уряд затвердив масштабний план індустріалізації, який мобілізує значну частину національної економіки."
 
- FRA_union_in_socialism:0 "Union in Socialism"
- FRA_union_in_socialism_desc:0 "The syndicalist government greatly encouraged political plurality within the national representation. Anarchist, syndicalist, communist, and moderate movements were all authorized and held strong positions within certain local councils. This openness prevented popular protest and kept the people united behind the cause."
+ FRA_union_in_socialism:0 "Єдність у соціалізмі"
+ FRA_union_in_socialism_desc:0 "Синдикалістський уряд всіляко заохочував політичний плюралізм у національному представництві. Анархістські, синдикалістські, комуністичні та помірковані рухи були дозволені й мали міцні позиції в деяких місцевих радах. Така відкритість запобігла народним протестам і зберегла єдність народу навколо спільної справи."
 
  FRA_defiant_army:0 "Зухвала армія"
  FRA_defiant_army_desc:0 "Хоча старших генералів-націоналістів залишити армію, серед лав залишається сильна опозиція. Старшини та солдати не розуміють, що Французька Республіка стала соціалістичною державою, а не повною мірою співпрацюють з урядом"
@@ -344,7 +344,7 @@
  has_italian_civil_war_tt_NOT: "Італія не перебуває у §Yгромадянській війні§!"
 
  ITA_under_enemy_hands: "Під ворожими руками" # (&?)
- ITA_under_enemy_hands_desc:0 "The Austrian Habsburgs has been the arch-enemy of Italian unification, but the idea of a united Italy has once again failed, and Venice has fallen under Austrian control. The local population is not too happy with their rule and control." # (!)
+ ITA_under_enemy_hands_desc:0 "Австрійські Габсбурги завжди були головним ворогом об'єднання Італії, але ідея єдиної держави знову зазнала краху, і Венеція потрапила під австрійський контроль. Місцеве населення не надто задоволене їхнім правлінням та контролем."
 
 ### ЛІХТЕНШТАЙН ###
  LIE_custom_union_with_austria:0 "Митний союз із державою [AUS.GetName]"
@@ -780,7 +780,7 @@
  TUR_german_investments_on_anatolia_on_add:0 "Почнеться місія §YНімецькі інвестиції в Анатолії§!"
  TUR_italian_investments_on_libya_on_add:0 "Почнеться місія §YІталійських інвестицій на Траблусгар§!"
  TUR_paying_war_reparations:0 "Виплата військових репарацій"
- TUR_recieving_war_reparations:0 "Receiving War Reparations" # (!)
+ TUR_recieving_war_reparations:0 "Отримання воєнних репарацій"
 
 ### РОСІЯ ###
  RUS_idea_urgent_strengthening_of_airfleet:0 "Терміново посилення авіаційного флоту"
@@ -947,8 +947,8 @@
  russian_east_asiatic_steamship_co:0 "Російська Східно-Азійська пароплавна компанія."
  CER_nominal_concession:0 "Номінальна російська концесія"
  CER_nominal_concession_desc:0 "Незважаючи на порушення реальної центральної влади в Росії, CER все ще підтвердить її територію, і як така не може бути прийнята без міжнародної реакції."
- CER_soviet_agreement:0 "Sino-Soviet Agreement" # (!)
- CER_soviet_agreement_desc:0 "Under the agreement between Soviet Russia and the authorities of the Eastern Three Provinces of China, the Chinese Eastern Railway ceased to be a Russian concession or a privileged territory, but became a jointly managed railway company between Russia and China. In return, China recognized the Chinese Eastern Railway territory as a separate special administrative region and accepted Russian residents. However, the region's industry and economy remain heavily dependent on Russia."
+ CER_soviet_agreement:0 "Китайсько-радянська угода"
+ CER_soviet_agreement_desc:0 "Згідно з угодою між Радянською Росією та владою трьох східних провінцій Китаю, Китайсько-Східна залізниця перестала бути російською концесією чи привілейованою територією, а стала спільною залізничною компанією Росії та Китаю. Натомість Китай визнав територію КСЗ окремим спеціальним адміністративним регіоном і прийняв російських резидентів. Проте промисловість та економіка регіону залишаються сильно залежними від Росії."
 
 ### МОНҐОЛІЯ ###
  MON_divided_rule:0 "Розділена нація"
@@ -959,13 +959,13 @@
  MON_bogd_khan_sternberg_desc:0 "Боґдо-хан є теократичним правителем Монґолії. Як духовний лідер країни, він є головною буддійською церквою. З приходом військової білої Росії під керівництвом Романа фон Унгерн-Штернберга, який вигнав китайців, він був відновлений на своїй троні. Його влада переважно відновлена. номінальна, а Унгерн-Штернберг тягнув за ниточки справжню владу"
  MON_nomadic_society:0 "Суспільство кочівників"
  MON_nomadic_society_desc:0 "Протягом століть монґольські народи жили в дуже кочовому суспільстві, щороку пересуваючись монґольськими степами, ніколи не осідаючи. Більша частина монґольського населення все ще живе так, чому найбільша осіла група монґолів знаходиться в Урзі"
- MON_lama:0 "Lamaism" # (!)
- MON_lama_desc:0 "Most Mongolians practice Lamaist Buddhism, which is closely tied to politics. A significant portion of the population are lama monks, who are not conscripted into the military but instead practice their religious life." # (!)
+ MON_lama:0 "Ламаїзм"
+ MON_lama_desc:0 "Більшість монголів сповідують ламаїстський буддизм, який тісно пов'язаний із політикою. Значна частина населення — ченці-лами, які не підлягають військову призову, а натомість ведуть релігійне життя."
 
  KAL_nomadic_society: "$MON_nomadic_society$"
- KAL_nomadic_society_desc:0 "The Kalmyks led a purely nomadic life. The low productivity of the soil, the lack of suitable land not only for agriculture but even for permanent pastures, the absence of running water and generally a good water supply system made sedentary life impossible. The Kalmyks recognized their steppe as the common property of the uluses, establishing neither specific boundaries between the uluses nor defined territories for the nomadic habitations of the ulus clans." # (!)
- KAL_peasant_settlers:0 "Peasant Settlers" # (!)
- KAL_peasant_settlers_desc:0 "After the abolition of serfdom in 1861, peasants moved to Kalmyk and Cossack lands, renting land from them for agricultural activities and paying the Kalmyks and Cossacks rent for the use of pastures and land.\n\nLocal peasants were dissatisfied with the fact that Kalmyks, who, in their view, bore no significant state obligations, were exempt from military service, and had more land per capita. The illiterate peasants believed that the \"land belonged to the Tsar,\" not to the public, and that it should be divided \"fairly.\"" # (!)
+ KAL_nomadic_society_desc:0 "Калмики вели суто кочовий спосіб життя. Низька родючість ґрунту, брак придатних земель не лише для землеробства, а й для постійних пасовищ, відсутність проточної води та загалом якісної системи водопостачання унеможливлювали осіле життя. Калмики визнавали свій степ спільною власністю улусів, не встановлюючи ні чітких кордонів між ними, ні визначених територій для кочових поселень улусних родів."
+ KAL_peasant_settlers:0 "Селяни-переселенці"
+ KAL_peasant_settlers_desc:0 "Після скасування кріпосного права в 1861 році селяни переселялися на калмицькі та козацькі землі, орендуючи їх для сільськогосподарської діяльності та сплачуючи калмикам і козакам орендну плату за використання пасовищ і угідь.\n\nМісцеві селяни були незадоволені тим, що калмики, які, на їхню думку, не несли значних державних зобов'язань, були звільнені від військової служби та мали більше землі на душу населення. Неписьменні селяни вважали, що «земля належить царю», а не громаді, і що її слід розділити «по-справедливості»."
 
 ### БЕЛЬГІЯ ###
  BEL_schollaert_educational_reforms:0 "Освітні реформи Схолларта"
@@ -987,48 +987,48 @@
  BEL_general_staff_communication_issues:0 "Проблеми зі зв'язком генерального штабу"
  BEL_general_staff_communication_issues_desc:0 "Французький персонал тепер двомовний, що через очевидні непорозуміння серед офіцерів, які не говорять голландською."
 
- BEL_religion_restricted:0 "Religious Organisations Restricted" # (!)
- BEL_religion_restricted_desc:0 "Religion organizations hold alot of power, it is now restricted by losing funding."
+ BEL_religion_restricted:0 "Обмеження релігійних організацій"
+ BEL_religion_restricted_desc:0 "Релігійні організації мають велику владу; тепер їх обмежили через позбавлення фінансування."
 
- BEL_socialist_concessions:0 "Socialist Concessions"
- BEL_socialist_concessions_desc:0 "Concessions must be given to the Socialist Party, otherwise there is a chance of the coalition breaking apart."
+ BEL_socialist_concessions:0 "Поступки соціалістам"
+ BEL_socialist_concessions_desc:0 "Необхідно піти на поступки Соціалістичній партії, інакше з'явиться ризик розпаду коаліції."
 
- BEL_political_turmoil:0 "Weak Government"
- BEL_political_turmoil_desc:0 "The Government is weak because it is unpopular."
+ BEL_political_turmoil:0 "Слабкий уряд"
+ BEL_political_turmoil_desc:0 "Уряд слабкий, оскільки він непопулярний."
 
- BEL_luba_resistance_modifier:0 "Luba Rebellion"
- BEL_luba_resistance_modifier2:0 "Luba Rebellion"
- BEL_belgian_colonial_policy:0 "Belgian Colonial Policy"
- BEL_belgian_colonial_policy2:0 "Belgian Colonial Policy"
- BEL_belgian_colonial_policy3:0 "Belgian Colonial Policy"
- BEL_bad_colonial_policy:0 "Exploitative Colonial Policy"
- BEL_bad_colonial_policy_desc:0 "The colonial policy of the Belgians is currently aimed to exploit the lands as much as possible and extract as much wealth as possible without a care in the world for the natives living there."
- BEL_good_colonial_policy:0 "Reformed Colonial Policy"
- BEL_good_colonial_policy_desc:0 "The colonial policy of the Belgians is currently aimed at creating the Congo a core part of Belgium by giving natives the same rights and increasing funding in its infrastructure."
+ BEL_luba_resistance_modifier:0 "Повстання Луба"
+ BEL_luba_resistance_modifier2:0 "Повстання Луба"
+ BEL_belgian_colonial_policy:0 "Бельгійська колоніальна політика"
+ BEL_belgian_colonial_policy2:0 "Бельгійська колоніальна політика"
+ BEL_belgian_colonial_policy3:0 "Бельгійська колоніальна політика"
+ BEL_bad_colonial_policy:0 "Експлуататорська колоніальна політика"
+ BEL_bad_colonial_policy_desc:0 "Колоніальна політика бельгійців наразі спрямована на максимальну експлуатацію земель та викачування якомога більшої кількості багатств, абсолютно без турботи про корінне населення, що там проживає."
+ BEL_good_colonial_policy:0 "Реформована колоніальна політика"
+ BEL_good_colonial_policy_desc:0 "Колоніальна політика бельгійців наразі спрямована на перетворення Конго на невіддільну частину Бельгії шляхом надання корінному населенню рівних прав та збільшення фінансування його інфраструктури."
 
- BEL_catholic_economics:0 "Catholic Economic Policy"
- BEL_catholic_economics_desc:0 "Catholic Economic policy is aimed at empowering the rural folks that vote for them and keeping the rich happy."
- BEL_better_police:0 "Improved Police"
- BEL_better_police_desc:0 "The police must be improved to deal with all the strikes and protests the Catholic government faces."
- BEL_boerenbond:0 "Boerenbond"
- BEL_boerenbond_desc:0 "Boerenbond is an organization made up of farmers, it is made to help farmers and make sure they cooperate."
- BEL_military_costs:0 "Military-Related Costs"
- BEL_military_costs_desc:0 "The Military ain't cheap, and Belgium knows it."
- BEL_money_set_aside:0 "Money Set Aside"
- BEL_money_set_aside_desc:0 "Money must be set aside right now if we want a swift recovery after this big war."
- BEL_albertfunds:0 "Albertfunds"
- BEL_albertfunds_desc:0 "The Albertfunds are funds set aside so the government can reconstruct Belgium swiftly after the war is over."
+ BEL_catholic_economics:0 "Католицька економічна політика"
+ BEL_catholic_economics_desc:0 "Католицька економічна політика спрямована на розширення можливостей сільського населення, яке голосує за них, та задоволення потреб багатіїв."
+ BEL_better_police:0 "Покращена поліція"
+ BEL_better_police_desc:0 "Поліцію необхідно покращити, щоб справлятися з усіма страйками та протестами, з якими стикається католицький уряд."
+ BEL_boerenbond:0 "Селянська спілка"
+ BEL_boerenbond_desc:0 "Boerenbond — це організація, що складається з фермерів, створена для допомоги їм та забезпечення їхньої співпраці."
+ BEL_military_costs:0 "Військові витрати"
+ BEL_military_costs_desc:0 "Армія — це недешево, і Бельгія це знає."
+ BEL_money_set_aside:0 "Відкладені кошти"
+ BEL_money_set_aside_desc:0 "Прямо зараз необхідно відкласти гроші, якщо ми хочемо швидкого відновлення після цієї великої війни."
+ BEL_albertfunds:0 "Фонди Альберта"
+ BEL_albertfunds_desc:0 "Фонди Альберта — це кошти, відкладені для того, щоб уряд міг швидко відбудувати Бельгію після закінчення війни."
 
- BEL_modifier_belgian_army:0 "The Belgian Army"
- BEL_modifier_belgian_army_desc:0 "The Belgian Army is backwards, it has no equipment and not ready for a war. It was made in 1830 after the end of the Belgian revolution and hasn't inovated since. The officers only join it to have the prestige that a high rank gives you."
- BEL_war_plans_idea:0 "War Plans"
- BEL_war_plans_idea_desc:0 "The general staff have been tasked with setting up a plan to defend Belgium if required."
- BEL_idea_offshore_production:0 "Offshore Military Production"
- BEL_idea_offshore_production_desc:0 "The Belgian Economy is not made for military production, they can however use the military factories of their allies to produce their equipment."
+ BEL_modifier_belgian_army:0 "Бельгійська армія"
+ BEL_modifier_belgian_army_desc:0 "Бельгійська армія є відсталою, не має спорядження та не готова до війни. Вона була створена в 1830 році після завершення Бельгійської революції й відтоді не модернізувалася. Офіцери йдуть туди лише заради престижу, який дає високе звання."
+ BEL_war_plans_idea:0 "Воєнні плани"
+ BEL_war_plans_idea_desc:0 "Генеральному штабу доручили розробити план оборони Бельгії на випадок потреби."
+ BEL_idea_offshore_production:0 "Закордонне військове виробництво"
+ BEL_idea_offshore_production_desc:0 "Бельгійська економіка не пристосована для військового виробництва, проте вони можуть використовувати військові заводи своїх союзників для випуску власного спорядження."
 
- BEL_idea_dutch_trade_deal:0 "Dutch-Belgian Trade Deal"
- BEL_modifier_belgian_exploitative_labour_conditions:0 "Belgian Labour Conditions"
- BEL_modifier_belgian_exploitative_labour_conditions_desc:0 "Belgian Labour Conditions are notorious for being bad. This is the reason why so many companies invest into Belgium and why so many strikes happen. The politicians haven't tried much the last 84 years to improve the situation."
+ BEL_idea_dutch_trade_deal:0 "Нідерландсько-бельгійська торговельна угода"
+ BEL_modifier_belgian_exploitative_labour_conditions:0 "Умови праці в Бельгії"
+ BEL_modifier_belgian_exploitative_labour_conditions_desc:0 "Умови праці в Бельгії відомі своєю жахливістю. Саме тому так багато компаній інвестують у Бельгію і саме тому відбувається так багато страйків. Політики мало що зробили за останні 84 роки, аби виправити цю ситуацію."
 
  BEL_french_military_supplies:0 "[FRA.getAdjective] Військове постачання"
  BEL_french_military_supplies_desc:0 "У союзі з [FRA.getName] [ROOT.getName] отримує переваги від частини виробництва свого можливого союзника, життєво важливого запасу для поповнення військ."
@@ -1081,14 +1081,14 @@
  BEL_frontbeweging_support: "Frontbeweging"
  BEL_nationalist_sentiment_democrat:0 "Бельгійська єдність"
  BEL_nationalist_sentiment_democrat_desc:0 "Перед обличчям Великої війни дрібні націоналістичні та етнічні розбіжності складаються в ім'я більшої єдності Бельгії"
- BEL_treaty_of_london:0 "Treaty of London" # (!)
- BEL_treaty_of_london_desc:0 "Under the treaty, the European powers recognised and guaranteed the independence and neutrality of Belgium and established the full independence of the German-speaking part of Luxembourg. Article VII required Belgium to remain perpetually neutral."
- BEL_spy_agency_upgrades:0 "Espionage Missions"
+ BEL_treaty_of_london:0 "Лондонський договір"
+ BEL_treaty_of_london_desc:0 "Згідно з договором, європейські держави визнали й гарантували незалежність і нейтралітет Бельгії, а також встановили повну незалежність німецькомовної частини Люксембургу. Стаття VII вимагала від Бельгії залишатися вічно нейтральною."
+ BEL_spy_agency_upgrades:0 "Шпигунські місії"
 
- NFA_structured_doctrines:0 "Structured Doctrines" # (!)
- NFA_structured_doctrines_desc:0 "The French general staff ordered a vertical and rigid direction of the army."
- NFA_general_staff_dictatorship:0 "General Staff Dictatorship" # (!)
- NFA_general_staff_dictatorship_desc:0 "The French general staff ordered a vertical and rigid direction of the army, while also dictating the politics and the economy."
+ NFA_structured_doctrines:0 "Структуровані доктрини"
+ NFA_structured_doctrines_desc:0 "Французький генеральний штаб запровадив вертикальне та жорстке управління армією."
+ NFA_general_staff_dictatorship:0 "Диктатура Генерального штабу"
+ NFA_general_staff_dictatorship_desc:0 "Французький генеральний штаб запровадив вертикальне та жорстке управління армією, одночасно диктуючи політику та економіку."
 
 
 FRA_idea_union_sacree: "Union Sacrée"
@@ -1120,23 +1120,23 @@ FRA_desert_equipment_desc:0 "Відповідний одяг і багаж за�
 
  FRA_isaac_natality_law:0 "Закон про народження Ісаака"
  FRA_isaac_natality_law_desc:0 "Цей закон створює спеціальний компенсаційний фонд для багатодітних сімей. Допомога надається на шкірну дитину віком до 13 років, при цьому пропонується спрощений доступ до певних адміністративних послуг із змінним статусом батьків."
- FRA_idea_seized_aristocrat_assets:0 "Seized Aristocrats Assets" # (!)
- FRA_uncontrolled_popular_courts:0 "Uncontrolled Popular Courts" # (!)
- FRA_uncontrolled_popular_courts_desc:0 "Numerous wild tribunals have sprung up across the country, arbitrarily trying citizens accused of being linked to capitalist forces. These citizen initiatives are causing unacceptable excesses that the state must moderate."
- FRA_state_controlled_popular_courts:0 "State-Controlled Popular Courts" # (!)
- FRA_state_controlled_popular_courts_desc:0 "The socialist government controls various organizations throughout the country, which have established popular courts to try anti-proletarian supporters."
- FRA_vindicative_left_wing:0 "Vindicative Left Wing" # (!)
- FRA_vindicative_left_wing_desc:0 "Within the SFIO reside several anarchist and revolutionary parties whose extreme ideals prevent any construction of a solid and lasting state. In addition to their anti-statist ideals, they advocate the elimination of capitalists at all costs, calling for war throughout Europe."
+ FRA_idea_seized_aristocrat_assets:0 "Конфісковані активи аристократів"
+ FRA_uncontrolled_popular_courts:0 "Непідконтрольні народні суди"
+ FRA_uncontrolled_popular_courts_desc:0 "По всій країні виникли численні стихійні трибунали, які свавільно судять громадян, звинувачених у зв'язках із капіталістичними силами. Ці громадянські ініціативи призводять до неприпустимих ексцесів, які держава має стримати."
+ FRA_state_controlled_popular_courts:0 "Державні народні суди"
+ FRA_state_controlled_popular_courts_desc:0 "Соціалістичний уряд контролює різні організації по всій країні, які створили народні суди для суду над антипролетарськими елементами."
+ FRA_vindicative_left_wing:0 "Реваншистське ліве крило"
+ FRA_vindicative_left_wing_desc:0 "У межах SFIO перебуває кілька анархістських та революційних партій, чиї екстремальні ідеали заважають побудові міцної та довговічної держави. Окрім антидержавних поглядів, вони виступають за ліквідацію капіталістів за будь-яку ціну, закликаючи до війни по всій Європі."
 
- FRC_bandit_warfare:0 "Bandit Warfare" # (!)
- FRC_bandit_warfare_desc:0 "The French People's Army is composed of civilians, military personnel, and various militias, each with their own unique warfare tactics. While this chaotic strategy makes coordination difficult, it also greatly confuses the enemy."
- FRC_centralized_command:0 "Centalized Command" # (!)
- FRC_centralized_command_desc:0 "Unlike revolutionaries throughout Europe, the French communist command maintained a conventional battle plan, minimizing the influence of militias and paramilitary groups advocating guerrilla warfare."
- FRC_communard_propaganda_press:0 "Communard Propaganda Press" # (!)
- FRC_communard_propaganda_press_desc:0 "The provisional government nationalized all major national and regional presses, all of which serve socialist interests."
- FRC_popular_recruitement_comittees:0 "Popular Recruitment Committees" # (!)
- FRC_revolutionnary_naval_officiers:0 "Revolutionnary Naval Officiers" # (!)
- FRC_revolutionnary_naval_officiers_desc:0 "A large proportion of the Admiralty's middle-ranking officers sided with the nationalist banner, forcing the government to promote students and volunteers to command en masse. Due to a lack of experience and training, our navy has lost much of its effectiveness."
+ FRC_bandit_warfare:0 "Партизанська війна"
+ FRC_bandit_warfare_desc:0 "Французька народна армія складається з цивільних осіб, військовослужбовців та різних ополчень, кожне з яких має свою унікальну тактику ведення бою. Хоча така хаотична стратегія ускладнює координацію, вона також сильно дезорієнтує ворога."
+ FRC_centralized_command:0 "Централізоване командування"
+ FRC_centralized_command_desc:0 "На відміну від інших революціонерів по всій Європі, французьке комуністичне командування дотримується конвенційного плану ведення бою, мінімізуючи вплив ополчень та воєнізованих груп, що виступають за партизанську війну."
+ FRC_communard_propaganda_press:0 "Комунарська пропагандистська преса"
+ FRC_communard_propaganda_press_desc:0 "Тимчасовий уряд націоналізував усі великі національні та регіональні друковані видання, і тепер всі вони служать інтересам соціалізму."
+ FRC_popular_recruitement_comittees:0 "Народні комітети з мобілізації"
+ FRC_revolutionnary_naval_officiers:0 "Революційні морські офіцери"
+ FRC_revolutionnary_naval_officiers_desc:0 "Значна частина офіцерів середньої ланки Адміралтейства перейшла під націоналістичні прапори, що змусило уряд масово призначати на командні посади студентів та добровольців. Через брак досвіду та підготовки наш флот втратив значну частину своєї ефективності."
 
 FRA_idea_gold_campaign:0 "Золота кампанія"
 FRA_idea_gold_campaign_desc:0 "Французи домовилися продати частину своїх золотих об'єктів в обмін на обіцянку відшкодування, щоб стимулювати економіку за допомогою стабільного фінансового джерела."
@@ -1175,8 +1175,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  FRA_far_right_opposition_desc:0 "Франція вражена звичайним расизмом і очевидною ненавистю до євреїв. Ці відстали думки єдності нації"
  FRA_idea_debts:0 "Борги"
 
- FRA_administrative_turmoil:0 "Administrative Turmoil" # (!)
- FRA_administrative_turmoil_desc:0 "Decentralization reforms have caused a total change in the administrative subsidy system, placing tasks that normally fell to the state under the responsibility of the regions. Unprepared, the provinces lack administrators and organization to respond to new demands, which paralyzes the economy." # (!)
+ FRA_administrative_turmoil:0 "Адміністративне безладдя"
+ FRA_administrative_turmoil_desc:0 "Реформи децентралізації призвели до повної зміни системи адміністративних субсидій, переклавши на регіони завдання, які зазвичай виконувала держава. Непідготовлені провінції потерпають від браку управлінців та організації для задоволення нових вимог, що паралізує економіку."
 
  FRA_CGPF: "GCPF"
  FRA_CGPF_desc:0 "\"Confédération générale de la production française\" - організація роботодавців, закликана об'єднати різні корпорації роботодавців."
@@ -1199,7 +1199,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  FRA_memories_of_1870:0 "Спогади про 1870"
  FRA_memories_of_1870_desc:0 "Поразка 1870 року проти Пруссії назавжди залишилася в пам'яті французів. У результаті національна політика була оборонною та обережною, далеко від виявлення про пряму конфронтацію з [GER.getName]"
  FRA_ww1_colonial_volunteers:0 "Колоніальні добровольці"
- FRA_ww1_colonial_volunteers_desc:0 "In order to attract volunteers from our colonies, we can offer a larger balance paid in advance to families. In addition to this advantage, we could offer \"native French\" citizenship to men who have completed full service." # (!)
+ FRA_ww1_colonial_volunteers_desc:0 "Щоб залучити добровольців із наших колоній, ми можемо запропонувати більшу суму виплат, що виплачуватиметься сім'ям авансом. Окрім цієї переваги, ми могли б пропонувати громадянство «корінного француза» чоловікам, які пройшли повну службу."
  FRA_ww1_colonial_resources:0 "Колоніальні ресурси"
  FRA_interventionism:0 "Французький інтервенціонізм"
  FRA_ww1_agricultural_sector_strike:0 "Шампанські бунти"
@@ -1236,8 +1236,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  FRA_arms_safety_regulation:0 "Положення про безпеку зброї"
 
  FRA_jaures_in_danger:0 "Ультраправі терористи"
- FRA_jaures_in_danger_desc:0 "Part of the French population is opposed to the social measures established since the arrival in power of the SFIO. As a representative of the party and the nation, Jean Jaurès becomes a privileged target for far-right fanatics." # (!)
- FRA_jaures_in_danger_tt:0 "§YJean Jaurès§! may be the victim of a §Rterrorist attack.§!\n" # (!)
+ FRA_jaures_in_danger_desc:0 "Частина французького населення виступає проти соціальних заходів, запроваджених після приходу до влади SFIO. Як представник партії та нації, Жан Жорес стає пріоритетною мішенню для ультраправих фанатиків."
+ FRA_jaures_in_danger_tt:0 "§YЖан Жорес§! може стати жертвою §Rтерористичного акту.§!\n"
  FRA_german_reparations:0 "Німецькі репарації"
 
  MTG_washington_naval_treaty_adherent:0 "Підписано [MTG_washington_naval_treaty_adherent_sp]"
@@ -1307,9 +1307,9 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  FRA_ruhr_occupation_desc:0 "Окупація та утримання Руру є досить обтяжливим завданням для уряду. Але принаймні ми можемо отримати репарації корисними копалинами з Руру"
  FRA_ruhr_occupation2:0 "Окупація Руру"
  FRA_ruhr_occupation2_desc:0 "Окупація Руру стикається з громадянською непокорою місцевого населення, що ускладнює роботу адміністрації та жандармерії."
- FRA_idea_modernization_of_the_battlefleet:0 "Modernization of the Battlefleet"
- FRA_idea_sour_loser:0 "Sour Loser" # (!)
- FRA_idea_sour_loser_desc:0 "The French people did not accept the difficult peace conditions imposed by the Germans, which deprived them of a large part of their national territory."
+ FRA_idea_modernization_of_the_battlefleet:0 "Модернізація лінійного флоту"
+ FRA_idea_sour_loser:0 "Гіркота поразки"
+ FRA_idea_sour_loser_desc:0 "Французький народ не змирився з важкими умовами миру, нав'язаними німцями, які позбавили їх значної частини національної території."
  FRA_disorganised_partisans:0 "Дезорганізовані партизани"
  FRA_idea_offensive_cult:0 "Наступальний культ"
  FRA_idea_offensive_cult_desc:0 "Ми, французи, чекали реваншу за франко-прусську війну. Тільки негайне просування на території Німеччини принесе абсолютну перемогу [ROOT.GetNameDef]. Vive la France!"
@@ -1370,11 +1370,11 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
 
 ### НІМЕЧЧИНА ###
  GER_private_italian_investments: "Приватні італійські інвестиції"
- GER_private_italian_investments_desc:0 "Various German venture capitalists have made significant investments in Italy which has brought an income of revenue into our nation." # (!)
+ GER_private_italian_investments_desc:0 "Різні німецькі венчурні капіталісти вклали значні інвестиції в Італію, що принесло нашій державі додаткові доходи."
  GER_Reichsland_elsass_lothringen: "Райхсланд Ельзас-Лотринґен"
- GER_Reichsland_elsass_lothringen_desc:0 "Unlike other German regions, which are federal states with their own local parliaments, Alsace-Lorraine is directly administered by the Empire, making it a territory with special status, headed by a governor.\n\nThe inhabitants of this region therefore have no political representation and are not considered full German citizens."
+ GER_Reichsland_elsass_lothringen_desc:0 "На відміну від інших німецьких регіонів, які є федеративними державами зі своїми місцевими парламентами, Ельзас-Лотаринґія перебуває під прямим управлінням Імперії, що робить її територією зі спеціальним статусом на чолі з губернатором.\n\nЧерез це жителі регіону не мають політичного представництва та не вважаються повноправними громадянами Німеччини."
  GER_french_opposition: "Опозиція Ельзасу та Лотаринґії"
- GER_french_opposition_desc:0 "Despite the fact that German is the only recognized language in Elsaß and Lothringen, it is spoken by only 10% of the population. The cultural sentiment of this region is primarily Alsatian and then French, not German, which limits its integration.\n\nMen seek to avoid conscription, and workers in the mining areas do not understand their superiors' orders."
+ GER_french_opposition_desc:0 "Попри те, що німецька мова є єдиною визнаною в Ельзасі та Лотаринґії, нею розмовляє лише 10% населення. Культурно цей регіон відчуває себе насамперед ельзаським, а вже потім французьким, але аж ніяк не німецьким, що перешкоджає його інтеграції.\n\nЧоловіки намагаються уникати призову, а робітники в шахтарських районах не розуміють наказів свого керівництва."
  GER_idea_army_restrictions: "Обмеження армії"
  GER_idea_army_restrictions.tt: "§rНе можна виробляти зброю.§!"
  GER_hungarian_crisis:0 "Угорська криза"
@@ -1387,9 +1387,9 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GER_idea_reparations_dawes:0 "Репарації за планом Дауеса"
  GER_idea_reparations_young:0 "Відшкодування за планом Янга"
  GER_idea_schutztruppe: "Schutztruppe"
- GER_idea_schutztruppe_desc:0 "The §gSchutztruppe§! serves as our colonial protection force, maintaining order in our overseas territories through a combination of German officers and locally recruited soldiers." # (!)
+ GER_idea_schutztruppe_desc:0 "§gSchutztruppe§! служить нашими колоніальними силами охорони, підтримуючи порядок на заморських територіях за допомогою німецьких офіцерів та місцевих рекрутів."
  GER_idea_colonial_exploitation:0 "Колоніальна експлуатація"
- GER_idea_colonial_exploitation_desc:0 "The Colonial Administration is cruelly efficient in extracting as much from here as they possibly can. Though small reforms have been made here or there, at the end of the day all we are to the Mainlanders is a vast money trough for them to stick their dirty, greedy paws into." # (!)
+ GER_idea_colonial_exploitation_desc:0 "Колоніальна адміністрація жорстоко й ефективно викачує звідси все, що тільки можливо. Хоча подекуди й проводилися дрібні реформи, зрештою, для жителів метрополії ми лише величезне корито з грошима, куди вони можуть запустити свої брудні та жадібні лапи."
  GER_idea_freikorps:0 "Націоналістичний фрейкорпс"
  GER_idea_freikorps_desc:0 "Оскільки німецької армії були скорочені, німецькі солдати володіють добровольчими загонами, щоб зберегти цільність нації."
  GER_idea_kiel_mutiny:0 "Кільський заколот"
@@ -1397,21 +1397,21 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GER_idea_stuggle_for_power:0 "Боротьба за владу"
  GER_idea_stuggle_for_power_desc:0 "Німецька республіка не є стабільною, політичні соціалісти, комуністи і навіть консерватори зараз сили ведуть криву боротьбу за встановлення власної влади"
  GER_idea_OHL: "Oberste Heeresleitung"
- GER_idea_OHL_desc:0 "The §gOberste Heeresleitung§! (Supreme Army Command) coordinates Germany's military operations with increased efficiency. Their expertise in military doctrine and planning has proven invaluable, though their influence remains properly checked by civilian authorities." # (!)
+ GER_idea_OHL_desc:0 "§gOberste Heeresleitung§! (Верховне командування сухопутних військ) координує військові операції Німеччини з підвищеною ефективністю. Їхній досвід у військовій доктрині та плануванні виявився безцінним, хоча їхній вплив залишається належним чином підконтрольним цивільній владі."
  GER_idea_OHL1: "Oberste Heeresleitung"
- GER_idea_OHL1_desc:0 "The §gOberste Heeresleitung§! (Supreme Army Command) has expanded its authority, gaining additional command powers and improving military planning capabilities. However, this comes at the cost of some political friction with the civilian government, slightly reducing our political efficiency." # (!)
+ GER_idea_OHL1_desc:0 "§gOberste Heeresleitung§! (Верховне командування сухопутних військ) розширило свої повноваження, отримавши додаткові командні функції та покращивши можливості військового планування. Однак це відбувається ціною певних політичних тертя з цивільним урядом, що трохи знижує нашу політичну ефективність."
  GER_idea_OHL2: "Напориста Oberste Heeresleitung"
- GER_idea_OHL2_desc:0 "The §gOberste Heeresleitung§! (Supreme Army Command) now wields considerable influence over state affairs. While our military planning and command capabilities have significantly improved, the growing tension between military and civilian leadership is causing notable political disruption." # (!)
+ GER_idea_OHL2_desc:0 "§gOberste Heeresleitung§! (Верховне командування сухопутних військ) тепер має значний вплив на державні справи. Хоча наші можливості військового планування та командування суттєво покращилися, зростання напруги між військовим і цивільним керівництвом викликає помітні політичні розлади."
  GER_idea_OHL3: "Мовчазна диктатура"
- GER_idea_OHL3_desc:0 "The §gOberste Heeresleitung§! (Supreme Army Command) has achieved unprecedented control over both military and civilian matters. While this grants exceptional military advantages and command capabilities, it comes at the cost of severe political instability as the traditional civilian government structure is effectively sidelined." # (!)
+ GER_idea_OHL3_desc:0 "§gOberste Heeresleitung§! (Верховне командування сухопутних військ) досягло безпрецедентного контролю як над військовими, так і над цивільними справами. Хоча це надає виняткові військові переваги та командні можливості, воно дається ціною серйозної політичної нестабільності, оскільки традиційна структура цивільного уряду фактично відсунута на другий план."
  GER_idea_OHL_dictatorship: "Військова диктатура"
- GER_idea_OHL_dictatorship_desc:0 "The §gOberste Heeresleitung§! (Supreme Army Command) has established complete military control over the state. Under §YLudendorff's§! leadership, the army now directs all aspects of governance, pushing Germany toward a more §Nauthoritarian§! system. While this grants the highest possible military benefits, it comes at the cost of severe political disruption and increasing §Nfascist§! influence." # (!)
+ GER_idea_OHL_dictatorship_desc:0 "§gOberste Heeresleitung§! (Верховне командування сухопутних військ) встановило повний військовий контроль над державою. Під керівництвом §YЛюдендорфа§! армія тепер керує всіма аспектами врядування, штовхаючи Німеччину до більш §Nавторитарної§! системи. Хоча це дає максимально можливі військові переваги, воно призводить до значних політичних розладів та посилення §Nфашистського§! впливу."
  GER_idea_norddeutscher_bund_legacy: "Спадщина Північнонімецького союзу"
- GER_idea_norddeutscher_bund_legacy_desc:0 "The foundation of our German Empire rests upon the achievements of the §YNorth German Confederation§! (§YNorddeutscher Bund§!). Under §gBismarck's§! guidance, this confederation laid the groundwork for German unification, establishing the political and military framework that would transform §gPrussia's§! leadership into a united German nation. This legacy of strength through unity continues to shape our national character - §gGermany§!, united and indivisible, stands as the preeminent power in Europe." # (!)
+ GER_idea_norddeutscher_bund_legacy_desc:0 "Фундамент нашої Німецької імперії спирається на здобутки §YПівнічнонімецького союзу§! (§YNorddeutscher Bund§!). Під керівництвом §gБісмарка§! цей союз заклав основи для об'єднання Німеччини, створивши політичну та військову структуру, яка перетворила лідерство §gПруссії§! на єдину німецьку націю. Ця спадщина сили через єдність продовжує формувати наш національний характер — §gНімеччина§!, єдина і неподільна, стоїть як головна держава Європи."
  GER_idea_german_military_advisors: "Німецькі радники"
  GER_idea_german_military_advisors_desc:0 "Німецький штаб узяв на себе частину командних функцій у нашій армії."
  GER_idea_hindenburg_programme:0 "Програма Гінденбурга"
- GER_idea_hindenburg_programme_desc:0 "Under the direction of §gField Marshal von Hindenburg§! and §gGeneral Ludendorff§!, we have initiated a massive reorganization of our war economy. This ambitious program aims to double our munitions production through the complete mobilization of all available resources and labor. While this §YKriegssozialismus§! has dramatically increased our military output, the harsh working conditions and strict regulations have created significant social tensions on the home front." # (!)
+ GER_idea_hindenburg_programme_desc:0 "Під керівництвом §gгенерал-фельдмаршала фон Гінденбурга§! та §gгенерала Людендорфа§! ми розпочали масштабну реорганізацію нашої воєнної економіки. Ця амбітна програма має на меті подвоїти виробництво боєприпасів шляхом повної мобілізації всіх доступних ресурсів і робочої сили. Хоча цей §YKriegssozialismus§! (воєнний соціалізм) різко збільшив наші військові показники, важкі умови праці та жорсткі обмеження викликали значну соціальну напругу в тилу."
  tokyo_pact:0 "§YНімецько-японський пакт§!"
  #SHL_kiel_canal_profits:0 "Прибутки каналу Кайзера Вільгельма"
  #SHL_kiel_canal_profits_desc:0 "Канал Кайзера Вільгельма є життєво важливою територією для балтійської торгівлі, і ми отримуємо значні переваги."
@@ -1438,7 +1438,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  AUH_famine_effect:0 "Голод"
  AUH_famine_effect_desc:0 "Продовження цієї великої війни спричинює дедалі складнішу продовольчу проблему в нашій країні, яка вже деякий час відчуває нестачу продовольства. Наслідки голоду широко поширені в нашій країні, навіть вплинули на нашу армію."
  HUN_disorganized_army:0 "Розорганізована армія"
- HUN_disorganized_army_desc:0 "The Hungarian army is currently in complete disrepair, with issues everywhere in the army. There are widespread shortages of crucial equipment throughout the whole army and a lack of artillery. There is also a severe lack of training as many soldiers fighting are men who quickly volunteered or were conscripted and were not given proper training." # (!)
+ HUN_disorganized_army_desc:0 "Угорська армія наразі перебуває в повному занепаді, а проблеми спостерігаються в кожному її підрозділі. По всій армії фіксується повсюдний брак критично важливого спорядження та гострий дефіцит артилерії. Також відчувається серйозний брак підготовки, оскільки багато бійців є чоловіками, які поспіхом пішли добровольцями або були мобілізовані й не пройшли належного навчання."
 
  strong_military_curfew:0 "Військова комендантська година"
  TUN_protected_sacred_places:0 "Священні місця, що охороняються"
@@ -1456,18 +1456,18 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  GER_idea_treaty_of_rapallo_desc:0 "Тост за нашу німецько-радянську дружбу!"
  GER_idea_kapp_illegitimate_government:0 "Нелегітимний уряд"
  GER_idea_kapp_illegitimate_government_desc:0 "Поточний правлячий уряд не визнається легітимним у всій країні. Політичні заворушення тривають, доки ми не стабілізуємо стрес"
- GER_financial_crisis_of_agadir:0 "Agadir Financial Crisis"
- GER_financial_crisis_of_agadir_desc:0 "The diplomatic crisis over §YMorocco§! has severely impacted our financial markets. The threat of war with §2France§! and §RBritain§! has caused investors to panic, leading to a significant stock market crash and straining our economy."
+ GER_financial_crisis_of_agadir:0 "Агадірська фінансова криза"
+ GER_financial_crisis_of_agadir_desc:0 "Дипломатична криза довкола §YМарокко§! сильно вдарила по наших фінансових ринках. Загроза війни з §2Францією§! та §RБританією§! викликала паніку серед інвесторів, що призвело до масштабного обвалу фондового ринку та виснаження нашої економіки."
  GER_idea_default: "Економічний дефолт"
- GER_idea_default_desc:0 "The crushing burden of war reparations has forced us into financial default, bringing severe consequences for our economy and international standing."
- GER_idea_default_tt:0 "§YAll reparation payments have ceased, removing all associated modifiers from the Reparation idea.§!"
+ GER_idea_default_desc:0 "Нищівний тягар воєнних репарацій змусив нас оголосити фінансовий дефолт, що потягнуло за собою важкі наслідки для нашої економіки та міжнародного становища."
+ GER_idea_default_tt:0 "§YУсі репараційні виплати припинено, що прибирає всі пов'язані модифікатори з ідеї про репарації.§!"
  GER_idea_hyperinflation: "Гіперінфляція"
- GER_idea_hyperinflation_desc:0 "Our economy is in chaos as the value of the §YMark§! plummets by the hour. Workers carry their wages in wheelbarrows, while citizens rush to spend their money before it becomes worthless. This economic catastrophe threatens the very stability of our society." # (!)
+ GER_idea_hyperinflation_desc:0 "Наша економіка перебуває в стані хаосу, оскільки вартість §Yмарки§! стрімко падає щогодини. Робітники переносять свою зарплату в тачках, а громадяни поспішають витратити гроші, поки вони повністю не знецінилися. Ця економічна катастрофа загрожує самій стабільності нашого суспільства."
  GER_imperial_pride: "Deutsches Weltreich"
- GER_imperial_pride_desc:0 "Німецька імперія знаходиться на вершині світу. Її суперники та вороги впали перед революцією, здали вашу імперію або різко занепали. Усі дороги цього нового світу ведуть до Берліна — економічні, культурні та політичні серця Європи — наша країна — захистити цей новий світ всіма нашими силами, залишити наших ворогів багато"
+ GER_imperial_pride_desc:0 "Німецька імперія перебуває на вершині світу. Її суперники та вороги або пали під ударами революцій, або капітулювали, або зазнали стрімкого занепаду. Усі дороги цього нового світу ведуть до Берліна — економічного, культурного та політичного серця Європи. Завдання нашої країни — захистити цей новий світ усіма нашими силами, лишивши ворогам облизня."
  GER_customs_union: "Zollverein"
- GER_customs_union_desc:0 "The Zollverein, or German Customs Union, is a coalition of German states formed to manage tariffs and economic policies within their territories. It's the first instance in history in which independent states consummated a full economic union without the simultaneous creation of a political federation or union." # (!)
- GER_structured_doctrines:0 "Structured Doctrines" # (!)
+ GER_customs_union_desc:0 "Цольвайн, або Німецький митний союз — це коаліція німецьких держав, створена для управління тарифами та економічною політикою на своїх територіях. Це перший випадок в історії, коли незалежні держави уклали повноцінний економічний союз без одночасного створення політичної федерації чи союзу."
+ GER_structured_doctrines:0 "Структуровані доктрини"
 
  OST_colonial_question: "Колоніальне питання"
  OST_colonial_question_desc:0 "Кількість живої сили, яку можна залучити нашеземельне військо, дуже обмежена. Суворі правила щодо приєднання іноземних громадян і загальне бажання з боку місцевих жителів гальмують наші спроби створити більші сили"
@@ -1509,8 +1509,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  BOS_diet_desc:0 "Консультативний сейм є єдиним демократичним органом держави, який складається з етнічного та релігійного представництва населення.\n\nБільша частина влади зосереджена в руках губернатора §Y[BOS.getLeader] §!, сам нездатний вести переговори про вказівки подвійної монархії"
  AUH_condominium:0 "Австро-Угорський кондомініум"
  AUH_condominium_desc:0 "Боснія та Герцеговина спільно управляються Австрією та Угорщиною через спільне Міністерство фінансів."
- BOS_agrarian_colonists:0 "Agrarian Colonists" # (!)
- BOS_agrarian_colonists_desc:0 "What started as an advertisment in a religious magazine by a German preist calling for pious farmers to settle Bosnia has now turned into a full agricultural policy. German families, mostly from Silesia and the Rhineland, have started to settle Bosnia and created settlements such as Rudolfstal. German Protestants from Hungary also jumped on and created a settlement named Franzjosefsfeld. In 1890 a law was created to grant these families tax concessions and offered up to 12 hectares per family, rent-free for the first three years and a low mortgage which would only last 10 years if they adopted a Bosnian citizenship. Following this more Poles, Czechs and Ruthenians started to migrate. As more migrate into Bosnia and increase the religious and ethnic boiling pot, local leaders are starting to get worried and oppose this policy..." # (!)
+ BOS_agrarian_colonists:0 "Аграрні колоністи"
+ BOS_agrarian_colonists_desc:0 "Те, що починалося як оголошення в релігійному журналі від німецького священника із закликом до побожних фермерів заселяти Боснію, тепер перетворилося на повноцінну аграрну політику. Німецькі сім'ї, переважно із Сілезії та Рейнланду, почали селитися в Боснії та створювати такі поселення, як Рудольфсталь. Німецькі протестанти з Угорщини також долучилися до процесу та заснували поселення під назвою Францйозефсфельд. У 1890 році було ухвалено закон про надання цим сім'ям податкових пільг та виділення до 12 гектарів землі на родину без оренди на перші три роки й під низьку іпотеку терміном всього на 10 років за умови прийняття боснійського громадянства. Після цього сюди почали мігрувати поляки, чехи та русини. Оскільки все більше людей прибуває до Боснії, роздмухуючи релігійний та етнічний котел, місцеві лідери починають непокоїтися та виступати проти цієї політики..."
 
  AUH_polish_separatism:0 "Галицька бідність"
  AUH_polish_separatism_desc:0 "Регіон Галичини був об'єктом повсюдної бідності під час австрійської адміністрації. Голод, хвороби та алкоголізм нестримні, тоді як уряд Австро-Угорщини та клас заможних землевласників експлуатують регіон для отримання природних ресурсів. Галичина переживає жахливий стан нещастя, і ми повинні виділити ресурси в регіоні, щоб запобігти поступовому падінню довіри до наших інституцій"
@@ -1625,20 +1625,20 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
 
 ### МЕКСИКА ###
  MEX_idea_porfiriato: "Порфіріато"
- MEX_idea_porfiriato_desc:0 "General Diaz established a Presidential Dictatorship after rising to power and fame from his military victories and involvement in the Liberal Party. Initially running on the anti-reelection idea, he then would legally amend the constitution to cement his power. Diaz bring in a period of 'Order and Progress' that civilized Mexico, making it a respectable nation on the world stage. This new era would bring industrialization, electricity and railroads to Mexico; but at a cost. Not only are the industries foreign owned, they work on the exploitation of the peasantry and natives. While the 1% lives comfortably, the rest are stuck in poverty and in the dirt. Diaz's Reign is protected by his extensive network of spies and intelligence that works on both sides of the Rio Grande. Diaz's autocratic ruling may be his undoing..." # (!)
+ MEX_idea_porfiriato_desc:0 "Генерал Діас установив президентську диктатуру після того, як прийшов до влади завдяки своїм військовим перемогам та діяльності в Ліберальній партії. Спочатку виступаючи під гаслом проти повторного переобрання, згодом він законним шляхом змінив конституцію, щоб закріпити свою владу. Діас приніс період «Порядку та прогресу», який цивілізував Мексику, зробивши її поважною державою на світовій арені. Ця нова ера дала Мексиці індустріалізацію, електрифікацію та залізниці, але високою ціною. Промисловість не лише перебуває в руках іноземців, вона ще й функціонує за рахунок експлуатації селян та корінного населення. Поки 1% населення живе в комфорті, решта потерпає від злиднів і бруду. Правління Діаса захищене розгалуженою мережею шпигунів та розвідки, що діє по обидва боки Ріо-Гранде. Автократичне правління Діаса може стати причиною його падіння..."
  MEX_idea_mexican_revolution: "Мексиканська революція"
  MEX_idea_mexican_revolution_desc:0 "Селянство та демократична опозиція об'єдналися, щоб повалити уряд диктатора Діаса!"
- MEX_idea_political_violence: "Політичне насилля"
+ MEX_idea_political_violence: "Політичне насильство"
  MXM_idea_porfirista_government: "Порфірістський уряд"
  MXM_idea_election_campaigns: "Виборчі кампанії"
  MEX_idea_haciendas: "Асьєнди"
- MEX_idea_haciendas_desc:0 "Wealthy Plantation owners hold large vastes of power over the state, funding whom they like and killing the others..." # (!)
+ MEX_idea_haciendas_desc:0 "Заможні власники плантацій мають величезну владу в державі, фінансуючи тих, хто їм до вподоби, і знищуючи решту..."
  MEX_idea_guarded_haciendas: "Охоронені асьєнди"
  MEX_idea_incompetent_army: "Некомпетентна армія"
  MEX_idea_improved_army: "Поліпшена армія"
  MEX_idea_capable_army: "Спроможна армія"
  MEX_idea_caudillo_loyalty: "Сумнівна лояльність каудільйо"
- MEX_idea_caudillo_loyalty_desc:0 "The Caudillo (military men) of Mexico have been fed by the corrupt system under Diaz... ideas of power and glory can tempt even the best of men." # (!)
+ MEX_idea_caudillo_loyalty_desc:0 "Каудильйо (військові) Мексики вигодувані корумпованою системою Діаса... думки про владу та славу можуть спокусити навіть найкращих людей."
  MEX_idea_caudillo_challenged: "Кинуто виклик каудільйо"
  MEX_idea_rebel_caudillo: "Бунтівні каудільйо"
  MEX_idea_impotent_caudillos: "Безсилі каудільйо"
@@ -1743,9 +1743,9 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  ENG_Staff:0 "Англійський штаб"
  ENG_Staff_desc:0 "Британська армія під час Великої війни простежити свою організацію відповідно до зростаючих вимог імперської пансії. Основою була добровільна система набору та полкова система, яка була визначена екс-реформами Кардвелла та Чайлдерса наприкінці 19-го століття. В останні роки британська армія була підготовлена ​​​​до рішення справ імперії 19 століття армія була втягнута у великий конфлікт, Другу англо-бурську війну (1899-1902), яка виявила недоліки в її тактиці, керівництві та управлінні.
  IRE_idea_IRA:0 "Ірландська республіканська армія"
- IRE_idea_IRA_desc: "Come out ye Black and Tans, come out and fight me like a man!"
- IRE_anti_treaty_insurgency: "Anti-Treaty Insurgency" # (!)
- IRE_anti_treaty_insurgency_desc: "The recently signed Anglo-Irish treaty is a complete failure and won't allow Ireland to achieve full independence, and as such we must fight against this treaty until the very end." # (!)
+ IRE_idea_IRA_desc: "А ну, виходьте, Чорно-пегі, виходьте й бийтеся по-чоловічому!"
+ IRE_anti_treaty_insurgency: "Повстання проти договору"
+ IRE_anti_treaty_insurgency_desc: "Нещодавно підписаний англо-ірландський договір є цілковитим провалом і не дозволить Ірландії здобути повну незалежність, а тому ми повинні боротися проти цього договору до самого кінця."
  pax_britannica: "Pax Britannica"
  pax_britannica_2: "Pax Britannica"
  pax_britannica_3: "Pax Britannica"
@@ -1827,8 +1827,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  ENG_hmmlr:0 "Опір"
  ENG_hmmlr_desc:0 "HMMLR, або Найвідданіший Опір Його Величності (зазвичай його назвати просто Опором) утворився в результаті придушення німецької демократії в [ENG.GetNameDef].\n\nБагато людей у ​​всій країні мають симпатії до HMMLR, від політиків до генералів, до шахтарів і фермерів §RВони будуть страйкувати при першій нагоди.§!"
  ENG_idea_naval_arms_race_desc:0 "Більше дрдноутів! Більше гармати!"
- ENG_naval_supremacy_lost:0 "Britannia's Shield Shattered" # (!)
- ENG_naval_supremacy_lost_desc:0 "§RRegain naval supremacy to remove this idea.§!" # (!)
+ ENG_naval_supremacy_lost:0 "Розбитий щит Британії"
+ ENG_naval_supremacy_lost_desc:0 "§RПоверніть перевагу на морі, щоб прибрати цю ідею.§!"
  ENG_homeland_under_attack:0 "Батьківщина під ударом"
  ENG_homeland_under_attack_desc:0 "За сто років Британські острови ніколи не були захопленими ворогом. Лише досі."
  ENG_tariff_reform:0 "Тарифна реформа"
@@ -1845,12 +1845,12 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  ENG_idea_not_ready_yet_desc:0 "[ROOT.GetName] ще не готовий до участі у війні на європейському континенті."
  ENG_british_military_occupation:0 "Британська військова окупація"
  ENG_british_military_occupation_desc:0 "[ROOT.GetNameDefCap] зараз знаходиться під військовою окупацією та управлінням британськими військами."
- ENG_economy_revision:0 "Economic Revision" # (!)
- ENG_economy_revision_desc:0 "The British economy has been severely damaged by defeat and colonial losses. A structural revision is needed to overcome the current turmoil and achieve long-term recovery. This effort, while involving temporary hardship, aims to rebuild the collapsed economic foundation."
- ENG_veterans_fury:0 "Veterans' Fury"
- ENG_veterans_fury_desc:0 "Veterans who sacrificed everything for their country have received nothing in return. Their deep-seated rage against government incompetence and betrayal fuels widespread unrest, drawing support for certain ideologies."
- ENG_order_through_coercion:0 "Order Through Coercion"
- ENG_order_through_coercion_desc:0 "To quell domestic chaos, the government has resorted to violent suppression and authoritarian control. While this may seem to establish order in the short term, it foments greater public resentment and decreases productivity."
+ ENG_economy_revision:0 "Економічний перегляд"
+ ENG_economy_revision_desc:0 "Британська економіка зазнала серйозних збитків через поразку та втрату колоній. Необхідно провести структурний перегляд, щоб подолати поточні потрясіння та досягти довгострокового відновлення. Ці зусилля, хоч і пов'язані з тимчасовими труднощами, спрямовані на відбудову зруйнованого економічного фундаменту."
+ ENG_veterans_fury:0 "Лють ветеранів"
+ ENG_veterans_fury_desc:0 "Ветерани, які пожертвували всім заради своєї країни, не отримали нічого натомість. Їхній глибокий гнів через некомпетентність та зраду уряду підживлює масові заворушення, схиляючи людей на бік певних ідеологій."
+ ENG_order_through_coercion:0 "Порядок через примус"
+ ENG_order_through_coercion_desc:0 "Щоб придушити хаос усередині країни, уряд вдався до насильницького придушення та авторитарного контролю. Хоча в короткостроковій перспективі це може здаватися встановленням порядку, такі дії викликають ще більше обурення громадськості та знижують продуктивність праці."
  vickers_limited: "Vickers Limited"
  william_foster: "William Foster & Co."
  elswick_ordnance_company: "Elswick Ordnance Company"
@@ -1865,7 +1865,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  CAN_ross_rifle:0 "Помилка гвинтівки Росса"
  CAN_ross_rifle_desc:0 "Несправність гвинтівки Росса призвела до корупції в канадській військовій машині."
  CAN_huot_machine_gun_ideas: "Кулемет Гуота"
- CAN_fishing_rights:0 "Atlantic Fishing Rights Acquired" # (!)
+ CAN_fishing_rights:0 "Здобуто права на вилов риби в Атлантиці"
  CAN_restricted_immigration_ideas: "Обмежена імміграція"
  CAN_lee_enfield:0 "Заміна гвинтівки"
  CAN_lee_enfield_desc:0 "Через щосьдавні невдачі гвинтівки Росса Канада перейшла на кращу британську гвинтівку Лі-Енфілда."
@@ -1877,8 +1877,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  CAN_bourassa_compromise_desc:0 "Було досягнуто компромісу щодо мінімального призову франко-канадців, що дозволяє їм воювати на боці французьких сил у Франції. Будуть навчені нові франко-канадські дивізії"
  CAN_quebec_riots:0 "Заворушення щодо призову на військову службу"
  CAN_quebec_riots_desc:0 "Франкоканадці почали бунт через позицію канадського уряду щодо призову"
- CAN_imposed_conscription:0 "Imposed Conscription" # (!)
- CAN_imposed_conscription_desc:0 "The Canadian Government has decided to impose conscription no matter the costs." # (!)
+ CAN_imposed_conscription:0 "Примусовий призов"
+ CAN_imposed_conscription_desc:0 "Канадський уряд вирішив запровадити загальний призов за будь-яку ціну."
  CAN_canadian_dream:0 "Канадська мрія"
  CAN_canadian_dream_desc:0 "Звичайний канадець хоче жити простим життям, де він зможе забезпечити себе та свою сім'ю. Їхні амбіції можна втілити в єдину мрію про Канаду"
  CAN_idea_patriation:0 "Патріація"
@@ -1937,7 +1937,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  CAN_marine_focus:0 "Морська доктрина"
  CAN_sub_focus:0 "Фокус підводного човна"
  CAN_destroyer_focus:0 "Фокус руйнівника"
- CAN_fighter_focus:0 "Fighter Focus"
+ CAN_fighter_focus:0 "Акцент на винищувачах"
  CAN_cas_focus:0 "Закрити фокус повітряної підтримки"
  CAN_royal_military:0 "Королівська канадська армія"
  CAN_royal_military_desc:0 "Збройні сили Канади були реформовані та оновлені."
@@ -2007,8 +2007,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  QIN_abdicated_qing_imperial_family_desc:0 "Дотримуючись статей про прихильне ставлення до великого імператора Цін після його зречення, імператорська родина Цін та імператор Пуйі все ще житиме в Забороненому місті, Пекін, за економічну підтримку уряду Республіки та розглядаються як іноземна монархія. Вони мають право керувати містом у середині, але це якось дивно мати старого монарха, який зрікся престолу в центрі республіки, але, на диво, досить багато політиків, військових діячів і навіть громадян все ще матиме тенденцію до них"
  QIN_railway_protection_movement:0 "Рух захисту залізниці"
  QIN_railway_protection_movement_desc:0 "Уряд змусив людей інвестувати в залізниці, сказавши, що вони збираються будувати їх без запозиченого зовнішнього боргу та лише з національним капіталом, але потім націоналізували всі залізниці, компенсуючи лише близько 60% перших винайдених грошей. \nНавпроти імперії, люди обурені та намагаються зупинити спроби уряду націоналізації через масові протести, відомі як Рух захисту залізниці"
- QIN_idea_purchase_restriction:0 "Purchase Restriction" # (!)
- QIN_idea_purchase_restriction_desc:0 "Under the terms of the Boxer Protocol, [ROOT.GetNameDef] has been restricted from importing arms production facilities or importing arms from foreign countries."
+ QIN_idea_purchase_restriction:0 "Обмеження на закупівлю"
+ QIN_idea_purchase_restriction_desc:0 "За умовами Заключного протоколу, [ROOT.GetNameDef] позбавлена права імпортувати потужності для виробництва озброєння або закуповувати зброю за кордоном."
 
  CHI_idea_support_for_revolution: "Революційна підтримка"
  CHI_idea_revolutionary_fervor: "П'ятнадцять років планування" #Change this name if you want
@@ -2057,8 +2057,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  CHI_idea_beiyang_government2: "Лояльний Бейянський уряд"
  #CHI_idea_beiyang_government2_desc:0 "Імператор Хунсянь здобув лояльність армії Бейян завдяки запевненням, що він продовжуватиме їх використовувати протягом усього правління Імперії над Китаєм. Це заспокоїло офіцерів і підвищило моральний дух серед армії."
  CHI_idea_local_military_development: "Місцевий військовий розвиток"
- CHI_idea_local_military_development1_desc:0 "China was once proud of its military strength, and although we have weakened, all is not lost. Through rebuilding and reforms, we will grow stronger."
- CHI_idea_local_military_development2_desc:0 "It's not enough to simply adapt modern equipment; we must change our thinking altogether. We shall fight for our place among the great powers of the world, by blood and by steel."
+ CHI_idea_local_military_development1_desc:0 "Китай колись пишався своєю військовою міццю, і хоча ми ослабли, ще не все втрачено. Шляхом відбудови та реформ ми станемо сильнішими."
+ CHI_idea_local_military_development2_desc:0 "Замало просто адаптувати сучасне спорядження — ми повинні повністю змінити наше мислення. Кров'ю та сталлю ми виборемо своє місце серед великих держав світу."
  CHI_idea_reorganized_military_industry: "Реорганізована військова промисловість"
  CHI_idea_reorganized_military_industry_desc:0 "Щоб взяти на себе зобов'язання на вирощування нашої військової сили, змушені недофінансувати нашу цивільну економіку. Хоча це може бути згубним, ми витримаємо"
  CHI_idea_ceremonial_khan: "Церемоніальний хан"
@@ -2069,7 +2069,7 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  CHI_idea_payment_for_tibet: "Виплати за Тибет"
  CHI_idea_provisional_constitution: "Тимчасова конституція"
  CHI_idea_provisional_constitution_desc:0 "Після Сіньхайської революції Уряд Республіки Китай у Нанкіні під тимчасовим президентством Сунь Ятсена ухвалив Тимчасову конституцію Республіки Китай, яка слугуватиме тимчасовим заходом під час підготовки та написання правової конституції"
- CHI_idea_democratic_constitution:0 "Tridemism Constitution" # (!)
+ CHI_idea_democratic_constitution:0 "Конституція тридемізму"
  CHI_idea_yuan_constitution: "Нова тимчасова конституція"
  CHI_idea_yuan_constitution_desc:0 "Після Сіньхайської революції Уряд Республіки Китай у Нанкіні під тимчасовим президентством Сунь Ятсена затвердив Тимчасову конституцію Республіки Китай, яка слугує тимчасовим заходом під час підготовки та написання Безналежної конституції Республіки Китай, яка не буде прийнята, Юань Шикай наказав поправку до Тимчасової конституції, яка різко збільшила повторення президента"
  CHI_idea_reorganization_loans:0 "Позики на реорганізацію"
@@ -2189,8 +2189,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  CHI_idea_republic_army:0 "Армія Республіки"
  CHI_idea_merchant_army:0 "Купецьке ополчення" #商團
  CHI_idea_merchant_army_desc:0 "З часів пізньої династії ціна організації торгових груп і місцевих жителів почалася в провінції Гуандун, де роки громадянської війни та люті бандити змусили місцевих жителів створити армії для самооборони."
- CHI_idea_merchant_army_2:0 "Allied Merchant Militia" #商團 # (!)
- CHI_idea_merchant_army_2_desc:0 "From the late Qing dynasty, the organisation of merchant groups and local militias began in Guangdong Province, where years of civil war and rampaging bandits led locals to form armies for self-defence." # (!)
+ CHI_idea_merchant_army_2:0 "Союзна купецька міліція" #商團
+ CHI_idea_merchant_army_2_desc:0 "Починаючи з пізньої династії Цін, у провінції Гуандун почали формуватися купецькі об'єднання та місцеві ополчення, оскільки роки громадянської війни та розгул бандитизму змусили місцевих жителів створювати загони для самооборони."
  CHI_idea_sun_yatsen_president:0 "Генералісимус Сунь Ятсен"
  CHI_idea_sun_yatsen_president_desc:0 "Сунь Ятсен, ключовий архітектор китайської республіканської революції, є генералісимусом уряду захисту конституції в Гуанчжоу, провінція Гуандун. Але його становище ненадійне, тому він не має військової сили".
  CHI_idea_sun_yatsen_president_2_desc:0 "Сунь Ятсен, ключовий архітектор Китайської республіки революції, є генералісимусом уряду захисту конституції в Гуанчжоу, провінція Гуандун. Він повернувся до Гуанчжоу, щоб очолити південний уряд разом із воєначальником Гуандуну Ченьжунміном. Націоналістичну революцію відвести до Пекіна"
@@ -2200,27 +2200,27 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  soviet_advisors:0 "Радянські працівники"
  CHI_socialist_bureaucracy:0 "Соціалістична бюрократія"
  CHI_union_in_power:0 "Об'єднані профспілки китайських робітників"
- CHI_idea_long_march:0 "Great Long March" # (!)
- CHI_idea_long_march_desc:0 "The Revolution in China has encountered a major setback. Due to the relentless suppression and brutal blockade policies of the reactionaries, the Soviet Zone we liberated can no longer survive. To break through the enemy encirclement and establish a base in the mountainous regions, we must march thousands of kilometres... After enduring these hardships and adversities, the chaff will be blown away, leaving only the grain fit to fight as revolutionary warriors." # (!)
+ CHI_idea_long_march:0 "Великий довгий марш"
+ CHI_idea_long_march_desc:0 "Революція в Китаї зазнала серйозного удару. Через невпинне придушення та жорстоку блокадну політику реакціонерів визволена нами Радянська зона більше не може вижити. Щоб прорвати вороже оточення та заснувати базу в гірських районах, ми повинні пройти тисячі кілометрів... Пройшовши крізь ці злидні та негаразди, полова відсіється, і залишаться лише зерна — справжні революційні воїни, готові до боротьби."
  CHI_idea_national_protection:0 "Національний захист"
  CHI_idea_national_protection_desc:0 "Ми врятуємо характери 400 мільйонів людей Республіки Китай!\n- Цай Е"
  CHI_idea_fallen_empire:0 "Занепала імперія"
- CHI_idea_fallen_empire_desc:0 "Юань Шикай не зміг здійснити свою мокру мрію. Так звана Імперія розваюється, повсюди революціонери та нелояльні воєначальники. Юань також страждає від серйозної хвороби внаслідок своїх невдач і постійної зради його вірності"
- CHI_idea_unprepared_civil_war:0 "Unprepared Civil War" # (!)
- CHI_idea_unprepared_civil_war_desc:0 "We didn't expect to have to wage another revolution against a despotic ruler. Our soldiers lack both the necessary weapons and preparation. Even some of our fellow nationalists doubt the righteousness of our cause." # (!)
- CHI_idea_zhili_truce:0 "Zhili Clique Truce" # (!)
- CHI_idea_zhili_truce_desc:0 "The Zhili Clique has declared truce with the Southern Cliques. This has crippled our ability to wage war." # (!)
- CHI_guangdong_bank:0 "Guangdong Bank" # (!)
- CHI_idea_new_culture_movement:0 "New Culture Movement"
- CHI_idea_new_culture_movement_desc:0 "A movement sought to challenge traditional Confucian values and promote new ideas, including democracy, science, and individualism. The movement is led by intellectuals such as Chen Duxiu and Hu Shi, who advocate for the use of vernacular Chinese in literature and education."
- CHI_kmt_power_struggle:0 "Power Struggle"
- CHI_kmt_power_struggle_desc:0 "Chairman Wang Jingwei's rule remains unstable. The biggest problem is that he holds no real military power, and opposition factions still exist in the party."
- CHI_green_gang:0 "Green Gang"
- CHI_green_gang_desc:0 "The Green Gang is one of China's most powerful and notorious secret societies, holding an iron grip on the criminal underworld of Shanghai. Under the shrewd leadership of figures like Du Yuesheng, their influence extends far beyond mere opium dens and gambling houses. They command a vast network of enforcers and control the city's labor unions, making them a formidable political entity. For those willing to turn a blind eye to their methods, the Green Gang is an indispensable, if unsavory, ally in the struggle against Communism and for absolute control of the city."
- CHI_zhejiang_financiers:0 "Zhejiang Financial Clique"
- CHI_zhejiang_financiers_desc:0 "The Zhejiang Financial Clique, a powerful group of bankers and industrialists from the Shanghai-Zhejiang region, forms the economic backbone of our government. Their vast resources fund our state, their expertise guides our economic policy, and their political backing solidifies our regime. This critical alliance ensures a steady flow of capital, allowing our government to focus its resources on military and industrial development rather than civilian demands."
- CHI_fengtian_no_resistance:0 "Army In Disastrous Disarray"
- CHI_fengtian_no_resistance_desc:0 "Our military receives no proper orders or instructions from its command. From high-ranking to mid-level commanders, no systematic communication of orders is possible. In effect, our military is nothing more than a ragtag group of armed militiamen."
+ CHI_idea_fallen_empire_desc:0 "Юань Шикай не зміг здійснити свою мокру мрію. Так звана Імперія розвалюється, повсюди революціонери та нелояльні воєначальники. Юань також страждає від серйозної хвороби внаслідок своїх невдач і постійної зради його вірності"
+ CHI_idea_unprepared_civil_war:0 "Непідготовлена громадянська війна"
+ CHI_idea_unprepared_civil_war_desc:0 "Ми не очікували, що нам доведеться піднімати ще одну революцію проти деспотичного правителя. Нашим солдатам бракує як необхідної зброї, так і підготовки. Навіть деякі з наших соратників-націоналістів сумніваються у справедливості нашої справи."
+ CHI_idea_zhili_truce:0 "Перемир'я з Чжилійською клікою"
+ CHI_idea_zhili_truce_desc:0 "Чжилійська кліка оголосила перемир'я з Південними кліками. Це підірвало нашу здатність вести війну."
+ CHI_guangdong_bank:0 "Банк Гуандуну"
+ CHI_idea_new_culture_movement:0 "Рух за нову культуру"
+ CHI_idea_new_culture_movement_desc:0 "Рух, який прагнув кинути виклик традиційним конфуціанським цінностям і поширювати нові ідеї, зокрема демократію, науку та індивідуалізм. Рух очолюють такі інтелектуали, як Чень Дусю та Ху Ші, які виступають за використання розмовної китайської мови в літературі та освіті."
+ CHI_kmt_power_struggle:0 "Боротьба за владу"
+ CHI_kmt_power_struggle_desc:0 "Правління голови Ван Цзінвея залишається нестабільним. Найбільша проблема полягає в тому, що він не має реальної військової влади, а в партії досі існують опозиційні фракції."
+ CHI_green_gang:0 "Зелена банда"
+ CHI_green_gang_desc:0 "Зелена банда — одне з найпотужніших і найвідоміших таємних товариств Китаю, яке залізною хваткою тримає весь кримінальний світ Шанхая. Під проникливим керівництвом таких постатей, як Ду Юешен, їхній вплив поширюється далеко за межі опіумних кубел і гральних будинків. Вони командують величезною мережею бойовиків і контролюють міські профспілки, що робить їх грізною політичною силою. Для тих, хто готовий заплющити очі на їхні методи, Зелена банда є незамінним, хоч і неприємним, союзником у боротьбі проти комунізму та за абсолютний контроль над містом."
+ CHI_zhejiang_financiers:0 "Чжецзянська фінансова кліка"
+ CHI_zhejiang_financiers_desc:0 "Чжецзянська фінансова кліка, потужна група банкірів та промисловців із Шанхай-Чжецзянського регіону, є економічним хребтом нашого уряду. Їхні величезні ресурси фінансують нашу державу, їхній досвід спрямовує нашу економічну політику, а їхня політична підтримка зміцнює наш режим. Цей критично важливий альянс забезпечує стабільний приплив капіталу, дозволяючи уряду зосередити ресурси на військовому та промисловому розвитку, а не на цивільних потребах."
+ CHI_fengtian_no_resistance:0 "Армія в катастрофічному безладі"
+ CHI_fengtian_no_resistance_desc:0 "Наші війська не отримують належних наказів чи інструкцій від свого командування. Системна передача наказів неможлива як від вищого, так і до середнього керівного складу. Фактично, наша армія є нічим іншим, як різношерстою групою озброєних ополченців."
 
 ### СПОЛУЧЕНІ ШТАТИ ###
  USA_idea_volunteer_corps:0 "Корпус добровольців"
@@ -2252,8 +2252,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  USA_idea_reactionism_era:0 "Ера реакціонізму"
  USA_idea_progressivism_era:0 "Ера прогресивізму"
  USA_cant_increase_concription_or_change_army:1 "§RCannot increase conscription law.\nCannot train units, disband units, or edit unit templates.§!"
- USA_idea_neglected_military_budget:0 "Neglected Military Budget"
- USA_idea_neglected_military_budget_desc:0 "The isolationist diplomacy of the United States has prioritized the expansion of the civilian economy to the detriment of defense budgets, particularly that of the Army. The American army has accumulated a certain delay in the design of modern weapons such as machine guns or military aviation."
+ USA_idea_neglected_military_budget:0 "Занедбаний військовий бюджет"
+ USA_idea_neglected_military_budget_desc:0 "Ізоляціоністська дипломатія Сполучених Штатів надала пріоритет розширенню цивільної економіки на шкоду оборонним бюджетам, особливо армійському. Американська армія накопичила певне відставання в розробці сучасної зброї, як-от кулеметів чи військової авіації."
  USA_idea_union_activism:0 "Профспілковий активізм"
  USA_idea_union_activism_desc:0 "Незважаючи на впровадження прогресивного вдосконалення соціальної політики, страйки та соціалістична кампанія профспілок продовжуються відбуватися. І це відбувається у формі культурного явища"
  USA_idea_wild_west_era:0 "Спадщина Дикого Заходу"
@@ -2586,8 +2586,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  EGY_british_colonial_interference_desc:0 "Британське колоніальне правління, встановлене під приводом стійкості та порядку, підірвало суверенітет Єгипту та обмежило владу хедіва. У той час як британці прагнуть забезпечити свої економічні інтереси, такі як контроль над Суецьким каналом та експортом бавовни, їх жорстка тактика викликала широке обуреня серед єгиптян Це колоніальне втручання прогресуванню націоналістичних настроїв, через що багато єгиптян прагнуть самовизначення та уряду, вільного від іноземного контролю"
  EGY_nahda: "Нагда"
  EGY_nahda_desc:0 "Нагда, або \"Пробудження\", демонструє собою значне культурне та інтелектуальне відродження в Єгипті, яке характеризується розквітом літератури, мистецтва та освіти, які прагнуть переосмислити єгипетську ідентичність і сприяти модернізації. Під впливом західної думки та ідеї, єгипетські інтелектуали, поети та письменники, такий як Ахмад Шаукі та Хафез Ібрагім, є авангардом цього відродження, заохочуючи критичний дискурс і національну гордість, після школи та університети розширюють доступ до освіти, з’являється нове покоління політично свідомих громадян, які виступають за реформи та більшу автономію від колоніального правління потужним каталізатором єгипетського націоналізму, закладаючи основу для майбутніх рухів, які прагнуть до самовизначення та незалежності"
- EGY_veiled_protectorate:0 "Veiled Protectorate" # (!)
- EGY_veiled_protectorate_desc:0 "Since 1882, when the Urabi Pasha's attempt at self-rule in Egypt was crushed by British intervention, Egypt has been in the strange position of being a de jure autonomous province of the Ottoman Empire, but de facto under British political, economic and diplomatic control. Technically, the Khedive is supposed to be appointed by Kostantiniyye, but in practice this is not the case. The Khedivate is nothing more than a protected state of the British Empire." # (!)
+ EGY_veiled_protectorate:0 "Прихований протекторат"
+ EGY_veiled_protectorate_desc:0 "Починаючи з 1882 року, коли спроба Урабі-паші встановити самоврядування в Єгипті була придушена британським втручанням, Єгипет перебуває в дивному становищі: де-юре він є автономною провінцією Османської імперії, але де-факто перебуває під британським політичним, економічним та дипломатичним контролем. Формально Хедив має призначатися з Костантиніє, але на практиці цього не відбувається. Хедиват є нічим іншим, як підконтрольною державою Британської імперії."
 
  #Japan
  JAP_uncontrollable_military: "Некерована армія"
@@ -2652,8 +2652,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  SPR_el_desastre_del_98_desc:0 "Принизлива поразка в іспано-американській війні руйнувала військову гордість Іспанії. Збройні сили, які колись були грізною імперською державою, тепер борються з ганьбою втрати Куби, Пуерто-Ріко та Філіппін на користь Сполучених Штатів, що розвиваються. Флот, колись опора колоніального панування, лежить у Руїнах, з його флотом, який потонув або застарів, він шукав більше офіцерів, ніж насправді потрібно, і війська більше зосереджені на традиційних маршах, ніж на реальних військових навчаннях"
 
  SPR_pact_of_cartagena_1907: "Картахенський пакт"
- SPR_pact_of_cartagena_1907_desc:0 "The Cartagena Pact of 1907 established Spanish, French, and British spheres of influence in North Africa. In exchange for Spain's support in the event of an attack by the Triple Alliance, the Entente provided us with significant material support in modernizing our navy, while also upholding our colonial integrity." # (!)
- SPR_pact_of_cartagena_1907_tt:0 "\nIf [SPR.getFlag]§Y[SPR.getName]§!, §Y[ENG.getFlag][ENG.getName]§! or/and §Y[FRA.getFlag][FRA.getName]§! are attacked by both §R[ITA.getFlag]Italy§! and §R[AUS.getFlag]Austria§!, we will fight together.\n\n" # (!)
+ SPR_pact_of_cartagena_1907_desc:0 "Картахенський пакт 1907 року закріпив сфери впливу Іспанії, Франції та Британії в Північній Африці. В обмін на підтримку з боку Іспанії в разі нападу Троїстого союзу, Антанта надала нам суттєву матеріальну допомогу в модернізації нашого флоту, а також підтримала цілісність наших колоній."
+ SPR_pact_of_cartagena_1907_tt:0 "\nЯкщо на [SPR.getFlag]§Y[SPR.getName]§!, §Y[ENG.getFlag][ENG.getName]§! та/або §Y[FRA.getFlag][FRA.getName]§! нападуть одночасно і §R[ITA.getFlag]Італія§!, і §R[AUS.getFlag]Австрія§!, ми будемо битися разом.\n\n"
 
  SPR_independence_movements: "Рухи за незалежність"
 
@@ -2680,8 +2680,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  SAF_mining_reliant_economy: "Залежна від гірництва економіка" # (&+?)
  SAF_mining_reliant_economy_desc:0 "Основа економіки держави [ROOT.GetName] лежить глибоко під землею, де золото, діаманти та дорогоцінні мінерали сприяють як процвітанню, так і вразливості. Будучи джерелом багатства нації, гірничодобувна промисловість домінує в усіх аспектах економічного життя, починаючи від зайнятості. Однак ця залежність має певну ціну — економічна стабільність є головною Коливання світового попиту та робочі заворушення на шахтах можуть сколихнути криху промислову базу країни"
 
- SAF_cape_qualified_franchise:0 "Qualified Franchise" # (!)
- SAF_cape_qualified_franchise_desc:0 "The constitution prohibits discrimination on the basis of race or colour and, in principle at least, the Parliament and other government institutions are explicitly colour-blind." # (!)
+ SAF_cape_qualified_franchise:0 "Кваліфікований виборчий ценз"
+ SAF_cape_qualified_franchise_desc:0 "Конституція забороняє дискримінацію за ознакою раси чи кольору шкіри, і, принаймні в теорії, парламент та інші урядові інституції є абсолютно сліпими до расових відмінностей."
 
  SAF_segregation: "Сегрегація"
  SAF_segregation_desc:0 "[ROOT.GetAdjective]ий уряд, що ґрунтується на політиці расового поділу, впроваджує систему сегрегації, яка маргіналізує її населення. Від обмеження власності на землю до трудового законодавства чорні, кольорові та індіанці Південної Африки виключені з економічної та політичної діяльності потужність"
@@ -2709,10 +2709,10 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  HUN_minority_government3_desc:0 "Наша коаліція не в усьому погоджується, але ми єдині щодо спільної мети — запровадження загального виборчого права в Угорщині"
  HUN_croatian_sabor:0 "Хорватський сабор"
  HUN_raba: "Rába"
- HUN_anti_communist_opposition:0 "Anti-Communist Opposition"
- HUN_anti_communist_opposition_desc:0 "Many across the country oppose our communist policies, the landowners disapprove of our seizure of their property, business owners dispprove of our nationalisation, liberals of our dictatorship and the list goes on. These traitors are tearing our country apart with their opposition to the revolution and opposition to the government."
- HUN_lenin_boys:0 "The Lenin Boys"
- HUN_lenin_boys_desc:0 "The Lenin Boys are a small paramilitary group lead by Tibor Szamuely, who are cracking down on any opponents to the revolution and any other traitors across the country, solidifying the control of our government and preventing any counter-revolution."
+HUN_anti_communist_opposition:0 "Антикомуністична опозиція"
+ HUN_anti_communist_opposition_desc:0 "Багато людей по всій країні виступають проти нашої комуністичної політики: землевласники не схвалюють вилучення їхньої власності, власники бізнесу незадоволені націоналізацією, ліберали — нашою диктатурою, і цей список можна продовжувати. Ці зрадники роздирають нашу країну на шматки своїм спротивом революції та опозицією до уряду."
+ HUN_lenin_boys:0 "Ленінські хлопці"
+ HUN_lenin_boys_desc:0 "«Ленінські хлопці» — невелике воєнізоване формування під керівництвом Тібора Самуелі, яке жорстко придушує будь-яких противників революції та інших зрадників по всій країні, зміцнюючи контроль нашого уряду та запобігаючи будь-якій контрреволюції."
  HUN_socialist_economy: "Соціалістична економіка"
 
  #Nepal
@@ -2751,8 +2751,8 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  RIF_idea_breeze_of_freedom_desc:0 "Холодні дні спекотної осені. Аль-Хосейма і Тар'єст, Бахаа Айт-Тузан. Танжер і Тетуан, о квітко Ашона. Від Сходу до Заходу це країна Ріф. Ріф - наша Батьківщина! Ріф наша Батьківщина!"
 
  #Luxembourg
- LUX_london_treaty:0 "Treaty of London" # (!)
- LUX_london_treaty_desc:0 "Under the Treaty of London of 1867, Luxembourg is considered a neutral state and is not allowed to have an army. The local police force is the only military force the country has, making it a defenseless nation." # (!)
+ LUX_london_treaty:0 "Лондонський договір"
+ LUX_london_treaty_desc:0 "За Лондонським договором 1867 року Люксембург вважається нейтральною державою і не має права утримувати армію. Місцева поліція — єдина збройна сила, яка є в розпорядженні країни, що робить її беззахисною перед будь-якою загрозою."
  LUX_occupation:0 "Окупація"
  LUX_occupation_desc:0 "На політику [ROOT.GetNameDefCap] сильно вплинула німецька окупація держави."
  LUX_occupation_tt:0 "\n§Y[ROOT.GetFlag]Люксембург буде вирішено державами-переможцями:\nякщо [GER.GetFlag]Німеччина переможе, §R[ROOT.GetFlag]Люксембург буде анексовано§!;\nif [ FRA.GetFlag] Франція перемогла, вона підніметься їм §Rвирішити, чи буде вона залишатися незалежною§!.§!"
@@ -2861,13 +2861,13 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  UKR_idea_bread_peace:0 "Хліб, земля і мир"
  UKR_idea_bread_peace_desc:0 "Палаюче полум'я російської революції поширилося з Петрограда і дійшов до Києва. Ми не могли не відкрити руки німцям, щоб витягнути нас із цього гарячого казу".
 
- UKR_soviet_sympathies:0 "Soviet Sympathies" # (!)
- UKR_soviet_sympathies_desc:0 "Our soldiers sympathize with Soviet ideas" # (!)
+UKR_soviet_sympathies:0 "Радянські симпатії"
+ UKR_soviet_sympathies_desc:0 "Наші солдати симпатизують радянським ідеям"
 
- UKR_has_not_yet_perished:0 "Ukraine Has Not Yet Perished"
- UKR_has_not_yet_perished_desc:0 "The glory and will of Ukraine has not yet perished,\nAnd yet still upon us, brothers, fate shall smile once more.\nOur enemies shall melt away, like the dew in the sun.\nAnd we too shall rule, O brethen, the homeland of our own."
- UKR_long_live_soviet_ukraine:0 "Long live Soviet Ukraine!"
- UKR_long_live_soviet_ukraine_desc:0 "Equal amid the equal, free amid the free,\nUnder the sun of freedom, you bloomed like a flower."
+ UKR_has_not_yet_perished:0 "Ще не вмерла Україна"
+ UKR_has_not_yet_perished_desc:0 "Ще не вмерла України ні слава, ні воля,\nЩе нам, браття молодії, усміхнеться доля.\nЗгинуть наші воріженьки, як роса на сонці,\nЗапануєм і ми, браття, у своїй сторонці."
+ UKR_long_live_soviet_ukraine:0 "Хай живе Радянська Україна!"
+ UKR_long_live_soviet_ukraine_desc:0 "Рівна між рівними, вільна між вільними,\nПід сонцем свободи, як цвіт, розцвіла."
 
  #Assyria
  ASY_idea_save_the_nation:0 "Боротися з переслідуваннями"
@@ -2892,14 +2892,14 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  idea_russian_protectorate_desc:0 "Як протекторат Російської імперії [FROM.GetNameDef] зберігає номінальну внутрішню автономію, але піддається значному російському впливу. У той час як [FROM.GetLeader] зберігає контроль над внутрішніми справами, Росія диктує зовнішню політику, військові рішення та приведення переваг, такий як захист від зовнішніх загроз і обмежений до [RUS.GetAdjective] ринків, але це також захист незадоволення середнього місцевого населення та правлячих є доступ, який роздратований під [RUS.GetAdjective] наглядом"
 
  idea_dominant_nomadic_population: "Переважно кочове населення"
- idea_dominant_nomadic_population_desc:0 "For over four thousand years nomadic peoples of Central Asia traversed the land seasonally, grazing their herds which included sheep, horses, and camels. This is still the dominant way of life." # (!)
+ idea_dominant_nomadic_population_desc:0 "Понад чотири тисячі років кочові народи Центральної Азії здійснювали сезонні переходи цими землями, випасаючи свої стада овець, коней та верблюдів. Це й досі залишається панівним способом життя."
 
  # Tibet
  TIB_monastic_institutions:0 "Чернечі установи"
- TIB_monastic_institutions_desc:0 "Тибетське суспільство глибоко переплетене з його монастирськими установами, які є лише місцями поклоніння, але й розміщені політичними утвореннями, що мають значний вплив на місцеві справи. традиції, влади, які виходять за межі духовної сфери, часто формування політики та рішень, які впливають на життя простих тибетців"
- TIB_de_facto_independence:0 "De-facto Independence" # (!)
- TIB_de_facto_independence_desc:0 "After years of rule under the Qing Dynasty's real union and vassal state, we achieved independence. However, China still does not recognize our government and considers our territory as its own." # (!)
- TIB_de_facto_independence_tt:0 "If a non-Chinese country invades [TIB.GetFlag] Tibet, China will get an event whether to intervene in the war." # (!)
+ TIB_monastic_institutions_desc:0 "Тибетське суспільство глибоко переплетене з його монастирськими установами, які є не лише місцями поклоніння, але й політичними утвореннями, що мають значний вплив на місцеві справи. Традиції влади виходять за межі духовної сфери, часто формуючи політику та рішення, які впливають на життя простих тибетців"
+ TIB_de_facto_independence:0 "Незалежність де-факто"
+ TIB_de_facto_independence_desc:0 "Після років перебування під владою династії Цін у статусі васальної держави ми здобули незалежність. Проте Китай досі не визнає наш уряд і вважає нашу територію своєю."
+ TIB_de_facto_independence_tt:0 "Якщо некитайська держава нападе на [TIB.GetFlag] Тибет, Китай отримає подію з вибором, чи втручатися у війну."
 
  #Siam
  SIA_bamboo_diplomacy:0 "Згинаючися за вітром"
@@ -2918,9 +2918,9 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  KUW_ottoman_tax_collection:0 "Османський збір податків"
 
  #Persian Gulf
- GULF_enhanced_fishing_tactics:0 "Enhanced Fishing Tactics" # (!)
- GULF_enhanced_farming_tactics:0 "Enhanced Farming Tactics" # (!)
- GULF_agricultural_economy_idea:0 "Agricultural Economy" # (!)
+ GULF_enhanced_fishing_tactics:0 "Покращена тактика рибальства"
+ GULF_enhanced_farming_tactics:0 "Покращена тактика землеробства"
+ GULF_agricultural_economy_idea:0 "Аграрна економіка"
  GULF_import_foreign_tractors_idea:0 "Імпортні трактори"
  GULF_slavery:0 "Рабство"
  GULF_slavery_desc:0 "Жахливий пережиток минулого, який зберігається"
@@ -3015,10 +3015,10 @@ FRA_idea_socialist_income_tax_desc:0 "Створення податку на п�
  FRA_instrumentalized_senate_desc:0 "Французький Сенат став нічим іншим, як маріонеткою уряду після Наполеона після Великої війни. Його члени обираються роль уряду, і він стає лише в підтвердженні конституційної реформи."
 
  ALG_no_political_representation: "Відсутність політичного представництва"
- ALG_no_political_representation_desc:0 "Algeria is ruled by a governor-general appointed by Paris, serving French interests above all. The few Algerian deputies in parliament are often colonists from the metropolis. This situation, resulting in a lack of representation for the indigenous people, represents a significant obstacle to the integration and unity of the \"French\" people." # (!)
+ ALG_no_political_representation_desc:0 "Алжиром керує генерал-губернатор, призначений Парижем, який понад усе захищає французькі інтереси. Нечисленні алжирські депутати в парламенті найчастіше є колоністами з метрополії. Ця ситуація, що призводить до відсутності представництва корінного населення, є суттєвою перешкодою для інтеграції та єдності «французького» народу."
 
  ALG_european_domination: "Маргіналізована мусульманська спільнота"
- ALG_european_domination_desc:0 "Although they represent more than 85% of the population, Algeria's indigenous Muslims are exploited by a minority of European elites who perpetuate a cycle of semi-slavery. Without opportunities for social advancement, the natives remain poor, uneducated, and hopeless.\n\nFrancophile sentiment among rural natives is therefore very weak, which limits their recruitment into an Algerian army subject to France." # (!)
+ ALG_european_domination_desc:0 "Хоча вони становлять понад 85% населення, корінні мусульмани Алжиру експлуатуються меншістю європейських еліт, які увічнюють цикл напіврабства. Без можливостей для соціального просування корінні жителі залишаються бідними, неосвіченими та безнадійними.\n\nЧерез це франкофільські настрої серед сільського корінного населення є дуже слабкими, що обмежує їхній призов до алжирської армії, підпорядкованої Франції."
 
  FRA_bons_du_tresor: "Bons du Trésor"
  FRA_communist_terrorism: "Комуністичний тероризм"
@@ -3078,26 +3078,26 @@ FRA_colonial_conscription: "Колоніальний призов"
 
 
  MOR_guerilla_warfare: "Партизанська війна"
- MOR_economical_crisis:0 "Economical Crisis"
- MOR_economical_crisis_desc:0 "The Moroccan economy is on the verge of bankruptcy since the departure of Sultan Abdelaziz for the benefit of his brother Abdelhafid, the lack of control of the territory and the sluggishness of foreign investments have plunged the country into a deep budgetary crisis."
+ MOR_economical_crisis:0 "Економічна криза"
+ MOR_economical_crisis_desc:0 "Марокканська економіка перебуває на межі банкрутства. З моменту відходу султана Абдельазіза на користь його брата Абдельхафіда брак контролю над територією та млявість іноземних інвестицій занурили країну в глибоку бюджетну кризу."
 
- MOR_decentralized_tribal_state:0 "Decentralized Tribal State"
- MOR_decentralized_tribal_state_desc:0 "Morocco is a rural and decentralized state. Most government seats are given to warlords representing more or less independent tribes, fighting for their own interests."
+ MOR_decentralized_tribal_state:0 "Децентралізована племінна держава"
+ MOR_decentralized_tribal_state_desc:0 "Марокко є аграрною та децентралізованою державою. Більшість урядових посад віддано польовим командирам, які представляють більш-менш незалежні племена, що борються за власні інтереси."
 
- MOR_limited_tradition_preservation:0 "Relative Tradition Preservation"
- MOR_limited_tradition_preservation_desc:0 "The Moroccan government has preserved the influence and authority of religious elites in the villages, which contributes to the stability of the country."
+ MOR_limited_tradition_preservation:0 "Відносне збереження традицій"
+ MOR_limited_tradition_preservation_desc:0 "Марокканський уряд зберіг вплив і авторитет релігійних еліт у селах, що сприяє стабільності країни."
 
- MOR_low_makhzen_authority:0 "Low Makhzen Authority"
- MOR_low_makhzen_authority_desc:0 "The Makhzen represents the court of the Sultan and his courtiers. Once influential, it lost authority following the economic, political and social crises the country was going through."
+ MOR_low_makhzen_authority:0 "Низький авторитет Махзену"
+ MOR_low_makhzen_authority_desc:0 "Махзен представляє двір султана та його придворних. Колись впливовий, він утратив свій авторитет внаслідок економічної, політичної та соціальної кризи, яку переживає країна."
 
- MOR_mid_makhzen_authority:0 "Mitigated Makhzen Authority"
- MOR_mid_makhzen_authority_desc:0 "The Makhzen represents the court of the Sultan and his courtiers. Once influential, it lost authority following the economic, political and social crises the country was going through."
+ MOR_mid_makhzen_authority:0 "Помірний авторитет Махзену"
+ MOR_mid_makhzen_authority_desc:0 "Махзен представляє двір султана та його придворних. Колись впливовий, він утратив свій авторитет внаслідок економічної, політичної та соціальної кризи, яку переживає країна."
 
- MOR_ship_sale:0 "Ship Sales"
- MOR_ship_sale_desc:0 "The Moroccan government has begun purchasing some of our navy's decommissioned or near-decommissioned ships."
- MOR_ship_purchase:0 "Purchasing Ships"
- MOR_incompetent_navy:0 "Incompetent Navy"
- MOR_incompetent_navy_desc:0 "[ROOT.getName] has never had a navy and has no naval tradition."
+ MOR_ship_sale:0 "Продаж кораблів"
+ MOR_ship_sale_desc:0 "Марокканський уряд розпочав закупівлю деяких кораблів нашого флоту, які вже виведені або невдовзі будуть виведені з експлуатації."
+ MOR_ship_purchase:0 "Закупівля кораблів"
+ MOR_incompetent_navy:0 "Некомпетентний флот"
+ MOR_incompetent_navy_desc:0 "[ROOT.getName] ніколи не мала військово-морського флоту та не має морських традицій."
 
  #Malaysia
  MAL_federation: "Федеративні штати"
@@ -3133,61 +3133,61 @@ FRA_colonial_conscription: "Колоніальний призов"
  BLR_weak_national_identity_desc:0 "У той час як багато націй у Східній Європі пережили національне розвиток у другій половині 19 століття, ідея білоруської нації почала з'являтися тільки в цьому століть. Зараз дуже мало білорусів навіть можуть сказати ідею націоналізму, не кажучи вже про це, і багато хто навіть вважає білорусів нічим іншим, як полонізованими росіянами або бідними, некультурними селянами, негідними титулу «народ»."
 
  #Tripolitania
- TRP_governing_tetrarchy:0 "Governing Tetrarchy"
- TRP_governing_tetrarchy_desc:0 "Four governing figures withing the Supreme Council, four men with different ideals. Though we're a republic with a president, the political reality of the leadership can best be explained as being divided between four figures united by one goal. Though these men unite this country and against our enemies, it without a doubt causes some frictions."
- TRP_consultative_council:0 "Consultative Council"
- TRP_consultative_council_desc:0 "Though not as influential as the Supreme Council, the Consultative Council brings about various tribes under itself, making sure every voice is heard in our new republic"
- TRP_unrecognized_republic: "Невизнана республіка"
- TRP_unrecognized_republic_desc:0 "Our republic stands internationally unrecognized, making it harder to establish relations with other states."
+ TRP_governing_tetrarchy:0 "Правляча тетрархія"
+ TRP_governing_tetrarchy_desc:0 "Чотири керівні постаті у Вищій раді, чотири людини з різними ідеалами. Хоча ми є республікою з президентом, політичну реальність керівництва найкраще описати як поділ між чотирма діячами, об'єднаними однією метою. Попри те, що ці люди згуртовують країну проти наших ворогів, це, без сумніву, викликає певні тертя."
+ TRP_consultative_council:0 "Консультативна рада"
+ TRP_consultative_council_desc:0 "Хоча Консультативна рада не така впливова, як Вища рада, вона об'єднує під своїм крилом різні племена, гарантуючи, що в нашій новій республіці буде почутий кожен голос."
+ TRP_unrecognized_republic:0 "Невизнана республіка"
+ TRP_unrecognized_republic_desc:0 "Наша республіка залишається міжнародно невизнаною, що ускладнює встановлення відносин з іншими державами."
  TRP_civil_war: "Громадянська війна"
  TRP_civil_war_desc:0 "Структура влади республіки, нестабільна з самого початку, була повністю зруйнована, і різні частини республіки поринули в громадянську війну"
 
 ### БЕЛЬГІЯ ###
  BEL_belgian_resistance_modifier: "Бельгійський опір"
- BEL_belgian_resistance_modifier_desc:0 "The popularity of King Albert and the publication of underground newspapers stimulated resistance in Belgium."
+ BEL_belgian_resistance_modifier_desc:0 "Популярність короля Альберта та видання підпільних газет стимулювали рух опору в Бельгії."
  BEL_belgian_resistance_modifier_idea: "$BEL_belgian_resistance_modifier$"
  BEL_belgian_resistance_modifier_idea_desc: "$BEL_belgian_resistance_modifier_desc$"
 
 ### МАРОККО ###
- MOR_reformed_tertib:0 "Reformed Tertib"
+ MOR_reformed_tertib:0 "Реформований тертіб"
  MOR_union_des_mines_marocaines:0 "Union des mines Marocaines"
  MOR_mannesmann:0 "Mannesmann"
- MOR_mannesmann_desc:0 "Mannesmann Souss Landgeselischaft"
+ MOR_mannesmann_desc:0 "Mannesmann Souss Landgesellschaft"
 
 ### FOUTA-JALLON ###
- FUJ_legacy_of_western_african_djihad:0 "Legacy of West-African Djihad"
- FUJ_legacy_of_western_african_djihad_desc:0 "Guided by faith and the sword, the Imamate of Futa Jallon ignited the flame of Islamic revival in the Guinean highlands. Their example inspired generations of reformers and conquerors throughout West Africa, establishing the most powerful Islamic state in the region. This glorious past remains etched in our memories."
+ FUJ_legacy_of_western_african_djihad:0 "Спадщина західноафриканського джихаду"
+ FUJ_legacy_of_western_african_djihad_desc:0 "Керований вірою та мечем, імамат Фута-Джаллон запалив вогонь ісламського відродження на Гвінейському нагір'ї. Їхній приклад надихнув покоління реформаторів і завойовників по всій Західній Африці, що зумовило створення найпотужнішої ісламської держави в регіоні. Це славне минуле назавжди закарбувалося в нашій пам'яті."
 
- french_tech_share_name:0 "Francophonie Influence"
- french_tech_share_desc:0 "As a member of the French sphere of influence, we enjoy privileged access to the metropolis's new discoveries."
+ french_tech_share_name:0 "Вплив Франкофонії"
+ french_tech_share_desc:0 "Як учасник французької сфери впливу, ми маємо привілейований доступ до нових відкриттів метрополії."
 
 ### САРДИНІЯ ###
- SRD_great_war_loser:0 "Responsibility for Defeat"
- SRD_great_war_loser_desc:0 "Italy lost the Great War because it lined up on the wrong side of the tide. The popular blame for this choice fell squarely on the monarchy, but it seems the Savoyards hadn't completely lost their leadership yet."
+ SRD_great_war_loser:0 "Відповідальність за поразку"
+ SRD_great_war_loser_desc:0 "Італія програла Велику війну, тому що стала не на той бік. Народне звинувачення за цей вибір повністю лягло на монархію, але, схоже, Савойська династія ще не остаточно втратила свій авторитет."
  SRD_avanti_savoia:0 "Avanti Savoia!"
- SRD_avanti_savoia_desc:0 "The entire Italian peninsula was once united under the House of Savoy, so why not again?"
+ SRD_avanti_savoia_desc:0 "Увесь Італійський півострів колись був об'єднаний під владою Савойського дому, то чому б не повторити це знову?"
 
 ### ДАР ЕЛЬ-КУТІ ###
- KUT_senussi_fortress:0 "Senussi Fortress"
- KUT_senussi_fortress_desc:0 "Muhammad al-Sanussi is a member of the Sanusiyya order and is the sheikh of both Dar al-Kuti and Dar Runga. He consolidated and expanded Sanussi's authority in the region."
- KUT_legacy_of_slave_trade:0 "Legacy of the Slave Trade"
- KUT_legacy_of_slave_trade_desc:0 "The majority of the region's native inhabitants were captured by slave-traders from Sudan in the second half of the nineteenth century."
+ KUT_senussi_fortress:0 "Фортеця Сенуситів"
+ KUT_senussi_fortress_desc:0 "Мухаммад аль-Санусі є членом ордену Санусійя та шейхом як Дар ель-Куті, так і Дар Рунга. Він зміцнив та розширив владу Сенуситів у цьому регіоні."
+ KUT_legacy_of_slave_trade:0 "Спадщина работоргівлі"
+ KUT_legacy_of_slave_trade_desc:0 "Більшість корінних жителів регіону була захоплена работорговцями із Судану в другій половині дев'ятнадцятого століття."
 
 ### ГАМБУРҐ ###
- HAM_1906_voter_disenfranchisement_law:0 "Voter Disenfranchisement Law of 1906" # (!)
- HAM_1906_voter_disenfranchisement_law_desc:0 "Sparked by the electoral victory of the SPD in 1906, the subsequent state elections use a system of heavily weighted class suffrage that divides the enfranchised male population into two groups. Furthermore, landowners and the notables are also enfranchised with 40 representatives per group." # (!)
+ HAM_1906_voter_disenfranchisement_law:0 "Закон про позбавлення виборчих прав 1906 року"
+ HAM_1906_voter_disenfranchisement_law_desc:0 "Спровоковані електоральною перемогою СДПН у 1906 році, наступні вибори до ландтагу використовують систему суворо зваженого класового виборчого права, яка ділить виборче чоловіче населення на дві групи. Крім того, землевласники та нотаблі також отримують виборчі права із представництвом по 40 осіб від кожної групи."
 
 ### БРЕМЕН ###
- BRE_eight_class_franchise:0 "Eight-Class Franchise" # (!)
- BRE_eight_class_franchise_desc:0 "Many poorer residents are unable to acquire citizenship due to the registration fee and therefore have no right to vote. Thus, broad sections of the population in Bremen are not involved in the parliamentary process of political participation, not even a third of Reichstag voters are eligible to vote in the state elections." # (!)
+ BRE_eight_class_franchise:0 "Восьмикласове виборче право"
+ BRE_eight_class_franchise_desc:0 "Багато бідніших жителів не можуть отримати громадянство через реєстраційний збір і тому позбавлені права голосу. Таким чином, широкі верстви населення Бремену не беруть участі в парламентському політичному житті, і навіть третина виборців Рейхстагу не має права голосувати на місцевих виборах."
 
 ### ARMENIA ###
- ARM_idea_mountain_fighters:0 "Mountain Fighters"
+ ARM_idea_mountain_fighters:0 "Гірські бійці"
 
 ### ARGENTINA ###
- ARG_generation_of_80:0 "Generation of '80"
- ARG_generation_of_80_desc:0 "Generación del '80 is the governing elite in Argentina comprised of members of the oligarchy of the provinces and the country's capital. The politicians of the Generation of '80 hold economically liberal and socially conservative positions, as well as believing in positivism, symbolizing their ideology with Auguste Comte's motto, \"Order and Progress.\" The leaders of this generation believe blindly in \"progress,\" identifying it as economic growth and modernization; \"order\" is considered a necessary condition for such progress, since it must be under conditions of peace that the people achieve progress."
+ ARG_generation_of_80:0 "Покоління 80-х"
+ ARG_generation_of_80_desc:0 "«Покоління 80-х» — це правляча еліта в Аргентині, що складається з представників олігархії провінцій та столиці країни. Політики цього покоління дотримуються економічно ліберальних і соціально консервативних позицій, а також сповідують позитивізм, символізуючи свою ідеологію гаслом Оґюста Конта «Порядок і прогрес». Лідери цього покоління сліпо вірять у «прогрес», ототожнюючи його з економічним зростанням та модернізацією; «порядок» же вважається необхідною умовою для такого прогресу, оскільки саме в умовах миру народ здатний його досягти."
 
 ### WESTERN THRACE ###
- WTH_provisional_administration:0 "Provisional Administration"
- WTH_provisional_administration_desc:0 "Established amidst the chaos of the Balkan Wars, the regime was founded by agents of the Teşkilat-ı Mahsusa and local notables to navigate the constraints that prevented the Ottoman central government from intervening directly. The government was strategically formed to circumvent the legal obligations of the Treaty of London, which mandated the cession of Western Thrace to Bulgaria. By seeking the cooperation of diverse local communities—including Turks, Greeks, and Jews—it managed to exercise a degree of administrative authority over the region. While it carries the symbolic distinction of being the first republic in the Islamic world, it remains in a precarious position, serving primarily as a diplomatic bargaining chip to secure Ottoman sovereignty over Edirne."
+ WTH_provisional_administration:0 "Тимчасова адміністрація"
+ WTH_provisional_administration_desc:0 "Створений у хаосі Балканських воєн, цей режим був заснований агентами Тешкілят-і Махсуса та місцевими нотаблями, щоб обійти обмеження, які заважали центральному османському уряду втрутитися напряму. Уряд був сформований стратегічно, щоб уникнути юридичних зобов'язань Лондонського договору, який вимагав поступки Західної Фракії на користь Болгарії. Шляхом залучення до співпраці різних місцевих громад — зокрема турків, греків та євреїв — йому вдалося зберегти певний рівень адміністративної влади в регіоні. Хоча режим має символічну відмінність як перша республіка в ісламському світі, він перебуває в непевній позиції, слугуючи насамперед дипломатичною розмінною монетою для забезпечення османського суверенітету над Едірне."

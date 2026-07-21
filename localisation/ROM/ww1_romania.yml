@@ -97,7 +97,7 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_you_think_you_just_fell_out_of_a_coconut_tree: "Велике просвітництво"
  ROM_you_think_you_just_fell_out_of_a_coconut_tree_desc: "Кульмінація зусиль уряду щодо подолання інтелектуального розриву в нашому суспільстві нарешті настала, ідеї Юнімеї поширюються по всій країні. Незабаром кожен румун читатиме, писатиме і зможе відстоювати себе інтелектуально, більше не боячись переваг еліти."
  ROM_democratic_bonuses.tt: "За кожні §Y8.00%§! підтримки §3Демократії§!, цей фокус надасть:"
- ROM_current_democratic_bonuses.tt:0 "Because of our current §3Democratic§! support, this focus will give:" # (!)
+ ROM_current_democratic_bonuses.tt: "Через нашу поточну §3демократичну§! підтримку цей фокус дасть:"
  ROM_new_elites.tt: "§YНаціональний дух§!, який надає цей фокус, буде посилений при §Y50.00%§!, §Y60.00%§! та §Y70.00%§! підтримці §3Демократії§!"
  no_happy_few: "Прийнято прохання Кароля не скасовувати земельну реформу"
  ROM_enpower_the_elites: "Наділити еліту владою"
@@ -505,7 +505,7 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_enforce_fiscal_sustainability: "Забезпечення фінансової стійкості"
  ROM_enforce_fiscal_sustainability_desc: "Під час війни наш бюджет стрімко зростає. Потрібно брати позики, і наша економіка загалом страждає. Це не можна легко виправити, адже війна вимагає багато ресурсів. Однак ми можемо зробити так, щоб у мирний час ми могли функціонувати без позик. Шлях до фінансової ощадливості — це шлях, яким ми повинні піти. Після досягнення цього ми зможемо почати говорити про зменшення впливу війни, яка, безумовно, наближається."
  ROM_romanian_economy_idea: "Румунська економіка"
- ROM_romanian_economy_idea_desc:0 "Romania is not much of an economic powerhouse, it being powered by mostly agricultural means, shaped by land, grain and rural labor. The legacy of the 1907 peasant revolution still hung over the system, exposing our tightly knit the economic drive was to social tensions in agriculture." # (!)
+ ROM_romanian_economy_idea_desc: "Румунія не є потужною економічною державою, адже її економіка базується здебільшого на сільському господарстві, сформованому землею, зерном та сільською працею. Спадщина селянського повстання 1907 року все ще тяжіла над системою, показуючи, наскільки тісно економічний розвиток пов'язаний із соціальною напруженістю в аграрному секторі."
  ROM_economy_idea_for_bookmark: "Румунська економіка"
  ROM_economy_idea_for_bookmark2: "Румунська економіка"
  ROM_continue_electrification: "Продовження електрифікації"
@@ -634,7 +634,7 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_pillage_hungary_desc: "Угорщина слабка. Роздерта Тріаноном, вона стоїть самотньо проти зграї стерв’ятників, одним із яких є ми. Давайте попируемо на трупі в’язня народів."
  ROM_form_the_little_entente: "Формалізація Малої Антанти"
  ROM_form_the_little_entente_desc: "Формування Малої Антанти є ключовим заходом для захисту наших національних інтересів і забезпечення стабільності наших кордонів проти угорського ревізіонізму та потенційного відродження впливу Габсбургів в Австрії чи Угорщині. Об’єднавшись із Чехословаччиною, ми створимо єдиний фронт, присвячений збереженню територіальних надбань, що визначають наш післявоєнний суверенітет і забезпечують регіональний мир. Франція оголосила про підтримку нашого майбутнього альянсу, надаючи необхідні дипломатичні та безпекові гарантії. Цей союз є не лише пактом взаємної оборони, а й чіткою заявою, що ми будемо дотримуватися договорів і захищати баланс, встановлений після Великої війни, забезпечуючи нашу незалежність і стабільність у Східній Європі проти будь-яких сил, що намагаються його оскаржити."
- ROM_ally_poland:0 "Ally Poland" # (!)
+ ROM_ally_poland: "Союз із Польщею"
  ROM_ally_poland_desc: ""
  ROM_anti_hungarian_propaganda: "Антиугорська пропаганда"
  ROM_anti_hungarian_propaganda_desc: "Наш обов’язок — протидіяти угорським спробам підірвати наш суверенітет і стабільність Східної Європи. Ми повідомимо нашому народу та західним союзникам, що угорський ревізіонізм становить явну загрозу кордонам, закріпленим Тріанонським договором. Прагнення Угорщини повернути Трансільванію є прямим викликом цілісності Великої Румунії, і ми представимо це як небезпеку не лише для нашої нації, а й для миру в усьому регіоні."
@@ -937,7 +937,7 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_the_kings_government: "Улюбленець короля"
  ROM_the_kings_government_desc: "Король Кароль втомився від суперечок між ПК і ПНЛ. Можливо, ротаційна система нарешті припиниться через його невдоволення наступною партією, яке перевищує невдоволення нинішньою. Але це неважливо. Зараз відомо лише те, що поміркованому уряду довірено ПКД. Розпочалися переговори про коаліцію, яка охоплює центристських делегатів."
  ROM_romanian_army_idea: "Armata României"
- ROM_romanian_army_idea_desc: "Our army hasn't fought a proper war for almost 40 years. This unproven force cannot be relied upon..." # (!)
+ ROM_romanian_army_idea_desc: "Наша армія не вела справжньої війни вже майже 40 років. На цю неперевірену силу не можна покладатися..."
  ROM_invite_fredrick_wilhelm.tt: "§YФрідріх Вільгельм§! буде коронований як король Румунії"
  ROM_modify_army_tt: "Змінює ідею §Y$ROM_romanian_army_idea$§!:"
  ROM_edit_div: "§GДозволяє§! §YРедагування§! та §YСтворення§! §YШаблонів дивізій§!"
@@ -981,10 +981,10 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_french_industry_support_withdrawn.tt: "Ми §Rвтратимо§! цивільний завод від фокусу '§Y$ROM_french_industrial_support$§!'"
  ROM_french_weapons_withdrawn.tt: "Ми §Rвтратимо§! військовий завод від фокусу '§Y$ROM_increase_french_weapon_purchases$§!'"
  ROM_german_weapons_withdrawn.tt: "Ми §Rвтратимо§! військовий завод від фокусу '§Y$ROM_krupp_weapon_purchases$§!'"
- ROM_small_payment_flag:0 "The debt is now being paid in small chunks" # (!)
- ROM_small_repayment:0 "Number of times of small debt repayments(§Y[?ROM_small_repayment]§!) is not more than §Y5§!" # (!)
- ROM_mass_payment_flag:0 "The debt is now being paid in bulk" # (!)
- ROM_mass_payment:0 "Number of times of mass debt repayments(§Y[?ROM_mass_payment]§!) is not more than §Y2§!" # (!)
+ ROM_small_payment_flag: "Борг наразі сплачується невеликими частинами"
+ ROM_small_repayment: "Кількість малих виплат боргу (§Y[?ROM_small_repayment]§!) становить не більше ніж §Y5§!"
+ ROM_mass_payment_flag: "Борг наразі сплачується однією великою сумою"
+ ROM_mass_payment: "Кількість великих виплат боргу (§Y[?ROM_mass_payment]§!) становить не більше ніж §Y2§!"
  strong_monarch: "Сильний монарх"
  ROM_south_wall.tt: "Додати §G1§! §YНаземний форт§! на кожну клітинку, що межує з [BUL.GetFlag] §YБолгарією§!"
  ROM_strat_forts.tt: "Додати §G3§! §YНаземні форти§! у містах §YКаракал§!, §YАлександрія§!, §YКалараші§! та §YКонстанца§!"
@@ -1013,7 +1013,7 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_turkey_blocked_straits: "[TUR.GetName] заблокувала Дарданелли та протоку Босфор"
  ROM_conservatism_with_a_human_face: "Консерватизм із людським обличчям"
  ROM_reject_excess.tt: "За кожен завершений §Yаграрний§! економічний фокус цей фокус матиме наступний ефект:"
- ROM_agrarian_focuses_effect:0 "We've currently completed §C[?ROM_completed_agrarian]§! §YAgrarian§! economic focuses and will gain:" # (!)
+ ROM_agrarian_focuses_effect: "Наразі ми завершили §C[?ROM_completed_agrarian]§! §Yаграрних§! економічних фокусів і отримаємо:"
  ROM_has_access_through_straits: "Має доступ до проток для торгівлі"
  ROM_remove_access_to_strait.tt: "Це скасує доступ до проток для комерційної торгівлі."
  ROM_khotyn_uprising_happens: "У Бессарабії відбувається повстання"
@@ -1397,12 +1397,12 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ww1_romania.106.d: "Сербія відмовилася приєднатися до нашої кампанії проти угорської червоної загрози."
  ww1_romania.106.a: "У нас був союз..."
  ww1_romania.106.b: "Виграєш одне, втрачаєш інше."
- ww1_romania.81.t: "Sending the army into Transylvania" # (!)
- ww1_romania.81.d: "With the end of the Great War, we are now owed the territories in Transylvania controlled by Hungary that we joined the side of the Entente to liberate. We should move our armies into the region to secure it and prepare for its integration into the Romanian state." # (!)
- ww1_romania.81.a: "Move into Transylvania!" # (!)
- ww1_romania.81.b: "We must not make any move" # (!)
- ww1_romania.81.t2: "Launching an invasion of Transylvania?" # (!)
- ww1_romania.81.d2: "With the end of the Great War and the collapse of the Austro-Hungarian empire, Hungary is in a weakened state and would be an easy target for invasion of their Transylvanian land. This is a great opportunity to liberate the Romanians of Transylvania, but it could also anger victorious great powers..." # (!)
+ ww1_romania.81.t: "Введення армії в Трансильванію"
+ ww1_romania.81.d: "Із завершенням Великої війни нам тепер належать території в Трансильванії, контрольовані Угорщиною, задля визволення яких ми й приєдналися до Антанти. Нам слід ввести наші армії в цей регіон, щоб убезпечити його та підготувати до інтеграції до складу Румунської держави."
+ ww1_romania.81.a: "Увійти в Трансильванію!"
+ ww1_romania.81.b: "Ми не повинні робити жодних кроків"
+ ww1_romania.81.t2: "Почати вторгнення в Трансильванію?"
+ ww1_romania.81.d2: "Із завершенням Великої війни та розпадом Австро-Угорської імперії Угорщина перебуває в ослабленому стані й стане легкою мішенню для вторгнення на її трансильванські землі. Це чудова можливість визволити румунів Трансильванії, але це також може розгнівати великі держави-переможниці..."
  ww1_romania.108.t: "Король Фердинанд виголошує промову до народу"
  ww1_romania.108.d: "«Румуни! Війна, яка протягом останніх двох років дедалі тісніше оточувала наші кордони, потрясла стародавні основи Європи до глибини. Вона принесла день, якого століттями чекала національна свідомість, засновники румунської держави, ті, хто об’єднав князівства у війні за незалежність, ті, хто відповідав за національне відродження. Це день об’єднання всіх гілок нашої нації. Сьогодні ми здатні завершити завдання наших пращурів і встановити назавжди те, що Михайло Хоробрий зміг встановити лише на мить, а саме — румунське об’єднання по обидва боки Карпат.»\n— Король Фердинанд I Румунський"
  ww1_romania.108.a: "Від Дністра до Тиси!"
@@ -1681,16 +1681,16 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ww1_romania.211.t: "Буковина оголошує союз із Румунією"
  ww1_romania.211.d: "У Буковині Румунська національна рада скликала Загальний конгрес Буковини і попросила об’єднання Буковини з Румунією. Об’єднання було прийнято за відсутності українських представників і офіційно затверджено румунським урядом, анексувавши територію від нас."
  ww1_romania.211.a: "Чи можемо ми щось зробити?"
- ww1_romania.212.t: "Hungarian Surrender" # (!)
- ww1_romania.212.d: "Hungary has given up on fighting the war any longer and has ceded most of their lands in Transylvania, which are rightfully ours. With this victory, our armies can return hoem and the integration of the new lands into the Romanian nation can begin." # (!)
- ww1_romania.212.a: "Transylvania has been liberated!" # (!)
- ww1_romania.213.t:0 "Romania proposes an alliance" # (!)
- ww1_romania.213.d:0 "Romania has came to us with an offer proposing to form an alliance with us so we can better defend ourselves in case of an invasion by a stronger nation." # (!)
- ww1_romania.213.a:0 "Sure" # (!)
- ww1_romania.213.b:0 "We don't need it" # (!)
- ww1_romania.214.t:0 "[FROM.GetName] Accepted the Alliance" # (!)
- ww1_romania.214.d:0 "The [FROM.GetAdjective] government accepted our proposal for mutual guarantees. This seemingly small treaty is a huge step in securing peace and stability in the balkans." # (!)
- ww1_romania.214.a:0 "Great!" # (!)
+ ww1_romania.212.t: "Капітуляція Угорщини"
+ ww1_romania.212.d: "Угорщина припинила подальшу боротьбу у війні й поступилася більшістю своїх земель у Трансильванії, які по праву належать нам. Завдяки цій перемозі наші армії можуть повернутися додому, і може розпочатися інтеграція нових земель до складу румунської нації."
+ ww1_romania.212.a: "Трансильванію визволено!"
+ ww1_romania.213.t: "Румунія пропонує союз"
+ ww1_romania.213.d: "Румунія звернулася до нас із пропозицією укласти союз, щоб ми могли краще захиститися в разі вторгнення сильнішої держави."
+ ww1_romania.213.a: "Звісно"
+ ww1_romania.213.b: "Нам це не потрібно"
+ ww1_romania.214.t: "[FROM.GetName] приймає союз"
+ ww1_romania.214.d: "[FROM.GetAdjective] уряд прийняв нашу пропозицію щодо взаємних гарантій. Цей, на перший погляд, незначний договір є величезним кроком на шляху до забезпечення миру та стабільності на Балканах."
+ ww1_romania.214.a: "Чудово!"
 # EVENTS_END
 
 ## -- IDEAS -- ##
@@ -1917,7 +1917,7 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  HUN_romania_will_advance.tt: "§YРумунія§! негайно розпочне новий наступ до Тиси."
  HUN_romania_will_advance_surrender.tt: "§YРумунія§! просуватиметься, доки ми не §Rздамося§!."
  HUN_take_presov.tt: "Ми мусимо захопити §YПряшів§!, інакше наш уряд втратить підтримку, і §Yрумуни просуватимуться§!."
- HUN_capture_presov:0 "Capture Prešov" # (!)
+ HUN_capture_presov: "Захопити Прешов"
  HUN_desperate_rom_offensive: "Румунський наступ"
  HUN_army_collapse: "Розвал армії"
  HUN_invade_cze_mission: "Наступ проти чехів"

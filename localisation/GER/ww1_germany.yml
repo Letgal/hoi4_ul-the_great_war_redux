@@ -814,56 +814,56 @@
   ww1_germanrework.193.b:0 "Це відчайдушний крок!"
   ww1_germanrework.193.c:0 "Здається, перемога чи поразка вирішена."
 
-  ww1_germanrework.194.t:0 "The War in the West Begins"
-  ww1_germanrework.194.d:0 "With the outbreak of hostilities against [FRA.GetNameDef], the time for theoretical planning has come to an end. The German General Staff has issued the activation orders for the Aufmarsch West; our meticulously prepared strategic deployment and operational plan for the war on the Western Front.\n\nOur armies are now on the march, executing the predetermined doctrine that will dictate the opening phase of this great conflict. The fate of the war, and indeed the Empire, now rests on the success of this initial, decisive campaign."
-  ww1_germanrework.194.a:0 "For God, Kaiser and Fatherland!"
-  ww1_germanrework.194.b:0 "Issue the ultimatum to Belgium."
+  ww1_germanrework.194.t:0 "Війна на Заході починається"
+  ww1_germanrework.194.d:0 "Із початком бойових дій проти [FRA.GetNameDef] час для теоретичного планування добіг кінця. Німецький Генеральний штаб видав наказ про введення в дію плану «Розгортання на Заході» (Aufmarsch West) — нашого ретельно підготовленого стратегічного розгортання та оперативного плану війни на Західному фронті.\n\nНаші армії вже виступили в похід, втілюючи в життя заздалегідь визначену доктрину, яка диктуватиме умови початкової фази цього великого конфлікту. Доля всієї війни і, власне, самої Імперії тепер залежить від успіху цієї першої, вирішальной кампанії."
+  ww1_germanrework.194.a:0 "За Бога, Кайзера та Батьківщину!"
+  ww1_germanrework.194.b:0 "Оголосити ультиматум Бельгії."
 
-  ww1_germanrework.195.t:0 "Belgium Rejects Ultimatum"
-  ww1_germanrework.195.d:0 "A formal reply has arrived from Brussels. King Albert and the Belgian government have categorically rejected our ultimatum. Citing their nation's sovereignty and its guaranteed neutrality under the 1839 Treaty of London, they refuse to grant passage to any foreign army.\n\nTheir response is firm, stating they will defend their neutrality with all means at their disposal. This foolish pride will cost them dearly. The invasion must commence at once."
-  ww1_germanrework.195.a:0 "So be it."
+  ww1_germanrework.195.t:0 "Бельгія відхиляє ультиматум"
+  ww1_germanrework.195.d:0 "Із Брюсселя надійшла офіційна відповідь. Король Альберт та бельгійський уряд категорично відкинули наш ультиматум. Посилаючись на суверенітет своєї країни та її гарантований нейтралітет згідно з Лондонським договором 1839 року, вони відмовляються надати прохід будь-якій іноземній армії.\n\nЇхня відповідь непохитна: вони захищатимуть свій нейтралітет усіма доступними засобами. Ця безглузда гордість дорого їм коштуватиме. Вторгнення має розпочатися негайно."
+  ww1_germanrework.195.a:0 "Нехай буде так."
 
-  ww1_germanrework.196.t:0 "Passage Through Belgium Secured"
-  ww1_germanrework.196.d:0 "Our ambassador in Brussels reports that the Belgian government has yielded to our demands. Faced with the overwhelming might of the German Army and the promise of devastation, King Albert has reluctantly agreed to grant our forces unimpeded passage through his country to strike at [FRA.GetNameDefCap].\n\nWhile they have submitted, their cooperation is born of duress, not friendship. Our forces must remain vigilant, but the strategic advantage is undeniable. The path to northern France lies open."
-  ww1_germanrework.196.a:0 "The plan proceeds perfectly."
-  BEL_granted_german_passage:0 "§YBelgium§! granted passage to §YGermany§!"
+  ww1_germanrework.196.t:0 "Прохід через Бельгію забезпечено"
+  ww1_germanrework.196.d:0 "Наш посол у Брюсселі повідомляє, що бельгійський уряд поступився перед нашими вимогами. Поставлений перед непереборною міццю німецької армії та загрозою неминучого спустошення, король Альберт неохоче погодився надати нашим військам безперешкодний прохід через свою країну для удару по [FRA.GetNameDefCap].\n\nХоча вони й підкорилися, ця співпраця викликана примусом, а не дружбою. Наші сили мають залишатися пильними, але стратегічна перевага є незаперечною. Шлях до північної Франції відкритий."
+  ww1_germanrework.196.a:0 "План просувається ідеально."
+  BEL_granted_german_passage:0 "§YБельгія§! надала право проходу §YНімеччині§!"
 
-  ww1_germanrework.197.t:0 "The Netherlands Defies Us"
-  ww1_germanrework.197.d:0 "A dispatch from The Hague has arrived. Despite our insistence, the government of the Netherlands has refused our request for military access. Their stubborn commitment to neutrality now stands firmly in the way of our operational plans. This defiance, while perhaps admirable to some, is an obstacle that must be dealt with."
-  ww1_germanrework.197.a:0 "They will regret this decision."
+  ww1_germanrework.197.t:0 "Нідерланди кидають нам виклик"
+  ww1_germanrework.197.d:0 "Надійшла депеша з Гааги. Попри наші наполегливі вимоги, уряд Нідерландів відхилив наше прохання про надання військового доступу. Їхня вперта відданість нейтралітету тепер стоїть на заваді нашим оперативним планам. Ця зухвалість, хоч дехто й може вважати її гідною захоплення, є перешкодою, з якою необхідно розібратися."
+  ww1_germanrework.197.a:0 "Они пошкодують про це рішення."
 
-  ww1_germanrework.198.t:0 "The Netherlands Submits"
-  ww1_germanrework.198.d:0 "Excellent news from our diplomats in The Hague. The Dutch government, recognizing the futility of resistance, has agreed to our terms and will grant passage to our armies. Their territory is now open to us, providing a new, unimpeded route for our forces. This strategic victory has been achieved without a single shot being fired."
-  ww1_germanrework.198.a:0 "A most sensible decision."
+  ww1_germanrework.198.t:0 "Нідерланди підкоряються"
+  ww1_germanrework.198.d:0 "Чудові новини від наших дипломатів у Гаазі. Голландський уряд, усвідомивши марність опору, погодився на наші умови та надасть прохід нашим арміям. Їхня територія тепер відкрита для нас, що забезпечує новий, безперешкодний маршрут для наших військ. Ця стратегічна перемога була здобута без жодного пострілу."
+  ww1_germanrework.198.a:0 "Надзвичайно розумне рішення."
 
-  ww1_germanrework.199.t:0 "The Netherlands Defies the Entente"
-  ww1_germanrework.199.d:0 "The Entente has followed through on its threats. After the Dutch government bravely refused to bow to their heavy-handed ultimatum, the Entente has declared war on [HOL.GetNameDef]. In a stunning display of hypocrisy, they are now punishing the Dutch for a decision that was forced upon them, invading the very nation whose neutrality they supposedly champion.\n\nThis rash act of aggression has left the Dutch with no alternative. Seeking protection from the Entente's belligerence, [HOL.GetNameDefCap] has formally petitioned to join the Central Powers. Their armies and resources are now aligned with our own."
-  ww1_germanrework.199.a:0 "Their courage will be rewarded with our protection."
+  ww1_germanrework.199.t:0 "Нідерланди кидають виклик Антанті"
+  ww1_germanrework.199.d:0 "Антанта виконала свої погрози. Після того як голландський уряд хоробро відмовився схилитися перед їхнім жорстким ультиматумом, Антанта оголосила війну [HOL.GetNameDef]. Виявляючи разюче лицемірство, вони тепер карають голландців за рішення, яке їм нав'язали, та вдираються в ту саму країну, чий нейтралітет вони нібито захищають.\n\nЦей безрозсудний акт агресії не залишив голландцям іншого вибору. Шукаючи захисту від войовничості Антанти, [HOL.GetNameDefCap] офіційно звернулася з проханням приєднатися до Центральних держав. Їхні армії та ресурси тепер об'єднані з нашими."
+  ww1_germanrework.199.a:0 "Їхня мужність буде винагороджена нашим захистом."
 
-  ww1_germanrework.200.t:0 "An Ultimatum from [GER.capital.GetCapitalVictoryPointName]"
-  ww1_germanrework.200.d:0 "This morning, General von Emmich delivered a stark ultimatum on behalf of [GER.GetNameDefCap]: grant free passage for the [GER.GetAdjective] army to attack France. They promise to treat us as a friendly nation and offer generous compensation for any damages, but the unspoken threat is clear. \n\nIn response, King Albert has convened the Crown Council to determine our nation's fate. To yield would be to sacrifice our sovereignty and honour. To resist would mean war with one of the world's greatest military powers. The very existence of our kingdom is at stake."
-  ww1_germanrework.200.a:0 "Belgium is a nation, not a road!"
-  ww1_germanrework.200.b:0 "We have no other choice..."
+  ww1_germanrework.200.t:0 "Ультиматум із міста [GER.capital.GetCapitalVictoryPointName]"
+  ww1_germanrework.200.d:0 "Цього ранку генерал фон Емміх висунув жорсткий ультиматум від імені [GER.GetNameDefCap]: надати вільний прохід для [GER.GetAdjective] армії для наступу на Францію. Вони обіцяють ставитися до нас як до дружньої нації та пропонують щедру компенсацію за будь-які збитки, але прихована загроза є очевидною.\n\nУ відповідь король Альберт скликав Коронну раду, щоб визначити долю нашої країни. Поступитися означало б пожертвувати своїм суверенітетом та честю. Чинити опір — означає війну з однією з найбільших військових держав світу. На кону стоїть саме існування нашого королівства."
+  ww1_germanrework.200.a:0 "Бельгія — це держава, а не дорога!"
+  ww1_germanrework.200.b:0 "У нас немає іншого вибору..."
 
-  ww1_germanrework.201.t:0 "An Ultimatum from [GER.capital.GetCapitalVictoryPointName]"
-  ww1_germanrework.201.d:0 "[GER.GetNameDefCap] has issued a stark ultimatum, demanding passage for its armies through our territory. They claim this is a necessary strategic move for their security, but it is a flagrant violation of our long-standing neutrality. To refuse means certain war with a military titan. To accept means surrendering our sovereignty and inviting the wrath of the Entente upon our soil. Our government must weigh the cost of defiance against the shame of submission."
-  ww1_germanrework.201.a:0 "Our neutrality is not negotiable!"
-  ww1_germanrework.201.b:0 "We cannot fight them... we must give in."
+  ww1_germanrework.201.t:0 "Ультиматум із міста [GER.capital.GetCapitalVictoryPointName]"
+  ww1_germanrework.201.d:0 "[GER.GetNameDefCap] висунула жорсткий ультиматум, вимагаючи проходу для своїх армій через нашу територію. Вони стверджують, що це необхідний стратегічний крок для їхньої безпеки, але це є грубим порушенням нашого тривалого нейтралітету. Відмова означає неминучу війну з військовим титаном. Згода означає капітуляцію нашого суверенітету та залучення гніву Антанти на нашу землю. Наш уряд має зважити ціну спротиву проти ганьби підкорення."
+  ww1_germanrework.201.a:0 "Наш нейтралітет не є предметом торгів!"
+  ww1_germanrework.201.b:0 "Ми не можемо з ними воювати... доведеться поступитися."
 
-  ww1_germanrework.202.t:0 "Dutch Neutrality Violated"
-  ww1_germanrework.202.d:0 "We have just received intelligence that the government of [HOL.GetNameDefCap] has capitulated to a [GER.GetAdjective] ultimatum, granting their armies free passage. This act completely compromises their neutrality and poses a grave strategic threat, allowing [GER.GetNameDef] to outflank our northern defences. While they may have been coerced, their submission endangers our entire war effort. We must decide whether to forcibly intervene and treat them as a hostile power, or to accept this unfortunate reality and concentrate our forces against the primary threat."
-  ww1_germanrework.202.a:0 "They have made their choice. They are with the Germans now."
-  ww1_germanrework.202.b:0 "We cannot afford to open another front."
+  ww1_germanrework.202.t:0 "Порушення голландського нейтралітету"
+  ww1_germanrework.202.d:0 "Ми щойно отримали розвіддані про те, що уряд [HOL.GetNameDefCap] капітулював перед [GER.GetAdjective] ультиматумом, надавши їхнім арміям вільний прохід. Цей крок повністю перекреслює їхній нейтралітет і створює серйозну стратегічну загрозу, дозволяючи [GER.GetNameDef] обійти нашу північну оборону з флангу. Хоча на них, можливо, і тиснули, їхня покора ставить під загрозу всі наші військові зусилля. Ми повинні вирішити, чи втрутитися силою і ставитися до них як до ворожої сили, чи прийняти цю прикру реальність і зосередити наші сили проти головної загроза."
+  ww1_germanrework.202.a:0 "Вони зробили свій вибір. Тепер вони з німцями."
+  ww1_germanrework.202.b:0 "Ми не можемо дозволити собі відкрити ще один фронт."
 
-  ww1_germanrework.203.t:0 "An Ultimatum from [ENT.capital.GetCapitalVictoryPointName]"
-  ww1_germanrework.203.d:0 "The ink on our agreement with [GER.GetNameDef] has barely dried, and already a furious dispatch has arrived from the Entente. They accuse us of abandoning our neutrality and demand that we immediately revoke Germany's military access, expel all [GER.GetAdjective] forces, and close our borders to them.\n\nThe threat is clear: if we do not comply, they will consider us an ally of the Central Powers and act accordingly. Yet, to reverse our decision now would surely invite the wrath of [GER.GetNameDefCap], which has its armies positioned right on our doorstep. We are caught between two titans, and any path we choose leads to war."
-  ww1_germanrework.203.a:0 "We have made our choice. We will not be threatened into submission."
-  ww1_germanrework.203.b:0 "This is madness! We must appease the Entente at once!"
+  ww1_germanrework.203.t:0 "Ультиматум із міста [ENT.capital.GetCapitalVictoryPointName]"
+  ww1_germanrework.203.d:0 "Чорнило на нашій угоді з [GER.GetNameDef] ледве висохло, а від Антанти вже надійшла розлючена депеша. Вони звинувачують нас у відмові від нейтралітету й вимагають негайно скасувати військовий доступ для Німеччини, вислати всі [GER.GetAdjective] війська та закрити для них наші кордони.\n\nЗагроза зрозуміла: якщо ми не підкоримося, вони вважатимуть нас союзником Центральних держав і діятимуть відповідно. Проте змінити наше рішення зараз означало б накликати на себе гнів [GER.GetNameDefCap], чиї армії стоять прямо у нас на порозі. Ми опинилися між двома титанами, і будь-який обраний нами шлях веде до війни."
+  ww1_germanrework.203.a:0 "Ми зробили свій вибір. Погрозами нас не змусити підкоритися."
+  ww1_germanrework.203.b:0 "Це безумство! Ми повинні негайно вмилостивити Антанту!"
 
-  ww1_germanrework.204.t:0 "Treachery from The Hague"
-  ww1_germanrework.204.d:0 "A disgraceful message has arrived from The Hague. Lacking the spine to stand by their own decision, the government of [HOL.GetNameDef] has bowed to the Entente's ultimatum.\n\nThey are revoking our military access and demanding the immediate withdrawal of all our forces. This cowardly reversal throws our strategic plans for the Western Front into disarray. We must now decide how to respond to this betrayal."
-  ww1_germanrework.204.a:0 "They have made themselves our enemy. This will mean war."
-  ww1_germanrework.204.b:0 "We cannot be distracted. The main enemy awaits."
+  ww1_germanrework.204.t:0 "Зрада з Гааги"
+  ww1_germanrework.204.d:0 "З Гааги надійшло ганебне повідомлення. Уряду [HOL.GetNameDef] не вистачило сміливості відстояти власне рішення, і він схилився перед ультиматумом Антанти.\n\nВони скасовують наш військовий доступ і вимагають негайного виведення всіх наших військ. Ця боягузлива зміна позиції руйнує наші стратегічні плани на Західному фронті. Тепер ми маємо вирішити, як реагувати на цю зраду."
+  ww1_germanrework.204.a:0 "Вони зробили себе нашим ворогом. Це означає війну."
+  ww1_germanrework.204.b:0 "Ми не можемо відволікатися. Головний ворог чекає."
 
   GER_send_zimmermann_telegram: "Надіслати телеграму Циммермана державі [FROM.GetName]"
   GER_date_naval_report: "Звіт про флот від [GetMonth]"
@@ -948,8 +948,8 @@ GER_prospone_snap_elections: "Перенести дострокові вибор
 GER_election_1919: "Дострокові вибори [GetYear] року"
 tt_GER_new_constitution: "Буде розроблено §Yнову конституцію§! та почато §Yнові вибори до Райхстаґу§!." # (&+)
 GER_republic_of_weimar: "Ваймарські збори"
-GER_veteran_organisation: "Veteran Organisation" # (!)
-GER_veteran_organisation_desc: "The paramilitary Frei Corps, mostly former soldiers, goes in action. They will be the government-inspired organization of the Weimar Republic, which quells the uprising of the far left." # (!)
+GER_veteran_organisation: "Організація ветеранів"
+GER_veteran_organisation_desc: "Воєнізовані добровольчі корпуси, що складаються переважно з колишніх солдатів, починають діяти. Вони стануть підтримуваною урядом Веймарської республіки організацією, яка придушить повстання ліворадикалів."
 GER_crush_communist_councils: "Розбити комуністичні ради"
 GER_form_reichswehr: "Утворити Райхсвер"
 GER_form_reichswehr_desc: "Імперську армію потрібно розпустити."
@@ -1436,23 +1436,23 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_saving_germany: "Урятувати Німеччину"
   GER_saving_germany_desc: ""
   GER_sideline_the_admiralty: "Відсторонити адміралтейство"
-  GER_sideline_the_admiralty_desc: "Tirpitz and his cronies have interfered with foreign policy for too long. It should be easy to convince the Kaiser to expel him from the Naval Office." # (!)
-  GER_the_kaisers_trip: "Кайзерова подорож"
+  GER_sideline_the_admiralty_desc: "Тірпіц та його поплічники занадто довго втручалися в зовнішню політику. Потрібно переконати кайзера в необхідності усунення адмірала зі своєї посади."
+  GER_the_kaisers_trip: "Подорож кайзера"
   GER_the_kaisers_trip_desc: ""
   GER_nationalise_key_industries: "Націоналізувати ключові індустрії"
   GER_nationalise_key_industries_desc: ""
   GER_first_mobilisation_law: "Перший мобілізаційний закон"
-  GER_first_mobilisation_law_desc: "The main focus may be on the Kaiserlich Marine but the Heer is just as crucial. therefore a mobilisation act shall be passed in the Reichstag." # (!)
+  GER_first_mobilisation_law_desc: "Основна увага може приділятися Кайзерліхмаріне, але сухопутні війська є не менш важливими. Тому в Райхстазі має бути прийнятий закон про мобілізацію."
   GER_country_and_steel: "Країна та сталь"
   GER_country_and_steel_desc: ""
   GER_second_mobilisation_law: "Черговий мобілізаційний закон"
-  GER_second_mobilisation_law_desc: "The First Mobilisation Law has been greatly beneficial, but another one is needed to keep up with our rivals. The Russians alone field an army of over 1.3 million. The Heer must be expanded in response." # (!)
+  GER_second_mobilisation_law_desc: "Перший закон про мобілізацію приніс велику користь, але потрібен ще один, щоб не відставати від наших суперників. Самі лише росіяни мають армію чисельністю понад 1,3 мільйона осіб. Сухопутні війська мають бути розширені."
   GER_prussian_suffrage_hollweg: "Чергова спроба дати прусське виборче право" # (&+)
   GER_prussian_suffrage_hollweg_desc: "У Пруссії голосування побудоване на трикласовому виборчому праві, де виборці групуються за економічним класом, а не за географією чи населенням. Цю систему критикують СДПН та націонал-ліберали за сприяння багатим і за виборчий вік 25 років. Можливо, настав час реформувати цей закон?"
   GER_social_initatives: "Соціальні ініціативи"
   GER_social_initatives_desc: ""
   GER_approach_the_unions: "Підступити до профспілок"
-  GER_approach_the_unions_desc: "At its most recent conferences the Second International has prioritised preventing war between the Great Powers, deeming such an event as being an attempt to pit workers each other on national lines. However, some trade unions and elements of the SPD disagree with this approach and have taken a more patriotic stance. The government shall negotiate a secret deal whereb the socialists will support the war effort by disavowing strikes, receiving generous concessions on issues such as pay and working conditions. It will be expensive but has the potential to disorient the socialist movement in the event war does break out." # (!)
+  GER_approach_the_unions_desc: "На своїх останніх конференціях Другий Інтернаціонал вважав пріоритетом запобігання війні між великими державами, розцінюючи таку подію як спробу зіштовхнути робітників один з одним за національною ознакою. Проте деякі профспілки та елементи СДПН не згодні з таким підходом і зайняли більш патріотичну позицію. Уряд має домовитися про таємну угоду, за якою соціалісти підтримають воєнні зусилля, відмовившись від страйків, натомість отримавши щедрі поступки в таких питаннях, як оплата праці та умови роботи. Це коштуватиме дорого, але має потенціал дезорієнтувати соціалістичний рух у разі початку війни."
   GER_out_with_bismarkism: "Геть бісмаркізм"
   GER_out_with_bismarkism_desc: ""
 
@@ -1769,15 +1769,15 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_push_for_prussian_electoral_reform: "Просунути прусську виборчу реформу"
   GER_push_for_prussian_electoral_reform_desc: "Пруссія — найбільша з одиниць у ширшій Німецькій Імперії, і як така має найбільшу владу. Хоча менші королівства та регіони можуть прийняти реформи, без аналогічних кроків Пруссії це мало що значить. Запропонувавши радикальну зміну способу проведення виборів у Райху, Німеччина зможе вічно пишатися."
   GER_gorlice_tarnow: "Горлицький прорив"
-  GER_gorlice_tarnow_desc: "With the Russians advancing deep through Galicia, its only a matter of time before they break through to the Danubian plain. If the Russian's lacklustre performance against our forces is anything to go by, driving them out shall prove easy." # (!)
+  GER_gorlice_tarnow_desc: "Оскільки росіяни просуваються вглиб Галичини, це лише питання часу, коли вони прорвуться до Дунайської рівнини. Якщо зважати на посередні успіхи росіян у боях проти наших військ, вибити їх звідти буде легко."
   GER_capture_poland: "\n§RВи мусите захопити §Y[RUS.GetFlag]російську Польщу§! раніше, ніж спливе час.§!\n"
   GER_capture_baltics: "\n§RВи мусите захопити §Y[RUS.GetFlag]російську Балтію§! раніше, ніж спливе час.§!\n"
   GER_baltics_offensive: "Балтійська офензива" # (&?)
   GER_capture_poland_desc: ""
   GER_focus_on_italian_front: "Зосередитися на італійському фронті"
-  GER_focus_on_italian_front_desc: "Despite our best efforts the front with the Italians has entered a stalemate. The Austrians have barely advanced through Venetia, while Italy holds a mere slice of Tyrol. Reinforcing this theatre could help divert Entente forces away from the Western front." # (!)
+  GER_focus_on_italian_front_desc: "Попри всі наші зусилля, фронт з італійцями зайшов у глухий кут. Австрійці ледве просунулися у Венеції, тоді як Італія утримує лише крихітний шматочок Тіролю. Посилення цього театру воєнних дій могло б допомогти відвернути сили Антанти від Західного фронту."
   GER_karfreit_offensive: "Капореттська офензива" # (&?)
-  GER_karfreit_offensive_desc: "The advance into Venetia has stalled. Luckily, we've found the perfect location for a breakthrough. Using poison gas, our forces will advance through their defences, forcing their troops into a rout." # (!)
+  GER_karfreit_offensive_desc: "Просування у Венеції зупинилося. На щастя, ми знайшли ідеальне місце для прориву. Використовуючи отруйний газ, наші сили просунуться крізь їхню оборону, змусивши їхні війська до панічної втечі."
   GER_lki_project: "Проєкт «LK I»"
   GER_lki_project_desc: "Сталеві звірі Антанти являють собою новий виклик на полі бою. Ми повинні відповісти власним проєктом. Проєкт 'Leichter Kampfwagen' розробить легкий, швидкий танк для підтримки наших штурмових загонів та відновлення імпульсу наших наступів."
   GER_invest_in_tak: "Вкластися в розробку TAK"
@@ -1795,7 +1795,7 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
   GER_secure_loyalty_of_unions: "Забезпечити вірність профспілок"
   GER_secure_loyalty_of_unions_desc: ""
   GER_restoration_of_belgium: "Відновлення Бельгії"
-  GER_restoration_of_belgium_desc: "Expanding our influence into Belgium serves little purpose. The plans for Belgium outlined in the Septemberprogramm would only serve to outrage the British in peace negotiations. If Belgian is restored as an independent state, The Entent may be more amenable to accepting demands elsewhere..." # (!)
+  GER_restoration_of_belgium_desc: "Плани щодо Бельгії, окреслені в «Вересневій програмі», лише розлютять британців під час мирних переговорів. Якщо Бельгію буде відновлено як незалежну державу, Антанта може виявитися більш поступливою щодо прийняття наших вимог в інших місцях..."
   GER_commiting_to_the_septemberprogramm: "Притриматися Вересневої програми"
   GER_commiting_to_the_septemberprogramm_desc: ""
   GER_the_enabling_act: "Закон про надзвичайні повноваження"
@@ -2253,11 +2253,11 @@ tt_question_of_alsace_lorraine: "Після питання Бельгії буд
  GER_likely_to_be_rejected: "§OЩоб ухвалити закон, вам доведеться використати §Yрішення з залучення§! за допомогою ваших §Cбалів впливу§!.§!" # (&+)
  GER_bundesrat_minigame: "\nЗапускає §Yміні-гру впливу§!. Використовуйте ваші §Cбали впливу§!, щоби схилити регіон на наш бік і таким чином §Gухвалити закон§!.\n" # (&+)
 
- GER_start_test_voting: "[DEBUG] Voting on Test Law"
- GER_make_alsace_lorraine_new_member_bundesrat: "[DEBUG] Give [28.GetName] Votes in the [GetBundesratName]"
- GER_remove_alsace_lorraine_from_bundesrat: "[DEBUG] Remove [28.GetName] Votes in the [GetBundesratName]"
+ GER_start_test_voting: "[DEBUG] Голосування за тестовий закон"
+ GER_make_alsace_lorraine_new_member_bundesrat: "[DEBUG] Надати регіону [28.GetName] голоси в [GetBundesratName]"
+ GER_remove_alsace_lorraine_from_bundesrat: "[DEBUG] Позбавити регіон [28.GetName] голосів у [GetBundesratName]"
 
- GER_schlieffen_plan_show_buffs:0 "Current War Plan" # (!)
- current_schlieffen_plan_buffs:0 "Current plan is §Y[GER_current_plan]§!, You will receive these §Gbonuses§! when it is launched:" # (!)
+ GER_schlieffen_plan_show_buffs: "Поточний воєнний план"
+ current_schlieffen_plan_buffs: "Поточний план — §Y[GER_current_plan]§!. Ви отримаєте такі §Gбонуси§! після його запуску:"
 
  GER_idea_high_seas_fleet: "Флот відкритого моря"

@@ -875,7 +875,7 @@
  CHI_expand_state_arsenals_desc:0 "Очевидно, що ми повинні розширити наші арсенали. Тих, що залишилися після пізньої династії Цін, недостатньо для живлення нашої армії."
  CHI_increase_army_influence:0 "Збільшити вплив армії"
  CHI_increase_army_influence_desc:0 "Армія Бейян повинна бути належним чином представлена в уряді, оскільки наша позиція залежить виключно від їх підтримки."
- CHI_presidential_loyalty:0 "Revised Presidential Election Law" # (!)
+ CHI_presidential_loyalty:0 "Закон про вибори президента"
  CHI_presidential_loyalty_desc:0 "Президент [CHI.GetLeader] бажає реформувати та розвивати республіку. Це відверто правда, але його підлеглі стають амбіційними та прагнуть подальшої влади. Лояльність до нашого лідера має бути забезпечена, що дозволить нам легко узгодити зв’язок армії в майбутньому. Отже, ми збираємося дати йому десятирічний термін. Він може балотуватися на переобрання і призначати президентських виборщиків, по суті, насолоджуючись президентством, подібним до імператорського, і спадковою системою."
  CHI_suppress_nationalists:0 "Придушити націоналістів"
  CHI_suppress_nationalists_desc:0 "Гоміньдан незадоволений нами; точніше, вони, схоже, вірять, що ми хочемо централізувати уряд і усунути деякі непотрібні частини адміністрації республіки. Правда це чи ні, але з цими політичними агітаторами потрібно боротися починаючи з самого видатного чоловіка."
@@ -1265,7 +1265,7 @@
  ZHC_focus_combat_readiness:0 "Бойова готовність"
  ZHC_focus_combat_readiness_desc:0 ""
  ZHC_focus_annex_fujian:0 "Додаток Фуцзянь"
- ZHC_focus_annex_fujian_desc:0 "Even though [595.OWNER.GetNameDef] has declined, there's still a warlord in Fujian Province who pretends neutrality and governs the province. We can send a general to Fujian under the pretext of curbing the southern cliques and take over command." # (!)
+ ZHC_focus_annex_fujian_desc:0 "Попри те, що [595.OWNER.GetNameDef] відхилила пропозицію, у провінції Фуцзянь усе ще залишається мілітарист, який удає нейтралітет і керує регіоном. Ми можемо відправити генерала до Фуцзяні під приводом стримування південних клік і перебрати командування на себе."
  ZHC_focus_militarist_effort:0 "Мілітаристські зусилля"
  ZHC_focus_militarist_effort_desc:0 ""
  ZHC_focus_railway_to_shanghai:0 "Залізниця до Шанхая"
@@ -1585,7 +1585,7 @@
  GRE_close_foreign_customs_office_desc:0 "МФК має представництва в кожному великому порту Греції, оподатковуючи весь імпорт і експорт. Це неприйнятна домовленість, оскільки вона підриває уряд. Усі такі податки має безпосередньо здійснювати Міністерство економіки."
  GRE_cooperate_with_the_IFC:0 "Співпраця з МФК"
  GRE_cooperate_with_the_IFC_desc:0 "Найкращий спосіб вирішити борг Hellenic — це співпрацювати з нашими кредиторами. Демонструючи нашу рішучість, готовність і здатність виплачувати наш борг, можливо, ми зможемо змусити МФК запропонувати нам певні поступки щодо графіка виплат і процентну ставку за нашим боргом."
- GRE_cooperate_with_the_IFC_tt:0 "Replace §YDebt to the I.F.C.§! with §YCooperation with the I.F.C.§!\nEffective Change:\n£factory_output_texticon  Factory Output: §G+15.00%§!\n£dockyard_output_texticon  Dockyard Output: §G+10.00%§!\n£construction_speed_milfactory_texticon  §YMilitary Factory§! construction speed: §G+15.00%§!\n£construction_speed_civfactory_texticon  §YCivilian Factory§! construction speed: §G+15.00%§!\n£consumer_goods_texticon  Consumer Goods Factories factor: §Y-10.0%§!\n\n" # (!)
+ GRE_cooperate_with_the_IFC_tt:0 "Замінює національний дух §Y«Борг перед МФК»§! на §Y«Співпраця з МФК»§!\nЕфект змін:\n£factory_output_texticon  Обсяг виробництва фабрик: §G+15.00%§!\n£dockyard_output_texticon  Обсяг виробництва верфей: §G+10.00%§!\n£construction_speed_milfactory_texticon  Швидкість будівництва §Yвійськових заводів§!: §G+15.00%§!\n£construction_speed_civfactory_texticon  Швидкість будівництва §Yцивільних фабрик§!: §G+15.00%§!\n£consumer_goods_texticon  Товари народного споживання: §Y-10.0%§!\n\n"
  GRE_absorb_the_IFC:0 "Поглинути МФК"
  GRE_absorb_the_IFC_desc:0 "МФК підпорядковуватиметься волі грецького народу. Ми не можемо дозволити лихварям мати такий вплив на нашу країну. Будуть вжиті заходи для повільної інтеграції та поглинання МФК, помістивши її безпосередньо під юрисдикцію Міністерство економіки, що дозволяє нам призначати своїх членів у комітет."
  GRE_economic_recovery:0 "Економічне відновлення"
@@ -1764,10 +1764,10 @@
  GRE_prepare_for_the_balkan_confict_desc:0 "Як колись казали стародавні: \"якщо хочеш миру, готуйся до війни.\" Еллада готова претендувати на своє право народження, ні за яких обставин ми не змарнуємо такої великої можливості. Останні приготування до Балканської війни вже тривають. Ми йдемо до перемоги!"
  GRE_declare_mobilization:0 "Оголосити мобілізацію"
  GRE_declare_mobilization_desc:0 "Наближається Балканська війна... Еллада повинна почати мобілізацію військ на лінії фронту. Маючи достатню кількість військ, ми потенційно можемо розгромити османські гарнізони в Епірі та Македонії. Двоголовий орел вирве вовку горло!"
- GRE_declare_mobilization_tt:0 "\nWill receive a §YStability§! penalty if [ROOT.GetNameDef] is not at war:\n" # (!)
+ GRE_declare_mobilization_tt:0 "\nОтримає штраф до §Yстабільності§!, якщо [ROOT.GetNameDef] не перебуває у стані війни:\n"
  GRE_fortify_the_border:0 "Укріпити кордон"
  GRE_fortify_the_border_desc:0 "Ми не повторюватимемо помилок 1897 року. Цього разу наш кордон буде належним чином укріплений і зможе відбити будь-яку контратаку ворога. Матеріали та обладнання вже транспортуються до Фессалії, щоб зміцнити наші обмежені існуючі укріплення."
- GRE_fortify_the_border_tt:0 "\nWe will get §Y1 level§! of §Yland fort§! along our border with other countries.\n" # (!)
+ GRE_fortify_the_border_tt:0 "\nМи отримаємо §Y1 рівень§! §Yсухопутного форту§! уздовж нашого кордону з іншими країнами.\n"
  GRE_motorize_the_army:0 "Моторизувати армію"
  GRE_motorize_the_army_desc:0 "Оскільки обмежений моторизований транспорт, зв’язок і матеріально-технічне забезпечення повільно інтегруються в армії Великих держав, ми повинні переконатися, що ми не відстаємо. Моторизоване обладнання буде придбано у великих держав, щоб модернізувати нашу армію."
  GRE_avenge_1897:0 "Помста 1897"
@@ -1816,7 +1816,7 @@
  GRE_negotiations_with_entente_desc:0 "Інтереси Еллади зрештою збігаються з інтересами Антанти. Венізелос упевнений у здатності Британського Лева зламати німецького Орла. Фракія та Анатолія чекають нашого звільнення. Якщо Франція та Британія погодяться на наші територіальні вимоги, ми повинні приєднатися до Велика війна на їхньому боці."
  GRE_national_schism_focus:0 "Національний розкол"
  GRE_national_schism_focus_desc:0 "Найбільшим ворогом Еллади завжди була вона сама. Лінія фронту була проведена, роялістів і лібералів на протилежних сторонах. Ймовірно, це буде найбільша внутрішня криза, з якою Еллада зіткнулася в 20-му столітті. Нехай Королівство вибирай свій шлях мудро..."
- GRE_national_schism_focus_tt:0 "This focus will be completed automatically once §YNational Schism§! occurs." # (!)
+ GRE_national_schism_focus_tt:0 "Цей фокус виконається автоматично, щойно відбудеться §Yнаціональний розкол§!."
  GRE_anatolian_territorial_concessions:0 "Анатолійські територіальні поступки"
  GRE_anatolian_territorial_concessions_desc:0 "Прибережне місто Смірна має один із найбільших портів у Середземному морі та є домом для майже 200 тисяч греків. Хоча буде важко переконати Антанту визнати наші претензії на Проузу та Атталею, місто Смірна та загальну територію навколо нього можна відносно легко продати французам і британцям."
  GRE_claim_eastern_thrace:0 "Вимагати Східну Фракію"
@@ -1945,7 +1945,7 @@
  GRE_denounce_panslavism:0 "Засудити панславізм"
  GRE_denounce_panslavism_desc:0 "Панславізм був чумою для нашої країни, коли серби та болгари претендували на територію, яка по праву належить грецькій! Росіяни також прагнуть захопити Константинополь, територію, яка їм точно не належить. Тоді ми засудимо пан- Слов'янство, щоб збільшити підтримку уряду і дозволити нам зайняти позицію проти небезпечних меншин."
  GRE_ban_the_kf:0 "Забанити Ліберальну партію"
- GRE_ban_the_kf_desc:0 "Komma Філефтерон, ліберальна партія Венізелоса, була шипою на нашому боці в день її створення. Ми повинні заборонити її, обмежити її політичну діяльність і повністю зірвати їхні плани прийти до влади."
+ GRE_ban_the_kf_desc:0 "Komma Fileleftheron, ліберальна партія Венізелоса, була шипою на нашому боці в день її створення. Ми повинні заборонити її, обмежити її політичну діяльність і повністю зірвати їхні плани прийти до влади."
  GRE_establish_absolute_monarchy:0 "Встановити абсолютну монархію"
  GRE_establish_absolute_monarchy_desc:0 "Без практичної опозиції король Константінос і його уряд можуть взяти на себе повну владу в державі, встановивши режим абсолютної монархії, який просвітить його в очах народу."
  GRE_grain_the_support_of_constantine:0 "Здобути підтримку Костянтина"
@@ -1971,13 +1971,13 @@
  GRE_fate_of_venizelos_desc:0 "Елефтеріос Венізелос був одним із найбільших зрадників в історії нашої країни, завдаючи великої шкоди стабільності та єдності нашої нації. Тепер, коли наші сили нарешті спіймали його, коли він тікав на човні до сусідньої Італії, ми вирішимо його долю. "
  GRE_venizelos_assassination_plot:0 "Змова щодо вбивства Венізелоса"
  GRE_venizelos_assassination_plot_desc:0 "Елефтеріос Венізелос завжди переслідував роялістські уряди та самого короля своїми політичними діями. Нам потрібно організувати таємну операцію, щоб убити його, і вселяти страх у кожного, хто хоче протистояти нашому правлінню."
- GRE_finish_it_on_our_terms:0 "Finish it on our Terms" # (!)
- GRE_finish_it_on_our_terms_desc:0 "Every passing day, Venizelists are getting more and more support to their side. In order to crush them before they grow more powerful, we need to strike first when they least expect." # (!)
+ GRE_finish_it_on_our_terms:0 "Завершити це на наших умовах"
+ GRE_finish_it_on_our_terms_desc:0 "З кожним днем венізелісти отримують усе більшу підтримку на свій бік. Щоб розчавити їх, поки вони не стали ще потужнішими, ми маємо вдарити першими, коли вони найменше цього очікують."
  GRE_consolidate_the_royal_dictatorship:0 "Зміцнити диктатуру"
  GRE_consolidate_the_royal_dictatorship_desc:0 "Настав час консолідувати диктатуру Метаксаса під керівництвом короля Константіноса I, який ділиться з ним широкими повноваженнями. Країна нарешті не зіткнеться з опозицією, не поділиться і нарешті охопить національну єдність!"
  GRE_persecute_the_slavic_minorities:0 "Переслідувати слов'янські меншини"
  GRE_persecute_the_slavic_minorities_desc:0 "Слов'янські меншини завжди виступали за репатріацію зі своїми сербськими та болгарськими громадянами поруч із нашими кордонами. Ми не можемо дозволити цьому статися, і нам потрібно усунути їхній опір будь-якими необхідними засобами, оскільки вони будуть безсумнівно надати підтримку ворожим слов'янським урядам."
- GRE_persecute_the_slavic_minorities_tt:0 "Effects on the §Yfollowing states§! if we §Ycontrol them§!:\n" # (!)
+ GRE_persecute_the_slavic_minorities_tt:0 "Ефекти для §Yтаких регіонів§!, якщо ми §Yконтролюємо їх§!:\n"
  GRE_exile_venizelos:0 "Вигнання Венізелоса"
  GRE_exile_venizelos_desc:0 "Вбивство Венізелоса потенційно може спровокувати заворушення серед населення та перетворити його на мученика. Краще вислати його, щоб він зник у безвісті."
  GRE_execute_venizelos:0 "Виконати Венізелоса"
@@ -2115,7 +2115,7 @@
  GRE_country_loalty_family_religion_desc:0 "Метаксас наказав собі, щоб кожен грецький громадянин сліпо дотримувався цих цінностей, щоб наша нація функціонувала належним чином. Ці цінності були вбудовані в грецьке суспільство з самого початку, і ми повинні їх пропагувати."
  GRE_revival_of_eastern_rome:0 "Відродження Східного Риму"
  GRE_revival_of_eastern_rome_desc:0 "400 років рабства скасовано, наша мета - нарешті звільнити нашу столицю від турків-варварів і відновити нашу імперію, яка була втрачена так давно."
- GRE_join_mitteleuropa:0 "Приєднатися до Mitteleuropa"
+ GRE_join_mitteleuropa:0 "Приєднатися до МіттельЄвропи"
  GRE_join_mitteleuropa_desc:0 "Об’єднання з Німеччиною та її економічною сферою лише допоможе нам економічно, позбавивши нас від чергового економічного колапсу."
  GRE_ban_strikes:0 "Заборона страйків"
  GRE_ban_strikes_desc:0 "Страйки лише принесли велику нестабільність і непродуктивність серед робочої сили. Вони повинні бути заборонені, кожен грецький робітник повинен виконувати свій обов'язок!"
@@ -2196,7 +2196,7 @@
  BUL_lone_victor_desc:0 ""
  BUL_buy_weapons:0 "Закон про свободу зброї"
  BUL_buy_weapons_desc:0 "Наша промисловість надто слабка, щоб самостійно фінансувати війну проти османів, ми повинні знайти інший спосіб отримати обладнання. Ми можемо звернутися до великих держав, щоб придбати обладнання для підготовки до боротьби проти османів."
- BUL_weapon_purchase_activated: "Weapon Purchases Activated" # (!)
+ BUL_weapon_purchase_activated: "Закупівля зброї"
 
  BUL_seek_rapprochement_with_auh:0 "Зближення з [AUS.getName]"
  BUL_seek_rapprochement_with_auh_desc:0 "Ми повинні покращити наші зв’язки з державою [AUS.getName], оскільки вони можуть бути великою силою для підтримки наших претензій на балканах. Ми запропонуємо їм економічну та військову співпрацю для підтримки наших претензій."
@@ -2204,8 +2204,8 @@
  bulgaria_focus:0 "Болгарське фокусне дерево"
  BUL_claim_adrianople:0 "Вимагати Одрін"
  BUL_claim_adrianople_desc:0 ""
- BUL_claim_nis:0 "Заявити Ніш"
- BUL_claim_nis_desc:0 "Заявити Ніш"
+ BUL_claim_nis:0 "Вимагати Ніш"
+ BUL_claim_nis_desc:0 "Вимагати Ніш"
  BUL_claim_dobruja:0 "Вимагати Добруджу"
  BUL_claim_dobruja_desc:0 "Життєво важливо, щоб ми повернули Добруджу. Тут не тільки велике болгарське населення, через нього протікає гирло Дунаю."
  BUL_claim_salonika_tt:0 "§Y[BUL.GetFlag]Болгарія§! отримає §Y[345.GetName]§! на мирній конференції. Якщо цей фокус не завершено або Греція не здасться, ми не отримаємо §Y[345.GetName]§!."
@@ -2606,7 +2606,7 @@
  RUS_build_berlin_baghdad_railway_desc:0 "По всій Європі та Азії ми побудуємо найбільшу сучасну залізничну систему. Великий проект, що з’єднає столицю Рейху з тихоокеанською перлиною Росії"
  RUS_denounce_portsmouth:0 "Денонсувати Портсмутський договір"
  RUS_denounce_portsmouth_desc:0 "Портсмутський договір був жахливим нагадуванням про нашу невдачу в російсько-японській війні 1905 року. Ми повинні розірвати цей огидний договір, який зробив нас посміховиськом Європи! Ми більше не будемо здригатися від страху, це настав час довести свою цінність!"
- RUS_dalnyi_or_war:0 "Дальний або Війна"
+ RUS_dalnyi_or_war:0 "Порт або війна"
  RUS_dalnyi_or_war_desc:0 "Японці вкрали наш порт і тому повинні його віддати. Якщо вони посміють відмовитися, ми рушимо через Ніппон!"
  RUS_safety_of_amur_road_desc:0 "Ми повинні забезпечити безпеку стратегічної Амурської дороги, щоб вона не попала в руки китайських революціонерів."
  RUS_safety_of_amur_road_tt:0 "§YМаньчжурія стане протекторатом Росії, якщо Китай розвалиться§!.\n\n"
@@ -2655,7 +2655,7 @@
  RUS_force_tsar_abdtication_desc:0 "Майбутнє Росії з цим автократом невизначене і, швидше за все, закінчиться хаосом і безладдям. Нам потрібно, щоб цей некомпетентний автократ залишив свій пост. Кересніцький займе свою посаду замість нього і буде лідером Росії."
  RUS_unity_of_entente:0 "Єдність Антанти"
  RUS_unity_of_entente_desc:0 "Щоб утримати німецьку загрозу, ми повинні зміцнити зв'язки з нашими братами по Антанті. Покращення наших відносин з Францією стане важливим кроком у встановленні нашої політичної позиції в Європі."
- RUS_rapprochement_with_kaiser:0 "Зближення з Кайзером"
+ RUS_rapprochement_with_kaiser:0 "Зближення з кайзером"
  RUS_rapprochement_with_kaiser_desc:0 "Нам більше нічого приховувати від Франції. Антанта була лише способом позбутися економічних боргів. Тепер ми хочемо відновити тісні дипломатичні зв’язки з рештою Європи."
  RUS_spirit_of_social_populism:0 "Дух народної волі"
  RUS_self_determination_of_nations:0 "Самовизначення націй"
@@ -3033,7 +3033,7 @@
  SER_ensure_french_support:0 "Забезпечити підтримку французькою мовою"
  SER_internationalist_propaganda:0 "Інтернаціоналістична пропаганда"
  SER_depose_the_king:0 "Почати перегони"
- SER_depose_the_king-desc:0 "It was the constant struggle between Obrenovic and Karadordevic Dynasties that led to Serbia stagnating. Only through a Republic shall the Yugolslav dream become reality." # (!)
+ SER_depose_the_king-desc:0 "Саме постійна боротьба між династіями Обреновичів та Карагеоргієвичів призвела до стагнації Сербії. Лише завдяки республіці югославська мрія стане реальністю."
  SER_zastarva_arms:0 "Зброя Zastarva"
  SER_has_funded_serbian_railways:0 "Фінансував Сербські залізниці"
  SER_has_fund_zastarva:0 "Фінансував Zastarva"
@@ -3929,10 +3929,10 @@
  TUR_protect_democracy_requirement:0 "§YŞevket Paşa§! зміцнив своє правління"
  TUR_french_investments_in_syria_tt:0 "§RМи втратимо ці інвестиції, якщо розпочнемо війну з Францією.§!"
  TUR_german_ottoman_arms_deal_tt:0 "Вартість кожної §Yпокупки§! німецької зброї буде зменшена вдвічі."
- TUR_france_refused_us_into_faction_tt:0 "§Y[ENT.GetName]§! has refused us into their §YFaction§!." # (!)
- TUR_france_refused_us_into_faction_tt_NOT:0 "§Y[ENT.GetName]§! has not refused us into their §YFaction§!." # (!)
- TUR_german_refused_us_into_faction_tt:0 "§YGermany§! has refused us into their §YFaction§!." # (!)
- TUR_german_refused_us_into_faction_tt_NOT:0 "§YGermany§! has not refused us into their §YFaction§!." # (!)
+ TUR_france_refused_us_into_faction_tt:0 "§Y[ENT.GetName]§! відмовила нам у вступі до свого §Yальянсу§!."
+ TUR_france_refused_us_into_faction_tt_NOT:0 "§Y[ENT.GetName]§! не відмовляла нам у вступі до свого §Yальянсу§!."
+ TUR_german_refused_us_into_faction_tt:0 "§YНімеччина§! відмовила нам у вступі до свого §Yальянсу§!."
+ TUR_german_refused_us_into_faction_tt_NOT:0 "§YНімеччина§! не відмовляла нам у вступі до свого §Yальянсу§!."
  TUR_glory_to_the_action_army:0 "Слава діючій армії"
  TUR_glory_to_the_action_army_desc:0 "Коли ісламісти почали повстання 31 березня, це була Армія дії, яка їх придушила. Армія дії довела, що є опорою нашого режиму. Слава армії дії, слава конституції."
  TUR_harbiyeli_officers:0 "Офіцери Харбієлі"
@@ -6166,7 +6166,7 @@
  FRA_aeronotique_militaire_desc:0 "Змагання на аеродромі в Реймсі дозволили нам оцінити, які літаки є найкращими для оснащення нашої армії розвідувальними засобами. Ми можемо використати цей досвід для придбання наших перших ескадрилій."
 
  FRA_aerial_bombardment_experiments:0 "Експерименти з повітряного бомбардування"
- FRA_aerial_bombardment_experiments_desc:0 "Військові провели перші випробування використання літаків для скидання вибухових вантажів з повітря. Ці експерименти, проведені з такими літаками, як Blériot XI, мали на меті оцінити точність та ефективність цього нового наступального підходу." # (!)
+ FRA_aerial_bombardment_experiments_desc:0 "Військові провели перші випробування використання літаків для скидання вибухових вантажів з повітря. Ці експерименти, проведені з такими літаками, як Blériot XI, мали на меті оцінити точність та ефективність цього нового наступального підходу."
 
  FRA_fund_pilot_schools:0 "Фінансувати школи пілотів"
  FRA_fund_pilot_schools_desc:0 "Підготовка нових пілотів є важливим кроком у створенні справжньої повітряної складової. Школи можуть бути відкриті на базі Шартру та Авора, щоб розпочати їхнє навчання."
@@ -6180,8 +6180,8 @@
  FRA_ww1_air_fortress:0 "Повітряні фортеці"
  FRA_ww1_air_fortress_desc:0 "Змагання на найпотужніший джаггернаут триває проти Boches, то збудуймо ще більші дирижаблі! Щоб досягти таких шедеврів, потрібно буде транспортувати велику кількість боєприпасів, а також значну раму."
 
- FRA_SPAD_mass_production:0 "SPAD Mass Production" # (!)
- FRA_SPAD_mass_production_desc:0 "In order to compete with German industry, France must mass produce inexpensive and reliable aircraft on a standardized line. We do not have the resources to carry out a zeppelin campaign, emphasizing our efforts on a light and numerous air force." # (!)
+ FRA_SPAD_mass_production:0 "Масове виробництво SPAD"
+ FRA_SPAD_mass_production_desc:0 "Щоб конкурувати з німецькою промисловістю, Франція повинна масово виробляти недорогі та надійні літаки на стандартизованій лінії. У нас немає ресурсів для проведення кампанії цепелінів, тому ми зосередимо наші зусилля на легких і численних військово-повітряних силах."
 
  FRA_ww1_zeppelin_focus:0 "Шпигунські дирижаблі"
  FRA_ww1_zeppelin_focus_desc:0 "Оптимізація рульового механізму Spiess Rigid Airship є хорошим кроком до жанрової досконалості. Є й інші цікаві моменти, збільшення розміру кают або надійність пристрою. Робота над цими елементами здається важливою для досягнення технологічної переваги в полі."
@@ -6505,7 +6505,7 @@
 
  FRA_the_first_carrier:0 "Перший перевізник"
  FRA_the_first_carrier_desc:0 "Розвиток авіації спонукає нас розглядати нові підходи до їх використання. Маючи корабель-підвіс, ми можемо перевозити плавучі літаки на великі відстані, а потім використовувати їх для всіх видів морських місій."
- FRA_the_first_carrier_create_seaplanes:0 "Add §Y10§! §YSeaplanes§! to stockpile if researched §Y$seaplane_equipment_1$§!." # (!)
+ FRA_the_first_carrier_create_seaplanes:0 "Додає §Y10§! §Yгідролітаків§! до запасів, якщо досліджено §Y$seaplane_equipment_1$§!."
 
  FRA_seaplane_regiments:0 "Полк гідролітаків"
  FRA_seaplane_regiments_desc:0 "Наші експерименти з використанням нашого першого проекту авіаносця пройшли добре, тепер ми повинні перейти до другого етапу. Скористаймося нашими відгуками, щоб розробити бойовий літак, здатний плавати в морі та транспортуватися кораблем."
@@ -6605,7 +6605,7 @@
  FRA_ww1_char2c_desc:0 "Щоб протистояти нещодавно розробленим німецьким танкам і підвищити ефективність руйнування фортець, французьке верховне командування запропонувало розробку спеціальної програми надважкого танка. Це буде дуже важка версія Renault FT. матиме 75-міліметрову гармату, понад 30-міліметрову броню і дві вежі, одна з яких кулеметна."
 
  FRA_ww1_char_b: "Char B"
- FRA_ww1_char_b_desc:0 "General Jean Estienne proposed the development of a 22-ton medium tank armed with a 47 mm cannon in casemate and two machine guns in a turret. This new design refers to the experience accumulated during the early part of the war, particularly with the Schneider and Peugeot tank models, which were vulnerable due to their lack of a turret." # (!)
+ FRA_ww1_char_b_desc:0 "Генерал Жан Етьєн запропонував розробити 22-тонний середній танк, озброєний 47-мм гарматою в казематі та двома кулеметами в башті. Цей новий проєкт спирається на досвід, накопичений під час початкового етапу війни, зокрема з моделями танків Шнейдера та Пежо, які були вразливими через відсутність башти."
 
  FRA_ww1_develop_morocco:0 "Розвивати Марокко"
  FRA_ww1_develop_morocco_desc:0 "Марокко — це територія, яка залишилася недорозвиненою нашою колоніальною адміністрацією. Покінчивши з протекторатом, ми можемо дати старт місцевій економіці та отримати прибутковий прибуток лише за два роки."
@@ -6719,8 +6719,8 @@
  POL_french_advisors:0 "Французькі консультанти"
  FRA_ww1_allied_mission_in_poland:0 "Союзна місія в Польщі"
  FRA_ww1_allied_mission_in_poland_desc:0 "Польща стикається з потужним супротивником, і її необхідно підтримати. Її незалежність може залежати від нашої політичної сміливості, щоб передати їм наш досвід."
- FRA_interwar_polish_alliance:0 "Польський Альянс"
- FRA_interwar_polish_alliance_desc:0 "With the collapse of the Russian Empire, new allies are needed to in case Germany becomes a threat again. who better than our longtime Polish allies?" # (!)
+ FRA_interwar_polish_alliance:0 "Польський альянс"
+ FRA_interwar_polish_alliance_desc:0 "З крахом Російської імперії потрібні нові союзники на випадок, якщо Німеччина знову стане загрозою. Хто підійде краще, ніж наші давні польські союзники?"
  FRA_interwar_washington_treaty:0 "Підписати Вашингтонський договір"
  FRA_interwar_washington_treaty_desc:0 "Щоб обмежити гонку морських озброєнь, Сполучені Штати запропонували провести конференцію для укладення договору про обмеження тоннажу лінійних кораблів, крейсерів і авіаносців."
  FRA_interwar_hydroelectric_energy:0 "Гідроелектроенергетика"
@@ -7017,7 +7017,7 @@
  NFA_a_true_democracy_desc:0 ""
  NFA_the_great_exile:0 "Велике вигнання"
  NFA_the_great_exile_desc:0 "Франція — це не місце. Ніколи не було. Це може бути Франція. Франція — це місце, де стоять наші люди."
- NFA_the_royalist_accord_of_unity:0 "The Entente Cordiale" # (!)
+ NFA_the_royalist_accord_of_unity:0 "Сердечна угода"
  NFA_the_royalist_accord_of_unity_desc:0 "Ми використаємо силу наших старих товаришів. Тому що ми всі маємо одного ворога — червоних."
  NFA_retake_france:0 "Відновити Францію"
  NFA_retake_france_desc:0 "Час настав. Ми повернемо нашу батьківщину! ЗАРАЗ АБО НІКОЛИ!"
@@ -7449,7 +7449,7 @@
  JAP_korean_revolt_desc:0 "Корейці почали повстання! Навіть з Маньчжурії озброєна група під назвою Корейська армія незалежності перетнула кордон і атакувала наші колоніальні війська. Через 14 днів наші війська будуть мобілізовані.\n\nВійна — це пекло."
  USA_USVI_desc:0 ""
  JAP_ww1_korean_infrastructure: "Розширити Чьосенську урядову залізницю"
- JAP_ww1_korean_infrastructure_desc:0 "Building more railroads on the Chōsen Peninsula would facilitate the movement of goods and people to the mainland." # (!)
+ JAP_ww1_korean_infrastructure_desc:0 "Будівництво більшої кількості залізниць на півострові Тьосен полегшить переміщення товарів і людей до метрополії."
 
  netherlands_focus:0 "Голландське фокусне дерево"
  HOL_dutch_neutrality:0 "Нідерландський нейтралітет"
@@ -7977,7 +7977,7 @@
  BRA_federal_army:0 "Федеральна армія"
  BRA_federal_army_desc:0 ""
  BRA_join_germany:0 "Приєднатися до Німеччини"
- BRA_join_germany_desc:0 "Diplomatic relations with France have remained frosty ever since the invasion of Amapa in 1895, and the Young Turk clique of officers have made headway influencing the government. This time Brazil will assert itself as a major power." # (!)
+ BRA_join_germany_desc:0 "Дипломатичні відносини з Францією залишаються прохолодними ще з часів вторгнення в Амапу в 1895 році, а офіцерська кліка «молодотурків» досягла значних успіхів у впливі на уряд. Цього разу Бразилія заявить про себе як про велику державу."
  BRA_claim_french_guiana:0 "Вимагати Французьку Гвіану"
  BRA_claim_french_guiana_desc:0 "Кордон Бразилії та Французької Гвіани завжди був спірним, що призвело до так званого питання Амапи. У 1895 році в акті відвертої агресії французи вторглися в провінцію Амапа. Хоча це вторгнення було відбито, Гвіана по праву є Бразильський."
  BRA_punish_the_revolters:0 "Покарати заколотників"
@@ -8109,7 +8109,7 @@
  BRA_aid_the_poor:0 "Допомога бідним"
  BRA_aid_the_poor_desc:0 "Бразильське населення постраждало від великого голоду під час олігархічного режиму, допомога їм є нашою відповідальністю."
  BRA_political_commissars:0 "Політичні комісари"
- BRA_political_commissars_desc:0 "To counter reactionary tendecies within the army commissars shall be part of each unit." # (!)
+ BRA_political_commissars_desc:0 "Для протидії реакційним тенденціям в армії до кожного підрозділу будуть призначені комісари."
  BRA_expand_the_mines:0 "Розширити шахти"
  BRA_expand_the_mines_desc:0 "Індустріалізація вимагає ресурсів."
  BRA_destroy_reactionists:0 "Викорінити реакціонерів"
@@ -8293,9 +8293,9 @@
  CAN_columbian_metals_desc:0 "Ми повинні використовувати багаті рідкісні метали, знайдені на заході Канади. Це розширить нашу промисловість і виробництво."
  CAN_grand_excavation:0 "Великі канадські розкопки"
  CAN_grand_excavation_desc:0 "Ми повинні вдосконалити наші методи видобутку ресурсів для значно більшої економіки."
- CAN_form_dome_mines:0 "Form Dome Mines" # (!)
+ CAN_form_dome_mines:0 "Заснувати копальню Доум"
  CAN_form_dome_mines_desc: ""
- CAN_dome_mine:0 "Dome Mine" # (!)
+ CAN_dome_mine:0 "Копальня Доум"
  CAN_oil:0 "Імперська нафта"
  CAN_oil_desc:0 "Imperial Oil хоче розширити свої потужності до Західної Канади. Це принесе прибуток Канаді та дасть нам перевагу в торгівлі нафтою."
  CAN_fuel:0 "Техаські нафтопереробні заводи"
@@ -8372,7 +8372,7 @@
  CAN_siberia:0 "Сибірський експедиційний корпус Канади"
  CAN_siberia_desc:0 "Білому руху потрібні союзники. Ми повинні допомогти їм усунути комуністичну загрозу раз і назавжди. Надішліть наші найбільш підготовлені північні дивізії."
  CAN_consc_crisis: "Закон про військову службу"
- CAN_consc_crisis_desc:0 "We need more manpower to help our allies in Europe. Let's implement a law to make more people eligible for conscription." # (!)
+ CAN_consc_crisis_desc:0 "Нам потрібно більше людських ресурсів, щоб допомогти нашим союзникам у Європі. Ухвалімо закон, який зробить більше людей придатними до призову."
  CAN_commit:0 "Взяти участь у війні"
  CAN_commit_desc:0 "Канада має взяти на себе зобов’язання вести війну зброєю, ресурсами та людьми. Запровадити призов."
  CAN_bourassa:0 "Компроміс Бураси"
@@ -10051,7 +10051,7 @@ BEL_autonomy_for_high_command_desc:0 "Генеральний штаб може �
  WHI_hello_to_brother_democracy:0 "Привіт Brother-Democracy"
  WHI_hello_to_brother_democracy_desc:0 ""
  WHI_approach_the_samurai:0 "Підійти до самурая"
- WHI_approach_the_samurai_desc:0 "Despite our distaste for the Japanese, we have no choice but to work with them if we hope to hold onto the Far East." # (!)
+ WHI_approach_the_samurai_desc:0 "Попри нашу неприязнь до японців, у нас немає іншого вибору, окрім як співпрацювати з ними, якщо ми сподіваємося втримати Далекий Схід."
  WHI_deal_with_germany:0 "Угода з Німеччиною"
  WHI_deal_with_germany_desc:0 "Взаємодія з Німеччиною за принципом «ворог мого ворога — мій друг» відкриває канал для стратегічної співпраці та ресурсів, потенційно схиляючи терези на нашу користь."
  WHI_ask_for_humanitarian_aid:0 "Попросити гуманітарну допомогу"
@@ -10501,10 +10501,10 @@ BEL_autonomy_for_high_command_desc:0 "Генеральний штаб може �
  VIN_offmap_mil:0 "Столичне обладнання"
  VIN_offmap_mil_desc:0 "Постачання гарнізонів Індокитаю вимагає постійних зусиль, які можуть бути забезпечені лише створенням виробничого ланцюга на материковій частині Франції, продукція якого потім транспортуватиметься до Азії."
 
- VIN_garde_civile_indigene:0 "Garde Civile Indigène"
+ VIN_garde_civile_indigene:0 "Тубільна цивільна гвардія"
  VIN_garde_civile_indigene_desc:0 "Після серії завоювань на початку 20-го століття французькі військові сили в Індокитаї поступово занепали. Щоб збільшити гарнізони, на регіональному рівні може бути сформована міліційна цивільна гвардія під наглядом жандармерії."
 
- VIN_surete_generale_indochinoise:0 "Sureté Generale Indochinoise"
+ VIN_surete_generale_indochinoise:0 "Генеральна інспекція Індокитаю"
  VIN_surete_generale_indochinoise_desc:0 "Місцевий націоналізм є проблемою в Індокитаї. Щоб протистояти радикальним рухам, ми повинні створити спеціальні поліцейські сили, навчені знищувати точки опору. Ця нова організація особливо впливає на розвиток в’єтнамського націоналізму."
 
  VIN_appease_the_elites:0 "Заспокоїти еліту"
@@ -10546,7 +10546,7 @@ BEL_autonomy_for_high_command_desc:0 "Генеральний штаб може �
  VIN_complete_the_western_railway:0 "Завершити Західну залізницю"
  VIN_complete_the_western_railway_desc:0 "Наші відносини з Сіамом все ще холодні, але це не завадить нам працювати на загальне благо, пропонуючи об’єднання залізниць регіону. Звичайно, буде потрібна їхня згода..."
 
- VIN_escadrille_du_tonkin:0 "Escadrille du Tonkin"
+ VIN_escadrille_du_tonkin:0 "Тонкінська ескадрилья"
  VIN_escadrille_du_tonkin_desc:0 "Перша індокитайська ескадрилья в основному спрямована на експерименти з цивільною авіацією в цьому секторі. Однак цей проект є лише фасадом для початку мілітаризації повітря над Тонкіном. Мегаполіс може легко передати обладнання для забезпечення першої лінії оборони в подія повітряного конфлікту."
 
  VIN_reopen_hanoi_university:0 "Знову відкрити Ханойський університет"
@@ -10820,5 +10820,5 @@ BEL_autonomy_for_high_command_desc:0 "Генеральний штаб може �
  FRA_berber_dahir:0 "Берберський дахір"
  FRA_berber_dahir_desc:0 "Щоб заручитися підтримкою Берберського населення півдня та півночі, нова адміністрація планує вивести їх із-під релігійної юрисдикції Шаріату, гарантуючи їм судовий розгляд за Французьким законодавством."
 
- MOR_press_for_saoura:0 "Вимогти Сауру"
+ MOR_press_for_saoura:0 "Вимагати Сауру"
  MOR_press_for_saoura_desc:0 "Для всіх сторін було б набагато вигідніше, якби Саура була передана нам, щоб ми могли належним чином керувати місцевими мусульманами!"

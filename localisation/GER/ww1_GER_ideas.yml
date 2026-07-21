@@ -1,8 +1,8 @@
 ﻿# == (*) ==
 ### ІДЕЇ ###
  GER_strategiestreit: "Strategiestreit"
- GER_strategiestreit_desc: "Since the victory in the 1871, there have been no doubts about the inevitability of an another war with France. Best minds of the German Empire, from public intellectuals and historians to military leaders have been weighing in on the Strategy Debate, trying to provide the nation with the most adequate strategy for winning the upcoming war. The Großer Generalstab has come up with a varitery of war plans, and the victory of the Fatherland depends on choosing one of them." # (!)
- GER_strategiestreit_tt: "When the §Rwar§! with §Y[FRA.getFlag][FRA.getName]§! breaks out, the §YWar Plan§! we have chosen will be executed" # (!)
+ GER_strategiestreit_desc: "Після перемоги у 1871 році ні в кого не виникало сумнівів щодо неминучості нової війни з Францією. Найкращі уми Німецької імперії — від публічних інтелектуалів та істориків до військових лідерів — долучилися до «дебатів про стратегію», намагаючись запропонувати нації найбільш відповідну стратегію для перемоги у майбутній війні. Великий Генеральний штаб розробив безліч воєнних планів, і перемога Батьківщини залежить від вибору одного з них."
+ GER_strategiestreit_tt: "Коли спалахне §Rвійна§! з §Y[FRA.getFlag][FRA.getName]§!, обраний нами §Yвоєнний план§! буде втілено в життя"
  GER_idea_victory_propaganda: "Пропаганда перемоги"
  GER_idea_victory_propaganda_desc: "Ми застосовуємо пропаганду для підтримки громадської підтримки та бойового духу під час війни." # (@)
  GER_idea_naval_arms_race: "Морська гонка озброєнь"
@@ -114,5 +114,5 @@
  GER_generic_mio_initial_trait_black_sea_fleet_designer: "Проєктувальник флоту відкритого моря"
 
 ### ГРУПИ ОБМІНУ ТЕХНОЛОГІЯМИ ###
- krupp_vickers_research_name:0 "Vickers-Krupp Joint Venture" # (!)
- krupp_vickers_research_desc:0 "Friedrich Krupp AG and Vickers Ltd. have signed a formal agreement establishing a joint industrial consortium. The venture, hailed as unprecedented, will facilitate technological cooperation, resource sharing, and coordinated research in metallurgy, heavy machinery, and naval engineering." # (!)
+ krupp_vickers_research_name: "Спільне підприємство «Віккерс-Крупп»"
+ krupp_vickers_research_desc: "Компанії «Friedrich Krupp AG» та «Vickers Ltd.» підписали офіційну угоду про створення спільного промислового консорціуму. Це підприємство, яке вже назвали безпрецедентним, сприятиме технологічній співпраці, обміну ресурсами та координованим дослідженням у галузях металургії, важкого машинобудування та морської інженерії."
