@@ -7,14 +7,16 @@
  EQ_MOD_CAT_ship_torpedo_sub_TITLE: "Торпедне відділення"
  EQ_MOD_CAT_ship_secondaries_TITLE: "Допоміжні батареї"
  EQ_MOD_CAT_ship_medium_battery_TITLE: "Середні батареї"
+ EQ_MOD_CAT_ship_light_medium_battery_TITLE: "Легкі середні батареї"
  EQ_MOD_CAT_ship_heavy_battery_TITLE: "Важкі батареї"
  EQ_MOD_CAT_ship_super_heavy_battery_TITLE: "Надважкі батареї"
  EQ_MOD_CAT_light_ship_engine_TITLE: "Двигуни есмінців"
  EQ_MOD_CAT_cruiser_ship_engine_TITLE: "Двигуни крейсерів"
+ EQ_MOD_CAT_oil_engine_TITLE:0 "Oil-Burner Engines"
+ EQ_MOD_CAT_coal_engine_TITLE:0 "Coal-fired Engines"
  EQ_MOD_CAT_heavy_ship_engine_TITLE: "Двигуни важких кораблів"
  EQ_MOD_CAT_carrier_ship_engine_TITLE: "Двигуни авіаносців"
  EQ_MOD_CAT_sub_ship_engine_TITLE: "Двигуни підводних човнів"
- EQ_MOD_CAT_ship_radar_TITLE: "Радар"
  EQ_MOD_CAT_ship_sonar_TITLE: "Сонар"
  EQ_MOD_CAT_ship_fire_control_system_TITLE: "Системи керування вогнем"
  EQ_MOD_CAT_ship_depth_charge_TITLE: "Протичовнова війна"
@@ -24,7 +26,11 @@
  fixed_ship_torpedo_slot: "Торпеди"
  EQ_MOD_CAT_ship_heavy_armor_TITLE: "Схема бронювання важких кораблів"
  EQ_MOD_CAT_ship_super_heavy_armor_TITLE: "Схема бронювання надважких кораблів"
- EQ_MOD_CAT_ship_cruiser_armor_TITLE: "Схема бронювання крейсерів"
+ EQ_MOD_CAT_ship_light_cruiser_armor_TITLE: "Схема бронювання легких крейсерів"
+ EQ_MOD_CAT_ship_armored_cruiser_armor_TITLE: "Схема бронювання броненосних крейсерів"
+ EQ_MOD_CAT_ship_protected_cruiser_armor_TITLE: "Схема бронювання захищених крейсерів"
+ EQ_MOD_CAT_ship_coastal_defense_ship_armor_TITLE: "Схема бронювання кораблів берегової оборони"
+ EQ_MOD_CAT_ship_heavy_battery_cds_TITLE: "Гармати кораблів берегової оборони"
  EQ_MOD_CAT_ship_carrier_armor_TITLE: "Бронювання палуби"
  EQ_MOD_CAT_ship_deck_space_TITLE: "Простір в ангарі"
  EQ_MOD_CAT_ship_extra_fuel_tank_TITLE: "Паливний бак"
@@ -60,9 +66,12 @@
  ship_light_battery_4: "130-мм скорострільна гармата"
  ship_light_battery_4_short: "Легка батарея IV"
  ship_light_battery_4_desc:0 "The pinnacle of light destroyer armament, often featuring twin mounts or enhanced rates of fire for superior performance."
- dp_light_battery: "105-мм гармата (висококутова)"
- dp_light_battery_short: "Висококутова легка батарея" # АЛ: гармата
- dp_light_battery_desc:0 "Light guns fitted with experimental high-angle mounts, allowing for limited engagement of aerial targets alongside surface duties."
+ ship_heavy_battery_coastal_defense_ship: "254-мм гармата"
+ ship_heavy_battery_coastal_defense_ship_short: "Важка батарея"
+ ship_heavy_battery_coastal_defense_ship_desc:0 "Mounting battleship-calibre guns on a hull the size of a cruiser provides immense firepower. However, the significant weight of this heavy armament severely compromises the vessel's speed and maneuverability."
+ ship_heavy_battery_0: "Рання 305-мм гармата"
+ ship_heavy_battery_0_short: "Рання важка батарея"
+ ship_heavy_battery_0_desc:0 "A product of the late ironclad era, these early breech-loading heavy guns offer a significant improvement in reload speed over older muzzle-loaders. While their large calibre provides excellent firepower, their rate of fire remains slow due to primitive loading mechanisms."
  ship_heavy_battery_1: "280-мм гармата"
  ship_heavy_battery_1_short: "Важка батарея I"
  #ship_heavy_battery_1_desc:1 "A set of large-caliber cannons in a heavily armored mount. A redesign of the turret allows for higher gun elevation, thus increasing the range."
@@ -78,29 +87,35 @@
  ship_super_heavy_battery_1: "460-мм гармата"
  ship_super_heavy_battery_1_short: "Надважка батарея"
  ship_super_heavy_battery_1_desc:0 "Exceptionally large naval cannons, reserved for the most ambitious battleship designs, capable of overwhelming any rival."
- ship_light_medium_battery_1: "150-мм гармата"
- ship_light_medium_battery_1_short: "Легка батарея крейсера I"
+ ship_light_medium_battery_0: "152-мм/32 казнозарядна гармата"
+ ship_light_medium_battery_0_short: "Рання батарея легкого крейсера"
+ ship_light_medium_battery_0_desc:0 "The advent of breech-loading mechanisms revolutionized naval gunnery, allowing for a much higher rate of fire. While lacking the sheer power of heavy naval guns, this medium-calibre weapon compensates with its rapid firing capability, making it deadly against smaller targets."
+ ship_light_medium_battery_1: "152-мм/45 казнозарядна гармата"
+ ship_light_medium_battery_1_short: "Батарея легкого крейсера I"
  ship_light_medium_battery_1_desc:0 "Medium-caliber guns ideal for early protected and light cruisers, balancing firepower with a moderate rate of fire."
- ship_light_medium_battery_2: "152-мм гармата"
- ship_light_medium_battery_2_short: "Легка батарея крейсера II"
+ ship_light_medium_battery_2: "152-мм/50 казнозарядна гармата"
+ ship_light_medium_battery_2_short: "Батарея легкого крейсера II"
  ship_light_medium_battery_2_desc:0 "Enhanced medium-caliber guns that became the standard for many light cruisers, offering improved performance."
- ship_light_medium_battery_3: "155-мм гармата"
- ship_light_medium_battery_3_short: "Легка батарея крейсера III"
+ ship_light_medium_battery_3: "152-мм/53 казнозарядна гармата"
+ ship_light_medium_battery_3_short: "Батарея легкого крейсера III"
  ship_light_medium_battery_3_desc:0 "Advanced light cruiser guns with higher muzzle velocity and improved rate of fire, suitable for modern engagements."
- ship_light_medium_battery_4: "155-мм самозарядна гармата"
- ship_light_medium_battery_4_short: "Легка батарея крейсера IV"
+ ship_light_medium_battery_4: "152-мм/53 самозарядна гармата"
+ ship_light_medium_battery_4_short: "Батарея легкого крейсера IV"
  ship_light_medium_battery_4_desc:0 "Cutting-edge light cruiser armament featuring auto-loading mechanisms for a dramatically increased rate of fire."
+ ship_medium_battery_0: "240-мм гармата" # To be refined
+ ship_medium_battery_0_short: "Рання батарея броненосного крейсера"
+ ship_medium_battery_0_desc: "TODO"
  ship_medium_battery_1: "190-мм гармата"
- ship_medium_battery_1_short: "Важка батарея крейсера I"
+ ship_medium_battery_1_short: "Батарея броненосного крейсера I"
  ship_medium_battery_1_desc:0 "Heavy guns serving as the main armament on armored cruisers, effective against lighter vessels but less so against battleships."
  ship_medium_battery_2: "203-мм гармата"
- ship_medium_battery_2_short: "Важка батарея крейсера II"
+ ship_medium_battery_2_short: "Батарея броненосного крейсера II"
  ship_medium_battery_2_desc:0 "Powerful heavy cruiser guns, representing a significant upgrade in firepower and range for armored cruisers."
  ship_medium_battery_3: "210-мм гармата"
- ship_medium_battery_3_short: "Важка батарея крейсера III"
+ ship_medium_battery_3_short: "Батарея броненосного крейсера III"
  ship_medium_battery_3_desc:0 "Heavy cruiser armament developed under treaty limitations or representing slightly larger calibers."
  ship_medium_battery_4: "20.3-см самозарядна гармата"
- ship_medium_battery_4_short: "Важка батарея крейсера IV"
+ ship_medium_battery_4_short: "Батарея броненосного крейсера IV"
  ship_medium_battery_4_desc:0 "Advanced heavy cruiser guns incorporating auto-loading for increased sustained firepower."
  ship_secondaries_1: "75-мм скорострільна гармата"
  ship_secondaries_1_short: "Допоміжна батарея I"
@@ -108,9 +123,6 @@
  ship_secondaries_2: "120-мм скорострільна гармата"
  ship_secondaries_2_short: "Допоміжна батарея II"
  ship_secondaries_2_desc:0 "Larger secondary guns providing more substantial defense against destroyers and light cruisers, mounted on later capital ships."
- dp_ship_secondaries: "105-мм скорострільна гармата (висококутова)"
- dp_ship_secondaries_short: "Універсальна допоміжна батарея"
- dp_ship_secondaries_desc:0 "Secondary guns in high-angle mounts capable of engaging both surface and air threats."
  ship_fire_control_system_0: "Центральний дальномір"
  ship_fire_control_system_0_short: "Система керування вогнем 0"
  #ship_fire_control_system_0_desc:0 "A central station high up in the ship's mast determines the range to the target and transmits that information to the gun mounts."
@@ -123,6 +135,9 @@
  ship_fire_control_system_3: "Електро-механічний лічильно-вирішальний прилад" # (&?)
  ship_fire_control_system_3_short: "Система керування вогнем III"
  ship_fire_control_system_3_desc:0 "This advanced electromechanical computer processes data from rangefinders and plotting tables to calculate firing solutions. By integrating basic target movement and ship's course data, we can improve our accuracy in naval engagements, particularly against moving targets at medium ranges."
+ ship_torpedo_tb:0 "2x356mm Fixed Tubes"
+ ship_torpedo_tb_short:0 "Fixed Torpedo Launcher"
+ ship_torpedo_tb_desc:0 "These early torpedo launchers are fixed to the vessel's hull and lack any traversing ability. To aim, the entire ship must be maneuvered into position, a difficult task in the heat of battle that makes scoring a hit a significant challenge."
  ship_torpedo_1: "3 x 450-мм торпедний апарат"
  ship_torpedo_1_short: "Торпедний апарат I"
  #ship_torpedo_1_desc:0 "A set of mid-sized torpedoes that can be mounted on surface warships."
@@ -153,12 +168,7 @@
  ship_anti_air_2: "20-мм зенітна батарея"
  ship_anti_air_2_short: "Зенітна батарея II"
  #ship_anti_air_2_desc:0 "A small automatic cannon throws a significantly larger shell, killing an attacking aircraft in a few hits."
- ship_anti_air_3: "37-мм зенітна батарея"
- ship_anti_air_3_short: "Зенітна батарея III"
- #ship_anti_air_3_desc:0 "Previous calibers of guns have proven too light to reliably kill an attacking airplane before they can release their ordinance. A larger shell requires a bigger gun, but has a significantly higher chance of destroying the target when they actually hit."
- ship_anti_air_4: "40-мм чотириствольна зенітна батарея"
- ship_anti_air_4_short: "Зенітна батарея IV"
- #ship_anti_air_4_desc:0 "The latest model of anti-air guns features a powered mount to be able to track fast-flying targets and an advanced director system to coordinate the fire of several gun positions against a single target."
+
  ship_mine_layer_1: "Напрямні для закладання мін"
  #ship_mine_layer_1_desc:0 "Modifications for a surface ship to carry and deploy naval mines."
  ship_mine_sweeper_1: "Обладнання для вилову мін"
@@ -191,32 +201,24 @@
  #ship_sonar_1_desc:0 "A simple set of hydrophones to track a submerged target by the sound it makes."
  ship_sonar_2: "Активний сонар"
  #ship_sonar_2_desc:0 "An active noise emitter that sends a short 'ping' into the water, then listens for the echo from a submerged submarine hull."
- ship_radar_1: "Дециметровий пошуковий радар"
- ship_radar_1_short: "Радар I"
- #ship_radar_1_desc:0 "A simple radar set that operates in the 50 cm wavelength range allows the detection of surface ships even in bad weather at a range of more than 10 kilometers."
- ship_radar_2: "Поліпшений дециметровий пошуковий радар"
- ship_radar_2_short: "Радар II"
- #ship_radar_2_desc:0 "An improved radar set working in the 30cm wavelength range can accurately measure the range and bearing of even a small ship at ranges of over 25 kilometers."
- ship_radar_3: "Сантиметровий артилерійський радар"
- ship_radar_3_short: "Радар III"
- #ship_radar_3_desc:0 "Equipped with cavity magnetrons, this radar set allows not only the detection of very small targets but even detecting the splashes of shells. This allows for true blind-fire against targets, even at night or in bad weather."
- ship_radar_4: "Вбудований радар керування вогнем"
- ship_radar_4_short: "Радар IV"
- #ship_radar_4_desc:0 "Working in the centimeter wavelength range, this radar set is fully integrated into the ships gunnery control and allows highly accurate gunfire control in all weather conditions."
  ship_extra_fuel_tank: "Додаткові паливні баки"
  #ship_extra_fuel_tank_desc:0 "Extended fuel storage allows greater operational range."
- light_ship_engine_0:0 "4,000 Shp Steam Engine"
+ light_ship_engine_0:0 "Basic Coal-Fired Steam Engine"
  light_ship_engine_0_desc:0 "Second-generation steam engine, using a double-expansion mechanism to achieve more efficient output than earlier designs of the 1850s. These early systems were primarily used on Victorian-era protected and unprotected cruisers."
- light_ship_engine_1:0 "8,000 Shp Steam Engine"
+ light_ship_engine_1:0 "Improved Coal-Fired Steam Engine"
  #light_ship_engine_1_short: "Легкий двигун I"
  light_ship_engine_1_desc:0 "High-performance Vertical Triple Expansion engines provide good speed for destroyers and torpedo boats. Reliable and common before turbines, these engines primarily use coal-fired boilers."
- light_ship_engine_2:0 "22,000 Shp Turbine"
+ light_ship_engine_1_oil:0 "Early Oil-Burner Steam Engine"
+ light_ship_engine_1_oil_desc:0 "The adoption of the oil-burner boilers provides a significant increase in power-to-weight ratio, granting our destroyer flotillas enhanced speed and operational range."
+ light_ship_engine_2:0 "Advanced Coal-Fired Steam Turbine"
  #light_ship_engine_2_short: "Легкий двигун II"
  light_ship_engine_2_desc:0 "Direct-drive steam turbines become standard for new destroyers, offering significantly higher sustained speeds than VTE. Oil fuel adoption begins, allowing for greater power output from improved boilers."
- light_ship_engine_3:0 "30,000 Shp Geared Turbine"
+ light_ship_engine_2_oil:0 "Basic Oil-Burner Steam Turbine"
+ light_ship_engine_2_oil_desc:0 "New powerful turbine refines thermal efficiency, granting destroyers exceptional agility and rapid acceleration. This provides a critical advantage in torpedo runs and anti-submarine operations, making them far more formidable flotilla vessels."
+ light_ship_engine_3:0 "Improved Oil-Burner Steam Turbine"
  #light_ship_engine_3_short: "Легкий двигун III"
  light_ship_engine_3_desc:0 "The introduction of reduction gearing allows turbines to run at more efficient speeds, boosting power output and range significantly for the same weight. Oil-fired boilers are becoming essential for realizing full performance."
- light_ship_engine_4:0 "40,000 Shp Advanced Geared Turbine"
+ light_ship_engine_4:0 "Advanced Oil-Burner Steam Turbine"
  #light_ship_engine_4_short: "Легкий двигун IV"
  light_ship_engine_4_desc:0 "Refined geared turbines operating with higher steam pressures and temperatures push destroyer speeds ever higher. Optimized layouts and oil-firing maximise power density and efficiency for demanding fleet roles."
  sub_ship_engine_1:0 "1,000 PS Engine"
@@ -231,30 +233,40 @@
  sub_ship_engine_4:0 "4,000 PS Supercharged Engine"
  #sub_ship_engine_4_short: "Двигун підводного човна IV"
  #sub_ship_engine_4_desc:1 "Advanced engines with turbochargers are able to run much faster for a brief period, either to chase targets or to recharge the batteries quicker."
- cruiser_ship_engine_0:0 "15,000 Shp Steam Engine"
+ cruiser_ship_engine_0:0 "Basic Coal-Fired Steam Engine"
  cruiser_ship_engine_0_desc:0 "Second-generation steam engine, using a double-expansion mechanism to achieve more efficient output than the earlier designs of the 1850s. These early systems were primarily used on Victorian-era protected and unprotected cruisers."
- cruiser_ship_engine_1:0 "25,000 Shp Steam Engine"
+ cruiser_ship_engine_1:0 "Improved Coal-Fired Steam Engine"
  #cruiser_ship_engine_1_short: "Двигун крейсера I"
  #cruiser_ship_engine_1_desc:0 "Powerful Vertical Triple Expansion reciprocating steam engines, typical for armoured and large protected cruisers of the era. Primarily coal-fired, these reliable engines provide moderate speeds prioritizing endurance and protection over outright pace."
- cruiser_ship_engine_2:0 "30,000 Shp Turbine"
+ cruiser_ship_engine_1_oil:0 "Early Oil-Burner Steam Engine"
+ cruiser_ship_engine_1_oil_desc:0 "Oil-Burner Steam Engine grants cruiser squadrons enhanced speed and strategic mobility, a critical advantage for fleet reconnaissance and commerce protection roles."
+ cruiser_ship_engine_2:0 "Advanced Coal-Fired Steam Turbine"
  #cruiser_ship_engine_2_short: "Двигун крейсера II"
  #cruiser_ship_engine_2_desc:0 "Direct-drive steam turbines are adopted for new light cruisers, enabling significantly higher speeds suitable for fleet duties. Some late armoured cruisers also adopt this technology. Improved boiler technology and the beginnings of oil fuel adoption increase power density."
- cruiser_ship_engine_3:0 "70,000 Shp Geared Turbine"
+ cruiser_ship_engine_2_oil:0 "Basic Oil-Burner Steam Turbine"
+ cruiser_ship_engine_2_oil_desc:0 "New turbine system with using oil as fuel offers a substantial increase in power, allowing cruisers to maintain high speeds over extended deployments."
+ cruiser_ship_engine_3:0 "Improved Oil-Burner Steam Turbine"
  #cruiser_ship_engine_3_short: "Двигун крейсера III"
  #cruiser_ship_engine_3_desc:0 "The introduction of reduction gearing allows turbines to operate much more efficiently, delivering greater power for less weight. Combined with increasingly common oil-fired boilers, this enables significantly faster light cruisers and allows large cruisers to achieve much higher speeds and possess greater endurance."
- cruiser_ship_engine_4:0 "100,000 Shp Advanced Geared Turbine"
+ cruiser_ship_engine_4:0 "Advanced Oil-Burner Steam Turbine"
  #cruiser_ship_engine_4_short: "Двигун крейсера IV"
  #cruiser_ship_engine_4_desc:0 "Highly developed geared turbines utilizing high-pressure, often superheated steam from oil-fired boilers. This advanced machinery powers the new generation of fast light cruisers and large, powerfully-armed heavy cruisers designed for very high operating speeds."
- heavy_ship_engine_1:0 "18,000 Shp Steam Engine"
+ heavy_ship_engine_0:0 "Basic Coal-Fired Steam Engine"
+ heavy_ship_engine_0_desc:0 "Triple-expansion engine provides the necessary power to propel capital ships, though its efficiency and speed are limited by the nature of coal."
+ heavy_ship_engine_1:0 "Improved Coal-Fired Steam Engine"
  #heavy_ship_engine_1_short: "Важкий двигун I"
  #heavy_ship_engine_1_desc:0 "The pinnacle of Vertical Triple Expansion reciprocating steam engine technology. Primarily coal-fired, these reliable but bulky engines power pre-dreadnought battleships where armour and armament took precedence over high speed."
- heavy_ship_engine_2:0 "45,000 Shp Turbine"
+ heavy_ship_engine_1_oil:0 "Early Oil-Burner Steam Engine"
+ heavy_ship_engine_1_oil_desc:0 "The implementation of oil-burner technology marks a critical evolution in capital ship propulsion. These powerful engines deliver the necessary output for increased battle speeds, offering a tactical advantage in fleet engagements and strategic repositioning."
+ heavy_ship_engine_2:0 "Advanced Coal-Fired Steam Turbine"
  #heavy_ship_engine_2_short: "Важкий двигун II"
  #heavy_ship_engine_2_desc:0 "Early direct-drive steam turbines revolutionize capital ship design. This significant leap in power allows for the creation of faster dreadnoughts and the first battlecruisers, capable of outrunning older VTE-powered fleets. Often relies on coal or mixed-firing boilers."
- heavy_ship_engine_3:0 "75,000 Shp High Power Turbine"
+ heavy_ship_engine_2_oil:0 "Basic Oil-Burner Steam Turbine"
+ heavy_ship_engine_2_oil_desc:0 "The introduction of oil-burner boilers and a new steam turbine provides the high power required for modern capital ships. It facilitates higher fleet speeds, a decisive factor in establishing naval dominance and battle line effectiveness."
+ heavy_ship_engine_3:0 "Improved Oil-Burner Steam Turbine"
  #heavy_ship_engine_3_short: "Важкий двигун III"
  #heavy_ship_engine_3_desc:0 "Refined turbine technology, often paired with higher-pressure boilers increasingly burning oil fuel. This allows for sustained high power output, enabling capital ships to maintain higher fleet speeds for longer durations during demanding operations."
- heavy_ship_engine_4:0 "150,000 Shp Geared Turbine"
+ heavy_ship_engine_4:0 "Advanced Oil-Burner Steam Turbine"
  #heavy_ship_engine_4_short: "Важкий двигун IV"
  #heavy_ship_engine_4_desc:0 "Highly efficient geared turbines, utilizing advanced materials and high-pressure oil-fired boilers. This machinery delivers immense power, designed to propel the latest generation of fast battleships and battlecruisers at speeds previously only attainable by cruisers."
  carrier_ship_engine_1: "Двигун 50 000 к. с. н. в."
@@ -275,71 +287,95 @@
  ship_engine_sub_aip_2_desc:0 "Нова версія незалежних від повітря систем руху, що забезпечують кращі характеристики при меншому споживанні палива." # (@!)
  ship_engine_sub_aip_3: "Високошвидкісні двигуни «Walter»"
  ship_engine_sub_aip_3_desc:0 "Ми досягли вершини того, що, на нашу думку, можна досягти за допомогою двигунів AIP. Цей двигун забезпечує чудову швидкість, одночасно зберігаючи споживання палива на прийнятному рівні." # (@!)
- ship_armor_bb_1: "200-мм пояс/40-мм палуба"
- ship_armor_bb_1_short: "Броня лінкора I"
+ # Dreadnought Armor
+ ship_armor_bb_0: "250-мм пояс/50-мм палуба"
+ ship_armor_bb_0_short: "Рання важка броня"
+ ship_armor_bb_0_desc: "TODO"
+ ship_armor_bb_1: "300-мм пояс/80-мм палуба"
+ ship_armor_bb_1_short: "Броня дредноута I"
  #ship_armor_bb_1_desc:0 "Designed to protect a ship against guns of its own caliber, this armor scheme ensures that every part of the ship is well-protected according to its usefulness."
+ ship_armor_bb_2: "350-мм пояс/100-мм палуба"
+ ship_armor_bb_2_short: "Броня дредноута II"
+ #ship_armor_bb_2_desc:0 "Featuring an inclined belt, this armor scheme is designed to protect a ship of the line against guns of its own caliber."
+ ship_armor_bb_3: "330-мм пояс/75-мм палуба"
+ ship_armor_bb_3_short: "Броня дредноута III"
+ #ship_armor_bb_3_desc:0 "A radical departure from previous armor schemes, this design creates a heavily-armored citadel at the center of the ship but sacrifices protection for other parts of the ship. It is intended to defend a ship against guns of its own caliber."
+ # Battlecruiser Armor
  ship_armor_bc_1: "150-мм пояс/25-мм палуба"
  ship_armor_bc_1_short: "Броня лінійного крейсера I"
  #ship_armor_bc_1_desc:0 "Designed to protect the ship against smaller guns, this armor scheme weighs far less to allow for higher speed."
- ship_armor_bb_2: "350-мм пояс/150-мм палуба"
- ship_armor_bb_2_short: "Броня лінкора II"
- #ship_armor_bb_2_desc:0 "Featuring an inclined belt, this armor scheme is designed to protect a ship of the line against guns of its own caliber."
  ship_armor_bc_2: "305-мм пояс/100-мм палуба"
  ship_armor_bc_2_short: "Броня лінійного крейсера II"
  #ship_armor_bc_2_desc:0 "A compromise between speed and protection, this armor scheme is designed to defend a ship against the guns of cruisers and destroyers."
- ship_armor_bb_3: "380-мм пояс/155-мм палуба"
- ship_armor_bb_3_short: "Броня лінкора III"
- #ship_armor_bb_3_desc:0 "A radical departure from previous armor schemes, this design creates a heavily-armored citadel at the center of the ship but sacrifices protection for other parts of the ship. It is intended to defend a ship against guns of its own caliber."
  ship_armor_bc_3: "330-мм пояс/130-мм палуба"
  ship_armor_bc_3_short: "Броня лінійного крейсера III"
  #ship_armor_bc_3_desc:0 "Designed with an eye towards weight limitations, this armor scheme attempts to maximize protection for the vital parts of a ship by leaving other areas exposed. This scheme is not supposed to stand up to battleship-grade weaponry for long."
+ # SHBB Armor
  ship_armor_shbb: "450-мм пояс/210-мм палуба"
  ship_armor_shbb_short: "Надважка броня"
  #ship_armor_shbb_desc:0 "The last word in armor design, this armor scheme is intended to defeat all known main battery projectiles, allowing a ship so equipped to engage and sink any other battleship in the world today."
- ship_armor_cruiser_1: "50-мм пояс/40-мм палуба"
- ship_armor_cruiser_1_short: "Броня крейсера I"
- #ship_armor_cruiser_1_desc:0 "An armor scheme intended to give a cruiser a slight edge when fighting against destroyers and other lightly-armed ships."
- ship_armor_cruiser_2: "100-мм пояс/30-мм палуба"
- ship_armor_cruiser_2_short: "Броня крейсера II"
- #ship_armor_cruiser_2_desc:0 "A heavier belt intended to allow a cruiser to engage older light cruisers and smaller ships with a good deal of protection."
- ship_armor_cruiser_3: "120-мм пояс/50-мм палуба"
- ship_armor_cruiser_3_short: "Броня крейсера III"
- #ship_armor_cruiser_3_desc:0 "Copying methods used for armoring battleships, this armor scheme is designed to keep pace with developments in armaments around the world."
- ship_armor_cruiser_4: "150-мм пояс/60-мм палуба"
- ship_armor_cruiser_4_short: "Броня крейсера IV"
- #ship_armor_cruiser_4_desc:0 "This armor scheme attempts to maximize protection over the areas absolutely needed to keep a ship afloat and in the fight, at the cost of all other areas."
+ # Armored Cruiser Armor
+ ship_armor_armored_cruiser_1: "150-мм пояс/50-мм палуба"
+ ship_armor_armored_cruiser_1_short: "Броня броненосного крейсера I"
+ ship_armor_armored_cruiser_1_desc: "TODO"
+ ship_armor_armored_cruiser_2: "150-мм пояс/60-мм палуба"
+ ship_armor_armored_cruiser_2_short: "Броня броненосного крейсера II"
+ ship_armor_armored_cruiser_2_desc: "TODO"
+ # Light Cruiser Armor
+ ship_armor_light_cruiser_1: "50-мм пояс/40-мм палуба"
+ ship_armor_light_cruiser_1_short: "Броня легкого крейсера I"
+ #ship_armor_light_cruiser_1_desc:0 "An armor scheme intended to give a cruiser a slight edge when fighting against destroyers and other lightly-armed ships."
+ ship_armor_light_cruiser_2: "100-мм пояс/30-мм палуба"
+ ship_armor_light_cruiser_2_short: "Броня легкого крейсера II"
+ #ship_armor_light_cruiser_2_desc:0 "A heavier belt intended to allow a cruiser to engage older light cruisers and smaller ships with a good deal of protection."
+ ship_armor_light_cruiser_3: "120-мм пояс/50-мм палуба"
+ ship_armor_light_cruiser_3_short: "Броня легкого крейсера III"
+ #ship_armor_light_cruiser_3_desc:0 "Copying methods used for armoring battleships, this armor scheme is designed to keep pace with developments in armaments around the world."
+ ship_armor_light_cruiser_4: "150-мм пояс/60-мм палуба"
+ ship_armor_light_cruiser_4_short: "Броня легкого крейсера IV"
+ #ship_armor_light_cruiser_4_desc:0 "This armor scheme attempts to maximize protection over the areas absolutely needed to keep a ship afloat and in the fight, at the cost of all other areas."
+ # Protected Cruiser Armor
+ ship_armor_protected_cruiser_1: "38-мм палуба"
+ ship_armor_protected_cruiser_1_short: "Броня броненосного крейсера I"
+ ship_armor_protected_cruiser_1_desc:0 "An armor philosophy protecting a ship's vitals with a curved armored deck, supplementing side protection with coal bunkers instead of a belt. As an early, experimental concept, its layout is less weight-efficient and optimized than later, more refined designs."
+ ship_armor_protected_cruiser_2: "50-мм палуба"
+ ship_armor_protected_cruiser_2_short: "Броня броненосного крейсера II"
+ ship_armor_protected_cruiser_2_desc:0 "A refinement of the protected cruiser concept based on early service experience. Through a mature and optimized layout, this armor scheme provides significantly greater protection for its given weight."
+ # CDS Armor
+ ship_armor_coastal_defense_ship: "240-мм пояс/30-мм палуба"
+ ship_armor_coastal_defense_ship_short: "Броня корабля берегової оборони"
+ ship_armor_coastal_defense_ship_desc:0 "A specialized armor scheme for coastal defense ships, featuring an exceptionally thick belt comparable to that of a battleship. This protection is intended to repel heavy fire during close-range coastal engagements."
+ # Carrier Armor
  ship_armor_carrier_deck: "90-мм палуба"
  ship_armor_carrier_deck_short: "Броня льотної палуби"
  #ship_armor_carrier_deck_desc:0 "Heavy armor plates protect the hangar spaces against hits by enemy bombers at the cost of less working space."
  SHIP_DESIGNER_MODULE_SELECTION: "Оберіть модуль"
 
- ship_light_battery_sub:0 "200mm Battery"
+ ship_light_battery_sub: "200-мм батарея"
  ship_light_battery_sub_desc:0 "A formidable deck gun of a caliber more commonly found on light cruisers."
- EQ_MOD_CAT_ship_light_battery_sub_TITLE:0 "Deck Guns"
+ EQ_MOD_CAT_ship_light_battery_sub_TITLE: "Палубні гармати"
 
  ### Nation Specific Modules
  ## Німеччина
   # Легкі батареї
   GER_ship_light_battery_1:0 "8.8cm SK L/35"
   GER_ship_light_battery_2:0 "10.5cm SK L/45" # Used on the Kolberg and Magdeburg classes
-  GER_ship_light_battery_3:0 "11cm SK L/45" # Ahistorical
-  GER_ship_light_battery_4:0 "11.5cm SK L/45" # Ahistorical
- GER_dp_light_battery: "12.7-см/45"
+
+  GER_ship_anti_air_1:0 "8.8cm Flak L/45"
+  GER_ship_anti_air_2:0 "10.5cm Flak L/45"
 
   # Легкі середні батареї
-  GER_ship_light_medium_battery_1:0 "15cm SK L/30" # Used by SMS Kaiserin Augusta, Irene class
-  GER_ship_light_medium_battery_2:0 "15cm SK L/40" # Not used, might be ahistorical
-  GER_ship_light_medium_battery_3:0 "15cm SK L/45" # Used on the Graudenz, Pillau, Wiesbaden and Königsberg classes
-  GER_ship_light_medium_battery_4:0 "15cm SK L/55" # Ahistorical
+  GER_ship_light_medium_battery_0:0 "15cm SK L/30"
+  GER_ship_light_medium_battery_1:0 "15cm SK L/40"
+  GER_ship_light_medium_battery_2:0 "15cm SK L/45"
 
   # Середні батареї
+  GER_ship_medium_battery_0:0 "24cm SK L/40"
   GER_ship_medium_battery_1:0 "21cm SK L/40"
   GER_ship_medium_battery_2:0 "21cm SK L/45"
-  # Note: Both of the following calibres did not exist, they are made up calibres if Germany did keep producing Armored Cruisers
-  GER_ship_medium_battery_3:0 "19cm SK L/45"
-  GER_ship_medium_battery_4:0 "20.5cm SK L/50"
 
   # Важкі батареї
+  GER_ship_heavy_battery_0:0 "24cm SK L/40" # Historical for Wittelsbach and Kaiser Friedrich III
   GER_ship_heavy_battery_1:0 "28cm SK L/40" # Historical for the Braunschweig and Deutschland class Pre-Dreadnoughts. Nassau class Dreadnoughts and the Von der Tann Battlecruiser used a similar caliber
   GER_ship_heavy_battery_2:0 "30.5cm SK L/50" # Historical for Helgoland, Kaiser and König class Dreadnoughts
   GER_ship_heavy_battery_3:0 "38cm SK L/45" # Historical for the Bayern class
@@ -348,29 +384,12 @@
   # Допоміжні батареї
   GER_ship_secondaries_1:0 "8.8cm SK L/45"
   GER_ship_secondaries_2:0 "15cm SK L/45"
-  GER_dp_ship_secondaries:0 "8.8cm SK L/45 (HA)" # High-Angle Mount
 
   # Підводні човни
- GER_ship_sub_snorkel_1: "Шноркель"
-
-  # Двигуни
- GER_light_ship_engine_1: "Vulcan 23 000 к. с. н. в."
-
-  # Броня дредноутів
-  GER_ship_armor_bb_1: "240-мм пояс/40-мм палуба" # Pre-Dreadnought Armor
-  GER_ship_armor_bb_2: "320-мм пояс/120-мм палуба" # Around the average Belt and Deck Armor for the first generation Dreadnoughts (Helgoland class, Kaiser class) excluding Nassau Class, which was a bit more lightly armored (notably only a 40mm Deck, but it will be represented by this Armor aswell)
- GER_ship_armor_bb_3: "350-мм пояс/130-мм палуба"
+  GER_ship_sub_snorkel_1: "Шноркель"
 
   # Броня лінійних крейсерів
-  GER_ship_armor_bc_1: "200-мм пояс/35-мм палуба" # Since the SMS Von der Tann was the first battlecruiser and she uses the second armor, this shouldn't really be used anywhere
   GER_ship_armor_bc_2: "300-мм пояс/80-мм палуба" # Historical for SMS Seydlitz, can be used for SMS Von der Tann and Moltke class battlecruisers too, as roughly same generation
-
-  # Броня броньованих крейсерів
-  GER_ship_armor_cruiser_1: "100-мм пояс/50-мм палуба" # SMS Fürst Bismarck, SMS Prinz Heinrich, Prinz Adalbert class, and the Roon class, all roughly fall in this racket
-  GER_ship_armor_cruiser_2: "150-мм пояс/60-мм палуба" # Scharnhorst class and SMS Blücher
- # Note: These are also completely made up, as no Armored Cruisers were made after the SMS Blücher
-  GER_ship_armor_cruiser_3: "140-мм пояс/80-мм палуба"
-  GER_ship_armor_cruiser_4: "150-мм пояс/100-мм палуба"
 
  ## Сполучене Королівство
   # Легкі батареї
@@ -378,11 +397,14 @@
   ENG_ship_light_battery_2:0 "QF 4\"/45 Mk IV"
   ENG_ship_light_battery_3:0 "QF 4\"/45 Mk V"
   ENG_ship_light_battery_4:0 "QF 4.7\"/45 Mk IX"
-  ENG_dp_light_battery:0 "QF 4\"/45 Mk V (HA Mount)"
+
+  # Anti Air
+  ENG_ship_anti_air_1:0 "QF HA 3\"/45 20cwt Mk I"
+  ENG_ship_anti_air_2:0 "QF HA 4\"/45 Mk V"
 
   # Важкі батареї
   ENG_ship_heavy_battery_1:0 "BL 12\"/40 Mk IX"
-  ENG_ship_heavy_battery_2:0 "BL 12\"/50 Mk XI"
+  ENG_ship_heavy_battery_2:0 "BL 13.5\"/45 Mk V"
   ENG_ship_heavy_battery_3:0 "BL 15\"/42 Mk I"
   ENG_ship_heavy_battery_4:0 "BL 16\"/45 Mk I"
 
@@ -390,21 +412,60 @@
   ENG_ship_super_heavy_battery_1:0 "BL 18\"/40 Mk I"
 
   # Легкі середні батареї
-  ENG_ship_light_medium_battery_1:0 "BL 6\"/45 Mk VII"
-  ENG_ship_light_medium_battery_2:0 "BL 6\"/45 Mk XII"
-  ENG_ship_light_medium_battery_3:0 "BL 6\"/50 Mk XIII" # Note: Used Mk XIII as placeholder for this tier, as no real innovation took place between 1914 and 1918
-  ENG_ship_light_medium_battery_4:0 "BL 6\"/50 Mk XXIII"
+  ENG_ship_light_medium_battery_0:0 "BL 6\" L/25 Mk III"
+  ENG_ship_light_medium_battery_1:0 "QF 6\" L/40 Mk I"
+  ENG_ship_light_medium_battery_2:0 "BL 6\" L/50 Mk XI"
+  ENG_ship_light_medium_battery_3:0 "BL 6\" L/45 Mk XII"
+  ENG_ship_light_medium_battery_4:0 "BL 6\" L/50 Mk XXIII"
 
   # Середні батареї
-  ENG_ship_medium_battery_1:0 "BL 9.2\"/47 Mk X"
-  ENG_ship_medium_battery_2:0 "BL 7.5\"/45 Mk VI"
-  ENG_ship_medium_battery_3:0 "BL 9.2\"/50 Mk XI" # Note: Placeholder
-  ENG_ship_medium_battery_4:0 "BL 8\"/50 Mk VIII"
+  ENG_ship_medium_battery_0:0 "BL 9.2\" Mk III"
+  ENG_ship_medium_battery_1:0 "BL 9.2\" Mk X"
+  ENG_ship_medium_battery_2:0 "BL 9.2\" Mk XI"
+  ENG_ship_medium_battery_3:0 "BL 7.5\" Mk VI"
+  ENG_ship_medium_battery_4:0 "BL 8\" Mk VIII"
 
   # Допоміжні батареї
-  ENG_ship_secondaries_1:0 "QF 4\"/40 Mk IV Secondary"
-  ENG_ship_secondaries_2:0 "BL 6\"/45 Mk VII Secondary"
-  ENG_dp_ship_secondaries:0 "QF 4\"/45 Mk XVI (HA)"
+  ENG_ship_secondaries_1:0 "BL 4\"/50 Mk VII Secondary"
+  ENG_ship_secondaries_2:0 "BL 6\"/45 Mk XII Secondary"
+
+ ## Сполучені Штати
+  # Anti Air
+  USA_ship_anti_air_1:0 "3\"/50 Mark 11 AA"
+  # Light Battery
+  USA_ship_light_battery_2:0 "4\"/50 Mark 9"
+  # Heavy Battery
+  USA_ship_heavy_battery_2:0 "12\"/45 Mark 5"
+  USA_ship_heavy_battery_3:0 "14\"/45 Mark 1"
+  # Light Medium Battery
+  USA_ship_light_medium_battery_1:0 "6\"/53 Mark 12"
+  # Secondaries
+  USA_ship_secondaries_1:0 "3\"/50 Mark 5"
+  USA_ship_secondaries_2:0 "5\"/51 Mark 7"
+  # Torpedoes
+  USA_ship_torpedo_2:0 "21-inch Torpedo Tubes"
+
+ ## Японія
+  # Light Battery
+  JAP_ship_light_battery_1:0 "Type 41 3-inch /40"
+  JAP_ship_light_battery_2:0 "QF 4.7 inch /40"
+  # Anti Air
+  JAP_ship_anti_air_1:0 "8cm/40 3rd Year Type"
+  JAP_ship_anti_air_2:0 "12cm/45 10th Year Type"
+  # Light Medium Battery
+  JAP_ship_light_medium_battery_0:0 "QF 4.7 inch /40"
+  JAP_ship_light_medium_battery_1:0 "15 cm/40 41st Year Type"
+  # Medium Battery
+  JAP_ship_medium_battery_1:0 "20.3 cm/45 Type 41"
+  JAP_ship_medium_battery_2:0 "Type 41 10-inch/45"
+  # Heavy Battery
+  JAP_ship_heavy_battery_1:0 "Type 41 12-inch/40"
+  JAP_ship_heavy_battery_2:0 "Vickers 14-inch/45"
+  JAP_ship_heavy_battery_3:0 "Vickers 14-inch/45"
+  JAP_ship_heavy_battery_4:0 "41 cm/45 3rd Year Type"
+  # Secondaries
+  JAP_ship_secondaries_1:0 "Type 41 3-inch/40"
+  JAP_ship_secondaries_2:0 "15 cm/50 41st Year Type" # yes i know they are the same as JAP_light_medium_battery_1, stupid hoi logic
 
  ## Росія
   # Легкі батареї
@@ -493,8 +554,8 @@
  ship_armor_bb_3_desc:0 "Радикальний відхід від попередніх схем броні, ця конструкція створює важкоброньовану цитадель у центрі корабля, але жертвує захистом для інших частин корабля. Він призначений для захисту корабля від гармат власного калібру."
  ship_armor_bc_3_desc:0 "Розроблена з урахуванням обмежень по вазі, ця схема броні намагається максимально захистити життєво важливі частини корабля, залишаючи інші області відкритими. Ця схема не повинна довго протистояти озброєнню класу лінкора."
  ship_armor_shbb_desc:0 "Останнє слово в дизайні броні, ця схема броні призначена для ураження всіх відомих снарядів основної батареї, даючи змогу кораблю, оснащеному такою бронею, вступити в бій і потопити будь-який інший лінкор у сучасному світі."
- ship_armor_cruiser_1_desc:0 "Схема броні, призначена для того, щоб дати крейсеру невелику перевагу в боротьбі з есмінцями та іншими легкоозброєними кораблями."
- ship_armor_cruiser_2_desc:0 "Більш важкий пояс, призначений для того, щоб крейсер міг вступати в бій зі старими легкими крейсерами і меншими кораблями з хорошим захистом."
- ship_armor_cruiser_3_desc:0 "Копіюючи методи, які використовуються для бронювання лінкорів, цю схему броні розроблено, щоб йти в ногу з розвитком озброєнь по всьому світу."
- ship_armor_cruiser_4_desc:0 "Ця схема броні намагається максимізувати захист над областями, абсолютно необхідними для підтримання корабля на плаву і в бою, за рахунок всіх інших областей."
+ ship_armor_light_cruiser_1_desc:0 "Схема броні, призначена для того, щоб дати крейсеру невелику перевагу в боротьбі з есмінцями та іншими легкоозброєними кораблями."
+ ship_armor_light_cruiser_2_desc:0 "Більш важкий пояс, призначений для того, щоб крейсер міг вступати в бій зі старими легкими крейсерами і меншими кораблями з хорошим захистом."
+ ship_armor_light_cruiser_3_desc:0 "Копіюючи методи, які використовуються для бронювання лінкорів, цю схему броні розроблено, щоб йти в ногу з розвитком озброєнь по всьому світу."
+ ship_armor_light_cruiser_4_desc:0 "Ця схема броні намагається максимізувати захист над областями, абсолютно необхідними для підтримання корабля на плаву і в бою, за рахунок всіх інших областей."
  ship_armor_carrier_deck_desc:0 "Важкі броньові плити захищають ангарні приміщення від ударів ворожих бомбардувальників за рахунок меншого робочого простору."
