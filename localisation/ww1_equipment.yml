@@ -1809,7 +1809,6 @@
  generic_mio_trait_gun_improvements:0 "Armour-piercing Solid Shots"
  generic_mio_trait_speed_improvements:0 "Engine Optimization"
  generic_mio_trait_improved_protection:0 "Internal Ventilation System"
- generic_mio_trait_modular_construction:0 "Modular Construction Design"
  generic_mio_trait_all_tank_specialization:0 "Universal Pieces"
  mio_header_armored_car_light_tank_department:0 "Armored Cars/Light Tanks"
 

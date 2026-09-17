@@ -596,9 +596,13 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_victory_of_the_peasants: "Перемога селян"
  ROM_victory_of_the_peasants_desc: "Радійте, адже з пащі поразки народ вирвав перемогу у гігантів! Настав їхній час, час пожвавити цю післявоєнну економіку, ожививши селянство! Наша робота починається сьогодні і закінчиться, коли кожен чоловік у Румунії стане королем."
  ROM_the_man_to_end_the_chaos: "Людина, яка покінчить із хаосом"
+ ROM_the_man_to_end_the_chaos_desc: "After several backroom deals with other influential politicians, one man has emerged to put an end to the government of Vaida-Voevod. That man is general Alexandru Averescu. He is seen as a good choice by king Ferdinand due to his support from various political factions and his promises to bring back moderation and stability." # (!)
  ROM_alliance_with_the_pnl: "Союз із ПНЛ"
+ ROM_alliance_with_the_pnl_desc: "While Averescu's People's Party was initially founded in opposition to the PNL, the political developments since then and their shared enmity with the PNR have allowed for the formation of a coalition between the two parties, although it's unlikely this will last for much more than a few years." # (!)
  ROM_alliance_with_the_anti_socialists: "Союз із антисоціалістами"
+ ROM_alliance_with_the_anti_socialists_desc: "While the PC may have collapsed after the war, those who still hold their positions are more than willing to ally with General Averescu, seeing him as the only man able to ensure the tide of socialism doesn't reach Romania." # (!)
  ROM_shut_down_socialist_conference: "Закриття соціалістичних конференцій"
+ ROM_shut_down_socialist_conference_desc: "The socialist revolution at our doorstep has only emboldened the socialists of the PS and several others, with them going so far as to join the Comintern. It's clear that launching a revolution is their next step, so we should crack down on them before they can attempt any such thing." # (!)
  ROM_bury_the_grudges_of_the_past: "Поховати образи минулого"
  ROM_bury_the_grudges_of_the_past_desc: "Війна навчила нас ціни внутрішніх чвар. Фракції Антанти та німців, що гризлися між собою, заважали нашим військовим зусиллям, і це був такий нищівний ефект від такої дріб’язкової речі. Досить, Румунія повинна вийти єдиною в політиці та народі."
  ROM_court_the_stereianists: "Залучення стереяністів"
@@ -608,8 +612,11 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_hold_new_elections: "Проведення нових виборів"
  ROM_hold_new_elections_desc: "Велика Румунія здійснена, але народ гнівається через втрату Західного Банату. Вибори наближаються, а чинна влада стоїть на хитких підвалинах. Опозиція активізується, тоді як прем’єр-міністр занепадає, думаючи про свої невдачі на мирних переговорах. Це хороший день для багатьох і жахливий для небагатьох."
  ROM_alliance_with_the_pcd2: "Союз із ПКД"
+ ROM_alliance_with_the_pcd2_desc: "While the PCD has survived the war, unlike the PC, they have not come out of it in good shape and now their leader, Take Ionescu, is willing to enter into an alliance with Averescu's government. They will have only a minor role in the coalition due to being dwarfed in influence by the People's Party." # (!)
  ROM_dismantle_transylvanian_councils: "Розпуск трансільванських рад"
+ ROM_dismantle_transylvanian_councils_desc: "Our new territories in Transylvania still have chaotic and diverse administrative structures and, worse than that, most of their local councils are dominated by our PNR rivals. We shall dissolve all these smaller administrations and properly incorporate Transylvania into greater Romania." # (!)
  ROM_joint_land_reform_efforts: "Спільні зусилля щодо земельної реформи"
+ ROM_joint_land_reform_efforts_desc: "While the issue of land reform caused the collapse of the PNG government mostly due to their radical proposals, not all were without merit. We shall use several of their proposals to formulate a new land reform bill that will finally end the debate that has plagued Romanian politics for more than a decade." # (!)
  ROM_nationalize_resita_enterprise: "Націоналізація машинобудівного заводу Решица"
  ROM_nationalize_resita_enterprise_desc: "Серед багатьох благ об’єднання з Трансільванією — отримання компанії Решица. Відома своєю високоякісною сталлю, вона стане ключовим активом для країни."
  ROM_stimulate_the_economy: "Стимулювання економіки"
@@ -635,7 +642,7 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_form_the_little_entente: "Формалізація Малої Антанти"
  ROM_form_the_little_entente_desc: "Формування Малої Антанти є ключовим заходом для захисту наших національних інтересів і забезпечення стабільності наших кордонів проти угорського ревізіонізму та потенційного відродження впливу Габсбургів в Австрії чи Угорщині. Об’єднавшись із Чехословаччиною, ми створимо єдиний фронт, присвячений збереженню територіальних надбань, що визначають наш післявоєнний суверенітет і забезпечують регіональний мир. Франція оголосила про підтримку нашого майбутнього альянсу, надаючи необхідні дипломатичні та безпекові гарантії. Цей союз є не лише пактом взаємної оборони, а й чіткою заявою, що ми будемо дотримуватися договорів і захищати баланс, встановлений після Великої війни, забезпечуючи нашу незалежність і стабільність у Східній Європі проти будь-яких сил, що намагаються його оскаржити."
  ROM_ally_poland: "Союз із Польщею"
- ROM_ally_poland_desc: ""
+ ROM_ally_poland_desc: "While we've already had some failed diplomatic overtures with the Polish, their surprising victory against the Soviets and the return of relative calm to Eastern Europe has given us enough breathing room to negotiate a proper treaty with them aimed at combating future Soviet aggression." # (!)
  ROM_anti_hungarian_propaganda: "Антиугорська пропаганда"
  ROM_anti_hungarian_propaganda_desc: "Наш обов’язок — протидіяти угорським спробам підірвати наш суверенітет і стабільність Східної Європи. Ми повідомимо нашому народу та західним союзникам, що угорський ревізіонізм становить явну загрозу кордонам, закріпленим Тріанонським договором. Прагнення Угорщини повернути Трансільванію є прямим викликом цілісності Великої Румунії, і ми представимо це як небезпеку не лише для нашої нації, а й для миру в усьому регіоні."
  ROM_retry_to_secure_banat: "Вимагати Західний Банат"
@@ -691,7 +698,7 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_invite_serbia_to_little_entente: "Пакт із сербами"
  ROM_invite_serbia_to_little_entente_desc: "З загрозою угорського ревізіонізму та тінню амбіцій Габсбургів, що нависають, Румунія повинна діяти швидко, щоб зберегти стабільність на Балканах. Пропонуючи пакт нашим колишнім союзникам сербам, ми робимо перший крок до створення потужного альянсу проти цих загроз. Разом ми збережемо стабільність на Балканах."
  ROM_czechoslovak_alliance: "Взаємні гарантії з [CZE.GetAdjective]"
- ROM_czechoslovak_alliance_desc: ""
+ ROM_czechoslovak_alliance_desc: "After our joint victory against the Magyars and at the urging of their foreign minister, Beneš, the Czech government is now proposing to further our cooperation by signing mutual guarantees and mutual assistance treaty against any future Hungarian aggression." # (!)
  ROM_serbian_intervention_in_hungarian_conflict: "Звернення за [SER.GetAdjective] інтервенцією"
  ROM_serbian_intervention_in_hungarian_conflict_desc: "Занурені в запеклу боротьбу з угорськими силами, Румунія тепер звертається до Сербії за терміновою підтримкою в нашій боротьбі. Угорська агресія загрожує не лише нашим кордонам, а й самій стабільності регіону. Це питання стосується не лише нас, а й їх."
  ROM_romanianize_alfold: "Румунізація [154.GetName]"
@@ -907,9 +914,9 @@ FOCUS_FILTER_ROM_LAND_REFORM: "Земельна реформа"
  ROM_improve_the_urban_life: "Покращення міського життя"
  ROM_improve_the_urban_life_desc: "Наша база переважно міська, і ми повинні служити їй. Деякі інвестиції в міську інфраструктуру мають бути достатніми."
  ROM_balkan_diplomacy: "Балканська дипломатія"
- ROM_balkan_diplomacy_desc: ""
+ ROM_balkan_diplomacy_desc: "With the end of the great war and the defeat of our greatest rival, a unique opportunity has emerged for Romania to assert itself as the greatest power in the Balkans, but before we can think of expanding our influence in the region, we have to ensure our victory in a final war against the Magyars." # (!)
  ROM_french_guarantees: "Французькі гарантії"
- ROM_french_guarantees_desc: ""
+ ROM_french_guarantees_desc: "After the war, France started to support several Eastern European nations. It is only natural that we seek to once again foster close relations with our former allies and extract from them some guarantees, especially considering our position as the bulwark of the Balkans against socialism." # (!)
 ## FOCUS_END
 
 ## -- TOOLTIPS -- ##

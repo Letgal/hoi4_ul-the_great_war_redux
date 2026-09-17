@@ -112,7 +112,6 @@
 ### AUSTRALIA ###
  AST_lord_thomas_denman:0 "Thomas Denman"
  AST_michael_considine:0 "Michael Considine"
- AST_billy_hughes:0 "Billy Hughes"
  AST_stanley_bruce:0 "Stanley Bruce"
  AST_harold_elliott:0 "Harold Elliott"
  AST_james_w_mccay:0 "James W. McCay"
@@ -250,6 +249,10 @@
  AUH_johann_ulrich_von_salis_seewis:0 "Johann Ulrich von Salis-Seewis"
  AUH_karl_kritek:0 "Karl Křitek"
  AUH_karl_tersztyanszky_von_nadas:0 "Karl Tersztyánszky von Nádas"
+ AUH_benno_stephan_von_millenkovich: "Benno Stephan von Millenkovich" # (!)
+ AUH_dragutin_prica: "Dragutin Prica" # (!)
+ AUH_georg_schariczer: "Georg Schariczer" # (!)
+ AUH_georg_schariczer_von_reny: "Georg Schariczer von Rény" #from 1911 # (!)
 
 ### AUSTRIA ###
  AUS_engelbert_dollfuss: "Енґельберт Дольфус"
@@ -1981,6 +1984,7 @@
  HUN_gyula_andrassy:0 "Gyula Andrássy Ifj."
  HUN_emmerich_hadfy_von_livno:0 "Imre Hádfy de Livnó"
  HUN_karl_tersztyanszky_von_nadas:0 "Károly Tersztyánszky de Nádas"
+ HUN_johann_karg_von_bebenburg: "János Karg von Bebenburg" # (!)
 
 ### HYDERABAD ###
  HYD_mahbub_ali_khan:0 "Mahbub Ali Khan"
@@ -2691,7 +2695,7 @@
  HOL_jacob_zacharias_stuten:0 "Jacob Stuten"
  HOL_willem_hendrik_piepers:0 "Willem Hendrik Piepers"
  HOL_willem_august_henri_doorman:0 "Willem Doorman"
- HOL_adiraan_loenard_klerk_de_reus:0 "Adriaan Klerk de Reus"
+ HOL_adriaan_loenard_klerk_de_reus:0 "Adriaan Klerk de Reus"
  HOL_prince_hendrik:0 "Hendrik van Mecklenburg-Schwerin"
  HOL_jan_wentholt:0 "Jan Wentholt"
  HOL_cornelis_lely: "Корнеліс Лелі"
@@ -3338,12 +3342,8 @@
 ### SIAM ###
  SIA_chulalongkorn:0 "Chulalongkorn"
  SIA_vajiravudh:0 "Vajiravudh"
- SIA_prajadhipok:0 "Prajadhipok"
- SIA_plaek_phibunsongkhram:0 "Plaek Phibunsongkhram"
  SIA_amoradhat_kritakara:0 "Amoradhat Kritakara"
  SIA_chakrabongse_bhuvanart:0 "Chakrabongse Bhuvanart"
- SIA_damrong_rajanubhab:0 "Damrong Rajanubhab"
- SIA_paribatra_sukhumbandhu:0 "Paribatra Sukhumbandhu"
  SIA_chirapravati_voradej:0 "Chirapravati Voradej"
  SIA_purachatra_jayakara:0 "Purachatra Jayakkara"
  SIA_phraya_manopakorn_nititada:0 "Phraya Manopakorn Nitithada"

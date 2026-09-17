@@ -1,4 +1,4 @@
-﻿# == (*) ==
+# == (*) ==
 #aat_tooltips_l_braz_por
  DEN_military_advisors_cost_big_tt: "  - £army_advisor_cost_texticon£ Вартість усіх військових радників: §G-15%§!" #Weird indentetion in order to show of the leader traits tt properly
  DEN_military_advisors_cost_small_tt: "  - £army_advisor_cost_texticon£ Вартість усіх військових радників: §G-10%§!"
@@ -37,6 +37,9 @@
  DESIGNER_COMBATWIDTH: "£combat_width_texticon£ Ширина фронту: "
  DESIGNER_MANPOWER: "£manpower_texticon£ Людські ресурси: "
  DESIGNER_TRAINING_TIME: "£training_speed_texticon£ Час тренування: "
+
+#doctrines_l_english
+ land_mastery_gain_factor_tt: "£doctrine_mod£ Множник приросту майстерності сухопутної доктрини: $RIGHT|+=%1$"
 
 #effects_l_english
  EFFECT_ADD_NATIONAL_UNITY: "£national_unity_texticon£ Приріст базової національної єдності: $VAL|+=%$."
@@ -1939,3 +1942,5 @@
  defensive_war_stability_factor_tt: " $MODIFIER_STABILITY_DEFENSIVE_WAR_FACTOR$: $RIGHT|+=%2$"
  resistance_activity_tt: " $MODIFIER_RESISTANCE_ACTIVITY_FACTOR$: $RIGHT|-=%2$"
  production_speed_industrial_complex_factor_tt: " $modifier_production_speed_industrial_complex_factor$: $RIGHT|+=%2$"
+ local_resources_factor_tt: " $MODIFIER_LOCAL_RESOURCES_FACTOR$: $RIGHT|+=%2$"
+ planning_speed_tt: " $MODIFIER_PLANNING_SPEED$: $RIGHT|+=%1$ "
