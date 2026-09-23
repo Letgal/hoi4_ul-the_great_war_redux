@@ -3326,12 +3326,12 @@
  FUJ_neutrality_DEF: "Імамат Фута-Джаллон"
  FUJ_fascism_DEF: "Імамат Фута-Джаллон"
 
- KUT: "Дар-ель-Куті"
- KUT_DEF: "Дар-ель-Куті"
+ KUT: "Дар ель-Куті"
+ KUT_DEF: "Дар ель-Куті"
  KUT_ADJ: "Кутійськ"
- KUT_neutrality_DEF: "Султанат Дар-ель-Куті"
- KUT_fascism_DEF: "Султанат Дар-ель-Куті"
- KUT_democratic_DEF: "Держава Дар-ель-Куті"
+ KUT_neutrality_DEF: "Султанат Дар ель-Куті"
+ KUT_fascism_DEF: "Султанат Дар ель-Куті"
+ KUT_democratic_DEF: "Держава Дар ель-Куті"
 
  HES: "Гессен"
  HES_DEF: "Гессен"
